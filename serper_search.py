@@ -90,6 +90,35 @@ def search_serper_urls(
     return urls
 
 
+LINKEDIN_COMPANY_PATH = "linkedin.com/company/"
+
+
+def find_linkedin_company_url(
+    company_name: str,
+    api_key: str,
+    num: int = 10,
+    date_restrict: str | None = None,
+) -> str | None:
+    """
+    Search ``{company} site:linkedin.com`` and return the first organic result URL whose
+    link contains ``linkedin.com/company/`` (checked case-insensitively), scanning up to
+    ``num`` results in order.
+    """
+    name = company_name.strip()
+    if not name:
+        return None
+    query = f"{name} site:linkedin.com"
+    items = search_serper(query, api_key, num=num, date_restrict=date_restrict, gl=None, page=1)
+    needle = LINKEDIN_COMPANY_PATH.casefold()
+    for item in items:
+        link = item.get("link") if isinstance(item.get("link"), str) else None
+        if not link:
+            continue
+        if needle in link.casefold():
+            return link
+    return None
+
+
 def search_serper_news(
     query: str,
     api_key: str,

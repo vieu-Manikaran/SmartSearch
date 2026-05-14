@@ -6,16 +6,21 @@ import csv
 import json
 import os
 import re
+import threading
 from datetime import datetime, timedelta
+from io import StringIO
 from pathlib import Path
 from typing import Iterable
 
-from flask import Flask, abort, render_template_string, request, send_from_directory
+from flask import Flask, abort, render_template_string, request, send_from_directory, url_for
 
 from config import settings
-from serper_search import search_serper
+from serper_search import find_linkedin_company_url, search_serper
 
 app = Flask(__name__)
+
+# Only one Company LinkedIn lookup at a time (Serper + CSV can be slow; avoids parallel load).
+_company_linkedin_worker_lock = threading.Lock()
 
 DEFAULT_PEOPLE = [
     "Juan Gomez-Sanchez",
@@ -99,6 +104,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
   <h2>Serper Pair Search Dashboard</h2>
+  <p><a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; upload a CSV (column <code>Company</code>) or enter one company; Serper finds each company&rsquo;s LinkedIn page.</p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
 
   <form method="post">
@@ -292,6 +298,111 @@ HTML_TEMPLATE = """
 </html>
 """
 
+COMPANY_LINKEDIN_TEMPLATE = """
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Company LinkedIn finder</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; max-width: 960px; }
+    .small { color: #666; font-size: 0.9em; }
+    label { display: block; font-weight: 600; margin-bottom: 6px; margin-top: 14px; }
+    input[type="text"], input[type="file"] { width: 100%; max-width: 480px; padding: 8px; box-sizing: border-box; }
+    button { padding: 10px 14px; cursor: pointer; margin-top: 16px; }
+    .msg { margin: 14px 0; padding: 10px; background: #f5f5f5; border: 1px solid #ddd; }
+    .warn { background: #fff8e6; border-color: #e6c200; }
+    table { border-collapse: collapse; width: 100%; margin-top: 16px; }
+    th, td { border: 1px solid #ddd; text-align: left; padding: 8px; vertical-align: top; }
+    th { background: #fafafa; }
+    tr.miss td { background: #fff8f0; }
+    .nav { margin-bottom: 20px; }
+    #client-loading { display: none; margin-top: 16px; padding: 12px 14px; background: #e8f4fc; border: 1px solid #9cc7e8; border-radius: 4px; }
+    fieldset[disabled] { opacity: 0.65; }
+    fieldset[disabled] label { color: #555; }
+  </style>
+</head>
+<body>
+  <p class="nav"><a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a></p>
+  <h2>Company LinkedIn finder</h2>
+  <p class="small">Upload a CSV with a header column named <strong>Company</strong> (one company per row), <em>or</em> enter a single company name. For each company we query Serper with the company name plus <code>site:linkedin.com</code>, scan the first 10 organic URLs, and take the first link containing <code>linkedin.com/company/</code>.</p>
+  <p class="small">Only <strong>one</strong> lookup runs on the server at a time. If another request is running, this form stays disabled until it finishes (refresh the page).</p>
+
+  {% if server_busy %}
+  <div class="msg warn"><strong>Request in progress.</strong> Another company LinkedIn lookup is running. Please wait for it to complete, then refresh this page.</div>
+  {% endif %}
+
+  <div id="client-loading" style="display: none;" aria-live="polite">
+    <strong>Loading.</strong> Searching via Serper&mdash;do not close this tab. Inputs are disabled until results return.
+  </div>
+
+  <form method="post" enctype="multipart/form-data" id="company-linkedin-form">
+    <fieldset id="company-linkedin-fieldset" {% if server_busy %}disabled{% endif %}>
+    <label for="csv_file">CSV file (optional)</label>
+    <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv">
+
+    <label for="single_company">Single company name (optional)</label>
+    <input type="text" name="single_company" id="single_company" value="{{ single_company }}" placeholder="e.g. ASML">
+
+    <div><button type="submit" id="company-linkedin-submit">Find LinkedIn URLs</button></div>
+    </fieldset>
+  </form>
+
+  <script>
+    (function () {
+      var form = document.getElementById("company-linkedin-form");
+      var loadEl = document.getElementById("client-loading");
+      var serverBusy = {{ server_busy_js }};
+      if (!form || !loadEl) return;
+      if (serverBusy) return;
+      form.addEventListener("submit", function () {
+        loadEl.style.display = "block";
+        setTimeout(function () {
+          var csv = document.getElementById("csv_file");
+          var single = document.getElementById("single_company");
+          var btn = document.getElementById("company-linkedin-submit");
+          if (csv) csv.disabled = true;
+          if (single) single.disabled = true;
+          if (btn) btn.disabled = true;
+        }, 0);
+      });
+    })();
+  </script>
+
+  {% if message %}
+  <div class="msg {% if message_warn %}warn{% endif %}">{{ message }}</div>
+  {% endif %}
+
+  {% if download_url %}
+  <p><a href="{{ download_url }}">Download results as CSV</a></p>
+  {% endif %}
+
+  {% if rows %}
+  <table>
+    <thead>
+      <tr>
+        <th>Company</th>
+        <th>Search query</th>
+        <th>LinkedIn company URL</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      <tr class="{% if not row.linkedin_url %}miss{% endif %}">
+        <td>{{ row.company }}</td>
+        <td class="small"><code>{{ row.search_query }}</code></td>
+        <td>{% if row.linkedin_url %}<a href="{{ row.linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url }}</a>{% else %}&mdash;{% endif %}</td>
+        <td>{{ row.status }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
+</body>
+</html>
+"""
+
 
 def parse_lines(raw: str) -> list[str]:
     return [line.strip() for line in raw.splitlines() if line.strip()]
@@ -446,6 +557,68 @@ def save_query_results(output_dir: Path, query: str, rows: list[dict], had_organ
     return str(file_path)
 
 
+COMPANY_LINKEDIN_OUTPUT = Path("data/company_linkedin")
+
+
+def _company_csv_column_key(fieldnames: list[str] | None) -> str | None:
+    if not fieldnames:
+        return None
+    for name in fieldnames:
+        if name and name.strip().casefold() == "company":
+            return name
+    return None
+
+
+def parse_companies_from_csv_upload(storage) -> tuple[list[str], str | None]:
+    """
+    Read uploaded CSV; require a column header ``Company`` (case-insensitive).
+    Returns (non-empty company names in row order, error_message or None).
+    """
+    if storage is None or not getattr(storage, "filename", None):
+        return [], None
+    raw = storage.read()
+    if not raw:
+        return [], "Uploaded file is empty."
+    try:
+        text = raw.decode("utf-8-sig")
+    except UnicodeDecodeError:
+        return [], "Could not decode CSV as UTF-8."
+    reader = csv.DictReader(StringIO(text))
+    if reader.fieldnames is None:
+        return [], "CSV has no header row."
+    key = _company_csv_column_key(list(reader.fieldnames))
+    if not key:
+        return [], "CSV must include a header column named Company."
+    companies: list[str] = []
+    for row in reader:
+        raw_cell = row.get(key, "")
+        cell = raw_cell.strip() if isinstance(raw_cell, str) else str(raw_cell or "").strip()
+        if cell:
+            companies.append(cell)
+    return companies, None
+
+
+def save_company_linkedin_results(rows: list[dict[str, str]]) -> str:
+    """Write one CSV under data/company_linkedin; return absolute path string."""
+    COMPANY_LINKEDIN_OUTPUT.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    file_path = COMPANY_LINKEDIN_OUTPUT / f"{timestamp}_company_linkedin.csv"
+    fieldnames = ["Company", "LinkedIn_URL", "Search_Query", "Status"]
+    with file_path.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(
+                {
+                    "Company": row["company"],
+                    "LinkedIn_URL": row.get("linkedin_url") or "",
+                    "Search_Query": row["search_query"],
+                    "Status": row["status"],
+                }
+            )
+    return str(file_path)
+
+
 def _result_sort_key(row: dict) -> tuple:
     if row.get("is_empty"):
         return (2, row.get("query", ""))
@@ -456,6 +629,19 @@ def _result_sort_key(row: dict) -> tuple:
         return (0, -dt.timestamp(), row.get("query", ""))
     except (OSError, OverflowError, ValueError):
         return (1, row.get("query", ""))
+
+
+@app.route("/download/company-linkedin/<path:filename>", methods=["GET"])
+def download_company_linkedin(filename: str):
+    output_root = Path("data/company_linkedin").resolve()
+    target_path = (output_root / filename).resolve()
+
+    if output_root not in target_path.parents and target_path != output_root:
+        abort(404)
+    if not target_path.exists() or not target_path.is_file():
+        abort(404)
+
+    return send_from_directory(output_root, filename, as_attachment=True)
 
 
 @app.route("/download/<path:filename>", methods=["GET"])
@@ -632,6 +818,103 @@ def dashboard() -> str:
         filter_people=filter_people,
         filter_accounts=filter_accounts,
         filter_queries=filter_queries,
+    )
+
+
+@app.route("/company-linkedin", methods=["GET", "POST"])
+def company_linkedin_finder() -> str:
+    single_company = ""
+    rows: list[dict[str, str]] = []
+    message = ""
+    message_warn = False
+    download_url = ""
+
+    if request.method == "POST":
+        single_company = request.form.get("single_company", "") or ""
+        upload = request.files.get("csv_file")
+        companies: list[str] = []
+        csv_err: str | None = None
+
+        if upload is not None and bool(upload.filename):
+            companies, csv_err = parse_companies_from_csv_upload(upload)
+
+        if csv_err:
+            message = csv_err
+            message_warn = True
+        elif companies:
+            pass
+        elif single_company.strip():
+            companies = [single_company.strip()]
+        else:
+            message = "Upload a CSV with a Company column, or enter one company name."
+            message_warn = True
+
+        if not message and not settings.serper_api_key:
+            message = "Missing SERPER_API_KEY in environment."
+            message_warn = True
+
+        if not message and companies:
+            acquired = _company_linkedin_worker_lock.acquire(blocking=False)
+            if not acquired:
+                message = (
+                    "Another company LinkedIn lookup is already in progress on the server. "
+                    "Please wait until it finishes, then refresh this page and try again."
+                )
+                message_warn = True
+            else:
+                try:
+                    rows_run: list[dict[str, str]] = []
+                    for name in companies:
+                        search_query = f"{name} site:linkedin.com"
+                        found_url = find_linkedin_company_url(
+                            name,
+                            settings.serper_api_key,
+                            num=10,
+                            date_restrict=None,
+                        )
+                        if found_url:
+                            rows_run.append(
+                                {
+                                    "company": name,
+                                    "search_query": search_query,
+                                    "linkedin_url": found_url,
+                                    "status": "found",
+                                }
+                            )
+                        else:
+                            rows_run.append(
+                                {
+                                    "company": name,
+                                    "search_query": search_query,
+                                    "linkedin_url": "",
+                                    "status": "no_company_page_in_top_10",
+                                }
+                            )
+                    rows = rows_run
+                    saved_path = save_company_linkedin_results(rows)
+                    download_url = url_for("download_company_linkedin", filename=Path(saved_path).name)
+                    n = len(rows)
+                    found_ct = sum(1 for r in rows if r.get("linkedin_url"))
+                    message = (
+                        f"Processed {n} compan{'ies' if n != 1 else 'y'}; "
+                        f"{found_ct} LinkedIn company URL{'s' if found_ct != 1 else ''} found in the first 10 results."
+                    )
+                    message_warn = found_ct < n
+                finally:
+                    _company_linkedin_worker_lock.release()
+
+    server_busy = _company_linkedin_worker_lock.locked()
+    server_busy_js = "true" if server_busy else "false"
+
+    return render_template_string(
+        COMPANY_LINKEDIN_TEMPLATE,
+        single_company=single_company,
+        rows=rows,
+        message=message,
+        message_warn=message_warn,
+        download_url=download_url,
+        server_busy=server_busy,
+        server_busy_js=server_busy_js,
     )
 
 
