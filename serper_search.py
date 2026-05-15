@@ -119,6 +119,36 @@ def find_linkedin_company_url(
     return None
 
 
+LINKEDIN_PERSON_PATH = "linkedin.com/in/"
+
+
+def find_linkedin_person_url(
+    person_name: str,
+    company_name: str,
+    api_key: str,
+    num: int = 10,
+    date_restrict: str | None = None,
+) -> str | None:
+    """
+    Search ``{person} {company} site:linkedin.com`` and return the first organic result URL
+    whose link contains ``linkedin.com/in/`` (case-insensitive), scanning up to ``num`` results.
+    """
+    person = person_name.strip()
+    company = company_name.strip()
+    if not person or not company:
+        return None
+    query = f"{person} {company} site:linkedin.com"
+    items = search_serper(query, api_key, num=num, date_restrict=date_restrict, gl=None, page=1)
+    needle = LINKEDIN_PERSON_PATH.casefold()
+    for item in items:
+        link = item.get("link") if isinstance(item.get("link"), str) else None
+        if not link:
+            continue
+        if needle in link.casefold():
+            return link
+    return None
+
+
 def search_serper_news(
     query: str,
     api_key: str,

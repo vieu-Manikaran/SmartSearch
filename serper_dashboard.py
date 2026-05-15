@@ -15,12 +15,13 @@ from typing import Iterable
 from flask import Flask, abort, render_template_string, request, send_from_directory, url_for
 
 from config import settings
-from serper_search import find_linkedin_company_url, search_serper
+from serper_search import find_linkedin_company_url, find_linkedin_person_url, search_serper
 
 app = Flask(__name__)
 
-# Only one Company LinkedIn lookup at a time (Serper + CSV can be slow; avoids parallel load).
+# Only one lookup at a time per finder (Serper + CSV can be slow; avoids parallel load).
 _company_linkedin_worker_lock = threading.Lock()
+_person_linkedin_worker_lock = threading.Lock()
 
 DEFAULT_PEOPLE = [
     "Juan Gomez-Sanchez",
@@ -104,7 +105,10 @@ HTML_TEMPLATE = """
 </head>
 <body>
   <h2>Serper Pair Search Dashboard</h2>
-  <p><a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; upload a CSV (column <code>Company</code>) or enter one company; Serper finds each company&rsquo;s LinkedIn page.</p>
+  <p>
+    <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page.<br>
+    <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.
+  </p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
 
   <form method="post">
@@ -323,7 +327,11 @@ COMPANY_LINKEDIN_TEMPLATE = """
   </style>
 </head>
 <body>
-  <p class="nav"><a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a></p>
+  <p class="nav">
+    <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
+  </p>
   <h2>Company LinkedIn finder</h2>
   <p class="small">Upload a CSV with a header column named <strong>Company</strong> (one company per row), <em>or</em> enter a single company name. For each company we query Serper with the company name plus <code>site:linkedin.com</code>, scan the first 10 organic URLs, and take the first link containing <code>linkedin.com/company/</code>.</p>
   <p class="small">Only <strong>one</strong> lookup runs on the server at a time. If another request is running, this form stays disabled until it finishes (refresh the page).</p>
@@ -390,6 +398,118 @@ COMPANY_LINKEDIN_TEMPLATE = """
     <tbody>
       {% for row in rows %}
       <tr class="{% if not row.linkedin_url %}miss{% endif %}">
+        <td>{{ row.company }}</td>
+        <td class="small"><code>{{ row.search_query }}</code></td>
+        <td>{% if row.linkedin_url %}<a href="{{ row.linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url }}</a>{% else %}&mdash;{% endif %}</td>
+        <td>{{ row.status }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
+</body>
+</html>
+"""
+
+PERSON_LINKEDIN_TEMPLATE = """
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Person LinkedIn finder</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; max-width: 960px; }
+    .small { color: #666; font-size: 0.9em; }
+    label { display: block; font-weight: 600; margin-bottom: 6px; margin-top: 14px; }
+    input[type="text"], input[type="file"] { width: 100%; max-width: 480px; padding: 8px; box-sizing: border-box; }
+    button { padding: 10px 14px; cursor: pointer; margin-top: 16px; }
+    .msg { margin: 14px 0; padding: 10px; background: #f5f5f5; border: 1px solid #ddd; }
+    .warn { background: #fff8e6; border-color: #e6c200; }
+    table { border-collapse: collapse; width: 100%; margin-top: 16px; }
+    th, td { border: 1px solid #ddd; text-align: left; padding: 8px; vertical-align: top; }
+    th { background: #fafafa; }
+    tr.miss td { background: #fff8f0; }
+    .nav { margin-bottom: 20px; }
+    #client-loading { display: none; margin-top: 16px; padding: 12px 14px; background: #e8f4fc; border: 1px solid #9cc7e8; border-radius: 4px; }
+    fieldset[disabled] { opacity: 0.65; }
+    fieldset[disabled] label { color: #555; }
+  </style>
+</head>
+<body>
+  <p class="nav">
+    <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a>
+  </p>
+  <h2>Person LinkedIn finder</h2>
+  <p class="small">Upload a CSV with headers <strong>Person</strong> and <strong>Company</strong> (one row per lookup), <em>or</em> enter a single person name and company. For each row we query Serper with person name, company name, and <code>site:linkedin.com</code>, scan the first 10 organic URLs, and take the first link containing <code>linkedin.com/in/</code>.</p>
+  <p class="small">Only <strong>one</strong> person lookup runs on the server at a time. If another request is running, this form stays disabled until it finishes (refresh the page).</p>
+
+  {% if server_busy %}
+  <div class="msg warn"><strong>Request in progress.</strong> Another person LinkedIn lookup is running. Please wait for it to complete, then refresh this page.</div>
+  {% endif %}
+
+  <div id="client-loading" style="display: none;" aria-live="polite">
+    <strong>Loading.</strong> Searching via Serper&mdash;do not close this tab. Inputs are disabled until results return.
+  </div>
+
+  <form method="post" enctype="multipart/form-data" id="person-linkedin-form">
+    <fieldset id="person-linkedin-fieldset" {% if server_busy %}disabled{% endif %}>
+    <label for="csv_file">CSV file (optional)</label>
+    <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv">
+
+    <label for="single_person">Person name (optional, for single lookup)</label>
+    <input type="text" name="single_person" id="single_person" value="{{ single_person }}" placeholder="e.g. Juan Gomez-Sanchez">
+
+    <label for="single_company">Company name (optional, for single lookup)</label>
+    <input type="text" name="single_company" id="single_company" value="{{ single_company }}" placeholder="e.g. Standard Chartered">
+
+    <div><button type="submit" id="person-linkedin-submit">Find LinkedIn URLs</button></div>
+    </fieldset>
+  </form>
+
+  <script>
+    (function () {
+      var form = document.getElementById("person-linkedin-form");
+      var loadEl = document.getElementById("client-loading");
+      var serverBusy = {{ server_busy_js }};
+      if (!form || !loadEl) return;
+      if (serverBusy) return;
+      form.addEventListener("submit", function () {
+        loadEl.style.display = "block";
+        setTimeout(function () {
+          ["csv_file", "single_person", "single_company", "person-linkedin-submit"].forEach(function (id) {
+            var el = document.getElementById(id);
+            if (el) el.disabled = true;
+          });
+        }, 0);
+      });
+    })();
+  </script>
+
+  {% if message %}
+  <div class="msg {% if message_warn %}warn{% endif %}">{{ message }}</div>
+  {% endif %}
+
+  {% if download_url %}
+  <p><a href="{{ download_url }}">Download results as CSV</a></p>
+  {% endif %}
+
+  {% if rows %}
+  <table>
+    <thead>
+      <tr>
+        <th>Person</th>
+        <th>Company</th>
+        <th>Search query</th>
+        <th>LinkedIn profile URL</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      <tr class="{% if not row.linkedin_url %}miss{% endif %}">
+        <td>{{ row.person }}</td>
         <td>{{ row.company }}</td>
         <td class="small"><code>{{ row.search_query }}</code></td>
         <td>{% if row.linkedin_url %}<a href="{{ row.linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url }}</a>{% else %}&mdash;{% endif %}</td>
@@ -619,6 +739,74 @@ def save_company_linkedin_results(rows: list[dict[str, str]]) -> str:
     return str(file_path)
 
 
+PERSON_LINKEDIN_OUTPUT = Path("data/person_linkedin")
+
+
+def _csv_column_key(fieldnames: list[str] | None, *aliases: str) -> str | None:
+    if not fieldnames:
+        return None
+    want = {a.casefold() for a in aliases}
+    for name in fieldnames:
+        if name and name.strip().casefold() in want:
+            return name
+    return None
+
+
+def parse_person_company_from_csv_upload(storage) -> tuple[list[tuple[str, str]], str | None]:
+    """
+    Read uploaded CSV; require ``Person`` and ``Company`` headers (case-insensitive).
+    ``Person Name`` is accepted as an alias for Person.
+    """
+    if storage is None or not getattr(storage, "filename", None):
+        return [], None
+    raw = storage.read()
+    if not raw:
+        return [], "Uploaded file is empty."
+    try:
+        text = raw.decode("utf-8-sig")
+    except UnicodeDecodeError:
+        return [], "Could not decode CSV as UTF-8."
+    reader = csv.DictReader(StringIO(text))
+    if reader.fieldnames is None:
+        return [], "CSV has no header row."
+    fields = list(reader.fieldnames)
+    person_key = _csv_column_key(fields, "person", "person name")
+    company_key = _csv_column_key(fields, "company")
+    if not person_key or not company_key:
+        return [], "CSV must include header columns named Person and Company."
+    pairs: list[tuple[str, str]] = []
+    for row in reader:
+        raw_person = row.get(person_key, "")
+        raw_company = row.get(company_key, "")
+        person = raw_person.strip() if isinstance(raw_person, str) else str(raw_person or "").strip()
+        company = raw_company.strip() if isinstance(raw_company, str) else str(raw_company or "").strip()
+        if person and company:
+            pairs.append((person, company))
+    return pairs, None
+
+
+def save_person_linkedin_results(rows: list[dict[str, str]]) -> str:
+    """Write one CSV under data/person_linkedin; return path string."""
+    PERSON_LINKEDIN_OUTPUT.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    file_path = PERSON_LINKEDIN_OUTPUT / f"{timestamp}_person_linkedin.csv"
+    fieldnames = ["Person", "Company", "LinkedIn_URL", "Search_Query", "Status"]
+    with file_path.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(
+                {
+                    "Person": row["person"],
+                    "Company": row["company"],
+                    "LinkedIn_URL": row.get("linkedin_url") or "",
+                    "Search_Query": row["search_query"],
+                    "Status": row["status"],
+                }
+            )
+    return str(file_path)
+
+
 def _result_sort_key(row: dict) -> tuple:
     if row.get("is_empty"):
         return (2, row.get("query", ""))
@@ -634,6 +822,19 @@ def _result_sort_key(row: dict) -> tuple:
 @app.route("/download/company-linkedin/<path:filename>", methods=["GET"])
 def download_company_linkedin(filename: str):
     output_root = Path("data/company_linkedin").resolve()
+    target_path = (output_root / filename).resolve()
+
+    if output_root not in target_path.parents and target_path != output_root:
+        abort(404)
+    if not target_path.exists() or not target_path.is_file():
+        abort(404)
+
+    return send_from_directory(output_root, filename, as_attachment=True)
+
+
+@app.route("/download/person-linkedin/<path:filename>", methods=["GET"])
+def download_person_linkedin(filename: str):
+    output_root = Path("data/person_linkedin").resolve()
     target_path = (output_root / filename).resolve()
 
     if output_root not in target_path.parents and target_path != output_root:
@@ -908,6 +1109,112 @@ def company_linkedin_finder() -> str:
 
     return render_template_string(
         COMPANY_LINKEDIN_TEMPLATE,
+        single_company=single_company,
+        rows=rows,
+        message=message,
+        message_warn=message_warn,
+        download_url=download_url,
+        server_busy=server_busy,
+        server_busy_js=server_busy_js,
+    )
+
+
+@app.route("/person-linkedin", methods=["GET", "POST"])
+def person_linkedin_finder() -> str:
+    single_person = ""
+    single_company = ""
+    rows: list[dict[str, str]] = []
+    message = ""
+    message_warn = False
+    download_url = ""
+
+    if request.method == "POST":
+        single_person = request.form.get("single_person", "") or ""
+        single_company = request.form.get("single_company", "") or ""
+        upload = request.files.get("csv_file")
+        pairs: list[tuple[str, str]] = []
+        csv_err: str | None = None
+
+        if upload is not None and bool(upload.filename):
+            pairs, csv_err = parse_person_company_from_csv_upload(upload)
+
+        if csv_err:
+            message = csv_err
+            message_warn = True
+        elif pairs:
+            pass
+        elif single_person.strip() and single_company.strip():
+            pairs = [(single_person.strip(), single_company.strip())]
+        elif single_person.strip() or single_company.strip():
+            message = "For a single lookup, enter both person name and company name."
+            message_warn = True
+        else:
+            message = "Upload a CSV with Person and Company columns, or enter one person and company."
+            message_warn = True
+
+        if not message and not settings.serper_api_key:
+            message = "Missing SERPER_API_KEY in environment."
+            message_warn = True
+
+        if not message and pairs:
+            acquired = _person_linkedin_worker_lock.acquire(blocking=False)
+            if not acquired:
+                message = (
+                    "Another person LinkedIn lookup is already in progress on the server. "
+                    "Please wait until it finishes, then refresh this page and try again."
+                )
+                message_warn = True
+            else:
+                try:
+                    rows_run: list[dict[str, str]] = []
+                    for person, company in pairs:
+                        search_query = f"{person} {company} site:linkedin.com"
+                        found_url = find_linkedin_person_url(
+                            person,
+                            company,
+                            settings.serper_api_key,
+                            num=10,
+                            date_restrict=None,
+                        )
+                        if found_url:
+                            rows_run.append(
+                                {
+                                    "person": person,
+                                    "company": company,
+                                    "search_query": search_query,
+                                    "linkedin_url": found_url,
+                                    "status": "found",
+                                }
+                            )
+                        else:
+                            rows_run.append(
+                                {
+                                    "person": person,
+                                    "company": company,
+                                    "search_query": search_query,
+                                    "linkedin_url": "",
+                                    "status": "no_profile_in_top_10",
+                                }
+                            )
+                    rows = rows_run
+                    saved_path = save_person_linkedin_results(rows)
+                    download_url = url_for("download_person_linkedin", filename=Path(saved_path).name)
+                    n = len(rows)
+                    found_ct = sum(1 for r in rows if r.get("linkedin_url"))
+                    message = (
+                        f"Processed {n} row{'s' if n != 1 else ''}; "
+                        f"{found_ct} LinkedIn profile URL{'s' if found_ct != 1 else ''} found in the first 10 results."
+                    )
+                    message_warn = found_ct < n
+                finally:
+                    _person_linkedin_worker_lock.release()
+
+    server_busy = _person_linkedin_worker_lock.locked()
+    server_busy_js = "true" if server_busy else "false"
+
+    return render_template_string(
+        PERSON_LINKEDIN_TEMPLATE,
+        single_person=single_person,
         single_company=single_company,
         rows=rows,
         message=message,
