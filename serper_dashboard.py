@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import csv
 import json
+import logging
 import os
 import re
 import threading
@@ -12,16 +13,29 @@ from io import StringIO
 from pathlib import Path
 from typing import Iterable
 
-from flask import Flask, abort, render_template_string, request, send_from_directory, url_for
+from flask import Flask, abort, jsonify, render_template_string, request, send_from_directory, url_for
 
 from config import settings
 from serper_search import find_linkedin_company_url, find_linkedin_person_url, search_serper
 
 app = Flask(__name__)
+logger = logging.getLogger(__name__)
 
 # Only one lookup at a time per finder (Serper + CSV can be slow; avoids parallel load).
 _company_linkedin_worker_lock = threading.Lock()
 _person_linkedin_worker_lock = threading.Lock()
+
+_company_linkedin_job: dict = {
+    "running": False,
+    "current": 0,
+    "total": 0,
+    "current_name": "",
+    "message": "",
+    "download_url": "",
+    "rows": [],
+    "error": None,
+}
+_company_job_state_lock = threading.Lock()
 
 DEFAULT_PEOPLE = [
     "Juan Gomez-Sanchez",
@@ -334,14 +348,20 @@ COMPANY_LINKEDIN_TEMPLATE = """
   </p>
   <h2>Company LinkedIn finder</h2>
   <p class="small">Upload a CSV with a header column named <strong>Company</strong> (one company per row), <em>or</em> enter a single company name. For each company we query Serper with the company name plus <code>site:linkedin.com</code>, scan the first 10 organic URLs, and take the first link containing <code>linkedin.com/company/</code>.</p>
-  <p class="small">Only <strong>one</strong> lookup runs on the server at a time. If another request is running, this form stays disabled until it finishes (refresh the page).</p>
+  <p class="small">Only <strong>one</strong> lookup runs at a time. Large CSVs run in the background; this page updates every few seconds until the download link appears.</p>
 
-  {% if server_busy %}
-  <div class="msg warn"><strong>Request in progress.</strong> Another company LinkedIn lookup is running. Please wait for it to complete, then refresh this page.</div>
+  <div id="job-progress" class="msg warn" style="{% if job_running %}display:block{% else %}display:none{% endif %}" aria-live="polite">
+    <strong>Processing your list.</strong>
+    <span id="job-progress-text">{% if job_running %}Starting&hellip; (0 / {{ job_total }}){% endif %}</span>
+    <p class="small" style="margin:8px 0 0 0;">Keep this tab open. When finished, results and a <strong>Download results as CSV</strong> link appear below automatically.</p>
+  </div>
+
+  {% if server_busy and not job_running %}
+  <div class="msg warn"><strong>Another lookup is running.</strong> Wait for it to finish, then refresh. Only one job runs at a time on the server.</div>
   {% endif %}
 
   <div id="client-loading" style="display: none;" aria-live="polite">
-    <strong>Loading.</strong> Searching via Serper&mdash;do not close this tab. Inputs are disabled until results return.
+    <strong>Starting job&hellip;</strong> Uploading your request. The progress bar above will update shortly.
   </div>
 
   <form method="post" enctype="multipart/form-data" id="company-linkedin-form">
@@ -360,19 +380,47 @@ COMPANY_LINKEDIN_TEMPLATE = """
     (function () {
       var form = document.getElementById("company-linkedin-form");
       var loadEl = document.getElementById("client-loading");
+      var progressBox = document.getElementById("job-progress");
+      var progressText = document.getElementById("job-progress-text");
       var serverBusy = {{ server_busy_js }};
+      var jobRunning = {{ job_running_js }};
+
+      function setFormDisabled(disabled) {
+        var fs = document.getElementById("company-linkedin-fieldset");
+        if (fs) fs.disabled = disabled;
+      }
+
+      function pollJobStatus() {
+        fetch("{{ url_for('company_linkedin_status') }}", { cache: "no-store" })
+          .then(function (r) { return r.json(); })
+          .then(function (data) {
+            if (data.running) {
+              if (progressBox) progressBox.style.display = "block";
+              if (progressText) {
+                var line = "Processing " + data.current + " / " + data.total;
+                if (data.current_name) line += " — " + data.current_name;
+                progressText.textContent = line;
+              }
+              setFormDisabled(true);
+              setTimeout(pollJobStatus, 2500);
+            } else {
+              window.location.reload();
+            }
+          })
+          .catch(function () { setTimeout(pollJobStatus, 4000); });
+      }
+
+      if (jobRunning || (serverBusy && progressBox)) {
+        setFormDisabled(true);
+        pollJobStatus();
+      }
+
       if (!form || !loadEl) return;
-      if (serverBusy) return;
+      if (serverBusy && !jobRunning) return;
       form.addEventListener("submit", function () {
         loadEl.style.display = "block";
-        setTimeout(function () {
-          var csv = document.getElementById("csv_file");
-          var single = document.getElementById("single_company");
-          var btn = document.getElementById("company-linkedin-submit");
-          if (csv) csv.disabled = true;
-          if (single) single.disabled = true;
-          if (btn) btn.disabled = true;
-        }, 0);
+        if (progressBox) progressBox.style.display = "block";
+        setTimeout(function () { setFormDisabled(true); }, 0);
       });
     })();
   </script>
@@ -680,6 +728,19 @@ def save_query_results(output_dir: Path, query: str, rows: list[dict], had_organ
 COMPANY_LINKEDIN_OUTPUT = Path("data/company_linkedin")
 
 
+def _decode_uploaded_csv_bytes(raw: bytes) -> tuple[str | None, str | None]:
+    """Try common encodings (Excel exports often use Windows-1252, not UTF-8)."""
+    for encoding in ("utf-8-sig", "utf-8", "cp1252", "latin-1"):
+        try:
+            return raw.decode(encoding), None
+        except UnicodeDecodeError:
+            continue
+    return None, (
+        "Could not read the uploaded file as text. Save the CSV as UTF-8 in Excel "
+        "(Save As → CSV UTF-8) or use the single-company field without a file."
+    )
+
+
 def _company_csv_column_key(fieldnames: list[str] | None) -> str | None:
     if not fieldnames:
         return None
@@ -699,10 +760,9 @@ def parse_companies_from_csv_upload(storage) -> tuple[list[str], str | None]:
     raw = storage.read()
     if not raw:
         return [], "Uploaded file is empty."
-    try:
-        text = raw.decode("utf-8-sig")
-    except UnicodeDecodeError:
-        return [], "Could not decode CSV as UTF-8."
+    text, decode_err = _decode_uploaded_csv_bytes(raw)
+    if decode_err:
+        return [], decode_err
     reader = csv.DictReader(StringIO(text))
     if reader.fieldnames is None:
         return [], "CSV has no header row."
@@ -739,6 +799,107 @@ def save_company_linkedin_results(rows: list[dict[str, str]]) -> str:
     return str(file_path)
 
 
+def _company_linkedin_job_snapshot() -> dict:
+    with _company_job_state_lock:
+        return dict(_company_linkedin_job)
+
+
+def _is_company_linkedin_job_running() -> bool:
+    with _company_job_state_lock:
+        return bool(_company_linkedin_job["running"])
+
+
+def _run_company_linkedin_job(companies: list[str], csv_note: str) -> None:
+    """Background worker: one Serper call per company, then save CSV."""
+    api_key = settings.serper_api_key or ""
+    rows_run: list[dict[str, str]] = []
+    total = len(companies)
+    logger.info("Company LinkedIn job started: %s companies", total)
+    try:
+        for idx, name in enumerate(companies, start=1):
+            with _company_job_state_lock:
+                _company_linkedin_job["current"] = idx
+                _company_linkedin_job["current_name"] = name
+            logger.info("Company LinkedIn [%s/%s] %s", idx, total, name)
+            search_query = f"{name} site:linkedin.com"
+            found_url = find_linkedin_company_url(name, api_key, num=10, date_restrict=None)
+            if found_url:
+                rows_run.append(
+                    {
+                        "company": name,
+                        "search_query": search_query,
+                        "linkedin_url": found_url,
+                        "status": "found",
+                    }
+                )
+            else:
+                rows_run.append(
+                    {
+                        "company": name,
+                        "search_query": search_query,
+                        "linkedin_url": "",
+                        "status": "no_company_page_in_top_10",
+                    }
+                )
+        saved_path = save_company_linkedin_results(rows_run)
+        download_name = Path(saved_path).name
+        n = len(rows_run)
+        found_ct = sum(1 for r in rows_run if r.get("linkedin_url"))
+        msg = (
+            f"Processed {n} compan{'ies' if n != 1 else 'y'}; "
+            f"{found_ct} LinkedIn company URL{'s' if found_ct != 1 else ''} found in the first 10 results."
+            f"{csv_note}"
+        )
+        with _company_job_state_lock:
+            _company_linkedin_job["rows"] = rows_run
+            _company_linkedin_job["download_url"] = f"/download/company-linkedin/{download_name}"
+            _company_linkedin_job["message"] = msg
+        logger.info("Company LinkedIn job finished: %s/%s found, file=%s", found_ct, n, download_name)
+    except Exception as exc:
+        logger.exception("Company LinkedIn job failed")
+        with _company_job_state_lock:
+            _company_linkedin_job["error"] = str(exc)
+            _company_linkedin_job["message"] = f"Job failed: {exc}"
+    finally:
+        with _company_job_state_lock:
+            _company_linkedin_job["running"] = False
+            _company_linkedin_job["current_name"] = ""
+        _company_linkedin_worker_lock.release()
+        logger.info("Company LinkedIn job lock released")
+
+
+def _start_company_linkedin_job(companies: list[str], csv_note: str) -> tuple[bool, str | None]:
+    """Start background job if idle. Returns (started, error_message)."""
+    if not _company_linkedin_worker_lock.acquire(blocking=False):
+        return False, (
+            "Another company LinkedIn lookup is already in progress. "
+            "Wait for the progress bar to finish, or refresh this page in a minute."
+        )
+    with _company_job_state_lock:
+        if _company_linkedin_job["running"]:
+            _company_linkedin_worker_lock.release()
+            return False, "A company LinkedIn job is already running on this server."
+        _company_linkedin_job.update(
+            running=True,
+            current=0,
+            total=len(companies),
+            current_name="",
+            message="",
+            download_url="",
+            rows=[],
+            error=None,
+        )
+    thread = threading.Thread(
+        target=_run_company_linkedin_job,
+        args=(companies, csv_note),
+        daemon=True,
+        name="company-linkedin-job",
+    )
+    thread.start()
+    logger.info("Company LinkedIn background thread started (%s companies)", len(companies))
+    return True, None
+
+
 PERSON_LINKEDIN_OUTPUT = Path("data/person_linkedin")
 
 
@@ -762,10 +923,9 @@ def parse_person_company_from_csv_upload(storage) -> tuple[list[tuple[str, str]]
     raw = storage.read()
     if not raw:
         return [], "Uploaded file is empty."
-    try:
-        text = raw.decode("utf-8-sig")
-    except UnicodeDecodeError:
-        return [], "Could not decode CSV as UTF-8."
+    text, decode_err = _decode_uploaded_csv_bytes(raw)
+    if decode_err:
+        return [], decode_err
     reader = csv.DictReader(StringIO(text))
     if reader.fieldnames is None:
         return [], "CSV has no header row."
@@ -1022,6 +1182,22 @@ def dashboard() -> str:
     )
 
 
+@app.route("/company-linkedin/status", methods=["GET"])
+def company_linkedin_status():
+    snap = _company_linkedin_job_snapshot()
+    return jsonify(
+        {
+            "running": snap["running"],
+            "current": snap["current"],
+            "total": snap["total"],
+            "current_name": snap.get("current_name") or "",
+            "message": snap.get("message") or "",
+            "download_url": snap.get("download_url") or "",
+            "error": snap.get("error"),
+        }
+    )
+
+
 @app.route("/company-linkedin", methods=["GET", "POST"])
 def company_linkedin_finder() -> str:
     single_company = ""
@@ -1029,23 +1205,46 @@ def company_linkedin_finder() -> str:
     message = ""
     message_warn = False
     download_url = ""
+    job_running = _is_company_linkedin_job_running()
+    job_total = 0
 
-    if request.method == "POST":
+    snap = _company_linkedin_job_snapshot()
+    if not job_running and snap.get("message"):
+        message = snap["message"]
+        rows = snap.get("rows") or []
+        if snap.get("download_url"):
+            download_url = snap["download_url"]
+        if snap.get("error"):
+            message_warn = True
+        elif rows and sum(1 for r in rows if r.get("linkedin_url")) < len(rows):
+            message_warn = True
+
+    if request.method == "POST" and job_running:
+        message = (
+            "A company LinkedIn lookup is already running. "
+            "Watch the progress bar above; this page will reload when it finishes."
+        )
+        message_warn = True
+    elif request.method == "POST" and not job_running:
         single_company = request.form.get("single_company", "") or ""
         upload = request.files.get("csv_file")
         companies: list[str] = []
         csv_err: str | None = None
 
+        csv_note = ""
         if upload is not None and bool(upload.filename):
             companies, csv_err = parse_companies_from_csv_upload(upload)
 
-        if csv_err:
-            message = csv_err
-            message_warn = True
-        elif companies:
+        if companies:
             pass
         elif single_company.strip():
             companies = [single_company.strip()]
+            if csv_err:
+                csv_note = f" Uploaded CSV was ignored ({csv_err.rstrip('.')})."
+                message_warn = True
+        elif csv_err:
+            message = csv_err
+            message_warn = True
         else:
             message = "Upload a CSV with a Company column, or enter one company name."
             message_warn = True
@@ -1055,57 +1254,24 @@ def company_linkedin_finder() -> str:
             message_warn = True
 
         if not message and companies:
-            acquired = _company_linkedin_worker_lock.acquire(blocking=False)
-            if not acquired:
-                message = (
-                    "Another company LinkedIn lookup is already in progress on the server. "
-                    "Please wait until it finishes, then refresh this page and try again."
-                )
+            started, start_err = _start_company_linkedin_job(companies, csv_note)
+            if not started:
+                message = start_err or "Could not start job."
                 message_warn = True
             else:
-                try:
-                    rows_run: list[dict[str, str]] = []
-                    for name in companies:
-                        search_query = f"{name} site:linkedin.com"
-                        found_url = find_linkedin_company_url(
-                            name,
-                            settings.serper_api_key,
-                            num=10,
-                            date_restrict=None,
-                        )
-                        if found_url:
-                            rows_run.append(
-                                {
-                                    "company": name,
-                                    "search_query": search_query,
-                                    "linkedin_url": found_url,
-                                    "status": "found",
-                                }
-                            )
-                        else:
-                            rows_run.append(
-                                {
-                                    "company": name,
-                                    "search_query": search_query,
-                                    "linkedin_url": "",
-                                    "status": "no_company_page_in_top_10",
-                                }
-                            )
-                    rows = rows_run
-                    saved_path = save_company_linkedin_results(rows)
-                    download_url = url_for("download_company_linkedin", filename=Path(saved_path).name)
-                    n = len(rows)
-                    found_ct = sum(1 for r in rows if r.get("linkedin_url"))
-                    message = (
-                        f"Processed {n} compan{'ies' if n != 1 else 'y'}; "
-                        f"{found_ct} LinkedIn company URL{'s' if found_ct != 1 else ''} found in the first 10 results."
-                    )
-                    message_warn = found_ct < n
-                finally:
-                    _company_linkedin_worker_lock.release()
+                job_running = True
+                job_total = len(companies)
+                message = f"Started lookup for {len(companies)} compan{'ies' if len(companies) != 1 else 'y'}. See progress above."
+                rows = []
+                download_url = ""
 
-    server_busy = _company_linkedin_worker_lock.locked()
+    if job_running:
+        snap = _company_linkedin_job_snapshot()
+        job_total = snap.get("total") or job_total
+
+    server_busy = job_running or _company_linkedin_worker_lock.locked()
     server_busy_js = "true" if server_busy else "false"
+    job_running_js = "true" if job_running else "false"
 
     return render_template_string(
         COMPANY_LINKEDIN_TEMPLATE,
@@ -1116,6 +1282,9 @@ def company_linkedin_finder() -> str:
         download_url=download_url,
         server_busy=server_busy,
         server_busy_js=server_busy_js,
+        job_running=job_running,
+        job_running_js=job_running_js,
+        job_total=job_total,
     )
 
 
@@ -1135,18 +1304,22 @@ def person_linkedin_finder() -> str:
         pairs: list[tuple[str, str]] = []
         csv_err: str | None = None
 
+        csv_note = ""
         if upload is not None and bool(upload.filename):
             pairs, csv_err = parse_person_company_from_csv_upload(upload)
 
-        if csv_err:
-            message = csv_err
-            message_warn = True
-        elif pairs:
+        if pairs:
             pass
         elif single_person.strip() and single_company.strip():
             pairs = [(single_person.strip(), single_company.strip())]
+            if csv_err:
+                csv_note = f" Uploaded CSV was ignored ({csv_err.rstrip('.')})."
+                message_warn = True
         elif single_person.strip() or single_company.strip():
             message = "For a single lookup, enter both person name and company name."
+            message_warn = True
+        elif csv_err:
+            message = csv_err
             message_warn = True
         else:
             message = "Upload a CSV with Person and Company columns, or enter one person and company."
@@ -1204,8 +1377,9 @@ def person_linkedin_finder() -> str:
                     message = (
                         f"Processed {n} row{'s' if n != 1 else ''}; "
                         f"{found_ct} LinkedIn profile URL{'s' if found_ct != 1 else ''} found in the first 10 results."
+                        f"{csv_note}"
                     )
-                    message_warn = found_ct < n
+                    message_warn = message_warn or found_ct < n
                 finally:
                     _person_linkedin_worker_lock.release()
 
@@ -1226,5 +1400,6 @@ def person_linkedin_finder() -> str:
 
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     port = int(os.getenv("PORT", "5055"))
     app.run(host="0.0.0.0", port=port, debug=False)
