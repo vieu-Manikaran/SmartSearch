@@ -28,6 +28,13 @@ class Settings(BaseSettings):
     # Serper (Google search API – e.g. market research, URL discovery)
     serper_api_key: Optional[str] = None
 
+    # Gmail / SMTP (LinkedIn finder result emails)
+    smtp_host: str = "smtp.gmail.com"
+    smtp_port: int = 587
+    smtp_user: Optional[str] = None
+    smtp_password: Optional[str] = None
+    smtp_from: Optional[str] = None
+
     # RapidAPI (LinkedIn person_deep – existing stakeholders job-change detection)
     rapidapi_key: Optional[str] = None
     rapidapi_person_deep_url: str = "https://linkedin-data-scraper.p.rapidapi.com/person_deep"
