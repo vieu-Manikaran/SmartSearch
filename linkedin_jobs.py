@@ -11,6 +11,7 @@ from typing import Any, Callable
 
 from mailer import send_results_email
 from config import settings
+from fullenrich_client import enrich_contacts
 from serper_search import find_linkedin_company_url, find_linkedin_person_url
 
 logger = logging.getLogger(__name__)
@@ -20,7 +21,7 @@ _state_lock = threading.Lock()
 
 _job: dict[str, Any] = {
     "running": False,
-    "job_type": "",  # company | person
+    "job_type": "",  # company | person | email
     "email": "",
     "current": 0,
     "total": 0,
@@ -98,6 +99,19 @@ def _run_company(companies: list[str], email: str, save_csv: Callable) -> tuple[
     return path, summary
 
 
+def _run_email(rows: list[dict[str, str]], email: str, save_csv: Callable) -> tuple[str, str]:
+    def on_progress(current: int, total: int, current_item: str) -> None:
+        _update_progress(current, total, current_item)
+
+    result_rows = enrich_contacts(rows, on_progress=on_progress)
+    path = save_csv(result_rows)
+    found_ct = sum(1 for r in result_rows if r.get("work_email"))
+    summary = (
+        f"Processed {len(result_rows)} contacts; {found_ct} verified work emails found via FullEnrich."
+    )
+    return path, summary
+
+
 def _run_person(pairs: list[tuple[str, str]], email: str, save_csv: Callable) -> tuple[str, str]:
     api_key = settings.serper_api_key or ""
     rows: list[dict[str, str]] = []
@@ -132,9 +146,15 @@ def _worker(
     run_fn: Callable,
     work_arg: Any,
 ) -> None:
-    subject_label = "Company" if job_type == "company" else "Person"
+    if job_type == "company":
+        subject_label = "Company"
+    elif job_type == "email":
+        subject_label = "Email"
+    else:
+        subject_label = "Person"
     try:
-        logger.info("%s LinkedIn job started for %s", subject_label, email)
+        job_name = "email enrichment" if job_type == "email" else f"{subject_label} LinkedIn"
+        logger.info("%s job started for %s", job_name, email)
         path_str, summary = run_fn(work_arg, email, save_csv)
         path = Path(path_str)
         body = (
@@ -142,9 +162,18 @@ def _worker(
             f"{summary}\n\n"
             f"The CSV is attached.\n"
         )
+        if job_type == "email":
+            subject = "Email Finder — results ready"
+            body = (
+                "Your email enrichment job is complete.\n\n"
+                f"{summary}\n\n"
+                "The CSV is attached.\n"
+            )
+        else:
+            subject = f"LinkedIn {subject_label} Finder — results ready"
         ok, err = send_results_email(
             email,
-            subject=f"LinkedIn {subject_label} Finder — results ready",
+            subject=subject,
             body=body,
             attachment_path=path,
         )
@@ -200,6 +229,40 @@ def start_company_job(companies: list[str], email: str, save_csv: Callable[[list
     return True, None
 
 
+def start_email_job(
+    rows: list[dict[str, str]],
+    email: str,
+    save_csv: Callable[[list], str],
+) -> tuple[bool, str | None]:
+    if not rows:
+        return False, "No rows to process."
+    if not _worker_lock.acquire(blocking=False):
+        return False, _busy_message()
+    with _state_lock:
+        if _job["running"]:
+            _worker_lock.release()
+            return False, _busy_message()
+        _job.update(
+            running=True,
+            job_type="email",
+            email=email,
+            current=0,
+            total=len(rows),
+            current_item="",
+            error=None,
+            last_summary="",
+            email_sent=False,
+        )
+    thread = threading.Thread(
+        target=_worker,
+        args=("email", email, save_csv, _run_email, rows),
+        daemon=True,
+        name="email-enrichment-job",
+    )
+    thread.start()
+    return True, None
+
+
 def start_person_job(
     pairs: list[tuple[str, str]],
     email: str,
@@ -238,7 +301,14 @@ def _busy_message() -> str:
     snap = job_snapshot()
     if snap.get("running"):
         jt = snap.get("job_type") or "LinkedIn"
-        label = "Company" if jt == "company" else "Person" if jt == "person" else "LinkedIn"
+        if jt == "company":
+            label = "Company"
+        elif jt == "person":
+            label = "Person"
+        elif jt == "email":
+            label = "Email"
+        else:
+            label = "LinkedIn"
         return (
             f"A {label} LinkedIn lookup is already in progress "
             f"({snap.get('current', 0)} / {snap.get('total', 0)}). "
@@ -252,11 +322,12 @@ def progress_display() -> dict[str, Any]:
     snap = job_snapshot()
     running = bool(snap.get("running"))
     job_type = snap.get("job_type") or ""
-    type_label = "Company LinkedIn finder" if job_type == "company" else "Person LinkedIn finder"
-    if job_type == "person":
-        type_label = "Person LinkedIn finder"
-    elif job_type == "company":
+    if job_type == "company":
         type_label = "Company LinkedIn finder"
+    elif job_type == "person":
+        type_label = "Person LinkedIn finder"
+    elif job_type == "email":
+        type_label = "Email finder"
     else:
         type_label = "LinkedIn finder"
 

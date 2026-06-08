@@ -28,6 +28,9 @@ class Settings(BaseSettings):
     # Serper (Google search API – e.g. market research, URL discovery)
     serper_api_key: Optional[str] = None
 
+    # FullEnrich (verified work-email enrichment)
+    fullenrich_api_key: Optional[str] = None
+
     # Gmail / SMTP (LinkedIn finder result emails)
     smtp_host: str = "smtp.gmail.com"
     smtp_port: int = 587

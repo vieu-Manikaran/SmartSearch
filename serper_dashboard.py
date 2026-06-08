@@ -24,12 +24,14 @@ from flask import (
 )
 
 from config import settings
+from fullenrich_client import FullEnrichError, enrich_contacts, is_valid_linkedin_url
 from linkedin_jobs import (
     is_job_running,
     job_snapshot,
     progress_display,
     release_worker,
     start_company_job,
+    start_email_job,
     start_person_job,
     try_acquire_worker,
     validate_email,
@@ -124,7 +126,8 @@ HTML_TEMPLATE = """
   <h2>Serper Pair Search Dashboard</h2>
   <p>
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page.<br>
-    <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.
+    <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.<br>
+    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; verified work email via FullEnrich.
   </p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
 
@@ -380,9 +383,34 @@ PERSON_RESULTS_TABLE = """
   {% endif %}
 """
 
+EMAIL_RESULTS_TABLE = """
+  {% if rows %}
+  <h3>Result</h3>
+  <table>
+    <thead>
+      <tr><th>Person</th><th>Company</th><th>LinkedIn URL</th><th>Work email</th><th>Email status</th><th>All work emails</th><th>Job title</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      <tr class="{% if not row.work_email %}miss{% endif %}">
+        <td>{{ row.person }}</td>
+        <td>{{ row.company or "—" }}</td>
+        <td><a href="{{ row.linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url }}</a></td>
+        <td>{{ row.work_email or "—" }}</td>
+        <td>{{ row.email_status or "—" }}</td>
+        <td class="small">{{ row.all_work_emails or "—" }}</td>
+        <td>{{ row.job_title or "—" }}</td>
+        <td>{{ row.status }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
+"""
+
 LINKEDIN_PROGRESS_BLOCK = """
   <div id="shared-job-progress" class="msg warn" style="{% if prog.job_running %}display:block{% else %}display:none{% endif %}" aria-live="polite">
-    <strong>Job in progress</strong> (forms disabled on both finders until this finishes)
+    <strong>Job in progress</strong> (forms disabled on all finders until this finishes)
     <p id="shared-job-progress-line" style="margin:8px 0 0 0;">{{ prog.progress_line }}</p>
     {% if prog.job_email_masked %}
     <p class="small" style="margin:4px 0 0 0;">Results will be emailed to {{ prog.job_email_masked }}</p>
@@ -441,6 +469,8 @@ COMPANY_LINKEDIN_TEMPLATE = (
     <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('email_finder') }}">Email finder</a>
   </p>
   <h2>Company LinkedIn finder</h2>
   <p class="small">One company name: result appears on this page immediately (no email). CSV with <strong>2+ companies</strong>: email required; results are sent when the job finishes. Only <strong>one</strong> job at a time (company or person).</p>
@@ -489,6 +519,8 @@ PERSON_LINKEDIN_TEMPLATE = (
     <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('email_finder') }}">Email finder</a>
   </p>
   <h2>Person LinkedIn finder</h2>
   <p class="small">One person + company: result on this page (no email). CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> job at a time.</p>
@@ -524,6 +556,68 @@ PERSON_LINKEDIN_TEMPLATE = (
 """
 )
 
+EMAIL_FINDER_TEMPLATE = (
+    """
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Email finder</title>
+  <style>"""
+    + LINKEDIN_FINDER_STYLES
+    + """
+    pre.example { background: #f7f7f7; border: 1px solid #ddd; padding: 12px; overflow-x: auto; font-size: 0.85em; }
+    </style>
+</head>
+<body>
+  <p class="nav">
+    <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
+  </p>
+  <h2>Email finder (FullEnrich)</h2>
+  <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 30–90 seconds). CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> background job at a time.</p>
+  <p class="small"><strong>CSV format:</strong> headers <code>Person</code>, <code>LinkedIn_URL</code> (required), and optional <code>Company</code>. Aliases accepted: <code>Name</code> or <code>Person Name</code> for person; <code>LinkedIn URL</code> for URL.</p>
+  <pre class="example">Person,Company,LinkedIn_URL
+Jane Doe,Acme Inc,https://www.linkedin.com/in/jane-doe/
+John Smith,,https://www.linkedin.com/in/john-smith/</pre>
+"""
+    + LINKEDIN_PROGRESS_BLOCK
+    + """
+  {% if message %}
+  <div class="msg {% if message_warn %}warn{% endif %}">{{ message }}</div>
+  {% endif %}
+  <form method="post" enctype="multipart/form-data" action="{{ url_for('email_finder') }}">
+    <fieldset {% if prog.server_busy %}disabled{% endif %}>
+    <label for="email">Your email (required only for CSV with multiple rows)</label>
+    <input type="email" name="email" id="email" placeholder="you@company.com">
+
+    <label for="csv_file">CSV file (optional)</label>
+    <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv">
+
+    <label for="single_person">Person name (optional)</label>
+    <input type="text" name="single_person" id="single_person" placeholder="e.g. Jane Doe">
+
+    <label for="single_company">Company name (optional)</label>
+    <input type="text" name="single_company" id="single_company" placeholder="e.g. Acme Inc">
+
+    <label for="single_linkedin_url">LinkedIn profile URL (required for single lookup)</label>
+    <input type="url" name="single_linkedin_url" id="single_linkedin_url" placeholder="https://www.linkedin.com/in/...">
+
+    <div><button type="submit">Find verified work email</button></div>
+    </fieldset>
+  </form>
+"""
+    + EMAIL_RESULTS_TABLE
+    + LINKEDIN_PROGRESS_POLL_SCRIPT
+    + """
+</body>
+</html>
+"""
+)
+
 THANK_YOU_TEMPLATE = """
 <!doctype html>
 <html>
@@ -541,10 +635,11 @@ THANK_YOU_TEMPLATE = """
   <div class="msg">
     <p>We received your <strong>{{ job_label }}</strong> request.</p>
     <p>Once processing is complete, we will email the results CSV to <strong>{{ email }}</strong>.</p>
-    <p class="small">You can close this tab. While a job is running, both finder forms stay disabled for everyone; open the Company or Person finder page to see live progress.</p>
+    <p class="small">You can close this tab. While a job is running, all finder forms stay disabled; open any finder page to see live progress.</p>
   </div>
   <p><a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &nbsp;|&nbsp;
-     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a></p>
+     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &nbsp;|&nbsp;
+     <a href="{{ url_for('email_finder') }}">Email finder</a></p>
 </body>
 </html>
 """
@@ -844,6 +939,99 @@ def save_person_linkedin_results(rows: list[dict[str, str]]) -> str:
     return str(file_path)
 
 
+EMAIL_ENRICHMENT_OUTPUT = Path("data/email_enrichment")
+
+
+def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]], str | None]:
+    """
+    Read uploaded CSV; require Person (or Name) and LinkedIn_URL columns.
+    Company is optional.
+    """
+    if storage is None or not getattr(storage, "filename", None):
+        return [], None
+    raw = storage.read()
+    if not raw:
+        return [], "Uploaded file is empty."
+    text, decode_err = _decode_uploaded_csv_bytes(raw)
+    if decode_err:
+        return [], decode_err
+    reader = csv.DictReader(StringIO(text))
+    if reader.fieldnames is None:
+        return [], "CSV has no header row."
+    fields = list(reader.fieldnames)
+    person_key = _csv_column_key(fields, "person", "person name", "name")
+    linkedin_key = _csv_column_key(fields, "linkedin_url", "linkedin url")
+    company_key = _csv_column_key(fields, "company")
+    if not person_key:
+        return [], "CSV must include a Person (or Name) column."
+    if not linkedin_key:
+        return [], "CSV must include a LinkedIn_URL (or LinkedIn URL) column."
+
+    rows: list[dict[str, str]] = []
+    for row_num, row in enumerate(reader, start=2):
+        raw_person = row.get(person_key, "")
+        raw_linkedin = row.get(linkedin_key, "")
+        raw_company = row.get(company_key, "") if company_key else ""
+        person = raw_person.strip() if isinstance(raw_person, str) else str(raw_person or "").strip()
+        linkedin_url = (
+            raw_linkedin.strip() if isinstance(raw_linkedin, str) else str(raw_linkedin or "").strip()
+        )
+        company = raw_company.strip() if isinstance(raw_company, str) else str(raw_company or "").strip()
+        if not person and not linkedin_url:
+            continue
+        if not person:
+            return [], f"Row {row_num}: Person name is required."
+        if not linkedin_url:
+            return [], f"Row {row_num}: LinkedIn_URL is required."
+        if not is_valid_linkedin_url(linkedin_url):
+            return [], f"Row {row_num}: LinkedIn_URL must be a LinkedIn profile URL."
+        rows.append(
+            {
+                "person": person,
+                "company": company,
+                "linkedin_url": linkedin_url,
+                "row_index": str(len(rows)),
+            }
+        )
+    if not rows:
+        return [], "CSV has no data rows."
+    return rows, None
+
+
+def save_email_enrichment_results(rows: list[dict[str, str]]) -> str:
+    """Write one CSV under data/email_enrichment; return path string."""
+    EMAIL_ENRICHMENT_OUTPUT.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    file_path = EMAIL_ENRICHMENT_OUTPUT / f"{timestamp}_email_enrichment.csv"
+    fieldnames = [
+        "Person",
+        "Company",
+        "LinkedIn_URL",
+        "Work_Email",
+        "Email_Status",
+        "All_Work_Emails",
+        "Job_Title",
+        "Status",
+    ]
+    with file_path.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(
+                {
+                    "Person": row["person"],
+                    "Company": row.get("company") or "",
+                    "LinkedIn_URL": row["linkedin_url"],
+                    "Work_Email": row.get("work_email") or "",
+                    "Email_Status": row.get("email_status") or "",
+                    "All_Work_Emails": row.get("all_work_emails") or "",
+                    "Job_Title": row.get("job_title") or "",
+                    "Status": row.get("status") or "",
+                }
+            )
+    return str(file_path)
+
+
 def _result_sort_key(row: dict) -> tuple:
     if row.get("is_empty"):
         return (2, row.get("query", ""))
@@ -872,6 +1060,19 @@ def download_company_linkedin(filename: str):
 @app.route("/download/person-linkedin/<path:filename>", methods=["GET"])
 def download_person_linkedin(filename: str):
     output_root = Path("data/person_linkedin").resolve()
+    target_path = (output_root / filename).resolve()
+
+    if output_root not in target_path.parents and target_path != output_root:
+        abort(404)
+    if not target_path.exists() or not target_path.is_file():
+        abort(404)
+
+    return send_from_directory(output_root, filename, as_attachment=True)
+
+
+@app.route("/download/email-enrichment/<path:filename>", methods=["GET"])
+def download_email_enrichment(filename: str):
+    output_root = Path("data/email_enrichment").resolve()
     target_path = (output_root / filename).resolve()
 
     if output_root not in target_path.parents and target_path != output_root:
@@ -1185,7 +1386,12 @@ def linkedin_finder_status():
 def linkedin_finder_thanks():
     email = (request.args.get("email") or "").strip()
     job_type = request.args.get("type") or "company"
-    job_label = "company LinkedIn" if job_type == "company" else "person LinkedIn"
+    if job_type == "company":
+        job_label = "company LinkedIn"
+    elif job_type == "email":
+        job_label = "email enrichment"
+    else:
+        job_label = "person LinkedIn"
     return render_template_string(
         THANK_YOU_TEMPLATE,
         email=email,
@@ -1286,6 +1492,116 @@ def person_linkedin_finder():
         return redirect(url_for("linkedin_finder_thanks", email=email, type="person"))
 
     return render_template_string(PERSON_LINKEDIN_TEMPLATE, **ctx)
+
+
+def _parse_email_submission() -> tuple[list[dict[str, str]], str, str, str | None]:
+    """Returns (rows, email, mode single|bulk, error_message)."""
+    email = (request.form.get("email") or "").strip()
+    upload = request.files.get("csv_file")
+    rows: list[dict[str, str]] = []
+    csv_err: str | None = None
+    single_person = (request.form.get("single_person") or "").strip()
+    single_company = (request.form.get("single_company") or "").strip()
+    single_linkedin = (request.form.get("single_linkedin_url") or "").strip()
+
+    if upload is not None and bool(upload.filename):
+        rows, csv_err = parse_email_enrichment_from_csv_upload(upload)
+    if rows:
+        mode = "single" if len(rows) == 1 else "bulk"
+        if mode == "bulk":
+            err = validate_email(email)
+            if err:
+                return [], email, mode, err
+        return rows, email, mode, None
+    if single_person and single_linkedin:
+        if not is_valid_linkedin_url(single_linkedin):
+            return [], email, "single", "Enter a valid LinkedIn profile URL (linkedin.com/in/...)."
+        return (
+            [
+                {
+                    "person": single_person,
+                    "company": single_company,
+                    "linkedin_url": single_linkedin,
+                    "row_index": "0",
+                }
+            ],
+            email,
+            "single",
+            None,
+        )
+    if single_person or single_company or single_linkedin:
+        return [], email, "single", "For a single lookup, enter person name and LinkedIn profile URL."
+    if csv_err:
+        return [], email, "single", csv_err
+    return (
+        [],
+        email,
+        "single",
+        "Upload a CSV with Person and LinkedIn_URL columns, or enter one person and LinkedIn URL.",
+    )
+
+
+def _lookup_single_email(row: dict[str, str]) -> tuple[dict[str, str] | None, str | None]:
+    if is_job_running():
+        return None, "A background job is already running. See progress above."
+    if not try_acquire_worker():
+        return None, "Another lookup is in progress. Please wait."
+    try:
+        results = enrich_contacts([row])
+        if not results:
+            return None, "No result returned from FullEnrich."
+        return results[0], None
+    except FullEnrichError as exc:
+        return None, str(exc)
+    finally:
+        release_worker()
+
+
+@app.route("/email-finder", methods=["GET", "POST"])
+def email_finder():
+    ctx = _finder_page_context()
+
+    if request.method == "POST":
+        if is_job_running():
+            ctx["message"] = "A background job is already running. See progress on this page."
+            ctx["message_warn"] = True
+            return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+
+        rows, email, mode, err = _parse_email_submission()
+        if err:
+            ctx["message"] = err
+            ctx["message_warn"] = True
+            return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+        if not settings.fullenrich_api_key:
+            ctx["message"] = "Missing FULLENRICH_API_KEY in environment."
+            ctx["message_warn"] = True
+            return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+
+        if mode == "single":
+            row, lookup_err = _lookup_single_email(rows[0])
+            if lookup_err:
+                ctx["message"] = lookup_err
+                ctx["message_warn"] = True
+            elif row:
+                ctx["rows"] = [row]
+                ctx["message"] = "Lookup complete."
+                ctx["message_warn"] = not row.get("work_email")
+            return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+
+        if not smtp_configured():
+            ctx["message"] = "Email is not configured on the server (SMTP settings)."
+            ctx["message_warn"] = True
+            return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+
+        started, start_err = start_email_job(rows, email, save_email_enrichment_results)
+        if not started:
+            ctx["message"] = start_err or "Could not start job."
+            ctx["message_warn"] = True
+            return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+
+        return redirect(url_for("linkedin_finder_thanks", email=email, type="email"))
+
+    return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
 
 
 if __name__ == "__main__":
