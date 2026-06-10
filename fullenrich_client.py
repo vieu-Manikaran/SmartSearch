@@ -195,13 +195,18 @@ def enrich_contacts(
     output: list[dict[str, str]] = []
     for row in rows:
         idx = int(row["row_index"])
+        base = {
+            "person": row["person"],
+            "company": row.get("company") or "",
+            "linkedin_url": row["linkedin_url"],
+            "original": row.get("original") or {},
+            "_fieldnames": row.get("_fieldnames") or [],
+        }
         if idx in results_by_index:
             mapped = results_by_index[idx]
             output.append(
                 {
-                    "person": row["person"],
-                    "company": row.get("company") or "",
-                    "linkedin_url": row["linkedin_url"],
+                    **base,
                     "work_email": mapped.get("work_email") or "",
                     "email_status": mapped.get("email_status") or "",
                     "all_work_emails": mapped.get("all_work_emails") or "",
@@ -212,9 +217,7 @@ def enrich_contacts(
         else:
             output.append(
                 {
-                    "person": row["person"],
-                    "company": row.get("company") or "",
-                    "linkedin_url": row["linkedin_url"],
+                    **base,
                     "work_email": "",
                     "email_status": "",
                     "all_work_emails": "",

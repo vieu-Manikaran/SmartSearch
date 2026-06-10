@@ -579,7 +579,7 @@ EMAIL_FINDER_TEMPLATE = (
   </p>
   <h2>Email finder (FullEnrich)</h2>
   <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 30–90 seconds). CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> background job at a time.</p>
-  <p class="small"><strong>CSV format:</strong> headers <code>Person</code>, <code>LinkedIn_URL</code> (required), and optional <code>Company</code>. Aliases accepted: <code>Name</code> or <code>Person Name</code> for person; <code>LinkedIn URL</code> for URL.</p>
+  <p class="small"><strong>CSV format:</strong> headers <code>Person</code>, <code>LinkedIn_URL</code> (required), and optional <code>Company</code> (or <code>Company Name</code>, <code>Account</code>). All original columns are kept in the results file; enrichment columns are appended at the end.</p>
   <pre class="example">Person,Company,LinkedIn_URL
 Jane Doe,Acme Inc,https://www.linkedin.com/in/jane-doe/
 John Smith,,https://www.linkedin.com/in/john-smith/</pre>
@@ -942,10 +942,16 @@ def save_person_linkedin_results(rows: list[dict[str, str]]) -> str:
 EMAIL_ENRICHMENT_OUTPUT = Path("data/email_enrichment")
 
 
+def _clean_csv_cell(value: object) -> str:
+    if isinstance(value, str):
+        return value.strip()
+    return str(value or "").strip()
+
+
 def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]], str | None]:
     """
     Read uploaded CSV; require Person (or Name) and LinkedIn_URL columns.
-    Company is optional.
+    Company is optional. All original columns are preserved for the output CSV.
     """
     if storage is None or not getattr(storage, "filename", None):
         return [], None
@@ -959,9 +965,28 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
     if reader.fieldnames is None:
         return [], "CSV has no header row."
     fields = list(reader.fieldnames)
-    person_key = _csv_column_key(fields, "person", "person name", "name")
-    linkedin_key = _csv_column_key(fields, "linkedin_url", "linkedin url")
-    company_key = _csv_column_key(fields, "company")
+    person_key = _csv_column_key(
+        fields, "person", "person name", "name", "full name", "contact name"
+    )
+    linkedin_key = _csv_column_key(
+        fields,
+        "linkedin_url",
+        "linkedin url",
+        "linkedin",
+        "linkedin profile url",
+        "profile_url",
+        "profile url",
+    )
+    company_key = _csv_column_key(
+        fields,
+        "company",
+        "company name",
+        "account",
+        "account name",
+        "organization",
+        "employer",
+        "current company",
+    )
     if not person_key:
         return [], "CSV must include a Person (or Name) column."
     if not linkedin_key:
@@ -972,11 +997,9 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
         raw_person = row.get(person_key, "")
         raw_linkedin = row.get(linkedin_key, "")
         raw_company = row.get(company_key, "") if company_key else ""
-        person = raw_person.strip() if isinstance(raw_person, str) else str(raw_person or "").strip()
-        linkedin_url = (
-            raw_linkedin.strip() if isinstance(raw_linkedin, str) else str(raw_linkedin or "").strip()
-        )
-        company = raw_company.strip() if isinstance(raw_company, str) else str(raw_company or "").strip()
+        person = _clean_csv_cell(raw_person)
+        linkedin_url = _clean_csv_cell(raw_linkedin)
+        company = _clean_csv_cell(raw_company)
         if not person and not linkedin_url:
             continue
         if not person:
@@ -985,12 +1008,15 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
             return [], f"Row {row_num}: LinkedIn_URL is required."
         if not is_valid_linkedin_url(linkedin_url):
             return [], f"Row {row_num}: LinkedIn_URL must be a LinkedIn profile URL."
+        original = {field: _clean_csv_cell(row.get(field, "")) for field in fields}
         rows.append(
             {
                 "person": person,
                 "company": company,
                 "linkedin_url": linkedin_url,
                 "row_index": str(len(rows)),
+                "original": original,
+                "_fieldnames": fields,
             }
         )
     if not rows:
@@ -998,37 +1024,54 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
     return rows, None
 
 
+EMAIL_ENRICHMENT_EXTRA_COLUMNS = [
+    "Work_Email",
+    "Email_Status",
+    "All_Work_Emails",
+    "Job_Title",
+    "Enrichment_Status",
+]
+
+
 def save_email_enrichment_results(rows: list[dict[str, str]]) -> str:
     """Write one CSV under data/email_enrichment; return path string."""
     EMAIL_ENRICHMENT_OUTPUT.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     file_path = EMAIL_ENRICHMENT_OUTPUT / f"{timestamp}_email_enrichment.csv"
-    fieldnames = [
-        "Person",
-        "Company",
-        "LinkedIn_URL",
-        "Work_Email",
-        "Email_Status",
-        "All_Work_Emails",
-        "Job_Title",
-        "Status",
+
+    original_fieldnames: list[str] = []
+    if rows and rows[0].get("_fieldnames"):
+        original_fieldnames = list(rows[0]["_fieldnames"])
+    elif rows and rows[0].get("original"):
+        original_fieldnames = list(rows[0]["original"].keys())
+    else:
+        original_fieldnames = ["Person", "Company", "LinkedIn_URL"]
+
+    fieldnames = original_fieldnames + [
+        col for col in EMAIL_ENRICHMENT_EXTRA_COLUMNS if col not in original_fieldnames
     ]
+
     with file_path.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
         for row in rows:
-            writer.writerow(
-                {
-                    "Person": row["person"],
+            out = dict(row.get("original") or {})
+            if not out:
+                out = {
+                    "Person": row.get("person") or "",
                     "Company": row.get("company") or "",
-                    "LinkedIn_URL": row["linkedin_url"],
+                    "LinkedIn_URL": row.get("linkedin_url") or "",
+                }
+            out.update(
+                {
                     "Work_Email": row.get("work_email") or "",
                     "Email_Status": row.get("email_status") or "",
                     "All_Work_Emails": row.get("all_work_emails") or "",
                     "Job_Title": row.get("job_title") or "",
-                    "Status": row.get("status") or "",
+                    "Enrichment_Status": row.get("status") or "",
                 }
             )
+            writer.writerow(out)
     return str(file_path)
 
 
