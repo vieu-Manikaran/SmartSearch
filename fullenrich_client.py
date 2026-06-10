@@ -172,83 +172,109 @@ def poll_enrichment_until_done(
     )
 
 
+def enrich_batch(
+    batch: list[dict[str, str]],
+    *,
+    batch_label: str,
+    on_progress: Callable[[int, int, str], None] | None = None,
+    expected_total: int | None = None,
+) -> list[dict[str, str]]:
+    """Enrich one batch (up to BATCH_SIZE contacts) via FullEnrich."""
+    if not batch:
+        return []
+
+    total = expected_total or len(batch)
+    contacts = [
+        build_contact_payload(
+            row["person"],
+            row.get("company") or "",
+            row["linkedin_url"],
+            int(row["row_index"]),
+        )
+        for row in batch
+    ]
+    enrichment_id = start_bulk_enrichment(contacts, batch_label)
+    payload = poll_enrichment_until_done(
+        enrichment_id,
+        on_progress=on_progress,
+        expected_total=total,
+        batch_size=len(batch),
+    )
+
+    results_by_index: dict[int, dict[str, str]] = {}
+    for item in payload.get("data") or []:
+        mapped = _map_result_item(item)
+        if mapped is not None:
+            results_by_index[int(mapped["row_index"])] = mapped
+
+    output: list[dict[str, str]] = []
+    for row in batch:
+        idx = int(row["row_index"])
+        base = _result_base_row(row)
+        if idx in results_by_index:
+            mapped = results_by_index[idx]
+            output.append({**base, **_enrichment_fields(mapped)})
+        else:
+            output.append({**base, **_empty_enrichment_fields("not_enriched")})
+    return output
+
+
 def enrich_contacts(
     rows: list[dict[str, str]],
     on_progress: Callable[[int, int, str], None] | None = None,
 ) -> list[dict[str, str]]:
-    """
-    Enrich contacts via FullEnrich (batches of 100).
-    Each input row must have person, company, linkedin_url, row_index.
-    """
+    """Enrich all contacts in sequential batches (non-resumable)."""
     if not rows:
         return []
 
-    results_by_index: dict[int, dict[str, str]] = {}
     total = len(rows)
+    output: list[dict[str, str]] = []
     processed = 0
 
     for batch_start in range(0, total, BATCH_SIZE):
         batch = rows[batch_start : batch_start + BATCH_SIZE]
-        contacts = [
-            build_contact_payload(
-                row["person"],
-                row.get("company") or "",
-                row["linkedin_url"],
-                int(row["row_index"]),
-            )
-            for row in batch
-        ]
-        batch_name = f"Dashboard email enrichment {datetime.now().strftime('%Y-%m-%d %H:%M')}"
-        enrichment_id = start_bulk_enrichment(contacts, batch_name)
-        payload = poll_enrichment_until_done(
-            enrichment_id,
+        batch_label = f"Dashboard email enrichment {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+        enriched = enrich_batch(
+            batch,
+            batch_label=batch_label,
             on_progress=on_progress,
             expected_total=total,
-            batch_size=len(batch),
         )
-        for item in payload.get("data") or []:
-            mapped = _map_result_item(item)
-            if mapped is not None:
-                results_by_index[int(mapped["row_index"])] = mapped
-
+        output.extend(enriched)
         processed += len(batch)
         if on_progress:
             on_progress(processed, total, f"Batch complete ({processed}/{total})")
-
-    output: list[dict[str, str]] = []
-    for row in rows:
-        idx = int(row["row_index"])
-        base = {
-            "person": row["person"],
-            "company": row.get("company") or "",
-            "linkedin_url": row["linkedin_url"],
-            "original": row.get("original") or {},
-            "_fieldnames": row.get("_fieldnames") or [],
-        }
-        if idx in results_by_index:
-            mapped = results_by_index[idx]
-            output.append(
-                {
-                    **base,
-                    "work_email": mapped.get("work_email") or "",
-                    "email_status": mapped.get("email_status") or "",
-                    "all_work_emails": mapped.get("all_work_emails") or "",
-                    "job_title": mapped.get("job_title") or "",
-                    "status": mapped.get("status") or "no_email_found",
-                }
-            )
-        else:
-            output.append(
-                {
-                    **base,
-                    "work_email": "",
-                    "email_status": "",
-                    "all_work_emails": "",
-                    "job_title": "",
-                    "status": "not_enriched",
-                }
-            )
     return output
+
+
+def _result_base_row(row: dict[str, str]) -> dict[str, str]:
+    return {
+        "person": row["person"],
+        "company": row.get("company") or "",
+        "linkedin_url": row["linkedin_url"],
+        "original": row.get("original") or {},
+        "_fieldnames": row.get("_fieldnames") or [],
+    }
+
+
+def _enrichment_fields(mapped: dict[str, str]) -> dict[str, str]:
+    return {
+        "work_email": mapped.get("work_email") or "",
+        "email_status": mapped.get("email_status") or "",
+        "all_work_emails": mapped.get("all_work_emails") or "",
+        "job_title": mapped.get("job_title") or "",
+        "status": mapped.get("status") or "no_email_found",
+    }
+
+
+def _empty_enrichment_fields(status: str = "not_enriched") -> dict[str, str]:
+    return {
+        "work_email": "",
+        "email_status": "",
+        "all_work_emails": "",
+        "job_title": "",
+        "status": status,
+    }
 
 
 def _map_result_item(item: dict[str, Any]) -> dict[str, str] | None:

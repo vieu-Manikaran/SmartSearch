@@ -11,7 +11,6 @@ from typing import Any, Callable
 
 from mailer import send_results_email
 from config import settings
-from fullenrich_client import enrich_contacts
 from serper_search import find_linkedin_company_url, find_linkedin_person_url
 
 logger = logging.getLogger(__name__)
@@ -95,19 +94,6 @@ def _run_company(companies: list[str], email: str, save_csv: Callable) -> tuple[
     found_ct = sum(1 for r in rows if r.get("linkedin_url"))
     summary = (
         f"Processed {len(rows)} companies; {found_ct} LinkedIn company URLs found in the first 10 results."
-    )
-    return path, summary
-
-
-def _run_email(rows: list[dict[str, str]], email: str, save_csv: Callable) -> tuple[str, str]:
-    def on_progress(current: int, total: int, current_item: str) -> None:
-        _update_progress(current, total, current_item)
-
-    result_rows = enrich_contacts(rows, on_progress=on_progress)
-    path = save_csv(result_rows)
-    found_ct = sum(1 for r in result_rows if r.get("work_email"))
-    summary = (
-        f"Processed {len(result_rows)} contacts; {found_ct} verified work emails found via FullEnrich."
     )
     return path, summary
 
@@ -229,40 +215,6 @@ def start_company_job(companies: list[str], email: str, save_csv: Callable[[list
     return True, None
 
 
-def start_email_job(
-    rows: list[dict[str, str]],
-    email: str,
-    save_csv: Callable[[list], str],
-) -> tuple[bool, str | None]:
-    if not rows:
-        return False, "No rows to process."
-    if not _worker_lock.acquire(blocking=False):
-        return False, _busy_message()
-    with _state_lock:
-        if _job["running"]:
-            _worker_lock.release()
-            return False, _busy_message()
-        _job.update(
-            running=True,
-            job_type="email",
-            email=email,
-            current=0,
-            total=len(rows),
-            current_item="",
-            error=None,
-            last_summary="",
-            email_sent=False,
-        )
-    thread = threading.Thread(
-        target=_worker,
-        args=("email", email, save_csv, _run_email, rows),
-        daemon=True,
-        name="email-enrichment-job",
-    )
-    thread.start()
-    return True, None
-
-
 def start_person_job(
     pairs: list[tuple[str, str]],
     email: str,
@@ -319,6 +271,12 @@ def _busy_message() -> str:
 
 def progress_display() -> dict[str, Any]:
     """Template-friendly progress block for both finder pages."""
+    try:
+        from email_enrichment_store import count_pending_jobs
+        pending_email_jobs = count_pending_jobs()
+    except Exception:
+        pending_email_jobs = 0
+
     snap = job_snapshot()
     running = bool(snap.get("running"))
     job_type = snap.get("job_type") or ""
@@ -340,8 +298,11 @@ def progress_display() -> dict[str, Any]:
         if item:
             line += f" — {item}"
 
+    if not running and pending_email_jobs:
+        line = f"Email finder: {pending_email_jobs} job(s) queued"
+
     return {
-        "job_running": running,
+        "job_running": running or pending_email_jobs > 0,
         "server_busy": is_system_busy(),
         "progress_line": line,
         "job_type": job_type,
@@ -349,6 +310,7 @@ def progress_display() -> dict[str, Any]:
         "last_summary": snap.get("last_summary") or "",
         "last_error": snap.get("error"),
         "finished_at_hint": datetime.now().strftime("%Y-%m-%d %H:%M UTC") if not running and snap.get("last_summary") else "",
+        "pending_email_jobs": pending_email_jobs,
     }
 
 

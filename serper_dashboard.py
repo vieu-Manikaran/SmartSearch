@@ -24,6 +24,12 @@ from flask import (
 )
 
 from config import settings
+from email_enrichment_jobs import (
+    get_job_public_status,
+    resume_pending_jobs_on_startup,
+    submit_email_enrichment_job,
+)
+from email_enrichment_store import count_pending_jobs, write_results_csv
 from fullenrich_client import FullEnrichError, enrich_contacts, is_valid_linkedin_url
 from linkedin_jobs import (
     is_job_running,
@@ -31,7 +37,6 @@ from linkedin_jobs import (
     progress_display,
     release_worker,
     start_company_job,
-    start_email_job,
     start_person_job,
     try_acquire_worker,
     validate_email,
@@ -584,7 +589,7 @@ EMAIL_FINDER_TEMPLATE = (
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
   </p>
   <h2>Email finder (FullEnrich)</h2>
-  <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 1–3 minutes). CSV with <strong>2+ rows</strong>: email required; results emailed when done — large cohorts can take <strong>15–75+ minutes</strong> depending on size. Only <strong>one</strong> background job at a time.</p>
+  <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 1–3 minutes). CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Large cohorts (1k–10k+) are supported; jobs survive restarts and resume from the last checkpoint.</p>
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
@@ -668,18 +673,58 @@ THANK_YOU_TEMPLATE = """
     body { font-family: Arial, sans-serif; margin: 24px; max-width: 720px; }
     .msg { padding: 16px; background: #eef8ee; border: 1px solid #9c9; }
     .small { color: #666; font-size: 0.9em; }
+    code { background: #f4f4f4; padding: 2px 6px; }
   </style>
 </head>
 <body>
   <h2>Thank you</h2>
   <div class="msg">
     <p>We received your <strong>{{ job_label }}</strong> request.</p>
+    {% if job_id %}
+    <p>Job ID: <code>{{ job_id }}</code>{% if queue_position and queue_position > 1 %} — queued (position {{ queue_position }}){% endif %}</p>
+    {% endif %}
     <p>Once processing is complete, we will email the results CSV to <strong>{{ email }}</strong>.</p>
-    <p class="small">You can close this tab. While a job is running, all finder forms stay disabled; open any finder page to see live progress.</p>
+    <p class="small">You can close this tab. Jobs are saved to disk and resume automatically if the server restarts. Large cohorts may take hours; you do not need to resubmit.</p>
+    {% if job_id %}
+    <p class="small"><a href="{{ url_for('email_job_status', job_id=job_id) }}">Check job status</a></p>
+    {% endif %}
   </div>
   <p><a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &nbsp;|&nbsp;
      <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &nbsp;|&nbsp;
      <a href="{{ url_for('email_finder') }}">Email finder</a></p>
+</body>
+</html>
+"""
+
+EMAIL_JOB_STATUS_TEMPLATE = """
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Email job status</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; max-width: 720px; }
+    .msg { padding: 16px; background: #f5f5f5; border: 1px solid #ddd; }
+    .small { color: #666; font-size: 0.9em; }
+    code { background: #f4f4f4; padding: 2px 6px; }
+  </style>
+</head>
+<body>
+  <h2>Email enrichment job</h2>
+  <div class="msg">
+    <p><strong>Job ID:</strong> <code>{{ job.job_id }}</code></p>
+    <p><strong>Status:</strong> {{ job.status }}</p>
+    <p><strong>Progress:</strong> {{ job.processed }} / {{ job.total }} contacts</p>
+    <p><strong>Results email:</strong> {{ job.recipient_email }}</p>
+    {% if job.error %}
+    <p class="small"><strong>Note:</strong> {{ job.error }}</p>
+    {% endif %}
+    {% if job.summary %}
+    <p class="small">{{ job.summary }}</p>
+    {% endif %}
+    <p class="small">Updated: {{ job.updated_at }}</p>
+  </div>
+  <p><a href="{{ url_for('email_finder') }}">&larr; Email finder</a></p>
 </body>
 </html>
 """
@@ -1070,54 +1115,12 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
     return rows, None
 
 
-EMAIL_ENRICHMENT_EXTRA_COLUMNS = [
-    "Work_Email",
-    "Email_Status",
-    "All_Work_Emails",
-    "Job_Title",
-    "Enrichment_Status",
-]
-
-
 def save_email_enrichment_results(rows: list[dict[str, str]]) -> str:
     """Write one CSV under data/email_enrichment; return path string."""
     EMAIL_ENRICHMENT_OUTPUT.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     file_path = EMAIL_ENRICHMENT_OUTPUT / f"{timestamp}_email_enrichment.csv"
-
-    original_fieldnames: list[str] = []
-    if rows and rows[0].get("_fieldnames"):
-        original_fieldnames = list(rows[0]["_fieldnames"])
-    elif rows and rows[0].get("original"):
-        original_fieldnames = list(rows[0]["original"].keys())
-    else:
-        original_fieldnames = ["Person", "Company", "LinkedIn_URL"]
-
-    fieldnames = original_fieldnames + [
-        col for col in EMAIL_ENRICHMENT_EXTRA_COLUMNS if col not in original_fieldnames
-    ]
-
-    with file_path.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
-        writer.writeheader()
-        for row in rows:
-            out = dict(row.get("original") or {})
-            if not out:
-                out = {
-                    "Person": row.get("person") or "",
-                    "Company": row.get("company") or "",
-                    "LinkedIn_URL": row.get("linkedin_url") or "",
-                }
-            out.update(
-                {
-                    "Work_Email": row.get("work_email") or "",
-                    "Email_Status": row.get("email_status") or "",
-                    "All_Work_Emails": row.get("all_work_emails") or "",
-                    "Job_Title": row.get("job_title") or "",
-                    "Enrichment_Status": row.get("status") or "",
-                }
-            )
-            writer.writerow(out)
+    write_results_csv(file_path, rows)
     return str(file_path)
 
 
@@ -1475,6 +1478,8 @@ def linkedin_finder_status():
 def linkedin_finder_thanks():
     email = (request.args.get("email") or "").strip()
     job_type = request.args.get("type") or "company"
+    job_id = (request.args.get("job_id") or "").strip()
+    queue_position = request.args.get("queue_position", type=int)
     if job_type == "company":
         job_label = "company LinkedIn"
     elif job_type == "email":
@@ -1485,7 +1490,17 @@ def linkedin_finder_thanks():
         THANK_YOU_TEMPLATE,
         email=email,
         job_label=job_label,
+        job_id=job_id,
+        queue_position=queue_position,
     )
+
+
+@app.route("/email-finder/job/<job_id>", methods=["GET"])
+def email_job_status(job_id: str):
+    job = get_job_public_status(job_id)
+    if not job:
+        abort(404)
+    return render_template_string(EMAIL_JOB_STATUS_TEMPLATE, job=job)
 
 
 @app.route("/company-linkedin", methods=["GET", "POST"])
@@ -1651,11 +1666,6 @@ def email_finder():
     ctx = _finder_page_context()
 
     if request.method == "POST":
-        if is_job_running():
-            ctx["message"] = "A background job is already running. See progress on this page."
-            ctx["message_warn"] = True
-            return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
-
         rows, email, mode, err = _parse_email_submission()
         if err:
             ctx["message"] = err
@@ -1682,15 +1692,27 @@ def email_finder():
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
 
-        started, start_err = start_email_job(rows, email, save_email_enrichment_results)
+        started, start_err, job_id = submit_email_enrichment_job(rows, email)
         if not started:
-            ctx["message"] = start_err or "Could not start job."
+            ctx["message"] = start_err or "Could not queue job."
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
 
-        return redirect(url_for("linkedin_finder_thanks", email=email, type="email"))
+        queue_position = count_pending_jobs()
+        return redirect(
+            url_for(
+                "linkedin_finder_thanks",
+                email=email,
+                type="email",
+                job_id=job_id,
+                queue_position=queue_position,
+            )
+        )
 
     return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+
+
+resume_pending_jobs_on_startup()
 
 
 if __name__ == "__main__":
