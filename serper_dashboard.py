@@ -567,6 +567,12 @@ EMAIL_FINDER_TEMPLATE = (
     + LINKEDIN_FINDER_STYLES
     + """
     pre.example { background: #f7f7f7; border: 1px solid #ddd; padding: 12px; overflow-x: auto; font-size: 0.85em; }
+    .csv-spec { margin: 16px 0; padding: 12px; background: #f9f9f9; border: 1px solid #e0e0e0; }
+    .csv-spec h3 { margin: 0 0 10px 0; font-size: 1em; }
+    .csv-spec table { margin-top: 8px; font-size: 0.9em; }
+    .csv-spec th { width: 28%; }
+    .req { color: #a33; font-weight: 600; }
+    .opt { color: #666; }
     </style>
 </head>
 <body>
@@ -579,10 +585,44 @@ EMAIL_FINDER_TEMPLATE = (
   </p>
   <h2>Email finder (FullEnrich)</h2>
   <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 30–90 seconds). CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> background job at a time.</p>
-  <p class="small"><strong>CSV format:</strong> headers <code>Person</code>, <code>LinkedIn_URL</code> (required), and optional <code>Company</code> (or <code>Company Name</code>, <code>Account</code>). All original columns are kept in the results file; enrichment columns are appended at the end.</p>
+
+  <div class="csv-spec">
+    <h3>Expected CSV column names</h3>
+    <p class="small">Header names are <strong>case-insensitive</strong>. Use one accepted name per role below. Any extra columns you include are kept unchanged in the results file.</p>
+    <table>
+      <thead>
+        <tr><th>Role</th><th>Required?</th><th>Accepted header names (use one)</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Person name</td>
+          <td class="req">Required</td>
+          <td><code>Person</code>, <code>Person Name</code>, <code>Name</code>, <code>Full Name</code>, <code>Contact Name</code></td>
+        </tr>
+        <tr>
+          <td>LinkedIn profile URL</td>
+          <td class="req">Required</td>
+          <td><code>LinkedIn_URL</code>, <code>LinkedIn URL</code>, <code>LinkedIn</code>, <code>LinkedIn Profile URL</code>, <code>Profile_URL</code>, <code>Profile URL</code></td>
+        </tr>
+        <tr>
+          <td>Company name</td>
+          <td class="opt">Optional</td>
+          <td><code>Company</code>, <code>Company Name</code>, <code>Account</code>, <code>Account Name</code>, <code>Organization</code>, <code>Employer</code>, <code>Current Company</code></td>
+        </tr>
+        <tr>
+          <td>Other columns</td>
+          <td class="opt">Optional</td>
+          <td>Any other headers (e.g. <code>Domain</code>, <code>Cohort</code>, <code>Email</code>) — passed through to the output as-is</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then these appended columns: <code>Work_Email</code>, <code>Email_Status</code>, <code>All_Work_Emails</code>, <code>Job_Title</code>, <code>Enrichment_Status</code>.</p>
+  </div>
+
+  <p class="small"><strong>Example CSV:</strong></p>
   <pre class="example">Person,Company,LinkedIn_URL
 Jane Doe,Acme Inc,https://www.linkedin.com/in/jane-doe/
-John Smith,,https://www.linkedin.com/in/john-smith/</pre>
+John Smith,Vistra,https://www.linkedin.com/in/john-smith/</pre>
 """
     + LINKEDIN_PROGRESS_BLOCK
     + """
@@ -988,9 +1028,15 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
         "current company",
     )
     if not person_key:
-        return [], "CSV must include a Person (or Name) column."
+        return [], (
+            "CSV must include a person-name column. Accepted headers: "
+            "Person, Person Name, Name, Full Name, Contact Name."
+        )
     if not linkedin_key:
-        return [], "CSV must include a LinkedIn_URL (or LinkedIn URL) column."
+        return [], (
+            "CSV must include a LinkedIn URL column. Accepted headers: "
+            "LinkedIn_URL, LinkedIn URL, LinkedIn, LinkedIn Profile URL, Profile_URL, Profile URL."
+        )
 
     rows: list[dict[str, str]] = []
     for row_num, row in enumerate(reader, start=2):
@@ -1580,7 +1626,7 @@ def _parse_email_submission() -> tuple[list[dict[str, str]], str, str, str | Non
         [],
         email,
         "single",
-        "Upload a CSV with Person and LinkedIn_URL columns, or enter one person and LinkedIn URL.",
+        "Upload a CSV (see expected column names above) or enter one person and LinkedIn URL.",
     )
 
 
