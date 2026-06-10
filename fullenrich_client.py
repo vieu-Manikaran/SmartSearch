@@ -14,9 +14,10 @@ from config import settings
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://app.fullenrich.com/api/v2"
-POLL_INTERVAL_SEC = 30
-MAX_POLL_ATTEMPTS = 60
-BATCH_SIZE = 100
+POLL_INTERVAL_SEC = 8
+MIN_MAX_WAIT_SEC = 900  # 15 minutes (matches fE.md)
+SECONDS_PER_CONTACT = 90  # FullEnrich docs: ~30–90s per contact in a batch
+BATCH_SIZE = 50  # smaller batches finish sooner and are less likely to time out
 
 
 class FullEnrichError(Exception):
@@ -95,30 +96,37 @@ def start_bulk_enrichment(contacts: list[dict[str, Any]], batch_name: str) -> st
     return enrichment_id
 
 
+def _max_wait_seconds(num_contacts: int) -> int:
+    """Scale wait time with batch size; FullEnrich batches can run for many minutes."""
+    return max(MIN_MAX_WAIT_SEC, num_contacts * SECONDS_PER_CONTACT)
+
+
 def poll_enrichment_until_done(
     enrichment_id: str,
     on_progress: Callable[[int, int, str], None] | None = None,
     expected_total: int = 1,
+    batch_size: int = 1,
 ) -> dict[str, Any]:
     url = f"{BASE_URL}/contact/enrich/bulk/{enrichment_id}"
-    for attempt in range(1, MAX_POLL_ATTEMPTS + 1):
+    max_wait = _max_wait_seconds(batch_size)
+    deadline = time.time() + max_wait
+    attempt = 0
+
+    while time.time() < deadline:
+        attempt += 1
         try:
             resp = requests.get(url, headers=_headers(), timeout=90)
         except requests.RequestException as exc:
-            raise FullEnrichError(f"FullEnrich poll failed: {exc}") from exc
+            logger.warning("FullEnrich poll %s network error (attempt %s): %s", enrichment_id, attempt, exc)
+            time.sleep(POLL_INTERVAL_SEC)
+            continue
 
         if resp.status_code == 400:
             err = _parse_error(resp)
             if err.get("code") == "error.enrichment.in_progress":
-                done = min(attempt, expected_total)
                 if on_progress:
-                    on_progress(done, expected_total, "Waiting for FullEnrich…")
-                logger.info(
-                    "FullEnrich %s in progress (poll %s/%s)",
-                    enrichment_id,
-                    attempt,
-                    MAX_POLL_ATTEMPTS,
-                )
+                    on_progress(min(attempt, expected_total), expected_total, "Waiting for FullEnrich…")
+                logger.info("FullEnrich %s in progress (attempt %s)", enrichment_id, attempt)
                 time.sleep(POLL_INTERVAL_SEC)
                 continue
             raise FullEnrichError(err.get("message") or "FullEnrich enrichment failed.")
@@ -128,7 +136,9 @@ def poll_enrichment_until_done(
         if resp.status_code == 401:
             raise FullEnrichError("Invalid FULLENRICH_API_KEY.")
         if resp.status_code == 429:
-            raise FullEnrichError("FullEnrich rate limit exceeded. Try again in a minute.")
+            logger.warning("FullEnrich rate limit on poll %s; backing off", enrichment_id)
+            time.sleep(60)
+            continue
         if not resp.ok:
             detail = _error_message(resp)
             raise FullEnrichError(detail or f"FullEnrich poll returned HTTP {resp.status_code}")
@@ -136,18 +146,30 @@ def poll_enrichment_until_done(
         payload = resp.json()
         status = (payload.get("status") or "").upper()
         if status in {"CREATED", "IN_PROGRESS", "RATE_LIMIT"}:
-            done = min(attempt, expected_total)
             if on_progress:
-                on_progress(done, expected_total, "Waiting for FullEnrich…")
+                on_progress(min(attempt, expected_total), expected_total, "Waiting for FullEnrich…")
+            logger.info("FullEnrich %s status=%s (attempt %s)", enrichment_id, status, attempt)
             time.sleep(POLL_INTERVAL_SEC)
             continue
-        if status in {"CANCELED", "CREDITS_INSUFFICIENT", "UNKNOWN"}:
+        if status in {"FAILED", "CANCELED", "CANCELLED"}:
             raise FullEnrichError(f"FullEnrich enrichment ended with status {status}.")
+        if status in {"CREDITS_INSUFFICIENT"}:
+            raise FullEnrichError("FullEnrich credits insufficient. Add credits and retry.")
+        if status == "UNKNOWN":
+            raise FullEnrichError("FullEnrich enrichment ended with unknown status.")
+        if status != "FINISHED":
+            logger.warning("FullEnrich %s unexpected status %s; continuing to poll", enrichment_id, status)
+            time.sleep(POLL_INTERVAL_SEC)
+            continue
         if on_progress:
             on_progress(expected_total, expected_total, "Enrichment complete")
         return payload
 
-    raise FullEnrichError("FullEnrich enrichment timed out. Try again later.")
+    wait_min = max_wait // 60
+    raise FullEnrichError(
+        f"FullEnrich enrichment timed out after {wait_min} minutes for {batch_size} contact(s). "
+        "Try again later, use a smaller CSV, or split the cohort into multiple uploads."
+    )
 
 
 def enrich_contacts(
@@ -182,6 +204,7 @@ def enrich_contacts(
             enrichment_id,
             on_progress=on_progress,
             expected_total=total,
+            batch_size=len(batch),
         )
         for item in payload.get("data") or []:
             mapped = _map_result_item(item)

@@ -584,7 +584,7 @@ EMAIL_FINDER_TEMPLATE = (
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
   </p>
   <h2>Email finder (FullEnrich)</h2>
-  <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 30–90 seconds). CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> background job at a time.</p>
+  <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 1–3 minutes). CSV with <strong>2+ rows</strong>: email required; results emailed when done — large cohorts can take <strong>15–75+ minutes</strong> depending on size. Only <strong>one</strong> background job at a time.</p>
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
