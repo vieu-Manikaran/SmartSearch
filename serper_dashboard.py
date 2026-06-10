@@ -27,6 +27,7 @@ from config import settings
 from email_enrichment_jobs import (
     get_job_public_status,
     resume_pending_jobs_on_startup,
+    retry_email_job,
     submit_email_enrichment_job,
 )
 from email_enrichment_store import count_pending_jobs, write_results_csv
@@ -723,6 +724,11 @@ EMAIL_JOB_STATUS_TEMPLATE = """
     <p class="small">{{ job.summary }}</p>
     {% endif %}
     <p class="small">Updated: {{ job.updated_at }}</p>
+    {% if job.status in ['failed', 'interrupted'] %}
+    <form method="post" action="{{ url_for('email_job_retry', job_id=job.job_id) }}" style="margin-top:16px;">
+      <button type="submit">Retry this job</button>
+    </form>
+    {% endif %}
   </div>
   <p><a href="{{ url_for('email_finder') }}">&larr; Email finder</a></p>
 </body>
@@ -1501,6 +1507,14 @@ def email_job_status(job_id: str):
     if not job:
         abort(404)
     return render_template_string(EMAIL_JOB_STATUS_TEMPLATE, job=job)
+
+
+@app.route("/email-finder/job/<job_id>/retry", methods=["POST"])
+def email_job_retry(job_id: str):
+    ok, err = retry_email_job(job_id)
+    if not ok:
+        abort(400, description=err or "Could not retry job.")
+    return redirect(url_for("email_job_status", job_id=job_id))
 
 
 @app.route("/company-linkedin", methods=["GET", "POST"])

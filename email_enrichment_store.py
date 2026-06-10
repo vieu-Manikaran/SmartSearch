@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import json
 import logging
+import time
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
@@ -63,7 +64,15 @@ def create_job(rows: list[dict[str, Any]], recipient_email: str) -> str:
     }
     save_meta(job_id, meta)
     save_input_rows(job_id, rows)
-    save_checkpoint(job_id, {"batches_completed": 0, "rows_processed": 0})
+    save_checkpoint(
+        job_id,
+        {
+            "batches_completed": 0,
+            "rows_processed": 0,
+            "pending_enrichment_id": "",
+            "pending_batch_start": -1,
+        },
+    )
     logger.info("Created email enrichment job %s (%s rows) for %s", job_id, len(rows), recipient_email)
     return job_id
 
@@ -207,8 +216,28 @@ def count_pending_jobs() -> int:
 
 def pick_next_job_id() -> str | None:
     """Oldest resumable job: interrupted/running first, then pending."""
+    now = time.time()
     for status in (STATUS_INTERRUPTED, STATUS_RUNNING, STATUS_PENDING):
-        jobs = list_jobs_by_status(status)
-        if jobs:
-            return jobs[0]["job_id"]
+        for meta in list_jobs_by_status(status):
+            retry_after = float(meta.get("retry_after_ts") or 0)
+            if retry_after > now:
+                continue
+            return meta["job_id"]
     return None
+
+
+def requeue_retryable_failed_jobs() -> None:
+    """Move failed jobs back to interrupted if they still have work left."""
+    for meta in list_jobs_by_status(STATUS_FAILED):
+        processed = int(meta.get("processed") or 0)
+        total = int(meta.get("total") or 0)
+        if processed >= total and total > 0:
+            continue
+        checkpoint = load_checkpoint(meta["job_id"])
+        if checkpoint.get("pending_enrichment_id") or processed < total:
+            meta["status"] = STATUS_INTERRUPTED
+            meta["retry_count"] = 0
+            meta["retry_after_ts"] = 0
+            meta["error"] = "Re-queued for automatic retry."
+            save_meta(meta["job_id"], meta)
+            logger.info("Re-queued failed job %s for retry", meta["job_id"])

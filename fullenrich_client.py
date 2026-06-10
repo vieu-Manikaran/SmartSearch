@@ -23,6 +23,10 @@ BATCH_SIZE = 50  # smaller batches finish sooner and are less likely to time out
 class FullEnrichError(Exception):
     """Raised when the FullEnrich API returns an error."""
 
+    def __init__(self, message: str, *, transient: bool = False) -> None:
+        super().__init__(message)
+        self.transient = transient
+
 
 def split_person_name(full_name: str) -> tuple[str, str]:
     parts = (full_name or "").strip().split()
@@ -67,6 +71,30 @@ def build_contact_payload(
     return payload
 
 
+def _is_transient_http(status_code: int) -> bool:
+    return status_code in {408, 425, 429, 500, 502, 503, 504}
+
+
+def _looks_like_html_response(resp: requests.Response) -> bool:
+    content_type = (resp.headers.get("content-type") or "").lower()
+    if "html" in content_type:
+        return True
+    snippet = (resp.text or "")[:300].lstrip().lower()
+    return snippet.startswith("<!doctype") or snippet.startswith("<html")
+
+
+def sanitize_error_message(raw: str, *, max_len: int = 240) -> str:
+    text = (raw or "").strip()
+    if not text:
+        return "Unknown error."
+    lower = text.lower()
+    if lower.startswith("<!doctype") or lower.startswith("<html"):
+        return "FullEnrich API temporarily unavailable (gateway error). Will retry automatically."
+    if len(text) > max_len:
+        return text[: max_len - 3] + "..."
+    return text
+
+
 def start_bulk_enrichment(contacts: list[dict[str, Any]], batch_name: str) -> str:
     if not contacts:
         raise FullEnrichError("No contacts to enrich.")
@@ -75,25 +103,41 @@ def start_bulk_enrichment(contacts: list[dict[str, Any]], batch_name: str) -> st
         "name": batch_name,
         "data": contacts,
     }
-    try:
-        resp = requests.post(url, json=body, headers=_headers(), timeout=90)
-    except requests.RequestException as exc:
-        raise FullEnrichError(f"FullEnrich request failed: {exc}") from exc
+    last_error = "FullEnrich request failed."
+    for attempt in range(1, 6):
+        try:
+            resp = requests.post(url, json=body, headers=_headers(), timeout=60)
+        except requests.RequestException as exc:
+            last_error = f"FullEnrich request failed: {exc}"
+            logger.warning("FullEnrich POST attempt %s failed: %s", attempt, exc)
+            time.sleep(min(30, 5 * attempt))
+            continue
 
-    if resp.status_code == 401:
-        raise FullEnrichError("Invalid FULLENRICH_API_KEY.")
-    if resp.status_code == 429:
-        raise FullEnrichError("FullEnrich rate limit exceeded. Try again in a minute.")
-    if not resp.ok:
-        detail = _error_message(resp)
-        raise FullEnrichError(detail or f"FullEnrich returned HTTP {resp.status_code}")
+        if resp.status_code == 401:
+            raise FullEnrichError("Invalid FULLENRICH_API_KEY.")
+        if resp.status_code == 429 or _is_transient_http(resp.status_code) or _looks_like_html_response(resp):
+            last_error = f"FullEnrich returned HTTP {resp.status_code}"
+            logger.warning("FullEnrich POST attempt %s transient: HTTP %s", attempt, resp.status_code)
+            time.sleep(min(60, 10 * attempt))
+            continue
+        if not resp.ok:
+            detail = sanitize_error_message(_error_message(resp))
+            raise FullEnrichError(detail or f"FullEnrich returned HTTP {resp.status_code}")
 
-    data = resp.json()
-    enrichment_id = data.get("enrichment_id")
-    if not enrichment_id:
-        raise FullEnrichError("FullEnrich did not return an enrichment_id.")
-    logger.info("FullEnrich enrichment started: %s (%s contacts)", enrichment_id, len(contacts))
-    return enrichment_id
+        try:
+            data = resp.json()
+        except ValueError:
+            last_error = "FullEnrich returned a non-JSON response."
+            time.sleep(min(30, 5 * attempt))
+            continue
+
+        enrichment_id = data.get("enrichment_id")
+        if not enrichment_id:
+            raise FullEnrichError("FullEnrich did not return an enrichment_id.")
+        logger.info("FullEnrich enrichment started: %s (%s contacts)", enrichment_id, len(contacts))
+        return enrichment_id
+
+    raise FullEnrichError(sanitize_error_message(last_error), transient=True)
 
 
 def _max_wait_seconds(num_contacts: int) -> int:
@@ -115,7 +159,7 @@ def poll_enrichment_until_done(
     while time.time() < deadline:
         attempt += 1
         try:
-            resp = requests.get(url, headers=_headers(), timeout=90)
+            resp = requests.get(url, headers=_headers(), timeout=45)
         except requests.RequestException as exc:
             logger.warning("FullEnrich poll %s network error (attempt %s): %s", enrichment_id, attempt, exc)
             time.sleep(POLL_INTERVAL_SEC)
@@ -140,10 +184,24 @@ def poll_enrichment_until_done(
             time.sleep(60)
             continue
         if not resp.ok:
-            detail = _error_message(resp)
+            if _is_transient_http(resp.status_code) or _looks_like_html_response(resp):
+                logger.warning(
+                    "FullEnrich poll %s transient HTTP %s (attempt %s)",
+                    enrichment_id,
+                    resp.status_code,
+                    attempt,
+                )
+                time.sleep(POLL_INTERVAL_SEC)
+                continue
+            detail = sanitize_error_message(_error_message(resp))
             raise FullEnrichError(detail or f"FullEnrich poll returned HTTP {resp.status_code}")
 
-        payload = resp.json()
+        try:
+            payload = resp.json()
+        except ValueError:
+            logger.warning("FullEnrich poll %s returned non-JSON (attempt %s)", enrichment_id, attempt)
+            time.sleep(POLL_INTERVAL_SEC)
+            continue
         status = (payload.get("status") or "").upper()
         if status in {"CREATED", "IN_PROGRESS", "RATE_LIMIT"}:
             if on_progress:
@@ -168,7 +226,8 @@ def poll_enrichment_until_done(
     wait_min = max_wait // 60
     raise FullEnrichError(
         f"FullEnrich enrichment timed out after {wait_min} minutes for {batch_size} contact(s). "
-        "Try again later, use a smaller CSV, or split the cohort into multiple uploads."
+        "Will keep polling on retry.",
+        transient=True,
     )
 
 
@@ -178,28 +237,42 @@ def enrich_batch(
     batch_label: str,
     on_progress: Callable[[int, int, str], None] | None = None,
     expected_total: int | None = None,
+    existing_enrichment_id: str | None = None,
+    on_enrichment_started: Callable[[str], None] | None = None,
 ) -> list[dict[str, str]]:
     """Enrich one batch (up to BATCH_SIZE contacts) via FullEnrich."""
     if not batch:
         return []
 
     total = expected_total or len(batch)
-    contacts = [
-        build_contact_payload(
-            row["person"],
-            row.get("company") or "",
-            row["linkedin_url"],
-            int(row["row_index"]),
+    if existing_enrichment_id:
+        enrichment_id = existing_enrichment_id
+        logger.info("Resuming FullEnrich enrichment %s (%s contacts)", enrichment_id, len(batch))
+    else:
+        contacts = [
+            build_contact_payload(
+                row["person"],
+                row.get("company") or "",
+                row["linkedin_url"],
+                int(row["row_index"]),
+            )
+            for row in batch
+        ]
+        enrichment_id = start_bulk_enrichment(contacts, batch_label)
+        if on_enrichment_started:
+            on_enrichment_started(enrichment_id)
+
+    try:
+        payload = poll_enrichment_until_done(
+            enrichment_id,
+            on_progress=on_progress,
+            expected_total=total,
+            batch_size=len(batch),
         )
-        for row in batch
-    ]
-    enrichment_id = start_bulk_enrichment(contacts, batch_label)
-    payload = poll_enrichment_until_done(
-        enrichment_id,
-        on_progress=on_progress,
-        expected_total=total,
-        batch_size=len(batch),
-    )
+    except FullEnrichError as exc:
+        if exc.transient:
+            raise FullEnrichError(str(exc), transient=True) from exc
+        raise
 
     results_by_index: dict[int, dict[str, str]] = {}
     for item in payload.get("data") or []:
