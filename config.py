@@ -40,6 +40,7 @@ class Settings(BaseSettings):
 
     # RapidAPI (LinkedIn person_deep – existing stakeholders job-change detection)
     rapidapi_key: Optional[str] = None
+    rapidapi_key2: Optional[str] = None
     rapidapi_person_deep_url: str = "https://linkedin-data-scraper.p.rapidapi.com/person_deep"
     rapidapi_company_url: str = "https://linkedin-data-scraper.p.rapidapi.com/company"
 

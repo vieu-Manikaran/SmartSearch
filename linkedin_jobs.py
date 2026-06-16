@@ -11,6 +11,7 @@ from typing import Any, Callable
 
 from mailer import send_results_email
 from config import settings
+from rapidapi_person_deep import resolve_profiles_batch, resolve_vanity_url
 from serper_search import find_linkedin_company_url, find_linkedin_person_url
 
 logger = logging.getLogger(__name__)
@@ -20,7 +21,7 @@ _state_lock = threading.Lock()
 
 _job: dict[str, Any] = {
     "running": False,
-    "job_type": "",  # company | person | email
+    "job_type": "",  # company | person | urn_resolve | email
     "email": "",
     "current": 0,
     "total": 0,
@@ -125,6 +126,19 @@ def _run_person(pairs: list[tuple[str, str]], email: str, save_csv: Callable) ->
     return path, summary
 
 
+def _run_urn_resolve(rows: list[dict], email: str, save_csv: Callable) -> tuple[str, str]:
+    def _progress(current: int, total: int, current_item: str) -> None:
+        _update_progress(current, total, current_item)
+
+    results = resolve_profiles_batch(rows, progress=_progress)
+    path = save_csv(results)
+    found_ct = sum(1 for r in results if r.get("linkedin_url_resolved"))
+    summary = (
+        f"Processed {len(results)} profiles; {found_ct} vanity LinkedIn URLs resolved via RapidAPI."
+    )
+    return path, summary
+
+
 def _worker(
     job_type: str,
     email: str,
@@ -136,18 +150,21 @@ def _worker(
         subject_label = "Company"
     elif job_type == "email":
         subject_label = "Email"
+    elif job_type == "urn_resolve":
+        subject_label = "LinkedIn URN"
     else:
         subject_label = "Person"
     try:
-        job_name = "email enrichment" if job_type == "email" else f"{subject_label} LinkedIn"
+        job_name = (
+            "email enrichment"
+            if job_type == "email"
+            else "LinkedIn URN resolver"
+            if job_type == "urn_resolve"
+            else f"{subject_label} LinkedIn"
+        )
         logger.info("%s job started for %s", job_name, email)
         path_str, summary = run_fn(work_arg, email, save_csv)
         path = Path(path_str)
-        body = (
-            f"Your {subject_label} LinkedIn finder job is complete.\n\n"
-            f"{summary}\n\n"
-            f"The CSV is attached.\n"
-        )
         if job_type == "email":
             subject = "Email Finder — results ready"
             body = (
@@ -155,8 +172,20 @@ def _worker(
                 f"{summary}\n\n"
                 "The CSV is attached.\n"
             )
+        elif job_type == "urn_resolve":
+            subject = "LinkedIn URN Resolver — results ready"
+            body = (
+                "Your LinkedIn URN resolver job is complete.\n\n"
+                f"{summary}\n\n"
+                "The CSV is attached.\n"
+            )
         else:
             subject = f"LinkedIn {subject_label} Finder — results ready"
+            body = (
+                f"Your {subject_label} LinkedIn finder job is complete.\n\n"
+                f"{summary}\n\n"
+                f"The CSV is attached.\n"
+            )
         ok, err = send_results_email(
             email,
             subject=subject,
@@ -249,6 +278,40 @@ def start_person_job(
     return True, None
 
 
+def start_urn_resolve_job(
+    rows: list[dict],
+    email: str,
+    save_csv: Callable[[list], str],
+) -> tuple[bool, str | None]:
+    if not rows:
+        return False, "No rows to process."
+    if not _worker_lock.acquire(blocking=False):
+        return False, _busy_message()
+    with _state_lock:
+        if _job["running"]:
+            _worker_lock.release()
+            return False, _busy_message()
+        _job.update(
+            running=True,
+            job_type="urn_resolve",
+            email=email,
+            current=0,
+            total=len(rows),
+            current_item="",
+            error=None,
+            last_summary="",
+            email_sent=False,
+        )
+    thread = threading.Thread(
+        target=_worker,
+        args=("urn_resolve", email, save_csv, _run_urn_resolve, rows),
+        daemon=True,
+        name="linkedin-urn-resolve-job",
+    )
+    thread.start()
+    return True, None
+
+
 def _busy_message() -> str:
     snap = job_snapshot()
     if snap.get("running"):
@@ -257,6 +320,8 @@ def _busy_message() -> str:
             label = "Company"
         elif jt == "person":
             label = "Person"
+        elif jt == "urn_resolve":
+            label = "LinkedIn URN"
         elif jt == "email":
             label = "Email"
         else:
@@ -284,6 +349,8 @@ def progress_display() -> dict[str, Any]:
         type_label = "Company LinkedIn finder"
     elif job_type == "person":
         type_label = "Person LinkedIn finder"
+    elif job_type == "urn_resolve":
+        type_label = "LinkedIn URN resolver"
     elif job_type == "email":
         type_label = "Email finder"
     else:

@@ -86,7 +86,7 @@ def _looks_like_html_response(resp: requests.Response) -> bool:
 def sanitize_error_message(raw: str, *, max_len: int = 240) -> str:
     text = (raw or "").strip()
     if not text:
-        return "Unknown error."
+        return ""
     lower = text.lower()
     if lower.startswith("<!doctype") or lower.startswith("<html"):
         return "FullEnrich API temporarily unavailable (gateway error). Will retry automatically."

@@ -106,6 +106,7 @@ def get_job_public_status(job_id: str) -> dict[str, Any] | None:
     if not meta:
         return None
     checkpoint = load_checkpoint(job_id)
+    error = sanitize_error_message(meta.get("error") or "")
     return {
         "job_id": job_id,
         "status": meta.get("status"),
@@ -113,7 +114,8 @@ def get_job_public_status(job_id: str) -> dict[str, Any] | None:
         "processed": meta.get("processed"),
         "batches_completed": checkpoint.get("batches_completed"),
         "recipient_email": meta.get("recipient_email"),
-        "error": sanitize_error_message(meta.get("error") or ""),
+        "email_sent": bool(meta.get("email_sent")),
+        "error": error,
         "summary": meta.get("summary"),
         "created_at": meta.get("created_at"),
         "updated_at": meta.get("updated_at"),
@@ -299,7 +301,10 @@ def _process_job(job_id: str) -> None:
         meta["summary"] = summary
         meta["email_sent"] = ok
         meta["completed_at"] = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-        if not ok:
+        meta["retry_after_ts"] = 0
+        if ok:
+            meta["error"] = ""
+        else:
             meta["error"] = err or "Failed to send email"
         save_meta(job_id, meta)
 

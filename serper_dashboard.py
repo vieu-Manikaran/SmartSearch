@@ -39,10 +39,12 @@ from linkedin_jobs import (
     release_worker,
     start_company_job,
     start_person_job,
+    start_urn_resolve_job,
     try_acquire_worker,
     validate_email,
 )
 from mailer import smtp_configured
+from rapidapi_person_deep import normalize_linkedin_profile_url, resolve_vanity_url
 from serper_search import find_linkedin_company_url, find_linkedin_person_url, search_serper
 
 app = Flask(__name__)
@@ -133,6 +135,7 @@ HTML_TEMPLATE = """
   <p>
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page.<br>
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.<br>
+    <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
     <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; verified work email via FullEnrich.
   </p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
@@ -414,6 +417,26 @@ EMAIL_RESULTS_TABLE = """
   {% endif %}
 """
 
+URN_RESOLVE_RESULTS_TABLE = """
+  {% if rows %}
+  <h3>Result</h3>
+  <table>
+    <thead>
+      <tr><th>LinkedIn URL (input)</th><th>LinkedIn_URL_Resolved</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      <tr class="{% if not row.linkedin_url_resolved %}miss{% endif %}">
+        <td><a href="{{ row.linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url }}</a></td>
+        <td>{% if row.linkedin_url_resolved %}<a href="{{ row.linkedin_url_resolved }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url_resolved }}</a>{% else %}&mdash;{% endif %}</td>
+        <td>{{ row.status }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
+"""
+
 LINKEDIN_PROGRESS_BLOCK = """
   <div id="shared-job-progress" class="msg warn" style="{% if prog.job_running %}display:block{% else %}display:none{% endif %}" aria-live="polite">
     <strong>Job in progress</strong> (forms disabled on all finders until this finishes)
@@ -476,6 +499,8 @@ COMPANY_LINKEDIN_TEMPLATE = (
     &nbsp;|&nbsp;
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
     &nbsp;|&nbsp;
+    <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
+    &nbsp;|&nbsp;
     <a href="{{ url_for('email_finder') }}">Email finder</a>
   </p>
   <h2>Company LinkedIn finder</h2>
@@ -525,6 +550,8 @@ PERSON_LINKEDIN_TEMPLATE = (
     <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('email_finder') }}">Email finder</a>
   </p>
@@ -588,6 +615,8 @@ EMAIL_FINDER_TEMPLATE = (
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
   </p>
   <h2>Email finder (FullEnrich)</h2>
   <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 1–3 minutes). CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Large cohorts (1k–10k+) are supported; jobs survive restarts and resume from the last checkpoint.</p>
@@ -664,6 +693,94 @@ John Smith,Vistra,https://www.linkedin.com/in/john-smith/</pre>
 """
 )
 
+URN_RESOLVE_TEMPLATE = (
+    """
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>LinkedIn URN resolver</title>
+  <style>"""
+    + LINKEDIN_FINDER_STYLES
+    + """
+    pre.example { background: #f7f7f7; border: 1px solid #ddd; padding: 12px; overflow-x: auto; font-size: 0.85em; }
+    .csv-spec { margin: 16px 0; padding: 12px; background: #f9f9f9; border: 1px solid #e0e0e0; }
+    .csv-spec h3 { margin: 0 0 10px 0; font-size: 1em; }
+    .csv-spec table { margin-top: 8px; font-size: 0.9em; }
+    .csv-spec th { width: 28%; }
+    .req { color: #a33; font-weight: 600; }
+    .opt { color: #666; }
+    </style>
+</head>
+<body>
+  <p class="nav">
+    <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('email_finder') }}">Email finder</a>
+  </p>
+  <h2>LinkedIn URN resolver</h2>
+  <p class="small">Convert opaque LinkedIn member URLs (URN-style <code>/in/ACwAAA...</code>) to normal vanity profile URLs via RapidAPI <code>person_deep</code>. One URL: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> job at a time across all finders.</p>
+
+  <div class="csv-spec">
+    <h3>Expected CSV column names</h3>
+    <p class="small">Header names are <strong>case-insensitive</strong>. Any extra columns are kept unchanged in the results file.</p>
+    <table>
+      <thead>
+        <tr><th>Role</th><th>Required?</th><th>Accepted header names (use one)</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>LinkedIn profile URL (URN or full URL)</td>
+          <td class="req">Required</td>
+          <td><code>LinkedIn_URL</code>, <code>LinkedIn URL</code>, <code>LinkedIn</code>, <code>li_url</code>, <code>Linkedin Bio</code>, <code>Profile URL</code>, <code>profileUrl</code></td>
+        </tr>
+        <tr>
+          <td>Other columns</td>
+          <td class="opt">Optional</td>
+          <td>Any other headers — passed through to the output as-is</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then <code>LinkedIn_URL_Resolved</code> and <code>Resolve_Status</code>.</p>
+  </div>
+
+  <p class="small"><strong>Example CSV:</strong></p>
+  <pre class="example">LinkedIn_URL,Cohort
+https://www.linkedin.com/in/ACwAAAD2vwIBIoSEhsYMRkMjeC5cZgXDzQBQ4TQ,west
+ACwAAACH0QcBJJ6rWWPQOtkcPZ_uowmGGzval58,east</pre>
+"""
+    + LINKEDIN_PROGRESS_BLOCK
+    + """
+  {% if message %}
+  <div class="msg {% if message_warn %}warn{% endif %}">{{ message }}</div>
+  {% endif %}
+  <form method="post" enctype="multipart/form-data" action="{{ url_for('urn_resolve_finder') }}">
+    <fieldset {% if prog.server_busy %}disabled{% endif %}>
+    <label for="email">Your email (required only for CSV with multiple rows)</label>
+    <input type="email" name="email" id="email" placeholder="you@company.com">
+
+    <label for="csv_file">CSV file (optional)</label>
+    <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv">
+
+    <label for="single_linkedin_url">Single LinkedIn profile URL or URN (optional)</label>
+    <input type="text" name="single_linkedin_url" id="single_linkedin_url" placeholder="https://www.linkedin.com/in/ACwAAA... or ACwAAA...">
+
+    <div><button type="submit">Resolve LinkedIn URLs</button></div>
+    </fieldset>
+  </form>
+"""
+    + URN_RESOLVE_RESULTS_TABLE
+    + LINKEDIN_PROGRESS_POLL_SCRIPT
+    + """
+</body>
+</html>
+"""
+)
+
 THANK_YOU_TEMPLATE = """
 <!doctype html>
 <html>
@@ -692,6 +809,7 @@ THANK_YOU_TEMPLATE = """
   </div>
   <p><a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &nbsp;|&nbsp;
      <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &nbsp;|&nbsp;
+     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &nbsp;|&nbsp;
      <a href="{{ url_for('email_finder') }}">Email finder</a></p>
 </body>
 </html>
@@ -717,7 +835,11 @@ EMAIL_JOB_STATUS_TEMPLATE = """
     <p><strong>Status:</strong> {{ job.status }}</p>
     <p><strong>Progress:</strong> {{ job.processed }} / {{ job.total }} contacts</p>
     <p><strong>Results email:</strong> {{ job.recipient_email }}</p>
-    {% if job.error %}
+    {% if job.status == 'completed' and job.email_sent %}
+    <p class="small"><strong>Email sent:</strong> yes — check inbox (and spam) for the results CSV.</p>
+    {% elif job.status == 'completed' and not job.email_sent %}
+    <p class="small warn"><strong>Email not sent.</strong> {% if job.error %}{{ job.error }}{% else %}SMTP delivery failed.{% endif %}</p>
+    {% elif job.error %}
     <p class="small"><strong>Note:</strong> {{ job.error }}</p>
     {% endif %}
     {% if job.summary %}
@@ -1130,6 +1252,96 @@ def save_email_enrichment_results(rows: list[dict[str, str]]) -> str:
     return str(file_path)
 
 
+URN_RESOLVE_OUTPUT = Path("data/linkedin_urn_resolve")
+URN_RESOLVE_EXTRA_COLUMNS = ["LinkedIn_URL_Resolved", "Resolve_Status"]
+
+
+def write_urn_resolve_csv(path: Path, rows: list[dict]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    original_fieldnames: list[str] = []
+    if rows and rows[0].get("_fieldnames"):
+        original_fieldnames = list(rows[0]["_fieldnames"])
+    elif rows and rows[0].get("original"):
+        original_fieldnames = list(rows[0]["original"].keys())
+
+    fieldnames = original_fieldnames + [
+        col for col in URN_RESOLVE_EXTRA_COLUMNS if col not in original_fieldnames
+    ]
+
+    with path.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+        writer.writeheader()
+        for row in rows:
+            out = dict(row.get("original") or {})
+            out["LinkedIn_URL_Resolved"] = row.get("linkedin_url_resolved") or ""
+            out["Resolve_Status"] = row.get("status") or ""
+            writer.writerow(out)
+
+
+def save_urn_resolve_results(rows: list[dict]) -> str:
+    """Write one CSV under data/linkedin_urn_resolve; return path string."""
+    URN_RESOLVE_OUTPUT.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    file_path = URN_RESOLVE_OUTPUT / f"{timestamp}_linkedin_urn_resolve.csv"
+    write_urn_resolve_csv(file_path, rows)
+    return str(file_path)
+
+
+def parse_urn_resolve_from_csv_upload(storage) -> tuple[list[dict[str, str]], str | None]:
+    """Read uploaded CSV; require a LinkedIn URL column. Preserve all original columns."""
+    if storage is None or not getattr(storage, "filename", None):
+        return [], None
+    raw = storage.read()
+    if not raw:
+        return [], "Uploaded file is empty."
+    text, decode_err = _decode_uploaded_csv_bytes(raw)
+    if decode_err:
+        return [], decode_err
+    reader = csv.DictReader(StringIO(text))
+    if reader.fieldnames is None:
+        return [], "CSV has no header row."
+    fields = list(reader.fieldnames)
+    linkedin_key = _csv_column_key(
+        fields,
+        "linkedin_url",
+        "linkedin url",
+        "linkedin",
+        "linkedin profile url",
+        "profile_url",
+        "profile url",
+        "li_url",
+        "linkedin bio",
+        "profileurl",
+        "target linkedin",
+    )
+    if not linkedin_key:
+        return [], (
+            "CSV must include a LinkedIn URL column. Accepted headers: "
+            "LinkedIn_URL, LinkedIn URL, LinkedIn, li_url, Linkedin Bio, Profile URL, profileUrl."
+        )
+
+    rows: list[dict[str, str]] = []
+    for row_num, row in enumerate(reader, start=2):
+        raw_linkedin = row.get(linkedin_key, "")
+        linkedin_url = normalize_linkedin_profile_url(_clean_csv_cell(raw_linkedin))
+        if not linkedin_url:
+            continue
+        if not is_valid_linkedin_url(linkedin_url):
+            return [], f"Row {row_num}: LinkedIn URL must be a LinkedIn profile URL (linkedin.com/in/...)."
+        original = {field: _clean_csv_cell(row.get(field, "")) for field in fields}
+        rows.append(
+            {
+                "linkedin_url": linkedin_url,
+                "row_index": str(len(rows)),
+                "original": original,
+                "_fieldnames": fields,
+            }
+        )
+    if not rows:
+        return [], "CSV has no data rows with a LinkedIn profile URL."
+    return rows, None
+
+
 def _result_sort_key(row: dict) -> tuple:
     if row.get("is_empty"):
         return (2, row.get("query", ""))
@@ -1490,6 +1702,8 @@ def linkedin_finder_thanks():
         job_label = "company LinkedIn"
     elif job_type == "email":
         job_label = "email enrichment"
+    elif job_type == "urn_resolve":
+        job_label = "LinkedIn URN resolver"
     else:
         job_label = "person LinkedIn"
     return render_template_string(
@@ -1673,6 +1887,120 @@ def _lookup_single_email(row: dict[str, str]) -> tuple[dict[str, str] | None, st
         return None, str(exc)
     finally:
         release_worker()
+
+
+def _parse_urn_submission() -> tuple[list[dict[str, str]], str, str, str | None]:
+    """Returns (rows, email, mode single|bulk, error_message)."""
+    email = (request.form.get("email") or "").strip()
+    upload = request.files.get("csv_file")
+    rows: list[dict[str, str]] = []
+    csv_err: str | None = None
+    single_linkedin = (request.form.get("single_linkedin_url") or "").strip()
+
+    if upload is not None and bool(upload.filename):
+        rows, csv_err = parse_urn_resolve_from_csv_upload(upload)
+    if rows:
+        mode = "single" if len(rows) == 1 else "bulk"
+        if mode == "bulk":
+            err = validate_email(email)
+            if err:
+                return [], email, mode, err
+        return rows, email, mode, None
+    if single_linkedin:
+        linkedin_url = normalize_linkedin_profile_url(single_linkedin)
+        if not is_valid_linkedin_url(linkedin_url):
+            return [], email, "single", "Enter a valid LinkedIn profile URL or URN (linkedin.com/in/...)."
+        return (
+            [
+                {
+                    "linkedin_url": linkedin_url,
+                    "row_index": "0",
+                    "original": {"LinkedIn_URL": linkedin_url},
+                    "_fieldnames": ["LinkedIn_URL"],
+                }
+            ],
+            email,
+            "single",
+            None,
+        )
+    if csv_err:
+        return [], email, "single", csv_err
+    return (
+        [],
+        email,
+        "single",
+        "Upload a CSV with a LinkedIn URL column, or enter one profile URL / URN.",
+    )
+
+
+def _lookup_single_urn(row: dict[str, str]) -> tuple[dict[str, str] | None, str | None]:
+    if is_job_running():
+        return None, "A background job is already running. See progress above."
+    if not try_acquire_worker():
+        return None, "Another lookup is in progress. Please wait."
+    try:
+        if not settings.rapidapi_key:
+            return None, "Missing RAPIDAPI_KEY in environment."
+        resolved = resolve_vanity_url(str(row.get("linkedin_url") or ""))
+        out = dict(row)
+        out.update(
+            {
+                "linkedin_url": resolved["linkedin_url_input"],
+                "linkedin_url_resolved": resolved["linkedin_url_resolved"],
+                "public_identifier": resolved["public_identifier"],
+                "status": resolved["status"],
+            }
+        )
+        return out, None
+    finally:
+        release_worker()
+
+
+@app.route("/linkedin-urn-resolve", methods=["GET", "POST"])
+def urn_resolve_finder():
+    ctx = _finder_page_context()
+
+    if request.method == "POST":
+        if is_job_running():
+            ctx["message"] = "A LinkedIn finder job is already running. See progress on this page."
+            ctx["message_warn"] = True
+            return render_template_string(URN_RESOLVE_TEMPLATE, **ctx)
+
+        rows, email, mode, err = _parse_urn_submission()
+        if err:
+            ctx["message"] = err
+            ctx["message_warn"] = True
+            return render_template_string(URN_RESOLVE_TEMPLATE, **ctx)
+        if not settings.rapidapi_key:
+            ctx["message"] = "Missing RAPIDAPI_KEY in environment."
+            ctx["message_warn"] = True
+            return render_template_string(URN_RESOLVE_TEMPLATE, **ctx)
+
+        if mode == "single":
+            row, lookup_err = _lookup_single_urn(rows[0])
+            if lookup_err:
+                ctx["message"] = lookup_err
+                ctx["message_warn"] = True
+            elif row:
+                ctx["rows"] = [row]
+                ctx["message"] = "Lookup complete."
+                ctx["message_warn"] = not row.get("linkedin_url_resolved")
+            return render_template_string(URN_RESOLVE_TEMPLATE, **ctx)
+
+        if not smtp_configured():
+            ctx["message"] = "Email is not configured on the server (SMTP settings)."
+            ctx["message_warn"] = True
+            return render_template_string(URN_RESOLVE_TEMPLATE, **ctx)
+
+        started, start_err = start_urn_resolve_job(rows, email, save_urn_resolve_results)
+        if not started:
+            ctx["message"] = start_err or "Could not start job."
+            ctx["message_warn"] = True
+            return render_template_string(URN_RESOLVE_TEMPLATE, **ctx)
+
+        return redirect(url_for("linkedin_finder_thanks", email=email, type="urn_resolve"))
+
+    return render_template_string(URN_RESOLVE_TEMPLATE, **ctx)
 
 
 @app.route("/email-finder", methods=["GET", "POST"])
