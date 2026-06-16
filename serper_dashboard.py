@@ -33,14 +33,20 @@ from email_enrichment_jobs import (
 from email_enrichment_store import count_pending_jobs, write_results_csv
 from fullenrich_client import FullEnrichError, enrich_contacts, is_valid_linkedin_url
 from linkedin_jobs import (
-    is_job_running,
+    is_email_job_running,
+    is_rapidapi_job_running,
+    is_serper_job_running,
     job_snapshot,
     progress_display,
-    release_worker,
+    release_email_worker,
+    release_rapidapi_worker,
+    release_serper_worker,
     start_company_job,
     start_person_job,
     start_urn_resolve_job,
-    try_acquire_worker,
+    try_acquire_email_worker,
+    try_acquire_rapidapi_worker,
+    try_acquire_serper_worker,
     validate_email,
 )
 from mailer import smtp_configured
@@ -439,7 +445,7 @@ URN_RESOLVE_RESULTS_TABLE = """
 
 LINKEDIN_PROGRESS_BLOCK = """
   <div id="shared-job-progress" class="msg warn" style="{% if prog.job_running %}display:block{% else %}display:none{% endif %}" aria-live="polite">
-    <strong>Job in progress</strong> (forms disabled on all finders until this finishes)
+    <strong>{{ prog.progress_note }}</strong>
     <p id="shared-job-progress-line" style="margin:8px 0 0 0;">{{ prog.progress_line }}</p>
     {% if prog.job_email_masked %}
     <p class="small" style="margin:4px 0 0 0;">Results will be emailed to {{ prog.job_email_masked }}</p>
@@ -462,7 +468,7 @@ LINKEDIN_PROGRESS_POLL_SCRIPT = """
       var fieldset = document.querySelector("form fieldset");
       function setDisabled(d) { if (fieldset) fieldset.disabled = d; }
       function tick() {
-        fetch("{{ url_for('linkedin_finder_status') }}", { cache: "no-store" })
+        fetch("{{ url_for('linkedin_finder_status', scope=prog.scope) }}", { cache: "no-store" })
           .then(function (r) { return r.json(); })
           .then(function (data) {
             if (data.running) {
@@ -723,7 +729,7 @@ URN_RESOLVE_TEMPLATE = (
     <a href="{{ url_for('email_finder') }}">Email finder</a>
   </p>
   <h2>LinkedIn URN resolver</h2>
-  <p class="small">Convert opaque LinkedIn member URLs (URN-style <code>/in/ACwAAA...</code>) to normal vanity profile URLs via RapidAPI <code>person_deep</code>. One URL: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> job at a time across all finders.</p>
+  <p class="small">Convert opaque LinkedIn member URLs (URN-style <code>/in/ACwAAA...</code>) to normal vanity profile URLs via RapidAPI <code>person_deep</code> (not Serper). One URL: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> URN job at a time; Serper finders run independently.</p>
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
@@ -1027,6 +1033,30 @@ def _decode_uploaded_csv_bytes(raw: bytes) -> tuple[str | None, str | None]:
     )
 
 
+def _normalize_csv_text(text: str) -> str:
+    return text.replace("\r\n", "\n").replace("\r", "\n")
+
+
+def _csv_dict_reader(text: str) -> csv.DictReader:
+    return csv.DictReader(StringIO(_normalize_csv_text(text), newline=""))
+
+
+def _read_uploaded_csv(text: str) -> tuple[list[str] | None, list[dict[str, str]], str | None]:
+    """Return (fieldnames, data rows, error_message)."""
+    try:
+        reader = _csv_dict_reader(text)
+        if reader.fieldnames is None:
+            return None, [], "CSV has no header row."
+        fieldnames = list(reader.fieldnames)
+        rows = list(reader)
+        return fieldnames, rows, None
+    except csv.Error as exc:
+        return None, [], (
+            f"Could not parse CSV ({exc}). Save the file as CSV UTF-8 from Excel, "
+            "or check for unquoted line breaks inside cells."
+        )
+
+
 def _company_csv_column_key(fieldnames: list[str] | None) -> str | None:
     if not fieldnames:
         return None
@@ -1049,14 +1079,16 @@ def parse_companies_from_csv_upload(storage) -> tuple[list[str], str | None]:
     text, decode_err = _decode_uploaded_csv_bytes(raw)
     if decode_err:
         return [], decode_err
-    reader = csv.DictReader(StringIO(text))
-    if reader.fieldnames is None:
+    fieldnames, rows, parse_err = _read_uploaded_csv(text)
+    if parse_err:
+        return [], parse_err
+    if not fieldnames:
         return [], "CSV has no header row."
-    key = _company_csv_column_key(list(reader.fieldnames))
+    key = _company_csv_column_key(fieldnames)
     if not key:
         return [], "CSV must include a header column named Company."
     companies: list[str] = []
-    for row in reader:
+    for row in rows:
         raw_cell = row.get(key, "")
         cell = raw_cell.strip() if isinstance(raw_cell, str) else str(raw_cell or "").strip()
         if cell:
@@ -1111,16 +1143,17 @@ def parse_person_company_from_csv_upload(storage) -> tuple[list[tuple[str, str]]
     text, decode_err = _decode_uploaded_csv_bytes(raw)
     if decode_err:
         return [], decode_err
-    reader = csv.DictReader(StringIO(text))
-    if reader.fieldnames is None:
+    fields, data_rows, parse_err = _read_uploaded_csv(text)
+    if parse_err:
+        return [], parse_err
+    if not fields:
         return [], "CSV has no header row."
-    fields = list(reader.fieldnames)
     person_key = _csv_column_key(fields, "person", "person name")
     company_key = _csv_column_key(fields, "company")
     if not person_key or not company_key:
         return [], "CSV must include header columns named Person and Company."
     pairs: list[tuple[str, str]] = []
-    for row in reader:
+    for row in data_rows:
         raw_person = row.get(person_key, "")
         raw_company = row.get(company_key, "")
         person = raw_person.strip() if isinstance(raw_person, str) else str(raw_person or "").strip()
@@ -1174,10 +1207,11 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
     text, decode_err = _decode_uploaded_csv_bytes(raw)
     if decode_err:
         return [], decode_err
-    reader = csv.DictReader(StringIO(text))
-    if reader.fieldnames is None:
+    fields, data_rows, parse_err = _read_uploaded_csv(text)
+    if parse_err:
+        return [], parse_err
+    if not fields:
         return [], "CSV has no header row."
-    fields = list(reader.fieldnames)
     person_key = _csv_column_key(
         fields, "person", "person name", "name", "full name", "contact name"
     )
@@ -1212,7 +1246,7 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
         )
 
     rows: list[dict[str, str]] = []
-    for row_num, row in enumerate(reader, start=2):
+    for row_num, row in enumerate(data_rows, start=2):
         raw_person = row.get(person_key, "")
         raw_linkedin = row.get(linkedin_key, "")
         raw_company = row.get(company_key, "") if company_key else ""
@@ -1297,10 +1331,11 @@ def parse_urn_resolve_from_csv_upload(storage) -> tuple[list[dict[str, str]], st
     text, decode_err = _decode_uploaded_csv_bytes(raw)
     if decode_err:
         return [], decode_err
-    reader = csv.DictReader(StringIO(text))
-    if reader.fieldnames is None:
+    fields, data_rows, parse_err = _read_uploaded_csv(text)
+    if parse_err:
+        return [], parse_err
+    if not fields:
         return [], "CSV has no header row."
-    fields = list(reader.fieldnames)
     linkedin_key = _csv_column_key(
         fields,
         "linkedin_url",
@@ -1321,7 +1356,7 @@ def parse_urn_resolve_from_csv_upload(storage) -> tuple[list[dict[str, str]], st
         )
 
     rows: list[dict[str, str]] = []
-    for row_num, row in enumerate(reader, start=2):
+    for row_num, row in enumerate(data_rows, start=2):
         raw_linkedin = row.get(linkedin_key, "")
         linkedin_url = normalize_linkedin_profile_url(_clean_csv_cell(raw_linkedin))
         if not linkedin_url:
@@ -1570,8 +1605,8 @@ def dashboard() -> str:
     )
 
 
-def _finder_page_context() -> dict:
-    prog = progress_display()
+def _finder_page_context(scope: str = "all") -> dict:
+    prog = progress_display(scope=scope)
     return {
         "prog": prog,
         "poll_js": "true" if prog["job_running"] else "false",
@@ -1631,10 +1666,10 @@ def _parse_person_submission() -> tuple[list[tuple[str, str]], str, str, str | N
 
 
 def _lookup_single_company(name: str) -> tuple[dict[str, str] | None, str | None]:
-    if is_job_running():
-        return None, "A LinkedIn finder job is already running. See progress above."
-    if not try_acquire_worker():
-        return None, "Another lookup is in progress. Please wait."
+    if is_serper_job_running():
+        return None, "A Serper LinkedIn finder job is already running. See progress above."
+    if not try_acquire_serper_worker():
+        return None, "Another Serper lookup is in progress. Please wait."
     try:
         api_key = settings.serper_api_key or ""
         search_query = f"{name} site:linkedin.com"
@@ -1649,14 +1684,14 @@ def _lookup_single_company(name: str) -> tuple[dict[str, str] | None, str | None
             None,
         )
     finally:
-        release_worker()
+        release_serper_worker()
 
 
 def _lookup_single_person(person: str, company: str) -> tuple[dict[str, str] | None, str | None]:
-    if is_job_running():
-        return None, "A LinkedIn finder job is already running. See progress above."
-    if not try_acquire_worker():
-        return None, "Another lookup is in progress. Please wait."
+    if is_serper_job_running():
+        return None, "A Serper LinkedIn finder job is already running. See progress above."
+    if not try_acquire_serper_worker():
+        return None, "Another Serper lookup is in progress. Please wait."
     try:
         api_key = settings.serper_api_key or ""
         search_query = f"{person} {company} site:linkedin.com"
@@ -1672,22 +1707,42 @@ def _lookup_single_person(person: str, company: str) -> tuple[dict[str, str] | N
             None,
         )
     finally:
-        release_worker()
+        release_serper_worker()
 
 
 @app.route("/linkedin-finder/status", methods=["GET"])
 def linkedin_finder_status():
-    snap = job_snapshot()
-    prog = progress_display()
+    scope = (request.args.get("scope") or "all").strip().lower()
+    if scope not in {"serper", "rapidapi", "email", "all"}:
+        scope = "all"
+    prog = progress_display(scope=scope)
+    snap_key = scope if scope in {"serper", "rapidapi", "email"} else None
+    if snap_key == "serper":
+        snap = job_snapshot("serper")
+    elif snap_key == "rapidapi":
+        snap = job_snapshot("rapidapi")
+    elif snap_key == "email":
+        snap = job_snapshot("email")
+    else:
+        snap = job_snapshot()
+        if "running" not in snap:
+            for key in ("serper", "rapidapi", "email"):
+                candidate = snap.get(key) or {}
+                if candidate.get("running"):
+                    snap = candidate
+                    break
+            else:
+                snap = snap.get("serper") or {}
     return jsonify(
         {
-            "running": snap.get("running", False),
+            "running": prog["job_running"],
             "job_type": snap.get("job_type") or "",
             "current": snap.get("current") or 0,
             "total": snap.get("total") or 0,
             "current_item": snap.get("current_item") or "",
             "progress_line": prog.get("progress_line") or "",
             "error": snap.get("error"),
+            "scope": scope,
         }
     )
 
@@ -1733,11 +1788,11 @@ def email_job_retry(job_id: str):
 
 @app.route("/company-linkedin", methods=["GET", "POST"])
 def company_linkedin_finder():
-    ctx = _finder_page_context()
+    ctx = _finder_page_context("serper")
 
     if request.method == "POST":
-        if is_job_running():
-            ctx["message"] = "A LinkedIn finder job is already running. See progress on this page."
+        if is_serper_job_running():
+            ctx["message"] = "A Serper LinkedIn finder job is already running. See progress on this page."
             ctx["message_warn"] = True
             return render_template_string(COMPANY_LINKEDIN_TEMPLATE, **ctx)
 
@@ -1780,11 +1835,11 @@ def company_linkedin_finder():
 
 @app.route("/person-linkedin", methods=["GET", "POST"])
 def person_linkedin_finder():
-    ctx = _finder_page_context()
+    ctx = _finder_page_context("serper")
 
     if request.method == "POST":
-        if is_job_running():
-            ctx["message"] = "A LinkedIn finder job is already running. See progress on this page."
+        if is_serper_job_running():
+            ctx["message"] = "A Serper LinkedIn finder job is already running. See progress on this page."
             ctx["message_warn"] = True
             return render_template_string(PERSON_LINKEDIN_TEMPLATE, **ctx)
 
@@ -1874,10 +1929,10 @@ def _parse_email_submission() -> tuple[list[dict[str, str]], str, str, str | Non
 
 
 def _lookup_single_email(row: dict[str, str]) -> tuple[dict[str, str] | None, str | None]:
-    if is_job_running():
-        return None, "A background job is already running. See progress above."
-    if not try_acquire_worker():
-        return None, "Another lookup is in progress. Please wait."
+    if is_email_job_running():
+        return None, "An email enrichment job is already running. See progress above."
+    if not try_acquire_email_worker():
+        return None, "Another email lookup is in progress. Please wait."
     try:
         results = enrich_contacts([row])
         if not results:
@@ -1886,7 +1941,7 @@ def _lookup_single_email(row: dict[str, str]) -> tuple[dict[str, str] | None, st
     except FullEnrichError as exc:
         return None, str(exc)
     finally:
-        release_worker()
+        release_email_worker()
 
 
 def _parse_urn_submission() -> tuple[list[dict[str, str]], str, str, str | None]:
@@ -1934,10 +1989,10 @@ def _parse_urn_submission() -> tuple[list[dict[str, str]], str, str, str | None]
 
 
 def _lookup_single_urn(row: dict[str, str]) -> tuple[dict[str, str] | None, str | None]:
-    if is_job_running():
-        return None, "A background job is already running. See progress above."
-    if not try_acquire_worker():
-        return None, "Another lookup is in progress. Please wait."
+    if is_rapidapi_job_running():
+        return None, "A RapidAPI URN resolver job is already running. See progress above."
+    if not try_acquire_rapidapi_worker():
+        return None, "Another RapidAPI lookup is in progress. Please wait."
     try:
         if not settings.rapidapi_key:
             return None, "Missing RAPIDAPI_KEY in environment."
@@ -1953,16 +2008,16 @@ def _lookup_single_urn(row: dict[str, str]) -> tuple[dict[str, str] | None, str 
         )
         return out, None
     finally:
-        release_worker()
+        release_rapidapi_worker()
 
 
 @app.route("/linkedin-urn-resolve", methods=["GET", "POST"])
 def urn_resolve_finder():
-    ctx = _finder_page_context()
+    ctx = _finder_page_context("rapidapi")
 
     if request.method == "POST":
-        if is_job_running():
-            ctx["message"] = "A LinkedIn finder job is already running. See progress on this page."
+        if is_rapidapi_job_running():
+            ctx["message"] = "A RapidAPI URN resolver job is already running. See progress on this page."
             ctx["message_warn"] = True
             return render_template_string(URN_RESOLVE_TEMPLATE, **ctx)
 
@@ -2005,7 +2060,7 @@ def urn_resolve_finder():
 
 @app.route("/email-finder", methods=["GET", "POST"])
 def email_finder():
-    ctx = _finder_page_context()
+    ctx = _finder_page_context("email")
 
     if request.method == "POST":
         rows, email, mode, err = _parse_email_submission()

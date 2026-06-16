@@ -30,7 +30,7 @@ from email_enrichment_store import (
     write_results_csv,
 )
 from fullenrich_client import BATCH_SIZE, FullEnrichError, enrich_batch, sanitize_error_message
-from linkedin_jobs import _state_lock, _update_progress, _worker_lock
+from linkedin_jobs import _email_job, _state_lock, _update_progress, _worker_lock
 from mailer import send_results_email
 
 logger = logging.getLogger(__name__)
@@ -49,11 +49,9 @@ def submit_email_enrichment_job(rows: list[dict[str, Any]], recipient_email: str
     job_id = create_job(rows, recipient_email)
     _ensure_queue_worker()
     with _state_lock:
-        from linkedin_jobs import _job
-
-        if not _job.get("running"):
+        if not _email_job.get("running"):
             meta = load_meta(job_id) or {}
-            _job.update(
+            _email_job.update(
                 running=False,
                 job_type="email",
                 email=recipient_email,
@@ -178,9 +176,7 @@ def _process_job(job_id: str) -> None:
     save_meta(job_id, meta)
 
     with _state_lock:
-        from linkedin_jobs import _job
-
-        _job.update(
+        _email_job.update(
             running=True,
             job_type="email",
             email=recipient,
@@ -232,6 +228,7 @@ def _process_job(job_id: str) -> None:
 
             def on_progress(current: int, tot: int, item: str) -> None:
                 _update_progress(
+                    "email",
                     min(batch_start + current, total),
                     total,
                     item or f"Batch {batch_num}",
@@ -273,7 +270,7 @@ def _process_job(job_id: str) -> None:
             meta["processed"] = rows_processed
             meta["batches_completed"] = batches_completed
             save_meta(job_id, meta)
-            _update_progress(rows_processed, total, f"Saved checkpoint ({rows_processed}/{total})")
+            _update_progress("email", rows_processed, total, f"Saved checkpoint ({rows_processed}/{total})")
             logger.info("Job %s checkpoint: %s/%s rows", job_id, rows_processed, total)
 
         found_ct = sum(1 for r in results if r.get("work_email"))
@@ -313,12 +310,10 @@ def _process_job(job_id: str) -> None:
         shutil.copy2(final_path, archive_copy)
 
         with _state_lock:
-            from linkedin_jobs import _job
-
-            _job["last_summary"] = summary
-            _job["email_sent"] = ok
+            _email_job["last_summary"] = summary
+            _email_job["email_sent"] = ok
             if not ok:
-                _job["error"] = err or "Failed to send email"
+                _email_job["error"] = err or "Failed to send email"
 
         if ok:
             logger.info("Job %s completed; emailed %s", job_id, recipient)
@@ -347,13 +342,9 @@ def _process_job(job_id: str) -> None:
         save_results_state(job_id, results)
         write_results_csv(results_path(job_id), results)
         with _state_lock:
-            from linkedin_jobs import _job
-
-            _job["error"] = str(exc)
-            _job["last_summary"] = meta["summary"]
+            _email_job["error"] = str(exc)
+            _email_job["last_summary"] = meta["summary"]
     finally:
         with _state_lock:
-            from linkedin_jobs import _job
-
-            _job["running"] = False
-            _job["current_item"] = ""
+            _email_job["running"] = False
+            _email_job["current_item"] = ""

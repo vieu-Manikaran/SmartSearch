@@ -1,4 +1,4 @@
-"""Single shared background job for Company and Person LinkedIn finders."""
+"""Background jobs for Serper LinkedIn finders, RapidAPI URN resolver, and shared progress."""
 
 from __future__ import annotations
 
@@ -16,22 +16,31 @@ from serper_search import find_linkedin_company_url, find_linkedin_person_url
 
 logger = logging.getLogger(__name__)
 
-_worker_lock = threading.Lock()
+_serper_lock = threading.Lock()
+_rapidapi_lock = threading.Lock()
+_email_lock = threading.Lock()
 _state_lock = threading.Lock()
 
-_job: dict[str, Any] = {
-    "running": False,
-    "job_type": "",  # company | person | urn_resolve | email
-    "email": "",
-    "current": 0,
-    "total": 0,
-    "current_item": "",
-    "error": None,
-    "last_summary": "",
-    "email_sent": False,
-}
-
 EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
+
+
+def _blank_job() -> dict[str, Any]:
+    return {
+        "running": False,
+        "job_type": "",
+        "email": "",
+        "current": 0,
+        "total": 0,
+        "current_item": "",
+        "error": None,
+        "last_summary": "",
+        "email_sent": False,
+    }
+
+
+_serper_job: dict[str, Any] = _blank_job()
+_rapidapi_job: dict[str, Any] = _blank_job()
+_email_job: dict[str, Any] = _blank_job()
 
 
 def validate_email(raw: str) -> str | None:
@@ -43,35 +52,117 @@ def validate_email(raw: str) -> str | None:
     return None
 
 
-def job_snapshot() -> dict[str, Any]:
+def _job_for_type(job_type: str) -> dict[str, Any]:
+    if job_type == "urn_resolve":
+        return _rapidapi_job
+    if job_type == "email":
+        return _email_job
+    return _serper_job
+
+
+def _lock_for_type(job_type: str) -> threading.Lock:
+    if job_type == "urn_resolve":
+        return _rapidapi_lock
+    if job_type == "email":
+        return _email_lock
+    return _serper_lock
+
+
+def job_snapshot(job_type: str | None = None) -> dict[str, Any]:
     with _state_lock:
-        return dict(_job)
+        if job_type == "urn_resolve":
+            return dict(_rapidapi_job)
+        if job_type == "email":
+            return dict(_email_job)
+        if job_type in {"company", "person", "serper"}:
+            return dict(_serper_job)
+        if job_type == "rapidapi":
+            return dict(_rapidapi_job)
+        for job in (_serper_job, _rapidapi_job, _email_job):
+            if job["running"]:
+                return dict(job)
+        return {
+            "serper": dict(_serper_job),
+            "rapidapi": dict(_rapidapi_job),
+            "email": dict(_email_job),
+        }
+
+
+def is_serper_job_running() -> bool:
+    with _state_lock:
+        return bool(_serper_job["running"])
+
+
+def is_rapidapi_job_running() -> bool:
+    with _state_lock:
+        return bool(_rapidapi_job["running"])
+
+
+def is_email_job_running() -> bool:
+    with _state_lock:
+        return bool(_email_job["running"])
 
 
 def is_job_running() -> bool:
-    with _state_lock:
-        return bool(_job["running"])
+    """True if any Serper or RapidAPI background job is running."""
+    return is_serper_job_running() or is_rapidapi_job_running()
+
+
+def is_serper_busy() -> bool:
+    return is_serper_job_running() or _serper_lock.locked()
+
+
+def is_rapidapi_busy() -> bool:
+    return is_rapidapi_job_running() or _rapidapi_lock.locked()
+
+
+def is_email_busy() -> bool:
+    return is_email_job_running() or _email_lock.locked()
 
 
 def is_system_busy() -> bool:
-    return is_job_running() or _worker_lock.locked()
+    return is_serper_busy() or is_rapidapi_busy() or is_email_busy()
 
 
-def try_acquire_worker() -> bool:
-    """Exclusive Serper access (background job or synchronous single lookup)."""
-    return _worker_lock.acquire(blocking=False)
+def try_acquire_serper_worker() -> bool:
+    return _serper_lock.acquire(blocking=False)
 
 
-def release_worker() -> None:
-    if _worker_lock.locked():
-        _worker_lock.release()
+def release_serper_worker() -> None:
+    if _serper_lock.locked():
+        _serper_lock.release()
 
 
-def _update_progress(current: int, total: int, current_item: str) -> None:
+def try_acquire_rapidapi_worker() -> bool:
+    return _rapidapi_lock.acquire(blocking=False)
+
+
+def release_rapidapi_worker() -> None:
+    if _rapidapi_lock.locked():
+        _rapidapi_lock.release()
+
+
+def try_acquire_email_worker() -> bool:
+    return _email_lock.acquire(blocking=False)
+
+
+def release_email_worker() -> None:
+    if _email_lock.locked():
+        _email_lock.release()
+
+
+# Backward-compatible aliases for email enrichment queue.
+try_acquire_worker = try_acquire_email_worker
+release_worker = release_email_worker
+_worker_lock = _email_lock
+
+
+def _update_progress(job_type: str, current: int, total: int, current_item: str) -> None:
     with _state_lock:
-        _job["current"] = current
-        _job["total"] = total
-        _job["current_item"] = current_item
+        job = _job_for_type(job_type)
+        job["current"] = current
+        job["total"] = total
+        job["current_item"] = current_item
 
 
 def _run_company(companies: list[str], email: str, save_csv: Callable) -> tuple[str, str]:
@@ -79,7 +170,7 @@ def _run_company(companies: list[str], email: str, save_csv: Callable) -> tuple[
     rows: list[dict[str, str]] = []
     total = len(companies)
     for idx, name in enumerate(companies, start=1):
-        _update_progress(idx, total, name)
+        _update_progress("company", idx, total, name)
         logger.info("Company LinkedIn [%s/%s] %s", idx, total, name)
         search_query = f"{name} site:linkedin.com"
         found_url = find_linkedin_company_url(name, api_key, num=10, date_restrict=None)
@@ -105,7 +196,7 @@ def _run_person(pairs: list[tuple[str, str]], email: str, save_csv: Callable) ->
     total = len(pairs)
     for idx, (person, company) in enumerate(pairs, start=1):
         label = f"{person} @ {company}"
-        _update_progress(idx, total, label)
+        _update_progress("person", idx, total, label)
         logger.info("Person LinkedIn [%s/%s] %s", idx, total, label)
         search_query = f"{person} {company} site:linkedin.com"
         found_url = find_linkedin_person_url(person, company, api_key, num=10, date_restrict=None)
@@ -128,7 +219,7 @@ def _run_person(pairs: list[tuple[str, str]], email: str, save_csv: Callable) ->
 
 def _run_urn_resolve(rows: list[dict], email: str, save_csv: Callable) -> tuple[str, str]:
     def _progress(current: int, total: int, current_item: str) -> None:
-        _update_progress(current, total, current_item)
+        _update_progress("urn_resolve", current, total, current_item)
 
     results = resolve_profiles_batch(rows, progress=_progress)
     path = save_csv(results)
@@ -146,6 +237,7 @@ def _worker(
     run_fn: Callable,
     work_arg: Any,
 ) -> None:
+    lock = _lock_for_type(job_type)
     if job_type == "company":
         subject_label = "Company"
     elif job_type == "email":
@@ -184,7 +276,7 @@ def _worker(
             body = (
                 f"Your {subject_label} LinkedIn finder job is complete.\n\n"
                 f"{summary}\n\n"
-                f"The CSV is attached.\n"
+                "The CSV is attached.\n"
             )
         ok, err = send_results_email(
             email,
@@ -193,42 +285,55 @@ def _worker(
             attachment_path=path,
         )
         with _state_lock:
-            _job["last_summary"] = summary
-            _job["email_sent"] = ok
+            job = _job_for_type(job_type)
+            job["last_summary"] = summary
+            job["email_sent"] = ok
             if not ok:
-                _job["error"] = err or "Failed to send email"
+                job["error"] = err or "Failed to send email"
         if ok:
-            logger.info("%s LinkedIn job finished; emailed %s", subject_label, email)
+            logger.info("%s job finished; emailed %s", job_name, email)
         else:
-            logger.error("%s LinkedIn job finished but email failed: %s", subject_label, err)
+            logger.error("%s job finished but email failed: %s", job_name, err)
     except Exception as exc:
-        logger.exception("%s LinkedIn job failed", subject_label)
+        logger.exception("%s job failed", job_name)
         with _state_lock:
-            _job["error"] = str(exc)
-            _job["last_summary"] = f"Job failed: {exc}"
+            job = _job_for_type(job_type)
+            job["error"] = str(exc)
+            job["last_summary"] = f"Job failed: {exc}"
     finally:
         with _state_lock:
-            _job["running"] = False
-            _job["current_item"] = ""
-        _worker_lock.release()
-        logger.info("LinkedIn job lock released")
+            job = _job_for_type(job_type)
+            job["running"] = False
+            job["current_item"] = ""
+        lock.release()
+        logger.info("%s job lock released", job_type)
 
 
-def start_company_job(companies: list[str], email: str, save_csv: Callable[[list], str]) -> tuple[bool, str | None]:
-    if not companies:
-        return False, "No companies to process."
-    if not _worker_lock.acquire(blocking=False):
-        return False, _busy_message()
+def _start_job(
+    job_type: str,
+    total: int,
+    email: str,
+    save_csv: Callable[[list], str],
+    run_fn: Callable,
+    work_arg: Any,
+    thread_name: str,
+) -> tuple[bool, str | None]:
+    if total <= 0:
+        return False, "No rows to process."
+    lock = _lock_for_type(job_type)
+    if not lock.acquire(blocking=False):
+        return False, _busy_message(job_type)
     with _state_lock:
-        if _job["running"]:
-            _worker_lock.release()
-            return False, _busy_message()
-        _job.update(
+        job = _job_for_type(job_type)
+        if job["running"]:
+            lock.release()
+            return False, _busy_message(job_type)
+        job.update(
             running=True,
-            job_type="company",
+            job_type=job_type,
             email=email,
             current=0,
-            total=len(companies),
+            total=total,
             current_item="",
             error=None,
             last_summary="",
@@ -236,12 +341,24 @@ def start_company_job(companies: list[str], email: str, save_csv: Callable[[list
         )
     thread = threading.Thread(
         target=_worker,
-        args=("company", email, save_csv, _run_company, companies),
+        args=(job_type, email, save_csv, run_fn, work_arg),
         daemon=True,
-        name="linkedin-company-job",
+        name=thread_name,
     )
     thread.start()
     return True, None
+
+
+def start_company_job(companies: list[str], email: str, save_csv: Callable[[list], str]) -> tuple[bool, str | None]:
+    return _start_job(
+        "company",
+        len(companies),
+        email,
+        save_csv,
+        _run_company,
+        companies,
+        "linkedin-company-job",
+    )
 
 
 def start_person_job(
@@ -249,33 +366,15 @@ def start_person_job(
     email: str,
     save_csv: Callable[[list], str],
 ) -> tuple[bool, str | None]:
-    if not pairs:
-        return False, "No rows to process."
-    if not _worker_lock.acquire(blocking=False):
-        return False, _busy_message()
-    with _state_lock:
-        if _job["running"]:
-            _worker_lock.release()
-            return False, _busy_message()
-        _job.update(
-            running=True,
-            job_type="person",
-            email=email,
-            current=0,
-            total=len(pairs),
-            current_item="",
-            error=None,
-            last_summary="",
-            email_sent=False,
-        )
-    thread = threading.Thread(
-        target=_worker,
-        args=("person", email, save_csv, _run_person, pairs),
-        daemon=True,
-        name="linkedin-person-job",
+    return _start_job(
+        "person",
+        len(pairs),
+        email,
+        save_csv,
+        _run_person,
+        pairs,
+        "linkedin-person-job",
     )
-    thread.start()
-    return True, None
 
 
 def start_urn_resolve_job(
@@ -283,101 +382,118 @@ def start_urn_resolve_job(
     email: str,
     save_csv: Callable[[list], str],
 ) -> tuple[bool, str | None]:
-    if not rows:
-        return False, "No rows to process."
-    if not _worker_lock.acquire(blocking=False):
-        return False, _busy_message()
-    with _state_lock:
-        if _job["running"]:
-            _worker_lock.release()
-            return False, _busy_message()
-        _job.update(
-            running=True,
-            job_type="urn_resolve",
-            email=email,
-            current=0,
-            total=len(rows),
-            current_item="",
-            error=None,
-            last_summary="",
-            email_sent=False,
-        )
-    thread = threading.Thread(
-        target=_worker,
-        args=("urn_resolve", email, save_csv, _run_urn_resolve, rows),
-        daemon=True,
-        name="linkedin-urn-resolve-job",
+    return _start_job(
+        "urn_resolve",
+        len(rows),
+        email,
+        save_csv,
+        _run_urn_resolve,
+        rows,
+        "linkedin-urn-resolve-job",
     )
-    thread.start()
-    return True, None
 
 
-def _busy_message() -> str:
-    snap = job_snapshot()
-    if snap.get("running"):
-        jt = snap.get("job_type") or "LinkedIn"
-        if jt == "company":
-            label = "Company"
-        elif jt == "person":
-            label = "Person"
-        elif jt == "urn_resolve":
-            label = "LinkedIn URN"
-        elif jt == "email":
-            label = "Email"
+def _busy_message(job_type: str) -> str:
+    with _state_lock:
+        if job_type in {"company", "person"}:
+            snap = dict(_serper_job)
+        elif job_type == "urn_resolve":
+            snap = dict(_rapidapi_job)
         else:
-            label = "LinkedIn"
+            snap = dict(_email_job)
+    if snap.get("running"):
+        jt = snap.get("job_type") or job_type
+        label = _type_label(jt)
         return (
-            f"A {label} LinkedIn lookup is already in progress "
+            f"A {label} job is already in progress "
             f"({snap.get('current', 0)} / {snap.get('total', 0)}). "
             "Please wait until it finishes."
         )
     return "Another lookup is in progress. Please wait and try again."
 
 
-def progress_display() -> dict[str, Any]:
-    """Template-friendly progress block for both finder pages."""
+def _type_label(job_type: str) -> str:
+    if job_type == "company":
+        return "Company LinkedIn finder"
+    if job_type == "person":
+        return "Person LinkedIn finder"
+    if job_type == "urn_resolve":
+        return "LinkedIn URN resolver"
+    if job_type == "email":
+        return "Email finder"
+    return "LinkedIn finder"
+
+
+def progress_display(scope: str = "all") -> dict[str, Any]:
+    """Template-friendly progress block. Scope: serper, rapidapi, email, or all."""
     try:
         from email_enrichment_store import count_pending_jobs
         pending_email_jobs = count_pending_jobs()
     except Exception:
         pending_email_jobs = 0
 
-    snap = job_snapshot()
-    running = bool(snap.get("running"))
-    job_type = snap.get("job_type") or ""
-    if job_type == "company":
-        type_label = "Company LinkedIn finder"
-    elif job_type == "person":
-        type_label = "Person LinkedIn finder"
-    elif job_type == "urn_resolve":
-        type_label = "LinkedIn URN resolver"
-    elif job_type == "email":
-        type_label = "Email finder"
+    with _state_lock:
+        serper = dict(_serper_job)
+        rapidapi = dict(_rapidapi_job)
+        email = dict(_email_job)
+
+    if scope == "serper":
+        active = serper if serper.get("running") else None
+        form_disabled = bool(serper.get("running")) or _serper_lock.locked()
+    elif scope == "rapidapi":
+        active = rapidapi if rapidapi.get("running") else None
+        form_disabled = bool(rapidapi.get("running")) or _rapidapi_lock.locked()
+    elif scope == "email":
+        active = email if email.get("running") else None
+        form_disabled = bool(email.get("running")) or _email_lock.locked() or pending_email_jobs > 0
     else:
-        type_label = "LinkedIn finder"
+        active = None
+        for candidate in (serper, rapidapi, email):
+            if candidate.get("running"):
+                active = candidate
+                break
+        form_disabled = is_system_busy() or pending_email_jobs > 0
 
     line = ""
-    if running:
-        cur = snap.get("current") or 0
-        tot = snap.get("total") or 0
-        item = snap.get("current_item") or ""
-        line = f"{type_label}: processing {cur} / {tot}"
+    if active and active.get("running"):
+        cur = active.get("current") or 0
+        tot = active.get("total") or 0
+        item = active.get("current_item") or ""
+        line = f"{_type_label(active.get('job_type') or '')}: processing {cur} / {tot}"
         if item:
             line += f" — {item}"
-
-    if not running and pending_email_jobs:
+    elif scope == "email" and pending_email_jobs:
+        line = f"Email finder: {pending_email_jobs} job(s) queued"
+    elif scope == "all" and pending_email_jobs and not active:
         line = f"Email finder: {pending_email_jobs} job(s) queued"
 
+    job_running = bool(active and active.get("running"))
+    if scope == "email":
+        job_running = job_running or pending_email_jobs > 0
+
+    progress_note = "Job in progress on this tool (form disabled until it finishes)."
+    if scope == "serper":
+        progress_note = "Serper LinkedIn finder job in progress (this form is disabled until it finishes)."
+    elif scope == "rapidapi":
+        progress_note = "RapidAPI URN resolver job in progress (this form is disabled until it finishes)."
+    elif scope == "email":
+        progress_note = "Email enrichment job in progress (this form is disabled until it finishes)."
+
+    snap = active or {}
     return {
-        "job_running": running or pending_email_jobs > 0,
-        "server_busy": is_system_busy(),
+        "job_running": job_running,
+        "server_busy": form_disabled,
         "progress_line": line,
-        "job_type": job_type,
+        "progress_note": progress_note,
+        "job_type": snap.get("job_type") or "",
         "job_email_masked": _mask_email(snap.get("email") or ""),
         "last_summary": snap.get("last_summary") or "",
         "last_error": snap.get("error"),
-        "finished_at_hint": datetime.now().strftime("%Y-%m-%d %H:%M UTC") if not running and snap.get("last_summary") else "",
+        "finished_at_hint": datetime.now().strftime("%Y-%m-%d %H:%M UTC")
+        if not job_running and snap.get("last_summary")
+        else "",
         "pending_email_jobs": pending_email_jobs,
+        "scope": scope,
     }
 
 
