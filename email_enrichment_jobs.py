@@ -32,6 +32,7 @@ from email_enrichment_store import (
 from fullenrich_client import BATCH_SIZE, FullEnrichError, enrich_batch, sanitize_error_message
 from linkedin_jobs import _email_job, _state_lock, _update_progress, _worker_lock
 from mailer import send_results_email
+from seeqe_email_callback import sync_rows_to_seeqe
 
 logger = logging.getLogger(__name__)
 
@@ -254,6 +255,15 @@ def _process_job(job_id: str) -> None:
 
             for offset, row in enumerate(enriched):
                 results[batch_start + offset] = row
+
+            posted, callback_failed = sync_rows_to_seeqe(enriched)
+            if posted or callback_failed:
+                logger.info(
+                    "Job %s Seeqe callbacks: %s posted, %s failed",
+                    job_id,
+                    posted,
+                    callback_failed,
+                )
 
             rows_processed = batch_start + len(batch)
             batches_completed = batch_num

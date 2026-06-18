@@ -32,6 +32,7 @@ from email_enrichment_jobs import (
 )
 from email_enrichment_store import count_pending_jobs, write_results_csv
 from fullenrich_client import FullEnrichError, enrich_contacts, is_valid_linkedin_url
+from seeqe_email_callback import post_email_to_seeqe
 from linkedin_jobs import (
     is_email_job_running,
     is_rapidapi_job_running,
@@ -1937,7 +1938,9 @@ def _lookup_single_email(row: dict[str, str]) -> tuple[dict[str, str] | None, st
         results = enrich_contacts([row])
         if not results:
             return None, "No result returned from FullEnrich."
-        return results[0], None
+        result = results[0]
+        post_email_to_seeqe(result)
+        return result, None
     except FullEnrichError as exc:
         return None, str(exc)
     finally:

@@ -60,8 +60,9 @@ class Settings(BaseSettings):
     postgres_host: Optional[str] = None
     postgres_port: Optional[str] = None
 
-    # Jobs API v2 (GET /api/v2/company/hiring) – target-account jobs, last 1 week
+    # Seeqe person/email integration callback (FullEnrich → Seeqe DB)
     vieu_api_key: Optional[str] = None
+    seeqe_requester_id: str = "clay.caravan-tech"
     jobs_api_base_url: str = "https://api-dev.cloud.seeqe.dev"
 
     class Config:
