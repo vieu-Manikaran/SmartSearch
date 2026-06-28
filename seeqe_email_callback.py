@@ -49,10 +49,14 @@ def _build_payload(row: dict[str, Any]) -> dict[str, str] | None:
         logger.warning("Seeqe callback skipped: work email found but linkedin_url missing")
         return None
 
+    created_at = (row.get("created_at") or "").strip()
+    if not created_at:
+        created_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
     return {
         "linkedInUrl": linkedin_url,
         "email": email,
-        "createdAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "createdAt": created_at,
         "confidence_status": (row.get("email_status") or "").strip(),
         "email_type": "professional",
     }

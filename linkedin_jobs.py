@@ -12,7 +12,8 @@ from typing import Any, Callable
 from mailer import send_results_email
 from config import settings
 from rapidapi_person_deep import resolve_profiles_batch, resolve_vanity_url
-from serper_search import find_linkedin_company_url, find_linkedin_person_url
+from person_linkedin_finder import find_person_linkedin
+from serper_search import find_linkedin_company_url
 
 logger = logging.getLogger(__name__)
 
@@ -199,14 +200,16 @@ def _run_person(pairs: list[tuple[str, str]], email: str, save_csv: Callable) ->
         _update_progress("person", idx, total, label)
         logger.info("Person LinkedIn [%s/%s] %s", idx, total, label)
         search_query = f"{person} {company} site:linkedin.com"
-        found_url = find_linkedin_person_url(person, company, api_key, num=10, date_restrict=None)
+        match = find_person_linkedin(person, company, serper_api_key=api_key)
         rows.append(
             {
                 "person": person,
                 "company": company,
-                "search_query": search_query,
-                "linkedin_url": found_url or "",
-                "status": "found" if found_url else "no_profile_in_top_10",
+                "search_query": match.search_query,
+                "linkedin_url": match.url or "",
+                "status": match.status,
+                "match_score": str(match.score),
+                "source": match.source,
             }
         )
     path = save_csv(rows)

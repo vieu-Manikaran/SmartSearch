@@ -1,0 +1,906 @@
+{
+  "next_index": 100,
+  "rows": [
+    {
+      "Person": "Nikita Kuznietsov",
+      "Company": "Wise",
+      "LinkedIn_URL": "https://www.linkedin.com/in/nikita-kuznietsov-6b1a2213a",
+      "Search_Query": "rapidapi: nikita kuznietsov @ Wise",
+      "Status": "found",
+      "Match_Score": "16",
+      "Source": "rapidapi"
+    },
+    {
+      "Person": "Christian Britto",
+      "Company": "Self",
+      "LinkedIn_URL": "https://www.linkedin.com/in/christian-britto",
+      "Search_Query": "\"Christian Britto\" self site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Trey Kirchoff",
+      "Company": "Self",
+      "LinkedIn_URL": "https://www.linkedin.com/in/treykirchoff",
+      "Search_Query": "\"Trey Kirchoff\" self site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Aarron Dumm",
+      "Company": "Spinwheel",
+      "LinkedIn_URL": "https://www.linkedin.com/in/adumm",
+      "Search_Query": "\"Aarron Dumm\" spinwheel site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Douglas Yauger",
+      "Company": "Ameriprise Financial",
+      "LinkedIn_URL": "https://www.linkedin.com/in/douglas-yauger-49786791",
+      "Search_Query": "\"Douglas Yauger\" ameriprise site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Adriana Feng",
+      "Company": "Stash",
+      "LinkedIn_URL": "https://www.linkedin.com/in/adriana-feng",
+      "Search_Query": "\"Adriana Feng\" stash site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Adnan Shah",
+      "Company": "Wealthsimple Inc",
+      "LinkedIn_URL": "https://ca.linkedin.com/in/adnan-shah-cim%C2%AE-56299b69",
+      "Search_Query": "\"Adnan Shah\" wealthsimple site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Sorin Jurca",
+      "Company": "NetSpend",
+      "LinkedIn_URL": "https://www.linkedin.com/in/sorinjurca",
+      "Search_Query": "\"Sorin Jurca\" netspend site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Tory McCrea",
+      "Company": "NetSpend",
+      "LinkedIn_URL": "https://www.linkedin.com/in/tory-mccrea-a8741711",
+      "Search_Query": "\"Tory McCrea\" netspend site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Shuja Khan",
+      "Company": "Apple Inc.",
+      "LinkedIn_URL": "https://in.linkedin.com/in/shuja-khan-95a745248",
+      "Search_Query": "\"Shuja Khan\" apple site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Samira Palmatary",
+      "Company": "Affirm",
+      "LinkedIn_URL": "https://www.linkedin.com/in/sapalmatary",
+      "Search_Query": "\"Samira Palmatary\" affirm site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Cheryl Crouse",
+      "Company": "CertifID",
+      "LinkedIn_URL": "https://www.linkedin.com/in/cherylcrouse",
+      "Search_Query": "\"Cheryl Crouse\" certifid site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Greg Slowiak",
+      "Company": "CertifID",
+      "LinkedIn_URL": "https://www.linkedin.com/in/greg-slowiak-chi",
+      "Search_Query": "\"Greg Slowiak\" certifid site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Peter Marsh",
+      "Company": "CertifID",
+      "LinkedIn_URL": "https://www.linkedin.com/in/pemarsh",
+      "Search_Query": "\"Peter Marsh\" certifid site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Tyler Adams",
+      "Company": "CertifID",
+      "LinkedIn_URL": "https://www.linkedin.com/in/tylerhadams",
+      "Search_Query": "\"Tyler Adams\" certifid site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Bill Kuykendall",
+      "Company": "InComm",
+      "LinkedIn_URL": "https://www.linkedin.com/in/bkuykendall",
+      "Search_Query": "\"Bill Kuykendall\" incomm site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Debjit Saha",
+      "Company": "MoneyGram International",
+      "LinkedIn_URL": "https://www.linkedin.com/in/debjit-saha",
+      "Search_Query": "\"Debjit Saha\" moneygram site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Issac Gonzalez",
+      "Company": "Ezcorp",
+      "LinkedIn_URL": "https://www.linkedin.com/in/isaac-gonzalez-52043920b",
+      "Search_Query": "Issac Gonzalez Ezcorp site:linkedin.com",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_loose"
+    },
+    {
+      "Person": "Paola Rodriguez",
+      "Company": "Ezcorp",
+      "LinkedIn_URL": "https://www.linkedin.com/in/paola-rodriguezgamboa",
+      "Search_Query": "\"Paola Rodriguez\" ezcorp site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Nicole Swies",
+      "Company": "Ezcorp",
+      "LinkedIn_URL": "https://www.linkedin.com/in/nicoleswies",
+      "Search_Query": "\"Nicole Swies\" ezcorp site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Damon Vigiolto",
+      "Company": "Ezcorp",
+      "LinkedIn_URL": "https://www.linkedin.com/in/damon-vigiolto-769baa3",
+      "Search_Query": "\"Damon Vigiolto\" ezcorp site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Sharon Knitter",
+      "Company": "Ezcorp",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Eli Martinez",
+      "Company": "Happy Money Inc",
+      "LinkedIn_URL": "https://www.linkedin.com/in/eli-martinez-4752207",
+      "Search_Query": "\"Eli Martinez\" happy site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Derrick Craft",
+      "Company": "Citigroup",
+      "LinkedIn_URL": "https://www.linkedin.com/in/derrick-craft-58759833",
+      "Search_Query": "\"Derrick Craft\" citigroup site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Eleazar Acosta",
+      "Company": "Citigroup",
+      "LinkedIn_URL": "https://www.linkedin.com/in/eleazar-acosta-2975461b",
+      "Search_Query": "\"Eleazar Acosta\" citigroup site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Jason Madrid",
+      "Company": "Citigroup",
+      "LinkedIn_URL": "https://www.linkedin.com/in/jasonmadrid-pmp",
+      "Search_Query": "\"Jason Madrid\" citigroup site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Magalli Miranda",
+      "Company": "Citigroup",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Neeraj Singh",
+      "Company": "Citigroup",
+      "LinkedIn_URL": "https://www.linkedin.com/in/neeraj-singh-6058211",
+      "Search_Query": "\"Neeraj Singh\" citigroup site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Nora Blake",
+      "Company": "Citigroup",
+      "LinkedIn_URL": "https://www.linkedin.com/in/norablake",
+      "Search_Query": "\"Nora Blake\" citigroup site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Tenesha Miller",
+      "Company": "Citigroup",
+      "LinkedIn_URL": "https://www.linkedin.com/in/tenesha-miller-mba-830b3431",
+      "Search_Query": "rapidapi: tenesha miller @ Citigroup",
+      "Status": "found",
+      "Match_Score": "15",
+      "Source": "rapidapi"
+    },
+    {
+      "Person": "Steven Paterson",
+      "Company": "Royal Bank of Canada",
+      "LinkedIn_URL": "https://uk.linkedin.com/in/steven-paterson-80229b239",
+      "Search_Query": "\"Steven Paterson\" royal site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "11",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Rachel Seaton",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/rachel-seaton-evans",
+      "Search_Query": "\"Rachel Seaton\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Rolando Vega",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://www.linkedin.com/in/rolando-j-vega",
+      "Search_Query": "\"Rolando Vega\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Naaz Nichols",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/naaz-nichols",
+      "Search_Query": "\"Naaz Nichols\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Pratik Shah",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/pratik-shah-622a874",
+      "Search_Query": "\"Pratik Shah\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Vibha Tyagi",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/vibha-tyagi-8b6794",
+      "Search_Query": "\"Vibha Tyagi\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Molly Stein",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/molly-stein-84627113b",
+      "Search_Query": "\"Molly Stein\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Kyle Williams",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/kyle-williams-6945b7",
+      "Search_Query": "\"Kyle Williams\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Charlotte Lacey",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/charlotteannlacey",
+      "Search_Query": "\"Charlotte Lacey\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Tessa Jacocks",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://www.linkedin.com/in/tessajacocks",
+      "Search_Query": "\"Tessa Jacocks\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Michele Tobin",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://www.linkedin.com/in/micheletobin",
+      "Search_Query": "\"Michele Tobin\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Cecily Gold",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://www.linkedin.com/in/cecilygold",
+      "Search_Query": "\"Cecily Gold\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Priti Joshi",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://www.linkedin.com/in/pritijoshi27",
+      "Search_Query": "\"Priti Joshi\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Whitney Wolfe Herd",
+      "Company": "Bumble",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Tariq Shaukat",
+      "Company": "Bumble",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Kevin O'Callaghan",
+      "Company": "Bumble",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Trisha Chastain",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://www.linkedin.com/in/tricia-chastain-a7964791",
+      "Search_Query": "Trisha Chastain Bumble site:linkedin.com",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_loose"
+    },
+    {
+      "Person": "Anu Subramanian",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://www.linkedin.com/in/subramaniananu",
+      "Search_Query": "\"Anu Subramanian\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Chris Fortier",
+      "Company": "Twitch",
+      "LinkedIn_URL": "https://www.linkedin.com/in/chris-r-fortier",
+      "Search_Query": "\"Chris Fortier\" twitch site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Roman Degtyur",
+      "Company": "Care.com",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Francesca ReDavid",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/francescaredavid",
+      "Search_Query": "\"Francesca ReDavid\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Daniel Baryshnikov",
+      "Company": "Bumble",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Caitlin Gray",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/caitlin-gray-ca",
+      "Search_Query": "\"Caitlin Gray\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Mike Jones",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://www.linkedin.com/in/mike-jones-256240155",
+      "Search_Query": "\"Mike Jones\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Rashpal Rai",
+      "Company": "Bumble",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Paul Wright",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://uk.linkedin.com/in/wrightpaul1886",
+      "Search_Query": "\"Paul Wright\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "11",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Natalia Lepech",
+      "Company": "Bumble",
+      "LinkedIn_URL": "https://uk.linkedin.com/in/natalia-lepech-47267564",
+      "Search_Query": "\"Natalia Lepech\" bumble site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Ryan Safarian",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/ryan-safarian",
+      "Search_Query": "\"Ryan Safarian\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Elisha McCann",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://au.linkedin.com/in/elisha-mccann-44a11346",
+      "Search_Query": "\"Elisha McCann\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Jacqueline No longer at the company - at Airbnb - located in Boston",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/jacqueline-blair-boston-76028568",
+      "Search_Query": "Jacqueline No longer at the company - at Airbnb - located in Boston Care.com site:linkedin.com",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_loose"
+    },
+    {
+      "Person": "Sarah Schol",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/sarah-schol-3a4234216?trk=public_profile_samename-profile",
+      "Search_Query": "\"Sarah Schol\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Sabrina Pascoe",
+      "Company": "Care.com",
+      "LinkedIn_URL": "https://www.linkedin.com/in/sabrinapascoe",
+      "Search_Query": "\"Sabrina Pascoe\" care com site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Jerry Wu",
+      "Company": "Snapchat Inc",
+      "LinkedIn_URL": "https://www.linkedin.com/in/jerry-wu-69a142",
+      "Search_Query": "\"Jerry Wu\" snapchat site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Reid Howell",
+      "Company": "Snapchat Inc",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Buddha Manandhar",
+      "Company": "Microsoft Corporation",
+      "LinkedIn_URL": "https://www.linkedin.com/in/buddha-manandhar",
+      "Search_Query": "\"Buddha Manandhar\" microsoft site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Weiwei Wang",
+      "Company": "Microsoft Corporation",
+      "LinkedIn_URL": "https://www.linkedin.com/in/weiweiwang528",
+      "Search_Query": "\"Weiwei Wang\" microsoft site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Ruben Aguilar",
+      "Company": "Microsoft Corporation",
+      "LinkedIn_URL": "https://www.linkedin.com/in/ruben-aguilar-a454294a",
+      "Search_Query": "\"Ruben Aguilar\" microsoft site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Shawn Anderson",
+      "Company": "Microsoft Corporation",
+      "LinkedIn_URL": "https://www.linkedin.com/in/shawnbanderson",
+      "Search_Query": "\"Shawn Anderson\" microsoft site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Cintia Lederer",
+      "Company": "Microsoft Corporation",
+      "LinkedIn_URL": "https://www.linkedin.com/in/cintia-lederer-a9487081",
+      "Search_Query": "\"Cintia Lederer\" microsoft site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Jihane Bougazzoul",
+      "Company": "Microsoft Corporation",
+      "LinkedIn_URL": "https://www.linkedin.com/in/jihanebougazzoul",
+      "Search_Query": "\"Jihane Bougazzoul\" microsoft site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Bart Lilly",
+      "Company": "USAA",
+      "LinkedIn_URL": "https://www.linkedin.com/in/bartlilly",
+      "Search_Query": "\"Bart Lilly\" usaa site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Brian Andera",
+      "Company": "USAA",
+      "LinkedIn_URL": "https://www.linkedin.com/in/brian-andera-85043185",
+      "Search_Query": "\"Brian Andera\" usaa site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Corina Aleman",
+      "Company": "USAA",
+      "LinkedIn_URL": "https://www.linkedin.com/in/corina-aleman-660589a",
+      "Search_Query": "\"Corina Aleman\" usaa site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Dominique Harry",
+      "Company": "USAA",
+      "LinkedIn_URL": "https://www.linkedin.com/in/dominique-harry-cams-cafs-962859a2",
+      "Search_Query": "\"Dominique Harry\" usaa site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Lacey Bruske",
+      "Company": "USAA",
+      "LinkedIn_URL": "https://www.linkedin.com/in/laceybruske",
+      "Search_Query": "\"Lacey Bruske\" usaa site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Robyn Thomas",
+      "Company": "USAA",
+      "LinkedIn_URL": "https://www.linkedin.com/in/robyn-thomas-46023b263",
+      "Search_Query": "\"Robyn Thomas\" usaa site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Christian Broussard",
+      "Company": "TriNet",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Gautam Mekala",
+      "Company": "TriNet",
+      "LinkedIn_URL": "https://www.linkedin.com/in/gautam-mekala-009583155",
+      "Search_Query": "\"Gautam Mekala\" trinet site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Jennifer Wendel",
+      "Company": "TriNet",
+      "LinkedIn_URL": "https://www.linkedin.com/in/jennifer-wendel-87a27b3",
+      "Search_Query": "\"Jennifer Wendel\" trinet site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Melissa Kullander",
+      "Company": "Workday",
+      "LinkedIn_URL": "https://www.linkedin.com/in/melissa-kullander",
+      "Search_Query": "\"Melissa Kullander\" workday site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Ryan Chou",
+      "Company": "Coinbase",
+      "LinkedIn_URL": "https://www.linkedin.com/in/ryantchou",
+      "Search_Query": "\"Ryan Chou\" coinbase site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Amanda Avery",
+      "Company": "Cox Automotive",
+      "LinkedIn_URL": "https://www.linkedin.com/in/amandajordanavery",
+      "Search_Query": "\"Amanda Avery\" cox automotive site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Kurt Stonecipher",
+      "Company": "Cox Automotive",
+      "LinkedIn_URL": "https://www.linkedin.com/in/kurtstonecipher",
+      "Search_Query": "\"Kurt Stonecipher\" cox automotive site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Matthew Blackwell",
+      "Company": "Cox Automotive",
+      "LinkedIn_URL": "https://www.linkedin.com/in/matthewrblackwell",
+      "Search_Query": "\"Matthew Blackwell\" cox automotive site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Prakash Mohandas",
+      "Company": "Cox Automotive",
+      "LinkedIn_URL": "https://www.linkedin.com/in/prakash-mohandas-508a2a8",
+      "Search_Query": "\"Prakash Mohandas\" cox automotive site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Tim Ayo",
+      "Company": "Walmart",
+      "LinkedIn_URL": "https://www.linkedin.com/in/tim-ayo-cfi-8879865",
+      "Search_Query": "\"Tim Ayo\" walmart site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Michael Draper",
+      "Company": "Adobe",
+      "LinkedIn_URL": "https://www.linkedin.com/in/michaeldraper1",
+      "Search_Query": "\"Michael Draper\" adobe site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Chris Hedge",
+      "Company": "Adobe",
+      "LinkedIn_URL": "https://www.linkedin.com/in/chrishedge",
+      "Search_Query": "\"Chris Hedge\" adobe site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Theodore Warhoe",
+      "Company": "VRBO",
+      "LinkedIn_URL": "https://nl.linkedin.com/in/theodore-warhoe-424161b",
+      "Search_Query": "\"Theodore Warhoe\" vrbo site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Christopher Walk",
+      "Company": "Expedia Group",
+      "LinkedIn_URL": "https://www.linkedin.com/in/chriswalk",
+      "Search_Query": "Christopher Walk Expedia Group site:linkedin.com",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_loose"
+    },
+    {
+      "Person": "Michelle Shillinglaw",
+      "Company": "Adobe",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Jeff Hurst",
+      "Company": "Expedia Group",
+      "LinkedIn_URL": "https://www.linkedin.com/in/jeff-hurst-atx",
+      "Search_Query": "\"Jeff Hurst\" expedia site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "12",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Jessica Fortier",
+      "Company": "The RealReal",
+      "LinkedIn_URL": "https://www.linkedin.com/in/jessica-potts-fortier",
+      "Search_Query": "\"Jessica Fortier\" the realreal site:linkedin.com/in",
+      "Status": "found",
+      "Match_Score": "13",
+      "Source": "serper_strict"
+    },
+    {
+      "Person": "Ana Castelan",
+      "Company": "Etsy",
+      "LinkedIn_URL": "https://www.linkedin.com/in/anacastelan",
+      "Search_Query": "rapidapi: ana castelan @ Etsy",
+      "Status": "found",
+      "Match_Score": "15",
+      "Source": "rapidapi"
+    },
+    {
+      "Person": "Gerum Haile",
+      "Company": "Airbnb",
+      "LinkedIn_URL": "https://www.linkedin.com/in/gerumhaile",
+      "Search_Query": "rapidapi: gerum haile @ Airbnb",
+      "Status": "found",
+      "Match_Score": "15",
+      "Source": "rapidapi"
+    },
+    {
+      "Person": "Nicholas Berkeley",
+      "Company": "Walmart",
+      "LinkedIn_URL": "https://www.linkedin.com/in/nick-berkeley-2b84128a",
+      "Search_Query": "rapidapi: nicholas berkeley @ Walmart",
+      "Status": "found",
+      "Match_Score": "15",
+      "Source": "rapidapi"
+    },
+    {
+      "Person": "Omar V\u00c3\u00a1zquez",
+      "Company": "Expedia Group",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Nick French",
+      "Company": "Expedia Group",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Thomas Head",
+      "Company": "Walmart",
+      "LinkedIn_URL": "",
+      "Search_Query": "",
+      "Status": "no_profile_in_top_10",
+      "Match_Score": "0",
+      "Source": ""
+    },
+    {
+      "Person": "Michelle Hazen",
+      "Company": "Expedia Group",
+      "LinkedIn_URL": "https://www.linkedin.com/in/michellehazen",
+      "Search_Query": "rapidapi: michelle hazen @ Expedia Group",
+      "Status": "found",
+      "Match_Score": "16",
+      "Source": "rapidapi"
+    }
+  ],
+  "output_path": "/Users/manikaransingh/linkedin-tenure-weekly/ashutosh/data/person_linkedin/book2_2_v2_20260626_155856.csv"
+}

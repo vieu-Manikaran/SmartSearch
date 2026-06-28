@@ -52,7 +52,8 @@ from linkedin_jobs import (
 )
 from mailer import smtp_configured
 from rapidapi_person_deep import normalize_linkedin_profile_url, resolve_vanity_url
-from serper_search import find_linkedin_company_url, find_linkedin_person_url, search_serper
+from person_linkedin_finder import find_person_linkedin
+from serper_search import find_linkedin_company_url, search_serper
 
 app = Flask(__name__)
 logger = logging.getLogger(__name__)
@@ -1169,7 +1170,7 @@ def save_person_linkedin_results(rows: list[dict[str, str]]) -> str:
     PERSON_LINKEDIN_OUTPUT.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     file_path = PERSON_LINKEDIN_OUTPUT / f"{timestamp}_person_linkedin.csv"
-    fieldnames = ["Person", "Company", "LinkedIn_URL", "Search_Query", "Status"]
+    fieldnames = ["Person", "Company", "LinkedIn_URL", "Search_Query", "Status", "Match_Score", "Source"]
     with file_path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -1181,6 +1182,8 @@ def save_person_linkedin_results(rows: list[dict[str, str]]) -> str:
                     "LinkedIn_URL": row.get("linkedin_url") or "",
                     "Search_Query": row["search_query"],
                     "Status": row["status"],
+                    "Match_Score": row.get("match_score", ""),
+                    "Source": row.get("source", ""),
                 }
             )
     return str(file_path)
@@ -1695,15 +1698,16 @@ def _lookup_single_person(person: str, company: str) -> tuple[dict[str, str] | N
         return None, "Another Serper lookup is in progress. Please wait."
     try:
         api_key = settings.serper_api_key or ""
-        search_query = f"{person} {company} site:linkedin.com"
-        found_url = find_linkedin_person_url(person, company, api_key, num=10, date_restrict=None)
+        match = find_person_linkedin(person, company, serper_api_key=api_key)
         return (
             {
                 "person": person,
                 "company": company,
-                "search_query": search_query,
-                "linkedin_url": found_url or "",
-                "status": "found" if found_url else "no_profile_in_top_10",
+                "search_query": match.search_query,
+                "linkedin_url": match.url or "",
+                "status": match.status,
+                "match_score": str(match.score),
+                "source": match.source,
             },
             None,
         )

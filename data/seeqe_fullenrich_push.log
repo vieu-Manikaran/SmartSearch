@@ -1,0 +1,92 @@
+2026-06-18 15:13:00,399 INFO Pushing 7747 rows from data/consolidated_fullenrich_seeqe.csv
+(eval):1: command not found: setsid
+2026-06-18 15:22:01,229 INFO Pushing 7747 rows from data/consolidated_fullenrich_seeqe.csv
+2026-06-18 15:23:48,191 INFO Progress 100/7747 — posted: 100, failed: 0
+2026-06-18 15:25:56,711 INFO Progress 200/7747 — posted: 200, failed: 0
+2026-06-18 15:27:53,958 INFO Progress 300/7747 — posted: 300, failed: 0
+2026-06-18 15:29:49,393 INFO Progress 400/7747 — posted: 400, failed: 0
+2026-06-18 15:31:51,362 INFO Progress 500/7747 — posted: 500, failed: 0
+2026-06-18 15:34:35,324 INFO Progress 600/7747 — posted: 600, failed: 0
+2026-06-18 15:37:07,818 INFO Progress 700/7747 — posted: 700, failed: 0
+2026-06-18 15:39:06,473 INFO Progress 800/7747 — posted: 800, failed: 0
+2026-06-18 15:41:01,890 INFO Progress 900/7747 — posted: 900, failed: 0
+2026-06-18 15:43:02,494 INFO Progress 1000/7747 — posted: 1000, failed: 0
+2026-06-18 15:45:00,809 INFO Progress 1100/7747 — posted: 1100, failed: 0
+2026-06-18 15:46:57,791 INFO Progress 1200/7747 — posted: 1200, failed: 0
+2026-06-18 15:48:47,406 INFO Progress 1300/7747 — posted: 1300, failed: 0
+2026-06-18 15:50:49,515 INFO Progress 1400/7747 — posted: 1400, failed: 0
+2026-06-18 15:52:54,296 INFO Progress 1500/7747 — posted: 1500, failed: 0
+2026-06-18 15:54:53,570 INFO Progress 1600/7747 — posted: 1600, failed: 0
+2026-06-18 15:56:47,963 INFO Progress 1700/7747 — posted: 1700, failed: 0
+2026-06-18 15:58:39,978 INFO Progress 1800/7747 — posted: 1800, failed: 0
+2026-06-18 16:00:51,129 INFO Progress 1900/7747 — posted: 1900, failed: 0
+2026-06-18 16:02:50,308 INFO Progress 2000/7747 — posted: 2000, failed: 0
+2026-06-18 16:04:48,876 INFO Progress 2100/7747 — posted: 2100, failed: 0
+2026-06-18 16:06:47,422 INFO Progress 2200/7747 — posted: 2200, failed: 0
+2026-06-18 16:09:03,111 INFO Progress 2300/7747 — posted: 2300, failed: 0
+2026-06-18 16:11:21,877 INFO Progress 2400/7747 — posted: 2400, failed: 0
+2026-06-18 16:13:33,456 INFO Progress 2500/7747 — posted: 2500, failed: 0
+2026-06-18 16:15:59,520 INFO Progress 2600/7747 — posted: 2600, failed: 0
+2026-06-18 16:18:33,979 INFO Progress 2700/7747 — posted: 2700, failed: 0
+2026-06-18 16:20:37,876 INFO Progress 2800/7747 — posted: 2800, failed: 0
+2026-06-18 16:22:48,938 INFO Progress 2900/7747 — posted: 2900, failed: 0
+2026-06-18 16:25:10,549 INFO Progress 3000/7747 — posted: 3000, failed: 0
+2026-06-18 16:27:46,612 INFO Progress 3100/7747 — posted: 3100, failed: 0
+2026-06-18 16:30:31,709 INFO Progress 3200/7747 — posted: 3200, failed: 0
+2026-06-18 16:33:24,096 INFO Progress 3300/7747 — posted: 3300, failed: 0
+2026-06-18 16:36:29,055 INFO Progress 3400/7747 — posted: 3400, failed: 0
+2026-06-18 16:39:19,014 INFO Progress 3500/7747 — posted: 3500, failed: 0
+2026-06-18 16:41:58,818 INFO Progress 3600/7747 — posted: 3600, failed: 0
+2026-06-18 16:44:26,787 INFO Progress 3700/7747 — posted: 3700, failed: 0
+2026-06-18 16:46:53,979 INFO Progress 3800/7747 — posted: 3800, failed: 0
+2026-06-18 16:49:24,003 INFO Progress 3900/7747 — posted: 3900, failed: 0
+2026-06-18 16:51:57,231 INFO Progress 4000/7747 — posted: 4000, failed: 0
+2026-06-18 16:54:12,390 INFO Progress 4100/7747 — posted: 4100, failed: 0
+2026-06-18 16:56:46,006 INFO Progress 4200/7747 — posted: 4200, failed: 0
+2026-06-18 16:59:30,010 INFO Progress 4300/7747 — posted: 4300, failed: 0
+2026-06-18 17:02:22,681 INFO Progress 4400/7747 — posted: 4400, failed: 0
+2026-06-18 17:05:08,047 INFO Progress 4500/7747 — posted: 4500, failed: 0
+2026-06-18 17:08:02,584 INFO Progress 4600/7747 — posted: 4600, failed: 0
+2026-06-18 17:11:00,860 INFO Progress 4700/7747 — posted: 4700, failed: 0
+2026-06-18 17:13:46,299 INFO Progress 4800/7747 — posted: 4800, failed: 0
+2026-06-18 17:16:13,616 INFO Progress 4900/7747 — posted: 4900, failed: 0
+2026-06-18 17:18:43,542 INFO Progress 5000/7747 — posted: 5000, failed: 0
+2026-06-18 17:21:12,916 INFO Progress 5100/7747 — posted: 5100, failed: 0
+2026-06-18 17:23:54,706 INFO Progress 5200/7747 — posted: 5200, failed: 0
+2026-06-18 17:26:23,101 INFO Progress 5300/7747 — posted: 5300, failed: 0
+2026-06-18 17:28:59,694 INFO Progress 5400/7747 — posted: 5400, failed: 0
+2026-06-18 17:31:33,614 INFO Progress 5500/7747 — posted: 5500, failed: 0
+2026-06-18 17:34:27,700 INFO Progress 5600/7747 — posted: 5600, failed: 0
+2026-06-18 17:37:11,362 INFO Progress 5700/7747 — posted: 5700, failed: 0
+2026-06-18 17:39:55,846 INFO Progress 5800/7747 — posted: 5800, failed: 0
+2026-06-18 17:42:27,931 INFO Progress 5900/7747 — posted: 5900, failed: 0
+2026-06-18 17:45:16,954 INFO Progress 6000/7747 — posted: 6000, failed: 0
+2026-06-18 17:47:36,731 INFO Progress 6100/7747 — posted: 6100, failed: 0
+2026-06-18 17:50:18,255 INFO Progress 6200/7747 — posted: 6200, failed: 0
+2026-06-18 17:53:44,888 INFO Progress 6300/7747 — posted: 6300, failed: 0
+2026-06-18 17:57:51,715 WARNING Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Read timed out. (read timeout=30) (attempt 1/3)
+2026-06-18 17:58:02,145 INFO Progress 6400/7747 — posted: 6400, failed: 0
+2026-06-18 18:01:15,617 INFO Progress 6500/7747 — posted: 6500, failed: 0
+2026-06-18 18:04:14,691 INFO Progress 6600/7747 — posted: 6600, failed: 0
+2026-06-18 18:07:30,639 INFO Progress 6700/7747 — posted: 6700, failed: 0
+2026-06-18 18:11:55,717 WARNING Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Read timed out. (read timeout=30) (attempt 1/3)
+2026-06-18 18:11:57,740 WARNING Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Max retries exceeded with url: /api/v1/person/email/integration/granite/callback (Caused by NameResolutionError("HTTPSConnection(host='api-dev.cloud.seeqe.dev', port=443): Failed to resolve 'api-dev.cloud.seeqe.dev' ([Errno 8] nodename nor servname provided, or not known)")) (attempt 2/3)
+2026-06-18 18:22:18,798 WARNING Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Max retries exceeded with url: /api/v1/person/email/integration/granite/callback (Caused by NameResolutionError("HTTPSConnection(host='api-dev.cloud.seeqe.dev', port=443): Failed to resolve 'api-dev.cloud.seeqe.dev' ([Errno 8] nodename nor servname provided, or not known)")) (attempt 3/3)
+2026-06-18 18:22:18,799 ERROR Seeqe callback failed for https://www.linkedin.com/in/srini-ramakrishnan after 3 attempts: Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Max retries exceeded with url: /api/v1/person/email/integration/granite/callback (Caused by NameResolutionError("HTTPSConnection(host='api-dev.cloud.seeqe.dev', port=443): Failed to resolve 'api-dev.cloud.seeqe.dev' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-18 18:22:18,843 WARNING Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Max retries exceeded with url: /api/v1/person/email/integration/granite/callback (Caused by NameResolutionError("HTTPSConnection(host='api-dev.cloud.seeqe.dev', port=443): Failed to resolve 'api-dev.cloud.seeqe.dev' ([Errno 8] nodename nor servname provided, or not known)")) (attempt 1/3)
+2026-06-18 18:22:20,850 WARNING Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Max retries exceeded with url: /api/v1/person/email/integration/granite/callback (Caused by NameResolutionError("HTTPSConnection(host='api-dev.cloud.seeqe.dev', port=443): Failed to resolve 'api-dev.cloud.seeqe.dev' ([Errno 8] nodename nor servname provided, or not known)")) (attempt 2/3)
+2026-06-18 18:22:25,730 WARNING Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Max retries exceeded with url: /api/v1/person/email/integration/granite/callback (Caused by NameResolutionError("HTTPSConnection(host='api-dev.cloud.seeqe.dev', port=443): Failed to resolve 'api-dev.cloud.seeqe.dev' ([Errno 8] nodename nor servname provided, or not known)")) (attempt 3/3)
+2026-06-18 18:22:25,778 ERROR Seeqe callback failed for https://www.linkedin.com/in/sriniganta after 3 attempts: Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Max retries exceeded with url: /api/v1/person/email/integration/granite/callback (Caused by NameResolutionError("HTTPSConnection(host='api-dev.cloud.seeqe.dev', port=443): Failed to resolve 'api-dev.cloud.seeqe.dev' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-18 18:22:25,825 WARNING Seeqe callback network error: HTTPSConnectionPool(host='api-dev.cloud.seeqe.dev', port=443): Max retries exceeded with url: /api/v1/person/email/integration/granite/callback (Caused by NameResolutionError("HTTPSConnection(host='api-dev.cloud.seeqe.dev', port=443): Failed to resolve 'api-dev.cloud.seeqe.dev' ([Errno 8] nodename nor servname provided, or not known)")) (attempt 1/3)
+2026-06-18 18:22:56,526 INFO Progress 6800/7747 — posted: 6798, failed: 2
+2026-06-18 18:26:11,474 INFO Progress 6900/7747 — posted: 6898, failed: 2
+2026-06-18 18:29:37,532 INFO Progress 7000/7747 — posted: 6998, failed: 2
+2026-06-18 18:32:30,921 INFO Progress 7100/7747 — posted: 7098, failed: 2
+2026-06-18 18:35:40,926 INFO Progress 7200/7747 — posted: 7198, failed: 2
+2026-06-18 18:38:59,093 INFO Progress 7300/7747 — posted: 7298, failed: 2
+2026-06-18 18:42:10,844 INFO Progress 7400/7747 — posted: 7398, failed: 2
+2026-06-18 18:45:55,659 INFO Progress 7500/7747 — posted: 7498, failed: 2
+2026-06-18 18:49:23,531 INFO Progress 7600/7747 — posted: 7598, failed: 2
+2026-06-18 18:52:51,564 INFO Progress 7700/7747 — posted: 7698, failed: 2
+2026-06-18 18:54:26,799 INFO Progress 7747/7747 — posted: 7745, failed: 2
+2026-06-18 18:54:26,799 INFO Done — posted: 7745, failed: 2
