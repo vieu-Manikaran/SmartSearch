@@ -1,0 +1,322 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/dzhulgakov",
+  "row_key": "id:003Uk000012TuWdIAK",
+  "person": "Dmytro Dzhulgakov",
+  "account": "Fireworks AI",
+  "fetched_at": "2026-07-14T10:36:11Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAc9upIBnYUfHC00miukXlm4ZeoJugm8CVw",
+      "firstName": "Dmytro",
+      "lastName": "Dzhulgakov",
+      "fullName": "Dmytro Dzhulgakov",
+      "publicIdentifier": "dzhulgakov",
+      "headline": "Co-founder of Fireworks.ai, PyTorch core maintainer, ex-Meta AI",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": "Dima",
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHs8AO_ZTKmbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1521611946402?e=1785369600&v=beta&t=VQLmjlKTASyYn75wRBTm7PbkIn0ST5anQfoKntUIRes",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEEnz4w--y2mw/profile-displaybackgroundimage-shrink_200_800/B56ZbnDHQhGgAY-/0/1747633075547?e=1785369600&v=beta&t=LpMS3cT4KZzxKpIosuY1qXf-9bm-xFt5pqy9aJkpjZo",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHs8AO_ZTKmbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1521611946522?e=1785369600&v=beta&t=Np7vl4pU_mIJHy2LR4mRVY94AF2iNMvDBxejSlquZkI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHs8AO_ZTKmbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1521611946515?e=1785369600&v=beta&t=EXShG_ZOoy4q9mrr2sqrSLe1a79Jd-11C_0AFWAGOrA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHs8AO_ZTKmbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1521611946672?e=1785369600&v=beta&t=wG1V1CmAXEKwfllizp4L51ccq7_YVnJgX5QRC39xB0k"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHs8AO_ZTKmbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1521611946402?e=1785369600&v=beta&t=VQLmjlKTASyYn75wRBTm7PbkIn0ST5anQfoKntUIRes"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEEnz4w--y2mw/profile-displaybackgroundimage-shrink_350_1400/B56ZbnDHQhGgAc-/0/1747633075547?e=1785369600&v=beta&t=N1Jm-MdIkNT-MQvtFgdXjaI-R6PEIrZmBNFp9zeTDVU"
+        },
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEEnz4w--y2mw/profile-displaybackgroundimage-shrink_200_800/B56ZbnDHQhGgAY-/0/1747633075547?e=1785369600&v=beta&t=LpMS3cT4KZzxKpIosuY1qXf-9bm-xFt5pqy9aJkpjZo"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "91174981",
+          "companyUrn": "urn:li:fsd_company:91174981",
+          "companyLink1": "https://www.linkedin.com/company/fireworks-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBD0h39SCyLw/company-logo_400_400/company-logo_400_400/0/1711133682942/fireworks_ai_logo?e=1785369600&v=beta&t=CThoZGybDlkdOYbemJ_CeRFc5lBpwo5JuLmMa0DIY4M",
+          "title": "CTO, Co-Founder",
+          "subtitle": "Fireworks AI . Full-time",
+          "caption": "Oct 2022 - Present · 3 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Meta",
+          "subtitle": "Full-time · 10 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Tech Executive",
+              "caption": "Feb 2018 - Sep 2022 · 4 yrs 7 mos",
+              "metadata": "Menlo Park, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "PyTorch and Meta AI Platform Leadership\n\n- PyTorch core maintainer\n- Product strategy and implementation of production-oriented features of PyTorch through 1.0 release and beyond\n- Led consolidation of AI toolchain across research (FAIR) and product teams based on PyTorch. This work shortened the time to deploy the latest AI advancements from months to days and enabled significant metric improvements in Meta’s products\n- Revamped AI Platform architecture with focus on modularity and developer experience. Sustained 10x+ growth in compute and 5x+ growth in # of AI developers\n- Overall technical executive for the AI Frameworks team (200+ engineers) and broader AI Platform organization (400+ engineers)\n- Industry partnerships with Microsoft, Google, Amazon, OpenAI, Tesla, Cruise and others focused on PyTorch adoption in production"
+                }
+              ]
+            },
+            {
+              "title": "Senior Staff Software Engineer",
+              "caption": "Feb 2016 - Feb 2018 · 2 yrs",
+              "metadata": "Menlo Park, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Co-founder of the first Facebook-wide production AI Platform\n\n- Core developer of Caffe2 deep learning framework. Built out technology supporting full spectrum of Facebook AI use cases (ranking, vision, NLP, etc)\n- Platform powered transition from shallow ML models to deep learning for ranking and recommendation systems across Facebook (News Feed, Instagram, Ads) with substantial product metrics impact\n- Co-created ONNX in partnership with Microsoft, Amazon and several hardware vendors to enable interoperability of deep learning platforms. ONNX powered portability of AI models between research and production environments at Facebook.\n- Helped to scale the team from 4 to 30+ engs"
+                }
+              ]
+            },
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Feb 2014 - Feb 2016 · 2 yrs",
+              "metadata": "Menlo Park, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Founding member of Ads Personalization team\n\n- Co-authored the next generation large scale machine learning system for Ads event prediction and News Feed Ranking. The system enabled double-digit increase in company revenue.\n- Primary technical lead Ads Ranking Infrastructure Team (MLOps): upgrading systems for 10x+ growth in data volume, model size, introducing distributed serving."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Dec 2011 - Feb 2014 · 2 yrs 2 mos",
+              "metadata": "Menlo Park, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Technical lead of Ads Infrastructure team.\n\nScaled infrastructure of Ads Delivery system to support launch of Ads in News Feed (crucial pivot for the company monetization after IPO)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "76987811",
+          "companyUrn": "urn:li:fsd_company:76987811",
+          "companyLink1": "https://www.linkedin.com/company/facebook/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/company-logo_400_400/0/1635988509331/facebook__logo?e=1785369600&v=beta&t=uJYvhIATYKQViQjAD05UxjI88yF88yJPJnX249iiaLY",
+          "title": "Software Engineer Intern",
+          "subtitle": "Facebook . undefined",
+          "caption": "Feb 2011 - Apr 2011 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Software Engineer Intern",
+          "subtitle": "Google Zurich . undefined",
+          "caption": "Aug 2010 - Nov 2010 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Cofounder and developer",
+          "subtitle": "QBit: Youth programming society . undefined",
+          "caption": "2006 - 2010 · 4 yrs",
+          "metadata": "Kharkiv, Ukraine",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "One of the founders of QBit - a nonprofit organization aimed at popularizing programming among high school kids and university students:\n- co-authored programming problems automatic judging system used for organizing dozens of programming competitions\n- helped to organize and host yearly city-wide programming tournament with more than 400 participating students each year\n- taught weekly classes for high school students on algorithms and data structures\n\nWebsite (in Ukranian): http://qbit.org.ua/"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "NPF Informatica . undefined",
+          "caption": "2006 - 2009 · 3 yrs",
+          "metadata": "Kharkiv, Ukraine",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "One of the developers of SINTAR - an integrated IDE for building SCADA systems and expressing algorithms for industrial processes control. SINTAR was deployed to several design offices in Ukraine and used for building control systems for nuclear power plants.\n\nOverview paper (in Russian): http://www.khai.edu/csp/nauchportal/Arhiv/OIKIT/2010/OIKIT45/p182-193.pdf"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ukrainian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "International Olimpiad in Informatics 2006 Silver Medal",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ACM ICPC World Finalist 2010 & 2012",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The team ranked in top 30 both times"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Google Code Jam Finalist 2008, 2009, 2012, 2013, 2014, 2015",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "https://code.google.com/codejam\n\nRanking multiple times in top 10 in the world."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ranked in Top 20 on TopCoder",
+          "subtitle": "Issued by TopCoder, Inc.",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Multiple time finalist of TopCoder Open Algorithm (2010, 2012, 2014) which brings together top 25 competitive programmers worldwide.\n\nRanked 99.8% percentile among 6000+ active members: http://community.topcoder.com/tc?module=MemberProfile&cr=22074135"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "15099711",
+          "companyUrn": "urn:li:fsd_company:15099711",
+          "companyLink1": "https://www.linkedin.com/school/national-technical-university-kharkiv-polytechnic-institute-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE9d4wncJEPIg/company-logo_400_400/company-logo_400_400/0/1631356562593?e=1785369600&v=beta&t=P6-5bmuBp0MOvnh7OnGKSBU4TULSLw-5IFX-Wk-lgjA",
+          "title": "National Technical University \"Kharkiv Polytechnic Institute\"",
+          "subtitle": "Master, Applied Mathematics",
+          "caption": "2010 - 2012",
+          "subComponents": []
+        },
+        {
+          "companyId": "15099711",
+          "companyUrn": "urn:li:fsd_company:15099711",
+          "companyLink1": "https://www.linkedin.com/school/national-technical-university-kharkiv-polytechnic-institute-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE9d4wncJEPIg/company-logo_400_400/company-logo_400_400/0/1631356562593?e=1785369600&v=beta&t=P6-5bmuBp0MOvnh7OnGKSBU4TULSLw-5IFX-Wk-lgjA",
+          "title": "National Technical University \"Kharkiv Polytechnic Institute\"",
+          "subtitle": "Bachelor, Applied Mathematics",
+          "caption": "2006 - 2010",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

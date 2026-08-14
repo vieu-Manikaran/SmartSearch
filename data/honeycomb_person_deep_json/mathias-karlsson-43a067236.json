@@ -1,0 +1,66 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/mathias-karlsson-43a067236",
+  "row_key": "id:003Uk00000yCEWCIA4",
+  "person": "Mathias Karlsson",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:47:01Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADq9t64BYaFRPSYTBIvJpgK10kI4qGIlyDA",
+      "firstName": "Mathias",
+      "lastName": "Karlsson",
+      "fullName": "Mathias Karlsson",
+      "publicIdentifier": "mathias-karlsson-43a067236",
+      "headline": "HR-chef inom bolag på ICA Gruppen",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "SE",
+        "language": "sv"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Umeå, Västerbotten County Sweden",
+      "addressWithoutCountry": "Umeå, Västerbotten County",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "HR-chef inom bolag",
+          "subtitle": "ICA Gruppen . Full-time",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

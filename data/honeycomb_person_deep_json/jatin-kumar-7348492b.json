@@ -1,0 +1,660 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jatin-kumar-7348492b",
+  "row_key": "id:003Uk00000yfPyaIAE",
+  "person": "Jatin Kumar",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:50:49Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAZalNgBKXMO0-ZbhHT3fkhgPqryyNPmBRg",
+      "firstName": "Jatin",
+      "lastName": "Kumar",
+      "fullName": "Jatin Kumar",
+      "publicIdentifier": "jatin-kumar-7348492b",
+      "headline": "Senior Security Architect @ Dominion Energy | M365, Endpoint Management (SCCM/MECM,Intune) Azure, EntraID,Purview DLP,Defender",
+      "about": "With over 15 years of experience, I contribute to enterprise-scale infrastructure design and implementation.My work focuses on architecting and supporting cloud-based infrastructure while modernizing end-user computing with technologies such as Microsoft Intune, Purview and Defender Skilled in PowerShell and CI/CD, I enable process automation and enhance security while driving cost savings and reliability. Dedicated to aligning technology with organizational goals, I aim to deliver scalable, secure, and efficient solutions for cloud-based deployments.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Renewables & Environment",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Richmond Region United States",
+      "addressWithoutCountry": "Greater Richmond Region",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGJjHCXXA7pdQ/profile-displayphoto-scale_100_100/B56ZriIwCyLkAc-/0/1764730538899?e=1785369600&v=beta&t=xr4Yy1E3lJeU2mZRrWDePbchEabLdNohXZ8-iJFL5k0",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGJjHCXXA7pdQ/profile-displayphoto-scale_400_400/B56ZriIwCyLkAg-/0/1764730538899?e=1785369600&v=beta&t=y91DFT6uBDI8b73VYZ5j57HVm3H-POVt2chPtz3wv6g"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGJjHCXXA7pdQ/profile-displayphoto-scale_200_200/B56ZriIwCyLkAY-/0/1764730538899?e=1785369600&v=beta&t=ptbNMserzB1i9fygMRkmCoMzqff9kQsFsda0gKGv79s"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGJjHCXXA7pdQ/profile-displayphoto-crop_800_800/B56ZriIwCyLkAI-/0/1764730538803?e=1785369600&v=beta&t=43JszJxYXKi6dGsbBi6eJ42LKqf49NFOPMPBPijbbJw"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGJjHCXXA7pdQ/profile-displayphoto-scale_100_100/B56ZriIwCyLkAc-/0/1764730538899?e=1785369600&v=beta&t=xr4Yy1E3lJeU2mZRrWDePbchEabLdNohXZ8-iJFL5k0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "5666",
+          "companyUrn": "urn:li:fsd_company:5666",
+          "companyLink1": "https://www.linkedin.com/company/dominionenergy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE2vsTkcvvEtw/company-logo_400_400/company-logo_400_400/0/1630533474280/dominionenergy_logo?e=1785369600&v=beta&t=Um4nebEHM0Drxovbeh8IMGbt6duujhrdVHWAprU6o3c",
+          "title": "Senior Security Architect",
+          "subtitle": "Dominion Energy . Full-time",
+          "caption": "Feb 2026 - Present · ",
+          "metadata": "Richmond, VA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Primary M365 Security Architect for a CEII-regulated energy organization, driving enterprise data protection, threat detection, endpoint governance, Zero Trust, compliance, and secure AI enablement.\n•     Spearheaded enterprise M365 security architecture across Purview DLP, MIP, Defender XDR, Endpoint DLP, Insider Risk, and Zero Trust.\n•     Designed M365 Purview DLP for Exchange, SharePoint, OneDrive, Teams, and endpoints, aligning CEII controls with response workflows.\n•     Built M365 data classification using sensitivity labels, auto-labeling, encryption, SITs, EDM, and trainable classifiers.\n•     Operationalized Defender XDR across Endpoint, Office 365, and Identity to strengthen detection, alert tuning, and investigations.\n•     Expanded M365 Endpoint DLP to USB, print, clipboard, browser upload, and cloud sync channels for secure hybrid work.\n•     Advanced Zero Trust with Conditional Access, MFA, least privilege, device trust, and compliance-based access enforcement.\n•     Established M365 Copilot readiness by assessing label coverage, oversharing risk, prompt protection, and Purview AI governance.\n•     Automated M365 DLP validation, label audits, compliance reporting, and incident triage using PowerShell and Microsoft Graph API.\n•     Pioneered M365 Copilot for IT operations, accelerating scripting, triage, and runbooks while reducing documentation time ~40%.\n•     Delivered Windows 11 migration for 300+ endpoints with Intune and Autopilot, cutting imaging time ~70% across 8+ sites.\n•     Modernized endpoint operations with SCCM, Intune MDM/MAM, Autopatch, passwordless auth, Conditional Access, and ServiceNow automation.\n•     Advised legal, compliance, executive, and security leaders on M365 architecture, CEII risk, governance, and audit readiness."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Amazon Web Services (AWS)",
+          "subtitle": "Full-time · 5 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Systems Engineer III",
+              "caption": "May 2023 - Nov 2025 · 2 yrs 6 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for architecting, designing, & implementing cloud-based infrastructure and endpoint management solutions using AWS and Azure. My work centers on building secure, scalable ,& modern device management that keep enterprises resilient and efficient. Specialize in End User Computing (EUC); automation with PowerShell, Python, and CI/CD; and defense-in-depth using Intune, SCCM/MECM, Microsoft Defender.\nMy portfolio includes architecting & managing Azure Virtual Desktop (AVD) infrastructures, leading end-to-end endpoint operations, and creating automation-driven solutions that improve performance and reduce operational overhead.\nCore Responsibilities\n•Cloud Architecture & Platform Engineering: Design & implement secure, scalable cloud environments leveraging Azure and AWS, using IaC tools like ARM templates and CloudFormation.\n•Endpoint Management & EUC Modernization: Drive modernization with Intune, SCCM/MECM, Autopilot, and Hybrid Azure AD Join.\n•\tAutomation & DevOps Integration: Develop automation scripts using PowerShell, Python, and integrate CI/CD pipelines.\n•\tSecurity & Compliance Enforcement: Implement Defender, Purview, DLP, EDR, BitLocker, and enforce compliance policies.\n•\tAzure Virtual Desktop (AVD) Management: Design & deploy AVD environments, configure FSLogix profiles, and optimize performance.\n•\tEndpoint Operations & Service Reliability: Lead end-to-end operations, resolve escalations, and align with ITIL processes.\nKey Achievements\n•Implemented EUC modernization with Intune, SCCM, Entra, and Cloud PC, improving resilience and reducing costs by 20%.\n•\tAccelerated provisioning for 15,000+ endpoints via Intune Autopilot and Hybrid Azure AD Join, cutting deployment time by 40%.\n•\tDesigned, implemented, and supported Azure Virtual Desktop environments, ensuring secure, scalable, and high-performance virtual workspace delivery.\n•Configured and maintained Group Policy and Active Directory structures, including OU management and compliance enforcement."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Oct 2020 - May 2023 · 2 yrs 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Architecting, designing, implementing and supporting of cloud based infrastructure and its solutions. Managing Amazon Web Services (AWS) infrastructure with automation. Providing Operations Support in AWS services like VPC, EC2, S3, ELB, AutoScalingGroups(ASG), EBS, RDS, IAM, CloudFormation, Route 53, CloudWatch, CloudFront, CloudTrail.Creating multiple VPC’s and public, private subnets as per requirement and distributed them as groups into various availability zones of the VPC.Created NAT gateways and instances to allow communication from the private instances to the internet through bastion hosts.\nUsed security groups, network ACL’s, internet gateways and route tables to ensure a secure zone for organization in AWS public cloud.\nCreated and configured elastic load balancers and auto scaling groups to distribute the traffic and to have a cost efficient, fault tolerant and highly available environment.\nUsed IAM for creating roles, users, groups and also implemented MFA to provide additional security to AWS account and its resources.\nWritten cloud formation templates in json to create custom VPC, subnets, NAT to ensure successful deployment of web applications.\nImplemented domain name service (DNS) through route 53 to have highly available and scalable applications.\nMaintained the monitoring and alerting of production and corporate servers using Cloud Watch service.\nExperienced in creating RDS instances to serve data through servers for responding to requests.\nResponsible for Continuous Integration and Continuous Delivery process implementation using Jenkins along with Python and Shell scripts to automate routine jobs.\nResponsible for performing tasks like Branching, Tagging, and Release Activities on Version Control Tools like SVN, GIT.\nEnvironment: AWS (EC2, VPC, ELB, S3, EBS, RDS, Route53, ELB, Cloud Watch, CloudFormation, AWS Auto Scaling, Lambda, Elastic BeanStalk), GIT, SQL, Jira, AWS CLI, Unix/Linux"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "166141",
+          "companyUrn": "urn:li:fsd_company:166141",
+          "companyLink1": "https://www.linkedin.com/company/state-of-rhode-island/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH3J3j4YBrWZg/company-logo_400_400/company-logo_400_400/0/1630610398966/state_of_rhode_island_logo?e=1785369600&v=beta&t=Q4mP56d3KACzh7rxbhLBzxefZ_htaVFMsR_gzyMnuTE",
+          "title": "Senior Technical Architect",
+          "subtitle": "State of Rhode Island . Full-time",
+          "caption": "Sep 2019 - Oct 2020 · 1 yr 1 mo",
+          "metadata": "Providence, Rhode Island Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Implementation of Intune/Azure mobile device management with Configuration Manager (SCCM) and Office 365/Exchange hybrid environment.Develop ,deploy and manage mobile applications and mobile application managment policies with Azure including MAM.Working with Apple iOS APN certificates as well as Apple device enrollment program (DEP),Configuration Manager and cloud services (including kiosk devices ,iOS/Andriod). Well versed with PowerShell.Designed, implemented, and supported Azure Virtual Desktop (AVD) environments leveraging FSLogix, Azure networking, user profiles, and secure access controls.Delivered full lifecycle Endpoint Operations & Support, managing incidents, escalations, performance tuning, and ITIL-based processes.\nManaged and administered Microsoft Azure services including IaaS, PaaS, storage, automation, and identity integrations.Administered FSLogix containers to optimize AVD user experience and profile performance.Managed Active Directory and Group Policy (GPO), including OU design, policy hardening, and enterprise-wide configuration management.\nResponsible for Configuration Manager Current Branch environment for 12,000 endpoints.Currently leading a large Windows 7 to 10 migrations using OSD , Intune and AutoPilot. Implementation of Co-Management with SCCM and Intune.Currenty deploying 7000 endpoints using Intune Autopilot Hybrid AzureAD .Manage software distribution projects including Microsoft Security upgrades and standard desktop software across the enterprise. Prioritize and coordinate security patch and software testing schedules and distributions. Create packages, collections, and advertisements for distributions. Work with corporate security to identify and remediate areas of workstation risks, as well as evaluate new software for compatibility with existing standards and inclusion with new desktop image.Third Party patching using Ivanti.\nAssisting team mates with SCOM and Orchestrator."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior Solutions Engineer",
+          "subtitle": "Microsoft-via Denali Advanced Integration . Full-time",
+          "caption": "Jul 2018 - Sep 2019 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Managing more than 5000 Servers /Desktops/Laptops with SCCM 1806 , SCOM 2016/2016 and OMS . Application and Software Deployment , Patch Management , OSD, Custom Reporting and Dashboard via Power BI.  . Managing devices with Intune. Azure Infrastructure.Upgrade SCOM 2012 to SCOM 2016, custom management pack development.Providing architectural and implementation engineering for enterprises in System Center(SCOM/SCCM/SCORCH).Managed and optimized Azure Virtual Desktop (AVD) deployments with FSLogix profiles, improving user experience, performance, and login efficiency for global users.Directed SCCM administration including application packaging (MSI), software distribution, global deployments, compliance baselines, and OS upgrades for 10K+ devices.Executed large-scale migration initiatives, including moving 5,000 mailboxes from Exchange 2013 to Office 365, providing seamless cutovers, coexistence management, and identity integrations via Azure AD."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19018",
+          "companyUrn": "urn:li:fsd_company:19018",
+          "companyLink1": "https://www.linkedin.com/company/denaliadvancedintegration/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGYxRo4VAYMDQ/company-logo_400_400/company-logo_400_400/0/1631314318492?e=1785369600&v=beta&t=AUpH7WNimLX1a3LplJ51d1fisPLl4Ae2rMG2UNBbyJE",
+          "title": "Senior Solutions Engineer",
+          "subtitle": "Denali Advanced Integration . undefined",
+          "caption": "Jan 2017 - Sep 2019 · 2 yrs 8 mos",
+          "metadata": "Redmond, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Migrating customer’s existing on Prem environment to Microsoft Azure in order to meet their business requirements.\nDeploying Windows 10 with Microsoft solutions MDT and SCCM as well as managing Patches.\nProviding architectural and implementation engineering for enterprises in System Center(SCOM/SCCM/SCSM/SCORCH) and delivery expertise on client projects.\nDeploying and integrating System Center solutions in client environments.Managing and monitoring and servicing more than 30,000 devices for a very large enterprise client.\nPlanning, designing and implementing Microsoft infrastructure products (On Premise and Cloud services) such as AD, Exchange, Office 365 and Azure services."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "112655",
+          "companyUrn": "urn:li:fsd_company:112655",
+          "companyLink1": "https://www.linkedin.com/company/concurrency/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGtd_2bJ4Lncg/company-logo_400_400/company-logo_400_400/0/1630653051502/concurrency_logo?e=1785369600&v=beta&t=3whaBCpDo8XnLQXRcNl8eQTazFA-PC2LtqC2xC2Q5Ng",
+          "title": "System Engineer",
+          "subtitle": "Concurrency, Inc. . undefined",
+          "caption": "Nov 2015 - Dec 2016 · 1 yr 1 mo",
+          "metadata": "Greater Minneapolis-St. Paul Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead Microsoft System Center Suit (SCOM, SCCM,SCSM, SCORCH) Architect for enterprise projects: responsible for solution designs/architecture and implementation."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "162882",
+          "companyUrn": "urn:li:fsd_company:162882",
+          "companyLink1": "https://www.linkedin.com/company/canadian-pacific/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEbE3WBWeFclQ/company-logo_400_400/company-logo_400_400/0/1655152635745/canadian_pacific_logo?e=1785369600&v=beta&t=Yyl5rkk2YkyHqfudFCE2KKy_da62PILZHQP3uXWxovQ",
+          "title": "Converged Infrastructure Specialist",
+          "subtitle": "Canadian Pacific Railway . undefined",
+          "caption": "Nov 2013 - Oct 2015 · 1 yr 11 mos",
+          "metadata": "Greater Minneapolis-St. Paul Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for working with business units and developers to gather requirements to insure successful design and implementation of SCCM 2012 and SCOM 2012 and support for more than 2500 Servers(Linux and Windows) and 8000 clients \nManage and monitor infrastructure with  SCOM 2012 and SCORCH 2012.\nPlanning, design, architect, installation  System Center 2012 Orchestrator and integrate with SCOM,SCCM,AD ,VMware and HPSM.\nGreat exposure  to Vmware V sphere, V - Center.\nSkilled in scripting technologies as well as systems integration using Poweshell 3.0.\nWorking on Data Center Migration from IBM to CP for Windows (AD,DNS,DHCP).\nCompleted 55039A Windows PowerShell Scripting and Toolmaking , Microsoft Official Course.\nAutomation of CP's Data Centers in Minneapolis and Ogden using Microsoft Orchestrator , SMA and Powershell.\n\nSCCM 2012 Experience \nDesign /Implement Configmgr 2012 hierarchy --Primary,Secondary,Distribution points.\n• managing and maintenance of daily, weekly and monthly tasks.\n• Patch Management, Software Distribution, Reporting\n• Custom reports SQL and Reporting Services\n• Maintain the health of existing SCCM servers and clients.\n• Application Virtualization (App-V)\n• Auto Deployment of applications in Effective Way using Query based Collections,\n• Patch management using SCCM 2012 WSUS\n• Actively monitoring core applications included in the base client regarding security issues, application corrections and releases of new versions.\n• Experience in Operating System Deployment using Microsoft tools (i.e. Microsoft Deployment Toolkit, Windows Automated Installation Kit, Task Sequences of SCCM)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Enterprise Systems Management Architect",
+          "subtitle": "Wipro Technologies . undefined",
+          "caption": "Apr 2008 - Nov 2013 · 5 yrs 7 mos",
+          "metadata": "Phoenix, AZ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Company\tWipro Technologies \nSolution Environment\tSCOM 2012, Solarwinds Orion NPM,NCM,IPAM,SCCM 2007,NetIQ,Big Brother\n\nDescription\n\nExtensive Design, Architect & Implementation of Microsoft System Center Operations Manager and      support of existing Enterprise Monitoring Tools.\n\n\n• Planning, design, architect, installation and support for multiple product lines to successfully implement Monitoring Tools project.\n• Architecture, Implement &Troubleshooting System Center Products (Specialist for SCOM 2007 SP1/R2, SCOM 2012). Working on deployment mid to large scale SCOM infrastructure for up to 4000 Servers. Upgrade SCOM 2007 R2 to SCOM 2012. \n• In-depth knowledge of Management Pack’s design and Authoring. Used SCOM offline Authoring\nConsole to develop MPs for in house Application monitoring. Automation of MP creation.\n• Successfully implement business critical MPs like SQL, Active Directory, MS Cluster, MS Exchange 2010, MS Cluster, Terminal Services, File Services Monitoring, SharePoint etc... and 3rd Party MPs like Citrix, VMWARE, BlackBerry, HP CIM, Backup Exec etc. • Created more than 3000 Rules and Monitors to cater the need of precise and accurate monitoring. Good knowledge of performance management, monitoring Thresholds. \n• Implemented cross platform MPs and monitored over 500 Unix/Linux Servers. Very good understanding of SNMP used SNMP for network device monitoring.\n• Good understanding of Reporting. Daily Availability Report of Agent Health Checks and other\nCustomized reports. Experience with integration of SCOM with Remedy, SCSM Ticketing tools and other ESM products like Solarwinds Orion, NetIQ for centralized system monitoring.\n• Virtualized the environment using VMWARE.\n• Understanding of scripting tools wiz VB scripting, XML, HTML, PowerShell.\n• Extensively worked with Hyper V, SQL, SVMM and IIS."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "926041",
+          "companyUrn": "urn:li:fsd_company:926041",
+          "companyLink1": "https://www.linkedin.com/company/okta-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0I9HrjbrEYQ/company-logo_400_400/company-logo_400_400/0/1667862034764/okta_inc__logo?e=1785369600&v=beta&t=s3twGdZGAtoPtcfzQ9kP7yGlhUCbK480uVMvp7KsHsc",
+          "title": "Explore Identity Foundations",
+          "subtitle": "Okta",
+          "issued": "Issued Jul 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure Fundamentals",
+          "subtitle": "Microsoft",
+          "issued": "Issued Dec 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "70-347 Enabling Office 365 Services",
+          "subtitle": "Microsoft",
+          "issued": "Issued Jul 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCSA: Office 365 - Certified 2017",
+          "subtitle": "Microsoft",
+          "issued": "Issued Jul 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Exam 346: Managing Office 365 Identities and Requirements",
+          "subtitle": "Microsoft",
+          "issued": "Issued Mar 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Deploy Windows 10 with Microsoft Deployment Toolkit 2013",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Oct 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCTS: Administering and Deploying System Center 2012 Configuration Manager",
+          "subtitle": "Microsoft",
+          "issued": "Issued Dec 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCTS: SQL Server 2005",
+          "subtitle": "Microsoft",
+          "issued": "Issued Dec 2009",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCTS: Microsoft System Center Operations Manager 2007, Configuration",
+          "subtitle": "Microsoft",
+          "issued": "Issued May 2008",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCDBA: Microsoft SQL Server 2000",
+          "subtitle": "Microsoft",
+          "issued": "Issued Oct 2005",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCSE1: Windows 2000",
+          "subtitle": "Microsoft",
+          "issued": "Issued Sep 2002",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCPS: Microsoft Certified Professional",
+          "subtitle": "Microsoft",
+          "issued": "Issued Nov 2001",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "55039A Windows PowerShell Scripting and Toolmaking Certified",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ITIL V3 Certified",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Certified Professional",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SCCM 2012 Certifited",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SCOM Certified",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Identity and Access Management (IAM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "M365",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ITIL Certified",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SCCM MECM Microsoft Intune",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure Virtual Desktop (AVDI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure Virtual Desktop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SCCM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Solutions Architect",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft 365",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Intune",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SCOM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Entra ID",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Q",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon QuickSight",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Bedrock",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Azure Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15111205",
+          "companyUrn": "urn:li:fsd_company:15111205",
+          "companyLink1": "https://www.linkedin.com/school/santaji-college-pt.-jawaharlal-nehru-marg/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFiQ4WRwJUQYA/company-logo_400_400/company-logo_400_400/0/1698939571245?e=1785369600&v=beta&t=i8gCvCkze23uQb4JazYRQnWeNEu8Eh_DbT-7enkYJ_Y",
+          "title": "Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)",
+          "subtitle": "Bachelor's degree, Electrical and Electronics Engineering",
+          "caption": "May 1998 - Jun 2002",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

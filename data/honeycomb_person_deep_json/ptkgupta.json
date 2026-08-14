@@ -1,0 +1,568 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ptkgupta",
+  "row_key": "id:0033l00002rZRCLAA4",
+  "person": "Prateek Gupta",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T10:52:06Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAlEe30B5DnZ9A9NKziHU-K3f_uLOWBEilc",
+      "firstName": "Prateek",
+      "lastName": "Gupta, CFA",
+      "fullName": "Prateek Gupta, CFA",
+      "publicIdentifier": "ptkgupta",
+      "headline": "Risk Analytics and AI Leader - Consumer and Wealth Management Lending at Wells Fargo",
+      "about": "Strategic financial services leader with 10+ years of experience at large banks translating complex lending, risk, and operational processes into data-driven decision frameworks. Deep expertise in credit policy, model governance, risk appetite design, and portfolio analytics. Experienced in designing automated control systems and analytics frameworks that modernize financial operations. CFA charterholder with strong ability to bridge finance, data, and technology teams to drive AI-enabled transformation in regulated environments.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQG9U7yUqCdvUw/profile-displayphoto-shrink_400_400/B56Za0A4sGHgAk-/0/1746776854215?e=1785369600&v=beta&t=1gc9ESAF6Akvq-T2u-1xi89kqPwdeskfb32YKpsMqRI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQG9U7yUqCdvUw/profile-displayphoto-shrink_100_100/B56Za0A4sGHgAY-/0/1746776854278?e=1785369600&v=beta&t=JGZx_cIucA_V95k3y7u28Yu1QQZi61JMoB3cugTNTIA"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQG9U7yUqCdvUw/profile-displayphoto-shrink_800_800/B56Za0A4sGHgAg-/0/1746776854278?e=1785369600&v=beta&t=Qn-ZcEAqP4fxo7Uraavzw5dNA16mj2WywtAgCkvKZGs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQG9U7yUqCdvUw/profile-displayphoto-shrink_200_200/B56Za0A4sGHgAc-/0/1746776854278?e=1785369600&v=beta&t=bVm5OUgBC28s8K2XkAcToG6bMn2_dizMUFw6Ci0WE9A"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQG9U7yUqCdvUw/profile-displayphoto-shrink_400_400/B56Za0A4sGHgAk-/0/1746776854215?e=1785369600&v=beta&t=1gc9ESAF6Akvq-T2u-1xi89kqPwdeskfb32YKpsMqRI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1235",
+          "companyUrn": "urn:li:fsd_company:1235",
+          "companyLink1": "https://www.linkedin.com/company/wellsfargo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_400_400/company-logo_400_400/0/1630471638964/wellsfargo_logo?e=1785369600&v=beta&t=_ZX7jJAX1ukTfa3LecxDACeAtjWQ_zmPd610Uq1WcpM",
+          "title": "Wells Fargo",
+          "subtitle": "Full-time · 8 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "VP, Lead Risk Officer - Consumer and Wealth Management Lending",
+              "caption": "Jan 2022 - Present · 4 yrs",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Senior Associate - Consumer and Wealth Management Lending",
+              "caption": "Jun 2020 - Jan 2022 · 1 yr 7 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Associate - Consumer and Wealth Management Lending",
+              "caption": "Jun 2018 - Jun 2020 · 2 yrs",
+              "metadata": "San Francisco",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "After graduating from Risk Associate Program, joined Real Estate Credit Risk team."
+                }
+              ]
+            },
+            {
+              "title": "Risk Associate Program - Credit Risk Track",
+              "caption": "Jun 2017 - Jun 2018 · 1 yr",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\tDeveloped monthly dashboard for senior management to analyze characteristics and performance trends of risky Real Estate investments, evaluate payment shock and conceptualize credit loss mitigation strategies\n\n\tCollaborated with operations and marketing teams to validate risk based investment segmentation strategy for Real Estate investments portfolio. Shared findings and recommended enhancements to the Real Estate investments leadership\n\n\tContributed to the advancement of Credit Attributes Management Program (AMP); conducted focus groups with various LOB partners to gather feedback on AMP. Identified gaps and recommended enhancements\n\n\tSelf-learned the fundamentals of credit risk scorecard development process, attribute inventory and premier attributes. Conducted multiple high-level overview sessions on credit scorecard development for non-modelers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Portfolio Manager",
+          "subtitle": "Mayer Fund, Robert H. Smith School of Business . undefined",
+          "caption": "Apr 2016 - Mar 2017 · 11 mos",
+          "metadata": "College Park, Maryland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Mayer Fund is an endowment fund managed by a team consisting of a select group of second-year MBA students at the Smith School\n\nLed a team of 9 equity research analysts to manage university’s $3.8M endowment fund; achieved a fiscal year total return of 16.31%; outperformed professional money managers such as FMAGX, RDLAX and VWUSX \nReviewed over 30 financial models and stock reports and assisted equity analysts on their stock recommendations by challenging the underlying assumptions and evaluating the pros and cons of the companies\nConducted sector weighting discussions, tracked weekly fund performance and executed stock trades \nDistributed an annual dividend of $151,428 to the University Dean's Office"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1196",
+          "companyUrn": "urn:li:fsd_company:1196",
+          "companyLink1": "https://www.linkedin.com/company/ortho-clinical-diagnostics/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFVc2iwdHMkrQ/company-logo_400_400/company-logo_400_400/0/1712351502974/ortho_clinical_diagnostics_logo?e=1785369600&v=beta&t=gAxFRAGLZJBHxQNZpyaIGqdGpMsIbis6KiE21OaIjnM",
+          "title": "Corporate Strategy and Finance - MBA Intern",
+          "subtitle": "Ortho Clinical Diagnostics . undefined",
+          "caption": "Jun 2016 - Nov 2016 · 5 mos",
+          "metadata": "Rochester, New York Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Identified, analyzed, and recommended operational efficiency opportunities resulting in projected savings of $5.5 millions in business critical manufacturing facility. Constructed financial model to forecast costs and benefits for the next five years.\n\nConceptualized business case and developed phase-wise implementation strategy to mitigate risks. Presented projects to site leadership team to obtain investment approval of $650,000\n\nActed as a change agent by stressing on using NPV as the best measure of return, demonstrated the short comings of payback method to the management.\n\nDevised energy conservation awareness campaign for 1800 employees across 4 sites to engage staff in energy saving efforts.\n\nTools Used: MS Excel, MS powerpoint and Excel VBA"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11198",
+          "companyUrn": "urn:li:fsd_company:11198",
+          "companyLink1": "https://www.linkedin.com/company/environmental-defense/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGB46E7CffvQ/company-logo_400_400/company-logo_400_400/0/1672764461014/environmental_defense_logo?e=1785369600&v=beta&t=_NPHy8rNve5THCfBTR5QNrhKUqFNIYjcbXUsW-0EeTg",
+          "title": "EDF Climate Corps Fellow",
+          "subtitle": "Environmental Defense Fund . undefined",
+          "caption": "May 2016 - Aug 2016 · 3 mos",
+          "metadata": "Rochester, New York Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Climate Corps is Environmental Defense Fund’s innovative summer fellowship program that places specially-trained graduate students in companies, cities and universities as dedicated energy problem solvers. As selected fellow, I worked with Ortho Clinical Diagnostics in the summer, to identify energy conservation opportunities in their legacy manufacturing facility in Rochester."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1067",
+          "companyUrn": "urn:li:fsd_company:1067",
+          "companyLink1": "https://www.linkedin.com/company/jpmorgan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEVXhQs3mC56Q/company-logo_400_400/company-logo_400_400/0/1630646116001/jpmorgan_logo?e=1785369600&v=beta&t=8xkSZMA0FCJr7zjzmvvW16Qo7OUDsX_uJfc7joari5I",
+          "title": "Business Analyst",
+          "subtitle": "J.P. Morgan . undefined",
+          "caption": "Aug 2011 - Jun 2015 · 3 yrs 10 mos",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Introduction to AI and Machine Learning on Google Cloud",
+          "subtitle": "Google Cloud",
+          "issued": "Issued Aug 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2688310",
+          "companyUrn": "urn:li:fsd_company:2688310",
+          "companyLink1": "https://www.linkedin.com/company/upstart-network/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGBnx6B3Zly2Q/company-logo_400_400/company-logo_400_400/0/1630607426504/upstart_network_logo?e=1785369600&v=beta&t=fapP4cP7_78xM41lvU-tuVqW4XM1dJUkoobkw6-LC28",
+          "title": "AI in Financial Services Certification",
+          "subtitle": "Upstart",
+          "issued": "Issued Jun 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Verified Certificate for Fat Chance: Probability from the Ground Up",
+          "subtitle": "edX",
+          "issued": "Issued Jun 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Verified Certificate for Python Programming: Basic Skills",
+          "subtitle": "edX",
+          "issued": "Issued Jun 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "162977",
+          "companyUrn": "urn:li:fsd_company:162977",
+          "companyLink1": "https://www.linkedin.com/company/cfainstitute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEwDwsnzE7tJw/company-logo_400_400/B4EZx7tl6JGgAg-/0/1771602075977/cfainstitute_logo?e=1785369600&v=beta&t=HcaK3w8Uu0s1FSLSc78jSqgtKNkwnys7YsEjd2Z3AfU",
+          "title": "Chartered Financial Analyst (CFA)",
+          "subtitle": "CFA Institute",
+          "issued": "Issued Dec 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DELF- A2",
+          "subtitle": "International Centre for French Studies",
+          "issued": "Issued Jan 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Design Thinking for Business Innovation",
+          "subtitle": "Coursera",
+          "issued": "Issued Dec 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "CFA Institute",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Champion of the year 2014 - Volunteerism Category",
+          "subtitle": "Issued by J P Morgan Chase (Chase Consumer Banking)",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Won “Volunteerism Champion of the Year 2014” among 5,000 employees in CCB India."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Technology Ace (Q1-2013)",
+          "subtitle": "Issued by J P Morgan Chase",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Awarded 'Technology Ace' among 400 employees for developing generic web security solution eliminating major vulnerabilities of web applications in Consumer Card banking space.  "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Econometrics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Requirements",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stress Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data-driven Decision Making",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "KPI Dashboards",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Variety Of Audiences",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Key Performance Indicators",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ad Hoc Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Written Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quantitative Risk",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentation Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3640",
+          "companyUrn": "urn:li:fsd_company:3640",
+          "companyLink1": "https://www.linkedin.com/school/robert-h.-smith-school-of-business/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHmWakorAOUSQ/company-logo_400_400/company-logo_400_400/0/1674656793439/robert_h_smith_school_of_business_logo?e=1785369600&v=beta&t=E6FBWzVM2pVk2xzintQP_aW0L-d4KNet1BRbcqLS1Y0",
+          "title": "University of Maryland - Robert H. Smith School of Business",
+          "subtitle": "Master of Business Administration (MBA), Finance, General",
+          "caption": "2015 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.88"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Angel fellow at Dingman Center for Entrepreneurship: Evaluated start-up ideas and prepared pitch reports to assist in start-up screening process\nCo- President of Consulting Club and VP of External Relations, Finance Association\nWon 2nd prize in Northrop Grumman Case Competition\nCompleted Wall Street Prep training on Financial Statements, DCF, M&A, and LBO Modeling\nCase competition chair - Orientation Committee  "
+            }
+          ]
+        },
+        {
+          "companyId": "15134747",
+          "companyUrn": "urn:li:fsd_company:15134747",
+          "companyLink1": "https://www.linkedin.com/school/dhirubhaiambaniuniversity/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGXSnIMqc6HtQ/company-logo_100_100/B4DZZpQ05lG0AQ-/0/1745522741293/dhirubhai_ambani_institute_of_information_and_communication_technology_logo?e=1785369600&v=beta&t=3B-F7P-OQLkzPazPZSHD47VV-aOY78cPxW6682UqhRY",
+          "title": "Dhirubhai Ambani Institute of Information and Communication Technology",
+          "subtitle": "Bachelor of Technology (BTech), Information and Communication Technology",
+          "caption": "2007 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.6/4"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Teaching Assistant - System Software (Spring 2011)\n\n"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Project Lead S.M.A.R.T (Skilled Mastered to Accelerate Robust Talent)",
+          "subtitle": "J P Morgan Chase",
+          "caption": "Jan 2014 - Mar 2015 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

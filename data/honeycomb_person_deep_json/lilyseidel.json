@@ -1,0 +1,433 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/lilyseidel",
+  "row_key": "id:003Uk00000xfprRIAQ",
+  "person": "Lily Seidel",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:29Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAVaNsIBH_Y2ETiOBJmjiRkht0A5H_oHPp8",
+      "firstName": "Lily",
+      "lastName": "Seidel",
+      "fullName": "Lily Seidel",
+      "publicIdentifier": "lilyseidel",
+      "headline": "Product Strategy Leader in Entertainment | Epic Games, ex- Meta, Spotify",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQG5aLP9qY2vQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517353233863?e=1785369600&v=beta&t=FLurGyENPiLlhPd-oQexwps_Fo7plQ3WVgqrNFxjIHs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG5aLP9qY2vQQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517353233994?e=1785369600&v=beta&t=IU8QlZqEKrq4bdmpKDmeSGx8vl0We3XIba8H5vRhSCY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG5aLP9qY2vQQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517353233800?e=1785369600&v=beta&t=m0nrEzjdTWnqXa1Xf5X4tS6YC0dxAISGIj-TkWhPEoY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG5aLP9qY2vQQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517353233968?e=1785369600&v=beta&t=pLR31ongdWJWjf69z7daglCTn_vxV1k6arjho7oBAw8"
+        },
+        {
+          "width": 411,
+          "height": 411,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG5aLP9qY2vQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517353233863?e=1785369600&v=beta&t=FLurGyENPiLlhPd-oQexwps_Fo7plQ3WVgqrNFxjIHs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "undefined · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Creator Growth Director",
+              "caption": "Jan 2025 - Present · 1 yr",
+              "metadata": "San Francisco, California, United States",
+              "description": []
+            },
+            {
+              "title": "Product Strategy Director ",
+              "caption": "Jan 2023 - Jan 2025 · 2 yrs",
+              "metadata": "San Francisco, California, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Meta",
+          "subtitle": "undefined · 4 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Product Marketing and Strategy Lead, Entertainment",
+              "caption": "Sep 2022 - Jan 2023 · 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Led a team of product marketers across Meta's video products including Reels, Music, Gaming, Live and more"
+                }
+              ]
+            },
+            {
+              "title": "Senior Product Marketing and Strategy Manager, Video and Music",
+              "caption": "Jan 2019 - Sep 2022 · 3 yrs 8 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4781",
+          "companyUrn": "urn:li:fsd_company:4781",
+          "companyLink1": "https://www.linkedin.com/company/warner-music-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFEEde5JofCfQ/company-logo_400_400/company-logo_400_400/0/1636397302905/warner_music_group_logo?e=1785369600&v=beta&t=O5E6iaCgdhRZE_TZkTfL7Pk4-5T6FsbykdzBncp2Vk8",
+          "title": "Director of Partner Analytics and Development, Business Development",
+          "subtitle": "Warner Music Group . undefined",
+          "caption": "Jul 2017 - Jan 2019 · 1 yr 6 mos",
+          "metadata": "Greater New York City Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "207470",
+          "companyUrn": "urn:li:fsd_company:207470",
+          "companyLink1": "https://www.linkedin.com/company/spotify/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFkDzx_7dqq3A/company-logo_400_400/company-logo_400_400/0/1631377935713?e=1785369600&v=beta&t=xOpSqs4YTd4jitbl7mzLEyofvqRZ2c-TbxfZYOK5YBI",
+          "title": "Product Manager, MBA Intern",
+          "subtitle": "Spotify . undefined",
+          "caption": "Jun 2016 - Aug 2016 · 2 mos",
+          "metadata": "New York, New York",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1403",
+          "companyUrn": "urn:li:fsd_company:1403",
+          "companyLink1": "https://www.linkedin.com/company/booz-allen-hamilton/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFXBzVcVDSTOQ/company-logo_400_400/company-logo_400_400/0/1737465459820/booz_allen_hamilton_logo?e=1785369600&v=beta&t=1GBbJHxCs_RplClFfhlEQtk81Uf6itHl2yGN2OSMMGE",
+          "title": "Booz Allen Hamilton",
+          "subtitle": "undefined · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Associate",
+              "caption": "Jun 2014 - Jun 2015 · 1 yr",
+              "metadata": "Washington D.C. Metro Area",
+              "description": []
+            },
+            {
+              "title": "Senior Consultant ",
+              "caption": "Aug 2012 - Jun 2014 · 1 yr 10 mos",
+              "metadata": "Washington, DC",
+              "description": []
+            },
+            {
+              "title": "Consultant",
+              "caption": "Aug 2010 - Aug 2012 · 2 yrs",
+              "metadata": "Washington D.C. Metro Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1941447",
+          "companyUrn": "urn:li:fsd_company:1941447",
+          "companyLink1": "https://www.linkedin.com/company/all-things-go/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG29dt455vbVA/company-logo_200_200/B4EZd5pQXRGwAI-/0/1750092547857/all_things_go_logo?e=1785369600&v=beta&t=8ZKB_9bZtTKxGFiNyJomO9unSsY6o1BqbCDS8ZeYTSc",
+          "title": "Business Strategy and Operations Advisor",
+          "subtitle": "All Things Go . undefined",
+          "caption": "2013 - 2015 · 2 yrs",
+          "metadata": "Washington D.C.",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3758559",
+          "companyUrn": "urn:li:fsd_company:3758559",
+          "companyLink1": "https://www.linkedin.com/company/hopkins-student-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFMPaItQaJItg/company-logo_400_400/company-logo_400_400/0/1631351913030?e=1785369600&v=beta&t=fAVTsmAsQm1aDeACj4ol4006FhxqMTZA76vzuxng1v4",
+          "title": "Vice President, Sales & Marketing",
+          "subtitle": "Hopkins Student Enterprises . undefined",
+          "caption": "Sep 2009 - May 2010 · 8 mos",
+          "metadata": "Baltimore, Maryland Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1403",
+          "companyUrn": "urn:li:fsd_company:1403",
+          "companyLink1": "https://www.linkedin.com/company/booz-allen-hamilton/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFXBzVcVDSTOQ/company-logo_400_400/company-logo_400_400/0/1737465459820/booz_allen_hamilton_logo?e=1785369600&v=beta&t=1GBbJHxCs_RplClFfhlEQtk81Uf6itHl2yGN2OSMMGE",
+          "title": "Intern",
+          "subtitle": "Booz Allen Hamilton . undefined",
+          "caption": "Jun 2009 - Aug 2009 · 2 mos",
+          "metadata": "McLean, Virginia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "37168",
+          "companyUrn": "urn:li:fsd_company:37168",
+          "companyLink1": "https://www.linkedin.com/company/annie-e.-casey-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGm6vL1QBhhkQ/company-logo_400_400/company-logo_400_400/0/1721160900292/annie_e_casey_foundation_logo?e=1785369600&v=beta&t=KdUarwGv97eFjo_9YtMVLrCzpibY_AIsrndbxBftyPo",
+          "title": "Intern, System and Service Reform Division",
+          "subtitle": "Annie E. Casey Foundation . undefined",
+          "caption": "May 2008 - Aug 2008 · 3 mos",
+          "metadata": "Baltimore, Maryland Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Go-to-Market Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Music Industry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Innovation Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Launch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Thinking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ITIL Certified",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5290",
+          "companyUrn": "urn:li:fsd_company:5290",
+          "companyLink1": "https://www.linkedin.com/school/the-wharton-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_400_400/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1785369600&v=beta&t=18TrYOYPivgA1sGKJRv1alP3eid5Z2Pg97KpwAzgxKk",
+          "title": "University of Pennsylvania - The Wharton School",
+          "subtitle": "Master of Business Administration (MBA), Entrepreneurial Management",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "3528",
+          "companyUrn": "urn:li:fsd_company:3528",
+          "companyLink1": "https://www.linkedin.com/school/johns-hopkins-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEe5RVEEkRh_Q/company-logo_100_100/B4EZs4eJd_JQAU-/0/1766178987371?e=1785369600&v=beta&t=b45d57AHbKymztMZbrQolKJJDkt02DPdwABgYQr75E8",
+          "title": "The Johns Hopkins University",
+          "subtitle": "General Honors, BA, Economics",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

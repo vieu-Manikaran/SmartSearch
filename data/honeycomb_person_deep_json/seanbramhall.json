@@ -1,0 +1,355 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/seanbramhall",
+  "row_key": "id:0033l000031Q0arAAC",
+  "person": "Sean Bramhall",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:23Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAXeW74Bxhf7tsI-2VkyihEPTsWnF9Ehoq4",
+      "firstName": "Sean",
+      "lastName": "Bramhall",
+      "fullName": "Sean Bramhall",
+      "publicIdentifier": "seanbramhall",
+      "headline": "Site Reliability Engineer at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Vancouver, British Columbia Canada",
+      "addressWithoutCountry": "Vancouver, British Columbia",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Site Reliability Engineer",
+          "subtitle": "Yelp . Permanent Full-time",
+          "caption": "Mar 2021 - Present · 4 yrs 10 mos",
+          "metadata": "Vancouver, British Columbia, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "522308",
+          "companyUrn": "urn:li:fsd_company:522308",
+          "companyLink1": "https://www.linkedin.com/company/cloudreach/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEVwaZBtqzbjA/company-logo_400_400/company-logo_400_400/0/1694697789840/cloudreach_logo?e=1785369600&v=beta&t=A3GY38Xe4uuR0qXZONw0V-pZKQeFouOEzrhGJ6PYoP4",
+          "title": "Cloudreach",
+          "subtitle": "undefined · 6 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Site Reliability Engineer",
+              "caption": "Jun 2018 - Mar 2021 · 2 yrs 9 mos",
+              "metadata": "Vancouver, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "To create ultra-scalable & highly reliable software systems that allow the incredible Cloudreach Cloud Operations team to use their time more efficiently."
+                }
+              ]
+            },
+            {
+              "title": "DevOps Engineer and Google CSS Rep",
+              "caption": "Jun 2014 - Jun 2018 · 4 yrs",
+              "metadata": "Vancouver, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Maintaining, monitoring and providing support to enterprise customers on Amazon Web Services, Azure and Google Apps. \n\nUtilizing Ruby and JavaScript to develop tools and programs for our customers, our Operations team, and our Google CSS team.\n\nDeploying Chef for configuration management and Splunk for monitoring. \n\nProviding service reviews to customers monthly."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Google Apps Certified Deployment Specialist",
+          "subtitle": "Google",
+          "issued": "Issued Jul 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Professional Cloud Architect",
+          "subtitle": "Google Cloud Certified",
+          "issued": "Issued Dec 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified DevOps Engineer - Professional",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued Nov 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Developer - Associate",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued Jun 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified SysOps Administrator - Associate",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued Nov 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "223176",
+          "companyUrn": "urn:li:fsd_company:223176",
+          "companyLink1": "https://www.linkedin.com/company/progress-chef/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFTFsHWd4E_IQ/company-logo_400_400/company-logo_400_400/0/1639042022995/chef_software_logo?e=1785369600&v=beta&t=14LHQkg7J1-iqT0sKwNEbz5LFP4U1SayqCm7t-BqY6o",
+          "title": "Basic Chef Fluency Badge",
+          "subtitle": "Chef Software",
+          "issued": "Issued Jul 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8344",
+          "companyUrn": "urn:li:fsd_company:8344",
+          "companyLink1": "https://www.linkedin.com/school/bcit/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFQDqZHIzLMAw/company-logo_200_200/B56Z6oD4BVHcAE-/0/1780936048978/bcit_logo?e=1785369600&v=beta&t=jj6-QsKH4WT_fXulf2bDbB2H9oVa9mbTx-etyiycC_Y",
+          "title": "British Columbia Institute of Technology",
+          "subtitle": "Computer System Technology, Computer Science",
+          "caption": "2013 - 2015",
+          "subComponents": []
+        },
+        {
+          "companyId": "165977",
+          "companyUrn": "urn:li:fsd_company:165977",
+          "companyLink1": "https://www.linkedin.com/school/simon-fraser-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMCjZRnpf4Yg/company-logo_400_400/company-logo_400_400/0/1696609513072/simon_fraser_university_logo?e=1785369600&v=beta&t=vTZJJ44HAGs99MsUAfoZwp1lyucp_KzkRToan8CibEs",
+          "title": "Simon Fraser University",
+          "subtitle": "Bachelor of Applied Science (BASc), Computer Science",
+          "caption": "2012 - 2013",
+          "subComponents": []
+        },
+        {
+          "companyId": "165977",
+          "companyUrn": "urn:li:fsd_company:165977",
+          "companyLink1": "https://www.linkedin.com/school/simon-fraser-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMCjZRnpf4Yg/company-logo_400_400/company-logo_400_400/0/1696609513072/simon_fraser_university_logo?e=1785369600&v=beta&t=vTZJJ44HAGs99MsUAfoZwp1lyucp_KzkRToan8CibEs",
+          "title": "Simon Fraser University",
+          "subtitle": "Bachelor of Business Administration (BBA), Management of Technology, and Entrepreneurship",
+          "caption": "2004 - 2010",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

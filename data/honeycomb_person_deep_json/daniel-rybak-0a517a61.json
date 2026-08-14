@@ -1,0 +1,338 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/daniel-rybak-0a517a61",
+  "row_key": "id:003Uk00000Pb8jNIAR",
+  "person": "Daniel Rybak",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:04Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA0EVv0BAKB2A1sYhWaZ6HzUkjbYSeUstog",
+      "firstName": "Daniel",
+      "lastName": "Rybak",
+      "fullName": "Daniel Rybak",
+      "publicIdentifier": "daniel-rybak-0a517a61",
+      "headline": "iOS Developer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "iOS Developer",
+              "caption": "Jan 2024 - Present · 2 yrs",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Junior iOS Developer",
+              "caption": "Feb 2022 - Jan 2024 · 1 yr 11 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Indie iOS Developer",
+          "subtitle": "Self-employed",
+          "caption": "Mar 2019 - Present · 6 yrs 10 mos",
+          "metadata": "Camberley, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4039",
+          "companyUrn": "urn:li:fsd_company:4039",
+          "companyLink1": "https://www.linkedin.com/company/scjohnson/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE7Ys54G3BpgQ/company-logo_400_400/company-logo_400_400/0/1630654818004/scjohnson_logo?e=1785369600&v=beta&t=EGUm8-iWpNuq-2VZ1e7-PjizcoZFXeTDF9eh6BVE8lw",
+          "title": "SC Johnson",
+          "subtitle": "Full-time · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": ".NET Developer",
+              "caption": "May 2020 - Feb 2022 · 1 yr 9 mos",
+              "metadata": "Frimley, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Automation Analyst",
+              "caption": "Feb 2019 - May 2020 · 1 yr 3 mos",
+              "metadata": "Frimley, Surrey, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Customer fulfilment analyst - Centralised team",
+              "caption": "Apr 2017 - Feb 2019 · 1 yr 10 mos",
+              "metadata": "Frimley, Surrey, United Kingdom",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "100DaysOfSwift",
+          "subtitle": "www.hackingwithswift.com",
+          "issued": "Issued Nov 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Ios 12 swift development bootcamp",
+          "subtitle": "Udemy",
+          "issued": "Issued Oct 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unit Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Basic .NET (VB.NET)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Github",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CocoaPods",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xcode",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core ML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Auto Layout",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8369",
+          "companyUrn": "urn:li:fsd_company:8369",
+          "companyLink1": "https://www.linkedin.com/school/university-of-surrey/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPzxEJGdWEtw/company-logo_400_400/company-logo_400_400/0/1685524095223/university_of_surrey_logo?e=1785369600&v=beta&t=-be0wYcI0VO226IVdVTpLc61XZuHwZ4LcXZ9NQxsTWU",
+          "title": "University of Surrey",
+          "subtitle": "Bachelor's Degree, Vice-president at University of Surrey Russian Speaking Society, member of Food and Wine Society.",
+          "caption": "2011 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "2.2"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/jwlhall",
+  "row_key": "id:003Uk00000Pb3znIAB",
+  "person": "Jonny Hall",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:29Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAr2Y-4BBThOEF6zpk09QqYvnq67PJrxBW8",
+      "firstName": "Jonny",
+      "lastName": "Hall",
+      "fullName": "Jonny Hall",
+      "publicIdentifier": "jwlhall",
+      "headline": "Engineering Manager",
+      "about": "I’ve been working as a Front End Developer/Software Engineer since completing General Assembly’s Web Development Immersive Bootcamp in 2017.  Previously, I had a successful career as a Senior TV Producer working at many of the top London Advertising Agencies. \n\nOver the 15 years I spent working my way up through the Advertising TV Production world I’ve developed a wide range of transferable skills that I have bought to my role as a Developer. A TV Producer’s role is dependent on Organisation, Teamwork, Stakeholder & Project Management and excellent Presentation and Communication skills. \n\nI’ve always been interested in technology. Combining that with the very logical side to my personality (which led me to be a Producer in the first place) and my love of logic-based puzzles and challenges led me to coding as an opportunity to apply that, along with the creativity that I also enjoyed in TV Production. ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQEhJSPtENuq1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516526798520?e=1785369600&v=beta&t=2BqV_rnIr6iBfP39MfH7Cz13QkN7aexvK83zzjnFuSQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQEhJSPtENuq1g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516526798649?e=1785369600&v=beta&t=9VhdByBB6TJoNS91nLmd8TqUuScOZRG17EQzmaPNGWk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQEhJSPtENuq1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516526798652?e=1785369600&v=beta&t=6QvUybAM76_ylvpEz0G45xaIDVj-FMO9Y1U0ayqg-Pg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQEhJSPtENuq1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516526798660?e=1785369600&v=beta&t=X19TaLBUsI8PEXePxSZCO8618whDEM1PLqmptVyQnH0"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQEhJSPtENuq1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516526798520?e=1785369600&v=beta&t=2BqV_rnIr6iBfP39MfH7Cz13QkN7aexvK83zzjnFuSQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 7 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Manager",
+              "caption": "Jul 2022 - Present · 3 yrs 6 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jul 2021 - Jul 2022 · 1 yr",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Frontend Web Developer",
+              "caption": "Feb 2018 - Jul 2021 · 3 yrs 5 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Junior Web Developer",
+          "subtitle": "Looking for a Job Now . undefined",
+          "caption": "Jan 2018 - Feb 2018 · 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2408664",
+          "companyUrn": "urn:li:fsd_company:2408664",
+          "companyLink1": "https://www.linkedin.com/school/generalassembly/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_400_400/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1785369600&v=beta&t=frkLaZI5GO5uI7GbFQUhhzxEBugwypx8fMf3t7PMOSE",
+          "title": "Web Development Immersive Student",
+          "subtitle": "General Assembly . undefined",
+          "caption": "Sep 2017 - Dec 2017 · 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "The Web Development Immersive course at General Assembly was a great start to the world of development. It’s an intensive three-month full-time course, taught by industry experts that covers a wide array of languages and skills but also is taught based around TDD, daily standups, pair programming and presenting code to emulate working practices within the industry.  During the course we produced 4 main projects, 3 on our own and 1 as a team:\n\nProject 4 - iWish\nhttps://iwish.jwlh.co.uk\n\nTech: MongoDB, Express.js, React, Node.js, AWS file upload, Axios, Bcrypt, Bootstrap, Lodash, Nodemailer, Mailgun, Bluebird, Mocha, Chai.\n\nProject 4 was our final project in which we were tasked with building a full MERN stack application. As it was also in the lead up to Christmas I chose to create a wishlist app enabling users to create a wishlist and share it with their friends and family.  \n\nProject 3 - HappyCabby\nhttps://happycabby-jonny.herokuapp.com/\n\nTech: MongoDB, Express.js, Angular, Node.js, Mocha, Chai, Bluebird, JWT tokens, Bulma, Bcrypt.\n\nWorking in a team we produced a full MEAN stack application. We also used several APIs including Google Maps, Geocode and Eventful’s API.\n\nHappy Cabby is an application designed to show taxi drivers what events are happening around them and how busy those events are so that they can where will be busy.\n \nProject 2 - Eat Better Pizza\nhttps://eat-better-pizza.herokuapp.com/\n\nTech: MongoDB, Express.js, EJS Layouts, Bluebird, Bcrypt.\n\nEat Better Pizza is a full-stack RESTful app using Express.js, EJS Layouts, SASS, BCrypt & a Mongo database.\n\nAllowing users to sign up, create reviews of restaurants and comment on existing ones, all to make sure they are eating the best pizza possible!\n\nProject 1 - Simon The Synth\nhttps://simon-the-synth.herokuapp.com/\n\nTech: HTML, CSS & JavaScript/jQuery.\n\nThe first project on the course was to build a game using HTML, CSS & JavaScript/jQuery.  I decided to create a SIMON game based on a retro synth pad."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5278467",
+          "companyUrn": "urn:li:fsd_company:5278467",
+          "companyLink1": "https://www.linkedin.com/company/lucky-generals/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEDZhVginPXGg/company-logo_400_400/company-logo_400_400/0/1630604576230/lucky_generals_logo?e=1785369600&v=beta&t=f8TRs-S9PdSY8OA0uadd2KuzhKYSulnxs4F1FvioLPg",
+          "title": "Freelance TV Producer",
+          "subtitle": "Lucky Generals . undefined",
+          "caption": "Jun 2017 - Sep 2017 · 3 mos",
+          "metadata": "London",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "544346",
+          "companyUrn": "urn:li:fsd_company:544346",
+          "companyLink1": "https://www.linkedin.com/company/brothers-and-sisters/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEpl8arkOusng/company-logo_400_400/company-logo_400_400/0/1671624115078/brothers_and_sisters_logo?e=1785369600&v=beta&t=4uklWCI9VySveT2Obfpz94yC3Ukc6Fz0ExzRnFdNwzY",
+          "title": "Freelance TV Producer",
+          "subtitle": "Brothers and Sisters . undefined",
+          "caption": "Sep 2016 - Jun 2017 · 9 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5278467",
+          "companyUrn": "urn:li:fsd_company:5278467",
+          "companyLink1": "https://www.linkedin.com/company/lucky-generals/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEDZhVginPXGg/company-logo_400_400/company-logo_400_400/0/1630604576230/lucky_generals_logo?e=1785369600&v=beta&t=f8TRs-S9PdSY8OA0uadd2KuzhKYSulnxs4F1FvioLPg",
+          "title": "Freelance TV Producer",
+          "subtitle": "Lucky Generals . undefined",
+          "caption": "Jun 2016 - Sep 2016 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "51558",
+          "companyUrn": "urn:li:fsd_company:51558",
+          "companyLink1": "https://www.linkedin.com/company/droga5/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFuKgtllxwJCg/company-logo_400_400/company-logo_400_400/0/1630630096257/droga5_logo?e=1785369600&v=beta&t=070C2-thuVGUI9A_hVbLhSeBTXZBsqzudiywSu2DeP4",
+          "title": "Freelance TV Producer",
+          "subtitle": "Droga5 . undefined",
+          "caption": "May 2016 - Jun 2016 · 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "544346",
+          "companyUrn": "urn:li:fsd_company:544346",
+          "companyLink1": "https://www.linkedin.com/company/brothers-and-sisters/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEpl8arkOusng/company-logo_400_400/company-logo_400_400/0/1671624115078/brothers_and_sisters_logo?e=1785369600&v=beta&t=4uklWCI9VySveT2Obfpz94yC3Ukc6Fz0ExzRnFdNwzY",
+          "title": "Freelance TV Producer",
+          "subtitle": "Brothers and Sisters . undefined",
+          "caption": "Nov 2015 - May 2016 · 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "20522",
+          "companyUrn": "urn:li:fsd_company:20522",
+          "companyLink1": "https://www.linkedin.com/company/mullenlowe-uk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFanIO5gTfOqg/company-logo_400_400/company-logo_400_400/0/1685956398718/mullenlowegroup_uk_logo?e=1785369600&v=beta&t=NrPH6MeJkGg1p3b5WuTQByibSv14qYxajLK5fwVwi60",
+          "title": "Freelance TV Producer",
+          "subtitle": "DLKW Lowe . undefined",
+          "caption": "Sep 2015 - Oct 2015 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9954",
+          "companyUrn": "urn:li:fsd_company:9954",
+          "companyLink1": "https://www.linkedin.com/company/mother/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFvSWWWwdOcRw/company-logo_400_400/company-logo_400_400/0/1630606402916/mother_logo?e=1785369600&v=beta&t=thwmdjhF5urt_FBuc0VX1UGtfZwt_fsZZhxgnJJwl_0",
+          "title": "Freelance TV Producer",
+          "subtitle": "Mother . undefined",
+          "caption": "Apr 2015 - May 2015 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TDD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chai",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mocha",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SASS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Advertising",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Creative Direction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Creative Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Film",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2408664",
+          "companyUrn": "urn:li:fsd_company:2408664",
+          "companyLink1": "https://www.linkedin.com/school/generalassembly/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_400_400/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1785369600&v=beta&t=frkLaZI5GO5uI7GbFQUhhzxEBugwypx8fMf3t7PMOSE",
+          "title": "General Assembly",
+          "subtitle": "null, Web Development Immersive",
+          "caption": "2017 - 2017",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

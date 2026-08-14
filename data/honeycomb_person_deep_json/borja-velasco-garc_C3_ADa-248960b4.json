@@ -1,0 +1,399 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/borja-velasco-garc%C3%ADa-248960b4",
+  "row_key": "id:003Uk00000Pb3xqIAB",
+  "person": "Borja Velasco",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABhYk1gBwG-eqMX7f7HrRWy6LAY3JFeSc1c",
+      "firstName": "Borja",
+      "lastName": "Velasco García",
+      "fullName": "Borja Velasco García",
+      "publicIdentifier": "borjavg",
+      "headline": "Software Engineering Manager",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "ES",
+        "language": "es"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressWithCountry": "Spain",
+      "addressWithoutCountry": "Spain",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Jul 2024 - Present · 1 yr 6 mos",
+              "metadata": "Londres y alrededores, Reino Unido",
+              "description": []
+            },
+            {
+              "title": "Senior Android Engineer",
+              "caption": "Feb 2022 - Jul 2024 · 2 yrs 5 mos",
+              "metadata": "Londres y alrededores, Reino Unido",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5091724",
+          "companyUrn": "urn:li:fsd_company:5091724",
+          "companyLink1": "https://www.linkedin.com/company/econocom-espana/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFwIQkanGD-8A/company-logo_400_400/B4DZV_leaXG4Ag-/0/1741602285540/econocom_espa_a_logo?e=1785369600&v=beta&t=XkIjvT5_-ddOVWsXBqvpp52ZjJVKJUexsCWDZByAc2c",
+          "title": "Senior Android Developer",
+          "subtitle": "Gigigo Group . undefined",
+          "caption": "Apr 2018 - Mar 2022 · 3 yrs 11 mos",
+          "metadata": "Madrid y alrededores, España",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "457668",
+          "companyUrn": "urn:li:fsd_company:457668",
+          "companyLink1": "https://www.linkedin.com/company/babel/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF85feupD19bg/company-logo_400_400/company-logo_400_400/0/1694526338529/babel_logo?e=1785369600&v=beta&t=5LKVKEBREKhK3lMYPSm6067M5qIXl6Y3hVcW_4_IYmA",
+          "title": "Android Developer",
+          "subtitle": "BABEL . undefined",
+          "caption": "Jun 2015 - Apr 2018 · 2 yrs 10 mos",
+          "metadata": "Madrid",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "162479",
+          "companyUrn": "urn:li:fsd_company:162479",
+          "companyLink1": "https://www.linkedin.com/company/apple/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1785369600&v=beta&t=xz8wYn_JGZUgL6PQtn6EX3lObYNFAaPGx6TQOE92Wn0",
+          "title": "Family Room Specialist",
+          "subtitle": "Apple . undefined",
+          "caption": "Aug 2011 - May 2015 · 3 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Associate Android Developer",
+          "subtitle": "Google",
+          "issued": "Issued Jan 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Español",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Francés",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Inglés",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Clean Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Dagger 2",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Realm",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Retrofit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OkHttp",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android SDK",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kotlin",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "hilt",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jetpack Compose",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "13120",
+          "companyUrn": "urn:li:fsd_company:13120",
+          "companyLink1": "https://www.linkedin.com/school/universidad-carlos-iii-de-madrid/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQELWMfr_IILrw/company-logo_200_200/B4EZ82d54bIAAE-/0/1783325237297/universidad_carlos_iii_de_madrid_logo?e=1785369600&v=beta&t=koh6oX89H3QjlmplUQI9EB2jjXhVrwsmEijFSwvDdaY",
+          "title": "Universidad Carlos III de Madrid",
+          "subtitle": "Grado en Ingeniería, Ingeniería informática",
+          "caption": "2009 - 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Nertus",
+          "subtitle": "2017 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Desarrollo de aplicación Nativa donde los técnicos de mantenimiento del AVE pueden acceder sin conexión a todas las tareas que deben realizar. Además de la visualización completa de todas las órdenes de trabajo, permite realizar todo el volcado de información por parte del técnico: imágenes, documentos, comentarios etc."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "App gamificación para Gestamp",
+          "subtitle": "2016 - 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Aplicación de gamificación para diversos clientes de BABEL. El proyecto original se desarrolló para Gestamp llamado FormulaGPCS, de forma que sus empleados pudieran responder a una serie de preguntas y de esta manera ir ganando posiciones un un ranking con todos sus compañeros. Posteriormente se hicieron varias versiones para la propia BABEL o clientes como Wizink"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BabelMarket",
+          "subtitle": "2016 - 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Desarrollo tanto de la aplicación nativa Android como del back en Node.JS. Esta aplicación permite a los clientes de BABEL acceder, desde un solo lugar, a todas las aplicaciones que les desarrollamos y poder descargar las últimas versiones disponibles."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Aplicación Android MediaMarkt",
+          "subtitle": "2015 - 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Integración del módulo de pagos móviles dentro de la aplicación Android de MediaMarkt. Desde dicha aplicación se podían ejecutar pagos, mediante la plataforma MYMOID, de las compras que el usuario realice en cualquiera de sus establecimientos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Aplicación pagos móviles Correos",
+          "subtitle": "2015 - 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Aplicación para Correos España que, utilizando la plataforma MYMOID de TECHNOactivity, permite a sus usuario realizar pagos mediante códigos QR. Además de esto, la aplicación se integra con el servicio de login todo en uno de Correos y permite mostrar el listado de tarjetas del usuario y el listado de pagos efectuados entre otras opciones."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Intranet Mobile BABEL",
+          "subtitle": "2015 - 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Aplicación para BABEL que incluye la funcionalidad presente dentro de la versión web de la intranet de la empresa (vacaciones, reserva de salas, vademécum, búsqueda de empleados etc.) pero en versión móvil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FindMyWay",
+          "subtitle": "May 2014 - Sep 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Universidad Carlos III de Madrid"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Proyecto emprendedor para el desarrollo de una App Android que permita la geolocaclizacion en interiores, especialmente diseñada para centros comerciales y grandes superficies. TFG calificado con matrícula de honor"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

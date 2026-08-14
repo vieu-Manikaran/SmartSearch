@@ -1,0 +1,442 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/yumeng-bu",
+  "row_key": "id:003Uk00000yaRKUIA2",
+  "person": "Kelly Bu",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:15Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAC4OUmwBRt9HQJ4q-yeZVVwUU1a_QVU5xX4",
+      "firstName": "Kelly",
+      "lastName": "B.",
+      "fullName": "Kelly B.",
+      "publicIdentifier": "yumeng-bu",
+      "headline": "Senior Software Engineer at Yelp | Chicago Booth MBA",
+      "about": null,
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHCO5aF-tGtWg/profile-displayphoto-crop_800_800/B56Z2J8kzBHkAI-/0/1776135853456?e=1785369600&v=beta&t=hQMCQ2uePYdPTmYXSj-9Zct85ITrVsa1xnJP-BpbtKg",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQEcZgKtVv-upw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1586831527213?e=1785369600&v=beta&t=0ZuWUB60dq4-_lPHQrttbHdysogU_kwsvUBOL4asyfI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHCO5aF-tGtWg/profile-displayphoto-scale_100_100/B56Z2J8kzBHkAc-/0/1776135853594?e=1785369600&v=beta&t=O5hjF79OlJT_30-xEAmTrCW5IxfLzAFWwgRYOixpGoM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHCO5aF-tGtWg/profile-displayphoto-scale_400_400/B56Z2J8kzBHkAg-/0/1776135853594?e=1785369600&v=beta&t=KoJODZS4c7ObiYdGnwn6EBh4HiRaqKP_0q4ttSN_Lmk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHCO5aF-tGtWg/profile-displayphoto-scale_200_200/B56Z2J8kzBHkAY-/0/1776135853594?e=1785369600&v=beta&t=JDtHCjWSfBXzG8nQfym1zwvFgfjOkEbK-t7xboIJDbA"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHCO5aF-tGtWg/profile-displayphoto-crop_800_800/B56Z2J8kzBHkAI-/0/1776135853456?e=1785369600&v=beta&t=hQMCQ2uePYdPTmYXSj-9Zct85ITrVsa1xnJP-BpbtKg"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQEcZgKtVv-upw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1586831527154?e=1785369600&v=beta&t=rXtNcYyGdZoiPBR4tAyYyGSDQNpflqVnybQbswFfHe8"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQEcZgKtVv-upw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1586831527213?e=1785369600&v=beta&t=0ZuWUB60dq4-_lPHQrttbHdysogU_kwsvUBOL4asyfI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Senior Software Engineer",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Jan 2023 - Present · 3 yrs",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Search Quality ML Infra"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "355611",
+          "companyUrn": "urn:li:fsd_company:355611",
+          "companyLink1": "https://www.linkedin.com/company/groupon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFyXnfF0HUtpA/company-logo_100_100/B4EZ7PhzTKJIAI-/0/1781598205454/groupon_logo?e=1785369600&v=beta&t=tpVM_NKhZld4MK1_Vfpgc1SfBJ7eiSRRJ5N7ePoiJmA",
+          "title": "Software Engineer",
+          "subtitle": "Groupon . Full-time",
+          "caption": "Feb 2020 - Dec 2022 · 2 yrs 10 mos",
+          "metadata": "Seattle, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Ranking Platform Infra"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5902248",
+          "companyUrn": "urn:li:fsd_company:5902248",
+          "companyLink1": "https://www.linkedin.com/company/vcic-venture-capital-investment-competition-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHySmZ0IpsFKQ/company-logo_400_400/company-logo_400_400/0/1640005152929/vcic_venture_capital_investment_competition__logo?e=1785369600&v=beta&t=ztMUIUTJb50t-jVYPXo97SJQeY0qPWeE69DfPZadIvk",
+          "title": "2022 Global Champion",
+          "subtitle": "VCIC (Venture Capital Investment Competition) . undefined",
+          "caption": "Nov 2021 - Apr 2022 · 5 mos",
+          "metadata": "Chapel Hill, North Carolina, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3815936",
+          "companyUrn": "urn:li:fsd_company:3815936",
+          "companyLink1": "https://www.linkedin.com/company/synchrony-financial/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEi8GHJrQT9pg/company-logo_400_400/company-logo_400_400/0/1630544020158/synchrony_financial_logo?e=1785369600&v=beta&t=-POagcc2-RQ_DwQf_kEGISBCNeoqs5_--jOyJiLx9nE",
+          "title": "Software Engineer",
+          "subtitle": "Synchrony . Full-time",
+          "caption": "Aug 2018 - Feb 2020 · 1 yr 6 mos",
+          "metadata": "Chicago, Illinois, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "27187879",
+          "companyUrn": "urn:li:fsd_company:27187879",
+          "companyLink1": "https://www.linkedin.com/company/g-51/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxJVGSImaP2w/company-logo_400_400/company-logo_400_400/0/1631375340837?e=1785369600&v=beta&t=5ssOTd2pJuKnYH-_S1ioX9m4CAn0XxrcEkB73sXxOj4",
+          "title": "Venture Scholar",
+          "subtitle": "G51 . undefined",
+          "caption": "2020 - 2020 · ",
+          "metadata": "Chicago, Illinois, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1893",
+          "companyUrn": "urn:li:fsd_company:1893",
+          "companyLink1": "https://www.linkedin.com/company/bayer/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNV6dLQP7xrQ/company-logo_200_200/B56Z9CZfCrH4AE-/0/1783525405181/bayer_logo?e=1785369600&v=beta&t=GC_eOnpGBbPuDUz--vpYaebAnXFDZkeEChHdoG4Inco",
+          "title": "Data Scientist Intern",
+          "subtitle": "Bayer . Internship",
+          "caption": "Jan 2018 - May 2018 · 4 mos",
+          "metadata": "United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "76915454",
+          "companyUrn": "urn:li:fsd_company:76915454",
+          "companyLink1": "https://www.linkedin.com/company/cline-center-for-advanced-social-research/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGnMEuuNRA8Gw/company-logo_400_400/company-logo_400_400/0/1727198921376/cline_center_for_advanced_social_research_logo?e=1785369600&v=beta&t=XbXY_tnigjHHeaWQ3NEKt4DJWi8CY1WDM_2lggbR2Zk",
+          "title": "Cline Center for Advanced Social Research",
+          "subtitle": "undefined · 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Graduate Research Assistant",
+              "caption": "Aug 2017 - May 2018 · 9 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "NLP for Responsible Terrorism Coverage (ResTeCo)"
+                }
+              ]
+            },
+            {
+              "title": "Data Science Research Intern",
+              "caption": "Jun 2017 - Aug 2017 · 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked on research project including NLP, NER and text analysis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2650",
+          "companyUrn": "urn:li:fsd_company:2650",
+          "companyLink1": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_400_400/company-logo_400_400/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=1785369600&v=beta&t=Mo8LI_V0m0dYe8fxWm1laOv4DgPkb2O28hKEmPB6TmQ",
+          "title": "University of Illinois at Urbana-Champaign",
+          "subtitle": "undefined · 3 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Research Assistant",
+              "caption": "Jan 2015 - May 2018 · 3 yrs 4 mos",
+              "description": []
+            },
+            {
+              "title": "Graduate Teaching Assistant",
+              "caption": "Aug 2016 - May 2017 · 9 mos",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Data Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hive",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spark",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scala",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Shell Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SAS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Natural Language Processing (NLP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "A/B Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Visualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Mining",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8398",
+          "companyUrn": "urn:li:fsd_company:8398",
+          "companyLink1": "https://www.linkedin.com/school/universityofchicagoboothschoolofbusiness/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFZO05jhYKSkw/company-logo_400_400/company-logo_400_400/0/1692627816910/universityofchicagoboothschoolofbusiness_logo?e=1785369600&v=beta&t=wpcOuH2M79opuKh0raxNvH1X_iJs0FGgD3a-Cla_cRM",
+          "title": "The University of Chicago Booth School of Business",
+          "subtitle": "Master of Business Administration - MBA, Global Champion of 2022 Venture Capital Investment Competition\n1st place winner of Booth Venture Capital Investment Competition (VCIC)\nNew Venture Challenge\nDean's Honor List\nMerit-based scholarship",
+          "caption": "2020 - 2024",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Concentrations: Entrepreneurship, Finance and Strategic Management"
+            }
+          ]
+        },
+        {
+          "companyId": "2650",
+          "companyUrn": "urn:li:fsd_company:2650",
+          "companyLink1": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_400_400/company-logo_400_400/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=1785369600&v=beta&t=Mo8LI_V0m0dYe8fxWm1laOv4DgPkb2O28hKEmPB6TmQ",
+          "title": "University of Illinois Urbana-Champaign",
+          "subtitle": "Master of Science - MS, Statistics",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "2650",
+          "companyUrn": "urn:li:fsd_company:2650",
+          "companyLink1": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_400_400/company-logo_400_400/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=1785369600&v=beta&t=Mo8LI_V0m0dYe8fxWm1laOv4DgPkb2O28hKEmPB6TmQ",
+          "title": "University of Illinois at Urbana-Champaign",
+          "subtitle": "Bachelor of Science - BS, Statistics",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/josh-swedberg-7a7a4338",
+  "row_key": "id:003Uk00000sy09QIAQ",
+  "person": "Josh Swedberg",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:53Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAf8FK8Be0FY2c7NI6OYlT-Qym6WE4ls29o",
+      "firstName": "Josh",
+      "lastName": "Swedberg",
+      "fullName": "Josh Swedberg",
+      "publicIdentifier": "josh-swedberg-7a7a4338",
+      "headline": "Senior Software Engineering Manager at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Lafayette, Colorado United States",
+      "addressWithoutCountry": "Lafayette, Colorado",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQE32cog745vQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719605248560?e=1785369600&v=beta&t=2kHuFysyueWnGmkaj3M26pHKZxGDWeVE0D0kWhH5jkc",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE32cog745vQg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1719605248536?e=1785369600&v=beta&t=tXfEyflmoOqCu2YnegpTdnFuulNIjIMDncT0_wjamTs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE32cog745vQg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719605248536?e=1785369600&v=beta&t=Dm5ccQRHK6_XeBvZHzcxAkUmoeThspbkT3PUq7Xup-g"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE32cog745vQg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719605248536?e=1785369600&v=beta&t=vq2InMlijXEv8K9ggL6xHrP9h-NVTtYvU4idhPFG0Rw"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE32cog745vQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719605248560?e=1785369600&v=beta&t=2kHuFysyueWnGmkaj3M26pHKZxGDWeVE0D0kWhH5jkc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Senior Software Engineering Manager",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jan 2021 - Present · 5 yrs",
+          "metadata": "Boulder, Colorado, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5160",
+          "companyUrn": "urn:li:fsd_company:5160",
+          "companyLink1": "https://www.linkedin.com/company/trimble/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHM4R2dJDTWcQ/company-logo_100_100/B56Zat13QIHUAQ-/0/1746673300891/trimble_logo?e=1785369600&v=beta&t=WOKUVkrmlG5utEA2gXuEnniAX9E_daoM37PB71mhcWQ",
+          "title": "Software Technical Lead",
+          "subtitle": "Trimble Inc. . Full-time",
+          "caption": "Oct 2019 - Jan 2021 · 1 yr 3 mos",
+          "metadata": "Minnetonka, Minnesota, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "297505",
+          "companyUrn": "urn:li:fsd_company:297505",
+          "companyLink1": "https://www.linkedin.com/company/proto-labs/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgNsBmUW4fYA/company-logo_400_400/company-logo_400_400/0/1688995048839/proto_labs_logo?e=1785369600&v=beta&t=hCMUxSiwpjnf50ow5kh14HXvOIg4NCxWArsBbmBbbA8",
+          "title": "Software Technical Lead",
+          "subtitle": "Protolabs . undefined",
+          "caption": "Mar 2016 - Oct 2019 · 3 yrs 7 mos",
+          "metadata": "Maple Plain, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Software Engineering",
+          "subtitle": "Microsoft . undefined",
+          "caption": "Jul 2007 - Mar 2016 · 8 yrs 8 mos",
+          "metadata": "Redmond, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "77572",
+          "companyUrn": "urn:li:fsd_company:77572",
+          "companyLink1": "https://www.linkedin.com/company/marvin-composites/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEORGkuRZnYmA/company-logo_400_400/company-logo_400_400/0/1712582571183/tecton_products_logo?e=1785369600&v=beta&t=UOK1hgugGrCmfb_EX-s2-cWEkkUtzhDtfqduxIFQ4bA",
+          "title": "Lead Software Engineer",
+          "subtitle": "Tecton Products . undefined",
+          "caption": "Sep 2004 - Jul 2007 · 2 yrs 10 mos",
+          "metadata": "Fargo, ND",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2532",
+          "companyUrn": "urn:li:fsd_company:2532",
+          "companyLink1": "https://www.linkedin.com/company/us-bank/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH3muwzIvCLNw/company-logo_200_200/B56ZwLyxC4IcAI-/0/1769724383816/us_bank_logo?e=1785369600&v=beta&t=T8EKyInjSWzmnJf78dGimJlKuhB2CsIohI8tPesj5o4",
+          "title": "Business/Operations Analyst III",
+          "subtitle": "US Bank . undefined",
+          "caption": "Jun 2003 - Sep 2004 · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "807020",
+          "companyUrn": "urn:li:fsd_company:807020",
+          "companyLink1": "https://www.linkedin.com/company/acumen-learning/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFsupji2MaWgA/company-logo_400_400/company-logo_400_400/0/1630624090285/acumen_learning_logo?e=1785369600&v=beta&t=A257fZR4TqiQ8wH3CNkMmqI6ICrdjgqDWOiOUySSeWY",
+          "title": "Building Business Acumen",
+          "subtitle": "Acumen Learning",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Full-Stack Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ravendb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure DevOps Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Angular",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST APIs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOAP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WCF Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15140799",
+          "companyUrn": "urn:li:fsd_company:15140799",
+          "companyLink1": "https://www.linkedin.com/school/university-of-northwestern-st-paul/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFrSlHMis8fJw/company-logo_400_400/company-logo_400_400/0/1631345490926?e=1785369600&v=beta&t=re2VIyEBinq8x4RfVDIjqb1ySUbHZBALKKWZ78SmG3U",
+          "title": "University of Northwestern - St. Paul",
+          "subtitle": "Bachelor of Science (BS), null",
+          "caption": "2001 - 2003",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

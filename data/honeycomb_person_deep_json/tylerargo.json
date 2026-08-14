@@ -1,0 +1,402 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/tylerargo",
+  "row_key": "id:003Uk00000maemUIAQ",
+  "person": "Tyler Argo",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABWAj7kBv8XhcefX4wPZz_-0NKhCQ6pyEuQ",
+      "firstName": "Tyler",
+      "lastName": "Argo",
+      "fullName": "Tyler Argo",
+      "publicIdentifier": "tylerargo",
+      "headline": "Software Engineering Manager at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Montreal, Quebec Canada",
+      "addressWithoutCountry": "Montreal, Quebec",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHgWG0UFUsVyw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1544651076639?e=1785369600&v=beta&t=vHM_HdE7et1pT1fUDPoOE8kyGaNeh-_PNopQ3bnh1DI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHgWG0UFUsVyw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1544651076469?e=1785369600&v=beta&t=tmo3Z9ySC0ySODcHExLIeqMZS-8ZMFB39nwz8NrXpsw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHgWG0UFUsVyw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1544651076541?e=1785369600&v=beta&t=kPRncNbRfboS7eEbJryuxR2kqgP9MS-wtx-XreU08-U"
+        },
+        {
+          "width": 270,
+          "height": 270,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHgWG0UFUsVyw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1544651076518?e=1785369600&v=beta&t=Lq0uO8LsE0yWeMJmrXKInR34PFVzAkuYwrTZdUrVQ8I"
+        },
+        {
+          "width": 270,
+          "height": 270,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHgWG0UFUsVyw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1544651076639?e=1785369600&v=beta&t=vHM_HdE7et1pT1fUDPoOE8kyGaNeh-_PNopQ3bnh1DI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 9 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Jan 2020 - Present · 6 yrs",
+              "metadata": "San Francisco, California, United States",
+              "description": []
+            },
+            {
+              "title": "Software Developer",
+              "caption": "Sep 2016 - Jan 2020 · 3 yrs 4 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "SearchUX (User Experience) Web and Android Developer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Consumer Frontend Web Development Intern",
+          "subtitle": "Yelp . undefined",
+          "caption": "May 2015 - Aug 2015 · 3 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "82132",
+          "companyUrn": "urn:li:fsd_company:82132",
+          "companyLink1": "https://www.linkedin.com/company/globe-electric/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFKQOXpQwz5xg/company-logo_400_400/company-logo_400_400/0/1630573344302/globe_electric_logo?e=1785369600&v=beta&t=frraSBWg9vIc3Be71U--uvTeCAwoilxPFWLwWZPjgSI",
+          "title": "Web Developer",
+          "subtitle": "Globe Electric Company . undefined",
+          "caption": "May 2014 - Sep 2014 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1060",
+          "companyUrn": "urn:li:fsd_company:1060",
+          "companyLink1": "https://www.linkedin.com/company/ericsson/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE4si5Pr9mLOw/company-logo_200_200/B4DZ1CtTDxJQAI-/0/1774940664616/ericsson_logo?e=1785369600&v=beta&t=ZjsnBrkkiimqIJju4IF1k6PWz1-Wv4OY_SyBXQ0daCU",
+          "title": "Software Developer",
+          "subtitle": "Ericsson . undefined",
+          "caption": "Sep 2013 - Dec 2013 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SASS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Collaboration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Open Source",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Github",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GIMP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Magento",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "E-commerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "phpMyAdmin",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Selenium",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "163191",
+          "companyUrn": "urn:li:fsd_company:163191",
+          "companyLink1": "https://www.linkedin.com/school/concordia-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEVRyb-pMvVgg/company-logo_200_200/B4EZoxqBdpIwAI-/0/1761769691383/concordia_university_logo?e=1785369600&v=beta&t=y1OwOOezKKiGpP-UUIJUbK1drkg2hz2WqoRojDtnHLk",
+          "title": "Concordia University",
+          "subtitle": "Software Engineering, HackConcordia, SCSConcordia",
+          "caption": "2012 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Option Web Services and Applications"
+            }
+          ]
+        },
+        {
+          "companyId": "52496",
+          "companyUrn": "urn:li:fsd_company:52496",
+          "companyLink1": "https://www.linkedin.com/school/marianopolis-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQELm1JdnhdbSQ/company-logo_400_400/company-logo_400_400/0/1631344877777?e=1785369600&v=beta&t=t9IfwhTh8hL3EUIreAcC_VH_2RAEFnRxGmyhhfJmT7w",
+          "title": "Marianopolis College",
+          "subtitle": "Diplome D'etudes Collegiales, Pure and Applied Sciences",
+          "caption": "2010 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Youth Leader",
+          "subtitle": "St. Luke's Parish",
+          "caption": "Apr 2009 - Present · 16 yrs 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Scarlet - Microsoft Technology Award Winner",
+          "subtitle": "Jan 2015 - Jan 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "UofTHacks Project\n\n• Inspired by Tars from the Interstellar movie, Scarlet, the artificial companion for the internet of things was developed to empathize and assist a person.\n• Scarlet interacts and reacts to users using speech by analyzing the intended sentiment. She can play various music from SoundCloud depending on the mood communicated by the person.\n• In addition, an Intel Edison with multiple sensors were integrated allowing for a person to monitor the environment remotely through Scarlet via the website or Android application.\n• An array of various technologies was utilized including: Microsoft Azure, Node.js, Intel Edison, Android APIs, Google Chrome Speech API, etc."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ARGONAUTS",
+          "subtitle": "Jan 2014 - Apr 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Concordia University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "A program that generate possible schedules according to constraints specified by user (day, evening, number of courses, excluded days or times, etc.)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

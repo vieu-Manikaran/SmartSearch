@@ -1,0 +1,185 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mike-mulholland-0665981",
+  "row_key": "id:0033l00002ssqr6AAA",
+  "person": "Mike Mulholland",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:48Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABDm04BtoHoyvlPnAiuX_4KBFd4V2nEzds",
+      "firstName": "Mike",
+      "lastName": "Mulholland",
+      "fullName": "Mike Mulholland",
+      "publicIdentifier": "mike-mulholland-0665981",
+      "headline": "Senior Director, Tech Art at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Raleigh, North Carolina United States",
+      "addressWithoutCountry": "Raleigh, North Carolina",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHr2nhgFQlyxw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568077711562?e=1785369600&v=beta&t=26ztsaQaEkqPASH8Ka1DxY2BZLqMYP9n-iNeOXClTBg",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHr2nhgFQlyxw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1568077711480?e=1785369600&v=beta&t=mzGi7R0i8tVSoODlN8QhqpTpx6jsqDZnwMALtsO1rW4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHr2nhgFQlyxw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1568077711434?e=1785369600&v=beta&t=x5iUO5z2fP7NxzdE2luueK3EHqoLSJVA0a2sIvct4rU"
+        },
+        {
+          "width": 249,
+          "height": 249,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHr2nhgFQlyxw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1568077711522?e=1785369600&v=beta&t=UdOok58G3nz6D-EPjLCeqlH4fRpeu128kWs0bzZWMxc"
+        },
+        {
+          "width": 249,
+          "height": 249,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHr2nhgFQlyxw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568077711562?e=1785369600&v=beta&t=26ztsaQaEkqPASH8Ka1DxY2BZLqMYP9n-iNeOXClTBg"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 6 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Director, Tech Art",
+              "caption": "Feb 2023 - Present · 2 yrs 11 mos",
+              "metadata": "Larkspur, California, United States",
+              "description": []
+            },
+            {
+              "title": "Director, Tech Art",
+              "caption": "Jul 2022 - Present · 3 yrs 6 mos",
+              "metadata": "Larkspur, California, United States",
+              "description": []
+            },
+            {
+              "title": "Technical Art Director",
+              "caption": "Sep 2019 - Present · 6 yrs 4 mos",
+              "metadata": "Raleigh-Durham, North Carolina Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2777915",
+          "companyUrn": "urn:li:fsd_company:2777915",
+          "companyLink1": "https://www.linkedin.com/company/industrial-light-&-magic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFWlyHp8z1YLA/company-logo_100_100/B56ZZJpXRBGQAQ-/0/1744992302397/industrial_light__magic_logo?e=1785369600&v=beta&t=PdBNK9SQSsnrHjPb8EyvlWSXOXq4pP-D07LjtvShDqI",
+          "title": "VFX Supervisor",
+          "subtitle": "Industrial Light & Magic . undefined",
+          "caption": "Jun 2014 - Sep 2019 · 5 yrs 3 mos",
+          "metadata": "London",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4743",
+          "companyUrn": "urn:li:fsd_company:4743",
+          "companyLink1": "https://www.linkedin.com/company/framestore/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGrpkZNQY2chw/company-logo_400_400/company-logo_400_400/0/1727175451107/framestore_logo?e=1785369600&v=beta&t=NucmWD3uQSPg2FnNJSBO9t6MIt1pY6hm9BKyYiSjaOw",
+          "title": "Framestore",
+          "subtitle": "undefined · 9 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "VFX Supervisor",
+              "caption": "Jul 2012 - Jun 2014 · 1 yr 11 mos",
+              "metadata": "London",
+              "description": []
+            },
+            {
+              "title": "CG Supervisor",
+              "caption": "Aug 2004 - Jun 2014 · 9 yrs 10 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10821",
+          "companyUrn": "urn:li:fsd_company:10821",
+          "companyLink1": "https://www.linkedin.com/company/esc-entertainment/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQENWET5yIzn8Q/company-logo_400_400/company-logo_400_400/0/1720065486994/esc_entertainment_logo?e=1785369600&v=beta&t=XovlBhkTC8NrIA8sJlacu2rF4Q27CiSQlBJ1ujV_0Uo",
+          "title": "TD/CG Supervisor",
+          "subtitle": "ESC Entertainment . undefined",
+          "caption": "2001 - 2004 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6784",
+          "companyUrn": "urn:li:fsd_company:6784",
+          "companyLink1": "https://www.linkedin.com/company/cinesite/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE8tyL5Bmyrmg/company-logo_100_100/B4EZYgYCqGG0Ac-/0/1744299896206/cinesite_logo?e=1785369600&v=beta&t=lQV8iFUG2KLYjp_WHb8BkROJ46ijs5wq2rxsM8GRwKs",
+          "title": "TD",
+          "subtitle": "Cinesite . undefined",
+          "caption": "Jun 1997 - Oct 2001 · 4 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "14238",
+          "companyUrn": "urn:li:fsd_company:14238",
+          "companyLink1": "https://www.linkedin.com/school/bournemouth-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhcIwAWzLRvw/company-logo_100_100/B4EZytwserGcAQ-/0/1772441749752/bournemouth_university_logo?e=1785369600&v=beta&t=Cok4c2YrjROF_j-Mz7y-G1zD2UitHcWSCto3Bo-YEow",
+          "title": null,
+          "subtitle": "BA, Computer Animation",
+          "caption": "1995 - 1998",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

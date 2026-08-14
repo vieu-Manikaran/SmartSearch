@@ -1,0 +1,616 @@
+{
+  "linkedin_url": "https://pt.linkedin.com/in/vladserbu",
+  "row_key": "id:0033l00002wdHXuAAM",
+  "person": "Vlad Serbu",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:15Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAK8Ji8BMu4NEr4WviPTA3uEdKOIbUIKhyg",
+      "firstName": "Vlad",
+      "lastName": "Serbu",
+      "fullName": "Vlad Serbu",
+      "publicIdentifier": "vladserbu",
+      "headline": "Senior Test Engineer |  AI & Mobile | ex-Medtronic",
+      "about": "A results-driven Mobile Test Engineer with 10 years of experience in Agile teams, passionate about leveraging AI-powered tools to boost productivity and streamline testing processes. Known for enabling rapid, high-quality app releases and continuous improvement.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Medical Practice",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Portugal",
+      "addressWithCountry": "Cascais, Lisbon Portugal",
+      "addressWithoutCountry": "Cascais, Lisbon",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHyNeuxKz2Z5g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1595001159267?e=1785369600&v=beta&t=DgT2WiFkDriioLZ7Fd0IEYHLrFC0AfpiJDS60d9GWrE",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQHXsZR9BGfDvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516501988184?e=1785369600&v=beta&t=vSgF8z5sWyhoBuDb_ayMnh1wWIMWb_1_zT_ICOpnVNo",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHyNeuxKz2Z5g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1595001159266?e=1785369600&v=beta&t=NwL5-XxHNYQ416JY_HQpYD7BaoXOv8yyruZcYtBbF1E"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHyNeuxKz2Z5g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1595001159267?e=1785369600&v=beta&t=yaTwlQDQWf3n66e9jMJfvanlk2sJyOTH5p0hT0nKsW0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHyNeuxKz2Z5g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1595001159267?e=1785369600&v=beta&t=25Ni-XaXTzb7c_c_TPXVi0dPC8uiMff6DI3tVuyubjs"
+        },
+        {
+          "width": 512,
+          "height": 512,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHyNeuxKz2Z5g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1595001159267?e=1785369600&v=beta&t=DgT2WiFkDriioLZ7Fd0IEYHLrFC0AfpiJDS60d9GWrE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQHXsZR9BGfDvQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516501988073?e=1785369600&v=beta&t=_5gOWs3RRhfhxzsWB2LlLLRQqMyqtIiqWwSPfnFKK60"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQHXsZR9BGfDvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516501988184?e=1785369600&v=beta&t=vSgF8z5sWyhoBuDb_ayMnh1wWIMWb_1_zT_ICOpnVNo"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "QA Engineer",
+          "subtitle": "Touch Surgery . Full-time",
+          "caption": "Sep 2017 - May 2026 · 8 yrs 8 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Mobile Test Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Sep 2017 - May 2026 · 8 yrs 8 mos",
+          "metadata": "Lisbon, Portugal",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2677125",
+          "companyUrn": "urn:li:fsd_company:2677125",
+          "companyLink1": "https://www.linkedin.com/company/cloud-iq/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGf-CD3mrvPgw/company-logo_400_400/company-logo_400_400/0/1675245595342/cloud_iq_logo?e=1785369600&v=beta&t=iJytuErPPC0nLhs5sDIVBYrEuRf-fV_PHztjbcmQEU4",
+          "title": "Test Analyst",
+          "subtitle": "cloud.IQ . undefined",
+          "caption": "Jun 2017 - Sep 2017 · 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10023451",
+          "companyUrn": "urn:li:fsd_company:10023451",
+          "companyLink1": "https://www.linkedin.com/company/scoota/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHppgOIWno4AA/company-logo_100_100/B4EZuS6JSzGoAU-/0/1767696275424/scoota_logo?e=1785369600&v=beta&t=0EK4JNeCWaKttj-oJz5kO-6ffgfmRzVQ3AcnQzhbqvg",
+          "title": "Scoota",
+          "subtitle": "undefined · 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "QA Engineer",
+              "caption": "Apr 2017 - Jun 2017 · 2 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Agile Kanban\n\n- Raising and monitoring issues using Jira\n- Test planning and writing test cases(exposure to TestRail)\n- Maintaining clear communication between all teams\n-  Regression testing\n- Front-end Testing\n- Using BrowserStack for cross browser testing\n- Test execution and documenting results\n- Tracking bugs and participating in their resolution\n- Verify that new releases are working correctly across all supported environments\n- Responsible for deploying new releases to Stage, Production"
+                }
+              ]
+            },
+            {
+              "title": "Quality Assurance Engineer",
+              "caption": "Apr 2017 - Jun 2017 · 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Test planning and writing test cases(exposure to TestRail). Experience scripting using Python. Manual Testing. Running Regression tests. Front-end Testing. Using Browserstack for cross browser testing. Raising and monitoring issues using Jira. Test execution and documenting results. Experience in Agile development methodologies(Scrum, KANBAN). Tracking bugs and participating in their resolution. Verify that new releases are working correctly across all supported environments. Give input to the Test Manager for continuously improving QA processes and test strategy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1248664",
+          "companyUrn": "urn:li:fsd_company:1248664",
+          "companyLink1": "https://www.linkedin.com/company/retail-me-not/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGJQ0tQAlY1yQ/company-logo_400_400/company-logo_400_400/0/1630670003318/retail_me_not_logo?e=1785369600&v=beta&t=PSDUsoDC9bP8KzLR-e77qghHMN8A62pcQbsy4PEAk2I",
+          "title": "QA Engineer",
+          "subtitle": "RetailMeNot, Inc. . undefined",
+          "caption": "Feb 2016 - Apr 2017 · 1 yr 2 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "vouchercodes.co.uk\n\nAgile Scrum\n\nTech: Android, iOS, Charles Proxy, Git, Sequel Pro, TeamCity, Javascript, BrowserStack, Node.js, Nightwatch.js, PHP Storm, MacOS\n\nWriting automation scripts in Nightwatch.js using Javascript\n\n- Reviewed functional and technical documentation;\n- Performed Front-end Testing;\n- Performed Regression Testing;\n- Raised and managed the defects, maintained defects tracking and backlog management (using the JIRA bug tracking tool), and helped developers to reproduce and debug issues;\n- Running automation tests on BrowserStack\n- Developing regression and check-list automation scripts on NightWatch.js using JavaScript.\n- Manual testing  acrossmobile mobile web, desktop.\n- VoucherCodes app manual testing (Android & iOS)\n- App debugging using Charles Proxy"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance Engineer",
+          "subtitle": "Vouchercodes.co.uk part of RetailMeNot Inc . undefined",
+          "caption": "Feb 2016 - Apr 2017 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Performed Front-end Testing. Reviewed functional and technical documentation. Performed Regression Testing. Raised and managed the defects, maintained defects tracking and backlog management (using the JIRA bug tracking tool), and helped developers to reproduce and debug issues. Running automation tests on BrowserStack. Developing regression and checklist automation scripts on NightWatch.js using JavaScript."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Trackpack Limited",
+          "subtitle": "undefined · 1 yr 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Web Content, Marketing and Customer Service Specialist",
+              "caption": "Nov 2015 - Feb 2016 · 3 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "-\tWorking with the e-commerce platform Magento\n-\tAdding / updating new products onto system that control listings on Amazon, Tesco, eBay\n-\tCustomer Service Support\n-\tLiaising with the warehouse for customer issues\n-\tAnswering the phone calls and dealing with the customers requests \n-\tDealing with the repairs and returns\n-\tCustomer service via online chat"
+                }
+              ]
+            },
+            {
+              "title": "Web Content Specialist",
+              "caption": "Nov 2014 - Feb 2016 · 1 yr 3 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working with the ecommerce Software Magento. Adding / updating new products onto system that control listings on Amazon, Tesco, EBay. Linworks operations (processing orders, updating inventory, new PO’s). Purchase order processing on Amazon Vendor Central(UK&Germany). Dealing with Channel Advisor(Tesco listing errors and refunds). Managing Amazon Seller Central. Customer Service Support. Answering the phone calls and dealing with the customer requests. Dealing with the repairs and returns. Customer service via online chat. Liaising with the warehouse for customer issues."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "165145",
+          "companyUrn": "urn:li:fsd_company:165145",
+          "companyLink1": "https://www.linkedin.com/company/nestl-nespresso/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBft_J5I4gXg/company-logo_400_400/company-logo_400_400/0/1631340410889?e=1785369600&v=beta&t=cf2J9UTVJI8srkJMI1rRAsGRzSHAynMMbSLD6r-6YKQ",
+          "title": "Coffee Specialist/Customer Service",
+          "subtitle": "Nestlé Nespresso . undefined",
+          "caption": "Nov 2014 - Nov 2015 · 1 yr",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "-Providing high levels of support for customers with their queries, complaints & questions; \n-Providing high end standard communication and customer service skills \n-Providing front line technical support in order to resolve issues;\n-Ensuring total customer satisfaction; \n-Monitoring buying patterns and alerting customers to other products or special offers;"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Customer Service Specialist",
+          "subtitle": "Nespresso Nestle UK . undefined",
+          "caption": "Nov 2014 - Nov 2015 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Effectively supporting customers with their queries, complaints & questions. Providing luxury standard communication and customer service skills. Providing front line technical support in order to resolve issues. Ensuring total customer satisfaction. Monitoring buying patterns and alerting customers to other products or special offers."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Social Media, Customer Service and IT support.",
+          "subtitle": "Innovation Gift Shop . undefined",
+          "caption": "Jan 2014 - Sep 2015 · 1 yr 8 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "-\tManaging the Customer service department\n-\tFulfilling customer orders and enquiries\n-\tSupporting the Marketing team by managing the Blog and social media updates\n-\tIT and programming support for the development team"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning the OWASP Top 10 (2018)",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "iOS Development: Security",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18850599",
+          "companyUrn": "urn:li:fsd_company:18850599",
+          "companyLink1": "https://www.linkedin.com/company/testautomationu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGZ_3dyyOaC6Q/company-logo_400_400/company-logo_400_400/0/1630636958664/testautomationu_logo?e=1785369600&v=beta&t=tBa8zoKFAiGC8SRAsIqhhH4Jhswhy8aF15vc_Ip2kJ0",
+          "title": "Introduction to iOS Test Automation with XCUITest",
+          "subtitle": "TestAutomationU",
+          "issued": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18850599",
+          "companyUrn": "urn:li:fsd_company:18850599",
+          "companyLink1": "https://www.linkedin.com/company/testautomationu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGZ_3dyyOaC6Q/company-logo_400_400/company-logo_400_400/0/1630636958664/testautomationu_logo?e=1785369600&v=beta&t=tBa8zoKFAiGC8SRAsIqhhH4Jhswhy8aF15vc_Ip2kJ0",
+          "title": "Source Control for Test Automation with Git",
+          "subtitle": "TestAutomationU",
+          "issued": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18850599",
+          "companyUrn": "urn:li:fsd_company:18850599",
+          "companyLink1": "https://www.linkedin.com/company/testautomationu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGZ_3dyyOaC6Q/company-logo_400_400/company-logo_400_400/0/1630636958664/testautomationu_logo?e=1785369600&v=beta&t=tBa8zoKFAiGC8SRAsIqhhH4Jhswhy8aF15vc_Ip2kJ0",
+          "title": "Introduction to Cypress",
+          "subtitle": "TestAutomationU",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Portuguese",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Romanian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "X-ray",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Email Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Execution",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Evaluations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Workbench",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WAMP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Knowledge Discovery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Facilitation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Content Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Email Campaigning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Seller Central",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Internet",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Frontline Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Environment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Phone Etiquette",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Literacy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Romanian",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Technical University of Moldova",
+          "subtitle": "null, IT",
+          "caption": "2005 - 2010",
+          "subComponents": []
+        },
+        {
+          "title": "Free International University of Moldova",
+          "subtitle": "null, Informational Technologies",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "18316503",
+          "companyUrn": "urn:li:fsd_company:18316503",
+          "companyLink1": "https://www.linkedin.com/company/free-international-university-of-moldova-ulim/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEVKQAtljgHSw/company-logo_400_400/company-logo_400_400/0/1631362196763?e=1785369600&v=beta&t=y7vqX-cjxjxiiEpTilxN26G1gQ111r64HZJL-xmDin0",
+          "title": "Free International University of Moldova (ULIM)",
+          "subtitle": "Informational Technologies Engineer, null",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "98957480",
+          "companyUrn": "urn:li:fsd_company:98957480",
+          "companyLink1": "https://www.linkedin.com/company/theoretical-studio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHDqQvRkacyNw/company-logo_400_400/company-logo_400_400/0/1696227911908/theoretical_studio_logo?e=1785369600&v=beta&t=wB96H55s0dl3rA8hmOeE7GqG89W71zmOUg4iJfuUE1c",
+          "title": "Theoretical Studio",
+          "subtitle": "Higher Education, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Innovation Gift Shop",
+          "subtitle": "Oct 2013 - Oct 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "At Innovation Gift Shop we are always looking for new and innovative products to offer to our large and growing customer base.\n\nWe are here to test your new products in a real Retail envirement and utilise our large database and social media presence.\n\nThe benefits of our offer is that you can sell your products on Innovationgiftshop.com without any hassle - we do everything for you.\n\nYou will have instant access to a large email database, a growing social media following and a team of experts who can help sell your products."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Innovation Gift Shop",
+          "subtitle": "Oct 2013 - Oct 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "At Innovation Gift Shop we are always looking for new and innovative products to offer to our large and growing customer base.\n\nWe are here to test your new products in a real Retail envirement and utilise our large database and social media presence.\n\nThe benefits of our offer is that you can sell your products on Innovationgiftshop.com without any hassle - we do everything for you.\n\nYou will have instant access to a large email database, a growing social media following and a team of experts who can help sell your products."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

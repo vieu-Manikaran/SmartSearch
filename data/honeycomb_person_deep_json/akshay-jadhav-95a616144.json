@@ -1,0 +1,239 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/akshay-jadhav-95a616144",
+  "row_key": "id:003Uk00000yfUeyIAE",
+  "person": "Akshay Jadhav",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:32:22Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACL5htYBxpUmwKwqq4mNOblZQmOFRbjskWs",
+      "firstName": "Akshay",
+      "lastName": "Jadhav",
+      "fullName": "Akshay Jadhav",
+      "publicIdentifier": "akshay-jadhav-95a616144",
+      "headline": "Senior Software Engineer at Wipro (Client site at Marvell)",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Navi Mumbai, Maharashtra India",
+      "addressWithoutCountry": "Navi Mumbai, Maharashtra",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQFAHS5Fy84VvQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516932102360?e=1785369600&v=beta&t=5RoEALjvTFN5EjIittS-sBQgan6YcVe9sRIYcuDUxks",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFAHS5Fy84VvQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516932102716?e=1785369600&v=beta&t=jan8DXq9nJww6i5N8lyzfVGX7jkQmRVaw_7h69cK5tQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFAHS5Fy84VvQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516932102389?e=1785369600&v=beta&t=Mznz0JiUsUgmyEtXDJiU5EyAR9Y9WsXvSqu6C6GkCUk"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFAHS5Fy84VvQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516932102268?e=1785369600&v=beta&t=nh-u-mJPd0-EZRibmht3PGg88G1KWNcUSCjDh2KjoP4"
+        },
+        {
+          "width": 406,
+          "height": 406,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFAHS5Fy84VvQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516932102360?e=1785369600&v=beta&t=5RoEALjvTFN5EjIittS-sBQgan6YcVe9sRIYcuDUxks"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "title": "Senior Software Engineer",
+          "subtitle": "Wipro (Client site at Marvell) . Full-time",
+          "caption": "Apr 2025 - Present · 9 mos",
+          "metadata": "Pune, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "subtitle": "Wipro (Client site at Western Digital / Sandisk) . Full-time",
+          "caption": "Nov 2023 - Jan 2025 · 1 yr 2 mos",
+          "metadata": "Banglore ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "500139",
+          "companyUrn": "urn:li:fsd_company:500139",
+          "companyLink1": "https://www.linkedin.com/company/pegasus-infocorp/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEAhSaLh-KvYg/company-logo_400_400/company-logo_400_400/0/1630609647737/pegasus_infocorp_logo?e=1785369600&v=beta&t=_YuCplE8inUVH_xvOQgC1ZJIH5DiQYWNlrd2rAOJDJY",
+          "title": "Senior Software Engineer",
+          "subtitle": "Pegasus InfoCorp . Full-time",
+          "caption": "Jul 2022 - Oct 2023 · 1 yr 3 mos",
+          "metadata": "Mumbai, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Client site at Johnson Controls India."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Embedded Software Developer",
+          "subtitle": "Triumph Design Corporation  . Full-time",
+          "caption": "Feb 2020 - Jul 2022 · 2 yrs 5 mos",
+          "metadata": "Goregaon, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "34183543",
+          "companyUrn": "urn:li:fsd_company:34183543",
+          "companyLink1": "https://www.linkedin.com/company/scad-technologies/",
+          "title": "Embedded Software Developer",
+          "subtitle": "SCAD Technologies . Full-time",
+          "caption": "Jul 2018 - Jul 2019 · 1 yr",
+          "metadata": "Mumbai",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microcontrollers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Arduino",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ARM Cortex-M",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "I2C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microchip PIC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "13410397",
+          "companyUrn": "urn:li:fsd_company:13410397",
+          "companyLink1": "https://www.linkedin.com/school/vcetvasai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFrDaN60ahXxw/company-logo_400_400/company-logo_400_400/0/1734353281710/vcetvasai_logo?e=1785369600&v=beta&t=TU0HYl6Jl15NVjGp62KLOEmReWJtX1-XcKo20LFasqE",
+          "title": "Vidyavardhini's College of Engineering and Technology",
+          "subtitle": "null, Electronics and Telecommunication",
+          "caption": "2014 - 2017",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/harmonamanda",
+  "row_key": "id:003Uk00000wwh6PIAQ",
+  "person": "Amanda Harmon",
+  "account": "RapidAI",
+  "fetched_at": "2026-07-14T10:37:55Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAUxxWsB-v7IU7PJqHPp7pgdcapMfVE6HpQ",
+      "firstName": "Amanda",
+      "lastName": "Harmon",
+      "fullName": "Amanda Harmon",
+      "publicIdentifier": "harmonamanda",
+      "headline": "SaMD | NLP",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQF80LjbGr13Eg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1595224952109?e=1785369600&v=beta&t=5hrEVXgy33dCF2jrLgUyVAfKKaH6V6ffEcNarEbdASI",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQGd2fxVGnVD3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517256536880?e=1785369600&v=beta&t=ripmjoTJvCt054wcEnzddg6ZGdU8lJqj0S9-08aX_cU",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF80LjbGr13Eg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1595224952109?e=1785369600&v=beta&t=CovMUJiJ30OCO4evP_aLQARto_KsQCQIMA2bUtNqIXc"
+        },
+        {
+          "width": 190,
+          "height": 190,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF80LjbGr13Eg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1595224952109?e=1785369600&v=beta&t=l1Msha5tE4Nlbl0bCIbeAVcHQ1IzIPF0Tkp-rDMvNBc"
+        },
+        {
+          "width": 190,
+          "height": 190,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF80LjbGr13Eg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1595224952109?e=1785369600&v=beta&t=oFBDB_SE1tQLlBMzhRvzomzZ8O1egUkhmc3NMCf2sBg"
+        },
+        {
+          "width": 190,
+          "height": 190,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF80LjbGr13Eg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1595224952109?e=1785369600&v=beta&t=5hrEVXgy33dCF2jrLgUyVAfKKaH6V6ffEcNarEbdASI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQGd2fxVGnVD3A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517256536836?e=1785369600&v=beta&t=0HjJbskbb6ZacEm4aCaWZShXaTlSCZCes8s2E7_bmXM"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQGd2fxVGnVD3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517256536880?e=1785369600&v=beta&t=ripmjoTJvCt054wcEnzddg6ZGdU8lJqj0S9-08aX_cU"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "37506734",
+          "companyUrn": "urn:li:fsd_company:37506734",
+          "companyLink1": "https://www.linkedin.com/company/rapid-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF2Zh-M7Q7Yiw/company-logo_100_100/B56ZaCvMpJGoAQ-/0/1745950133104/rapid_ai_logo?e=1785369600&v=beta&t=TrViROLQ1OoUHAzRCKS_0RZSNlh9Km-rXoeyRN74xTw",
+          "title": "AI Platform Engineer",
+          "subtitle": "RapidAI . undefined",
+          "caption": "Mar 2025 - Present · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5885",
+          "companyUrn": "urn:li:fsd_company:5885",
+          "companyLink1": "https://www.linkedin.com/school/rmit-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEGU1obJOmROQ/company-logo_400_400/company-logo_400_400/0/1688439184668/rmit_university_logo?e=1785369600&v=beta&t=BTfKIzM1V-6SdHyf7RQ5hvF7yajzLeo50QebkDRjxdc",
+          "title": "Gilman Scholar - Biomedical Engineering | AI",
+          "subtitle": "RMIT University . Full-time",
+          "caption": "Aug 2022 - Jul 2024 · 1 yr 11 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Conducted research on assistive hearing devices, leveraging Python and AI techniques to enhance speech clarity, noise reduction, and personalized sound adaptation.\n• Improved user experience by designing and implementing machine learning models to classify auditory environments and optimize device settings in real-time.\n• Developed AI-driven solutions for health monitoring integration, including fall detection and wellness tracking, using predictive analytics and sensor data processing.\n• Collaborated on innovative approaches combining natural language processing and signal processing to create accessible, adaptive auditory support systems."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2841893",
+          "companyUrn": "urn:li:fsd_company:2841893",
+          "companyLink1": "https://www.linkedin.com/company/social-standards/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFoDWvk-Upl7A/company-logo_400_400/company-logo_400_400/0/1631346202216?e=1785369600&v=beta&t=Jfk9pSIAGGSG4yo2cJKVjXp7E_ODcXdblYPQL7daoOI",
+          "title": "Data Systems Engineer",
+          "subtitle": "Social Standards . Full-time",
+          "caption": "Mar 2022 - Aug 2022 · 5 mos",
+          "metadata": "Oakland, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Annotated language data for social listening AI, ensuring high-quality data inputs.\n• Designed and implemented internal data-labeling guidelines to improve consistency and accuracy.\n• Developed semantic ontologies to enhance AI-driven insights.\n• Optimized web scraping processes and structured data organization.\n• Utilized SQL and Python to query, analyze, and pre-process linguistic datasets."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "17914628",
+          "companyUrn": "urn:li:fsd_company:17914628",
+          "companyLink1": "https://www.linkedin.com/company/techfirefly/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFwMCgglRvuPQ/company-logo_400_400/company-logo_400_400/0/1630620567779/techfirefly_logo?e=1785369600&v=beta&t=GpC9OoBMzBRhww1Rq5U-XZny89Slqo8-uvF76ymkD8k",
+          "title": "Tech Firefly",
+          "subtitle": "Full-time · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Localization Lead",
+              "caption": "Dec 2020 - Mar 2022 · 1 yr 3 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Managed a team of 10, overseeing support for Google product, ensuring on-time and high-quality deliverables.\n• Designed and implemented internal guidelines to improve team workflows and consistency.\n• Developed project roadmaps and coordinated between cross-functional teams to streamline processes and meet client objectives.\n• Provided cultural and linguistic expertise to resolve ambiguities and ensure accurate project execution.\n• Delivered regular progress reports and performance metrics, exceeding client expectations for efficiency and accuracy."
+                }
+              ]
+            },
+            {
+              "title": "QA Engineer",
+              "caption": "Oct 2019 - Dec 2020 · 1 yr 2 mos",
+              "metadata": "Palo Alto, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Developed and executed test plans for Google product focusing on functionality, integration, and user experience.\n• Collaborated with developers and designers to enhance user-centric features.\n• Identified and resolved critical issues to improve product quality and enhance user satisfaction.\n• Executed diverse testing methodologies, including regression, exploratory, and usability testing. identifying\ncritical issues to improve product reliability.\n• Utilized QA tools such as Jira, TestRail for bug tracking, test case management, and reporting.\n• Collaborated with cross-functional teams, including developers and product managers, to align QA efforts\nwith business objectives and ensure seamless product releases\n• Analyzed user feedback and translated insights into actionable test plans to improve usability and functionality.\n• Created and executed detailed test cases, identified root causes, and delivered clear, concise documentation for stakeholders."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "18190674",
+          "companyUrn": "urn:li:fsd_company:18190674",
+          "companyLink1": "https://www.linkedin.com/company/not-just-another/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdXH2g89Hcpw/company-logo_400_400/company-logo_400_400/0/1631334488717?e=1785369600&v=beta&t=oGqebt2acde3wjNkctFfMz_-ao94HEXQHJmy0M9a-1M",
+          "title": "Senior Web Developer",
+          "subtitle": "Not Just Another . undefined",
+          "caption": "Apr 2017 - Dec 2019 · 2 yrs 8 mos",
+          "metadata": "Melbourne, VIC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Designed and developed websites using HTML, CSS, JavaScript, WordPress, and Bootstrap, ensuring responsive and user-friendly interfaces.\n• Crafted compelling copy for websites and marketing campaigns, effectively driving user engagement and aligning with brand messaging.\n• Implemented SEO strategies, optimizing website content to improve search engine rankings and organic traffic.\n• Managed social media campaigns, creating and scheduling content to boost audience engagement and expand brand presence across platforms."
+              }
+            }
+          ]
+        },
+        {
+          "title": "UX Designer | Web Developer",
+          "subtitle": "Freelance",
+          "caption": "Aug 2017 - Oct 2019 · 2 yrs 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Conducted UX research and design for mobile apps and websites. \n• Worked with developers to implement intuitive interfaces for diverse audiences. \n• Prototyped and tested designs using Figma, iterating based on user feedback. \n• Conducted usability testing sessions and analyzed results to refine product functionality and design. \n• Collaborated with cross-functional teams to align designs with business goals. \n• Designed responsive interfaces optimized for both desktop and mobile devices, ensuring accessibility standards were met. \n• Created design systems and reusable UI components to maintain consistency across products. \n• Provided consulting services to startups, delivering actionable insights on improving user engagement and retention."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Translator | Editor",
+          "subtitle": "Freelance",
+          "caption": "Sep 2008 - Oct 2019 · 11 yrs 1 mo",
+          "metadata": "Berlin, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Provided German-English translations in music, finance, economics, medicine, technology, and social sciences. Translated official documents, contracts, e-books, and spreadsheet data; edited PhD dissertations, academic theses, news articles, and digital content."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "8458799",
+          "companyUrn": "urn:li:fsd_company:8458799",
+          "companyLink1": "https://www.linkedin.com/company/starite-distributors-pty-ltd-/",
+          "title": "Web Developer",
+          "subtitle": "STARITE DISTRIBUTORS PTY. LTD. . undefined",
+          "caption": "Aug 2017 - Jan 2018 · 5 mos",
+          "metadata": "Melbourne, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Development of eCommerce websites. Responsible for website design, build, and maintenance, as well as SEO and analytics. Further responsible for brand development, social media management, and marketing. Results included: increased traffic, web presences, conversion rates, and ROI."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "29346",
+          "companyUrn": "urn:li:fsd_company:29346",
+          "companyLink1": "https://www.linkedin.com/school/san-joaquin-delta-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFWRrEAensaNw/company-logo_400_400/company-logo_400_400/0/1631313035692?e=1785369600&v=beta&t=QvRV5Z1tewS0ARZSAird5lxwajrMRltIWSCFAMOGrxo",
+          "title": "Teaching Assistant | Help Desk",
+          "subtitle": "San Joaquin Delta College . undefined",
+          "caption": "Sep 2012 - Feb 2014 · 1 yr 5 mos",
+          "metadata": "Stockton, California Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Evaluated linguistics and German language content, ensuring accuracy, consistency, and alignment with curriculum goals.\n• Developed exams and classroom materials to support effective language instruction and enhance student engagement.\n• Resolved IT issues for faculty and staff, troubleshooting software and hardware problems to maintain seamless operations.\n• Managed data entry tasks, maintaining accurate and organized databases for departmental use.\n• Organized and maintained faculty files, ensuring confidentiality and accessibility for academic and administrative purposes."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1641414",
+          "companyUrn": "urn:li:fsd_company:1641414",
+          "companyLink1": "https://www.linkedin.com/company/imprenta-communications-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF14z3OOZSkiA/company-logo_400_400/company-logo_400_400/0/1631331630597?e=1785369600&v=beta&t=qV2eR5IgGyGXLfC9Fze8k68Zk35zxP_tvoSeHQLD5qg",
+          "title": "Field Director",
+          "subtitle": "Imprenta Communications, Inc. . undefined",
+          "caption": "Apr 2012 - Dec 2012 · 8 mos",
+          "metadata": "Sacramento, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Hired and managed a team of 30 canvassers for a campaign supporting a State Senate candidate, ensuring recruitment and training aligned with campaign objectives.\n• Set up precincts and developed voter targeting strategies, maximizing outreach efficiency and engagement with key demographics.\n• Analyzed field data and maintained detailed spreadsheets, tracking performance trends, voter interactions, and outreach success to inform campaign adjustments.\n• Implemented quality-control measures to ensure high standards of voter contact were met.\n• Conducted daily debriefings and biweekly payroll processing, addressing team performance and operational needs.\n• Ran logistical operations, ensuring the team was consistently supplied with canvassing and phone-banking materials to avoid disruptions.\n• Used data-driven insights to refine strategies and improve voter targeting, contributing to the campaign’s overall effectiveness and success."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "NumPy Essential Training: 1 Foundations of NumPy",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Google IT Support Professional Certficate",
+          "subtitle": "Google",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2696602",
+          "companyUrn": "urn:li:fsd_company:2696602",
+          "companyLink1": "https://www.linkedin.com/school/codecademy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH81kKlXtE0og/company-logo_400_400/company-logo_400_400/0/1720724787444/codecademy_logo?e=1785369600&v=beta&t=Fn7X8yAdAZPu1bIOUEeCU6NlXVJW1HQk2krwAddj-PE",
+          "title": "Python 3",
+          "subtitle": "Codecademy",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "15097593",
+          "companyUrn": "urn:li:fsd_company:15097593",
+          "companyLink1": "https://www.linkedin.com/school/ucsc-silicon-valley-extension/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEN3ZXBz9sZZQ/company-logo_400_400/company-logo_400_400/0/1705110398303/ucsc_silicon_valley_extension_logo?e=1785369600&v=beta&t=K5HEips1qM5R50kt7HSvlHkxaUi-eDFACi6NuJ-8-1M",
+          "title": "Internet of Things (IoT) Specialization",
+          "subtitle": "UCSC Silicon Valley Extension",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "15097593",
+          "companyUrn": "urn:li:fsd_company:15097593",
+          "companyLink1": "https://www.linkedin.com/school/ucsc-silicon-valley-extension/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEN3ZXBz9sZZQ/company-logo_400_400/company-logo_400_400/0/1705110398303/ucsc_silicon_valley_extension_logo?e=1785369600&v=beta&t=K5HEips1qM5R50kt7HSvlHkxaUi-eDFACi6NuJ-8-1M",
+          "title": "Medical Devices Certificate Program",
+          "subtitle": "UCSC Silicon Valley Extension",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Finnish",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Swift (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WordPress",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Translation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Search Engine Optimization (SEO)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Natural Language Processing (NLP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Biomedical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Editing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Copywriting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "eCommerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bootstrap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5885",
+          "companyUrn": "urn:li:fsd_company:5885",
+          "companyLink1": "https://www.linkedin.com/school/rmit-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEGU1obJOmROQ/company-logo_400_400/company-logo_400_400/0/1688439184668/rmit_university_logo?e=1785369600&v=beta&t=BTfKIzM1V-6SdHyf7RQ5hvF7yajzLeo50QebkDRjxdc",
+          "title": "RMIT University",
+          "subtitle": "null, Biomedical Engineering - Gilman Scholarship",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "165837",
+          "companyUrn": "urn:li:fsd_company:165837",
+          "companyLink1": "https://www.linkedin.com/school/san-francisco-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQERao_q3_DTxg/company-logo_200_200/B56ZpMAgTIHYAI-/0/1762211792354/san_francisco_state_university_logo?e=1785369600&v=beta&t=e4R_931HsxcfaArOjj0HTuLlJUEkEWPRAvGt0b0Gg28",
+          "title": "San Francisco State University",
+          "subtitle": "B.S., Computer Science",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "166677",
+          "companyUrn": "urn:li:fsd_company:166677",
+          "companyLink1": "https://www.linkedin.com/school/university-of-tampere-1925-2018/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEKvZNwQE9veg/company-logo_400_400/company-logo_400_400/0/1631337315052?e=1785369600&v=beta&t=iOxSD9DD1Zu2iTp8CT2frWQZV0sR8xIYdonCtWk1HP0",
+          "title": "University of Tampere",
+          "subtitle": "null, Valtio-opin kandidaatti",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "15463",
+          "companyUrn": "urn:li:fsd_company:15463",
+          "companyLink1": "https://www.linkedin.com/school/humboldt-university-berlin/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHhqBuy5vs4qQ/company-logo_400_400/company-logo_400_400/0/1665690095621?e=1785369600&v=beta&t=LLBj_28k0-2zjbKMPf4st3mXYheN-FTbVt3cvnidIlo",
+          "title": "Humboldt-Universität zu Berlin",
+          "subtitle": "ERASMUS programme, null",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "10041",
+          "companyUrn": "urn:li:fsd_company:10041",
+          "companyLink1": "https://www.linkedin.com/school/foothill-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF4rgytakoR3Q/company-logo_400_400/company-logo_400_400/0/1631307075229?e=1785369600&v=beta&t=lWoa6jakB720CbF1pbPnSGCdV5fXiIDbXfC2jVN2odg",
+          "title": "Foothill College",
+          "subtitle": "A.S., Computer Science",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

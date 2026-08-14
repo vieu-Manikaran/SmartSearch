@@ -21,6 +21,8 @@ OUTPUT_FIELDS = [
     "linkedin_url",
     "work_email",
     "email_status",
+    "bounce_status",
+    "company_name",
     "created_at",
     "source_file",
 ]

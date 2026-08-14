@@ -1,0 +1,531 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/nikolaysuvandzhiev",
+  "row_key": "id:0036O000047UaIxQAK",
+  "person": "Nikolay Suvandzhiev",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:35Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAMDbDMBa9F0Du00blO_0YF4z81Wi0fp6-0",
+      "firstName": "Nikolay",
+      "lastName": "S.",
+      "fullName": "Nikolay S.",
+      "publicIdentifier": "nikolaysuvandzhiev",
+      "headline": "Senior iOS Engineer",
+      "about": "I am an iOS developer with a passion for good software - both from user’s point of view and behind the scenes.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater London, England United Kingdom",
+      "addressWithoutCountry": "Greater London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQE7arbbxXJApA/profile-displayphoto-shrink_100_100/B4DZVHOzgeG4AU-/0/1740656819061?e=1785369600&v=beta&t=_CONzWlGE5-CUtJumrkGI0gCNduRa8NLzEb3INWGXKI",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQHglBXskP7gJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516548582884?e=1785369600&v=beta&t=iME8qebemK05imihtt3clWooYu2BwyKyZqf7IL6cwRM",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQE7arbbxXJApA/profile-displayphoto-shrink_400_400/B4DZVHOzgeG4Ag-/0/1740656819184?e=1785369600&v=beta&t=nbXqUUlWLHJb3iQoqYz-mbbB0RTg5wncjJdH2HqXtss"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQE7arbbxXJApA/profile-displayphoto-shrink_200_200/B4DZVHOzgeG4AY-/0/1740656819184?e=1785369600&v=beta&t=VBS-XpwMKV7snbSg0xglbDVralFFu9LcQG1m3XUgUQ8"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQE7arbbxXJApA/profile-displayphoto-shrink_800_800/B4DZVHOzgeG4Ac-/0/1740656819184?e=1785369600&v=beta&t=-lK41YnHR6RUMZRwsD3Mb1b6DKYmIexJ1BCRMKHF66c"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQE7arbbxXJApA/profile-displayphoto-shrink_100_100/B4DZVHOzgeG4AU-/0/1740656819061?e=1785369600&v=beta&t=_CONzWlGE5-CUtJumrkGI0gCNduRa8NLzEb3INWGXKI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQHglBXskP7gJg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516548582911?e=1785369600&v=beta&t=ltD9pd2pRafHF7ALeDEbi-le-FOluLM9n476f0xu-kM"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQHglBXskP7gJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516548582884?e=1785369600&v=beta&t=iME8qebemK05imihtt3clWooYu2BwyKyZqf7IL6cwRM"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "15088872",
+          "companyUrn": "urn:li:fsd_company:15088872",
+          "companyLink1": "https://www.linkedin.com/company/get-chip/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHzbmeMDNLpMw/company-logo_400_400/company-logo_400_400/0/1653987034934/get_chip_logo?e=1785369600&v=beta&t=MNtU9YxFKxNIziaiwKgITzR1Jz7j2SjxdFCdunU4ZJc",
+          "title": "Senior iOS Engineer",
+          "subtitle": "Chip – Your wealth app. . Full-time",
+          "caption": "May 2025 - Present · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I'm part of the iOS team at Chip - your wealth app. www.getchip.uk"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18616246",
+          "companyUrn": "urn:li:fsd_company:18616246",
+          "companyLink1": "https://www.linkedin.com/company/sovio-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNz04f4aSBug/company-logo_400_400/company-logo_400_400/0/1630569585940/sovio_ltd_logo?e=1785369600&v=beta&t=zrYS2b_cxqlghrGfZkct-WnUxiBTfE94c7Z-4un9d6Q",
+          "title": "Independent iOS App Developer",
+          "subtitle": "sovio . undefined",
+          "caption": "Feb 2016 - Present · 9 yrs 11 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Making independent iOS apps in my free time:\n\n• RegEx Lab - testing regular expressions\n• PivotList - a smart grocery shopping list\n• Amenio - finding amenities around you\n• Dixit Score - voting and scoring in the board game Dixit\n• Better Search for Instagram - a faster, automated way to find Instagram posts\n• onAverage - location sampling and averaging\n• Other small apps\n\nExperience\n• With these projects I went through the whole app development cycle - idea, design, implementation and App Store submission.\n• As these are side projects, I had to be self-motivated and manage my own time and work.\n• I was able to quickly pick up a lot of skills not directly related to just iOS programming (e.g. setting up web servers/domains/pages, NoSQL, analytics, marketing, releasing and managing an open source project)\n\nApp development (core):\n• (see below “The general iOS development”)\n\nApp development (other):\n• Apple Watch (watchOS) development using SwiftUI\n• Mailgun e-mail sending API; Screenshots automation (using fastlane/snapshot); Documentation; Icons and graphics (using Inkscape)\n• Google Firebase Cloud Firestore NoSQL database implementation\n\nOpen source project on GitHub:\n• Released part of the code from PivotList as an open source library: https://github.com/sovata8/RevealingTableViewCell ; Creating a Cocoa Touch Framework and a Cocoapod; Documentation using Swift Doc source code notation (100% documentation coverage); Best practices: Semantic versioning, Readme (Markdown markup language)\n\nMarketing / communication / metadata:\n• Coming up with app name, icon, subtitle, description, keywords; Screenshots design and text; In-app communications (UI text, onboarding experience);\n\nApp webpage:\n• Setting up a VPS on DigitalOcean; Apache Server configuration; Setting up a domain name - DNS records; HTTPS/SSL server certificate setup (using LetsEncrypt); The actual webpage: used a third-party template, learned a tiny bit about Bootstrap (HTML, LESS/CSS);"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "100263865",
+          "companyUrn": "urn:li:fsd_company:100263865",
+          "companyLink1": "https://www.linkedin.com/company/createordieai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQHWRIxYlDDQ/company-logo_400_400/B4EZiFCMLOGoAc-/0/1754578602908/packchatapp_logo?e=1785369600&v=beta&t=1L2zwrWgDQSGol5XiHjPxX0leEV8OaXiEf9QG2YKoeQ",
+          "title": "Senior iOS Engineer",
+          "subtitle": "PackChat . Full-time",
+          "caption": "Jan 2024 - May 2025 · 1 yr 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Note: While I was at company, it was called PackChat, the LinkedIn page has since changed name.\n\n• Worked in a fast-paced startup, delivering rapid prototyping, Proof of concepts, and \r\npolished features, while upholding good practices and allowing for scalability and \r\nmaintainability. \r\n• Solved many difficult technical challenges such as multiple camera viewport rendering, \r\nproject package modularisation and Tuist integration, and flexible declarative SwiftUI layout."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 4 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal iOS Developer",
+              "caption": "Apr 2023 - Nov 2023 · 7 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working on a large code-base to help deliver new features and tackle technical debt.\n- Focus on UI and UX, flexible layout, localisation and translations.\n- Rewrote multiple UI elements to deliver simpler code with better visuals and animations, and better developer API.\n- Undertook complex investigations and steps to tackle technical debt around third-party libraries and dependencies."
+                }
+              ]
+            },
+            {
+              "title": "Senior iOS Developer",
+              "caption": "Oct 2019 - Mar 2023 · 3 yrs 5 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9165",
+          "companyUrn": "urn:li:fsd_company:9165",
+          "companyLink1": "https://www.linkedin.com/company/cambridge-consultants/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFHZQzznbc-xw/company-logo_400_400/company-logo_400_400/0/1656947913399/cambridge_consultants_logo?e=1785369600&v=beta&t=4CWzVVfdyP0IuQrBo0a8Ed57ZpUk7iPXP_FB3iPdSHg",
+          "title": "Principal iOS Developer",
+          "subtitle": "Cambridge Consultants . undefined",
+          "caption": "Jul 2018 - Sep 2019 · 1 yr 2 mos",
+          "metadata": "Cambridge, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on projects involving CoreLocation (and iBeacon), CoreMotion, CoreBluetooth, Background execution, Framework development."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2852276",
+          "companyUrn": "urn:li:fsd_company:2852276",
+          "companyLink1": "https://www.linkedin.com/company/trustonic/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGj4JZKJ_oR0w/company-logo_400_400/company-logo_400_400/0/1630524291786/trustonic_logo?e=1785369600&v=beta&t=PrfF0i3Nfwo9NaHrJAH-oR0KkiVFl4mTdZ9HNsqw2gE",
+          "title": "Software Engineer",
+          "subtitle": "Trustonic . undefined",
+          "caption": "Nov 2017 - Jun 2018 · 7 mos",
+          "metadata": "Cambridge, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Worked on a mobile SDK with focus on iOS\n• Worked on redesigning and improving developer documentation\n• Created a new sample iOS app to showcase the product\n• As part of a team, represented the company at MWC 2018"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10891203",
+          "companyUrn": "urn:li:fsd_company:10891203",
+          "companyLink1": "https://www.linkedin.com/company/utalk.com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGhmD7lASGKrw/company-logo_400_400/company-logo_400_400/0/1631334652930?e=1785369600&v=beta&t=k1A_QqeX66oC8EvM8AFZ7hjHnciwWG-deE5d2jKcdJg",
+          "title": "uTalk.com",
+          "subtitle": "Full-time · 2 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior iOS Developer",
+              "caption": "Sep 2016 - Nov 2017 · 1 yr 2 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Worked on the native language-learning iOS apps of the company:\n  • The general iOS development (see below)\n  • wrote a lot of automation scripts (mostly php, some ruby, a little bit of bash, python)\n  • maintained 130+ separate apps on the App Store (updating metadata using automation scripts)\n  • Worked on server-side logic (Parse Server, NodeJS, MongoDB)\n  • In-App Purchases logic\n  • Some work with encryption"
+                }
+              ]
+            },
+            {
+              "title": "iOS Developer",
+              "caption": "Sep 2015 - Sep 2016 · 1 yr",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10341702",
+          "companyUrn": "urn:li:fsd_company:10341702",
+          "companyLink1": "https://www.linkedin.com/company/west-pier-studio/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHF_fNz6gJYoQ/company-logo_400_400/company-logo_400_400/0/1675347451648/west_pier_studio_logo?e=1785369600&v=beta&t=6Ep9Qdq6vHYvf9DQ2tztz1FpUQnZAi3bocc1sNh-tGo",
+          "title": "iOS Developer",
+          "subtitle": "West Pier Studio . undefined",
+          "caption": "Sep 2012 - Sep 2014 · 2 yrs",
+          "metadata": "Brighton, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Worked on two iOS games:\n  • The general iOS development (see below)\n  • Went from client requirements to creating UI mockups, design and implementation.\n  • Programmed using Objective-C and the iOS SDK within the Xcode IDE.\n  • Implemented server communication: XML, JSON parsing, Push Notifications, AMQP and STOMP messaging\nprotocols, Facebook API integration.\n  • Worked on In-App Purchases, Geolocation services\n\n• Worked on a large-scale Unity application:\n  • Programmed in C#.\n  • Worked on augmented reality using the Qualcomm Vuforia platform\n  • Worked on memory optimisation for iOS devices.\n  • Collaborated with around 10 other developers and used Perforce revision control system."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1382",
+          "companyUrn": "urn:li:fsd_company:1382",
+          "companyLink1": "https://www.linkedin.com/company/goldman-sachs/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_400_400/company-logo_400_400/0/1722506756452/goldman_sachs_logo?e=1785369600&v=beta&t=VufLtGwv8qd6YsWIe_wBt5msLfjrCmZuhnMrP-aUmmI",
+          "title": "Technology Infrastructure Division intern",
+          "subtitle": "Goldman Sachs . undefined",
+          "caption": "Sep 2010 - Sep 2011 · 1 yr",
+          "metadata": "Zurich, Switzerland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Wrote an Outlook Plug-in for managing email attachments using VBA 6.5. This was used to process 10 years’ worth of emails of the whole Swiss division of the bank.\n• Wrote a GUI for an application launcher on a terminal server using HTML/CSS/JavaScript.\n• Provided technical support for enterprise technologies such as MS Exchange, MS SharePoint, MS\nActiveDirectory, BlackBerry Enterprise services, Cisco Telephony Systems, Polycom Videoconferencing Systems, Citrix and VMWare products."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5021493",
+          "companyUrn": "urn:li:fsd_company:5021493",
+          "companyLink1": "https://www.linkedin.com/company/rocketmakers/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFKThhn01ltXg/company-logo_400_400/company-logo_400_400/0/1673342783573?e=1785369600&v=beta&t=v1m5qT2XVMmRZ_CTXCY66T7OSJ9y-8y1ZfB2zHjWKYQ",
+          "title": "Junior Software Developer (iOS)",
+          "subtitle": "Rocketmakers . undefined",
+          "caption": "Jun 2009 - May 2010 · 11 mos",
+          "metadata": "Bath, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Worked on an iOS app using Objective-C. (see below “The general iOS development”)\n• Developed simple physics simulations for multi-touch interfaces using WPF and .NET.\n• Implemented table generation in a SQL Database with stored procedures using MS SQL Server.\n• Used Geocoding and Geomapping services to represent user data using XAML and Silverlight.\n• Worked on a project involving barcode scanning and augmented reality using ActionScript 2.0/3.0.\n• Created an algorithm for automated generation of league tables and football match schedules using C#.\n• Demonstrated good time-management skills by working 20 hours per week, while also attending university."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SwiftUI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xcode",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "UIKit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Model-view-viewmodel (MVVM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RxSwift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Bluetooth",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Experience (UX)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cocoa Touch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Regular Expressions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GUI development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WPF",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "9332",
+          "companyUrn": "urn:li:fsd_company:9332",
+          "companyLink1": "https://www.linkedin.com/school/university-of-bath/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpoMktZkAMEQ/company-logo_400_400/company-logo_400_400/0/1709289603085/university_of_bath_logo?e=1785369600&v=beta&t=hiAISPoGkHSHloV8vCmT22_bJlbKBCqmAyDwc-KaXA8",
+          "title": "University of Bath",
+          "subtitle": "Bachelor of Science (BSc), Computer Science",
+          "caption": "2008 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class with Honours"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "RegEx Lab (iOS App)",
+          "subtitle": "Jul 2017 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "RegEx Lab allows you to test regular expressions. The app highlights and underlines text to show matches and capture groups. There's also a handy cheatsheet and a results list view."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PivotList (iOS App)",
+          "subtitle": "Jun 2017 - Jun 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A new way to look at your grocery shopping list. Perfect if you plan your grocery shopping by recipes."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

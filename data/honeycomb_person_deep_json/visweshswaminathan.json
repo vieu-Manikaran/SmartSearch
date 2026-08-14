@@ -1,0 +1,246 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/visweshswaminathan",
+  "row_key": "id:003Uk00000yd76OIAQ",
+  "person": "Viswesh Swaminathan",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:17Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA4LG1kBkdaZXzm1BAzXkowa5iDVQcz8hdE",
+      "firstName": "Viswesh",
+      "lastName": "Swaminathan",
+      "fullName": "Viswesh Swaminathan",
+      "publicIdentifier": "visweshswaminathan",
+      "headline": "Senior Staff Software Engineer at Coinbase",
+      "about": "I like to build things.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQF7Fv66nobR3g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1617388940756?e=1785369600&v=beta&t=q2awf2Mv9Luw3yEkZ2WP0tNPZJ-9Qhu6NPpzUlkENRs",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQHX3a85AzP7jQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1519450374318?e=1785369600&v=beta&t=KsodeoXl4K7v8BucNuoRn_i8LACFO7cjgNVOAv_rPVE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQF7Fv66nobR3g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1617388940756?e=1785369600&v=beta&t=CkySlAgFAXLSWlS-KTFHS_Np006pBAq186n5uq8AXN8"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQF7Fv66nobR3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1617388940756?e=1785369600&v=beta&t=rrPfsJhstVWjDc0DjRAOVVBn3qTLrBP8GYpxD2TAp_8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQF7Fv66nobR3g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1617388940756?e=1785369600&v=beta&t=0o9Rqpnb49RRjzDulwt8iaXh4yVS3SjbpDj2o0wgcqg"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQF7Fv66nobR3g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1617388940756?e=1785369600&v=beta&t=q2awf2Mv9Luw3yEkZ2WP0tNPZJ-9Qhu6NPpzUlkENRs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 664,
+          "height": 166,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHX3a85AzP7jQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1519450374306?e=1785369600&v=beta&t=t4nMbsa24GDWjoh2QK1MOry-XhhyIUFbu4DWnaVkea8"
+        },
+        {
+          "width": 664,
+          "height": 166,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHX3a85AzP7jQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1519450374318?e=1785369600&v=beta&t=KsodeoXl4K7v8BucNuoRn_i8LACFO7cjgNVOAv_rPVE"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Staff Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Feb 2019 - Present · 6 yrs 11 mos",
+          "metadata": "New York, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Institutional trading \n- US Exchange. \n- Primebroker. Smart order routing.\n- International Exchange. Derivatives."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Self Employed, Software Engineer",
+          "subtitle": "Startups . Full-time",
+          "caption": "Jul 2016 - Oct 2018 · 2 yrs 3 mos",
+          "metadata": "New York, New York, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Google cloud",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Dynamodb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Streaming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3523",
+          "companyUrn": "urn:li:fsd_company:3523",
+          "companyLink1": "https://www.linkedin.com/school/cornell-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE8SOXGRyv7LA/company-logo_400_400/company-logo_400_400/0/1631339899678?e=1785369600&v=beta&t=xSPvA9akKVBLrXrq7f2ZnhzvQzdgr9bwph2eTE8eJ6A",
+          "title": "Cornell University",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

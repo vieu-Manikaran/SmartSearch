@@ -1,0 +1,547 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/hrithviksood",
+  "row_key": "id:003Uk000013j3Z5IAI",
+  "person": "Hrithvik Sood",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:44:12Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACIqCzMBkChAlZVbyUvjAlm5I2zqOcCNt74",
+      "firstName": "Hrithvik",
+      "lastName": "Sood",
+      "fullName": "Hrithvik Sood",
+      "publicIdentifier": "hrithviksood",
+      "headline": "Software Engineer | ex-Atlassian | Building Resilient, Performant & Scalable Cloud Applications | Project-Based Learner",
+      "birthDateOn": {
+        "month": 2,
+        "day": 13
+      },
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Sydney, New South Wales Australia",
+      "addressWithoutCountry": "Sydney, New South Wales",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQG3xlek44q3hQ/profile-displayphoto-crop_800_800/B56Zzg7x.mHcAI-/0/1773300301365?e=1785369600&v=beta&t=ZOt44j5CDl0kMxMfqDi0WXqa7dL1zIUZMW6M4JSXUSw",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQEulQve8ZzjSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1621440109062?e=1785369600&v=beta&t=68TnB_8W01ALgBVKqPrV9PRd2AKW4r5S65HkxvKXr6A",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQG3xlek44q3hQ/profile-displayphoto-scale_400_400/B56Zzg7x.mHcAg-/0/1773300301466?e=1785369600&v=beta&t=HEke_z3sJE3Pg-R7vMNplBEOGZFxXa9sTsNpoplyqXY"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQG3xlek44q3hQ/profile-displayphoto-scale_100_100/B56Zzg7x.mHcAc-/0/1773300301466?e=1785369600&v=beta&t=QnkdARg0UdqZh9E_3igzYq8pnJNU042HPuqKXdSJlA4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQG3xlek44q3hQ/profile-displayphoto-scale_200_200/B56Zzg7x.mHcAY-/0/1773300301466?e=1785369600&v=beta&t=NJCY0DeRydivgf6SIUQYAj9_jIFMO-eBwwpb56MTrh0"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQG3xlek44q3hQ/profile-displayphoto-crop_800_800/B56Zzg7x.mHcAI-/0/1773300301365?e=1785369600&v=beta&t=ZOt44j5CDl0kMxMfqDi0WXqa7dL1zIUZMW6M4JSXUSw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEulQve8ZzjSA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1621440109062?e=1785369600&v=beta&t=J731j2BhRULHVcKVnL9vh2efaZ1i6q0Pxs28MJUkF0c"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEulQve8ZzjSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1621440109062?e=1785369600&v=beta&t=68TnB_8W01ALgBVKqPrV9PRd2AKW4r5S65HkxvKXr6A"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Software Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Jun 2026 - Present · ",
+          "metadata": "Sydney, NSW",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "22688",
+          "companyUrn": "urn:li:fsd_company:22688",
+          "companyLink1": "https://www.linkedin.com/company/atlassian/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGeyLL6crkJKg/company-logo_400_400/company-logo_400_400/0/1735593604612/atlassian_logo?e=1785369600&v=beta&t=yc96-54WeibpcMstCKB7E6wDoBzGYUT1t-Tjm17og_M",
+          "title": "Software Engineer",
+          "subtitle": "Atlassian . Full-time",
+          "caption": "Nov 2023 - Apr 2026 · 2 yrs 5 mos",
+          "metadata": "Sydney, NSW",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "166000",
+          "companyUrn": "urn:li:fsd_company:166000",
+          "companyLink1": "https://www.linkedin.com/company/slalom-consulting/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG5l3nKnBCEWA/company-logo_400_400/company-logo_400_400/0/1719861816497/slalom_consulting_logo?e=1785369600&v=beta&t=46xijOoWGMTQa2NEiHyQTEKX_xcRJ_ltpRzDPHugVUo",
+          "title": "Slalom Build",
+          "subtitle": "Full-time · 1 yr 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jan 2023 - Nov 2023 · 10 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jan 2022 - Jan 2023 · 1 yr",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2451628",
+          "companyUrn": "urn:li:fsd_company:2451628",
+          "companyLink1": "https://www.linkedin.com/company/deputyapp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEcLng7pJK8Ow/company-logo_400_400/company-logo_400_400/0/1686767983786/deputyapp_logo?e=1785369600&v=beta&t=nxlgdkD9FwqXM0eZ7L7cDcoQhAWmeZ9ygCmCTu3-orE",
+          "title": "Deputy",
+          "subtitle": "Internship · 1 yr",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Associate Software Engineer",
+              "caption": "Apr 2021 - Jan 2022 · 9 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            },
+            {
+              "title": "Software Engineering Intern",
+              "caption": "Jan 2021 - Apr 2021 · 3 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4792941",
+          "companyUrn": "urn:li:fsd_company:4792941",
+          "companyLink1": "https://www.linkedin.com/company/code-camp/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFzdrDmY0QLKw/company-logo_400_400/company-logo_400_400/0/1631338143767?e=1785369600&v=beta&t=8p2yUsLDCt-Iv8icu3gJiMyCVaOCUsEcBOiNa4xBIaM",
+          "title": "Head Teacher / TA",
+          "subtitle": "Code Camp . undefined",
+          "caption": "Apr 2019 - Dec 2021 · 2 yrs 8 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6405729",
+          "companyUrn": "urn:li:fsd_company:6405729",
+          "companyLink1": "https://www.linkedin.com/company/ezy-math-tutoring-pty-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEMHYfYoOMdow/company-logo_400_400/company-logo_400_400/0/1630641197727/ezy_math_tutoring_pty_ltd_logo?e=1785369600&v=beta&t=YmAiSJSkgO8KHSJueAPgtVg__YWTBmTeuEsagIa4KeA",
+          "title": "Mathematics Tutor",
+          "subtitle": "Ezy Math Tutoring Pty Ltd . undefined",
+          "caption": "Oct 2018 - Dec 2020 · 2 yrs 2 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Mixed Reality Capstone Project",
+          "subtitle": "Microsoft . undefined",
+          "caption": "Aug 2019 - Nov 2019 · 3 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Description in the project section below."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Research Intern",
+          "subtitle": "The Warren Centre . undefined",
+          "caption": "Apr 2018 - Dec 2018 · 8 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Research the latest science and technological developments from around the world.\n- Produce relevant news articles for The Prototype newsletter"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "22688",
+          "companyUrn": "urn:li:fsd_company:22688",
+          "companyLink1": "https://www.linkedin.com/company/atlassian/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGeyLL6crkJKg/company-logo_400_400/company-logo_400_400/0/1735593604612/atlassian_logo?e=1785369600&v=beta&t=yc96-54WeibpcMstCKB7E6wDoBzGYUT1t-Tjm17og_M",
+          "title": "Jira Work Management Fundamentals Badge",
+          "subtitle": "Atlassian",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Associate Cloud Engineer",
+          "subtitle": "Google Cloud",
+          "issued": "Issued Jan 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Feb 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2830763",
+          "companyUrn": "urn:li:fsd_company:2830763",
+          "companyLink1": "https://www.linkedin.com/company/hashicorp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFBoGhgrPpY9g/company-logo_200_200/B56ZVHpOInHsAI-/0/1740663743267/hashicorp_logo?e=1785369600&v=beta&t=qp5rkjHKsmXtgxTxgxDuU2Nrs9wIkRrKM9VYh3iyxpo",
+          "title": "HashiCorp Certified: Terraform Associate (002)",
+          "subtitle": "HashiCorp",
+          "issued": "Issued Nov 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jira Work Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Front-End Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Full-Stack Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure as a Service (IaaS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure as code (IaC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Dynamodb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mentoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166676",
+          "companyUrn": "urn:li:fsd_company:166676",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sydney/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHbPUZaDAMT6g/company-logo_400_400/company-logo_400_400/0/1646696237577/university_of_sydney_logo?e=1785369600&v=beta&t=CzdvWszHcjc2Y3MigW0fOIDy7SUQvtN3tx0yAUHjnP4",
+          "title": "University of Sydney",
+          "subtitle": "Bachelor of Advanced Computing, Faculty Mentor",
+          "caption": "2017 - 2021",
+          "subComponents": []
+        },
+        {
+          "companyId": "3162",
+          "companyUrn": "urn:li:fsd_company:3162",
+          "companyLink1": "https://www.linkedin.com/school/theuniversityoftexasataustin-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_400_400/company-logo_400_400/0/1630670868977/theuniversityoftexasataustin__logo?e=1785369600&v=beta&t=KrNRehhe9flzpd0b-b8FiBeTM7wlpgka2zMktVaZxSo",
+          "title": "The University of Texas at Austin",
+          "subtitle": "Semester Exchange, null",
+          "caption": "2020 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Semester exchange at the University of Texas at Austin"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "166676",
+          "companyUrn": "urn:li:fsd_company:166676",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sydney/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHbPUZaDAMT6g/company-logo_400_400/company-logo_400_400/0/1646696237577/university_of_sydney_logo?e=1785369600&v=beta&t=CzdvWszHcjc2Y3MigW0fOIDy7SUQvtN3tx0yAUHjnP4",
+          "title": "Faculty Mentor",
+          "subtitle": "University of Sydney",
+          "caption": "Feb 2018 - Nov 2019 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Unmask",
+          "subtitle": "Sep 2020 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Unmask is an educational web application that brings light to the tragedies and injustices happening around the world through unlawful activities. Whether it be the illegal gold mining happening in Peru to the trafficking of illegal substances and weapons in most of Asia and South America, these activities often get overlooked at the expense of the lives of innocent victims that were caught up in the middle of this at no fault of their own.\n\nWhile there is estimated to be 44 trillion gigabytes worth of data circulating throughout the internet, highly important information as such often either gets buried by search engine algorithms or is displayed through an old user interface that more than often loses the interests of the user. To mitigate this, we have effectively combined tools that not only provide accurate information all in one place but also enhance the user experience such that it promotes a higher retention rate."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Microsoft HoloLens Mixed Reality Chess",
+          "subtitle": "Aug 2019 - Nov 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Project Grandmaster came to be as a demonstrative and research purposes to create a design that incorporates limit-free mechanism in a virtual environment that is interacted within the real world, using Microsoft’s Mixed Reality Toolkit (MRTK) and HoloLens 2, allowing the users to experience the best of two worlds.\n\nProject Grandmaster focuses on the advanced hand tracking of the HL2 device, utilising this capability to provide a chess experience as close to a real chess game as possible. Allowing the user to manipulate the pieces with their hands as though they were real pieces placed directly in front.\n\nThe game also takes advantage of it being in a digital environment with features that provide visual assistance such as displaying possible moves and other useful visual tips. Project Grandmaster aims to integrate the best qualities from both real chess and digital chess into one experience."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

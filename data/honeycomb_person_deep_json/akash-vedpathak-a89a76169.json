@@ -1,0 +1,66 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/akash-vedpathak-a89a76169",
+  "row_key": "id:003Uk00000yffa9IAA",
+  "person": "Akash Vedpathak",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:32:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACgz7YkB9p0jj243AZ_EwzIc3W3POE5oTf8",
+      "firstName": "Akash",
+      "lastName": "Vedpathak",
+      "fullName": "Akash Vedpathak",
+      "publicIdentifier": "akash-vedpathak-a89a76169",
+      "headline": "Network Engineer at Wipro Limited",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Pune Division, Maharashtra India",
+      "addressWithoutCountry": "Pune Division, Maharashtra",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Network Engineer",
+          "subtitle": "Wipro Limited . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

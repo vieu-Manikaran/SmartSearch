@@ -1,0 +1,301 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/nicholaspenwarden",
+  "row_key": "id:0033l00002kDnrGAAS",
+  "person": "Nicholas Penwarden",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:15Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAD8yRQBigsIV1cF_fFnJXlHre_fWSskBPU",
+      "firstName": "Nicholas",
+      "lastName": "Penwarden",
+      "fullName": "Nicholas Penwarden",
+      "publicIdentifier": "nicholaspenwarden",
+      "headline": "Former VP of Engineering / Engineering Fellow at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Raleigh-Durham-Chapel Hill Area United States",
+      "addressWithoutCountry": "Raleigh-Durham-Chapel Hill Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQH9zaapMyRVDQ/profile-displayphoto-crop_800_800/B4EZ0rQPUAG0AM-/0/1774547176661?e=1785369600&v=beta&t=ekxwiaLh0dv_zvbkFnVt9_fYl3b6P_gBXsNJvO-auoo",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQH9zaapMyRVDQ/profile-displayphoto-scale_100_100/B4EZ0rQPUAG0Ag-/0/1774547176782?e=1785369600&v=beta&t=gyg1M9H4tGF1z6kLAFy4KoklAm0U-con2Kb6VxLZaOw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQH9zaapMyRVDQ/profile-displayphoto-scale_200_200/B4EZ0rQPUAG0Ac-/0/1774547176782?e=1785369600&v=beta&t=8s9HW23gqY6QvX6i1j4QxB0yKiSHtBZIQHHaiE1yaVs"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQH9zaapMyRVDQ/profile-displayphoto-scale_400_400/B4EZ0rQPUAG0Ak-/0/1774547176782?e=1785369600&v=beta&t=FFM_43f9GJr-VOW1yIouqJjTbY5r5IJhfXgWyOK-Sjw"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQH9zaapMyRVDQ/profile-displayphoto-crop_800_800/B4EZ0rQPUAG0AM-/0/1774547176661?e=1785369600&v=beta&t=ekxwiaLh0dv_zvbkFnVt9_fYl3b6P_gBXsNJvO-auoo"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "title": "Retired",
+          "subtitle": "Self-employed . Self-employed",
+          "caption": "Jun 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 15 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Fellow",
+              "caption": "Apr 2024 - Jun 2026 · 2 yrs 2 mos",
+              "metadata": "Cary, NC",
+              "description": []
+            },
+            {
+              "title": "VP of Engineering",
+              "caption": "Jun 2019 - Apr 2024 · 4 yrs 10 mos",
+              "metadata": "Cary, NC",
+              "description": []
+            },
+            {
+              "title": "Director, Unreal Engine",
+              "caption": "Aug 2017 - Jun 2019 · 1 yr 10 mos",
+              "metadata": "Cary, NC",
+              "description": []
+            },
+            {
+              "title": "Development Manager, UE4",
+              "caption": "Jun 2015 - Aug 2017 · 2 yrs 2 mos",
+              "metadata": "Cary, NC",
+              "description": []
+            },
+            {
+              "title": "Lead Graphics Programmer",
+              "caption": "Apr 2013 - Jun 2015 · 2 yrs 2 mos",
+              "metadata": "Cary NC",
+              "description": []
+            },
+            {
+              "title": "Senior Engine Programmer",
+              "caption": "Apr 2011 - Apr 2013 · 2 yrs",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "11905",
+          "companyUrn": "urn:li:fsd_company:11905",
+          "companyLink1": "https://www.linkedin.com/company/raven-software/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG7F1cLnHgUhQ/company-logo_100_100/B56ZjDmqvHHkAY-/0/1755628350950/raven_software_logo?e=1785369600&v=beta&t=4SJa-BwR72INUJGKS7vmNZDqHSEhC6hbo5XdzoNwP3M",
+          "title": "Senior Software Engineer",
+          "subtitle": "Raven Software . undefined",
+          "caption": "May 2006 - Apr 2011 · 4 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technical programmer specializing in graphics and performance on Xbox 360 and Playstation 3.\n\nShipped titles: Marvel: Ultimate Alliance, X-Men Origins: Wolverine, Singularity."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4048",
+          "companyUrn": "urn:li:fsd_company:4048",
+          "companyLink1": "https://www.linkedin.com/company/activision/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH0_xHqyhMDFA/company-logo_400_400/company-logo_400_400/0/1680180909807/activision_logo?e=1785369600&v=beta&t=gQJajPy4s4v7jAvNfg45Rau6EOoSYNPPz4lzgf3gVUs",
+          "title": "Senior Software Engineer",
+          "subtitle": "Activision . undefined",
+          "caption": "May 2006 - Apr 2011 · 4 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox 360",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unreal Engine 3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Multiplayer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gameplay",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DirectX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Shaders",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenGL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4099",
+          "companyUrn": "urn:li:fsd_company:4099",
+          "companyLink1": "https://www.linkedin.com/school/uwmadison/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFyYW54n5mwAw/company-logo_400_400/company-logo_400_400/0/1630601304331/university_of_wisconsin_madison_logo?e=1785369600&v=beta&t=EU7hYX_QMOoqKgW0dkHMm3cl70cOZ4VKnVv4I8-rPB4",
+          "title": null,
+          "subtitle": "M.S., Computer Science",
+          "caption": "2005 - 2007",
+          "subComponents": []
+        },
+        {
+          "companyId": "6060",
+          "companyUrn": "urn:li:fsd_company:6060",
+          "companyLink1": "https://www.linkedin.com/school/rensselaer-polytechnic-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGii6y_D-NJhQ/company-logo_400_400/B4EZlDAjIFKsAc-/0/1757765841835/rensselaer_polytechnic_institute_logo?e=1785369600&v=beta&t=pZ5BD_p59fxagL9joWXLxJnoM-vHB0kYJUkkF3HixGQ",
+          "title": null,
+          "subtitle": "B.S., Tau Beta Pi, Eta Kappa Nu, Upsilon Pi Epsilon",
+          "caption": "2001 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

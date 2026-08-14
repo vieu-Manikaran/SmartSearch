@@ -1,0 +1,282 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/warren-l",
+  "row_key": "id:003Uk00000sNKWlIAO",
+  "person": "Warren Lefevre",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:53:00Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACxytWMBLPp1PDoLYsD_gCeWhasHG0OOy8w",
+      "firstName": "Warren",
+      "lastName": "L.",
+      "fullName": "Warren L.",
+      "publicIdentifier": "warren-l",
+      "headline": "Video & Systems Engineer",
+      "about": "Video Streaming and IT Systems Engineer with extensive expertise in diverse technologies and a proven ability to quickly adapt to new systems.Providing several years of experience in broadcasting, IT hardware, and software operations, withproficiency in designing and implementing linear and OTT streaming systems across IP, baseband,and cloud-based environments.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Broadcast Media",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal Technical Services and Ongoing Support Specialist",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Mar 2026 - Present · ",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11091426",
+          "companyUrn": "urn:li:fsd_company:11091426",
+          "companyLink1": "https://www.linkedin.com/company/primevideoamazonstudios/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE3da6YmLiQYQ/company-logo_400_400/company-logo_400_400/0/1722273903446/primevideoamazonstudios_logo?e=1785369600&v=beta&t=9ANHxJ7SiNcoX2CybeOBiulF7wud5Jkq1040iTVbdg4",
+          "title": "Support Engineer",
+          "subtitle": "Prime Video & Amazon MGM Studios . Contract",
+          "caption": "Apr 2025 - Jan 2026 · 9 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Support and systems engineer for Amazon Prime Video Live Operations.\n-Provided first- and second-line operational support for internal teams and external media partners, ensuring rapid incident triage and resolution.\n-Maintained and troubleshot complex network and infrastructure systems, optimising high availability for live streaming environments.\n-Analysed video networking workflows to quickly identify and resolve issues, collaborating with broadcast partners to troubleshoot and maintain systems.\n-Built and configured network, AWS, and infrastructure monitoring dashboards and alerts using Prometheus and Grafana.\n-Designed and planned the migration of virtual machine infrastructure to Proxmox.\n-Configured, integrated, and optimised video streaming hardware and software, including encoders, decoders and IP distribution gateways, to support live streaming operations."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5113821",
+          "companyUrn": "urn:li:fsd_company:5113821",
+          "companyLink1": "https://www.linkedin.com/company/abs-broadcast/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHNlNde-bqGeA/company-logo_400_400/company-logo_400_400/0/1630623306242/abs_broadcast_logo?e=1785369600&v=beta&t=O5SVA_Efb9kQADqfEgJlG9Op4y76BgLXMmCqK3jh5jQ",
+          "title": "IT Broadcast Engineer",
+          "subtitle": "ABS Broadcast . Full-time",
+          "caption": "Jan 2020 - Apr 2024 · 4 yrs 3 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "-Collaborated with 20+ business partners to deliver linear, non-linear & OTT solutions.\n-Designed, installed and maintained various IT, networking and Video/Audio systems.\n-Created automation systems for the company’s core infrastructure by utilising Python, Bash and RoboTask.\n-Provided a wide variety of technical knowledge for Windows & Linux, networking protocols, AWS and video/audio formats.\n\nLead engineer in multiple projects:\n-Designing end-to-end automation systems for VOD content delivery to Sky UK.\n-Organisation & design of live broadcast delivery solutions across several countries.\n-Managing the migration of playout services from previous providers to our data centre.\n\nResponsibilities:\n-Maintaining 100+ services for various clients based across the globe.\n-Implementation and maintenance of playout automation, media transcoding and MAM systems.\n-2nd line support for all hardware, software and network systems. Including 24/7 on-call support.\n-Maintenance of data centre power infrastructure & cooling systems.\n-Travelling to sites to assist with service deployment and troubleshooting."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Video Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Encoding",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Broadcasting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Media Specialist",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Codec",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Broadcast Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Live Streaming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Streaming Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IP Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Control",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentation Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ffmpeg",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "38031",
+          "companyUrn": "urn:li:fsd_company:38031",
+          "companyLink1": "https://www.linkedin.com/school/ravensbourne/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHTytk63g19hQ/company-logo_400_400/company-logo_400_400/0/1688405439839/ravensbourne_logo?e=1785369600&v=beta&t=x9nG6pGc1ZkR2PxaO2-5KbjjOpMKGVIUdEsD6ML0jwg",
+          "title": "Ravensbourne University London",
+          "subtitle": "Bachelor of Science - BS, Broadcast Engineering",
+          "caption": "2016 - 2019",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class Honours"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

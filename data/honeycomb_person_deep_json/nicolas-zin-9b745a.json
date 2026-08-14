@@ -1,0 +1,523 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/nicolas-zin-9b745a",
+  "row_key": "id:003Uk00000znzbvIAA",
+  "person": "Nicolas Zin",
+  "account": "AlayaCare",
+  "fetched_at": "2026-07-14T10:47:19Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAARDhsBAVf66zRCBUeCCBvkKN1ZdVCN6Lw",
+      "firstName": "Nicolas",
+      "lastName": "Zin",
+      "fullName": "Nicolas Zin",
+      "publicIdentifier": "nicolas-zin-9b745a",
+      "headline": "Principal SRE Developer at Alayacare",
+      "about": "Currently working as an Principal Devops tech lead:\n- responsible for the CI/CD pipeline and the feature flag system, in an Kubernetes ecosystem of 200+ micro-services (CI: Github/Jenkins/Artifactory, CD:ArgoCD, feature flags: https://github.com/openflagr/flagr, environment: Kubernetes)\n- mentoring a team of 6 people\n- working heavily with Kubernetes (managed, EKS, AKS) on different cloud provider (but mainly AWS), in a IAC (Infrastructure As Code) environment (ArgoCD, git, packer, terraform...)\n- automating everything by developing golang applications (REST,gRPC,graphQL, gorm.io) + a bit of VueJS for the frontend part.\n- projet management: agile with Scrum or traditional with PMI management methodology\n\nOther tech stacks\n- identity management (Redhat IDM), and web identity (Keycloak, FusionAuth)\n- AWS: EC2/RDS/S3/route53/cloudformation/EKS,...\n- storage usage and management: Postgresql/mysql, AWS dynamoDB, a bit of Kafka\n\nCertifications:\n- Scrum Master\n- RHCE (RedHat Certitifed Engineer)  dec 2011\n- RHCI (RedHat Certitifed Instructor) nov 2012\n- RHCX (RedHat Certitifed eXaminer) jan 2013\n\nPublication:\n- Book on OSSec (see below)",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Montreal, Quebec Canada",
+      "addressWithoutCountry": "Montreal, Quebec",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFC5nNHsYMYbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516229724165?e=1785369600&v=beta&t=8xIauztGtYbt0lmrjkUG7Gs2HnVWZJ2J49glp7ALl6c",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFC5nNHsYMYbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516229724197?e=1785369600&v=beta&t=7TPHH1TTSJVJGKnRgOVDY8BobKLCRkYIgs_areUQsTg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFC5nNHsYMYbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516229724270?e=1785369600&v=beta&t=t44cXrlNTUlNtxdP0vFDjuYoBpsVK24sGNa2LhgA9Yo"
+        },
+        {
+          "width": 394,
+          "height": 394,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFC5nNHsYMYbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516229724607?e=1785369600&v=beta&t=RlfWx5DhCGqDtQLlWl7CpNNqcV86oTxSdqA_YzVps2c"
+        },
+        {
+          "width": 394,
+          "height": 394,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFC5nNHsYMYbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516229724165?e=1785369600&v=beta&t=8xIauztGtYbt0lmrjkUG7Gs2HnVWZJ2J49glp7ALl6c"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "5191283",
+          "companyUrn": "urn:li:fsd_company:5191283",
+          "companyLink1": "https://www.linkedin.com/company/alayacare-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEAJy5rfZoO0g/company-logo_400_400/company-logo_400_400/0/1645022956117/alayacare_inc_logo?e=1785369600&v=beta&t=j8XNqnEsVEzcHsM_v3tVk3qowS2Kj-uZCDy7OK4DSKc",
+          "title": "Principal SRE developer",
+          "subtitle": "AlayaCare . Permanent Full-time",
+          "caption": "May 2023 - Present · 2 yrs 8 mos",
+          "metadata": "Montreal, Quebec, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "as a SRE principal, I am working on different projects across the company, but mostly around SRE/QA/DevX and security:\n- migrate all AWS mariadb to AWS Aurora Mysql 8 using AWS DMS, python3, Rundeck (8 month projects, 2400 prod & nonprod DB migrated)\n- help the company enhance its QA policy, through preventive and corrective actions:\n  * better k8s HPA, by developing a custom k8s adapter/controller (golang)\n  * new synthetic monitoring checks and dashboard (New Relic, terraform, Snowflake)\n  * more readable prod deployment plan, similar to \"terraform plan\" (golang, helm)\n  * develop a QA gated CD pipeline (AWS state machine, kubernetes, python3, Allure2)\n- increase security posture\n  * using heavily AWS IAM roles across all deployed management applications\n  * develop and deploy a s3 malware scanning service to fit compliance requirements"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1418447",
+          "companyUrn": "urn:li:fsd_company:1418447",
+          "companyLink1": "https://www.linkedin.com/company/appdirect/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGq2Gis7WwC9g/company-logo_400_400/company-logo_400_400/0/1674483251929/appdirect_logo?e=1785369600&v=beta&t=NNYYjQ6b2inF3fyPgpJIL2I75hSbeLglioPF8yjnBq4",
+          "title": "AppDirect",
+          "subtitle": "Permanent Full-time · 5 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Senior Devops",
+              "caption": "Mar 2022 - Apr 2023 · 1 yr 1 mo",
+              "metadata": "Montreal, Quebec, Canada",
+              "description": []
+            },
+            {
+              "title": "senior devops",
+              "caption": "Oct 2017 - Mar 2022 · 4 yrs 5 mos",
+              "metadata": "Montreal, Canada Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1557218",
+          "companyUrn": "urn:li:fsd_company:1557218",
+          "companyLink1": "https://www.linkedin.com/company/lightspeedcommerce/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH7z9vO5QwCvg/company-logo_100_100/B4EZnlqp04KcAQ-/0/1760494788198/lightspeedcommerce_logo?e=1785369600&v=beta&t=jbal8W4ukEBjfdUw8SvV7tL2O8wFXC2ETGeiN5_z_ao",
+          "title": "Senior devops engineer",
+          "subtitle": "Lightspeed HQ . undefined",
+          "caption": "Jun 2017 - Oct 2017 · 4 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "In the Cloud Infrastructure Service (delivering IT service to other BU) I am woking to\n- develop and promote internal services: docker/kubernetes, CI pipeline (Concourse, artifactory, k8s), log management (ELK); in particular kubernetes cluster: keep up to date the staging and prod clusters, RBAC implementation, development of a kubernetes Self-service portal.\n- help a Business Unit (ETL) to streamline their (Java) development to production (k8s, kafka, concourse.ci, kong, datadog, tools developed in Golang/python)\n- help to bring PCI-DSS coverage: OS hardening, log management/FIM/HIDS."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "97435",
+          "companyUrn": "urn:li:fsd_company:97435",
+          "companyLink1": "https://www.linkedin.com/company/sap-hybris/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEfui-gb6j9XA/company-logo_400_400/company-logo_400_400/0/1631368128825/sap_hybris_logo?e=1785369600&v=beta&t=DzIjfy4GBJyBe_5xHzaSOMxyNhLGyEO9agg33IBYZkg",
+          "title": "IT architecture senior specialist",
+          "subtitle": "hybris software . undefined",
+          "caption": "Oct 2015 - May 2017 · 1 yr 7 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "In the Hosting Cloud Service (150+ big customers) I am woking on the development of a PCI-DSS compiant PaaS Solution centered around the e-commerce Hybris solution (of course :-)):\n- architecture and design of a PaaS solution working at the same time on an internal cloud and on a public cloud (ansible, python, vRealize/Amazon AWS)\n- tech lead for a team of 6 people\n- cloud architecture (Amazon AWS)\n- different linux bricks (Centos 7, Elasticsearch/Logstash/Kibana, Hashicorp Vault, smtp/dns/ldap,...)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "84904",
+          "companyUrn": "urn:li:fsd_company:84904",
+          "companyLink1": "https://www.linkedin.com/company/sflinux/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIP-UOvqy2YQ/company-logo_400_400/company-logo_400_400/0/1711387081944/sflinux_logo?e=1785369600&v=beta&t=Q2gGnUnmdclnNQ2SFm5uO23-rPvIzcv-pHL93cDH7qY",
+          "title": "Free Software Consultant - Technology Architect",
+          "subtitle": "Savoir Faire Linux . undefined",
+          "caption": "Apr 2010 - Oct 2015 · 5 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "cloud architecture (Amazon AWS, Openstack)\nLinux system architecture and system administration\nproject management\nsecurity practice leadership"
+              }
+            }
+          ]
+        },
+        {
+          "title": "system administrator",
+          "subtitle": "Les Restaurants du Coeur . undefined",
+          "caption": "Feb 2005 - Feb 2010 · 5 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "IT department managment\nsystem administration\nsecure global IT procurments"
+              }
+            }
+          ]
+        },
+        {
+          "title": "computer science engineer",
+          "subtitle": "netVigilance . undefined",
+          "caption": "Nov 2003 - Sep 2004 · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "architect of SecureScout product\n\nResponsible for the technical evolutions of the flagship product of the company"
+              }
+            }
+          ]
+        },
+        {
+          "title": "computer science engineer",
+          "subtitle": "Vigilante . undefined",
+          "caption": "2001 - 2003 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- ASP product developpement for one year\n- With a small and talented team, creation of an innovative security scanner, focused on testing security on web application."
+              }
+            }
+          ]
+        },
+        {
+          "title": "IT Developper",
+          "subtitle": "Otoobe . undefined",
+          "caption": "1999 - 2001 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "develop security scanner assessment software"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "RHCX (Red Hat Certifiex eXaminer)",
+          "subtitle": "Red Hat",
+          "issued": "Issued Jan 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RHCI (Red Hat Certified Instructor)",
+          "subtitle": "Red Hat",
+          "issued": "Issued Nov 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RHCE (Red Hat Certified Engineer)",
+          "subtitle": "Redhat",
+          "issued": "Issued Dec 2011",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Deployment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Open Source",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon EC2",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telecommunications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3330082",
+          "companyUrn": "urn:li:fsd_company:3330082",
+          "companyLink1": "https://www.linkedin.com/school/neoma-business-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGkpW2bgM79Og/company-logo_400_400/company-logo_400_400/0/1630615356340/neoma_business_school_logo?e=1785369600&v=beta&t=CvX9rO_lJTw7O3rC3j_CFD-VtMHuDcj8iswFlEhDemY",
+          "title": "Reims Management School",
+          "subtitle": "MBA, null",
+          "caption": "2007 - 2009",
+          "subComponents": []
+        },
+        {
+          "companyId": "15094099",
+          "companyUrn": "urn:li:fsd_company:15094099",
+          "companyLink1": "https://www.linkedin.com/school/efrei/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHDVCW9BFYrbQ/company-logo_400_400/company-logo_400_400/0/1641975959299/efrei_logo?e=1785369600&v=beta&t=OtZwEaQySmMNB2DGJU4-h67ffQdz6wM17Mcn84YK1T4",
+          "title": "EFREI - Ecole Française d'Electronique et d'Informatique",
+          "subtitle": "MS, founded the Linux association of the school (and teach to newbies). Participate to another electronic association.",
+          "caption": "1994 - 1999",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Goliac",
+          "subtitle": "Jul 2024 - Jul 2024",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "https://goliac-project.github.io/goliac . A \"repo as code\" Gitops tool, to manage your Github organization via a Git repository (a bit like ArgoCD, but for Github organization)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Traefik Cluster Rate Limiter",
+          "subtitle": "Nov 2024 - Jan 2025",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Traefik comes with a default rate limiter middleware, but the rate limiter doesn't share a state if you are using several instance of Traefik (think kubernetes HA deployment for example)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Naxsi: Security module for Nginx",
+          "subtitle": "Jan 2014 - Jun 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I propose a patch to log all Naxsi message outside of the nginx error log. (to be able to better parse error log via ossec)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Debian/Ubuntu package for ossec (ppa)",
+          "subtitle": "Jan 2013 - Jan 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I maintain packages since ossec 2.6 because it lacks in Debian. I tried to include them in Debian, but reaching Debian community is a pain."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

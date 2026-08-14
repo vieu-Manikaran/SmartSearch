@@ -1,0 +1,471 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/darshshah981",
+  "row_key": "id:003Uk00000xfprTIAQ",
+  "person": "Darsh Shah",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:31Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAsLlogBvKKCw648zAXEmLmznhnBP9n21Zw",
+      "firstName": "Darsh",
+      "lastName": "Shah",
+      "fullName": "Darsh Shah",
+      "publicIdentifier": "darshshah981",
+      "headline": "Tech | Strategy & Finance",
+      "birthDateOn": {
+        "month": 10,
+        "day": 7
+      },
+      "about": "The most valuable work I've done has always lived between functions - product, finance, and ops. It is the space nobody owns but everyone needs. At Epic, I work on monetization strategy for Unreal Engine and Fab: connecting the ask to the numbers, getting the call made, and keeping the build moving.Outside work, I ship software with AI agents (or try to). Cadence is a local macOS dictation app that I built while claude-switch is an enterprise account switcher for Claude Code because I like to use my personal account for my side projects. I write at darshshah.xyz.If you're working on agent infrastructure, pricing in the agent era, or rebuilding how a company ships software, I'd like to hear about it.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York City Metropolitan Area United States",
+      "addressWithoutCountry": "New York City Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQGfdryHwKQuBA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707200241163?e=1785369600&v=beta&t=d_p28R1nvDkVBklhXZg4gVGF5lXV0OqGhQ_wrD-9L40",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQEcP-u5-mz_3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707200856323?e=1785369600&v=beta&t=uXWTB8dePctP-5ETp8x0QKfiog925W9HbLeYfqKEDUM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGfdryHwKQuBA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707200241163?e=1785369600&v=beta&t=yf-L5Ct1irmvKLQUAZ6HUUsrRPH-ApXGWgya1V-zzPY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGfdryHwKQuBA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707200241163?e=1785369600&v=beta&t=JciJgmoEsWW_txep-x2JtHRVUu80S4GbuZMEXe80WiA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGfdryHwKQuBA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707200241163?e=1785369600&v=beta&t=TbT209rLTPVjga12XlxiU8UKelD8Nu-b3Ql0aBEJSsM"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGfdryHwKQuBA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707200241163?e=1785369600&v=beta&t=d_p28R1nvDkVBklhXZg4gVGF5lXV0OqGhQ_wrD-9L40"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEcP-u5-mz_3A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1707200856323?e=1785369600&v=beta&t=KFFyCMGpfS-L43bNuovEsVylIJRPutJ7Dqtvle88Su4"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEcP-u5-mz_3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707200856323?e=1785369600&v=beta&t=uXWTB8dePctP-5ETp8x0QKfiog925W9HbLeYfqKEDUM"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Strategy & Finance",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Oct 2024 - Present · 1 yr 3 mos",
+          "metadata": "New York City Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Shaping the monetization strategy and financial planning for the agentic development suite within Unreal Engine"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11704543",
+          "companyUrn": "urn:li:fsd_company:11704543",
+          "companyLink1": "https://www.linkedin.com/company/passgallery/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYFGh-2Oyphw/company-logo_400_400/company-logo_400_400/0/1705522219659/passgallery_logo?e=1785369600&v=beta&t=_WINTyO0l9VzgIzXcb5yl9JvrioIL1s6DqZP8NFVBgE",
+          "title": "Chief of Staff",
+          "subtitle": "Pass Gallery . Full-time",
+          "caption": "Jun 2023 - Jul 2024 · 1 yr 1 mo",
+          "metadata": "Los Angeles, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "CRM for creative professionals"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6605974",
+          "companyUrn": "urn:li:fsd_company:6605974",
+          "companyLink1": "https://www.linkedin.com/company/sharechat/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGoeY9_j_6slg/company-logo_400_400/company-logo_400_400/0/1630630570849/sharechat_logo?e=1785369600&v=beta&t=aWoJAJyB8vaWaY6BREyTBq-XFgFgkitLeYIdnbdmgWQ",
+          "title": "Strategy & Finance",
+          "subtitle": "ShareChat . Full-time",
+          "caption": "Sep 2021 - Aug 2022 · 11 mos",
+          "metadata": "India / Mountain View",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "TikTok for India's multi-lingual market"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "35556228",
+          "companyUrn": "urn:li:fsd_company:35556228",
+          "companyLink1": "https://www.linkedin.com/company/rainshineglobal/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGRTjfJtD7WJA/company-logo_400_400/company-logo_400_400/0/1630612956100/rainshine_entertainment_logo?e=1785369600&v=beta&t=H8XukmnXJhmcJdRVF1kVjS0iaeeqekNUFHqq-JIdA6o",
+          "title": "Finance & Corporate Development",
+          "subtitle": "Rainshine Global Inc. . Full-time",
+          "caption": "Oct 2017 - Sep 2021 · 3 yrs 11 mos",
+          "metadata": "India / Los Angeles / New York",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Internet media group with interests in Content, Gaming, and Web3."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "909723",
+          "companyUrn": "urn:li:fsd_company:909723",
+          "companyLink1": "https://www.linkedin.com/company/grant-thornton-bharat-llp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF50Gb3_dT2bg/company-logo_100_100/B4DZ6WhgI1H8AI-/0/1780641825533/grant_thornton_bharat_llp_logo?e=1785369600&v=beta&t=uTCjw5g76nDSg3PzyyDtKNE6Gs_DMly4r41JrkpQcfY",
+          "title": "Consultant",
+          "subtitle": "Grant Thornton India LLP . Full-time",
+          "caption": "Oct 2014 - Oct 2017 · 3 yrs",
+          "metadata": "India / London / New York",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "SEC / PCAOB governed audits under international GAAP"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "15112616",
+          "companyUrn": "urn:li:fsd_company:15112616",
+          "companyLink1": "https://www.linkedin.com/school/government-commerce-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGF1Aetq2mAzg/company-logo_400_400/company-logo_400_400/0/1698926970526?e=1785369600&v=beta&t=pZt3IVU87868YGf6VESDhLk0w6J-7ONqz9_QIfJLqps",
+          "title": "Chartered Accountant",
+          "subtitle": "The Institute of Chartered Accountants of India (ICAI)",
+          "issued": "Issued Jul 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gujarati",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Product Requirement Definition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quantitative Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Qualitative Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mergers & Acquisitions (M&A)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-border Transactions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Budgeting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Forecasting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Revenue Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "P&L Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-team Collaboration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PRD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Prototyping",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Documentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Usability Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Success",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pricing Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3195",
+          "companyUrn": "urn:li:fsd_company:3195",
+          "companyLink1": "https://www.linkedin.com/school/kellogg-school-of-management/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH0Ps4Kjp5XPw/company-logo_400_400/company-logo_400_400/0/1631319363525?e=1785369600&v=beta&t=orrOlb6ufen2aWQw0AIQfR3x8Tp3pTHRd763KuKvJcM",
+          "title": "Northwestern University - Kellogg School of Management",
+          "subtitle": "Master of Business Administration - MBA, VP - Entrepreneurship & VC Club; Kellogg Student Association (Alumni Engagement)",
+          "caption": "Aug 2022 - Jun 2024",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Dean's List"
+            }
+          ]
+        },
+        {
+          "companyId": "3196",
+          "companyUrn": "urn:li:fsd_company:3196",
+          "companyLink1": "https://www.linkedin.com/school/northwestern-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH-sXOOSUF3aA/company-logo_400_400/company-logo_400_400/0/1631319371681?e=1785369600&v=beta&t=uwxiA6VV3rL8BLGXfvrOb8Xcd49E1dcOguIJEe3_w2I",
+          "title": "Northwestern University",
+          "subtitle": "MBA, Business Administration and Management, General",
+          "caption": "Aug 2022 - Jun 2024",
+          "subComponents": []
+        },
+        {
+          "companyId": "15093732",
+          "companyUrn": "urn:li:fsd_company:15093732",
+          "companyLink1": "https://www.linkedin.com/school/university-of-mumbai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsu_DimiqUow/company-logo_400_400/company-logo_400_400/0/1631357817785?e=1785369600&v=beta&t=wLcrCokQmXW4ukjNCATsWCwyc_0u1MlqNVpe4j3Oipw",
+          "title": "University of Mumbai",
+          "subtitle": "null, null",
+          "caption": "Apr 2013 - May 2016",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "690247",
+          "companyUrn": "urn:li:fsd_company:690247",
+          "companyLink1": "https://www.linkedin.com/company/make-a-difference_2/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHSolnkv_Jrog/company-logo_400_400/company-logo_400_400/0/1631417254927/make_a_difference_2_logo?e=1785369600&v=beta&t=wU2bESyIeg4x0cf-u-LHizZHujy1R0vjnl9PWhFDj-k",
+          "title": "Volunteer (Discover)",
+          "subtitle": "Make A Difference",
+          "caption": "May 2014 - May 2015 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "356833",
+          "companyUrn": "urn:li:fsd_company:356833",
+          "companyLink1": "https://www.linkedin.com/company/teach-for-india/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFWjt_2tPTCEA/company-logo_200_200/B4DZ4qeHCLHoAE-/0/1778828997078/teach_for_india_logo?e=1785369600&v=beta&t=IJI0J_h7FU9erT9STFbl-iQX9qDxNb843kC2ooLZ9Qw",
+          "title": "Volunteer",
+          "subtitle": "Teach For India",
+          "caption": "Aug 2018 - Jan 2019 · 5 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

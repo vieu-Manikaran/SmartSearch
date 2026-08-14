@@ -1,0 +1,588 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/imarty",
+  "row_key": "id:003Uk00000ydFK3IAM",
+  "person": "Igor Marty",
+  "account": "Lenovo Group",
+  "fetched_at": "2026-07-14T10:44:40Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABDUV8B91hGnrnStf3N36XukHuYNUKdPqM",
+      "firstName": "Igor",
+      "lastName": "M.",
+      "fullName": "Igor M.",
+      "publicIdentifier": "imarty",
+      "headline": "CTO EMEA - Global Account",
+      "about": "I am CTO SI & Telco at Lenovo.\nCumulating over 30 years of an Worldwide IT experiences; I have a strong technical and sales background. Objectives oriented, self-motivated and recognized as top speaker.\nI am responsible for establishing, developing and driving the SI & Telco Strategy for the company.\n\nMy responsibilities include strategic engagements such as:\n#\tengagements business with customer executive level\n#\tcommunity & event engagements\n#\tengagement in the development of the Lenovo's SI & Telco strategy\n#      engagements in design of Lenovo offering\n\n\n\nSpecialties:\n# Open Standards (OCP, ONF, ODL, OpenStack, OPNFV, ETSI, O-RAN, ....)\n# SDN & NFV Networking (Openflow, Overlay, VNF, MANO, ...)\n# DataCenter Network Specialist (Fabric,Layer 2 & 3, FCoE, virtualisation networking, HPC environment, ...)\n# Perfect Server market knowledge.\n# Strong Storage skills and deep SDS knowledge.\n# Strong Operating System and Virtualization skills.\n\nCertifications\n# Nokia DataCenter Fabric Professional\n# Cisco Certified Internetwork Engineer Emeritus (CCIE #4708)\n# Cisco Certified Network Professional (CCDP)\n# Certified NetWare Engineer (CNE)\n# Microsoft Certified Systems Engineer (MCSE) \n# Microsoft Certified Trainer (MCT)",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "France",
+      "addressWithCountry": "Greater Perpignan Area France",
+      "addressWithoutCountry": "Greater Perpignan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFyPUcRnjFkGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1637044497582?e=1785369600&v=beta&t=wZoFCYh9VMghdnHUbCJehQxkHu3_qTREBrZKCx1agm0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFyPUcRnjFkGg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1637044497582?e=1785369600&v=beta&t=wFBTXwyQbyKhET5aG6Di3dRORVT60geQWn3CuBuQMqQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFyPUcRnjFkGg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637044497582?e=1785369600&v=beta&t=L0qTtlsBGYyDSHJsLrTtkfvMEJeRr1WX3q6irzPnYso"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFyPUcRnjFkGg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1637044497582?e=1785369600&v=beta&t=m8oPlA_fKgI_oQ3bHcJYHIjSpkvo3IyJwDSKpK1Yln4"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFyPUcRnjFkGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1637044497582?e=1785369600&v=beta&t=wZoFCYh9VMghdnHUbCJehQxkHu3_qTREBrZKCx1agm0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "3653",
+          "companyUrn": "urn:li:fsd_company:3653",
+          "companyLink1": "https://www.linkedin.com/company/lenovo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwodgzuPCrOA/company-logo_400_400/company-logo_400_400/0/1659011656349/lenovo_logo?e=1785369600&v=beta&t=3uKthCYTRw-tNf-xnG4Hrku8C_NMDwkw4GdWbRmxWyQ",
+          "title": "Lenovo",
+          "subtitle": "Full-time · 11 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "CTO EMEA - Global Account",
+              "caption": "Oct 2025 - Present · 3 mos",
+              "description": []
+            },
+            {
+              "title": "CTO SI & Telco",
+              "caption": "Apr 2020 - Oct 2025 · 5 yrs 6 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Define Si & Telco strategy"
+                }
+              ]
+            },
+            {
+              "title": "CTO Telco, WW",
+              "caption": "Apr 2016 - Mar 2020 · 3 yrs 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Defining Telco Strategy for Lenovo"
+                }
+              ]
+            },
+            {
+              "title": "Sales Director SDDC, EMEA",
+              "caption": "Jul 2015 - Apr 2016 · 9 mos",
+              "metadata": "France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Driving and Managing SDDC EMEA Business"
+                }
+              ]
+            },
+            {
+              "title": "CTO SDN & NFV Lenovo Networking, WW",
+              "caption": "Jan 2015 - Jul 2015 · 6 mos",
+              "metadata": "France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Defining SDN & NFV Strategy for Lenovo Networking"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Member of Technical Advisory Council ",
+          "subtitle": "Linux Foundation Networking . undefined",
+          "caption": "Jan 2018 - Nov 2022 · 4 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "https://www.linuxfoundation.org/projects/networking/"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Board Member",
+          "subtitle": "OPNFV . undefined",
+          "caption": "Jun 2016 - Dec 2017 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Providing guidance to the OPNFV Project to build an open source reference implementation on OP@L."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM",
+          "subtitle": "undefined · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "CTO SDN System Networking, WW",
+              "caption": "Oct 2014 - Jan 2015 · 3 mos",
+              "metadata": "France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Defining SDN Strategy for System Networking"
+                }
+              ]
+            },
+            {
+              "title": "Chief System Networking Engineer, EMEA",
+              "caption": "Apr 2011 - Oct 2014 · 3 yrs 6 mos",
+              "metadata": "France",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "22031",
+          "companyUrn": "urn:li:fsd_company:22031",
+          "companyLink1": "https://www.linkedin.com/company/blade-network-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF_Svdwuu8VkQ/company-logo_400_400/company-logo_400_400/0/1631303917764?e=1785369600&v=beta&t=yClsIxoYEPTly9vi4h54unQXBQx28RQgs0MMSxCZYaY",
+          "title": "Blade Network Technologies",
+          "subtitle": "undefined · 4 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Sales Manager EMEA",
+              "caption": "May 2009 - Apr 2011 · 1 yr 11 mos",
+              "metadata": "France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Technical Sales Manager EMEA"
+                }
+              ]
+            },
+            {
+              "title": "System Engineer Data Center Architect, EMEA",
+              "caption": "May 2006 - May 2009 · 3 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "# Business development. Responsible for increasing market share and sales revenues with our OEM HP partner and our own branded Top of Rack switches. Establish strategic regional alliances and develop marketing and sales incentive plans. Develop new market segments and new route to market. Create from scratch channel in EMEA.  Establish and maintain relationships with senior executives. Key influential role using strong negotiation skills. \n# EMEA market development. Stimulate HP sales team for BNT OEM products and channel teams for ToR BNT branded products. Create appropriate documentation such as business cases, white papers, presentations, technical guides, etc. to support technical and sales force. Organize and animate workshops sessions at key industry events. Eliminate sales and technical inhibitors in order to increase BNT presences in major sales opportunities. \n# Technical expertise. Act as a technical reference for HP System Engineers. Proceed with “Proof of Concept”, Benchmark and live demos. Create and deliver specific training with appropriate hands-on labs to HP and Business Partners. Work closely with customer’s network team, integrating HP/BNT’s OEM products in their current infrastructure. Act as Team leader for all EMEA."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "7452",
+          "companyUrn": "urn:li:fsd_company:7452",
+          "companyLink1": "https://www.linkedin.com/company/ares/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEOtJMK8UgGhQ/company-logo_400_400/company-logo_400_400/0/1631320555551?e=1785369600&v=beta&t=nm3-m9AAB4x1mlXT9XonaxPrnbDVUbvP6yr7E852SMs",
+          "title": "Network, ToIP and Security Solutions Consultant",
+          "subtitle": "ARES . undefined",
+          "caption": "Sep 2005 - Apr 2006 · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "# Consultant on network solutions: Gather customer’s requirements; propose network architecture corresponding to their technical and business needs. Provide a thorough understanding of customer’s technical environment and influence decisions makers with appropriate information. \n# Project Manager: responsibly for all technical documentations, presentations, diagrams and process related to the network infrastructure.\n# Sales strategies development. Create sales opportunities by presenting in various technical workshops and/or conferences. Put together “Technical Account Planning” strategies to successfully position the enterprise in competitive markets. Responsible for technical aspect of Request for Proposal (RFP) and provide insight information on how and with whom to partner in bidding strategies.\n# Specialist in Ip Telephony: trainer, stude for State of Technical Art with qualification of new hardware and software."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3580",
+          "companyUrn": "urn:li:fsd_company:3580",
+          "companyLink1": "https://www.linkedin.com/company/computacenter/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsUAcP8rMynQ/company-logo_400_400/company-logo_400_400/0/1657020710603/computacenter_logo?e=1785369600&v=beta&t=dKImM5CDV8n5QzH43A1pVV9fUg8S4LDiyTXsot6ZNEU",
+          "title": "European Network, ToIP and Security Expert",
+          "subtitle": "Computacenter . undefined",
+          "caption": "Apr 2000 - Aug 2005 · 5 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "# Expert on network solutions: Gather customer’s requirements; propose network architecture corresponding to their technical and business needs. Provide a thorough understanding of customer’s technical environment and influence decisions makers with appropriate information. \n# Project: responsibly for all technical documentations, presentations, diagrams and process related to the network infrastructure.\n# Sales strategies development: Responsible for technical aspect of Request for Proposal (RFP) and provide insight information on how and with whom to partner in bidding strategies.\n# Specialist in Ip Telephony and Security: trainer, stude for State of Technical Art with qualification of new hardware and software."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "9284",
+          "companyUrn": "urn:li:fsd_company:9284",
+          "companyLink1": "https://www.linkedin.com/company/axians/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGZtMLpCWm78g/company-logo_400_400/company-logo_400_400/0/1631341510130?e=1785369600&v=beta&t=khSXLzaQDDcpGPpU5pgUrcVY0_lYy4dEXZPzbru3adI",
+          "title": "Network and Security Solutions Architect",
+          "subtitle": "AXIANS . undefined",
+          "caption": "Oct 1998 - Mar 2000 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "# Cisco Expert: Propose network architecture corresponding, configuration and Proof of Concept. Provide a thorough understanding of customer’s technical environment and influence decisions makers with appropriate information. \n# Presales: Support sales team of the company by presenting in various meetings, technical workshops and/or conferences. Responsible for technical aspect of Request for Proposal (RFP) and provide insight information on how and with whom to partner in bidding strategies.\n# Got CCIE 4708 and CCDP"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Network and Systems Solutions Engineer",
+          "subtitle": "Toplog / ILION . undefined",
+          "caption": "Jun 1995 - Sep 1998 · 3 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "# Network Expert: Cisco, 3Com, Baynetworks, Cabletron.\n# Exploitation System expert: MCSE and CNE\n# Agreed Microsoft Trainer : MCT\n# Support and train Business PreSales Partners and Resellers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "12147",
+          "companyUrn": "urn:li:fsd_company:12147",
+          "companyLink1": "https://www.linkedin.com/company/french-navy/",
+          "title": "Team Leader Network IT",
+          "subtitle": "French Navy . undefined",
+          "caption": "Aug 1994 - May 1995 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "# Lead the Network administration teams to ensure an operational and optimal working environment. Supervise daily operations and future growth planning."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1070",
+          "companyUrn": "urn:li:fsd_company:1070",
+          "companyLink1": "https://www.linkedin.com/company/nokia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_200_200/B4EZqby_U_HgAI-/0/1763550426950/nokia_logo?e=1785369600&v=beta&t=eU3_QFPPw3oQif0XRhay3rgeOZNZ0Ke75J0oD6x56GQ",
+          "title": "Nokia Data Center Fabric Professional",
+          "subtitle": "Nokia",
+          "issued": "Issued Feb 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CCIE Lifetime Emeritus",
+          "subtitle": "Cisco",
+          "issued": "Issued May 1999",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Listen for Need, Envision the future",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hundred Percent Club and Sales Eminence Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hundred Percent Club and Sales Eminence Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hundred Percent Club and Sales Eminence Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CEO Award for Outstanding Achievement of the Year",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Engineer of the Year",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HP Sales Network Architect of the Year",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Storage Area Networks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco Technologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Juniper",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Brocade",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Blade Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FCoE",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDN",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IBM Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenFlow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "hpc",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Switches",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "11147032",
+          "companyUrn": "urn:li:fsd_company:11147032",
+          "companyLink1": "https://www.linkedin.com/school/esigetel-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEwZVJwq1VTjg/company-logo_400_400/company-logo_400_400/0/1631368393075?e=1785369600&v=beta&t=PCiixUdoqvGavQnl5xay0ZjCkiTOQhXaxMI_eQdPGLE",
+          "title": "ESIGETEL - École Supérieure d'Ingénieurs en Informatique et Génie des Télécommunications",
+          "subtitle": "M.S, Networking and Security",
+          "caption": "Sep 1991 - Jul 1994",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Now EFREI Paris"
+            }
+          ]
+        },
+        {
+          "title": "Lycee Naval",
+          "subtitle": "B.S, Mathematics : Classe Prepa M",
+          "caption": "1988 - 1991",
+          "subComponents": []
+        },
+        {
+          "title": "Lycee Diderot",
+          "subtitle": "High School, Scientific : Baccalaureat C",
+          "caption": "1985 - 1988",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

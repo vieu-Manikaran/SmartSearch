@@ -1,0 +1,416 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/marcoanastasi",
+  "row_key": "id:0031N0000221JLYQA2",
+  "person": "Marco Anastasi",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:07Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAEMhk0BQnwjYgc8NK4IvJYOBRooE_b8m94",
+      "firstName": "Marco",
+      "lastName": "Anastasi",
+      "fullName": "Marco Anastasi",
+      "publicIdentifier": "marcoanastasi",
+      "headline": "CPO & Co-Founder at Roomr",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Edinburgh, Scotland United Kingdom",
+      "addressWithoutCountry": "Edinburgh, Scotland",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "105761783",
+          "companyUrn": "urn:li:fsd_company:105761783",
+          "companyLink1": "https://www.linkedin.com/company/roomrai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE15grMPkGEzw/company-logo_400_400/company-logo_400_400/0/1734368202817/roomrai_logo?e=1785369600&v=beta&t=JZjt7h-jNeZxf7do35kCnBqir88gp_f13wGoBdsLdmI",
+          "title": "CPO & Co-Founder",
+          "subtitle": "Roomr . Full-time",
+          "caption": "Aug 2024 - Present · 1 yr 5 mos",
+          "metadata": "Edinburgh, Scotland, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Engineering Lead",
+          "subtitle": "Epic Games . undefined",
+          "caption": "Dec 2017 - May 2024 · 6 yrs 5 mos",
+          "metadata": "Edinburgh, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2868588",
+          "companyUrn": "urn:li:fsd_company:2868588",
+          "companyLink1": "https://www.linkedin.com/company/cloudgine/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF7jw08Rlz7LA/company-logo_400_400/company-logo_400_400/0/1631336635536?e=1785369600&v=beta&t=Jhtv2OxZ07uLmIFBLIHE8QwFt1fFTiyKqkVfC-8koDM",
+          "title": "CTO & Co-founder",
+          "subtitle": "Cloudgine . undefined",
+          "caption": "Jan 2013 - Dec 2017 · 4 yrs 11 mos",
+          "metadata": "Edinburgh, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Co-founded Cloudgine in 2012. Cloudgine developed a software platform aimed at delivering rendering and processing power from the cloud, allowing game developers to define new ground-breaking online gaming mechanics.\n\nOver the course of 5 years, Cloudgine was involved in the development of high profile titles Crackdown (Microsoft Studios) and Toybox (Oculus) and developed its own IP (They Came From Space).\n\nAs a co-founder of Cloudgine, I was involved in all aspects of managing a startup, from building and managing a stellar team to designing products and technical solutions, producing financial projections, developing business models and fundraising.\n\nCloudgine was acquired by Epic Games in December 2017."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "31075",
+          "companyUrn": "urn:li:fsd_company:31075",
+          "companyLink1": "https://www.linkedin.com/company/jagex/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG_gJRNBhCimw/company-logo_100_100/B4EZvCFBbYJUAQ-/0/1768487658511/jagex_logo?e=1785369600&v=beta&t=MAHOSUbDJvH61bqN5PH_bGM5iJC9PvRYUkHUwD0xpcs",
+          "title": "Jagex",
+          "subtitle": "undefined · 1 yr 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Core Tech Tools Lead",
+              "caption": "May 2012 - Dec 2012 · 7 mos",
+              "metadata": "Cambridge, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a team lead at Jagex, I was involved in the development of both of the company's flagship titles. My team was responsible for the maintenance and improvement of the Runescape tool chain and for the design and development of the new pipeline supporting the new in-house MMO engine built for Transformers Universe."
+                }
+              ]
+            },
+            {
+              "title": "Senior Tools Developer",
+              "caption": "Jan 2011 - May 2012 · 1 yr 4 mos",
+              "metadata": "Cambridge, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "17011",
+          "companyUrn": "urn:li:fsd_company:17011",
+          "companyLink1": "https://www.linkedin.com/company/realtime-worlds/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGF5M2qn93WvQ/company-logo_400_400/company-logo_400_400/0/1631314459220?e=1785369600&v=beta&t=_sh2XYSGEUN4H4kJI4i-bKksp5ETJbuxL7KDQgW70dI",
+          "title": "Software Engineer",
+          "subtitle": "Realtime Worlds . undefined",
+          "caption": "Jan 2009 - Nov 2010 · 1 yr 10 mos",
+          "metadata": "Dundee, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed, developed and maintained multiple tools across different contexts and technologies. Notably:\n•\tA distributed framework for parallel computing aimed at improving the performance of computationally intensive tasks (e.g. radiosity light map baking).\n•\tA distributed log analysis system which inspected thousands of logs per hour, extracting relevant information and interfacing with bug tracking software.\n•\tA memory performance profiling tool.\n•\tA data mining and visualisation tool used to analyse a variety of performance metrics for business intelligence.\n•\tBuild support tools."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Intern",
+          "subtitle": "Euroconsult . undefined",
+          "caption": "Oct 2007 - Oct 2008 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Design and developed a platform for the simulation of atmospheric dispersion and the mathematical modelling of explosions, aimed at planning for and responding to chemical emergencies. Integrating multiple online and offline data sources with mathematical models, the software was designed to assist front-line chemical emergency planners and responders and was used for the assessment of industrial risk and for disaster management in large industrial areas.\n\nThe suite also interfaced with a remote controlled robot to retrieve data from hazardous locations using on-board probes."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Uniprestit S.p.A. . undefined",
+          "caption": "Sep 2004 - Oct 2008 · 4 yrs 1 mo",
+          "metadata": "Milan Area, Italy",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed and developed a financial risk assessment platform for mortgage and loan affordability"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder & Software Developer",
+          "subtitle": "ECOM S.C.R.L. . undefined",
+          "caption": "Sep 2001 - Jan 2004 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "One of the co-founders of the company, I was involved in the development of several web applications and CMSs."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Italian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DirectX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "3D Studio Max",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Gaming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C# 4.0",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WinForms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XNA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "N-tier",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unreal Engine",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "19611",
+          "companyUrn": "urn:li:fsd_company:19611",
+          "companyLink1": "https://www.linkedin.com/school/university-of-catania/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFvi4y81LTZyw/company-logo_400_400/company-logo_400_400/0/1659987829713/university_of_catania_logo?e=1785369600&v=beta&t=7ZpltG7hlQTgt703zPX4VnbKwlXX1kLAaO9sGX5qmio",
+          "title": "Università di Catania",
+          "subtitle": "BSc+Msc, Computer Engineering",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "110/110"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Master’s Degree in Computer Engineering with highest distinction.\nThesis on environmental hazard prediction, risk assessment and quick disaster response in industrial areas.\n"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Transformers Universe",
+          "subtitle": "Oct 2012 - Dec 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Transformers Universe is a browser based MMO that is currently in production."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/petermuld",
+  "row_key": "id:003Uk00000yaSamIAE",
+  "person": "Peter Muld",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:47:01Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABg2KsBg0oscreHiCezggEi1jo_wiuC07w",
+      "firstName": "Peter",
+      "lastName": "Muld",
+      "fullName": "Peter Muld",
+      "publicIdentifier": "petermuld",
+      "headline": "CIO ICA Gruppen / ICA Sverige",
+      "about": "Specialties: IT-management",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Stockholm, Stockholm County Sweden",
+      "addressWithoutCountry": "Stockholm, Stockholm County",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQELMy8synZVzA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1652361603530?e=1785369600&v=beta&t=FN8cXYotJ7z0QiMkN38tJLOdzS47XYrBRok_dT1w-Pw",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQFvQ3NcHlWHcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1558654429767?e=1785369600&v=beta&t=hqVFmyggtiHtX0yhBn2Gwg7-ALuVgYEmMuOIEafHG0s",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQELMy8synZVzA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1652361603530?e=1785369600&v=beta&t=KpF2RkxgsuXq-YVGbideRciOjLvkMwbwXbK0127RkNA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQELMy8synZVzA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1652361603530?e=1785369600&v=beta&t=mFwnEha1eT9FFtHQgBqCjWpfYyIbKW0mx5-TPA-VUaU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQELMy8synZVzA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1652361603530?e=1785369600&v=beta&t=VragLVfxXBxh_EYQp52pmGsn1zL87-QlcnJ2flA6ODY"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQELMy8synZVzA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1652361603530?e=1785369600&v=beta&t=FN8cXYotJ7z0QiMkN38tJLOdzS47XYrBRok_dT1w-Pw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFvQ3NcHlWHcQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1558654430109?e=1785369600&v=beta&t=Le-WucuTrwy3c3fj_MmFfQyLHn3JuPTjFTu7m7732Kg"
+        },
+        {
+          "width": 1266,
+          "height": 316,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFvQ3NcHlWHcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1558654429767?e=1785369600&v=beta&t=hqVFmyggtiHtX0yhBn2Gwg7-ALuVgYEmMuOIEafHG0s"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "ICA Gruppen",
+          "subtitle": "Full-time · 9 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Chief Infomation Officer ICA Gruppen / ICA Sverige",
+              "caption": "Jan 2024 - Present · 2 yrs",
+              "metadata": "Stockholm, Stockholm, Sverige",
+              "description": []
+            },
+            {
+              "title": "Cheif Strategy & Technology Officer ICA Sverige",
+              "caption": "Mar 2023 - Jan 2024 · 10 mos",
+              "metadata": "Stockholm, Stockholm County, Sweden",
+              "description": []
+            },
+            {
+              "title": "Chief Strategy & Digital Officer ICA Sverige",
+              "caption": "May 2019 - Feb 2023 · 3 yrs 9 mos",
+              "metadata": "Stockholm, Sverige",
+              "description": []
+            },
+            {
+              "title": "Chief Digital Officer ICA Gruppen",
+              "caption": "Sep 2016 - May 2019 · 2 yrs 8 mos",
+              "metadata": "Stockholm, Sverige",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "925589",
+          "companyUrn": "urn:li:fsd_company:925589",
+          "companyLink1": "https://www.linkedin.com/company/gs1-sweden/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGHn8IHjcpjkA/company-logo_400_400/company-logo_400_400/0/1692357604708/gs1_sweden_logo?e=1785369600&v=beta&t=WtbqgDHYeVKk41ura0erth2FU2Hsc0ZMRSDOs-RcYkA",
+          "title": "Board Member",
+          "subtitle": "GS1 Sweden . Part-time",
+          "caption": "Apr 2023 - Present · 2 yrs 9 mos",
+          "metadata": "Stockholm, Stockholm, Sverige",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1492",
+          "companyUrn": "urn:li:fsd_company:1492",
+          "companyLink1": "https://www.linkedin.com/company/flysas/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFrQbRoNACrAg/company-logo_100_100/B4EZ8eDeGpJMAI-/0/1782915654358/flysas_logo?e=1785369600&v=beta&t=Gafy-jRN1ynaz0njjeBVu2wKe8z2-tf9aKl4FiamdmE",
+          "title": "Business CIO and VP Digital Transformation Program",
+          "subtitle": "SAS - Scandinavian Airlines . undefined",
+          "caption": "Sep 2013 - Aug 2016 · 2 yrs 11 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "8189",
+          "companyUrn": "urn:li:fsd_company:8189",
+          "companyLink1": "https://www.linkedin.com/company/tv4/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGuKvkK1Zzq7A/company-logo_400_400/company-logo_400_400/0/1683719843881/tv4_logo?e=1785369600&v=beta&t=6trl-8Mg657sOJWAq9wN98n1gW9HFk1F8CBiStYSPV4",
+          "title": "Program Manager - Meta data (consultant)",
+          "subtitle": "TV4 . undefined",
+          "caption": "Aug 2011 - Sep 2013 · 2 yrs 1 mo",
+          "metadata": "Stockholm, Sverige",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "234885",
+          "companyUrn": "urn:li:fsd_company:234885",
+          "companyLink1": "https://www.linkedin.com/company/approach-ab/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGqWj7NT2ExJQ/company-logo_400_400/company-logo_400_400/0/1631358883046?e=1785369600&v=beta&t=u5X6i29OEwrYnLC8pQiVsWdcQg7vPpuEgsrYkuYyQYU",
+          "title": "Senior Consultant, Partner",
+          "subtitle": "Approach AB . undefined",
+          "caption": "Jan 2000 - Sep 2013 · 13 yrs 8 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "95254",
+          "companyUrn": "urn:li:fsd_company:95254",
+          "companyLink1": "https://www.linkedin.com/company/stampen-media/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGhBKNxA8l_4A/company-logo_400_400/company-logo_400_400/0/1630584227360/stampen_logo?e=1785369600&v=beta&t=o9-FYHhdQa-1GSQwpdAtoGRNPLhnrkGEUdmuFCTSY0g",
+          "title": "CTO - Stampen Sports Media",
+          "subtitle": "Stampen Media . undefined",
+          "caption": "Jul 2008 - Aug 2010 · 2 yrs 1 mo",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5026001",
+          "companyUrn": "urn:li:fsd_company:5026001",
+          "companyLink1": "https://www.linkedin.com/company/svenskafans-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEdEW7QN0SE4Q/company-logo_200_200/B4DZ12Za8KG8AI-/0/1775807869033/svenskafans_com_logo?e=1785369600&v=beta&t=YRHwGi_-SsDd2jP4VnJ2f73uRHcuJ9n3MMXDTIrmrf4",
+          "title": "Co-Founder & CTO",
+          "subtitle": "Svenskafans.com . undefined",
+          "caption": "May 2000 - Jun 2008 · 8 yrs 1 mo",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "166164",
+          "companyUrn": "urn:li:fsd_company:166164",
+          "companyLink1": "https://www.linkedin.com/school/stockholm-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDDr4dLuJjYw/company-logo_400_400/company-logo_400_400/0/1651005531999/stockholm_university_logo?e=1785369600&v=beta&t=ekqGGRY6uRVgluC6yv4hM_LCebyxyUv8Zbn4byPe6bc",
+          "title": "Lecturer / researcher IT-Management",
+          "subtitle": "Stockholms universitet . undefined",
+          "caption": "Jan 1999 - Jul 2003 · 4 yrs 6 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "4476",
+          "companyUrn": "urn:li:fsd_company:4476",
+          "companyLink1": "https://www.linkedin.com/school/oxfordsbs/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOpZQ4TKBuSA/company-logo_400_400/company-logo_400_400/0/1719824395450/oxfordsbs_logo?e=1785369600&v=beta&t=St0cdeAK6kfu-4rGMB39f3wJAX_d8GWkjpsoNBiNG3o",
+          "title": "ICA Leadership program",
+          "subtitle": "Saïd Business School, University of Oxford",
+          "issued": "Issued Feb 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1492",
+          "companyUrn": "urn:li:fsd_company:1492",
+          "companyLink1": "https://www.linkedin.com/company/flysas/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFrQbRoNACrAg/company-logo_100_100/B4EZ8eDeGpJMAI-/0/1782915654358/flysas_logo?e=1785369600&v=beta&t=Gafy-jRN1ynaz0njjeBVu2wKe8z2-tf9aKl4FiamdmE",
+          "title": "SAS Leadership program",
+          "subtitle": "SAS - Scandinavian Airlines",
+          "issued": "Issued May 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swedish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Business Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Retail",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Change Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Entrepreneurship",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Outsourcing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CRM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "E-commerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166164",
+          "companyUrn": "urn:li:fsd_company:166164",
+          "companyLink1": "https://www.linkedin.com/school/stockholm-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDDr4dLuJjYw/company-logo_400_400/company-logo_400_400/0/1651005531999/stockholm_university_logo?e=1785369600&v=beta&t=ekqGGRY6uRVgluC6yv4hM_LCebyxyUv8Zbn4byPe6bc",
+          "title": "Stockholms universitet",
+          "subtitle": "Bachelor of Business Administration - BBA, Economics and IT",
+          "caption": "1996 - 1999",
+          "subComponents": []
+        },
+        {
+          "companyId": "4814",
+          "companyUrn": "urn:li:fsd_company:4814",
+          "companyLink1": "https://www.linkedin.com/school/kth/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFDvNUYDVR6cA/company-logo_200_200/B4DZkpBLOmJkAI-/0/1757329798694/kth_logo?e=1785369600&v=beta&t=aXfyEOXSomcIAFYhd7DWAKv5E6EtxPSviFLKZ1LO_tY",
+          "title": null,
+          "subtitle": "-, Maskinteknik",
+          "caption": "1994 - 1996",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

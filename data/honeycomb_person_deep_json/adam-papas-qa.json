@@ -1,0 +1,326 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/adam-papas-qa",
+  "row_key": "id:0036O00004C6BnIQAV",
+  "person": "Adam Papadopoulos",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:37:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABd3TCwBmkSPU3ttR8dQF-zyJKr0e9SsVHM",
+      "firstName": "Adam",
+      "lastName": "Papadopoulos",
+      "fullName": "Adam Papadopoulos",
+      "publicIdentifier": "adam-papas-qa",
+      "headline": "Principal Engineer @Lyka",
+      "about": "Engineer with focus in:\n- Quality Engineering\n- Platform Engineering",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Consumer Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Sydney Area Australia",
+      "addressWithoutCountry": "Greater Sydney Area",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQHX1SW88orY0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1669606325571?e=1785369600&v=beta&t=CwFTEbMhdDji6az6K2skgNZIKeDphTPye6kO1WjlFHI",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHX1SW88orY0w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1669606325571?e=1785369600&v=beta&t=lS5LSmhXV0yLxSuZpE0LB6PwpCn15ZFFbUbUPyMeDpo"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHX1SW88orY0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1669606325571?e=1785369600&v=beta&t=CwFTEbMhdDji6az6K2skgNZIKeDphTPye6kO1WjlFHI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Lyka",
+          "subtitle": "Full-time · 3 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Engineer",
+              "caption": "Sep 2025 - Present · 4 mos",
+              "metadata": "Sydney, NSW",
+              "description": []
+            },
+            {
+              "title": "Staff Platform Engineer",
+              "caption": "Apr 2024 - Aug 2025 · 1 yr 4 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            },
+            {
+              "title": "Senior Test Automation Engineer",
+              "caption": "Nov 2022 - Apr 2024 · 1 yr 5 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2451628",
+          "companyUrn": "urn:li:fsd_company:2451628",
+          "companyLink1": "https://www.linkedin.com/company/deputyapp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEcLng7pJK8Ow/company-logo_400_400/company-logo_400_400/0/1686767983786/deputyapp_logo?e=1785369600&v=beta&t=nxlgdkD9FwqXM0eZ7L7cDcoQhAWmeZ9ygCmCTu3-orE",
+          "title": "Deputy",
+          "subtitle": "Full-time · 3 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Software Engineer in Test",
+              "caption": "Apr 2021 - Nov 2022 · 1 yr 7 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer in Test",
+              "caption": "Jun 2020 - Apr 2021 · 10 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            },
+            {
+              "title": "Software Engineer In Test",
+              "caption": "Mar 2019 - Jun 2020 · 1 yr 3 mos",
+              "metadata": "Sydney, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "47273",
+          "companyUrn": "urn:li:fsd_company:47273",
+          "companyLink1": "https://www.linkedin.com/company/planit-testing/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJ1S1mV9NPGw/company-logo_400_400/company-logo_400_400/0/1682429546738/planit_testing_logo?e=1785369600&v=beta&t=GMpcC9QrNJ2fZH43bsr5eZ-fVqQW3hIgjyYlOD5kot4",
+          "title": "Planit Testing",
+          "subtitle": "undefined · 4 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineer",
+              "caption": "Aug 2018 - Mar 2019 · 7 mos",
+              "description": []
+            },
+            {
+              "title": "Technical Test Analyst",
+              "caption": "Jan 2015 - Jul 2018 · 3 yrs 6 mos",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Playwright ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHPUnit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WebdriverIO",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Regression Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Acceptance Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cucumber",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "1119112",
+          "companyUrn": "urn:li:fsd_company:1119112",
+          "companyLink1": "https://www.linkedin.com/school/canberra-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHCMp64w0hoKg/company-logo_400_400/company-logo_400_400/0/1696986936635/canberra_institute_of_technology_logo?e=1785369600&v=beta&t=ZfSZKbIxH7Kyp1GPNhGJoedbn37cYr3UaZRyQqE0fVA",
+          "title": "Canberra Institute of Technology",
+          "subtitle": "Bachelor of Games and Virtual Worlds (Programming), null",
+          "caption": "2010 - 2014",
+          "subComponents": []
+        },
+        {
+          "companyId": "8688038",
+          "companyUrn": "urn:li:fsd_company:8688038",
+          "companyLink1": "https://www.linkedin.com/school/trinitygrammar/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHgP4KGoe3YCg/company-logo_400_400/company-logo_400_400/0/1631337685385?e=1785369600&v=beta&t=rw9xnN_RB9mej_UZ9yCoC2S6ycrQfTEMrToeGQJDWWI",
+          "title": "Trinity Grammar School",
+          "subtitle": "null, null",
+          "caption": "2000 - 2006",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

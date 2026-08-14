@@ -1,0 +1,126 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/mohammad-alam-bbb5209b",
+  "row_key": "id:003Uk00000yaR16IAE",
+  "person": "Mohammad Alam",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:49:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABVBlL8BcKsVkc-L81JycMKYaJAYYTibPgE",
+      "firstName": "Mohammad",
+      "lastName": "Alam",
+      "fullName": "Mohammad Alam",
+      "publicIdentifier": "mohammad-alam-bbb5209b",
+      "headline": "Senior Desktop Engineer at Wipro Infotech",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Thane, Maharashtra India",
+      "addressWithoutCountry": "Thane, Maharashtra",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Desktop Engineer",
+          "subtitle": "Wipro Infotech . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Wipro",
+          "subtitle": "undefined · 14 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Desktop engineer",
+              "caption": "Sep 2011 - Present · 14 yrs 4 mos",
+              "description": []
+            },
+            {
+              "title": "Desktop Engineer",
+              "caption": "Sep 2011 - Present · 14 yrs 4 mos",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marathi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "15126613",
+          "companyUrn": "urn:li:fsd_company:15126613",
+          "companyLink1": "https://www.linkedin.com/school/veer-bahadur-singh-purvanchal-university-jaunpur/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQElJ-YBy8RevQ/company-logo_400_400/company-logo_400_400/0/1630602563219/veer_bahadur_singh_purvanchal_university_jaunpur_logo?e=1785369600&v=beta&t=J8FuylsAaNn6hMWBQhQOGHtIn-g5qehyl4J2wPeDJ_w",
+          "title": null,
+          "subtitle": "Bachelor's degree, Economics",
+          "caption": "2005 - 2008",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

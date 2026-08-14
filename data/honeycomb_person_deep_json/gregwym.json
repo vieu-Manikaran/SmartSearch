@@ -1,0 +1,571 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/gregwym",
+  "row_key": "id:003Uk00000yfTjhIAE",
+  "person": "Yimeng Wang",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:59Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAWXMQYBoTp7J56z2Dm6_Ecvoqnn_r8-NFc",
+      "firstName": "Yimeng",
+      "lastName": "Wang",
+      "fullName": "Yimeng Wang",
+      "publicIdentifier": "gregwym",
+      "headline": "Staff Software Engineer at Coinbase",
+      "about": "\"Talk is cheap, show me the code.\"",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United States",
+      "addressWithoutCountry": "United States",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQFtGVQyGnAkjg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1615147930332?e=1785369600&v=beta&t=sUnzI80iRmt-nVMpUTmU7LAPt5sTxgFXrt5FvfMQMcg",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQGnUfvT1WemZw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1612488539440?e=1785369600&v=beta&t=UMTLssHWRJ_h6ZTw9Pwu4xHZrZ5NWZVon7dguDzzlK4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFtGVQyGnAkjg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1615147930332?e=1785369600&v=beta&t=DOAlvsZGt61YxuW_i3JnQvm8DpYllz1yDohb-etYqaA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFtGVQyGnAkjg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1615147930332?e=1785369600&v=beta&t=wGeOCDErpw98jt_06tuEzQ1alf5Cvxd5lBBr7aqO8n4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFtGVQyGnAkjg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1615147930332?e=1785369600&v=beta&t=QndEcYAR4YjaOVh12krCXW7OOsFMSSq1hj5G25vEjRA"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFtGVQyGnAkjg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1615147930332?e=1785369600&v=beta&t=sUnzI80iRmt-nVMpUTmU7LAPt5sTxgFXrt5FvfMQMcg"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQGnUfvT1WemZw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1612488539440?e=1785369600&v=beta&t=eNb2lb33YoUAU78zA_gDAppyBIkGm4nE6XPtHeZTA8k"
+        },
+        {
+          "width": 1276,
+          "height": 319,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQGnUfvT1WemZw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1612488539440?e=1785369600&v=beta&t=UMTLssHWRJ_h6ZTw9Pwu4xHZrZ5NWZVon7dguDzzlK4"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Staff Software Engineer",
+          "subtitle": "Coinbase . Permanent Full-time",
+          "caption": "Aug 2021 - Present · 4 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "The Transfers system powers billion of dollars of fund movements every month across multiple Coinbase products. Our services provide reliable, scalable, consistent, and auditable fund flow orchestration for hundreds of internal developers to quickly deliver and iterate innovative crypto applications. \n\n- Led a group of 5 engineers to decompose the tier-0 crypto buys/sells/trades flow out of the monolith system and shorten the trade processing time by 70%. \n- Reduced the monolith transfer orchestration share from 60+% to 10%, resulting in over $200k yearly saving. \n- Established the fund flow blueprint for international expansions which supported Coinbase to launch in Brazil, Japan, Australia, and the UK. \n- Initiated and oversaw the Transfer scaling project which 4x-ed the service's capacity and enabled multiple high-throughput funds flows to launch. \n- Mentored 10+ engineers across projects by striking a balance between project execution and engineer development."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "67162145",
+          "companyUrn": "urn:li:fsd_company:67162145",
+          "companyLink1": "https://www.linkedin.com/company/congmingpai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEnyOJsrHaNIA/company-logo_400_400/company-logo_400_400/0/1630661381201?e=1785369600&v=beta&t=oy2peKj2hO6kviyC-7psZtJDzwH-kBjauoTjqygXVIg",
+          "title": "CTO & Co-Founder",
+          "subtitle": "Smart Pie . Permanent Full-time",
+          "caption": "Apr 2018 - Jun 2021 · 3 yrs 2 mos",
+          "metadata": "Shanghai, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Smart Pie develops interactive Math education apps for children aged 3 to 8 in China. The company grew from 4 to 150 employees, and received 3 rounds of million dollars investments.\n- Managed the development department of 50 people, including engineers, PMs, and designers.\n- Led over 100 product releases with the user base grew from 0 to 225k.\n- Built scalable frontend and backend architecture that supports 1M+ learning sessions every month.\n- Developed realtime data analysis system that processes 400k+ data entries every day.\n- Created intuitive no-code courseware editor which speeded product development by 50%.\n- Deployed CI/CD pipelines that supports fully automated frontend, backend and app releasing. \n- Adopted Agile for iterative development and OKR to track objectives.\n\nTechnologies: React, Node.js, Cocos Creator, MySQL, Redis, Kafka, Flink, GraphQL, Alicloud"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2997680",
+          "companyUrn": "urn:li:fsd_company:2997680",
+          "companyLink1": "https://www.linkedin.com/company/zenefits/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGefoLIAXO9Zg/company-logo_400_400/company-logo_400_400/0/1688260427614?e=1785369600&v=beta&t=aG7Ys5iiyWANYO5EXo_9K_GmHkhfc86cHTGVG2_rafY",
+          "title": "Senior Software Engineer",
+          "subtitle": "Zenefits . Permanent Full-time",
+          "caption": "Jun 2015 - Mar 2018 · 2 yrs 9 mos",
+          "metadata": "Vancouver, British Columbia, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Top 10 code-base contributor. Developed full-stack solution for 20+ features, including benefits enrolment flow, document verification system, and performance management product. \n- Increased test coverage for the Benefits product line by 50%. \n- Delivered technical trainings regarding new React + GraphQL tech stack to the development teams. \n- Designed role-based authorization & authentication system for micro services. \n\nTechnologies: React, React Native, Ember.js, Django, Python, MySQL, GraphQL"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "601919",
+          "companyUrn": "urn:li:fsd_company:601919",
+          "companyLink1": "https://www.linkedin.com/company/genesys/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFsCw5GbbmrNg/company-logo_400_400/company-logo_400_400/0/1729083718933/genesys_logo?e=1785369600&v=beta&t=CUzkTU18ISISyR7oA_TnSjYEfEAqARDNIC7L-h6mscM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Genesys . Permanent Full-time",
+          "caption": "Jan 2014 - May 2015 · 1 yr 4 mos",
+          "metadata": "Markham, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Spearheaded the development of the company's cloud-based call-flow designing web app.\n- Received the annual CTO Appreciation Award for outstanding contribution.\n\nTechnologies: Angular, Node.js, Grunt, Jasmine, Mocha, Istanbul, Selenium, Jenkins, PHP, Mercurial"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3488005",
+          "companyUrn": "urn:li:fsd_company:3488005",
+          "companyLink1": "https://www.linkedin.com/company/fruitex-ca/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF087ttw0q6qA/company-logo_400_400/company-logo_400_400/0/1631307893044?e=1785369600&v=beta&t=3MEkayBfkJSjX7pQsuhodOGSF3GJ7OdYo4TH-07GcBE",
+          "title": "Engineering Lead",
+          "subtitle": "Fruitex.ca . undefined",
+          "caption": "Oct 2013 - Jun 2014 · 8 mos",
+          "metadata": "Waterloo, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Waterloo-based grocery delivery O2O start up.\n- Led the development of Django web site that let thousands of customers shop from six local stores. \n- Planed and guided teammates to build Delivery Person Companion app that reduced grocery shopping time by 50%. \n- Extended the admin portal to become an orders, products and web site appearance management tool. \n\nTechnologies: Django, South, Gunicorn, pip, PayPal REST API, SQLite, Git"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Indie Developer",
+          "subtitle": "doLast.com . undefined",
+          "caption": "Apr 2011 - Apr 2014 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Featured Apps:\n- doGRT for iOS & Android\n- Moe FM for iOS"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "635695",
+          "companyUrn": "urn:li:fsd_company:635695",
+          "companyLink1": "https://www.linkedin.com/company/reviewboard/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE9_cPMSrJ8Eg/company-logo_400_400/company-logo_400_400/0/1630572195480/review_board_logo?e=1785369600&v=beta&t=Fuz6Xv0AtiCa72vCNzpbSICDb9E6kW0lmjLFrORmlt8",
+          "title": "UCOSP Developer",
+          "subtitle": "Review Board . Co-op",
+          "caption": "Jan 2013 - Apr 2013 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Fixed long text summary field overlapping issue\n- Modified SSH setting page to allow user removes a SSH key\n- Integrated Markdown text interpretation into review and comment texts\n- Enhanced text editor to be friendly to Markdown format"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2300557",
+          "companyUrn": "urn:li:fsd_company:2300557",
+          "companyLink1": "https://www.linkedin.com/company/xiaomi-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEvu-fMterR1g/company-logo_400_400/company-logo_400_400/0/1630644955832/xiaomi_technology_logo?e=1785369600&v=beta&t=iZz8i_uSlWQ9NFiY8wIkwK_KMemELHuv29hKA2B0VEM",
+          "title": "Software Engineer Internship",
+          "subtitle": "Xiaomi Technology . Internship",
+          "caption": "Feb 2012 - Apr 2012 · 2 mos",
+          "metadata": "Beijing, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed and developed a full functional performance counter monitoring system. Implemented the following features: \n- Inspect performance counter value\n- View the trend graph of each counter's past value\n- Send alert email when a monitoring rule is applied\n- Rank methods' responds time (for thrift services)\n\nTechnologies Applied: \n- Java and Play! Framework\n- JavaScript and jQuery AJAX\n- ZooKeeper for system configuration"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Site Administrator & Developer",
+          "subtitle": "CNEPUB 掌上书苑 . undefined",
+          "caption": "Dec 2008 - Sep 2011 · 2 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "It is a PHP-based epub book sharing web-site which have over 800 thousands registered members. \nI designed the book sharing service system, database and plentiful website functions. I also participated in the web and mobile app development. The experience improved my leadership, prioritization and organization skills through ￼daily team management works."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "CTO Appreciation Award",
+          "subtitle": "Issued by Slava Zhakov",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Outstanding Creation of Genesys Designer - Engineering Days 2015"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CX Champion Award",
+          "subtitle": "Issued by Slava Sayko",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Greg Wang is a CX Champion for living the value, “Create Customer Success”. \n\nHere is what, Slava Sayko had to say,\nI'd like to nominate whole Designer team for Diamond award. The team is nominated for Diamond award for their outstanding achievement of creating new product - Genesys Designer - in record time. Genesys Designer is a product that enabled efficient, fast and simple creation and management of Call Flows on Genesys Cloud. This team created a product that allows customers creating Call Flows which utilize all power of Genesys GVP and Routing platforms in a simple and user friendly way, hiding underlying complexity and at the same time providing intuitive user experience. Thanks to this team and Designer they created we were able to win and keep multiple Cloud customers by efficiently delivering capabilities customers need and providing great level of self-service.\nThank you ! Slava.”"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OOP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": "University of Waterloo",
+          "subtitle": "Bachelor of Computer Science, Honours Computer Science, Software Engineering Option",
+          "caption": "2009 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Drag+ Browser Extensions",
+          "subtitle": "Oct 2020 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Drag anything to open links in new tabs, search for selected text, and more. Available for Safari and Chrome."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "doGRT for iOS",
+          "subtitle": "Jan 2012 - Jan 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "iOS App that help user to look up Grand River Transit's bus schedule. It is designed with SIMPLE user interaction, yet STRONG functionality. The schedule data is provided by GRT. \n\nTechnologies Applied: \n- SQLite Database, offline schedule data\n- Core Data Storage, store user favorites\n- MapKit, display bus stops and route paths\n- Http Request, auto schedule data update\n\nThis project is open sourced on Github: \nhttps://github.com/doLast/doGRT-iOS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EMCO Product Catalog",
+          "subtitle": "Oct 2013 - Oct 2013",
+          "subComponenets": []
+        },
+        {
+          "title": "Moe FM for iOS",
+          "subtitle": "Apr 2012 - Dec 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "ACG Music Radio for iOS. Music service is based on moe.fm. \n\nTechnologies Applied: \n- Self defined Objective-C wrapper for RESTful API\n- Audio Streaming and Background Playback\n- A-synchronized image downloading and caching\n- OAuth authentication for interactive online service\n\nThis project is open sourced on Github: \nhttps://github.com/doLast/Moe-FM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Joos (Java) Compiler",
+          "subtitle": "Jan 2013 - Apr 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Waterloo"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The compiler was implemented in Java. It follows the modern compiler structure, which includes DFA Scanner, LR1 Parser, AST Constructor, Symbol Table Generator, Type Checker, Static Analyzer and Code Generator. \n\nTechniques Applied: \n- Visitor Pattern, integrated in the Abstract Syntax Tree (AST) data structure, is widely used for tree traversing.\n- A HashMap based Symbol Table offers two-way direct access between an AST Node and a Symbol (i.e., method names). \n- JUnit test, automatically tests the compiler against hundreds testcases. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Realtime Embedded Kernel with Train Controller",
+          "subtitle": "Jan 2013 - Apr 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Waterloo"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "- Performs fast Context-switch in ARM assembly instructions\n- Handles Software & Hardware Interrupts for system calls, timer and I/O events\n- Delivers inter-tasks messages with self-defined RPC protocol\n- Interacts with the Train Set through UART and serial port\n- Directs trains base on the sensor data and prevents collisions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CampusNav",
+          "subtitle": "Apr 2012 - Aug 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Waterloo"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "An iOS App that help students to find their way in the Campus and Building. It was built as the Software Architecture course project. \n\nTechnologies Applied: \n- iOS Framework and Core Data Storage\n- Graph Theory, modeling the campus and building environment\n- Dijkstra's Algorithm, finding route to a certain destination. \n\nThis project is open sourced on Github: \nhttps://github.com/doLast/CampusNav"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

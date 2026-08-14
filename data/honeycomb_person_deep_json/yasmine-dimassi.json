@@ -1,0 +1,633 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/yasmine-dimassi",
+  "row_key": "id:003Uk00000ydEuMIAU",
+  "person": "Yasmine Dimassi",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:21Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACfhEXMBSCilQltUCPr47P7jBGW3aM2eeC8",
+      "firstName": "Yasmine",
+      "lastName": "Dimassi",
+      "fullName": "Yasmine Dimassi",
+      "publicIdentifier": "yasmine-dimassi",
+      "headline": "Senior Software Engineer at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQGTjsM-ERaLGA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707341485608?e=1785369600&v=beta&t=Q5WauYorCCsx2yZFsR6_LKp-5O4ovai5-JiSUiOXIkA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGTjsM-ERaLGA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707341485608?e=1785369600&v=beta&t=EDDzYVn5kghSBmVINPZ7YM4XiyPuT4yZysg6n3pYWkc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGTjsM-ERaLGA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707341485608?e=1785369600&v=beta&t=9PIYl2dOcdk4g0TO9u9C_JAFjY6YzlJIwKWygZqfmhI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGTjsM-ERaLGA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707341485608?e=1785369600&v=beta&t=ln6mIrFPBkgFL9cv79r4T2O5aEVsqRLrWa2QR38Wg0o"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGTjsM-ERaLGA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707341485608?e=1785369600&v=beta&t=Q5WauYorCCsx2yZFsR6_LKp-5O4ovai5-JiSUiOXIkA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 2 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jan 2026 - Present · ",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Feb 2023 - Jan 2026 · 2 yrs 11 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2007443",
+          "companyUrn": "urn:li:fsd_company:2007443",
+          "companyLink1": "https://www.linkedin.com/company/signifyd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwb2rCOXeyXg/company-logo_400_400/company-logo_400_400/0/1630649096232/signifyd_logo?e=1785369600&v=beta&t=6XuuK8CORCOih6-5rgZuBMWCTWTmoIztznr74Ix38IE",
+          "title": "Software Engineer",
+          "subtitle": "Signifyd . Full-time",
+          "caption": "Jan 2022 - Jan 2023 · 1 yr",
+          "metadata": "Belfast, Northern Ireland, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9423005",
+          "companyUrn": "urn:li:fsd_company:9423005",
+          "companyLink1": "https://www.linkedin.com/company/cognira/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEySI0Nz8DzIQ/company-logo_400_400/B4DZuTYBMQH8Ac-/0/1767704106209/cognira_logo?e=1785369600&v=beta&t=wLwvPI7B_ZYbKWKSQZJdDzyfDpTW9-woT5L6Lr22s7c",
+          "title": "Software Engineer Intern",
+          "subtitle": "Cognira . Internship",
+          "caption": "Feb 2021 - Jun 2021 · 4 mos",
+          "metadata": "Tunis, Tunisia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9423005",
+          "companyUrn": "urn:li:fsd_company:9423005",
+          "companyLink1": "https://www.linkedin.com/company/cognira/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEySI0Nz8DzIQ/company-logo_400_400/B4DZuTYBMQH8Ac-/0/1767704106209/cognira_logo?e=1785369600&v=beta&t=wLwvPI7B_ZYbKWKSQZJdDzyfDpTW9-woT5L6Lr22s7c",
+          "title": "Software Engineer Summer Intern ",
+          "subtitle": "Cognira . Internship",
+          "caption": "Jul 2020 - Aug 2020 · 1 mo",
+          "metadata": "Tunis, Tunisia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IoT Cloud Developer - Mastery Award 2020",
+          "subtitle": "IBM",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Blockchain Developer 2020- Explorer Award",
+          "subtitle": "IBM",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+          "subtitle": "Coursera",
+          "issued": "Issued Apr 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18246783",
+          "companyUrn": "urn:li:fsd_company:18246783",
+          "companyLink1": "https://www.linkedin.com/company/deeplearningai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1785369600&v=beta&t=TLw0-fZUMTgzf9MLtDPCB8VmOAewjJfZ2yaVbPGkkBw",
+          "title": "Convolutional Neural Networks",
+          "subtitle": "deeplearning.ai",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18246783",
+          "companyUrn": "urn:li:fsd_company:18246783",
+          "companyLink1": "https://www.linkedin.com/company/deeplearningai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1785369600&v=beta&t=TLw0-fZUMTgzf9MLtDPCB8VmOAewjJfZ2yaVbPGkkBw",
+          "title": "Neural Networks and Deep Learning",
+          "subtitle": "deeplearning.ai",
+          "issued": "Issued Dec 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Machine Learning Foundations: A Case Study Approach",
+          "subtitle": "Coursera",
+          "issued": "Issued Nov 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9435690",
+          "companyUrn": "urn:li:fsd_company:9435690",
+          "companyLink1": "https://www.linkedin.com/company/sololearn-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_400_400/company-logo_400_400/0/1630576160230/sololearn_inc__logo?e=1785369600&v=beta&t=jWCb1nzaeUVEZLEwUsnN_QFqEFW2pR-kIWwc5QwmzHc",
+          "title": "SQL fundamentals ",
+          "subtitle": "SoloLearn",
+          "issued": "Issued Nov 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9435690",
+          "companyUrn": "urn:li:fsd_company:9435690",
+          "companyLink1": "https://www.linkedin.com/company/sololearn-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_400_400/company-logo_400_400/0/1630576160230/sololearn_inc__logo?e=1785369600&v=beta&t=jWCb1nzaeUVEZLEwUsnN_QFqEFW2pR-kIWwc5QwmzHc",
+          "title": "java",
+          "subtitle": "SoloLearn",
+          "issued": "Issued Apr 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9435690",
+          "companyUrn": "urn:li:fsd_company:9435690",
+          "companyLink1": "https://www.linkedin.com/company/sololearn-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_400_400/company-logo_400_400/0/1630576160230/sololearn_inc__logo?e=1785369600&v=beta&t=jWCb1nzaeUVEZLEwUsnN_QFqEFW2pR-kIWwc5QwmzHc",
+          "title": "C++",
+          "subtitle": "SoloLearn",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9435690",
+          "companyUrn": "urn:li:fsd_company:9435690",
+          "companyLink1": "https://www.linkedin.com/company/sololearn-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_400_400/company-logo_400_400/0/1630576160230/sololearn_inc__logo?e=1785369600&v=beta&t=jWCb1nzaeUVEZLEwUsnN_QFqEFW2pR-kIWwc5QwmzHc",
+          "title": "html",
+          "subtitle": "SoloLearn",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9435690",
+          "companyUrn": "urn:li:fsd_company:9435690",
+          "companyLink1": "https://www.linkedin.com/company/sololearn-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_400_400/company-logo_400_400/0/1630576160230/sololearn_inc__logo?e=1785369600&v=beta&t=jWCb1nzaeUVEZLEwUsnN_QFqEFW2pR-kIWwc5QwmzHc",
+          "title": "php",
+          "subtitle": "SoloLearn",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9435690",
+          "companyUrn": "urn:li:fsd_company:9435690",
+          "companyLink1": "https://www.linkedin.com/company/sololearn-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_400_400/company-logo_400_400/0/1630576160230/sololearn_inc__logo?e=1785369600&v=beta&t=jWCb1nzaeUVEZLEwUsnN_QFqEFW2pR-kIWwc5QwmzHc",
+          "title": "Python 3",
+          "subtitle": "SoloLearn",
+          "issued": "Issued Jan 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Arabic",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "English",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Graphic Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "11094564",
+          "companyUrn": "urn:li:fsd_company:11094564",
+          "companyLink1": "https://www.linkedin.com/school/ensitn/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwXUUykEGA-w/company-logo_400_400/company-logo_400_400/0/1631371771846/ensitn_logo?e=1785369600&v=beta&t=YN52KRkQq37asbshJfKEwyqI_qwVmlo8AJYlBLLC4hg",
+          "title": "ENSI - Ecole Nationale des Sciences de l'Informatique",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "2018 - 2021",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "11229689",
+          "companyUrn": "urn:li:fsd_company:11229689",
+          "companyLink1": "https://www.linkedin.com/company/cpsensi/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG1DktJcd7OIQ/company-logo_400_400/company-logo_400_400/0/1631339952158?e=1785369600&v=beta&t=suXlR-srGnp_appIPtU130AIeNg465kMHOKAgri7nJA",
+          "title": "Volunteer",
+          "subtitle": "CPS ENSI",
+          "caption": "2018 - 2021 · 3 yrs",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Metrics Micro-service (Internship)",
+          "subtitle": "Jan 2021 - May 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Designing and developing a generic micro-service that will be responsible for\nthe management of Cognira’s retail metrics used by different applications.\n- Keywords: Scala, Akka Http, Cassandra, Docker, Kubernetes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Emotion analysis of Queen's songs lyrics ",
+          "subtitle": "Jan 2021 - Jan 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "This project consists of two parts. The first one is web scraping to obtain the band's songs lyrics. The second part is cleaning and analysing the data using various text mining techniques like BOW (bag of words) and word cloud, in order to extract useful information. \n- Keywords: Python, Web scrapping, Text mining, Sentiment Analysis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pong game using Unity ",
+          "subtitle": "Dec 2020 - Jan 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "This project that consists of a simple pong solo game developed by me, using Unity. The game has a retro design to it like super mario and the possiblility to pick a gameplay theme like: Retro, Chinese, Tunisian and Futuristic.\n- Keywords: Unity, C#"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Autoscaling Jenkins on Kubernetes with logs persistence (Internship)",
+          "subtitle": "Jul 2020 - Sep 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Making the CI/CD tool, Jenkins, auto-scalable on Google cloud using Kubernetes and developing a micro-service that persists Jenkins build logs in a Cassandra database.\n- Keywords: DevOps, Kubernetes, Jenkins, Docker, Scala, Cassandra."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ENSI SMART ACCESS - Access control system along with a management website",
+          "subtitle": "Jan 2020 - May 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developing an embedded access control system that uses face recognition algorithms for the school main door, along with a fulk-stack web application (Bootstrap4 and Node.JS) to manage the system.\n- Keywords: NodeJS, ExpressJS, Bootstrap, MySQL, Raspberry pi4, Face recognition."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Image similarity model with a Graphic interface",
+          "subtitle": "Jul 2019 - Aug 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with ENSI - Ecole Nationale des Sciences de l'Informatique"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Using python, we indexed a database using moments and then we build an image similarity model. To wrap it all up, we made a graphic interface using python's Tkinter. \n- keywords: Python, Machine leaning."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

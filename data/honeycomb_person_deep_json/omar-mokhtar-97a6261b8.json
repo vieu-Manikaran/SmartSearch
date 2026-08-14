@@ -1,0 +1,568 @@
+{
+  "linkedin_url": "https://eg.linkedin.com/in/omar-mokhtar-97a6261b8",
+  "row_key": "id:003Uk0000138PewIAE",
+  "person": "Omar Mokhtar",
+  "account": "Nawy",
+  "fetched_at": "2026-07-14T10:35:51Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADKjV-4BLDMYOTlFj9LTnrnaHlTAAmQU8U8",
+      "firstName": "Omar",
+      "lastName": "Mokhtar",
+      "fullName": "Omar Mokhtar",
+      "publicIdentifier": "omar-mokhtar-97a6261b8",
+      "headline": "Senior Site Reliability Engineer @ Nawy | Ex Careem |Software Engineer | Observability engineer",
+      "about": "A software engineer with a degree in computer science, I am very passionate about programming and\nsoftware development. I am interested in Software engineering especially backend development. I am\nlooking to expand my knowledge and expertise in those fields.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Egypt",
+      "addressWithCountry": "Cairo Egypt",
+      "addressWithoutCountry": "Cairo",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQECvbWEksUlNQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1634641719134?e=1785369600&v=beta&t=hzstDVaz-4h25t8yRPQu87q--P5tOxQNkeZZk39D1UI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQECvbWEksUlNQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1634641719134?e=1785369600&v=beta&t=Jw_Y8SH3idWl8f5_V-Y721uwPYd3ix_0hjMbeszshz8"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQECvbWEksUlNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1634641719134?e=1785369600&v=beta&t=AjpboLASqiW8sd6q-P48dbeuKRlSAZJZhMoQRmc4sWQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQECvbWEksUlNQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1634641719134?e=1785369600&v=beta&t=vcwKUdJibzkaTj5-4D-LNCiDbTO6vDSavgA3iueWrQQ"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQECvbWEksUlNQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1634641719134?e=1785369600&v=beta&t=hzstDVaz-4h25t8yRPQu87q--P5tOxQNkeZZk39D1UI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "7937336",
+          "companyUrn": "urn:li:fsd_company:7937336",
+          "companyLink1": "https://www.linkedin.com/company/nawyestate/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH9lYHPNTAonA/company-logo_400_400/company-logo_400_400/0/1733742340947/nawyestate_logo?e=1785369600&v=beta&t=ucrVN7gale_ETElKVkhMto6PxfcO9r6UvDLPECecGNk",
+          "title": "Senior Site Reliability Engineer",
+          "subtitle": "Nawy . Full-time",
+          "caption": "Aug 2025 - Present · 5 mos",
+          "metadata": "Cairo, Egypt",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2852511",
+          "companyUrn": "urn:li:fsd_company:2852511",
+          "companyLink1": "https://www.linkedin.com/company/careem/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEQ9Q_QlnLK3A/company-logo_400_400/B4DZxwNjfZHcAg-/0/1771409128438?e=1785369600&v=beta&t=8mWhaJLJcFsY6OIVysvMjhjGo-9M_R05PqfbUd_GIZU",
+          "title": "Site Reliability Engineer II",
+          "subtitle": "Careem . Full-time",
+          "caption": "Jan 2024 - Jul 2025 · 1 yr 6 mos",
+          "metadata": "Cairo, Egypt",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "30662436",
+          "companyUrn": "urn:li:fsd_company:30662436",
+          "companyLink1": "https://www.linkedin.com/company/yalla-fel-sekka/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEUqKeg-piHmw/company-logo_400_400/company-logo_400_400/0/1630634815926/yalla_fel_sekka_logo?e=1785369600&v=beta&t=kYUPoY348Gp9t_rrUWAIqOHhncMAer4wCyLDl0X6-wQ",
+          "title": "Software Engineer",
+          "subtitle": "YFS Logistics . Full-time",
+          "caption": "Jul 2022 - Dec 2023 · 1 yr 5 mos",
+          "metadata": "Cairo, Egypt",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "295066",
+          "companyUrn": "urn:li:fsd_company:295066",
+          "companyLink1": "https://www.linkedin.com/company/elsewedyelectric/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF2a3ilv6hXXw/company-logo_400_400/company-logo_400_400/0/1631303609923?e=1785369600&v=beta&t=6eCP9mkGXWLkRIDmRmOI2uqSGlLt6mgGzV0gMJW_IMc",
+          "title": "Software Engineer",
+          "subtitle": "ELSEWEDY ELECTRIC . Full-time",
+          "caption": "Sep 2021 - Jul 2022 · 10 mos",
+          "metadata": "Cairo, Egypt",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5060689",
+          "companyUrn": "urn:li:fsd_company:5060689",
+          "companyLink1": "https://www.linkedin.com/company/pwc-middle-east/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQH_CpSi4QMg/company-logo_200_200/B4EZaB3nNLHEAI-/0/1745935562080/pwc_middle_east_logo?e=1785369600&v=beta&t=4slMXnWAzK-1xj0dHqbp8KKiyG5M7i9jlaHRlM-poBk",
+          "title": "Digital Trust - IT consultant",
+          "subtitle": "PwC Middle East . Internship",
+          "caption": "Jan 2021 - May 2021 · 4 mos",
+          "metadata": "Cairo, Egypt",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning Go",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Nov 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "React.js Essential Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Nov 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "DevOps Foundations",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Apr 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Apache Spark Essential Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning Docker",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning Node.js",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning Spring with Spring Boot",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Microservices Foundations",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Node.js Essential Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Node.js: Design Patterns",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Software Development Processes and Methodologies",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Introduction to Linux",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Nov 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Web Security: User Authentication and Access Control",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Nov 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Blockchain Basics",
+          "subtitle": "Coursera",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Arabic",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "GitHub",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Site Reliability Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Grafana",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Prometheus.io",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Helm (Software)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentation Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Production Deployment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "350987",
+          "companyUrn": "urn:li:fsd_company:350987",
+          "companyLink1": "https://www.linkedin.com/school/cairo-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFsxtCXPhWZDQ/company-logo_100_100/B4DZ3FLXtwJwAQ-/0/1777129586565/cairo_university_logo?e=1785369600&v=beta&t=sNt3AGzY3O2UmplE6VMSNaq3IGGA1ZvAvTecpRJnER8",
+          "title": "Cairo University",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "2016 - 2020",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

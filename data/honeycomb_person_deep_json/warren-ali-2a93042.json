@@ -1,0 +1,424 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/warren-ali-2a93042",
+  "row_key": "id:0033l00002kEL61AAG",
+  "person": "Warren Ali",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T09:57:29Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABmoKEBxEMwlMzcc-NwTUMmUltdV-zbLYA",
+      "firstName": "Warren",
+      "lastName": "Ali",
+      "fullName": "Warren Ali",
+      "publicIdentifier": "warren-ali-2a93042",
+      "headline": "Engineering Director at Medtronic Digital Technologies",
+      "about": "Engineering manager and Python developer. Systems Administrator and Systems Integrations consultant in a previous life",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEpdGHuMyRpwA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516257794657?e=1785369600&v=beta&t=Y3IBCuY_O84NdLdc_yld5m3QY5LGZwx1jrvcj7uv4d0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEpdGHuMyRpwA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516257794774?e=1785369600&v=beta&t=2jaFOhL0xmoovkRlBQP3ph5lCpxJM61BIsl2kl63CnI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEpdGHuMyRpwA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516257794623?e=1785369600&v=beta&t=dwDnXQ0WYbqFSt9BMHnvxCIZM8atO-9bvtnBvt1ncAI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEpdGHuMyRpwA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516257794655?e=1785369600&v=beta&t=Jnlah9Tnw9q5AtjbjCmz26JgxIxzYIRyJuoC_sn8oPg"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEpdGHuMyRpwA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516257794657?e=1785369600&v=beta&t=Y3IBCuY_O84NdLdc_yld5m3QY5LGZwx1jrvcj7uv4d0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 5 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Software Engineering",
+              "caption": "Aug 2025 - Present · 5 mos",
+              "description": []
+            },
+            {
+              "title": "Head of Platform Engineering",
+              "caption": "Sep 2021 - Sep 2025 · 4 yrs",
+              "description": []
+            },
+            {
+              "title": "Principle Software Engineer",
+              "caption": "Jan 2021 - Sep 2021 · 8 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Platform Engineer",
+              "caption": "Feb 2020 - Jan 2021 · 11 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Developer",
+          "subtitle": "Delve Laboratories . undefined",
+          "caption": "Feb 2014 - Present · 11 yrs 11 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Python web developer, developing the data mining and information extraction pipeline for the Delve political analysis platform."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "519220",
+          "companyUrn": "urn:li:fsd_company:519220",
+          "companyLink1": "https://www.linkedin.com/company/ostmodern/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEwVqjXJoxTXQ/company-logo_400_400/company-logo_400_400/0/1694529943133/ostmodern_logo?e=1785369600&v=beta&t=lwoQl9f8r3lA7CO71xXmnYkW8yzQ789O4UpsnjMPiDo",
+          "title": "Ostmodern",
+          "subtitle": "undefined · 4 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Lead",
+              "caption": "Jun 2017 - Feb 2020 · 2 yrs 8 mos",
+              "description": []
+            },
+            {
+              "title": "Python Developer",
+              "caption": "Dec 2015 - Feb 2020 · 4 yrs 2 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python Developer",
+          "subtitle": "Quiddi Limited . undefined",
+          "caption": "Oct 2015 - Nov 2015 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6978",
+          "companyUrn": "urn:li:fsd_company:6978",
+          "companyLink1": "https://www.linkedin.com/company/dnegvfx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHqyT-q7zFceg/company-logo_400_400/company-logo_400_400/0/1739225646304/dnegvfx_logo?e=1785369600&v=beta&t=WR0R6A1iUFL_MYaAbBdFOfwhE43HpT3NPkoAVGW-tf8",
+          "title": "Windows Specialist",
+          "subtitle": "Double Negative . undefined",
+          "caption": "May 2015 - Jun 2015 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was brought in to develop a standardized and managed Windows 7 desktop deployment process with with an emphasis on security and integration into their existing SaltStack infrastructure"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1549896",
+          "companyUrn": "urn:li:fsd_company:1549896",
+          "companyLink1": "https://www.linkedin.com/company/unlock-democracy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEMDTsqFWyWvA/company-logo_400_400/company-logo_400_400/0/1631331913449?e=1785369600&v=beta&t=CSVj3u1Q1qWs11P1VflTWjDo0ziZlLCEz07KvgpGRmo",
+          "title": "Developer on Under The Influence",
+          "subtitle": "Unlock Democracy . undefined",
+          "caption": "Dec 2014 - Jun 2015 · 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Full stack python web developer. This role included developing the web scraping, data mining and information extraction pipeline as well as the data modeling, application logic, API layer and user interface"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15088102",
+          "companyUrn": "urn:li:fsd_company:15088102",
+          "companyLink1": "https://www.linkedin.com/company/delltechnologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF0hQrvoqdRNw/company-logo_400_400/company-logo_400_400/0/1725894960637/delltechnologies_logo?e=1785369600&v=beta&t=aBtF_qQqOnDhglhUk_9CQgfUd3eESAABvdQ034R9PEY",
+          "title": "Technical Consultant",
+          "subtitle": "Dell . undefined",
+          "caption": "Dec 2006 - Jan 2014 · 7 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technical Consultant on Large Enterprise projects across the Public, Finance and Retail sectors."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Solutions Consultant",
+          "subtitle": "ACS Europe . undefined",
+          "caption": "Jul 2005 - Dec 2006 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technical Consultant on Large Enterprise and Client projects across primarily in the Banking and Finance sectors"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Systems Administrator",
+          "subtitle": "Engen Petroleum Ltd. . undefined",
+          "caption": "May 2000 - Apr 2005 · 4 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Systems Administrator responsible for the design and administration of the Microsoft Exchange, Web Application Servers and Firewall security systems"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Director level",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Code Review",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Coaching",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Active Directory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Exchange",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firewalls",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "6128",
+          "companyUrn": "urn:li:fsd_company:6128",
+          "companyLink1": "https://www.linkedin.com/school/theopenuniversity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFJhiQCelJaSA/company-logo_400_400/company-logo_400_400/0/1655713019750/theopenuniversity_logo?e=1785369600&v=beta&t=qBGnyVRL4tYiDy2I1z2eY-i6k1fwzDsMwCqi9-aJmxQ",
+          "title": "The Open University",
+          "subtitle": "BA (Honours) Politics, Philosophy and Economics, Sociology",
+          "caption": "2007 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Under The Influece",
+          "subtitle": "Dec 2014 - Dec 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Under The Influence tracks money and influence in British politics. The site brings together a number of publicly-available open data sources that reveal: who funds our political parties, who else is paying our politicians, who government ministers are meeting, who is hiring lobbyists"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

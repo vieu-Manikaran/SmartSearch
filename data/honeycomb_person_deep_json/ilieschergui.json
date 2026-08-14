@@ -1,0 +1,505 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ilieschergui",
+  "row_key": "id:0033l00002s3iGOAAY",
+  "person": "Ilies CHERGUI",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:09Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAV20IsBeb7tt2flhK4fJul_KZc1vqxstjo",
+      "firstName": "Ilies",
+      "lastName": "CHERGUI",
+      "fullName": "Ilies CHERGUI",
+      "publicIdentifier": "ilieschergui",
+      "headline": "Senior Systems Engineer at Nvidia",
+      "about": "I’m working at Nvidia as senior systems engineer.Skills : - L4T (Linux For Tegra)- OpenEmbedded for tegra- UEFI bootloader (u-boot, c-boot, UEFI/EDK2)- Security (ARM TZ, ATF, OP-TEE, fTPM, Chain of trust, DM crypt, DM verity,…).- OTA updates - Nvidia Jetson and IGX series - MIPI-CSI GMSL",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "FR",
+        "language": "fr"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Semiconductors",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Santa Clara, California United States",
+      "addressWithoutCountry": "Santa Clara, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "3608",
+          "companyUrn": "urn:li:fsd_company:3608",
+          "companyLink1": "https://www.linkedin.com/company/nvidia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_400_400/company-logo_400_400/0/1724881581208/nvidia_logo?e=1785369600&v=beta&t=Dc6be-MR3MnZN9ix99n55hjTShJi5ZAiwUSZrSE9NCw",
+          "title": "NVIDIA",
+          "subtitle": "Full-time · 2 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Systems Engineer",
+              "caption": "Dec 2025 - Present · 1 mo",
+              "metadata": "Santa Clara, California, United States",
+              "description": []
+            },
+            {
+              "title": "Senior Systems Engineer",
+              "caption": "Oct 2023 - Dec 2025 · 2 yrs 2 mos",
+              "metadata": "London Area, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3450",
+          "companyUrn": "urn:li:fsd_company:3450",
+          "companyLink1": "https://www.linkedin.com/company/analog-devices/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIPofjzp1AXA/company-logo_400_400/company-logo_400_400/0/1639584615887/analog_devices_logo?e=1785369600&v=beta&t=JJ6W5e3vM0sqeSQ4NFHAj4lPuXVlTnRtN86B2WY2b_k",
+          "title": "Principal Software Engineer",
+          "subtitle": "Analog Devices . Full-time",
+          "caption": "Jul 2023 - Oct 2023 · 3 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 3 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Jul 2021 - Jul 2023 · 2 yrs",
+              "metadata": "United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Embedded Software Engineer",
+              "caption": "Feb 2020 - Jun 2021 · 1 yr 4 mos",
+              "metadata": "Royaume-Uni",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Senior Embedded Software Engineer",
+          "subtitle": "Touch Surgery . Full-time",
+          "caption": "Nov 2019 - Feb 2020 · 3 mos",
+          "metadata": "London, Royaume-Uni",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2669",
+          "companyUrn": "urn:li:fsd_company:2669",
+          "companyLink1": "https://www.linkedin.com/company/valeo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF8x8kpXJLBkg/company-logo_400_400/company-logo_400_400/0/1630549492517/valeo_logo?e=1785369600&v=beta&t=S4P5U0yyQB2JLD-uAKEYDfsQ97F46DULbuNSYVCRmPI",
+          "title": "Embedded Software Engineer",
+          "subtitle": "Valeo . undefined",
+          "caption": "Feb 2018 - Oct 2019 · 1 yr 8 mos",
+          "metadata": "Région de Créteil, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Software developments and innovation for the Comfort and Driving Assistance business group"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7581",
+          "companyUrn": "urn:li:fsd_company:7581",
+          "companyLink1": "https://www.linkedin.com/company/jcdecaux/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFK8-bFDp8ptA/company-logo_400_400/company-logo_400_400/0/1631318479317?e=1785369600&v=beta&t=A7RD3iIulDLq2nEvFVomMgx-Az1uhZkwjLZdZk4f1Zo",
+          "title": "Embedded Low Level Development Engineer",
+          "subtitle": "JCDecaux . undefined",
+          "caption": "Dec 2016 - Jan 2018 · 1 yr 1 mo",
+          "metadata": "Plaisir, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Android/Linux Kernel, Driver, BSP\n- JCDBox based on Freescale i.MX6"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "577025",
+          "companyUrn": "urn:li:fsd_company:577025",
+          "companyLink1": "https://www.linkedin.com/company/sagemcom/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFVf5cAXyA7xg/company-logo_400_400/company-logo_400_400/0/1630569143193/sagemcom_logo?e=1785369600&v=beta&t=BBR0W-L52jlZPs3e9Ck-FjXPM0FkuozAI-iKpfA8Sms",
+          "title": "Embedded Low Level Development Engineer",
+          "subtitle": "SAGEMCOM . undefined",
+          "caption": "Mar 2016 - Nov 2016 · 8 mos",
+          "metadata": "Rueil-Malmaison",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "83421",
+          "companyUrn": "urn:li:fsd_company:83421",
+          "companyLink1": "https://www.linkedin.com/company/mediane-systeme/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE--vdR4b1SZA/company-logo_200_200/B4EZXR_UtKGwAI-/0/1742984793493/mediane_systeme_logo?e=1785369600&v=beta&t=WlfD7bEHIMiTgE0WAJWWkDXjgrTOddGxOSWWIi4SP7s",
+          "title": "Médiane Système",
+          "subtitle": "undefined · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Embedded Low Level Development Engineer",
+              "caption": "Jun 2014 - Nov 2016 · 2 yrs 5 mos",
+              "metadata": "Le Vésinet - Le Pecq",
+              "description": []
+            },
+            {
+              "title": "Embedded Low Level Development Engineer",
+              "caption": "Dec 2015 - Mar 2016 · 3 mos",
+              "metadata": "Le Vésinet - Le Pecq)",
+              "description": []
+            },
+            {
+              "title": "Embedded Low Level Development Engineer",
+              "caption": "Jun 2014 - Sep 2014 · 3 mos",
+              "metadata": "Le Vésinet - Le Pecq",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "7550",
+          "companyUrn": "urn:li:fsd_company:7550",
+          "companyLink1": "https://www.linkedin.com/company/itroninc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGPXU-1abDjmg/company-logo_400_400/company-logo_400_400/0/1707960269406/itroninc_logo?e=1785369600&v=beta&t=VbOtnjT1GayE1FTFwVeJguKl__Tongu88WysDaYOLss",
+          "title": "Embedded Low Level Development Engineer",
+          "subtitle": "Itron . undefined",
+          "caption": "Oct 2014 - Nov 2015 · 1 yr 1 mo",
+          "metadata": "Issy les moulineaux",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3665",
+          "companyUrn": "urn:li:fsd_company:3665",
+          "companyLink1": "https://www.linkedin.com/company/bouygues-telecom/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHkwXQh88jQwA/company-logo_400_400/company-logo_400_400/0/1630627794927/bouygues_telecom_logo?e=1785369600&v=beta&t=-HCZ1U3H_rxNsU6bf-OxbMCzdnmEIo_dXb4ue5vN4nc",
+          "title": "Bouygues Telecom",
+          "subtitle": "undefined · 2 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Development Engineer Android NDK",
+              "caption": "Oct 2013 - May 2014 · 7 mos",
+              "metadata": "Vélizy villacoublay",
+              "description": []
+            },
+            {
+              "title": "Development Engineer Linux Embedded Low Level Software",
+              "caption": "Sep 2011 - Oct 2013 · 2 yrs 1 mo",
+              "metadata": "Vélizy villacoublay",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "Speaker: Embedded Open Source Summit 2023",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "LFS216: Linux Security Fundamentals",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Nov 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture ARM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux Kernel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kernel Drivers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "BSP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kernel Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kernel Debugging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Noyau Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Open Source",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix Shell Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Script Shell",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microcontrôleurs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Processeurs de signaux numériques",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++11",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systèmes embarqués",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Neo More",
+          "subtitle": "MDK ARM V5 keil, null",
+          "caption": "2016 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "- IDE : Keil µVision.\n- Toolchain : ARM\n- Real time Kernel\n- CPU : Cortex M."
+            }
+          ]
+        },
+        {
+          "title": "SYSGO",
+          "subtitle": "null, PikeOS Hypervisor and ELinOS",
+          "caption": "2014 - 2014",
+          "subComponents": []
+        },
+        {
+          "title": "SYSMIC",
+          "subtitle": "null, Embedded Linux Training",
+          "caption": "2012 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Specialty : \n- Universal Bootloader (U-Boot) & embedded linux developpement  \nDetails :\n- Linux development tools : ulibc, busybox, buildroot, U-Boot, Xenomai. Jtag, gcc, ld, binutils, NFS, automake, autoconf, ....\n- Creating Board Support Package (BSP) and drivers\n- Build and debug linux kernel (Buildroot, Busybox).\n- Cross-compiling linux kernel (ARM target) with a toolchain dedicated.\n- Xenomai Real Time operating systems (RTOS)"
+            }
+          ]
+        },
+        {
+          "title": "University Paris IX",
+          "subtitle": "Master's degree, - Industrial computer science & real time embedded system\n- Software & Hardware development",
+          "caption": "2010 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Master II"
+            }
+          ]
+        },
+        {
+          "title": "University of Science and Technology of Oran (U.S.T.O)",
+          "subtitle": "Master's degree, Applying aspect oriented programming on real time embedded systems  (fault tolerance protocol)",
+          "caption": "2008 - 2010",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Master II"
+            }
+          ]
+        },
+        {
+          "title": "University of Science and Technology of Oran (U.S.T.O)",
+          "subtitle": "graduated license, - Problem of relay (GSM network coverage)\n- Integer Linear Programming (I.L.P) \n- Tabu search",
+          "caption": "2005 - 2008",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "license"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

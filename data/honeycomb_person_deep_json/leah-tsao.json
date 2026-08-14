@@ -1,0 +1,374 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/leah-tsao",
+  "row_key": "id:003Uk00000Pb3YSIAZ",
+  "person": "Leah Tsao",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAEkDO_4BfIgFGO1BLJGE8B9kMBjBT7e4W00",
+      "firstName": "Leah",
+      "lastName": "Tsao",
+      "fullName": "Leah Tsao",
+      "publicIdentifier": "leah-tsao",
+      "headline": "Data Scientist, Tapestry at X, The Moonshot Factory",
+      "about": "Data Scientist with over eight years of experience using data to improve product offerings.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHDTAM9TOD60A/profile-displayphoto-scale_100_100/B56ZiLAh41H0Ag-/0/1754678829242?e=1785369600&v=beta&t=bhwXHCjro4FAZFnUAAO7vH-oh25ifH2TBJidW91aq9s",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHDTAM9TOD60A/profile-displayphoto-scale_200_200/B56ZiLAh41H0Ac-/0/1754678829241?e=1785369600&v=beta&t=_FIAmJmHUJT15f2-rYDWNsBNcDbTFdL4sd5rDkUlCcU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHDTAM9TOD60A/profile-displayphoto-scale_400_400/B56ZiLAh41H0Ak-/0/1754678829242?e=1785369600&v=beta&t=QJUwRmcKDPHIqulswS53s9EEdOTPl0N5QF-OXhZJpaU"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHDTAM9TOD60A/profile-displayphoto-crop_800_800/B56ZiLAh41H0AM-/0/1754678829154?e=1785369600&v=beta&t=EFOCfb9Zf3e2kWbFAKtTM-6gRqqw4ONDXmgpxMmBBDg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHDTAM9TOD60A/profile-displayphoto-scale_100_100/B56ZiLAh41H0Ag-/0/1754678829242?e=1785369600&v=beta&t=bhwXHCjro4FAZFnUAAO7vH-oh25ifH2TBJidW91aq9s"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "10440912",
+          "companyUrn": "urn:li:fsd_company:10440912",
+          "companyLink1": "https://www.linkedin.com/company/x/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG0c-2_5IwQ5g/company-logo_400_400/B56Z0DkULbKYAc-/0/1773881345004/x_logo?e=1785369600&v=beta&t=OEHGxzvScE4IwALZtA1YyOEvD7V8VM_xGgifRg-xV5Y",
+          "title": "Data Scientist, Tapestry, X's moonshot for the electric grid",
+          "subtitle": "X, The Moonshot Factory . Full-time",
+          "caption": "Jul 2025 - Present · 6 mos",
+          "metadata": "Mountain View, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Received a peer award for taking ownership of defining product-impact metrics and building leadership-facing dashboards\n- Created a UX evaluation framework to proactively define design issues and inform data-driven go/no-go decisions for design changes\n- Modernized data infrastructure by leading the transition to Dataform, improving reporting consistency by automating dependency management and implementing version control"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4296",
+          "companyUrn": "urn:li:fsd_company:4296",
+          "companyLink1": "https://www.linkedin.com/company/dish-network/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE0KxtLULI5lQ/company-logo_400_400/company-logo_400_400/0/1630647449013/dish_network_logo?e=1785369600&v=beta&t=f5DWLY6AYEdy8X-5Gz2ocZM0lmsP4wJBNSyvESK1QiU",
+          "title": "Senior Data Scientist",
+          "subtitle": "DISH Network . Full-time",
+          "caption": "Jan 2025 - Jul 2025 · 6 mos",
+          "metadata": "Foster City, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Contributed to a customer churn model by building transformer-based time series features, improving the decision threshold, and flagging redundant features for removal\n- Built a photo verification tool that used Claude Sonnet to classify technician uploaded images"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sr AI/Data Science Engineer",
+              "caption": "Jul 2021 - Sep 2024 · 3 yrs 2 mos",
+              "metadata": "Boulder, Colorado, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Designed a statistical workflow to flag anomalous surgical sequences\n- Coded a proof of concept machine learning model to flag a case of poor surgical technique\n- Advised senior management on how the company can use data to create new product offerings\n- Summarized trial results for the sales team, which they shared with a hospital executive to drive sales\n- Engineered dashboards that allowed internal teams to better understand product performance and resource allocation\n- Led a team of six CU Boulder CS seniors on a capstone project and mentored a summer intern"
+                }
+              ]
+            },
+            {
+              "title": "AI/Data Science Engineer II",
+              "caption": "Nov 2019 - Jul 2021 · 1 yr 8 mos",
+              "metadata": "Boulder, Colorado, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Allowed R&D to understand the effects of a device design change by creating a model and presenting results\n- Enabled users to analyze clinical data by developing an ETL pipeline to format raw data\n- Mentored a rising college Sophomore as part of a summer internship program"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "860999",
+          "companyUrn": "urn:li:fsd_company:860999",
+          "companyLink1": "https://www.linkedin.com/company/sunrun/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjZ_UnVv2pIQ/company-logo_400_400/company-logo_400_400/0/1705950769208/sunrun_logo?e=1785369600&v=beta&t=NmDxOdSmsDd35niuX6CU10yGWtAuCJiboNY8MQeNE3w",
+          "title": "Solar Performance Data Scientist",
+          "subtitle": "Sunrun . Full-time",
+          "caption": "Nov 2015 - Nov 2019 · 4 yrs",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Decreased company payouts by creating and optimizing alerts to flag underperforming solar systems as part of the monitoring platform\n- Contributed to the billing platform by generating cleaning rules for meter providers\n- Assisted in the purchase of solar systems by creating a pipeline to estimate production\n- Identified and recommended a payout solution that saved the company an estimated 2\nmillion per year"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15737430",
+          "companyUrn": "urn:li:fsd_company:15737430",
+          "companyLink1": "https://www.linkedin.com/company/isolationbioinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG1GrNPburuFQ/company-logo_400_400/company-logo_400_400/0/1677691510010/isolationbioinc_logo?e=1785369600&v=beta&t=M-zoiIsm5iXgh6HGBg55MyjOOmsGwAeT6Qg1205DUs8",
+          "title": "Associate Researcher",
+          "subtitle": "Isolation Bio Inc. . Full-time",
+          "caption": "Mar 2015 - Oct 2015 · 7 mos",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Helped secure funding by creating summary figures of genomic data"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3657",
+          "companyUrn": "urn:li:fsd_company:3657",
+          "companyLink1": "https://www.linkedin.com/school/penn-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEFv0lqpE-gsQ/company-logo_400_400/company-logo_400_400/0/1631308876392?e=1785369600&v=beta&t=T4JelAWf_bOaes4xsfkkRmudtPxfjcpVRLg0tEKg9dk",
+          "title": "Graduate Research Assistant",
+          "subtitle": "Penn State University . undefined",
+          "caption": "Aug 2012 - Oct 2014 · 2 yrs 2 mos",
+          "metadata": "State College, Pennsylvania, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My graduate research project consisted of summarizing geochemical profiles around a bacterium of interest to try to obtain a pure culture."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1646",
+          "companyUrn": "urn:li:fsd_company:1646",
+          "companyLink1": "https://www.linkedin.com/school/harvard-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1785369600&v=beta&t=6UPT13bAXUu-uQx_8cGFJw9Nt7RqPUoqd11BgbPysyI",
+          "title": "Research Intern",
+          "subtitle": "Harvard University . Internship",
+          "caption": "Jul 2011 - Dec 2011 · 5 mos",
+          "metadata": "Cambridge, Massachusetts, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As a co-op student, I cultured a microbe under various environmental conditions to see if it resulted in a difference in an extracted compound."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Data Visualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Applied Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Airflow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentation Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scikit-Learn",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tableau",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mentoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3657",
+          "companyUrn": "urn:li:fsd_company:3657",
+          "companyLink1": "https://www.linkedin.com/school/penn-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEFv0lqpE-gsQ/company-logo_400_400/company-logo_400_400/0/1631308876392?e=1785369600&v=beta&t=T4JelAWf_bOaes4xsfkkRmudtPxfjcpVRLg0tEKg9dk",
+          "title": "Penn State University",
+          "subtitle": "Master of Science - MS, Geological and Earth Sciences/Geosciences",
+          "caption": "2012 - 2014",
+          "subComponents": []
+        },
+        {
+          "companyId": "5274",
+          "companyUrn": "urn:li:fsd_company:5274",
+          "companyLink1": "https://www.linkedin.com/school/northeastern-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF531vNuZm4hw/company-logo_200_200/B4EZs3cqW9GoAI-/0/1766161819424/northeastern_university_logo?e=1785369600&v=beta&t=iO5g4IRoQWAuW-Hj9d6kEvgFNaEfko_RC8J7Fp3i-oA",
+          "title": "Northeastern University",
+          "subtitle": "Bachelor of Science - BS, Biology",
+          "caption": "2008 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

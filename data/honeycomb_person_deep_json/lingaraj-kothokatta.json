@@ -1,0 +1,720 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/lingaraj-kothokatta",
+  "row_key": "id:003Uk00000yaUTLIA2",
+  "person": "Lingaraj Kothokatta",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:19:16Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAKwXdcBDlcmGysyBWWk4lF0AD2JzXj29aw",
+      "firstName": "👋 Lingaraj",
+      "lastName": "Kothokatta",
+      "fullName": "👋 Lingaraj Kothokatta",
+      "publicIdentifier": "lingaraj-kothokatta",
+      "headline": "Experienced SDET (Python) | Expert in UI (Selenium/Playwright/Robot), API (PyTest/Postman) & ETL Automation | 2x AWS Certified",
+      "about": "Professional Summary:\n\n•\tAWS Certified with around 12+ Yrs of experience as Sr. SDET/Software QA Automation Engineer in different types of software testing, such as Unit tests, Integration tests, Functional tests, End-to-end tests, Acceptance testing, Performance testing, Smoke testing and Exploratory testing.\n•\tExpertise in Automating REST API Tests using Ruby (Unit-Test), Python (Pytest).\n        Experience with SAST/DAST/SCA/IaC security scans\n•\tExpertise in Automating UI Tests using Playwright, Robot, Cypress, Selenium(Python) on Various Browsers (Chrome, Firefox, internet explorer and edge browser). Built and enhanced automated test framework using Cypress and Page Object Model concepts\n•\tHave implemented end to end UI automation to verify OTT application having various DRM solutions.\n•\tExperienced in load and performance testing tool such as JMeter (for On Prime Systems ) and Locust (for Cloud SaaS Applications)\n•\tAutomated AWS infrastructures using boto3, AWS CLI, AWS CloudFormation and AWS CDK.\n•\tAutomated Setting up Secure VPC infrastructure using AWS CDK\n•\tAutomated Setting up AWS Data Pipeline using AWS CloudFormation.\n•\tFamiliar with various AWS Services such as EC2, FARGATE, Lambda, VPC, Load Balancer, Stepfunctions, Lambda, API Gateway, SNS, SES\n•\tExtensively worked on CI/CD pipeline for code deployment by engaging different tools (Git, Jenkins, CodePipeline, Codefresh) in the process right from developer code check-in to Production deployment\n•\tProficient in Python and have sound knowledge on OOP (Object Oriented Programming) concepts.\n•\tExcellent analytical, problem solving, communication and interpersonal skills along with a good attitude for learning.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Dallas-Fort Worth Metroplex United States",
+      "addressWithoutCountry": "Dallas-Fort Worth Metroplex",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFrGznCESDfsA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703392828721?e=1785369600&v=beta&t=dbNDaQjUROv_u68ypTTsAm3J4lAPUFYvGgd3eKUAC7Y",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFrGznCESDfsA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1703392828721?e=1785369600&v=beta&t=AJ2Lc2MkyPSV-7YanYLb8q4UzUB0aRiQJymNl_I-Sss"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFrGznCESDfsA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703392828721?e=1785369600&v=beta&t=PwnFTMA4W0xn2TIQxrDo6lqkRBc3ZswiSwlgnXqFSDI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFrGznCESDfsA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1703392828721?e=1785369600&v=beta&t=c8DSWwjY8oCXlqx_uXEMo-VKGEWa2ymNASi2mOmcEVk"
+        },
+        {
+          "width": 444,
+          "height": 444,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFrGznCESDfsA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703392828721?e=1785369600&v=beta&t=dbNDaQjUROv_u68ypTTsAm3J4lAPUFYvGgd3eKUAC7Y"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Senior Software Development Engineer Test",
+          "subtitle": "Medtronic . Contract",
+          "caption": "Mar 2023 - Present · 2 yrs 10 mos",
+          "metadata": "Working Remotely from Dallas, Texas, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "𝐔𝐈 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐓𝐞𝐬𝐭𝐬 𝐮𝐬𝐢𝐧𝐠 Selenium, 𝐏𝐥𝐚𝐲𝐰𝐫𝐢𝐠𝐡𝐭 and 𝐂𝐲𝐩𝐫𝐞𝐬𝐬:\n•\tDesign, develop, and maintain automated test scripts for UI testing using Selenium, Playwright and Cypress with (JavaScript, TypeScript and Python).\n•\tExecute automated tests to ensure the quality and functionality of web applications across different browsers and platforms.\n•\tMaintain and enhance test automation frameworks and libraries to improve efficiency and reliability of automated tests.\n•\tConduct regression testing and contribute to continuous integration and continuous deployment (CI/CD) pipelines.\n𝐀𝐏𝐈 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐓𝐞𝐬𝐭𝐬 𝐮𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐏𝐲𝐭𝐞𝐬𝐭:\n•\tDevelop and maintain automated test suites for API testing using Python and Pytest framework.\n•\tCreate API test cases to validate RESTful web services, endpoints, and data payloads.\n•\tExecute API tests to verify functionality, performance, security, and reliability of APIs.\n•\tCollaborate with development teams to review API specifications, documentation, and test coverage.\n•\tIntegrate API tests into CI/CD pipelines for automated testing during build and deployment processes.\n•\tMonitor and analyze API test results, identify issues, and work with developers to resolve defects.\n•\tImplement test data management strategies for API testing using mocks, stubs, and test data generation.\n𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐄𝐓𝐋 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐮𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧:\n•\tDesign, implement, and maintain automated ETL test scripts using Python scripting language.\n•\tDevelop test scenarios and data sets to validate data extraction, transformation, and loading processes.\n•\tExecute automated ETL tests to verify data integrity, accuracy, and completeness across databases and data warehouses.\n•\tCollaborate with data engineers and analysts to understand ETL workflows, data models, and business requirements.\n•\tPerform data validation and reconciliation between source and target systems using SQL queries and scripting."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2105",
+          "companyUrn": "urn:li:fsd_company:2105",
+          "companyLink1": "https://www.linkedin.com/company/netapp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_200_200/B4EZ2x0ZwfJ0AI-/0/1776804798059/netapp_logo?e=1785369600&v=beta&t=rCrMAfvhELMwxdpbFhnqny7leKaxvKzeOeYXVdwfPdM",
+          "title": "MTS Quality Assurance Engineer 3",
+          "subtitle": "NetApp . Full-time",
+          "caption": "Jun 2022 - Feb 2023 · 8 mos",
+          "metadata": "Working Remotely from San Diego, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "About the Project:\nCloudCheckr CMx gives the visibility and intelligence we need to successfully manage and optimize AWS, Microsoft Azure and Google Cloud. It provide customers with the industry’s deepest reporting and recommendation engine for better insight a fast, flexible and easy-to-use solution for large, complex cloud structures, Capabilities that address unique enterprise, managed service provider and public sector needs\n\nRole:\nWorking as QE Member In our Scrum Team, solely responsible for delivering SaaS Based (API/UI/ETL) products.\n\nResponsibilities:\n•\tVerified REST API authentication, Authorization and services using Postman.\n•\tImplemented REST API response schema validation using pytest-schema module\n•\tImplemented Allure reporting in Pytest\n•\tImplemented test paramterization in pytest\n•\tImplemented interacting aws s3, ssm paramter store, aws dynamodb, event bus using boto3\n•\tVerified AWS lambda functions locally using python-lambda-local module\n•\tImplemented AWS step function for orchestration\n•\tEnhanced the existing API (pytest)/UI (Robot) Automation framework.\n•\tDesigned Performance testing for ETL pipelines.\n\nEnvironment:\nLog management Service: Loggly\nmonitoring Service: New Relic\nskills: Selenium, Java, API, Mobile Automation\nautomation frameworks - (Selenium WebDriver/Appium/TestNG/Junit)\nperformance testing tools : Jmeter and Locust\nSecurity testing: Wireshark\nBuild Tools (Maven, ANT, etc), \nDebugging Tools (Charles/Fiddler)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "25357",
+          "companyUrn": "urn:li:fsd_company:25357",
+          "companyLink1": "https://www.linkedin.com/company/verimatrix/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGCqiIFQcAU1g/company-logo_400_400/company-logo_400_400/0/1630583848192/verimatrix_logo?e=1785369600&v=beta&t=bO-Ol8ntiPdNQ-K2tQeKpxwpMGgtmqEUc3MxcXhtvho",
+          "title": "Software Quality Assurance Engineer III",
+          "subtitle": "Verimatrix . Full-time",
+          "caption": "Apr 2015 - Jun 2022 · 7 yrs 2 mos",
+          "metadata": "San Diego, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Roles:\nWorking as QE Member In our Scrum Team, solely responsible for delivering SaaS Based (API/UI/ETL) products.\n\nResponsibilities:\n• Implemented Automation Test suites using Ruby test-unit Framework to test following Digital Rights Management Content Protection Technology i.e. Verimatrix IPTV, InternetTV, MULTIRIGHTS,Microsoft PlayReady,Google Widevine,Adobe primetime,Apple Fairplay,Verimatrix Paseo.\n• Implemented Automation Test suites using python pytest Framework to test following Digital Rights Management Content Protection Technology i.e. Common Encoder Interface having CPIX standards for various technologies such as Verimatrix, Widevine,Adobe,Fairplay.\n• Implemented Automation Test suites using python pytest Framework to test following Verimatrix Analytics Solution i.e. Federated Rights Management. \n• Implemented Automation Test suites using Test-unit Framework to test following Watermarking Content Protection Technology i.e. Verimatrix Streammark.\n• Implemented Automation UI Test suites using cypress for Verimatix SAAS product.\n• Implemented Performance Testing of REST API calls using Locust in AWS and got the benchmarks.\n• Implemented Ruby Automation Test suites using Ruby-Jmeter Framework to test following Digital Rights Management Content Protection Technology i.e. Apple Fairplay\n\nTechnology Experience:\n• Knowledge of public cloud services such as Amazon Web Services.\n• Hands on with Encoders such as Envivio 4caster/Halo, Harmonic Promedia/PXMO, Elemental Live/Delta.\n• Hands on with various Players such as dash js, shaka, Adobe SDK. \n• Hands on experience on Amazon Web Services Experience, Core Services such as Elastic Compute cloud, S3 bucket, Load Balancer, Relational Database,API Gateway and Media Services such as Elastic Transcoder, MediaConvert, MediaLive, MediaPackage, MediaStore and MediaTailor\n\nProgramming Skills:\n• Experience on Ansible which automates software provisioning, configuration management, and application deployment."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10294",
+          "companyUrn": "urn:li:fsd_company:10294",
+          "companyLink1": "https://www.linkedin.com/company/universal-electronics/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGzQFWG5GGBDg/company-logo_400_400/company-logo_400_400/0/1631420426308/universal_electronics_logo?e=1785369600&v=beta&t=ePedVo0-nmQWwMljVoT7JqIf_wAc9_60PXy08SIqpDs",
+          "title": "Software Quality Assurance Engineer",
+          "subtitle": "Universal Electronics . Contract",
+          "caption": "Oct 2014 - Mar 2015 · 5 mos",
+          "metadata": "San Mateo, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Roles and Responsibilities:\n•\tTested the products across various platforms.\n•\tWorked with the QA team in the development and execution of test plans and test cases for multiple features of an application.\n•\tDeveloped and maintain testing strategies, including manual and automation testing.\n•\tEnsured comprehensive test coverage by working closely with the product and engineering teams to prioritize testing execution and report on test execution progress and results.\n•\tParticipated in design and specification reviews and use this information to design test plans.\n•\tPromoted QA productivity through automation, tools, and other best practices.\n•\tTracked beta tester program on various product lines to consolidate user feedback."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Software Quality Assurance Engineer",
+          "subtitle": "Cisco . Contract",
+          "caption": "Jun 2013 - Sep 2014 · 1 yr 3 mos",
+          "metadata": "Lawrenceville, Georgia, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Roles and Responsibilities:\n•\tWritten Python scripts which invokes cmd2000 commands and parses the Set Top Box Diagnostic page data and gets various information of the Set top Box and Analyze the Data. \n•\tTeam Member to carry out System, Feature, Application, and Automation & Performance Testing. Provisioning and authorizing Cisco STB's for executing Test cases.  \n•\tContributed in automation testing using python test scripts. Performed rigorous Testing (expert testing), Integration testing to discover maximum bugs. \n•\tResponsible for Performance testing of RTN STB's. Configuring Cisco DNCS headend and creating different video channel source (MPEG2, Digital Audio, Encrypted orClear) for test execution on RTN based STB's. \n•\tCreating and Managing VOD assets on VOD Seachange server.  \n•\tEPG Testing and EPG server maintenance for date and time changes. Created a weekly recording schedule designed to exercise DVR functionality Participated in Bug Verification, Defect prevention and maintaining SLA activities.  \n•\tSetting up PPV and SDV channel sources on DNCS headend for live streaming on STB's. Coordinating Testing and Development team in Rogers Canada.  \n•\tTesting of features like Conditional Access, DVR, PPV, VOD, Multi Room DVR and Maintenance window.  \n•\tContributed in test plan preparation, authoring test cases, test case design and execution, reporting. Troubleshooting QAM's and QPSK for issues observed while video streaming or STB boot-up issues.  \n•\tAttended 7 days Cisco training for Understanding DNCS at Cisco Systems."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2217",
+          "companyUrn": "urn:li:fsd_company:2217",
+          "companyLink1": "https://www.linkedin.com/company/halliburton/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtpbHFAokMwQ/company-logo_400_400/company-logo_400_400/0/1654719813092/halliburton_logo?e=1785369600&v=beta&t=yqi78aFtxmJegJuqM96bzGm0CXmmQXoXImN1pgsdtT4",
+          "title": "Software Quality Assurance Engineer",
+          "subtitle": "Halliburton . undefined",
+          "caption": "Dec 2012 - May 2013 · 5 mos",
+          "metadata": "Houston, Texas, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Roles and Responsibilities:\n•\tWorked within an Agile Scrum team to design, implement, maintain, and execute automated tests for SaaS applications covering all aspects of testing including functional, smoke, backwards compatibility, performance, load, etc. \n•\tTook responsibility for overall architecture of the team’s automated testing framework, ensuring that it can be used and reused effectively throughout the SDLC, including testing of new feature development, smoke testing of new builds, regression testing and post-deployment validation testing.\n•\tEnsured test plans are completed in Azure DevOps and results are recorded and reported accurately.\n•\tEnsured adequate test coverage of all areas of the application through methods such as a traceability matrix.\n•\tRecorded any defects found in Azure DevOps providing appropriate information for the development team to investigate (e.g., steps to recreate). Where appropriate assist with investigation.\n•\tAssisted with manual testing when required.\n•\tPrepared, generated and maintained test data to support thorough testing of the service.\n•\tHelp to validate and triage any defects reported to the team by customer or other business areas.\n•\tContributing to Feature/Story refinement and estimates.\n•\tHelp define, implement, and maintain suitable tests to monitor the application running in customer environments."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2247",
+          "companyUrn": "urn:li:fsd_company:2247",
+          "companyLink1": "https://www.linkedin.com/company/johnson-controls/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFLnizgdgpDFA/company-logo_400_400/company-logo_400_400/0/1728672007366/johnson_controls_logo?e=1785369600&v=beta&t=WyimPke4gnS-Tw7osNRRuuc7x9AhAihrkfWRNsmsMTY",
+          "title": "Software Engineer",
+          "subtitle": "Johnson Controls . Full-time",
+          "caption": "Mar 2011 - Nov 2012 · 1 yr 8 mos",
+          "metadata": "Holland, Michigan, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Roles and Responsibilities:\n•\tPlanned and managed test execution (resource allocation, weekly test report creation)\n•\tLed software evaluation of head unit software focused on all the functions for upcoming new HU around various domains like Eg: HMI, Navigation, Bluetooth, VR/Voice Assistant, DCM Apps, OTA, user profile and other legacy functions (Good to have at least strong expertise on 3 or more functional areas)\n•\tCommunicated with mobile device manufacturers on potential device issues.\n•\tCreated, executed function and regression test plan based on feature requirement.\n•\tCommunicated and managed Tier 1 suppliers on head unit software fixes\n•\tParticipated in Agile ceremonies including daily standup, sprint planning, sprint refinement and sprint demo."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified: Data Engineer – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued May 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02) Cert Prep: 1 Cloud Services Overview",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02) Cert Prep: 2 Storage Design",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02) Cert Prep: 3 Virtual Private Cloud",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Exam Tips: AWS Certified Solutions Architect - Associate (SAA-C02)",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Python Automation and Testing",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Apache PySpark by Example",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "435210",
+          "companyUrn": "urn:li:fsd_company:435210",
+          "companyLink1": "https://www.linkedin.com/company/hackerrank/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1785369600&v=beta&t=cgfKkWltLqdbUl9fRJg-ok9aHBrpuR3USvn3WHgImLQ",
+          "title": "Python (Basic) Certificate",
+          "subtitle": "HackerRank",
+          "issued": "Issued Jul 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Advanced SQL for Data Scientists",
+          "subtitle": "LinkedIn",
+          "issued": "Issued May 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3761108",
+          "companyUrn": "urn:li:fsd_company:3761108",
+          "companyLink1": "https://www.linkedin.com/school/linuxacademy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFg2SqYACylFA/company-logo_400_400/company-logo_400_400/0/1631393789834?e=1785369600&v=beta&t=itIS_k7DH46e-h8BciVJ-wph5AeR36oQNHeUgyfokXE",
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Linux Academy",
+          "issued": "Issued Sep 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3761108",
+          "companyUrn": "urn:li:fsd_company:3761108",
+          "companyLink1": "https://www.linkedin.com/school/linuxacademy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFg2SqYACylFA/company-logo_400_400/company-logo_400_400/0/1631393789834?e=1785369600&v=beta&t=itIS_k7DH46e-h8BciVJ-wph5AeR36oQNHeUgyfokXE",
+          "title": "AWS Concepts",
+          "subtitle": "Linux Academy",
+          "issued": "Issued Sep 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3761108",
+          "companyUrn": "urn:li:fsd_company:3761108",
+          "companyLink1": "https://www.linkedin.com/school/linuxacademy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFg2SqYACylFA/company-logo_400_400/company-logo_400_400/0/1631393789834?e=1785369600&v=beta&t=itIS_k7DH46e-h8BciVJ-wph5AeR36oQNHeUgyfokXE",
+          "title": "AWS Essentials",
+          "subtitle": "Linux Academy",
+          "issued": "Issued Sep 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued Sep 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "25357",
+          "companyUrn": "urn:li:fsd_company:25357",
+          "companyLink1": "https://www.linkedin.com/company/verimatrix/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGCqiIFQcAU1g/company-logo_400_400/company-logo_400_400/0/1630583848192/verimatrix_logo?e=1785369600&v=beta&t=bO-Ol8ntiPdNQ-K2tQeKpxwpMGgtmqEUc3MxcXhtvho",
+          "title": "VCAS for DVB",
+          "subtitle": "Verimatrix",
+          "issued": "Issued Mar 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "25357",
+          "companyUrn": "urn:li:fsd_company:25357",
+          "companyLink1": "https://www.linkedin.com/company/verimatrix/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGCqiIFQcAU1g/company-logo_400_400/company-logo_400_400/0/1630583848192/verimatrix_logo?e=1785369600&v=beta&t=bO-Ol8ntiPdNQ-K2tQeKpxwpMGgtmqEUc3MxcXhtvho",
+          "title": "VCAS for IPTV",
+          "subtitle": "Verimatrix",
+          "issued": "Issued Mar 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "25357",
+          "companyUrn": "urn:li:fsd_company:25357",
+          "companyLink1": "https://www.linkedin.com/company/verimatrix/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGCqiIFQcAU1g/company-logo_400_400/company-logo_400_400/0/1630583848192/verimatrix_logo?e=1785369600&v=beta&t=bO-Ol8ntiPdNQ-K2tQeKpxwpMGgtmqEUc3MxcXhtvho",
+          "title": "VCAS for Internet TV",
+          "subtitle": "Verimatrix",
+          "issued": "Issued Mar 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "25357",
+          "companyUrn": "urn:li:fsd_company:25357",
+          "companyLink1": "https://www.linkedin.com/company/verimatrix/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGCqiIFQcAU1g/company-logo_400_400/company-logo_400_400/0/1630583848192/verimatrix_logo?e=1785369600&v=beta&t=bO-Ol8ntiPdNQ-K2tQeKpxwpMGgtmqEUc3MxcXhtvho",
+          "title": "VCAS for MultiRights OTT",
+          "subtitle": "Verimatrix",
+          "issued": "Issued Mar 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Bravo Teammate Recognition Award",
+          "subtitle": "Issued by Verimatrix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "API Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SoapUI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "QA Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon SQS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robot Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Step Functions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Command Line Interface (CLI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TCP/IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manual Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Simulations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JMeter",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Dr M G R Educational and Research Institute",
+          "subtitle": "Bachelor of Technology - BTech, Electrical and Electronics Engineering",
+          "caption": "2004 - 2008",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Highly Available Infrastructure to run ECS FARGATE task using AWS CDK",
+          "subtitle": "Jan 2019 - Feb 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "***Infrastructure as code using AWS CDK***\n\nIn order to run FARGATE task inside a private subnet, we created a highly available infrastructure using python AWS CDK.\n\nIt creates the following resources:\n•\tVPC\n•\tPublic Subnets\n•\tPrivate Subnets\n•\tElastic IPs\n•\tNat Gateways\n•\tInternet Gateways\n•\tRoute tables\n•\tVPC Endpoints"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cisco Vantage System Verification of Set Top Box (4642HD, 8642HD and 9865HD).",
+          "subtitle": "Jun 2013 - Mar 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Client: Cisco Systems, Lawrencevillie – GA.\n\nScope of Work: \n●\tWritten Python scripts which invokes cmd2000 commands and parses the Set Top Box Diagnostic page data and gets various information of the Set top Box and Analyze the Data.\n●\tTeam Member to carry out System, Feature, Application, and Automation & Performance Testing. Provisioning and authorizing Cisco STB's for executing Test cases. \n●\tContributed in automation testing using python test scripts. Performed rigorous Testing (expert testing), Integration testing to discover maximum bugs.\n●\tResponsible for Performance testing of RTN STB's. Configuring Cisco DNCS headend and creating different video channel source (MPEG2, Digital Audio, Encrypted or Clear) for test execution on RTN based STB's.\n\n●\tEPG Testing and EPG server maintenance for date and time changes. Created a weekly recording schedule designed to exercise DVR functionality Participated in Bug Verification, Defect prevention and maintaining SLA activities. \n●\tSetting up PPV and SDV channel sources on DNCS headend for live streaming on STB's. Coordinating Testing and Development team in Rogers Canada. \n●\tTesting of features like Conditional Access, DVR, PPV, VOD, Multi Room DVR and Maintenance window. \n●\tContributed in test plan preparation, authoring test cases, test case design and execution, reporting. Troubleshooting QAM's and QPSK for issues observed while video streaming or STB boot-up issues. \n●\tWorked independently with minimal supervision.\n●\tTrained New Engineers about the Test cases and overall Testing Best practices.\nTeam Size: 20.\n\nRole: Software Test Lead.\n\nAchievements: Awarded Best Performer across Four Locations on June 2014 for logging highest Number of Bugs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Automated Testing for Telematics Control Unit for Honda EV MY13/PHEV MY13.5.",
+          "subtitle": "May 2011 - May 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Automated Testing for Telematics Control Unit for Honda EV MY13/PHEV MY13.5.\nClient: Johnson Controls Inc, Jonson Controls Inc. - MI.\nProject Duration: May 2011 – Nov 2012.\n\n\nDetails: The EV Telematics Control Unit (EV TCU) variant of the Hands-Free Telephone Module Interface (HFT) installed in an Electric Vehicle is to provide the user all EV TCU Services.\n\nScope of Work: Developing feature sequences in NI TestStand Fixing Test Cases and Tracing to Requirements. Executing the Test Sequences and Running Iterations.\n\nSoftware: TestStand 4.2.1 in Windows XP.\n\nProcess Model: Sequential Process Model.\n\nTeam Size: 4\n\nRole: Software Test Lead.\n\nContribution: Requirements study, Software Design preparation coding, Unit and System testing, Preparation of Software Test Reports and Feature Test Design Documents.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Design and Development of Automated Test Equipment for LCA Levcon Air Data Computer.",
+          "subtitle": "Mar 2009 - Apr 2011",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Design and Development of Automated Test Equipment for LCA Levcon Air Data Computer.\nClient: Bharat Electronics Ltd, Bangalore - India.\nProject Duration: Apr 2009 – Mar 2010.\n\nDetails: The Automated Test Equipment for Air Data Computer is a system used to test the different modules of LADC (Levcon Air Data Computer).\n\nScope of Work: Simulation and Acquisition of Different types of Signals, Initialization of ADC, Accessing memories through SPIL link and Functional testing and validation of various circuits present in these modules.\n\nHardware Platforms: NI PXI 1045.\n\nNI PXI Modules: NI-PXI-8186(Controller), NI-PXI-6704(Analog Output), NI-PXI-5421(Waveform Generator), NI-PXI-6509(Digital I/O), NI-PXI-6528(Isolated Digital I/O), NI-PXI-4070(61/2 DMM), NI-PXI-5122(Digitizer), NI-PXI-2532(Matrix Switch), NI-PXI-8431/4(Serial Interface)\n\nThird Party PXI Modules: Pickering Programmable Resistor Card, SPIL Card, MIL 1553 Card, CCDL Card.\nSoftware: LabVIEW 8.6 in Windows XP.\n\nAdd-On Modules and Toolkits: Modulation Toolkit for LabVIEW, LabVIEW Database Connectivity Toolkit, LabVIEW Report Generation Toolkit for Microsoft Office, LabVIEW Application Builder for Windows.\n\nLabVIEW Architecture: State Machine Architecture.\n\nInstrument I/O: NI VISA, NI GPIB\n\nTeam Size: 5\n\nRole: Software Test Lead.\n\nContribution: Requirement Study, Software Design preparation, coding, unit and system testing, Database Connection and Report Generation, Preparation of Software Documents i.e. (SRS, SDD, STP, STR, VDD, ATP&ICD)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Automating Blue/Green Deployments of Infrastructure using AWS Cloudformation",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Deployments of Infrastructure and Application Code using AMIs, AWS Developer Tools, & Amazon EC2 Systems Manager"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Scheduled Serverless Workflow with AWS Step Functions and Amazon CloudWatch using AWS cloudfromation",
+          "subtitle": "",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

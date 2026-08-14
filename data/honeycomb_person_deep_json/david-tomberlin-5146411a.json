@@ -1,0 +1,291 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/david-tomberlin-5146411a",
+  "row_key": "id:0031N00001zjwhZQAQ",
+  "person": "David Tomberlin",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:21:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAQCdaAB6g8i-WqOLxGElTND8ienK4SzLKw",
+      "firstName": "David",
+      "lastName": "Tomberlin",
+      "fullName": "David Tomberlin",
+      "publicIdentifier": "david-tomberlin-5146411a",
+      "headline": "Observability @ Epic Games",
+      "about": "Currently working on all sorts of things, but mostly Observability atm.\n\nIf you're a recruiter contacting me and not opening with a gif, well you're certainly missing out.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Los Angeles Metropolitan Area United States",
+      "addressWithoutCountry": "Los Angeles Metropolitan Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Software Engineering Manager",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Nov 2024 - Present · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "80114151",
+          "companyUrn": "urn:li:fsd_company:80114151",
+          "companyLink1": "https://www.linkedin.com/company/clickhouseinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEr8RfI76yHEQ/company-logo_400_400/company-logo_400_400/0/1688976507947/clickhouseinc_logo?e=1785369600&v=beta&t=TzsdhURXDk_zT7JDHFmlh4r-g2tW2A_NBDhR34I0jNw",
+          "title": "Principal Software Engineer",
+          "subtitle": "ClickHouse . Full-time",
+          "caption": "Oct 2023 - Oct 2024 · 1 yr",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "34695381",
+          "companyUrn": "urn:li:fsd_company:34695381",
+          "companyLink1": "https://www.linkedin.com/company/pragma-platform/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHP0l9hK-fHTw/company-logo_200_200/B4DZXKOTyxHYAI-/0/1742854503898/pragma_platform_logo?e=1785369600&v=beta&t=LxApUGCwyprl4VzjOWYLh3L5FkGRH2Sej2d7c7CBr_Y",
+          "title": "Principal Software Engineer - Infrastructure Lead",
+          "subtitle": "Pragma Platform . undefined",
+          "caption": "Jun 2021 - Oct 2023 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Ensured a smooth and painless launch for \"LOTR: Return to Moria\" by leading the team that deployed and managed all environments (dev through GA), planning and running loadtests for capacity planning, and by outlining and designing a basic game telemetry pipeline for the game studio\n• Decreased time to onboard a new game studio and increased confidence in our managed offering by architecting a cell based \"SaaS\" like system for our infrastructure; moving them from bespoke Terraform to a new IaC system with a customer facing API\n• Improved and advocated for reliability by introducing structured event based observability, by adding CD via automated test environment deploys, and enabling repeatable deploys by implementing a version-tracked build system\n• Supported first time managers by mentoring them as they transitioned into their new role"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "60870",
+          "companyUrn": "urn:li:fsd_company:60870",
+          "companyLink1": "https://www.linkedin.com/company/riot-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGJCu2U_L9CNQ/company-logo_400_400/company-logo_400_400/0/1725898995592/riot_games_logo?e=1785369600&v=beta&t=L5SHtbbq1Nwzynut71uh0PMxf6xEABj3THtweMIcY6g",
+          "title": "Staff Software Engineer",
+          "subtitle": "Riot Games . undefined",
+          "caption": "Nov 2018 - May 2021 · 2 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Enabled on-time TFT Mobile launch by leading work to replace old proxy with new API gateway, through customer stakeholder meetings, and by prioritizing feature requests against timelines\n• Reduced configuration burden of exposing services in the gateway by leading technical direction and roadmap for an automated API Gateway system\n• Reduced on-call toil and overhead by driving better observability practices, such as moving to primarily using structured events, using error budgets for deploys, and revising runbook format for alerting\n• Improved metrics/logging across the entire company by driving evaluation of monitoring replacement, architecting vendor-agnostic collection systems, and developing migration plans for teams."
+              }
+            }
+          ]
+        },
+        {
+          "title": "SendGrid",
+          "subtitle": "undefined · 7 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Tech Lead and R&D Engineer",
+              "caption": "Apr 2014 - Nov 2018 · 4 yrs 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Helped explore and prove new business model for an event driven multi-channel communication platform using email events, web events, and phone messaging with customer interactions by designing and implementing the event processor for Threads.io\n• Partnered with designers to prototype new customer frontend with proposed API rewrite, presented to leadership, and then lead implementation by working on, interviewing, hiring, and leading team to deliver the full rework\n• Reduced time to declare an outage by building better outage detection tooling and working with stakeholders to improve visibility into the mail pipeline"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Nov 2011 - Apr 2014 · 2 yrs 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Reduced self-inflicted outages by designing and developing service-based tooling to replace manual DNS\nchanges and automate DC failovers\n• Improved mail processing time by writing new mail queueing system and increased customer satisfaction\nwith mail delivery speeds by implementing the ability to schedule sends for emails\n• Improved customer support visibility of datacenter switchovers by adding the ability to review changes\nand by adding audit logs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Consultant",
+          "subtitle": "Amentra . undefined",
+          "caption": "Jul 2011 - Nov 2011 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Java Developer",
+          "subtitle": "PICS, Inc . undefined",
+          "caption": "May 2010 - Jun 2011 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Go",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "17920",
+          "companyUrn": "urn:li:fsd_company:17920",
+          "companyLink1": "https://www.linkedin.com/school/georgia-southern-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEzpFsNskiuBw/company-logo_400_400/company-logo_400_400/0/1631316421860?e=1785369600&v=beta&t=0ifvBwKU02x743OffBeTrKDBAl_FaRB0nQGf8SuGi0c",
+          "title": null,
+          "subtitle": "BS, Computer Science",
+          "caption": "2005 - 2009",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

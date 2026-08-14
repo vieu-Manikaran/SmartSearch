@@ -1,0 +1,529 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/madhuri-patel-a76aa6b5",
+  "row_key": "id:003Uk00000ydM55IAE",
+  "person": "Madhuri Patel",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:50:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABiLYHoBfD-dh7TjEU29RDCYl9EdxCTIKks",
+      "firstName": "MADHURI",
+      "lastName": "PATEL",
+      "fullName": "MADHURI PATEL",
+      "publicIdentifier": "madhuri-patel-a76aa6b5",
+      "headline": "Senior Software Engineer | Generative AI | LLMs | RAG | LangChain | LangGraph | Agentic AI | Snowflake Cortex | Azure OpenAI | AWS | AWS Bedrock",
+      "about": "I am a Senior Software Engineer with 11+ years of experience, specializing in Generative AI, LLM-based systems, and scalable backend architectures. I have hands-on experience building production-grade AI solutions using LangChain, LangGraph, RAG pipelines, DSPy, Snowflake Cortex, and Azure OpenAI for global enterprise clients.\nAt Wipro, I have delivered end-to-end GenAI applications, including multilingual query orchestration systems, stateful agent-based bots, and RAG-powered chatbots. My work focuses on solving real business problems by combining strong backend engineering with modern AI capabilities.\nI enjoy working on complex problem statements, mentoring teams, and translating business requirements into secure, scalable, and measurable AI solutions. I am particularly interested in roles involving Generative AI, Conversational AI, LLM orchestration, and AI platform engineering.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Maharashtra India",
+      "addressWithoutCountry": "Maharashtra",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQFHsqx2wYpX_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1637557050855?e=1785369600&v=beta&t=0dODTCDJs0wTVmcXJYbgvHds9MiTUYsNBQxIND3jfqc",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQFHsqx2wYpX_g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1637557050855?e=1785369600&v=beta&t=YoN--9L7fSOCiLFyeOCnd7vnjqm_oaNxJkKwKhTPlM8"
+        },
+        {
+          "width": 996,
+          "height": 249,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQFHsqx2wYpX_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1637557050855?e=1785369600&v=beta&t=0dODTCDJs0wTVmcXJYbgvHds9MiTUYsNBQxIND3jfqc"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Senior Software Engineer",
+          "subtitle": "Wipro . Full-time",
+          "caption": "Sep 2022 - Present · 3 yrs 4 mos",
+          "metadata": "Mumbai, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designing and delivering enterprise Generative AI and Agentic AI solutions using Azure OpenAI, Amazon Bedrock, LangChain, LangGraph, and AWS. Building scalable RAG systems, NLP-to-SQL platforms, multi-agent workflows, and intelligent automation solutions. Leading end-to-end development, API integration, prompt engineering, vector database implementation, cloud deployment, performance optimization, and LLMOps best practices to deliver secure, production-ready AI applications."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1714",
+          "companyUrn": "urn:li:fsd_company:1714",
+          "companyLink1": "https://www.linkedin.com/company/nielsen/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEmSTQaEopSAA/company-logo_200_200/B56Z8UugWQGQAE-/0/1782759163507/nielsen_logo?e=1785369600&v=beta&t=y3omsEdmHN7Hd0mfLQfLmjAGmKyqHWA4hqDHmQBOBNQ",
+          "title": "Senior Software Engineer",
+          "subtitle": "Nielsen . Full-time",
+          "caption": "Dec 2019 - Sep 2022 · 2 yrs 9 mos",
+          "metadata": "Mumbai, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "DevDigital . Full-time",
+          "caption": "Jun 2018 - Nov 2019 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Developed application using technologies and frameworks like Laravel, Moodle ( US Govt projects), custom MVC PHP for ecommerce sites.\nImplemented application using ReactJS"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13306517",
+          "companyUrn": "urn:li:fsd_company:13306517",
+          "companyLink1": "https://www.linkedin.com/company/cloudester/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFRI3FN6Z1y8Q/company-logo_400_400/company-logo_400_400/0/1712838445840/cloudester_logo?e=1785369600&v=beta&t=-oTDHskJWQfakIyRFTIFKyNJX1T0Z-dJfyFO1xwOawA",
+          "title": "Software Programmer",
+          "subtitle": "Cloudester Software LLP . undefined",
+          "caption": "Aug 2017 - May 2018 · 9 mos",
+          "metadata": "Vadodara, Gujarat, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Experience to developed application using codeigniter framework\n- Worked on REST api for android and ios applications.\n- Integration of multi payment gateway like Stripe,Paypal and Alipay.\n-  Integrate third party api like google analytics, Google map.\n-Also Worked on  backbone.js"
+              }
+            }
+          ]
+        },
+        {
+          "title": " Software developer",
+          "subtitle": "Spaculus Software Pvt. Ltd. . Full-time",
+          "caption": "Sep 2015 - Jun 2017 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Implemented projects using codeignter, cake PHP framework.\nDevloped hybrid mobile application Using PhoneGap"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3027273",
+          "companyUrn": "urn:li:fsd_company:3027273",
+          "companyLink1": "https://www.linkedin.com/company/sinelogix-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHvSzfXIHwgDw/company-logo_100_100/B4DZWKH50gHAAQ-/0/1741779082960/sinelogix_technology_logo?e=1785369600&v=beta&t=stXPSkoJMcI1V5h4h1asovfGQ30wmqnMj4zmXxw_mEU",
+          "title": "Software Developer",
+          "subtitle": "Sinelogix Technologies . Full-time",
+          "caption": "Sep 2015 - Feb 2016 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "13279839",
+          "companyUrn": "urn:li:fsd_company:13279839",
+          "companyLink1": "https://www.linkedin.com/company/meghtechnologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHSPiOFcAQHaw/company-logo_400_400/company-logo_400_400/0/1631309013834?e=1785369600&v=beta&t=9LVFGZWfriHOSIbaJDqNmPWM_vkoX4lM5Ki1G14wBd8",
+          "title": "Junior Programmer",
+          "subtitle": "Megh Technologies India Private Limited . undefined",
+          "caption": "Sep 2014 - Aug 2015 · 11 mos",
+          "metadata": "Vadodara Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Learnt PHP.\n-Developed e-commerce applications using Codeigniter framework"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Data science and Machine learning ",
+          "subtitle": "Wipro",
+          "issued": "Issued Jan 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Databases and SQL for Data Science with Python",
+          "subtitle": "IBM",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Exploratory Data analysis for Machine Learning ",
+          "subtitle": "IBM",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Python for Data science AI and Development ",
+          "subtitle": "IBM",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Generative AI practioner L1",
+          "subtitle": "Wipro",
+          "issued": "Issued Nov 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "TypeScript Essential Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Sep 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Generative AI ",
+          "subtitle": "Wipro",
+          "issued": "Issued Aug 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "871226",
+          "companyUrn": "urn:li:fsd_company:871226",
+          "companyLink1": "https://www.linkedin.com/company/scrum-alliance/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1785369600&v=beta&t=qBtgg53rCKw2oOgOBvhjCNHdXc-pOCqxkZXmd518BUs",
+          "title": "Certified ScrumMaster (CSM)",
+          "subtitle": "Scrum Alliance",
+          "issued": "Issued Jun 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gujarati",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marathi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "  Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "   data science ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Power BI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LangChain",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Large Language Models (LLM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Prompt Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": " Langchain ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": " OpenAi ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Angular",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum master ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flask",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Dialogflow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Parul Institute of Engineering and technologies",
+          "subtitle": "Master of engineering, Information Technology",
+          "caption": "2012 - 2014",
+          "subComponents": []
+        },
+        {
+          "title": "Babaria institute of technology",
+          "subtitle": "Bachelor of engineering, Computer Science",
+          "caption": "2009 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "974353",
+          "companyUrn": "urn:li:fsd_company:974353",
+          "companyLink1": "https://www.linkedin.com/company/stack-overflow/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQERUfwLUFJmBQ/company-logo_200_200/B4EZrf_9yQGUAI-/0/1764694679056/stack_overflow_logo?e=1785369600&v=beta&t=O5SUYIBSiE6bMUjbJp0H5T-06eK4OIGiNEMu8Ejw5mg",
+          "title": "Contributor",
+          "subtitle": "Stack Overflow",
+          "caption": "Sep 2014 - Present · 11 yrs 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

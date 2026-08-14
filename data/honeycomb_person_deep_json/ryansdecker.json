@@ -1,0 +1,432 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ryansdecker",
+  "row_key": "id:003Uk00000yfMeyIAE",
+  "person": "Ryan Decker",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:10Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAUy5egBd-QbnPvS9_CPl8ycz7B1gRxn_IU",
+      "firstName": "Ryan",
+      "lastName": "Decker",
+      "fullName": "Ryan Decker",
+      "publicIdentifier": "ryansdecker",
+      "headline": "Principal Software Engineer · Surgical Robotics & Autonomous Systems · FDA | Published in Science Translational Medicine",
+      "about": "I build software for surgical robots that operate on humans.My work spans the full stack of surgical autonomy: computer vision, 3D scene reconstruction, robot control, and FDA-cleared clinical systems. I co-authored the STAR system (Science Translational Medicine, 2016), one of the first demonstrations of supervised autonomous soft tissue surgery, and hold an issued patent on 3D corrected imaging for surgical navigation. At Children's National Medical Center I developed novel CV algorithms for autonomous suturing robots and published in IEEE Transactions on Biomedical Engineering. At Globus Medical I implemented FDA-submitted navigation software for image-guided spinal surgery robots. At Medtronic I've served as Tech Lead across major platform architecture initiatives, driving cross-functional teams of 20+ engineers across three time zones.I presented at the Hamlyn Symposium on Medical Robotics in London and at the Robotics for Good Competition in Dubai.Core expertise: C++, Python, Computer Vision, ROS, OpenCV, Surgical Robotics, FDA Regulatory Software, Autonomous Systems, System Architecture.Most recently, I have served as a technical lead on surgical robotics platform architecture, coordinating 20+ engineers across GUI, embedded controls, state machines, vendors, and distributed teams.I'm always interested in conversations about surgical autonomy, medical robotics, and the intersection of AI and clinical systems.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Boston, Massachusetts United States",
+      "addressWithoutCountry": "Boston, Massachusetts",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 4 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Engineer",
+              "caption": "2023 - Present · 3 yrs",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "2022 - 2023 · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Tech Lead for a platform-wide architecture modernization spanning GUI, embedded controls, and state machines across a surgical robotics system. Led a cross-functional team of 23 engineers across 3 time zones, coordinating between business stakeholders, external vendors, and 6 development teams. Reported directly to senior leadership.\n\nTech Lead for ICG, driving collaboration across business, external vendor, and multiple engineering teams to deliver integrated surgical robot capabilities.\n\nCore focus: cross-subsystem architecture, teleoperated surgical robot software, real-time embedded systems, and large-scale technical coordination across distributed teams."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "34924",
+          "companyUrn": "urn:li:fsd_company:34924",
+          "companyLink1": "https://www.linkedin.com/company/amazon-fulfillment-technologies-robotics/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH9ANNFAGH1-g/company-logo_400_400/company-logo_400_400/0/1650398925352/kiva_systems_logo?e=1785369600&v=beta&t=zI0vhZTj5j05Xcec5lAM7e_UNgZEhsyAXbjU9pshID0",
+          "title": "Senior Software Engineer",
+          "subtitle": "Amazon Global Robotics . Full-time",
+          "caption": "2020 - 2021 · 1 yr",
+          "metadata": "Greater Boston",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Resource Allocation for Robotic Drive Units in automated warehouses."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "44458",
+          "companyUrn": "urn:li:fsd_company:44458",
+          "companyLink1": "https://www.linkedin.com/company/globus-medical/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFkSLyvdOKRhA/company-logo_100_100/B4EZWvIl6PG0AQ-/0/1742400020833/globus_medical_logo?e=1785369600&v=beta&t=DJWGkCHKlHvt3tSclYHaj3--9n14NuTeoOLL8HxCJGs",
+          "title": "Globus Medical",
+          "subtitle": "undefined · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "2018 - 2020 · 2 yrs",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "2017 - 2018 · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Image-Guided Robotic Navigation System for spine and cranial surgery.\n- Led the development of new navigation features for interbody procedures, as well as the virtualization of thousands of navigated tools and implants. \n- Made accuracy testing accessible to non-engineers through an automated procedure, which took testing time from one week to one hour. \n- Mentored junior engineers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "11358",
+          "companyUrn": "urn:li:fsd_company:11358",
+          "companyLink1": "https://www.linkedin.com/company/childrens-national/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5_KwCaNCnsw/company-logo_400_400/company-logo_400_400/0/1630570325666/childrens_national_medical_center_logo?e=1785369600&v=beta&t=-O56xfgsTXjvnFr0Z7TolulcVFJauk-R6troZ96XSGg",
+          "title": "Children's National Hospital",
+          "subtitle": "undefined · 4 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "R&D Engineer III",
+              "caption": "2016 - 2017 · 1 yr",
+              "metadata": "Washington D.C. Metro Area",
+              "description": []
+            },
+            {
+              "title": "R&D Engineer II",
+              "caption": "2013 - 2016 · 3 yrs",
+              "metadata": "Washington D.C. Metro Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Supervised Autonomous Soft-Tissue Robot development. \n- Worked on 3D plenoptic vision, tracking, surgical tool motor control and planning, as well as high-level system architecture. \n- Authored research papers accepted to Science Translational Medicine and Transactions on Biomedical Engineering.\n- Prepared technical demos, spoke at industry conferences including the Hamlyn Symposium."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3528",
+          "companyUrn": "urn:li:fsd_company:3528",
+          "companyLink1": "https://www.linkedin.com/school/johns-hopkins-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEe5RVEEkRh_Q/company-logo_100_100/B4EZs4eJd_JQAU-/0/1766178987371?e=1785369600&v=beta&t=b45d57AHbKymztMZbrQolKJJDkt02DPdwABgYQr75E8",
+          "title": "Graduate Researcher",
+          "subtitle": "The Johns Hopkins University . Full-time",
+          "caption": "2011 - 2013 · 2 yrs",
+          "metadata": "Johns Hopkins Bayview Campus, Urobotics Lab",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Medical robotics research in Image-Guided Intervention.\n- Led research projects ranging from mechanical analysis of robots and neurosurgical tools to device design. \n- Optimized robot kinematic models based on experimental data. Improved targeting of Remote Center of Motion Needle Driving Robot over 50% through mechanical dissection and additional model parameters.\n- Gained skills in CNC manufacturing, C++, prototyping, experiment design, data analysis, GLP, and technical writing.\n- 2 abstracts accepted to the Engineering Urology Society Conference: \"How to Use an Optical Tracker for More Accurate Measurements\" (2012) and \"Beveled Needle Trajectory Correction\" (2013)"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "Certified SAFe® 5 Product Owner/Product Manager",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Aug 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "Scrum Master Certified (SMC)",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Jan 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Invited Speaker",
+          "subtitle": "Issued by Software for Medical Devices Conference",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Invited Speaker",
+          "subtitle": "Issued by Hamyln Symposium, London",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presenter",
+          "subtitle": "Issued by Robotics for Good Competition, Dubai",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Autonomous Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Image Guided Surgery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Real-Time Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Device Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FDA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ROS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Vision",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Surgical Robotics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sensors",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3528",
+          "companyUrn": "urn:li:fsd_company:3528",
+          "companyLink1": "https://www.linkedin.com/school/johns-hopkins-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEe5RVEEkRh_Q/company-logo_100_100/B4EZs4eJd_JQAU-/0/1766178987371?e=1785369600&v=beta&t=b45d57AHbKymztMZbrQolKJJDkt02DPdwABgYQr75E8",
+          "title": "The Johns Hopkins University",
+          "subtitle": "Master of Science (MS), Mechanical Engineering",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Robotics and Human-Machine Interaction"
+            }
+          ]
+        },
+        {
+          "companyId": "3528",
+          "companyUrn": "urn:li:fsd_company:3528",
+          "companyLink1": "https://www.linkedin.com/school/johns-hopkins-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEe5RVEEkRh_Q/company-logo_100_100/B4EZs4eJd_JQAU-/0/1766178987371?e=1785369600&v=beta&t=b45d57AHbKymztMZbrQolKJJDkt02DPdwABgYQr75E8",
+          "title": "The Johns Hopkins University",
+          "subtitle": "Bachelor of Science (BS), Mechanical Engineering",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Design Concentration\nPsychology Minor"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Editorial Board Member",
+          "subtitle": "Medical Robotics",
+          "caption": "Dec 2022 - Present · 3 yrs 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

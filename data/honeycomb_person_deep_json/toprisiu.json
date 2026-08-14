@@ -1,0 +1,537 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/toprisiu",
+  "row_key": "id:003Uk00000yd6OsIAI",
+  "person": "Tiberiu Oprisiu",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:06Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAQlZSIBmVbswbgW2shDvgoRTx-8STyOG_Y",
+      "firstName": "Tiberiu",
+      "lastName": "Oprisiu",
+      "fullName": "Tiberiu Oprisiu",
+      "publicIdentifier": "toprisiu",
+      "headline": "Senior Staff Software Engineer at Coinbase",
+      "about": "IT leader with experience leading people, exceeding deliverables, and facilitating collaboration in a highly demanding environment.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Tempe, Arizona United States",
+      "addressWithoutCountry": "Tempe, Arizona",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEl8HtZbiK8UA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629314846952?e=1785369600&v=beta&t=lc_xtVdpJbLyOawMO9aX-cFiXPlDSMCu3qc9KpXoaao",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQEt_V5Y8Dojyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1639755809803?e=1785369600&v=beta&t=TOm8O2rwKQR5C7yAARnEwElo5qUvLezu3zF7UXF8RaM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEl8HtZbiK8UA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1629314846952?e=1785369600&v=beta&t=JVkj58TDGnXGJJCzpW6nhGaoR00SP5FzRH7zwtu-A3w"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEl8HtZbiK8UA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1629314846952?e=1785369600&v=beta&t=2RzFIjn_VvmK0J4PWJjV_kp3-2ZMLoZRMM5_w3HsbZo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEl8HtZbiK8UA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1629314846952?e=1785369600&v=beta&t=GRSNWHozUJOhcm4S9Yr1-ksQTeKvhxAaeOy6u20cHUM"
+        },
+        {
+          "width": 512,
+          "height": 512,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEl8HtZbiK8UA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629314846952?e=1785369600&v=beta&t=lc_xtVdpJbLyOawMO9aX-cFiXPlDSMCu3qc9KpXoaao"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEt_V5Y8Dojyg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1639755809803?e=1785369600&v=beta&t=PaZYbA5JYyge49yBWPlAgclpwS3BJKu7LuxF387X6eU"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEt_V5Y8Dojyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1639755809803?e=1785369600&v=beta&t=TOm8O2rwKQR5C7yAARnEwElo5qUvLezu3zF7UXF8RaM"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "undefined · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Staff Software Engineer",
+              "caption": "Aug 2024 - Present · 1 yr 5 mos",
+              "description": []
+            },
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Apr 2022 - Aug 2024 · 2 yrs 4 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Solutions Architect",
+          "subtitle": "Amazon Web Services (AWS) . undefined",
+          "caption": "Sep 2020 - Mar 2022 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder/CTO",
+          "subtitle": "Stealth Mode Startup . undefined",
+          "caption": "Sep 2019 - Sep 2020 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3991811",
+          "companyUrn": "urn:li:fsd_company:3991811",
+          "companyLink1": "https://www.linkedin.com/company/servrx-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEmwxjAVbHnJA/company-logo_400_400/company-logo_400_400/0/1631326919872?e=1785369600&v=beta&t=psiq7KwV_cu2gmpTwQdlVhFGBFG82cmZIqhplEa5iBg",
+          "title": "ServRx, Inc.",
+          "subtitle": "undefined · 5 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Director of IT",
+              "caption": "Jan 2018 - Sep 2019 · 1 yr 8 mos",
+              "metadata": "Scottsdale, Arizona",
+              "description": []
+            },
+            {
+              "title": "Director of IT",
+              "caption": "Feb 2016 - Dec 2017 · 1 yr 10 mos",
+              "metadata": "Scottsdale, AZ",
+              "description": []
+            },
+            {
+              "title": "Director of Data and Information Strategy",
+              "caption": "Jun 2015 - Feb 2016 · 8 mos",
+              "description": []
+            },
+            {
+              "title": "Project Manager",
+              "caption": "Jun 2014 - Jun 2015 · 1 yr",
+              "metadata": "Phoenix, Arizona Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Developer/Programmer",
+          "subtitle": "Prolink Communications . undefined",
+          "caption": "Jan 2014 - May 2014 · 4 mos",
+          "metadata": "Phoenix, Arizona Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1079",
+          "companyUrn": "urn:li:fsd_company:1079",
+          "companyLink1": "https://www.linkedin.com/company/kpmg-us/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFujenQWGHyUw/company-logo_200_200/B4EZx3zZGkIsAM-/0/1771536487156/kpmg_us_logo?e=1785369600&v=beta&t=IkDyyQehVAksbiRW2YWksw9w9uSnCcEZv1mqNZ_z9jM",
+          "title": "IT Advisory Associate",
+          "subtitle": "KPMG . undefined",
+          "caption": "Sep 2011 - Jul 2013 · 1 yr 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1908",
+          "companyUrn": "urn:li:fsd_company:1908",
+          "companyLink1": "https://www.linkedin.com/company/gdms/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHmOhIFDHw7cw/company-logo_400_400/company-logo_400_400/0/1666214489860/gdms_logo?e=1785369600&v=beta&t=QO0EwOOULCaij1d5GPWBWzZLJ2AWLqNVgqeQxexnGZA",
+          "title": "IT Intern",
+          "subtitle": "General Dynamics C4 Systems . undefined",
+          "caption": "Jun 2010 - May 2011 · 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Computer/Video Tech",
+          "subtitle": "Faspsych . undefined",
+          "caption": "Apr 2009 - May 2010 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1210278",
+          "companyUrn": "urn:li:fsd_company:1210278",
+          "companyLink1": "https://www.linkedin.com/company/lawline.com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF1b34nY9GgMg/company-logo_400_400/company-logo_400_400/0/1658157687674/lawlinecom_logo?e=1785369600&v=beta&t=eFE9JJ2h5GCItWbjTgn1o6duL1VAuWuSAs_s5mfE0B8",
+          "title": "Intern",
+          "subtitle": "Lawline.com . undefined",
+          "caption": "Dec 2006 - Dec 2008 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Professional",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Nov 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "800375",
+          "companyUrn": "urn:li:fsd_company:800375",
+          "companyLink1": "https://www.linkedin.com/company/peoplecert-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEY66hkTvsA5A/company-logo_400_400/company-logo_400_400/0/1726662854655/peoplecert_group_logo?e=1785369600&v=beta&t=vqQcwphGaa4TTugagUdIyX56yS2M6tSj05-Ol5RExSE",
+          "title": "ITIL v4 Foundation Level",
+          "subtitle": "PeopleCert",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Professional",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Dec 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified SysOps Administrator – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Romanian",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Process",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDLC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ERP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Audit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Continuity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Risk Assessment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security Audits",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VoIP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Internal Controls",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vendor Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15200530",
+          "companyUrn": "urn:li:fsd_company:15200530",
+          "companyLink1": "https://www.linkedin.com/school/wpcareyschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvLO8bnXuAbg/company-logo_400_400/company-logo_400_400/0/1631353124213?e=1785369600&v=beta&t=tLZQNLDprPCN9VbJRCwuBNTUAf0eU0XU_4D2Cstr5ck",
+          "title": "Arizona State University, W. P. Carey School of Business",
+          "subtitle": "Master of Business Administration (MBA), Master of Information Management, null",
+          "caption": "2013 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.61"
+            }
+          ]
+        },
+        {
+          "companyId": "4292",
+          "companyUrn": "urn:li:fsd_company:4292",
+          "companyLink1": "https://www.linkedin.com/school/arizona-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_400_400/company-logo_400_400/0/1631309406469?e=1785369600&v=beta&t=82NiK7T9IQaQt58VrdeA-mCnd1s2YGePuVZyEaSUP7E",
+          "title": "Arizona State University",
+          "subtitle": "BS, Department of Information Systems Club, Barrett Mentoring Program, A Cross-Generational Study of Online Information Sharing",
+          "caption": "2007 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.83"
+            }
+          ]
+        },
+        {
+          "companyId": "8830270",
+          "companyUrn": "urn:li:fsd_company:8830270",
+          "companyLink1": "https://www.linkedin.com/school/stuyvesant-high-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGcc9ovpuWFzw/company-logo_400_400/company-logo_400_400/0/1631314229693?e=1785369600&v=beta&t=R-_4WcsO5C03FgjmYf1Maagi1neD0W7pdQ7lqhgiQug",
+          "title": "Stuyvesant High School",
+          "subtitle": "null, null",
+          "caption": "2003 - 2007",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

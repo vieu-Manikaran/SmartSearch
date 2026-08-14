@@ -1,0 +1,56 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/lucas-smith-748a60132",
+  "row_key": "id:003Uk00000xfKVfIAM",
+  "person": "Lucas Smith",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:22Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACCMQigBrbWnf4AZ5OdAJispxwbbN202PBk",
+      "firstName": "Lucas",
+      "lastName": "Smith",
+      "fullName": "Lucas Smith",
+      "publicIdentifier": "lucas-smith-748a60132",
+      "headline": "Student at LHS",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Leonardtown, Maryland United States",
+      "addressWithoutCountry": "Leonardtown, Maryland",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "title": "LHS",
+          "subtitle": "null, null",
+          "caption": "2014 - 2018",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

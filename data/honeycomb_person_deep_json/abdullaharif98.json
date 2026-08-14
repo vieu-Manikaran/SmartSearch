@@ -1,0 +1,678 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/abdullaharif98",
+  "row_key": "id:003Uk00000yd3W7IAI",
+  "person": "Abdullah Arif",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:16Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACSfP6QB809p1cml_8J8U2luA7KrHa1xsH4",
+      "firstName": "Abdullah",
+      "lastName": "Arif",
+      "fullName": "Abdullah Arif",
+      "publicIdentifier": "abdullaharif98",
+      "headline": "Senior Software Engineer @Coinbase",
+      "about": "GitHub: https://github.com/abdullah-arif-swe\n👋 I'm Abdullah Arif and I love solving problems, building things and learning new things.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Windsor, Ontario Canada",
+      "addressWithoutCountry": "Windsor, Ontario",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFfIKR6K4e4BQ/profile-displayphoto-shrink_200_200/B56Zb5rUQqGsAY-/0/1747945604599?e=1785369600&v=beta&t=gf_GOEaG0BtWPWmlAY0N_l2coeV9z6nP_FSFOp2KpOk",
+      "profilePicAllDimensions": [
+        {
+          "width": 512,
+          "height": 512,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFfIKR6K4e4BQ/profile-displayphoto-shrink_800_800/B56Zb5rUQqGsAc-/0/1747945604599?e=1785369600&v=beta&t=CfN7B2hK9jXit7gABaIQNaB2XQKQB372zA1GbcRLUMU"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFfIKR6K4e4BQ/profile-displayphoto-shrink_100_100/B56Zb5rUQqGsAU-/0/1747945604485?e=1785369600&v=beta&t=-2u1A3YfU8yYcltUgJRooKAPWVz8HgBaukXQX4zmKHk"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFfIKR6K4e4BQ/profile-displayphoto-shrink_400_400/B56Zb5rUQqGsAg-/0/1747945604599?e=1785369600&v=beta&t=SaEisa6MLZmbCGouriK_enazd28pJLWEVzdFXZKrZtA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFfIKR6K4e4BQ/profile-displayphoto-shrink_200_200/B56Zb5rUQqGsAY-/0/1747945604599?e=1785369600&v=beta&t=gf_GOEaG0BtWPWmlAY0N_l2coeV9z6nP_FSFOp2KpOk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Permanent Full-time · 4 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2025 - Present · 5 mos",
+              "metadata": "Toronto, ON",
+              "description": []
+            },
+            {
+              "title": "Site Reliability Engineer",
+              "caption": "Feb 2025 - Aug 2025 · 6 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Migrated ALB-based load-shedder to Envoy to unblock the service-mesh migration. Since this was the first singleton WASM written in the company, it required setting up CI in Rust, supporting multi-region CD, setting up an observability pipeline, creating a testing framework and creating a reusable Helm library.\n• Removed custom prefix emitted by Monorepo 156 production-services & 7 teams, affecting 726 monitors, 83 SLOs, & 195 dashboards, with zero downtime.\n• Embedded with the trading API team to help them build their reliability capacity by integrating with infra tooling, creating new tools to reduce operational overhead, and building up the team's knowledge base/skills.\n• Reduced noisy alerts by ~60%, improving devx, while maintaining MTTR, by addressing root causes such as data races & tuning K8 settings, and reducing false positives by enhancing the granularity of metrics, grouping alerts. \n• Implemented a custom proto-compatibility check as a GitHub action after preventing a high-severity incident in a PR.\n• After an incident due to an uncaught panic bringing down our Go service, I created a library & linter to ensure panics are always scoped, mitigating a well-known class of bugs in Go.\n• Created a shadow-deploy tool allowing almost zero risk rollout on any idempotent endpoint in minutes, resulting in ~500k RPS being decomposed with no customer impact.\n• Migrated 11 services to the service-mesh to allow adoption of key tools, improving observability & reliability."
+                }
+              ]
+            },
+            {
+              "title": "(IC4) Software Engineer",
+              "caption": "Apr 2023 - Feb 2025 · 1 yr 10 mos",
+              "metadata": "Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Decomposed ~800 RPS over 6 GQL fields, increasing availability from 99.937% to 99.9999% & decreased latency from ~350 to ~54 ms.\n• Caught & patched a security bug with no preexisting mitigation with >$1m exposure by introducing property-based testing to our internal Users Service.\n• Created a complete migration plan of moving a legacy Rails application to a decomposed auth system and implemented an OAuth token replacer, improving validation time P99 from 211 to 36.9 ms.\n• Improved developer productivity by reducing config propagation time from 18 minutes to ~10 seconds and immediately erroring out on invalid config on the internal rate-limit service.\n• Proposed and then integrated legacy rails Monolith with Coverband, making it easy to identify unused codes, leading to the deletion of over 100k lines.\n• Re-engineered tests to prevent unindexed MongoDB queries in production.\n• Migrated protos definition across ~200 repositories by creating a tool to analyze dependency graph, generate PRs and post to Slack.\n• Improved dev availability to 99% from 87% by implementing client-scoped load-shedding via ALB rules by realizing we can implement substring searching of Base64 strings by enumerating all variations, addressing the most requested feature for our team as per our internal survey.\n• Migrated team's code out of Monorepo, decreasing CI time from ~5400 seconds to <370 seconds without downtime or end-user impact.\n• Decomposed T0 endpoint, contributing up to 83.3% of sign-in errors and brought it down to 0% propagated errors with zero downtime.\n• Conducted proactive investigation after RIF, resulting in realizing one of our client teams wouldn't be able to meet their decomposition obligation. So, I got approval from the team and my manager to decompose the endpoint, resulting in decreasing P99 latency from 182 to 62 ms for ~300 RPS.\n• Integrating Kafka with our internal Users Service, unblocking decomposition of callback in legacy Rails application"
+                }
+              ]
+            },
+            {
+              "title": "(IC3) Software Engineer",
+              "caption": "Nov 2021 - Apr 2023 · 1 yr 5 mos",
+              "metadata": "Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Decomposed 70% of the traffic on the largest internal endpoint, which serves over 800M requests per day from Ruby on Rails to Go, resulting in avg P99 latency reduction from 191 ms to <8 ms with no downtime.\n• Implemented framework for rolling out experiments in public endpoints, achieving 100% parity with the biggest legacy endpoint serving over 174M requests per day.\n• Unblocked decomposition of a critical encryption library by integrating the C dependency via Cgo and then worked with security to write a backwards-compatible port in Go while bringing the library up to modern security standards.\n• Led decomposition of internal endpoint, resulting in avg P99 reduction from 395 ms to 30 ms, using the opportunity to mentor a junior colleague implementing the new API.\n• Designed and implemented an endpoint for anonymizing and deleting user data to meet compliance requirements, requiring components to be refactored to work with partial data."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "14123",
+          "companyUrn": "urn:li:fsd_company:14123",
+          "companyLink1": "https://www.linkedin.com/school/uwindsor/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEZT5KbA1Bijg/company-logo_200_200/B4EZfWnCRqGcAI-/0/1751652247088/uwindsor_logo?e=1785369600&v=beta&t=7AeJb5y999xnZknqkXo4fqiHg-2aXzXPQ45iUOs8gqc",
+          "title": "Teaching Assistant",
+          "subtitle": "University of Windsor . Contract Part-time",
+          "caption": "Jan 2021 - Apr 2021 · 3 mos",
+          "metadata": "Windsor, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Software Development Engineer intern",
+          "subtitle": "Amazon . Internship",
+          "caption": "May 2020 - Aug 2020 · 3 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Created a tool to visualize the progress of delivery drivers using React with TypeScript, so that my team wouldn’t waste\ntime manually grepping database entries.\n• Made the application scalable so that it could handle information about\nmillions of deliveries and show the progress of active sessions in\nreal-time.\n• Integrated application with Amazon’s internal authentication system so that the application is only accessible to employees with permission."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "14123",
+          "companyUrn": "urn:li:fsd_company:14123",
+          "companyLink1": "https://www.linkedin.com/school/uwindsor/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEZT5KbA1Bijg/company-logo_200_200/B4EZfWnCRqGcAI-/0/1751652247088/uwindsor_logo?e=1785369600&v=beta&t=7AeJb5y999xnZknqkXo4fqiHg-2aXzXPQ45iUOs8gqc",
+          "title": "Research Assistant",
+          "subtitle": "University of Windsor . Contract",
+          "caption": "Feb 2020 - May 2020 · 3 mos",
+          "metadata": "Windsor, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed an online Personal Health Record system in Spring.\n• Applied a CP-ABE scheme to ensure secure fine-grained access control\nof patients’ health records using the JPBC library."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1724821",
+          "companyUrn": "urn:li:fsd_company:1724821",
+          "companyLink1": "https://www.linkedin.com/company/kognitive-sales-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQERylCFZnhj9Q/company-logo_400_400/company-logo_400_400/0/1663948331317/kognitive_marketing_logo?e=1785369600&v=beta&t=YBayLXoiSt1h36j_pcKDl3qbvhvK9cu5dSnAG_zVHSY",
+          "title": "Sales Representative",
+          "subtitle": "Kognitive Marketing . Part-time",
+          "caption": "Feb 2019 - Sep 2019 · 7 mos",
+          "metadata": "Windsor",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Create a welcoming environment in Canadian Tire stores. \n• Build and foster relationships with customers to create the best possible solution for customers. \n• Staying up to date on Canadian Tire's credit cards and their competitors to have a comprehensive understanding of our offer,\n• Understanding and managing common objections as required.\n• Using sales strategies to exceed daily, weekly, and monthly sales targets successfully."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5157706",
+          "companyUrn": "urn:li:fsd_company:5157706",
+          "companyLink1": "https://www.linkedin.com/company/joatu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGzx-3P1a4xXA/company-logo_400_400/company-logo_400_400/0/1631320555974?e=1785369600&v=beta&t=tSZToHV5jWJj71Qtyvnz5hKfBR615_KSFFl8qzwiNek",
+          "title": "Software developer",
+          "subtitle": "JoatU . Internship",
+          "caption": "Dec 2018 - May 2019 · 5 mos",
+          "metadata": "Windsor",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Created class diagrams to help the team decipher legacy code.\n• Helped translate legacy Django code to Ruby in Rails."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Sales Associate",
+          "subtitle": "Upstat Marketing . Full-time",
+          "caption": "Jun 2018 - Nov 2018 · 5 mos",
+          "metadata": "Windsor",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Won three different sales contests because of exceeding quota and closing faster.\n• Conducted follow-up telephone calls per customer requests, resulting in a 5% cancellation rate in November.\n• Created and fostered connections with clients, which increased sales from referrals.\n• Helped customize product to customers’ needs."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Access 2016: Forms and Reports",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning Spring with Spring Boot",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "UX Foundations: Usability Testing",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Ethical Hacking: Introduction to Ethical Hacking",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Spring: Test-Driven Development with JUnit",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Best use of MongoDB and best financial app",
+          "subtitle": "Issued by GrizzHacks4",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Won two prizes in GrizzHacks4 out 30+ teams for creating a deal finder for Amazon products\nhttps://github.com/abdullah-arif-swe/AmazonScrape"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cybersecurity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "14123",
+          "companyUrn": "urn:li:fsd_company:14123",
+          "companyLink1": "https://www.linkedin.com/school/uwindsor/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEZT5KbA1Bijg/company-logo_200_200/B4EZfWnCRqGcAI-/0/1751652247088/uwindsor_logo?e=1785369600&v=beta&t=7AeJb5y999xnZknqkXo4fqiHg-2aXzXPQ45iUOs8gqc",
+          "title": "University of Windsor",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "2017 - 2021",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Organizer for online auction ",
+          "subtitle": "Windsor Youth Centre ",
+          "caption": "Feb 2018 - Apr 2018 · 2 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Amazon deal finder",
+          "subtitle": "Sep 2019 - Sep 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A web-scraper project made for a Grizzhacks 4 with two other team members which scrapes product information from Amazon and then displays items that are a good deal in their respective categories. For example, if you shirt for shirts you may get a category of shirts from different brands and sizes and if their is a shirt that is a good price in its respective category then the program will print it. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Space Invader",
+          "subtitle": "Mar 2019 - Mar 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The basic game of space invaders based on the original\narcade game. It has multiple levels of varying difficulty, keeps\ntrack of the high-score and adjusts to the user's screen. Unity,\nC#, photoshop"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Password Cracker",
+          "subtitle": "Nov 2019 - Dec 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A password cracking tool with the ability to run different types of password cracking attack. The program supports brute-force attacks, dictionary attacks, mask attacks, rule-enhanced attacks as well as hybrid attacks. Furthermore, we implemented the ability to run attacks on hashed passwords as well creating an option to run a simulated rainbow table crack on the top 1000 passwords in 50 different hashed forms. Done as group for an optional final project for COMP-4670(Network Security). Python, PyQt5, password security, network security, penetration testing "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prisoner dilemma simulator",
+          "subtitle": "Nov 2019 - Dec 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked on a simulator for the classical iterated prisoner dilemma to learn about creating cooperative environments. Utilized the agent-based model for creating strategies. Done as a group for a final project for COMP 3710 (Intro to Artificial Intelligence). Artificial Intelligence(AI), Python, agent-based model, TKinter, graphics, Object-Oriented Design(OOD), "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unbeatable Tic Tac Toe",
+          "subtitle": "Oct 2019 - Oct 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Created unbeatable Tic Tac Toe Bot online to learn more about adversarial searches. Created online so it is interactive and easy for the layperson to use. Artificial intelligence(AI), web development, game development.\nSource code:  https://github.com/Aarif123456/tictactoe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "n puzzle solver",
+          "subtitle": "Oct 2019 - Oct 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Created a solver for the classic n-puzzle where you are given a n x n grid with one empty space and have to try to order the grid in ascending order. Java, Artificial Intelligence(AI), searches,  "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hogwart's library management system ",
+          "subtitle": "Aug 2019 - Sep 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "An online rendition of a library website for the fictional\nschool of Hogwarts. The website adjusts to incorporate\nmultiple users with varying privileges. For example, librarians\ncan sign out and returns books to users, whereas users can\nonly see books they already have checked out. JavaScript,\nAJAJ, CSS, HTML, PHP, SQL, CORS, git"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Multiplayer blackjack game",
+          "subtitle": "Jun 2019 - Jul 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A text-based implementation of the card game of blackjack\nusing the client-server paradigm where the dealer is the\nserver and the player is the client. Java, socket programming,\nmultithreading, swing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Naruto themed memory game",
+          "subtitle": "Feb 2019 - Feb 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Naruto themed version of the memory game where the user\ncan change setting such as difficulty, toggling sound,\nchanging time limit. Unity, C#, photoshop"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pokemon text-based battle arena",
+          "subtitle": "Oct 2015 - Oct 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A text based simulation of Pokemon battle's. Has multiple Pokemon's and deals with interaction between Pokemon's attack and Pokemon types. Made for gr. 12 assignment. Java, Object-Oriented Design (OOD), Object-Oriented Programming (OOP)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "One piece themed paint project",
+          "subtitle": "Dec 2014 - Jan 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A modified version of paint with a bunch of cool tools. Made  for gr.11 projects. Python, Pygame, graphics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unit Converter",
+          "subtitle": "Oct 2014 - Oct 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A simple graphical unit converter that converts between different units in a variety of domains: temperature, distance, bits, speed, time and area. Each domain has different units that we can convert between. For example, in temperature we can convert between Degrees, Kelvin and Fahrenheit used to complete a requirement in gr. 11 Computer technology class. Python, "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

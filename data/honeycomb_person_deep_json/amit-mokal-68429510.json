@@ -1,0 +1,353 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/amit-mokal-68429510",
+  "row_key": "id:0033l000031Q0eZAAS",
+  "person": "Amit Mokal",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAItVoQBiZ_A8qr5AJrruqwbxbYJJFeeBzQ",
+      "firstName": "Amit",
+      "lastName": "Mokal",
+      "fullName": "Amit Mokal",
+      "publicIdentifier": "amit-mokal-68429510",
+      "headline": "Observability at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Infrastructure Engineer",
+          "subtitle": "Yelp . undefined",
+          "caption": "Nov 2018 - Present · 7 yrs 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3724051",
+          "companyUrn": "urn:li:fsd_company:3724051",
+          "companyLink1": "https://www.linkedin.com/company/zineone/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFlLhQt2Z0aUQ/company-logo_400_400/company-logo_400_400/0/1694620399170/zineone_logo?e=1785369600&v=beta&t=_EhA0OPWU2VgZx71eUNBwIAqErWOrTvY3JPeCrY91Mk",
+          "title": "Principal Software Engineer",
+          "subtitle": "ZineOne . undefined",
+          "caption": "Oct 2013 - Oct 2018 · 5 yrs",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "ZineOne helps companies target their customers with the right content (in-app/push messages) to help achieve their conversion goals. \n\nImproved performance (read latency improved from minutes to milliseconds, reduced DB writes) of our campaign metrics by caching (Apache Ignite) and batching (HBase writes).\nReduced our production cluster costs (80% reduction) by identifying request rate problems in interaction between API and HBase.\nFixed SLA-breaking performance problems that slipped through the cracks into production using a deep understanding of our codebase and distributed systems to debug and deploy fixes, saving our largest contracts. \nTo secure company's significant use case, implemented the real time analytics component - including tracking events per second and product count.\nPrototyped our chat system to enable mobile customers to interact with support agents. \nBuilt various backend features for processing mobile/web events in real time."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1231",
+          "companyUrn": "urn:li:fsd_company:1231",
+          "companyLink1": "https://www.linkedin.com/company/symantec/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwqTRMsfuUsg/company-logo_400_400/B56ZWpgIAqGUAc-/0/1742305527529/symantec_logo?e=1785369600&v=beta&t=s_VWzFirgcLX2oVWQjHSUrtD-Cgsu2RqgoFunhjxewM",
+          "title": "Principal Software Engineer",
+          "subtitle": "Vontu Acquired By Symantec . undefined",
+          "caption": "Oct 2007 - Sep 2013 · 5 yrs 11 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Symantec Data Loss Prevention (DLP) is the market leading solution to discover, monitor and protect confidential data. \nRe-designed parts of the Detection Engine design to enable multiple event protocols (IM, Email, http, https) for the DLP endpoint product. \nEnhancements to content matching technologies that has helped solve customer issues. \nImproved (60% reduction) content processing time by caching results for previously detected content. \nAdvocated the use of mocking TDD and adopting mocking frameworks for Unit Testing. \nProvide technical knowledge to team members on infrastructure and application components of the product. \nInvolved in several Beta visits, gathered product feedback, debugged onsite customer issues.\nFacilitated Sales/PM teams by providing critical fixes and helped with product demonstrations."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6667",
+          "companyUrn": "urn:li:fsd_company:6667",
+          "companyLink1": "https://www.linkedin.com/company/pay-by-touch/",
+          "title": "Sr Software Engineer",
+          "subtitle": "Pay By Touch . undefined",
+          "caption": "Aug 2006 - Sep 2007 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Enabled retail customers to load high volume purchase transaction data. Significantly improved loading time using a simple partition strategy."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1092",
+          "companyUrn": "urn:li:fsd_company:1092",
+          "companyLink1": "https://www.linkedin.com/company/nortel-networks/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGXFWSgTm2pBg/company-logo_400_400/company-logo_400_400/0/1631350289128?e=1785369600&v=beta&t=6U0Oh6JespDiocZZzNmKvI9yQ4_MgQkoec6J7FLRzfA",
+          "title": "Sr. Software Engineer",
+          "subtitle": "Nortel Networks . undefined",
+          "caption": "Jan 2001 - Jul 2006 · 5 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led the Fault management, Asset management and messaging components of the enterprise network management portfolio."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5259",
+          "companyUrn": "urn:li:fsd_company:5259",
+          "companyLink1": "https://www.linkedin.com/company/nexxtinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEbI06t9JbuIw/company-logo_400_400/company-logo_400_400/0/1631308537111?e=1785369600&v=beta&t=0xL7teHmtcx9cbvm6YCcFBw-LyDzFMGm4fAO4MJNlyY",
+          "title": "Software Engineer",
+          "subtitle": "Beyond.com . undefined",
+          "caption": "Nov 1999 - Jan 2001 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for maintaining the order processing system built for processing purchase orders, forwarding them to the distributors and notifying the customer with the shipping and billing information"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Motorola . undefined",
+          "caption": "Jun 1998 - Nov 1999 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Enhancement for Short Message Feature (SMS) used to page mobile phones to deliver text messages from Message centers."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Introduction to Data Science",
+          "subtitle": "Coursera",
+          "issued": "Issued Jun 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architectures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Big Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Enterprise Edition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4695",
+          "companyUrn": "urn:li:fsd_company:4695",
+          "companyLink1": "https://www.linkedin.com/school/michigan-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFx0VIjYYSXBw/company-logo_400_400/company-logo_400_400/0/1645471386372/michigan_state_university_logo?e=1785369600&v=beta&t=Eqyx18kZnTVLn6fJ0mp9ljTUi6spsREoAPBs80AbbR0",
+          "title": "Michigan State University",
+          "subtitle": "Master's degree, Computer Engineering",
+          "caption": "1996 - 1998",
+          "subComponents": []
+        },
+        {
+          "companyId": "15093732",
+          "companyUrn": "urn:li:fsd_company:15093732",
+          "companyLink1": "https://www.linkedin.com/school/university-of-mumbai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsu_DimiqUow/company-logo_400_400/company-logo_400_400/0/1631357817785?e=1785369600&v=beta&t=wLcrCokQmXW4ukjNCATsWCwyc_0u1MlqNVpe4j3Oipw",
+          "title": "University of Mumbai",
+          "subtitle": "Bachelor's degree, Electrical and Electronics Engineering",
+          "caption": "1991 - 1995",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

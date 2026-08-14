@@ -1,0 +1,202 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/mathias-haberland-8b7bb58b",
+  "row_key": "id:003Uk00000zTpnDIAS",
+  "person": "Mathias Haberland",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:47:06Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABM4lcsBkp9rYqlQ2DLFvI7TxH0BxkG7x6o",
+      "firstName": "Mathias",
+      "lastName": "Haberland",
+      "fullName": "Mathias Haberland",
+      "publicIdentifier": "mathias-haberland-8b7bb58b",
+      "headline": "IT-arkitekt på ICA Gruppen",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "SE",
+        "language": "sv"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Greater Stockholm Metropolitan Area Sweden",
+      "addressWithoutCountry": "Greater Stockholm Metropolitan Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "IT-arkitekt",
+          "subtitle": "ICA Gruppen . undefined",
+          "caption": "May 2020 - Present · 5 yrs 8 mos",
+          "metadata": "Solna, Stockholm, Sverige",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "35464528",
+          "companyUrn": "urn:li:fsd_company:35464528",
+          "companyLink1": "https://www.linkedin.com/company/svenska-digital-ab/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGc-L_0fE7uSw/company-logo_400_400/company-logo_400_400/0/1630637631438/svenska_digital_ab_logo?e=1785369600&v=beta&t=ZO2KilXgioCMPKDFobc6pNtdS7-xjDiWgW8mYmw-iBw",
+          "title": "Associate, CIO",
+          "subtitle": "Svenska Digital AB . undefined",
+          "caption": "2019 - May 2020 · 1 yr 4 mos",
+          "metadata": "Stockholms län, Sverige",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1194073",
+          "companyUrn": "urn:li:fsd_company:1194073",
+          "companyLink1": "https://www.linkedin.com/company/arco-telesystem-ab/",
+          "title": "Associate, COO",
+          "subtitle": "Arco Telesystem AB . undefined",
+          "caption": "2003 - 2018 · 15 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Tekniskt ledarskap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Försäljning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Affärsutveckling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT-strategi",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TCP/IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SaaS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Juniper Technologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco IOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Barracuda Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Molnhantering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video över IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IPTV",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

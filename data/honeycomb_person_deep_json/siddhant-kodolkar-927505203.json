@@ -1,0 +1,592 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/siddhant-kodolkar-927505203",
+  "row_key": "id:003Uk00000yaJ6VIAU",
+  "person": "Siddhant Kodolkar",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:19:07Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADPd0u8BgZW-svqYUfCgfpxf1cDjy_VnrFI",
+      "firstName": "Siddhant",
+      "lastName": "Kodolkar",
+      "fullName": "Siddhant Kodolkar",
+      "publicIdentifier": "siddhant-kodolkar-927505203",
+      "headline": "Software Engineer | Agentic AI Systems and Workflows, Frontend, Fullstack, Backend, AI/ML, GenAI, Cloud (AWS, Docker), React, Nextjs, Python, FastAPI, JavaScript, TypeScript, SQL, Java",
+      "about": "Focused on designing agentic AI workflows that coordinate complex tasks with verifiable outputs, retrieval pipelines that make large document and data corpora queryable at enterprise scale, and backend architectures that hold up under real operational load. Recent work includes integrating LLM APIs (Anthropic Claude, OpenAI) into production pipelines with structured output parsing and audit-log emission, building async Python backends with PostgreSQL and MongoDB, and shipping React/TypeScript dashboards for live data exploration. Deployed across AWS with Docker and CI/CD throughout. Also experienced in ML model development and deployment (Scikit-learn, PySpark), with projects spanning fintech, observability, and autonomous driving. Specialties: Agentic AI Systems, LLM Integration, Full Stack Engineering, Retrieval Pipelines, Backend Architecture, Data Engineering, Cloud Infrastructure Technical Skills: Programming: Python, TypeScript, JavaScript, SQL, C++ Frameworks: FastAPI, React, Next.js, Node.js Databases: PostgreSQL, MongoDB, Redis, Redshift Cloud and Tools: AWS (S3, EC2, Lambda), Docker, Kubernetes, Airflow, GitHub Actions AI and Retrieval: Anthropic Claude API, OpenAI API, LLM agent orchestration, RAG pipelines, vector retrieval ML and Analytics: Scikit-learn, PySpark, Pandas, NumPy, Tableau",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United States",
+      "addressWithoutCountry": "United States",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHnfaDjwMQScA/profile-displayphoto-scale_400_400/B56Z83_bW2H4Ag-/0/1783350802525?e=1785369600&v=beta&t=8YbXG4bFPFaJH3H-uTJleWNIvQO8Izkut03slkEMOMs",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQFGY1416CVyJw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736544758650?e=1785369600&v=beta&t=-rU9x9GWnPR_lKoff-FgfaUnXaAx2VvoOHBRSaRkpmY",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHnfaDjwMQScA/profile-displayphoto-scale_200_200/B56Z83_bW2H4Ac-/0/1783350802525?e=1785369600&v=beta&t=lxVvGwUFj2LTuZpTZP5_6J5hoXHJ-Sujepsh4CfxJ98"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHnfaDjwMQScA/profile-displayphoto-scale_100_100/B56Z83_bW2H4AY-/0/1783350802525?e=1785369600&v=beta&t=0Nsj7EoZT57RTaRd30lrhCEG98_n9HZW9FYxgXtKAsQ"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHnfaDjwMQScA/profile-displayphoto-crop_800_800/B56Z83_bW2H4AI-/0/1783350802525?e=1785369600&v=beta&t=wHMPnUftQzZwccGtnvqzX4s6E1ouSpEeTMz9PosTc_A"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHnfaDjwMQScA/profile-displayphoto-scale_400_400/B56Z83_bW2H4Ag-/0/1783350802525?e=1785369600&v=beta&t=8YbXG4bFPFaJH3H-uTJleWNIvQO8Izkut03slkEMOMs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQFGY1416CVyJw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1736544758650?e=1785369600&v=beta&t=roCQw_bV1fKEAhD95N1OYjPK_Q5pkqfv3Mk7mAhi1d0"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQFGY1416CVyJw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736544758650?e=1785369600&v=beta&t=-rU9x9GWnPR_lKoff-FgfaUnXaAx2VvoOHBRSaRkpmY"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Software Developer Capstone Project – Team Lead",
+          "subtitle": "Medtronic . Part-time",
+          "caption": "Sep 2025 - Apr 2026 · 7 mos",
+          "metadata": "Lafayette, CO",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I am leading the development of an Engineering Development Tool under Anthony Ricke's and JD Allen’s Guidance for Medtronic’s Robotic Surgical Technologies team, where we are building real-time data acquisition and 3D visualization features for electromagnetic sensor data used in lung navigation procedures. I oversee integration of multi-node EM sensor streams with a CT-based 3D lung model to enable calibration, registration, and catheter tracking in the LUNA system. I am also designing modular React.js interfaces for synchronized data streaming, visualization, and diagnostic logging to achieve sub-100ms latency and support efficient performance analysis for robotic control teams."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "HTML and CSS in depth",
+          "subtitle": "Meta",
+          "issued": "Issued May 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "React Native",
+          "subtitle": "Meta",
+          "issued": "Issued Jan 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Developing Back-End Apps with Node.js and Express",
+          "subtitle": "IBM",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "783611",
+          "companyUrn": "urn:li:fsd_company:783611",
+          "companyLink1": "https://www.linkedin.com/company/mongodbinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFKe8PwqzyHyA/company-logo_400_400/company-logo_400_400/0/1635171226992/mongodbinc_logo?e=1785369600&v=beta&t=uljlf8CWlpmKWKw4zJXtlZi14XRTfMawtWU3cRvpzkw",
+          "title": "Introduction to MongoDB",
+          "subtitle": "MongoDB",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Programming with JavaScript",
+          "subtitle": "Meta",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "React Basics",
+          "subtitle": "Meta",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Introduction to Front-End Development",
+          "subtitle": "Meta",
+          "issued": "Issued Nov 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Introduction to NoSQL Databases",
+          "subtitle": "IBM",
+          "issued": "Issued Oct 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18246783",
+          "companyUrn": "urn:li:fsd_company:18246783",
+          "companyLink1": "https://www.linkedin.com/company/deeplearningai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1785369600&v=beta&t=TLw0-fZUMTgzf9MLtDPCB8VmOAewjJfZ2yaVbPGkkBw",
+          "title": "Natural Language Processing with Classification and Vector Spaces",
+          "subtitle": "DeepLearning.AI",
+          "issued": "Issued Oct 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18246783",
+          "companyUrn": "urn:li:fsd_company:18246783",
+          "companyLink1": "https://www.linkedin.com/company/deeplearningai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1785369600&v=beta&t=TLw0-fZUMTgzf9MLtDPCB8VmOAewjJfZ2yaVbPGkkBw",
+          "title": "Supervised Machine Learning: Regression and Classification",
+          "subtitle": "DeepLearning.AI",
+          "issued": "Issued Sep 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Crash Course on Python",
+          "subtitle": "Google",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Introduction to Back-End Development",
+          "subtitle": "Meta",
+          "issued": "Issued Jan 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Introduction to Cloud Computing",
+          "subtitle": "IBM",
+          "issued": "Issued Jan 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marathi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentation Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Organization Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technological Solutions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Technologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Decisiveness",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OAuth",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oral Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Docs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Server Side",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Debugging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3771",
+          "companyUrn": "urn:li:fsd_company:3771",
+          "companyLink1": "https://www.linkedin.com/school/cuboulder/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_400_400/company-logo_400_400/0/1631322902142?e=1785369600&v=beta&t=dFkb9NDzQ3PAOhS_uEDV6-tGgEh0v-RFmQKsTDWkUmk",
+          "title": "University of Colorado Boulder",
+          "subtitle": "Master's degree, Computer Science with a focus in Software Systems and Cloud Computing",
+          "caption": "Aug 2024 - May 2026",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.87/4"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Courses:\n\nFall 2024 :\nCSCI 5454: Design and Analysis of Algorithms\nCSCI 5502: Data Mining\nCSCI 5817: Database Systems\n\nSpring 2025:\nCSCI 5214: Big Data Architecture \nCSCI 5828: Foundations of Software Engineering \n\nSummer 2025:\nCSCI 5403: Cybersecurity\n\nFall 2025:\nCSCI 5413 : Computer Security and Ethical Hacking\nCSCI 5040 : Professional Masters Project I\n\nSpring 2026:\nCSCI 5722 : Computer Vision\nCSCI 5050 : Professional Masters Project 2"
+            }
+          ]
+        },
+        {
+          "companyId": "15144827",
+          "companyUrn": "urn:li:fsd_company:15144827",
+          "companyLink1": "https://www.linkedin.com/school/vivekanand-education-society%27s-institute-of-techno/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFaNtnsz5gF8A/company-logo_400_400/company-logo_400_400/0/1684850903042/vivekanand_education_societys_institute_of_techno_logo?e=1785369600&v=beta&t=0LPsyM9XTDWcfHIUxQXOntGFlszN_wS5zqi5_TJI32Y",
+          "title": "Vivekanand Education Society's Institute Of Technology",
+          "subtitle": "Bachelor of Engineering - BE , Computer Science with a focus in Artificial Intelligence and Machine Learning",
+          "caption": "2020 - 2024",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "GPA : 3.86/4"
+            }
+          ]
+        },
+        {
+          "title": "Hiranandani Foundation School Thane",
+          "subtitle": "null, Computer Science",
+          "caption": "2012 - 2020",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "CineStellation",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A constellation-style, full-stack movie recommendation app that blends ML-based suggestions with immersive graph visualizations."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cognitive Assessment using EEG data",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A Brain Computer Interface to predict attention span based on EEG data."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Enrobe",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "An E-Commerce Web Application that uses various Cloud Computing services such as Azure Blob Storage(IaaS), Azure SQL Database(PaaS) and Azure Active Directory (SaaS)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "VitalSense",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Full-stack healthcare platform for real-time vitals monitoring, patient history visualization, and secure cloud-based provider access"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

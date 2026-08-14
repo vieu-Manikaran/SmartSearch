@@ -21,6 +21,9 @@ EMAIL_ENRICHMENT_EXTRA_COLUMNS = [
     "All_Work_Emails",
     "Job_Title",
     "Enrichment_Status",
+    "Email_Source",
+    "Molster_Risk_Score",
+    "Molster_Last_Validated_At",
 ]
 
 STATUS_PENDING = "pending"
@@ -71,6 +74,7 @@ def create_job(rows: list[dict[str, Any]], recipient_email: str) -> str:
             "rows_processed": 0,
             "pending_enrichment_id": "",
             "pending_batch_start": -1,
+            "pending_fullenrich_indexes": [],
         },
     )
     logger.info("Created email enrichment job %s (%s rows) for %s", job_id, len(rows), recipient_email)
@@ -151,6 +155,9 @@ def write_results_csv(path: Path, rows: list[dict[str, Any]]) -> None:
                     "All_Work_Emails": row.get("all_work_emails") or "",
                     "Job_Title": row.get("job_title") or "",
                     "Enrichment_Status": row.get("status") or "",
+                    "Email_Source": row.get("email_source") or "",
+                    "Molster_Risk_Score": row.get("molster_risk_score") or "",
+                    "Molster_Last_Validated_At": row.get("molster_last_validated_at") or "",
                 }
             )
             writer.writerow(out)
@@ -194,6 +201,10 @@ def _empty_result_row(row: dict[str, Any]) -> dict[str, Any]:
         "all_work_emails": "",
         "job_title": "",
         "status": "not_enriched",
+        "email_source": "",
+        "molster_status": "",
+        "molster_risk_score": "",
+        "molster_last_validated_at": "",
     }
 
 

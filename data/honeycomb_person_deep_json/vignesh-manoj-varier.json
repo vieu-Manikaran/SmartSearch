@@ -1,0 +1,671 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/vignesh-manoj-varier",
+  "row_key": "id:003Uk00000yaBWoIAM",
+  "person": "Vignesh Varier",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:18:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABVdChQBsyzsk3FdA2PS0ZkvIJYCwjV-QMA",
+      "firstName": "Vignesh Manoj",
+      "lastName": "Varier",
+      "fullName": "Vignesh Manoj Varier",
+      "publicIdentifier": "vignesh-manoj-varier",
+      "headline": "Principal Software Systems Engineer at Medtronic Surgical Robotics Division",
+      "about": "Experienced Robotics Engineer with a demonstrated history of working in the medical and food tech industry. Skilled in Python, C++, Simulink, Matlab, ROS, SolidWorks, CATIA, Strategic Planning, Raspberry Pi and Arduino. Strong engineering professional with a B.E. focused in Mechanical Engineering from Sir MVIT and MS in Robotics Engineering degree from Worcester Polytechnic Institute. \nMy interest is towards surgical robotics and I plan to focus on developing advancements in medical technology through my interest in robotics.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Research",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New Haven, Connecticut United States",
+      "addressWithoutCountry": "New Haven, Connecticut",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 5 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Systems Engineer",
+              "caption": "Sep 2024 - Present · 1 yr 4 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Software Systems Engineer",
+              "caption": "Dec 2022 - Sep 2024 · 1 yr 9 mos",
+              "metadata": "United States",
+              "description": []
+            },
+            {
+              "title": "Software Engineer II - Surgical Robotics Division",
+              "caption": "Jun 2020 - Dec 2022 · 2 yrs 6 mos",
+              "metadata": "North Haven, Connecticut, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2403938",
+          "companyUrn": "urn:li:fsd_company:2403938",
+          "companyLink1": "https://www.linkedin.com/company/wpi-aim-lab/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGttdDY7Sysiw/company-logo_400_400/company-logo_400_400/0/1631338393503?e=1785369600&v=beta&t=RUz1Ldq_eEJjBQyvxsx_WxlQMSjCfxTG5sUqAHFhKHE",
+          "title": "WPI AIM Lab",
+          "subtitle": "undefined · 1 yr 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Research Assistant",
+              "caption": "Sep 2019 - May 2020 · 8 mos",
+              "metadata": "Worcester Polytechnic Institute",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Pursuing Master's Thesis on the topic \"Towards Automated Suturing of Soft Tissue: Automating Suturing Handoff Task for da Vinci Research Kit Arm using Reinforcement Learning\", under the guidance of Prof. Gregory Fischer \nThis project is supported by the National Science Foundation (NSF) through National Robotics Initiative (NRI) grant: IIS-1637759 and NSF AccelNet grant ​"
+                }
+              ]
+            },
+            {
+              "title": "Researcher",
+              "caption": "Jan 2019 - Sep 2019 · 8 mos",
+              "metadata": "Worcester, Massachusetts",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Directed research under the guidance of Prof. Fischer. I am working on Improving External Force Response and Dynamic Model Estimation of dVRK Manipulators by using Sensor-Fusion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "7814",
+          "companyUrn": "urn:li:fsd_company:7814",
+          "companyLink1": "https://www.linkedin.com/school/worcester-polytechnic-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGZvFtjPIJQBw/company-logo_100_100/B4EZg32CJSHoAY-/0/1753283568663/worcester_polytechnic_institute_logo?e=1785369600&v=beta&t=TvfPolZaiWvkcAx8uyb3nk95HzUFyKx4fmMTILxqKjE",
+          "title": "Campus Safety Transportation Program Employee ",
+          "subtitle": "Worcester Polytechnic Institute . undefined",
+          "caption": "Sep 2018 - May 2020 · 1 yr 8 mos",
+          "metadata": "Worcester, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "WPI On-Campus Job:  Working under the WPI Police Department as a Student Night Assistance Patrol Call Taker"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "R&D Intern",
+          "subtitle": "Medtronic . undefined",
+          "caption": "May 2019 - Aug 2019 · 3 mos",
+          "metadata": "North Haven,  Connecticut",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed Error Debugging Tool for the Medtronic Surgical Robot based on it's source code and Established database for Robot Failure Analysis (part of Medtronic's Minimally Invasive Therapies Group)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13403644",
+          "companyUrn": "urn:li:fsd_company:13403644",
+          "companyLink1": "https://www.linkedin.com/company/hyperworks-imaging/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEKVuE4gUYnjQ/company-logo_400_400/company-logo_400_400/0/1631310843835?e=1785369600&v=beta&t=JP_oVJRwJKC2N1NVZ4_qNZRkNtbBaAmWWJe23W6Z1rc",
+          "title": "Mechatronics Engineer",
+          "subtitle": "HyperWorks Imaging . undefined",
+          "caption": "Sep 2017 - May 2018 · 8 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "1. Hardware and software for an automated grocery-checkout-basket prototype\n2. Design cameras and power systems for retail check out\n3. Connect systems to computer/mobile applications and account for heat generation, manufacturing constraints\n4. Work with TensorFlow and other CNN’s to implement deep learning\n5. Design, develop, and integrate the state of the hardware for retail and agricultural technology\n6. Prototype of a mobile-phone microscope which uses on-board camera flash and ambient light"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "39881",
+          "companyUrn": "urn:li:fsd_company:39881",
+          "companyLink1": "https://www.linkedin.com/company/toyota-kirloskar-motor/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEgwVOzg8aEMQ/company-logo_100_100/company-logo_100_100/0/1630651214379/toyota_kirloskar_motor_logo?e=1785369600&v=beta&t=L0cohF2LrY_UTNWKvorSbQBHTkb7aV2PtXgVwfB_AnA",
+          "title": "Project Trainee",
+          "subtitle": "Toyota Kirloskar Motor . undefined",
+          "caption": "Jan 2017 - Feb 2017 · 1 mo",
+          "metadata": "Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked in the Die Maintenance Department and handled multiple projects:\n1. Designed a swivelling eyebolt suitable for lifting inclined loads (ensuring no failure) using CATIA\n2. Helped design of non-contact based diffused proximity sensor system to detect part unloading\n3. Establishment of KPI(Key Performance Indicator) Tree for the Department"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "12266",
+          "companyUrn": "urn:li:fsd_company:12266",
+          "companyLink1": "https://www.linkedin.com/company/bharat-electronics/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHp5ybAOyo31Q/company-logo_400_400/company-logo_400_400/0/1631303499098?e=1785369600&v=beta&t=ztua_VCYvILhf-kwmYYRCM_JqgU1iYL2nTF2ON5VDUU",
+          "title": "Intern",
+          "subtitle": "Bharat Electronics . undefined",
+          "caption": "Jan 2016 - Feb 2016 · 1 mo",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Assigned Projects at the Department of Product Development & Innovation Centre\n1. Designed, analyzed and fabricated 3D-printed Pocket Fan using FDM technique\n2. Modeled body of an Army Tank using SolidWorks\n3. Time and motion study of production line"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "15249581",
+          "companyUrn": "urn:li:fsd_company:15249581",
+          "companyLink1": "https://www.linkedin.com/school/sir-m-visvesvaraya-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG9AfUVQCZV-A/img-crop_100/B56Z6q_2KrIoAM-/0/1780985324468?e=1785369600&v=beta&t=1gCRtwBunKdKpskLfj9HYN9nxa4O1FcA6XQksWAHdiQ",
+          "title": "Design of Experiments and Optimization Techniques",
+          "subtitle": "Sir M Visvesvaraya Institute Of Technology",
+          "issued": "Issued Mar 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems and Robotics",
+          "subtitle": "EISystems Technologies",
+          "issued": "Issued Jul 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automobile Mechanics and IC Engines",
+          "subtitle": "EISystems Technologies",
+          "issued": "Issued Mar 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "17982098",
+          "companyUrn": "urn:li:fsd_company:17982098",
+          "companyLink1": "https://www.linkedin.com/company/educaddco/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHTGnGfli2lbg/company-logo_400_400/company-logo_400_400/0/1630599674118/educadd_learning_solutions_pvt_ltd_logo?e=1785369600&v=beta&t=BQMGrWZ7e0ju4M0z93JI-P9qQTjNOc-07AVCVxRXAJ8",
+          "title": "CATIA",
+          "subtitle": "EduCADD Learning Solutions Pvt. Ltd.",
+          "issued": "Issued Jan 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "Certified SAFe 5 Product Owner/Product Manager",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Aug 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kannada",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Malayalam",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tamil",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Simulink",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Root Cause Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electronics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Defect Triage",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CATIA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Drawing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Creative Writing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Photoshop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SolidWorks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solid Edge",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Arduino",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Word",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "7814",
+          "companyUrn": "urn:li:fsd_company:7814",
+          "companyLink1": "https://www.linkedin.com/school/worcester-polytechnic-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGZvFtjPIJQBw/company-logo_100_100/B4EZg32CJSHoAY-/0/1753283568663/worcester_polytechnic_institute_logo?e=1785369600&v=beta&t=TvfPolZaiWvkcAx8uyb3nk95HzUFyKx4fmMTILxqKjE",
+          "title": "Worcester Polytechnic Institute",
+          "subtitle": "Master's degree, WPI Ballroom Dance Team\nWPI Magic Club\nWPI Society of Martial Arts ",
+          "caption": "2018 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.93/4"
+            }
+          ]
+        },
+        {
+          "title": "Sir MVIT",
+          "subtitle": "Bachelor of Technology (B.Tech.), Mechanical Engineering",
+          "caption": "2013 - 2017",
+          "subComponents": []
+        },
+        {
+          "title": "Air Force School",
+          "subtitle": "null, Debate,Dance,Sports,Skits,Singing,Art",
+          "caption": "2004 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Medicine Name Orator Program For Visually Imparied",
+          "subtitle": "Nov 2017 - Nov 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A python program which orates medicine names for visually impaired people using OCR technique\nUsing OpenCV, Tesseract for detection and uses gTTS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3-DOF Robotic Arm with Image Recognition Using Deep Learning",
+          "subtitle": "Jul 2017 - Jul 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Robotic arm which automatically finds and predicts an optimized route to pick up an object given by voice command\nObjects detected using TensorFlow (Object Detection API) and route selected using Machine Learning Algorithms"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Development of Pneumatically Powered Upper Body Exoskeleton",
+          "subtitle": "Apr 2017 - Apr 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Built a wearable prototype of upper body exoskeleton useful for assistive lifting and reducing body strain while carrying heavy load\nCost of Exosuit: $230 only, Tested Load Bearing Capacity: 35kgs\nInnovations include use of 5/3 double solenoid valve for intermediate positioning of arms"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Variable Volume RF Controlled Miniature Car Model",
+          "subtitle": "Oct 2015 - Oct 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Built a mini-car using radio frequency and arduino with key feature of flexibility, size, volume based on occupancy & space availability\nContains IR sensors for detecting obstacles in proximity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mobile and Laptop Controlled Robot Using DTMF Decoder, UART",
+          "subtitle": "Jul 2015 - Jul 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Mobile controlled robot using DTMF decoder for purposes such as activation/deactivation\nRobot controlled through keyboard for asynchronous transmissions using Universal Asynchronous Receiver/Transmitter (UART)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deep-learning-assisted diagnosis for knee MRI with application of Convolutional Neural Network  and Generative Adversial Networks",
+          "subtitle": "Sep 2019 - Dec 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Worcester Polytechnic Institute"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Implemented ResNet deep learning model to classify Knee MRI (Magnetic Resonance Imaging) to one of the three categories: Abnormalities,  ACL tears and Meniscal tears.\nAlso implemented DCGAN (Deep Convolutional Generative Adversarial Networks) to generate knee MRI images and its discriminator to classify the images as real or fake. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Improving External Force Response and Dynamic Model Estimation of dVRK (da Vinci Research Kit) Manipulators by using Sensor-Fusion",
+          "subtitle": "Jan 2019 - Sep 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Worcester Polytechnic Institute"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Improving External Force Response and Dynamic Model Estimation of dVRK (da Vinci Research Kit) PSM (patient side manipulator) by using Sensor-Fusion. It involves working with ROS, dVRK, Raspberry Pi, Accelerometers, Gazebo, RViz\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Active and Passive version of RoboPuppet for Telenursing Applications using Baxter Robot",
+          "subtitle": "Oct 2018 - May 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Worcester Polytechnic Institute"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Part of the team which developed the active version of robopuppet which could be used to control the Baxter robot (Rethink Robotics).  The design accounts for gravity compensation and haptic feedback."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Development of Active Knee for Lower Limb Exoskeleton",
+          "subtitle": "Oct 2018 - Dec 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Worcester Polytechnic Institute"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "This project aims to expand on an existing lower limb exoskeletons by adding an active knee joint. The knee will be able to supplement functional electronic stimulation (FES) of the patient’s leg muscles, adding any additional required force to help the patient complete common activities of daily living (ADLs). "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kinematic And Dynamic Analysis of Baxter Robot ",
+          "subtitle": "Oct 2018 - Dec 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Worcester Polytechnic Institute"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Study of Baxter Robot (Rethink Robotics) including forward and inverse kinematics, and dynamic analysis for pick and place applications."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/thomas-nyberg-6b349559",
+  "row_key": "id:003Uk00000ypyiwIAA",
+  "person": "Thomas Nyberg",
+  "account": "Midjourney",
+  "fetched_at": "2026-07-14T10:21:24Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAxZ_qcBlVv12ctb1pLXayc0kjvk-xSrX9E",
+      "firstName": "Thomas",
+      "lastName": "Nyberg",
+      "fullName": "Thomas Nyberg",
+      "publicIdentifier": "thomas-nyberg-6b349559",
+      "headline": "Software Engineer, PhD Mathematics",
+      "about": "I am a Prague-based mathematician turned software engineer specializing in databases, distributed systems and infrastructure in general.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Czechia",
+      "addressWithCountry": "Prague Czechia",
+      "addressWithoutCountry": "Prague",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQFZkH29Oo7qGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517271115321?e=1785369600&v=beta&t=x7E84gloxh8m2aqNiGyvkDQRXGEXs6ACC-BNYYCuiiM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFZkH29Oo7qGg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517271115305?e=1785369600&v=beta&t=TMWqu8OlM2nMIt_ofDsC5Q4rC57OwrkTeQxDfessVUI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFZkH29Oo7qGg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517271115277?e=1785369600&v=beta&t=Ayi9o08ryx5S-TLC8DgKwtcEJZ0ICjRifekBRZ2k9WA"
+        },
+        {
+          "width": 240,
+          "height": 240,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFZkH29Oo7qGg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517271115858?e=1785369600&v=beta&t=EV5Gp-uWPrjkn4x6aBo-DPC80v-fP1TOVNGplnKJIfE"
+        },
+        {
+          "width": 240,
+          "height": 240,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFZkH29Oo7qGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517271115321?e=1785369600&v=beta&t=x7E84gloxh8m2aqNiGyvkDQRXGEXs6ACC-BNYYCuiiM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "82318617",
+          "companyUrn": "urn:li:fsd_company:82318617",
+          "companyLink1": "https://www.linkedin.com/company/midjourney/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdHwWJr1YZhg/company-logo_400_400/company-logo_400_400/0/1697570621105/midjourney_logo?e=1785369600&v=beta&t=ElVxt5ls8qroFbwD7FQPIaTQ15Aqv5XDw7EM4RZBPOU",
+          "title": "Principal Engineer",
+          "subtitle": "Midjourney . Full-time",
+          "caption": "Nov 2021 - Present · 4 yrs 2 mos",
+          "metadata": "Prague, Czechia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Consulting",
+          "subtitle": "Private . Full-time",
+          "caption": "Aug 2021 - Jun 2022 · 10 mos",
+          "metadata": "Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "86944",
+          "companyUrn": "urn:li:fsd_company:86944",
+          "companyLink1": "https://www.linkedin.com/company/unitedlex/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEkPTR-VYOazA/company-logo_200_200/B4EZVion.VGgAM-/0/1741116571836/unitedlex_logo?e=1785369600&v=beta&t=LACsxXQIAMMKaxoURG1dj489V6L1ecQi3I_ONTIWef8",
+          "title": "Manager, Computing",
+          "subtitle": "UnitedLex . Full-time",
+          "caption": "Jun 2020 - Aug 2021 · 1 yr 2 mos",
+          "metadata": "Stockholm, Stockholm County, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Integrated machine learning, artificial intelligence and human augmentation systems into the UnitedLex's software and hardware ecosystem, as well as founded and developed an Idea Factory Lab with the broader research mandate of creating the \"information office and system of the future.\""
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "54205",
+          "companyUrn": "urn:li:fsd_company:54205",
+          "companyLink1": "https://www.linkedin.com/company/b3it/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEAlW02qGliKA/company-logo_200_200/B4DZ6m0oaAKgAE-/0/1780915275622/b3it_logo?e=1785369600&v=beta&t=S2EusZkc02HdjS0la6ZMvyfh_uO1C5VipuHSVheIxIc",
+          "title": "Consultant",
+          "subtitle": "B3 Consulting Group . Full-time",
+          "caption": "Aug 2018 - Jun 2020 · 1 yr 10 mos",
+          "metadata": "Stockholm, Stockholm County, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked with various organizations on different projects including Windows, Android and Linux application development and debugging, machine learning and statistical modeling, PKI infrastructure and implementation, and data operations. Languages used included Python, C++, golang, and bash. Mainly worked within AWS and GCP and at times with dedicated hardware and infrastructure."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6303",
+          "companyUrn": "urn:li:fsd_company:6303",
+          "companyLink1": "https://www.linkedin.com/company/paul-hastings/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEmSvW8ysWXbQ/company-logo_400_400/company-logo_400_400/0/1723130135691/paul_hastings_logo?e=1785369600&v=beta&t=cJ5DdPc9R-w_ydwtDX7yvpeRQEeHQgvHZj-Ml8NthXg",
+          "title": "Manager, Data Science and Analysis",
+          "subtitle": "Paul Hastings . Part-time",
+          "caption": "Mar 2016 - Jun 2020 · 4 yrs 3 mos",
+          "metadata": "New York, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Used data science techniques to find and rank documents relevant to ongoing legal matters in close conjunction with legal teams to form an effective partnership of technological skills and domain expertise. Gave internal educational lectures in order to help the internal legal teams better understand the technical capabilities of data scientists as well has how they fit in into legal work in general."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Chief Technology Officer",
+          "subtitle": "Merriam Tech Inc. . undefined",
+          "caption": "Mar 2015 - Jul 2019 · 4 yrs 4 mos",
+          "metadata": "NYC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "https://www.merriamtech.com/\n\nImplemented a high-performance statistical engine in C++ exposed by an intuitive Python API. Employed statistical modeling to develop high-performance algorithms. Built and managed our infrastructure both within AWS and private co-located physical servers protected by PKI encryption. The architecture I designed used custom debian repositories and packaging integrated with systemd for resilience and maintainability."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2624",
+          "companyUrn": "urn:li:fsd_company:2624",
+          "companyLink1": "https://www.linkedin.com/school/columbia-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_400_400/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1785369600&v=beta&t=SSmGfqT793RocawXXcyCKzH_gUYc5-G8LDmXnt4XDNs",
+          "title": "Columbia University",
+          "subtitle": "undefined · 7 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Postdoctoral Researcher in Statistics",
+              "caption": "Jun 2014 - Dec 2015 · 1 yr 6 mos",
+              "metadata": "New York, New York",
+              "description": []
+            },
+            {
+              "title": "PhD Student",
+              "caption": "Oct 2008 - May 2014 · 5 yrs 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Research: Thesis work is in Complex Geometry and Partial Differential Equations.\n• Teaching: Gave all lectures in and designed homeworks and exams for the courses: Analysis and Optimization and Calculus I (four times). Worked as a teacher’s assistant for the courses: Analysis and Optimization, Numerical Methods in Finance, Complex Analysis, Modern Geometry I and II, and Introduction to Higher Math."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Consultant",
+          "subtitle": "Helioflow Inc. . undefined",
+          "caption": "Dec 2012 - May 2013 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed statistical computer models to ascertain the efficiency of different designs of solar thermal power plants. I mainly used python, numpy, matplotlib, and Markov simulations for this project."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2843",
+          "companyUrn": "urn:li:fsd_company:2843",
+          "companyLink1": "https://www.linkedin.com/school/university-of-california/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFLluJAGxfA5A/company-logo_400_400/B4EZnzEyFCKwAg-/0/1760719741903/university_of_california_logo?e=1785369600&v=beta&t=vkNQPhDHaeA6A3E_CCk3UzDQQS1oylHK48SA9BsP9sE",
+          "title": "Teacher's Assistant",
+          "subtitle": "University of California . undefined",
+          "caption": "Oct 2006 - Oct 2007 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11419",
+          "companyUrn": "urn:li:fsd_company:11419",
+          "companyLink1": "https://www.linkedin.com/company/general-atomics/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXKf8iWriBbg/company-logo_400_400/B56ZVsTvDvGoAg-/0/1741278868015/general_atomics_logo?e=1785369600&v=beta&t=kwbgDdF0WmyErneDhl_jjn207ctDWWbDbF4xfSooy1g",
+          "title": "Intern",
+          "subtitle": "General Atomics . undefined",
+          "caption": "Jun 2004 - Aug 2004 · 2 mos",
+          "metadata": "Greater San Diego Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Studied failures of high-energy, oil-filled, metalized film-dielectric capacitors. Involved dissecting failed capacitors and statistically analyzing burn patterns to find common causes of failure."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "Linux Foundation Certified System Administrator",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swedish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Simulations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Optimization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Numerical Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bayesian statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2624",
+          "companyUrn": "urn:li:fsd_company:2624",
+          "companyLink1": "https://www.linkedin.com/school/columbia-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_400_400/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1785369600&v=beta&t=SSmGfqT793RocawXXcyCKzH_gUYc5-G8LDmXnt4XDNs",
+          "title": "Columbia University in the City of New York",
+          "subtitle": "Doctor of Philosophy (PhD), Mathematics",
+          "caption": "2008 - 2014",
+          "subComponents": []
+        },
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "University of California, Berkeley",
+          "subtitle": "Bachelor of Arts (B.A.), Mathematics",
+          "caption": "2003 - 2007",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

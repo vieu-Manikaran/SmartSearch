@@ -1,0 +1,666 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/anushadey",
+  "row_key": "id:0033l00002st6HSAAY",
+  "person": "Anusha Dey",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:45:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACuP_cMBXg4TNz-c5rFLtxHx0_3ccfqA19w",
+      "firstName": "Anusha",
+      "lastName": "Dey",
+      "fullName": "Anusha Dey",
+      "publicIdentifier": "anushadey",
+      "headline": "Software Engineer @ Epic Games | UWaterloo Engineering Alum",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United States",
+      "addressWithoutCountry": "United States",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEJHBYgQyeJTQ/profile-displayphoto-scale_100_100/B4EZnRlooWGUAc-/0/1760157928393?e=1785369600&v=beta&t=4csHkSrjTo08C449ew5pz9YE-ORwIKRLBpXp4JXOV58",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEJHBYgQyeJTQ/profile-displayphoto-scale_200_200/B4EZnRlooWGUAY-/0/1760157928393?e=1785369600&v=beta&t=JhYjYhvQwJeyXdiu3kboWBTkanS1JgWH8j-UryRhcPc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEJHBYgQyeJTQ/profile-displayphoto-crop_800_800/B4EZnRlooWGUAI-/0/1760157928306?e=1785369600&v=beta&t=tH9b_W2Mpz3wA9tmuwp587Ch8fNDyvOrhSlvcwkethg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEJHBYgQyeJTQ/profile-displayphoto-scale_400_400/B4EZnRlooWGUAg-/0/1760157928393?e=1785369600&v=beta&t=WEyg4THDTG_HNJsY0VxNP_00lKuTgAcA4hgg9Be2KdY"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEJHBYgQyeJTQ/profile-displayphoto-scale_100_100/B4EZnRlooWGUAc-/0/1760157928393?e=1785369600&v=beta&t=4csHkSrjTo08C449ew5pz9YE-ORwIKRLBpXp4JXOV58"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "82404339",
+          "companyUrn": "urn:li:fsd_company:82404339",
+          "companyLink1": "https://www.linkedin.com/company/epicgames/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGXvBGy7hw_Hg/company-logo_400_400/company-logo_400_400/0/1652104230141/epicgames_logo?e=1785369600&v=beta&t=oXE8XCvaPcBvmNzfYMgg1Jm-cbfq5SKzncg50NVJOXc",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 2 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer III",
+              "caption": "Dec 2025 - Present · 1 mo",
+              "metadata": "United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "AI Developer Experience Team"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Aug 2024 - Dec 2025 · 1 yr 4 mos",
+              "metadata": "United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "AI Developer Experience Team / Fortnite Dedicated Servers Team"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Sep 2023 - Aug 2024 · 11 mos",
+              "metadata": "United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Fortnite Dedicated Servers Team / Cloud Infrastructure Team"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Software Engineer Intern",
+          "subtitle": "Epic Games . Internship",
+          "caption": "Jul 2022 - Aug 2022 · 1 mo",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Cloud Engineering team"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Software Engineer Intern",
+          "subtitle": "Epic Games . Internship",
+          "caption": "Sep 2021 - Dec 2021 · 3 mos",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Infrastructure Engineering team"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": "Undergraduate Research Assistant",
+          "subtitle": "University of Waterloo . undefined",
+          "caption": "May 2021 - Aug 2021 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Vision and Image Processing Lab at UWaterloo"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2174281",
+          "companyUrn": "urn:li:fsd_company:2174281",
+          "companyLink1": "https://www.linkedin.com/company/cloudops/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJ_HoJR7H9hA/company-logo_400_400/company-logo_400_400/0/1718803517682/cloudops_logo?e=1785369600&v=beta&t=Z0M9pg2m_6Pq2YkzHuQq8qHnbFxTgak5ghDGbpQkE_U",
+          "title": "Software Engineer Intern",
+          "subtitle": "CloudOps . Internship",
+          "caption": "Jan 2021 - Apr 2021 · 3 mos",
+          "metadata": "Montreal, Quebec, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "85725",
+          "companyUrn": "urn:li:fsd_company:85725",
+          "companyLink1": "https://www.linkedin.com/company/the-hospital-for-sick-children/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHJsYhdZmO27Q/company-logo_400_400/B4EZ8.FgbAIsAc-/0/1783453058969/the_hospital_for_sick_children_logo?e=1785369600&v=beta&t=VaUiqEreXPEgjguT3RHE26aDg6oFK1Ks4INXhmlXoVc",
+          "title": "Software Engineer",
+          "subtitle": "The Hospital for Sick Children . Internship",
+          "caption": "May 2020 - Jan 2021 · 8 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Centre for Computational Medicine"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "85725",
+          "companyUrn": "urn:li:fsd_company:85725",
+          "companyLink1": "https://www.linkedin.com/company/the-hospital-for-sick-children/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHJsYhdZmO27Q/company-logo_400_400/B4EZ8.FgbAIsAc-/0/1783453058969/the_hospital_for_sick_children_logo?e=1785369600&v=beta&t=VaUiqEreXPEgjguT3RHE26aDg6oFK1Ks4INXhmlXoVc",
+          "title": "Software Engineer",
+          "subtitle": "The Hospital for Sick Children . Internship",
+          "caption": "Sep 2019 - Dec 2019 · 3 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Centre for Computational Medicine"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "609031",
+          "companyUrn": "urn:li:fsd_company:609031",
+          "companyLink1": "https://www.linkedin.com/company/wemovement/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFjfAHvfajOGg/company-logo_400_400/company-logo_400_400/0/1631392526695?e=1785369600&v=beta&t=4AJb0bfMHK4VpiXNWFPcdY4AafiD0NSDEYg84V9pKCg",
+          "title": "Software Engineer",
+          "subtitle": "WE.org . Internship",
+          "caption": "Jan 2019 - Apr 2019 · 3 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued May 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "President’s Research Award",
+          "subtitle": "Issued by University of Waterloo",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Best Overall Health Hack",
+          "subtitle": "Issued by HackHealth 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Winner of Best Overall Health Hack (1st place) at HackHealth 2021\nDevpost: https://devpost.com/software/helpvu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Honorable Mention at BostonHacks",
+          "subtitle": "Issued by BostonHacks",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Honorable Mention at BostonHacks for my project \"Bin Buddies\" \nDevpost: https://devpost.com/software/bin-buddies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2nd Place at HackXplore",
+          "subtitle": "Issued by TechXplore UofT",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Created a Python application using open source libraries (TensorFlow, OpenCV) for early detection of anemia from user-uploaded pictures of fingernails. Collaboratively created a high-fidelity prototype using Figma."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "A.J. and Muriel G. Billes Scholarship",
+          "subtitle": "Issued by Canadian Tire and Loran Scholars Foundation",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Community contribution and academics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "A.J. and Muriel G. Billes Scholarship",
+          "subtitle": "Issued by Canadian Tire and Loran Scholars Foundation",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Community contribution and academics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "President's Scholarship of Distinction",
+          "subtitle": "Issued by University of Waterloo",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "95%+ admission average"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Systems Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MLOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Golang",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Observability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Full-Stack Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Large Language Models (LLM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Claude",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "npm",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST APIs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": "University of Waterloo",
+          "subtitle": "Bachelor of Applied Science - BASc, Systems Design Engineering",
+          "caption": "2018 - 2023",
+          "subComponents": []
+        },
+        {
+          "companyId": "3883",
+          "companyUrn": "urn:li:fsd_company:3883",
+          "companyLink1": "https://www.linkedin.com/school/epfl/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH2roCFqd0gPA/company-logo_400_400/company-logo_400_400/0/1630601486812/epfl_logo?e=1785369600&v=beta&t=teFbirt1ADmmTxoxCzPTIQLVxxGZfcdlrdZGZQSB8fI",
+          "title": "EPFL (École polytechnique fédérale de Lausanne)",
+          "subtitle": "Exchange Semester, Computer Science",
+          "caption": "Feb 2022 - Jul 2022",
+          "subComponents": []
+        },
+        {
+          "title": "Bayview Secondary School",
+          "subtitle": "International Baccalaureate Diploma, Ontario Secondary School Diploma, Yearbook Committee, Bayview Brain Bee, HOSA",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Volunteer",
+          "subtitle": "Markham Stouffville Urgent Care Centre",
+          "caption": "Oct 2016 - Apr 2017 · 6 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "34905240",
+          "companyUrn": "urn:li:fsd_company:34905240",
+          "companyLink1": "https://www.linkedin.com/company/llettonna/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFMKL8ngj3g-Q/company-logo_400_400/company-logo_400_400/0/1630547045499/llettonna_logo?e=1785369600&v=beta&t=nKkM4mUy2-VovMmAlp2KbedIzRvvTNM6riqFUncXzvM",
+          "title": "Project Lead",
+          "subtitle": "lleTTonna",
+          "caption": "May 2020 - Sep 2021 · 1 yr 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Mechanical Engineering Project: Embraille",
+          "subtitle": "Feb 2022 - Jul 2022",
+          "subComponenets": []
+        },
+        {
+          "title": "HelpVu",
+          "subtitle": "Feb 2021 - Feb 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Built an AI-powered narration application for the visually impaired. HelpVu performs real-time object detection and text extraction (optical character recognition). Winner of Best Overall Health Hack and HackHealth 2021 hosted by Stony Brook University."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sentiment Analysis: COVID-19 Vaccine",
+          "subtitle": "Dec 2020 - Feb 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Performing sentiment analysis (NLP) on tweets related to the COVID-19 Vaccine, using NLTK and pandas to build a dataset to train a recurrent neural network built with TensorFlow and Keras. Created an interactive user dashboard using Plotly."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COVID-19 and Mobility: An Investigation",
+          "subtitle": "Jan 2021 - Jan 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Explored the relationship between COVID-19 and Mobility using Python libraries (NumPy, pandas, Matplotlib) for data exploration and modelling, and used multi output regression (Scikit-learn) to predict  future COVID-19 cases and fatality based on mobility."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bin Buddies",
+          "subtitle": "Nov 2020 - Nov 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Created a ReactJS web app to educate users on the what and where of recycling, using the Google Cloud Vision API to detect objects from user-uploaded images and the Socrata Open Data API to query local government datasets.\n\nAwarded an Honorable Mention at BostonHacks 2020."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nailed It",
+          "subtitle": "Feb 2019 - Feb 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Created a Python application using open source libraries (TensorFlow, OpenCV) for early detection of anemia from user-uploaded pictures of fingernails. Collaboratively created a high-fidelity prototype using Figma.\n\nAwarded second place in the HackXplore competition hosted by the University of Toronto's TechXplore."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

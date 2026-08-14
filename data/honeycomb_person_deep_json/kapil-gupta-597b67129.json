@@ -1,0 +1,256 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/kapil-gupta-597b67129",
+  "row_key": "id:003Uk00000ydJX3IAM",
+  "person": "Kapil Gupta",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:50:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB-sbIMBLi8SZ-3murPBpC_ezCVjUmDvB1g",
+      "firstName": "Kapil",
+      "lastName": "Gupta",
+      "fullName": "Kapil Gupta",
+      "publicIdentifier": "kapil-gupta-597b67129",
+      "headline": "Network Administrator at Wipro Limited",
+      "about": "Cisco Certified Network Associate (CSCO13062727).\nCompleted CCNP (Routing & Switching) Intensive Training from Network Bulls, Gurugram.\nCompleted CCNA (Routing & Switching) Intensive Training from Network Bulls, Gurugram",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "South Delhi, Delhi India",
+      "addressWithoutCountry": "South Delhi, Delhi",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Network Administrator",
+          "subtitle": "Wipro Limited . undefined",
+          "caption": "Nov 2016 - Present · 9 yrs 2 mos",
+          "metadata": "Delhi",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Manager",
+          "subtitle": "PAKSONS PHARAMACEUTICALS (P) LTD . undefined",
+          "caption": "Jul 2015 - Jun 2016 · 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Network Associate(CCNA)",
+          "subtitle": "Cisco",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "CCNP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CCNA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CCNA Certified.",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CCNP(Routing & Switching)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Border Gateway Protocol (BGP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Open Shortest Path First (OSPF)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "EIGRP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VLAN",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VTP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hot Standby Router Protocol (HSRP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtual Router Redundancy Protocol (VRRP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gateway Load Balancing Protocol (GLBP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15134826",
+          "companyUrn": "urn:li:fsd_company:15134826",
+          "companyLink1": "https://www.linkedin.com/school/maharishi-markandeshwar-university-mullana/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF9HmCerZ7k-g/company-logo_400_400/company-logo_400_400/0/1630486785661/maharishi_markandeshwar_university_mullana_logo?e=1785369600&v=beta&t=Lnv3xyB3g88FNyaKvtjwkHQPuyMX6ZtBZ9MijFN17Ak",
+          "title": null,
+          "subtitle": "Bachelor of Technology (B.Tech.), Computer Science",
+          "caption": "2012 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "BTech(CSE)"
+            }
+          ]
+        },
+        {
+          "title": "Maharishi Markandeshwer UniversityMullana",
+          "subtitle": "B. Tech, Computer Science & Engineering",
+          "caption": "2012 - 2015",
+          "subComponents": []
+        },
+        {
+          "companyId": "15134826",
+          "companyUrn": "urn:li:fsd_company:15134826",
+          "companyLink1": "https://www.linkedin.com/school/maharishi-markandeshwar-university-mullana/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF9HmCerZ7k-g/company-logo_400_400/company-logo_400_400/0/1630486785661/maharishi_markandeshwar_university_mullana_logo?e=1785369600&v=beta&t=Lnv3xyB3g88FNyaKvtjwkHQPuyMX6ZtBZ9MijFN17Ak",
+          "title": "Maharishi Markandeshwar University, Mullana",
+          "subtitle": "Bachelor of Technology (B.Tech.), Computer Science",
+          "caption": "2009 - 2015",
+          "subComponents": []
+        },
+        {
+          "title": "Maharishi Markandeshwer UniversityMullana",
+          "subtitle": "Diploma, Computer Science & Engineering",
+          "caption": "2009 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/alevy",
+  "row_key": "id:003Uk00000nrdJyIAI",
+  "person": "Alex Levy",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:23Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAABXHsBNKQEx9DgO1PPlAwcwU2Eyj8Rmz0",
+      "firstName": "Alex",
+      "lastName": "Levy",
+      "fullName": "Alex Levy",
+      "publicIdentifier": "alevy",
+      "headline": "Building new things @ Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEA318FXfa3XA/profile-displayphoto-crop_800_800/B56Zvsc3CRHsAI-/0/1769198547523?e=1785369600&v=beta&t=S2iD7uMsL4eBk7gef5PdG5jrJJKE8PUiDCr7V5ZQue4",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQHqXtiQ-9Cs7A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1616090716558?e=1785369600&v=beta&t=3oTHj5xHWOLpt3QACzdNKjfwr6Mf1vxTHuHdHQ9EapE",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEA318FXfa3XA/profile-displayphoto-scale_400_400/B56Zvsc3CRHsAg-/0/1769198547601?e=1785369600&v=beta&t=hqNSlGic7ROinDt0u5up-gGfSY04QnzVd4Z4QS7puEM"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEA318FXfa3XA/profile-displayphoto-scale_100_100/B56Zvsc3CRHsAc-/0/1769198547601?e=1785369600&v=beta&t=R3k6uKjYIfxjFq94RZYGok9Zzm1V8F7vLGQzxyxJix0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEA318FXfa3XA/profile-displayphoto-scale_200_200/B56Zvsc3CRHsAY-/0/1769198547601?e=1785369600&v=beta&t=MFUEVm-27cyQbImJ0XoJ15rMGlfVsZwGSOJStyP2p6c"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEA318FXfa3XA/profile-displayphoto-crop_800_800/B56Zvsc3CRHsAI-/0/1769198547523?e=1785369600&v=beta&t=S2iD7uMsL4eBk7gef5PdG5jrJJKE8PUiDCr7V5ZQue4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 672,
+          "height": 168,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHqXtiQ-9Cs7A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1616090716558?e=1785369600&v=beta&t=9ROhfUnaZwJMWV7VRQPGmUYplG60rIehLKs7TYk2n_I"
+        },
+        {
+          "width": 672,
+          "height": 168,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHqXtiQ-9Cs7A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1616090716558?e=1785369600&v=beta&t=3oTHj5xHWOLpt3QACzdNKjfwr6Mf1vxTHuHdHQ9EapE"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "undefined · 12 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Chief Technology Officer",
+              "caption": "Jul 2026 - Present · ",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for all the bits in all the bytes."
+                }
+              ]
+            },
+            {
+              "title": "Senior Vice President, Engineering",
+              "caption": "Jul 2023 - Jun 2026 · 2 yrs 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for Yelp’s business owner experience, local and enterprise paid products, monetization platform, go-to-market technology, and financial systems."
+                }
+              ]
+            },
+            {
+              "title": "Vice President, Engineering",
+              "caption": "Jan 2020 - Jul 2023 · 3 yrs 6 mos",
+              "description": []
+            },
+            {
+              "title": "Director, Engineering",
+              "caption": "Jul 2015 - Dec 2019 · 4 yrs 5 mos",
+              "description": []
+            },
+            {
+              "title": "Engineering Manager",
+              "caption": "Sep 2013 - Jun 2015 · 1 yr 9 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3311632",
+          "companyUrn": "urn:li:fsd_company:3311632",
+          "companyLink1": "https://www.linkedin.com/company/arcadia-io/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFuNJi2Q32gLg/company-logo_400_400/B56Z1kskOGKYAc-/0/1775510897985/arcadia_io_logo?e=1785369600&v=beta&t=mmJg5aGPInzSnfZw0ZNbZ153SiqSlOo1fQ8-8MoH2z8",
+          "title": "Arcadia",
+          "subtitle": "undefined · 9 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering",
+              "caption": "Jan 2012 - Aug 2013 · 1 yr 7 mos",
+              "metadata": "Burlington, MA",
+              "description": []
+            },
+            {
+              "title": "Principal Consultant",
+              "caption": "Jan 2009 - Dec 2011 · 2 yrs 11 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Consultant",
+              "caption": "Jan 2006 - Dec 2008 · 2 yrs 11 mos",
+              "description": []
+            },
+            {
+              "title": "Consultant",
+              "caption": "Jun 2004 - Dec 2005 · 1 yr 6 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Intern (Summer/Winter)",
+          "subtitle": "Adeptra . undefined",
+          "caption": "Jan 2001 - Jan 2004 · 3 yrs",
+          "metadata": "Stamford, CT",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Intern (Summer)",
+          "subtitle": "Prescient Technologies (Stone & Webster) . undefined",
+          "caption": "Jun 1998 - Sep 1998 · 3 mos",
+          "metadata": "Boston, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Russian",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "157341",
+          "companyUrn": "urn:li:fsd_company:157341",
+          "companyLink1": "https://www.linkedin.com/school/tufts-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_656Vr-3pxA/company-logo_400_400/company-logo_400_400/0/1631326600842?e=1785369600&v=beta&t=ckFT_UsE-lZ-nNDD_ITJCNVuCq-CNVMllleWdG39U10",
+          "title": "Tufts University",
+          "subtitle": "BS, Computer Science, Russian Language & Literature",
+          "caption": "2000 - 2004",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Magna cum laude. Studied for one semester at the Moscow International University."
+            }
+          ]
+        },
+        {
+          "companyId": "15250545",
+          "companyUrn": "urn:li:fsd_company:15250545",
+          "companyLink1": "https://www.linkedin.com/school/northfield-mount-hermon/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEr_LdhnVaE2g/company-logo_400_400/company-logo_400_400/0/1631355050691?e=1785369600&v=beta&t=2xH1Feq5GWX5aFyuQt8Hh3sfGd4TOveLclm0EyOig2c",
+          "title": "Northfield Mount Hermon",
+          "subtitle": "High School, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "16186334",
+          "companyUrn": "urn:li:fsd_company:16186334",
+          "companyLink1": "https://www.linkedin.com/company/builtbygirls/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGCsEK1WYOjDw/company-logo_400_400/company-logo_400_400/0/1630576045122/_builtbygirls_logo?e=1785369600&v=beta&t=K_QKJrJweN7VYQBBotsEZJJOgvpmDRp3R1PF5CGf6-M",
+          "title": "Advisor",
+          "subtitle": "BUILT BY GIRLS",
+          "caption": "Feb 2018 - Nov 2021 · 3 yrs 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "37826",
+          "companyUrn": "urn:li:fsd_company:37826",
+          "companyLink1": "https://www.linkedin.com/school/northfield-mount-hermon-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEmU8qiB9NqLQ/company-logo_400_400/company-logo_400_400/0/1737046797866/northfield_mount_hermon_school_logo?e=1785369600&v=beta&t=9Zf_Qwjyz-ookGbpXKM2wSfQuU6VXHlviDTwFsgh-J0",
+          "title": "Trustee",
+          "subtitle": "Northfield Mount Hermon",
+          "caption": "Jul 2015 - Jun 2020 · 4 yrs 11 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "28447",
+          "companyUrn": "urn:li:fsd_company:28447",
+          "companyLink1": "https://www.linkedin.com/school/year-up-united/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFLsSNTLicLHw/company-logo_400_400/company-logo_400_400/0/1729176242807/year_up_united_logo?e=1785369600&v=beta&t=7zYqBWM7dx0dZEuw85QQbnGQHGlNTgUIFTYfvWoc5L0",
+          "title": "Tutor & Mentor",
+          "subtitle": "Year Up",
+          "caption": "Sep 2014 - Jun 2018 · 3 yrs 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

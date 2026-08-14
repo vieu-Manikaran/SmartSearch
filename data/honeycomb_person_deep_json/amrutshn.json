@@ -1,0 +1,529 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/amrutshn",
+  "row_key": "id:003Uk00000yfU9jIAE",
+  "person": "Amrut Shenoy",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAjmL4oBz5Xn5d7IiBgY0UUYEa73AG2NV2M",
+      "firstName": "Amrut",
+      "lastName": "Shenoy",
+      "fullName": "Amrut Shenoy",
+      "publicIdentifier": "amrutshn",
+      "headline": "Senior Software Engineer",
+      "about": "An enthusiastic Computer Science professional interested in utilizing my strong analytical and problem-solving skills to resolve business problems.\nI am always excited and willing to learn new things. Also, I am a quick learner and a person eager to take on challenging tasks.  \n\n\nFeel free to reach out through email:\naas2903@rit.edu",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQF1nPVDc3_NmA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1607380557558?e=1785369600&v=beta&t=g4sMvLtktgS0DlH7b2KbsMR82DGDzp5YwsPF-Ph7zX4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF1nPVDc3_NmA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1607380557558?e=1785369600&v=beta&t=59abRBpNZqSpFm2wjOLqL2KXegV7-ttVRjsqMvLLg_c"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF1nPVDc3_NmA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1607380557558?e=1785369600&v=beta&t=dGzM26cW4-vHnviWzOvtOElMd8_-wnllzmfV1KGRYqA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF1nPVDc3_NmA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1607380557558?e=1785369600&v=beta&t=m6qWKUc-Hyx5rgIGdjKIVIICzqfcKNz5G3v8LETT28E"
+        },
+        {
+          "width": 451,
+          "height": 451,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF1nPVDc3_NmA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1607380557558?e=1785369600&v=beta&t=g4sMvLtktgS0DlH7b2KbsMR82DGDzp5YwsPF-Ph7zX4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 5 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Dec 2025 - Present · 1 mo",
+              "description": []
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Jul 2020 - Dec 2025 · 5 yrs 5 mos",
+              "metadata": "St Paul, Minnesota, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tAutomated infrastructure provisioning using AWS Cloud, Terraform and Ansible.\n•\tWorked on Terraform scripts to develop development, staging, production and DR environments.\n•\tCreated and integrated CI/CD pipelines with existing Hortonworks stack to build and scale clusters quickly.\n•\tActively managed, improved and monitored cloud infrastructure on AWS, EC2, CloudFormation, SSM and RDS, including backups, snapshots and scaling."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "298190",
+          "companyUrn": "urn:li:fsd_company:298190",
+          "companyLink1": "https://www.linkedin.com/company/matrixcare/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQETyWa5dps32w/company-logo_400_400/company-logo_400_400/0/1630577629800/matrixcare_logo?e=1785369600&v=beta&t=T3eSi9QPIxvRXQTQK3bauz44-tYefqsMJtOcbRlT-ds",
+          "title": "Associate Software Engineer",
+          "subtitle": "MatrixCare . undefined",
+          "caption": "Oct 2018 - Jul 2020 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tDeveloped an end-to-end fall risk prediction model developed using machine learning algorithm in an Agile team. Used Python to train and build the ML model. Used Angular 6 to display results in the form of interactive charts.\n•\tWorked on a front end design for PDPM, a new Medicare payment rule for senior living facilities. This design was appreciated by multiple clients as it made item set codes and case mix classification easy to comprehend.\n•\tDeveloped RESTful APIs to extract results from predictive models developed in Azure Cloud Services.\n•\tRedesigned discharge summary module, generated interactive graphs to display patient records on a dashboard using Angular 6 and RESTful services in Java Spring  framework.\n•\tEnsured data consistency and accuracy by writing effective queries, stored procedures and SQL scripts."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "298190",
+          "companyUrn": "urn:li:fsd_company:298190",
+          "companyLink1": "https://www.linkedin.com/company/matrixcare/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQETyWa5dps32w/company-logo_400_400/company-logo_400_400/0/1630577629800/matrixcare_logo?e=1785369600&v=beta&t=T3eSi9QPIxvRXQTQK3bauz44-tYefqsMJtOcbRlT-ds",
+          "title": "Software Developer Internship",
+          "subtitle": "MatrixCare . undefined",
+          "caption": "Jan 2018 - Aug 2018 · 7 mos",
+          "metadata": "Bloomington, Minnesota",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Generated interactive graphs to display patient records on a dashboard using RESTful web services and Java in Spring framework.\n- Part of a team that worked on prototypes of machine learning models to predict the risk of a fall in a patient.\n- Worked on enhancing the front-end framework through the use of Javascript."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "298190",
+          "companyUrn": "urn:li:fsd_company:298190",
+          "companyLink1": "https://www.linkedin.com/company/matrixcare/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQETyWa5dps32w/company-logo_400_400/company-logo_400_400/0/1630577629800/matrixcare_logo?e=1785369600&v=beta&t=T3eSi9QPIxvRXQTQK3bauz44-tYefqsMJtOcbRlT-ds",
+          "title": "Software Engineer Intern",
+          "subtitle": "MatrixCare . undefined",
+          "caption": "Feb 2017 - May 2017 · 3 mos",
+          "metadata": "Bloomington, Minnesotta",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Accomplished photo edit/upload functionality in JSP & MySQL legacy web-app using jQuery libraries in a scrum team.\n- Designed an Alexa app for a customized product to send reminders in healthcare facility to monitor medicines & reports of patients.\n- Constructed model for using voice to send text messages through a web-app. Used JavaScript to support WebKit browsers.\n- Worked on a team that was responsible for redesigning web-app to maintain consistency across webpages in JSP that significantly cut costs of remodeling UI."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1353",
+          "companyUrn": "urn:li:fsd_company:1353",
+          "companyLink1": "https://www.linkedin.com/company/tata-consultancy-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_400_400/company-logo_400_400/0/1708946550425/tata_consultancy_services_logo?e=1785369600&v=beta&t=argHyOHxOL8b_6ayqv8Ix2k-fvrql9BXSBmDI9iR4jw",
+          "title": "Assistant System Engineer",
+          "subtitle": "Tata Consultancy Services . undefined",
+          "caption": "Jan 2014 - Jun 2015 · 1 yr 5 mos",
+          "metadata": "Mumbai",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Developed multiple modules of Online Multiplex Ticket reservation system using .NET technology\n- Worked on an Industry Standard Learning Management System (Moodle) as a developer using PHP and MySQL as backend.\n- Developed training modules using Oracle User Productivity Kit.\n- Worked on developing interactive training modules using Adobe Captivate."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "39939",
+          "companyUrn": "urn:li:fsd_company:39939",
+          "companyLink1": "https://www.linkedin.com/company/lynda-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFfDMello2Gtg/company-logo_400_400/company-logo_400_400/0/1631320875045?e=1785369600&v=beta&t=8pLYYLyrXFybfuUl3KyM6yrdtM-GUQwEo2RgkxxDvh8",
+          "title": "Artificial Intelligence Foundations: Thinking Machines",
+          "subtitle": "Lynda.com",
+          "issued": "Issued Jan 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML, CSS and JavaScript",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Jul 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Konkani",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marathi",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Graduate Merit Scholarship",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaServer Pages (JSP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "165762",
+          "companyUrn": "urn:li:fsd_company:165762",
+          "companyLink1": "https://www.linkedin.com/school/rochester-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGnICZxLlhERw/company-logo_400_400/company-logo_400_400/0/1630565170020/rochester_institute_of_technology_logo?e=1785369600&v=beta&t=0tOSHE5Tlkx-OqAQZVVIMKdYab3b_fjMHFSeYG8K-d0",
+          "title": "Rochester Institute of Technology",
+          "subtitle": "Master of Science (MS), Winner of Intramural Cricket Championship",
+          "caption": "2015 - 2018",
+          "subComponents": []
+        },
+        {
+          "companyId": "15093732",
+          "companyUrn": "urn:li:fsd_company:15093732",
+          "companyLink1": "https://www.linkedin.com/school/university-of-mumbai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsu_DimiqUow/company-logo_400_400/company-logo_400_400/0/1631357817785?e=1785369600&v=beta&t=wLcrCokQmXW4ukjNCATsWCwyc_0u1MlqNVpe4j3Oipw",
+          "title": "University of Mumbai",
+          "subtitle": "Bachelor of Engineering (B.E.), Computer Society of India, VCET",
+          "caption": "2009 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "4822742",
+          "companyUrn": "urn:li:fsd_company:4822742",
+          "companyLink1": "https://www.linkedin.com/company/computer-society-of-india-mumbai-chapter/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHZg65ZuQaZ9g/company-logo_400_400/company-logo_400_400/0/1631318449116?e=1785369600&v=beta&t=veBDy-qzJMdgcdJi8APy9Q4I4HpGQq298wTKYK2G90k",
+          "title": "Secretary of the Student Branch, VCET",
+          "subtitle": "Computer Society of India, Mumbai Chapter",
+          "caption": "Aug 2010 - Aug 2013 · 3 yrs",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Seminar on Android as a Surveillance System",
+          "subtitle": "Dec 2012 - Dec 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Mumbai"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "- Provided benefits of using a mobile-based OS for surveillance.\n- Researched the Android OS architecture from the viewpoint of using it for surveillance systems.\n- Discussed future enhancements required to build such a system."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Crime Rate Analysis",
+          "subtitle": "Mar 2016 - May 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Rochester Institute of Technology"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The main aim of Crime Rate Analysis is to predict occurrence of a crime in an area in a particular time interval based on a table having history of crimes occurred in that area. Using classification, we predict offenses based in particular region at a particular time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Digitize Your Handwriting",
+          "subtitle": "Feb 2016 - May 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Rochester Institute of Technology"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The objective of this project is to convert handwritten text in an image into a digital format in the form of a document. For this purpose, Optical Character Recognition (OCR) is developed to meet our demands. A training set containing alphabets of the English language is used as a basis for comparison with the texts in the image. Based on this comparison, the English alphabet that closely resembles the handwritten text is chosen as the alphabet that it is most likely to be, and is written into the digital document. An ideal model would be able to represent all the text in the image in a digitized format correctly. This model performed quite well for my set of images used for training the model."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "WEB PROXY CACHE",
+          "subtitle": "Jun 2012 - Apr 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Mumbai"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "This project aimed to modify the cache of the proxy server, such that its caching algorithm is enhanced to make it more efficient. In WPC, we used different load balancing strategy for different back end groups. Back ends could be migrated from one back end group to another when load imbalance occurred."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inter-Departmental website for a University",
+          "subtitle": "Aug 2011 - Dec 2011",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

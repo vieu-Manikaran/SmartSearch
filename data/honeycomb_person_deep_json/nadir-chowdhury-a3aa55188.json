@@ -1,0 +1,324 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/nadir-chowdhury-a3aa55188",
+  "row_key": "id:003Uk00000ypyitIAA",
+  "person": "Nadir Chowdhury",
+  "account": "Midjourney",
+  "fetched_at": "2026-07-14T10:21:18Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACxLNI4BGemNoWTacUYsNxAXj0VmgM9Zcgw",
+      "firstName": "Nadir",
+      "lastName": "Chowdhury",
+      "fullName": "Nadir Chowdhury",
+      "publicIdentifier": "nadir-chowdhury-a3aa55188",
+      "headline": "Software Engineer @ Midjourney",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Entertainment",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQF9qYkobHk2sw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1645729622502?e=1785369600&v=beta&t=B1aUlmVVa3UUtE66PeDqiB4PMJ7xU5nnZQrLD6wezkk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQF9qYkobHk2sw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1645729622502?e=1785369600&v=beta&t=BqHI43qtRzbQ59rMEXuqOwB1WE_w2fugRkL0NpdjeR0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQF9qYkobHk2sw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1645729622502?e=1785369600&v=beta&t=tnbT1QNYBToDempvWERIoNogsgzlO5-yq9G1jPqjAwc"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQF9qYkobHk2sw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1645729622502?e=1785369600&v=beta&t=rb_UByydhUeY8ghWc93Yf8TBsrMV2zWO8fZyjaSSQQk"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQF9qYkobHk2sw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1645729622502?e=1785369600&v=beta&t=B1aUlmVVa3UUtE66PeDqiB4PMJ7xU5nnZQrLD6wezkk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "82318617",
+          "companyUrn": "urn:li:fsd_company:82318617",
+          "companyLink1": "https://www.linkedin.com/company/midjourney/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdHwWJr1YZhg/company-logo_400_400/company-logo_400_400/0/1697570621105/midjourney_logo?e=1785369600&v=beta&t=ElVxt5ls8qroFbwD7FQPIaTQ15Aqv5XDw7EM4RZBPOU",
+          "title": "Software Engineer",
+          "subtitle": "Midjourney . Full-time",
+          "caption": "Feb 2022 - Present · 3 yrs 11 mos",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developing unique solutions for community engagement powered by artificial intelligence."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18991194",
+          "companyUrn": "urn:li:fsd_company:18991194",
+          "companyLink1": "https://www.linkedin.com/company/rythmfm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGYeeTRdYD8Ng/company-logo_400_400/company-logo_400_400/0/1719255976320/rythmfm_logo?e=1785369600&v=beta&t=4iLehgmCkMiVkeFcoo2TtjSstsPeqzM99apq18rpzws",
+          "title": "Community Developer",
+          "subtitle": "Rythm . Contract",
+          "caption": "Jun 2021 - Sep 2021 · 3 mos",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed various Discord bots for the Marketing / Community side of Rythm, pioneering solutions for anti-spam, community engagement, and more."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "42691603",
+          "companyUrn": "urn:li:fsd_company:42691603",
+          "companyLink1": "https://www.linkedin.com/company/piecesguild/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE5Lfr1Dun01Q/company-logo_400_400/company-logo_400_400/0/1630631021420?e=1785369600&v=beta&t=hnkJncWCrumTBSXFJVuao5BlSOxDYJ3T1fS3Q4h93G0",
+          "title": "Full Stack Engineer",
+          "subtitle": "Pieces . Contract",
+          "caption": "Feb 2020 - Sep 2021 · 1 yr 7 mos",
+          "metadata": "Denmark",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Pieces ApS, an E-sports organisation representing Pieces Guild (World of Warcraft)."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Full-stack Developer",
+          "subtitle": "Freelance",
+          "caption": "Aug 2018 - Jun 2021 · 2 yrs 10 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Full-Stack Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Rust (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flask",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Discord API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FastAPI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GitHub",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows 10",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CoffeeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "eSports",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming Languages",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "27082531",
+          "companyUrn": "urn:li:fsd_company:27082531",
+          "companyLink1": "https://www.linkedin.com/school/woodhouse-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFpmQ2fKcgFyQ/company-logo_400_400/company-logo_400_400/0/1710765760117/woodhouse_college_logo?e=1785369600&v=beta&t=PPyb7lTOmC4VfXN9BnNlQ5ndXGBf86WILGJLGYTCCFo",
+          "title": "Woodhouse College f.k.a Woodhouse Grammar School",
+          "subtitle": "null, Mathematics and Computer Science",
+          "caption": "Sep 2021 - Jun 2023",
+          "subComponents": []
+        },
+        {
+          "title": "Ilford County High School",
+          "subtitle": "null, null",
+          "caption": "Sep 2016 - Jul 2021",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

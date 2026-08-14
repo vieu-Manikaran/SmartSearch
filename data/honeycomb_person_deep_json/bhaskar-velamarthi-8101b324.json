@@ -1,0 +1,333 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/bhaskar-velamarthi-8101b324",
+  "row_key": "id:003Uk0000091CoLIAU",
+  "person": "Bhaskar Velamarthi",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:05Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAUDH8wBsXB2jHNR_pMRwQeUHcMyVfDHV_Y",
+      "firstName": "Bhaskar",
+      "lastName": "Velamarthi",
+      "fullName": "Bhaskar Velamarthi",
+      "publicIdentifier": "bhaskar-velamarthi-8101b324",
+      "headline": "Principal Software Engineer at Medtronic | Ex-Microsoft",
+      "about": "Cloud Technical Development Lead with a demonstrated history of working in the management consulting industry.\nPrimarily skilled in Microsoft technologies like Azure Full Stack, .NET, C#. Also, skills include IOT, SQL, ASP.NET MVC, Angular, Agile Methodologies. Strong Design and debugging skills. Strong business development professional with a Bachelor of Technology - BTech focused in Computer Science from VNR Vignana Jyothi Institute of Engineering & Technology. Good Azure Devops experience in build and release pipelines. Expertise in NFR/Performance monitoring for Azure workloads",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFIi0xGO-Y0Dg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517065433398?e=1785369600&v=beta&t=wedpkOVvsYwD0prYM9Vr2CCI7wjQugyXpj-i0nTfjRQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFIi0xGO-Y0Dg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517065433041?e=1785369600&v=beta&t=6qMUBohLdcxV7HAj-R3buitJFWa-1aamuhmugHUN6ls"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFIi0xGO-Y0Dg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517065433154?e=1785369600&v=beta&t=kdMJU6oxpwEZ0gzKv9p97ppXjeBEY-LDp_1Bj824Fz0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFIi0xGO-Y0Dg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517065433062?e=1785369600&v=beta&t=AxCJ00k_oTUk0vFAVGWSho-nXpBI17Vw7x3eFZFOtWE"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFIi0xGO-Y0Dg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517065433398?e=1785369600&v=beta&t=wedpkOVvsYwD0prYM9Vr2CCI7wjQugyXpj-i0nTfjRQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal Software Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "May 2022 - Present · 3 yrs 8 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Senior Software Engineer / Senior Consultant",
+          "subtitle": "Microsoft . Full-time",
+          "caption": "Mar 2018 - May 2022 · 4 yrs 2 mos",
+          "metadata": "Hyderabad",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1038",
+          "companyUrn": "urn:li:fsd_company:1038",
+          "companyLink1": "https://www.linkedin.com/company/deloitte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_400_400/company-logo_400_400/0/1662120928214/deloitte_logo?e=1785369600&v=beta&t=E8rhU-gBYLtcE3GtRZ0Rx34ZDxDIurbNncqZj9sHyA8",
+          "title": "Assistant Manager",
+          "subtitle": "Deloitte . Full-time",
+          "caption": "Jul 2011 - Mar 2018 · 6 yrs 8 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "20688",
+          "companyUrn": "urn:li:fsd_company:20688",
+          "companyLink1": "https://www.linkedin.com/company/maq-software/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEVL66HVbc9Dw/company-logo_400_400/company-logo_400_400/0/1631305393313?e=1785369600&v=beta&t=9hPKFl2JetGKkVWhHj_13XB0YIRnNbNngZkC6lG0ozw",
+          "title": "Software Development Engineer",
+          "subtitle": "MAQ Software . Full-time",
+          "caption": "Aug 2009 - Jul 2011 · 1 yr 11 mos",
+          "metadata": "Hyderabad",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "ASP.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WCF",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET Web API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET MVC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15129595",
+          "companyUrn": "urn:li:fsd_company:15129595",
+          "companyLink1": "https://www.linkedin.com/school/vnrvjiethyd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFPgYBnm3XUZg/company-logo_100_100/B56ZtGiy67K4AQ-/0/1766415085896/vnrvjiethyd_logo?e=1785369600&v=beta&t=nSsFfv0OPCpC67Px7Bws-7MPdT_e8y4tvdOkBoqKL_I",
+          "title": "VNR Vignanajyothi Institute of Engineering & Technology",
+          "subtitle": "Bachelor of Technology - BTech, Computer Science",
+          "caption": "2005 - 2009",
+          "subComponents": []
+        },
+        {
+          "companyId": "13471811",
+          "companyUrn": "urn:li:fsd_company:13471811",
+          "companyLink1": "https://www.linkedin.com/school/bala-vignana-mandir-e-m-school-rajahmundry/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFktoaMekhm-w/company-logo_400_400/company-logo_400_400/0/1631344031120?e=1785369600&v=beta&t=F3C3R-nLJEFb5VwrcsYtmNevOtZfO0uiV0FqYGSHJJY",
+          "title": "Bala Vignana Mandir (E.M) School ,Rajahmundry",
+          "subtitle": "null, High School/Secondary Diplomas and Certificates",
+          "caption": "1994 - 2003",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

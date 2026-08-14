@@ -1,0 +1,423 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/codycrozier",
+  "row_key": "id:003Uk00000yfW36IAE",
+  "person": "Cody Crozier",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABcwn7oBNaxDRaFNAee_LBiyK8gEFA-F9ng",
+      "firstName": "Cody",
+      "lastName": "Crozier",
+      "fullName": "Cody Crozier",
+      "publicIdentifier": "codycrozier",
+      "headline": "Senior Frontend Engineer @ Coinbase · Payments, Fintech, Wallet UI · React · TypeScript · GraphQL ·  AI tooling",
+      "about": "I'm a lifelong learner with a thirst for solving tough problems. I began coding on my own and found a passion in web development.  I find software engineering to be the science that best utilizes my ability to solve problems and think critically. ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Phoenix Area United States",
+      "addressWithoutCountry": "Greater Phoenix Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQH3W3x8-35X5g/profile-displayphoto-crop_800_800/B56Z8OyBiOHIAI-/0/1782659423602?e=1785369600&v=beta&t=vL4DoiMalVteChoLZYINKrCkYZLHrac3ayM7gdcEhQk",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQEaU3jSzVgzVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517565518905?e=1785369600&v=beta&t=1lFUFiTBu0ziMaMtntq_HyfkD5DIyWmKjYKMSkCahYI",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH3W3x8-35X5g/profile-displayphoto-scale_400_400/B56Z8OyBiOHIAg-/0/1782659423603?e=1785369600&v=beta&t=8eq9UakZr9rge34DMKM6EBYp0Q6M7WA3SS0-Tbq1yaY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH3W3x8-35X5g/profile-displayphoto-scale_200_200/B56Z8OyBiOHIAc-/0/1782659423603?e=1785369600&v=beta&t=bceXyxXW3h9Me9Qo6RYkxrBmB_7Qubjez3A3Dn4jC6k"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH3W3x8-35X5g/profile-displayphoto-scale_100_100/B56Z8OyBiOHIAY-/0/1782659423603?e=1785369600&v=beta&t=mLwlotA-DIDYjH0xAWQz_6cpZ_p6SVj2BNjehlzlrZg"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH3W3x8-35X5g/profile-displayphoto-crop_800_800/B56Z8OyBiOHIAI-/0/1782659423602?e=1785369600&v=beta&t=vL4DoiMalVteChoLZYINKrCkYZLHrac3ayM7gdcEhQk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQEaU3jSzVgzVw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517565518826?e=1785369600&v=beta&t=kd8gqNm5QpNv41VLhc1bpMXzl5p_ce7IC0loCdf_e4M"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQEaU3jSzVgzVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517565518905?e=1785369600&v=beta&t=1lFUFiTBu0ziMaMtntq_HyfkD5DIyWmKjYKMSkCahYI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 4 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Apr 2023 - Present · 2 yrs 9 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Frontend lead for Coinbase Smart Wallet. I owned core wallet, transaction, and onboarding surfaces, handling 2.1M+ transactions since launch.\n\nFrontend owner for Base Pay, an end-to-end payments experience built with backend, smart-contract, and external partner teams (Coinbase Commerce, Shopify), powering 40K+ transactions.\n \nBuilt an AI-powered on-call reporting system using MCP servers and n8n to aggregate incident and paging data, generate reports, and publish trends to a dashboard, cutting manual reporting overhead and surfacing reliability insights."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jun 2021 - Apr 2023 · 1 yr 10 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Coinbase wallet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2449850",
+          "companyUrn": "urn:li:fsd_company:2449850",
+          "companyLink1": "https://www.linkedin.com/company/nearform/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAc7UltY3ilw/company-logo_100_100/B4DZ9A.JWZHEAM-/0/1783501461236/nearform_logo?e=1785369600&v=beta&t=0dZJqS_g3lOYH2iSOX1mhKTMOIDBhAq8JxWrDoyiSx0",
+          "title": "Formidable ",
+          "subtitle": "undefined · 2 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer IV",
+              "caption": "Dec 2020 - Jun 2021 · 6 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer III",
+              "caption": "Dec 2019 - Dec 2020 · 1 yr",
+              "description": []
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "May 2019 - Dec 2019 · 7 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2780388",
+          "companyUrn": "urn:li:fsd_company:2780388",
+          "companyLink1": "https://www.linkedin.com/company/invitation-homes/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFJp7p2PVTmSw/company-logo_400_400/company-logo_400_400/0/1686758855918/invitation_homes_logo?e=1785369600&v=beta&t=-ZpYOxJZE8Rnmw3UNs-3CXx_v7n2cb-zuWCKaq9QYac",
+          "title": "Software Engineer",
+          "subtitle": "Invitation Homes . undefined",
+          "caption": "Feb 2018 - May 2019 · 1 yr 3 mos",
+          "metadata": "Scottsdale, Arizona",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "164848",
+          "companyUrn": "urn:li:fsd_company:164848",
+          "companyLink1": "https://www.linkedin.com/company/maricopa-county/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAwmD0aJyn7A/company-logo_200_200/B56ZUlOvI8GQAM-/0/1740086375283/maricopa_county_logo?e=1785369600&v=beta&t=rWMpcpM0RNjDf1UAo9vznL_oo4fpcGfdeZSgIijQHEI",
+          "title": "Environmental Health Specialist",
+          "subtitle": "Maricopa County . undefined",
+          "caption": "Aug 2016 - Jul 2017 · 11 mos",
+          "metadata": "Phoenix, Arizona Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tConduct water analysis to test for the presence of various analytes in public water systems.\n•\tInvestigate water systems to determine compliance with county public health/environmental rules and regulations.\n•\tReview and comment on plans, specifications, and construction regarding compliance with environmental codes and regulations."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4680",
+          "companyUrn": "urn:li:fsd_company:4680",
+          "companyLink1": "https://www.linkedin.com/company/cvshealth/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEhOw_KVli-CQ/company-logo_400_400/company-logo_400_400/0/1669901807779/cvs_health_logo?e=1785369600&v=beta&t=FBUioPs02UZZmBwbnLXFIIxzZcEI-enN5NvqipqE59U",
+          "title": "Pharmacy Technician",
+          "subtitle": "CVS Health . undefined",
+          "caption": "May 2015 - Sep 2016 · 1 yr 4 mos",
+          "metadata": "Flagstaff, Arizona Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tProcess over 100 prescriptions per shift through successful prescription data entry, accurate filling of medication, and exceptional problem solving skills at the point of sale.\n•\tMaintain accurate inventory levels by pulling and returning recalled, expired, and damaged merchandise, performing daily drug order for out of stock medication, and updating balance on hand inventory.\n•\tDeveloping exceptional customer service skills by handling 30+ customer phone calls per shift regarding problems with prescriptions and ensuring accurate customer expectations."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "165218",
+          "companyUrn": "urn:li:fsd_company:165218",
+          "companyLink1": "https://www.linkedin.com/school/northern-arizona-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJP4PaFNhQLg/company-logo_400_400/company-logo_400_400/0/1630661606732?e=1785369600&v=beta&t=owN6lMdz9o3L4eUg581wo3xUo4lrNOLyVUy2RSmbbWE",
+          "title": "Undergraduate Research Assistant",
+          "subtitle": "Northern Arizona University . undefined",
+          "caption": "Aug 2015 - May 2016 · 9 mos",
+          "metadata": "Flagstaff, Arizona Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tCultured cells, prepared media, performed laboratory calculations, and prepared solutions/dilutions.\n•\tPerformed minimal inhibitory concentration and static biofilm assays to determine cell viability against anti-microbial compounds.\n•\tMaintained cleanliness, order, and organization of a BSL 2 laboratory.\n•\tPresented research exploring the effects of a novel, eco-friendly detergent on pre-formed bacterial biofilms at the UGRADS research symposium at Northern Arizona University."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [
+        {
+          "title": "Kappa Sigma Fraternity",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Javascript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bootstrap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AJAX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Github",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Word",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microbiology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chemistry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Express.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mocha",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2873686",
+          "companyUrn": "urn:li:fsd_company:2873686",
+          "companyLink1": "https://www.linkedin.com/school/university-of-arizona-south/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQELfyXsSA44WA/company-logo_400_400/company-logo_400_400/0/1631393046604?e=1785369600&v=beta&t=IL4htyQ4TmghvVPbMDgeEEOKD9kBjY-4VicAHaN4ROM",
+          "title": "University of Arizona South Continuing Education",
+          "subtitle": "Full Stack Software Development, Computer Software Engineering",
+          "caption": "2017 - 2018",
+          "subComponents": []
+        },
+        {
+          "companyId": "165218",
+          "companyUrn": "urn:li:fsd_company:165218",
+          "companyLink1": "https://www.linkedin.com/school/northern-arizona-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJP4PaFNhQLg/company-logo_400_400/company-logo_400_400/0/1630661606732?e=1785369600&v=beta&t=owN6lMdz9o3L4eUg581wo3xUo4lrNOLyVUy2RSmbbWE",
+          "title": null,
+          "subtitle": "Bachelor of Science in Chemistry, null",
+          "caption": "2011 - 2016",
+          "subComponents": []
+        },
+        {
+          "companyId": "165218",
+          "companyUrn": "urn:li:fsd_company:165218",
+          "companyLink1": "https://www.linkedin.com/school/northern-arizona-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJP4PaFNhQLg/company-logo_400_400/company-logo_400_400/0/1630661606732?e=1785369600&v=beta&t=owN6lMdz9o3L4eUg581wo3xUo4lrNOLyVUy2RSmbbWE",
+          "title": "Northern Arizona University",
+          "subtitle": "Bachelor of Science in Biology, null",
+          "caption": "2011 - 2016",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

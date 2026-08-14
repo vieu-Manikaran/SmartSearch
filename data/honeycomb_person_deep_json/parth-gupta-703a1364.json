@@ -1,0 +1,362 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/parth-gupta-703a1364",
+  "row_key": "id:003Uk00000yfSzeIAE",
+  "person": "Parth Gupta",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:49Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA2tITMB6KtdZUFmaWu6P23wpNYpxR0NrQY",
+      "firstName": "Parth",
+      "lastName": "Gupta",
+      "fullName": "Parth Gupta",
+      "publicIdentifier": "parth-gupta-703a1364",
+      "headline": "Senior Software Engineer",
+      "about": "An avid problem solver with a passion for delivering scalable, high-impact solutions in fast-paced, uncertain environments and quickly mastering new technologies. \nWith a track record of leading system designs and architecture, and managing stakeholders like a business leader, I bring technical-business leadership and multi-domain expertise.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Bengaluru, Karnataka India",
+      "addressWithoutCountry": "Bengaluru, Karnataka",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEa43DYjbtL9Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517606569395?e=1785369600&v=beta&t=D-3FnrS9vdeRRoSlyxHFkhkWjRrNhLT7Lbc3ZKOXcQc",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEa43DYjbtL9Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517606569442?e=1785369600&v=beta&t=e0LwcwRePdkP4MEkzrjK35-XYx0AtQ48B-yDo9phCnY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEa43DYjbtL9Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517606569365?e=1785369600&v=beta&t=87FWI4W1BR2vhndeBTZ3-8nggwd4sQ62Ro1d4qtM6V0"
+        },
+        {
+          "width": 306,
+          "height": 306,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEa43DYjbtL9Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517606569403?e=1785369600&v=beta&t=nvagnzctMd5EQ6VRBWJWsl1Fo9QKtxVNRFgWjoXze_k"
+        },
+        {
+          "width": 306,
+          "height": 306,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEa43DYjbtL9Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517606569395?e=1785369600&v=beta&t=D-3FnrS9vdeRRoSlyxHFkhkWjRrNhLT7Lbc3ZKOXcQc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Aug 2025 - Present · 5 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Data Platform"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3185",
+          "companyUrn": "urn:li:fsd_company:3185",
+          "companyLink1": "https://www.linkedin.com/company/salesforce/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFuQMSI3zgmRw/company-logo_100_100/B56Z3aploQGoAQ-/0/1777489828808/salesforce_logo?e=1785369600&v=beta&t=Gnuo0ouQhGzyy5QRnWSEFz8AnMpJCNllTYgrBjVeb2I",
+          "title": "Senior Member of Technical Staff",
+          "subtitle": "Salesforce . Full-time",
+          "caption": "Mar 2024 - Aug 2025 · 1 yr 5 mos",
+          "metadata": "Bangalore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1382",
+          "companyUrn": "urn:li:fsd_company:1382",
+          "companyLink1": "https://www.linkedin.com/company/goldman-sachs/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_400_400/company-logo_400_400/0/1722506756452/goldman_sachs_logo?e=1785369600&v=beta&t=VufLtGwv8qd6YsWIe_wBt5msLfjrCmZuhnMrP-aUmmI",
+          "title": "Vice President Engineering Technology",
+          "subtitle": "Goldman Sachs . Full-time",
+          "caption": "Apr 2018 - Mar 2024 · 5 yrs 11 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5616526",
+          "companyUrn": "urn:li:fsd_company:5616526",
+          "companyLink1": "https://www.linkedin.com/company/shop101/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQERl0fq8EFGJg/company-logo_400_400/company-logo_400_400/0/1631307672165?e=1785369600&v=beta&t=kY3TBRRiwv5VDyS_e5udNuZFfiRjo_Xi6BLg508n-dY",
+          "title": "Software Development Engineer",
+          "subtitle": "Shop101 . undefined",
+          "caption": "Jun 2016 - Mar 2018 · 1 yr 9 mos",
+          "metadata": "Mumbai, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Front-End Web UI Frameworks and Tools",
+          "subtitle": "Coursera",
+          "issued": "Issued Feb 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "HTML, CSS and JavaScript",
+          "subtitle": "Coursera",
+          "issued": "Issued Feb 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Welcome to Game Theory",
+          "subtitle": "Coursera",
+          "issued": "Issued Mar 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Apache Superset",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nginx",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technology Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RabbitMQ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Boot",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Webrtc",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VoIP protocols SIP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "157269",
+          "companyUrn": "urn:li:fsd_company:157269",
+          "companyLink1": "https://www.linkedin.com/school/indian-institute-of-technology-roorkee/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFxnsvax1W4UQ/company-logo_400_400/company-logo_400_400/0/1631431492069/indian_institute_of_technology_roorkee_logo?e=1785369600&v=beta&t=zY_T_-c1hbFZzGf6U4yyw9UyqgFkJTyn39NuTBJIyok",
+          "title": "IIT Roorkee",
+          "subtitle": "INT. M.tech in Polymer Science And Technology, Tarang(Annual Cultural Fest), Dramatics Club, The Media And Publishing Club",
+          "caption": "2011 - 2016",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

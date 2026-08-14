@@ -1,0 +1,598 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/mohamed3amer",
+  "row_key": "id:003Uk00000ya8WIIAY",
+  "person": "Mohamed Amer",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:59Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAdjfIYBr7yPjzuuRfuZtDR8h02BrO-W3-s",
+      "firstName": "Mohamed",
+      "lastName": "Amer",
+      "fullName": "Mohamed Amer",
+      "publicIdentifier": "mohamed3amer",
+      "headline": "Senior Software Engineer (iOS) at Yelp",
+      "about": "A software engineer with 11+ years of experience, specializing in iOS development and mobile platform engineering. I hold a Very Good degree in Computer and Information Science from Ain Shams University, Egypt.\n\nI’ve grown from building iOS applications to working on platform and infrastructure focusing on developer experience, building iOS apps, CI/CD automation, release management, and scalable tooling.\n\nI bring full commitment to every project I’m part of and enjoy mentoring engineers and contributing to team roadmap direction.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQGuzvVrLJbDrA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1663311572234?e=1785369600&v=beta&t=sEkK-rrKkv7vauCnbG3BJbXYOBDIj1dOOpY7zx18LvM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGuzvVrLJbDrA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1663311572234?e=1785369600&v=beta&t=APvweejuRBKO674clVt10CfHO4okQ7YpSFHLEDPE4Bw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGuzvVrLJbDrA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1663311572234?e=1785369600&v=beta&t=tMV7MYgpiNoPVbAP9qWcEIsbnLNK1Nwb0DvqXhwZwCQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGuzvVrLJbDrA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1663311572234?e=1785369600&v=beta&t=U2KOb9cIQHjO8gwZV0GUlw01W9EZU4b4wTJlSo511Bc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGuzvVrLJbDrA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1663311572234?e=1785369600&v=beta&t=sEkK-rrKkv7vauCnbG3BJbXYOBDIj1dOOpY7zx18LvM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Senior Software Engineer (iOS)",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Mar 2022 - Present · 3 yrs 10 mos",
+          "metadata": "Greater London",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Part of the Core iOS team in the DevX org, focusing on improving developer experience and enabling iOS engineers to build business features more efficiently, faster, and with higher quality through scalable platform solutions and automation tooling.\n\n1. Streamlined the iOS release management process by automating key workflows, reducing manual overhead.\n2. Led the crash alerting improvements to monitor iOS releases and provide actionable decision guidance to release managers.\n3. Improved UI testing for critical user paths, enabling earlier detection of major issues before production.\n4. Led observability improvements for developer tooling and enhanced testability through better dependency injection.\n5. Automated QA tracking processes and introduced code coverage reporting on pull requests.\n6. Led the AWS CI fleet upgrade to the latest Mac models and contributed to migrating iOS Jenkins pipelines to Kubernetes.\n7. Keep the iOS tech stack current with the latest Xcode, iOS, and macOS versions.\n8. Mentored iOS engineers and contributed to team roadmap planning.\n\nTools: Swift, Xcode, Jenkins, AWS Services, Kubernetes, Terraform, Splunk, Python, Carthage, SPM, Kotlin, Gradle, Bazel"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2393200",
+          "companyUrn": "urn:li:fsd_company:2393200",
+          "companyLink1": "https://www.linkedin.com/company/delivery-hero-se/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFOZbu6XEJUAw/company-logo_400_400/company-logo_400_400/0/1688740737160/delivery_hero_se_logo?e=1785369600&v=beta&t=fQe6tF_i_GWEMzZptuyVzxDOxfkEFARPOOg4a_rljgo",
+          "title": "Senior Software Engineer (iOS)",
+          "subtitle": "Delivery Hero . Full-time",
+          "caption": "Mar 2021 - Mar 2022 · 1 yr",
+          "metadata": "Berlin, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Part of the Mobile Infra team, focused on improving developer experience and enabling iOS engineers to build business features more efficiently.\n\n1. Contributed to large-scale products with multiple brands.\n2. Eliminated a legacy Obj-C network layer and two third-party dependencies, reducing the project’s complexity and improving maintainability.​​​​​​​​​​​​​​​​\n3. Evaluated the migration path from Carthage to Swift Package Manager, defined the roadmap, and contributed to its implementation."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11467061",
+          "companyUrn": "urn:li:fsd_company:11467061",
+          "companyLink1": "https://www.linkedin.com/company/inviatravelgermany/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGPCezWgBzhNg/company-logo_100_100/B4EZa0V2aLHcAQ-/0/1746782349449/inviatravelgermany_logo?e=1785369600&v=beta&t=QaXzKZa851zUuhYnkfspNnwKq-3NLSCtBQxf070y020",
+          "title": "Invia Group Germany",
+          "subtitle": "Full-time · 2 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Software Engineer (iOS & Flutter)",
+              "caption": "Nov 2018 - Feb 2021 · 2 yrs 3 mos",
+              "metadata": "Berlin Area, Germany",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "1. Led team technically and developing in the ab-in-den-urlaub iOS app.\n2. Enhanced the iOS app CI/CD pipeline by using Gitlab CI, Fastlane, and Appium for UI testing.\n3. Re-wrote the ab-in-den-urlaub app with Flutter from scratch.\n4. Developed a separate Flutter UI package for reusable UI components."
+                }
+              ]
+            },
+            {
+              "title": "Senior iOS Developer",
+              "caption": "May 2018 - Oct 2018 · 5 mos",
+              "metadata": "Berlin, Germany",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "◦ Developed Companion module with offline mode module using Core Data.\n◦ Migrated and rewrote the booking module from Objective-C to Swift.\n◦ Participating in technical analysis, architecture, design, unit testing, and coding."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1217",
+          "companyUrn": "urn:li:fsd_company:1217",
+          "companyLink1": "https://www.linkedin.com/company/vodafone/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGAjVTnzEmlYQ/company-logo_400_400/company-logo_400_400/0/1630668724567/vodafone_logo?e=1785369600&v=beta&t=0nKHqC8V6xK39nBp-v6pQlrLSwP2nwrnkNn7yOmyA3s",
+          "title": "iOS Lead Software Engineer",
+          "subtitle": "Vodafone . Full-time",
+          "caption": "Jul 2017 - Apr 2018 · 9 mos",
+          "metadata": "Cairo Governorate, Egypt",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "◦\tLeading team technically.\n◦\tDeveloped Mi Vodafone Spain app from scratch.\n◦\tParticipating in technical analysis, architecture, design, unit testing, and coding."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "623785",
+          "companyUrn": "urn:li:fsd_company:623785",
+          "companyLink1": "https://www.linkedin.com/company/robusta-studio/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF0WIMp7TQXfw/company-logo_400_400/company-logo_400_400/0/1678028986307/robusta_studio_logo?e=1785369600&v=beta&t=M0Gy_DF07kNdkJbHqXiGk8TPELnBybpjHKgFKupGk8A",
+          "title": "Senior iOS Developer",
+          "subtitle": "Robusta Studio . Full-time",
+          "caption": "Apr 2017 - Jul 2017 · 3 mos",
+          "metadata": "Cairo Governorate, Egypt",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "◦\tDeveloped the Lafarge Scaffolds app using RxSwift."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "235489",
+          "companyUrn": "urn:li:fsd_company:235489",
+          "companyLink1": "https://www.linkedin.com/company/knowledgenet/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHUgP7qrTxmEg/company-logo_400_400/company-logo_400_400/0/1659347198849/knowledgenet_logo?e=1785369600&v=beta&t=zI9hW7rXxf2bKMv4y1ev7yH93zEH5RXzha5PIEKf__0",
+          "title": "KnowledgeNet",
+          "subtitle": "Full-time · 4 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior iOS Developer",
+              "caption": "Jan 2017 - Apr 2017 · 3 mos",
+              "metadata": "Cairo Governorate, Egypt",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "◦\tActing as Technical Lead for iOS team.\n◦\tProduct support; working with fully qualified team to develop change requests for clients.\n\nKnowledgeNet (KN) Clients:-\n     Emirates NBD Bank, ADIB Bank, NBAD Bank, NAEM Brokerage Firm, Samba Bank, Al Rajhi\nBank, ...etc"
+                }
+              ]
+            },
+            {
+              "title": "Senior iOS Developer",
+              "caption": "Jan 2016 - Jan 2017 · 1 yr",
+              "metadata": "Dubai, United Arab Emirates",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "◦\tMoved to KN Dubai branch to apply a mission-critical strategy.\n        -\tCustomer Interface.\n        -\tDevelop new requirements on the client’s site."
+                }
+              ]
+            },
+            {
+              "title": "Senior iOS Developer",
+              "caption": "Jun 2015 - Jan 2016 · 7 mos",
+              "metadata": "Cairo Governorate, Egypt",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "◦\tCreated technical design for modules, unit testing, and developing new features.\n◦\tDeveloped TTouch iOS product iPad version with more features than the iPhone version."
+                }
+              ]
+            },
+            {
+              "title": "Junior iOS Developer",
+              "caption": "Nov 2013 - Jun 2015 · 1 yr 7 mos",
+              "metadata": "Cairo Governorate, Egypt",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "◦\tFinished iOS Training from ITS training center on KnowledgeNet’s site.\n◦\tDeveloped TTouch iOS product from scratch."
+                }
+              ]
+            },
+            {
+              "title": "Junior .Net Developer",
+              "caption": "Apr 2013 - Nov 2013 · 7 mos",
+              "metadata": "Cairo Governorate, Egypt",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Arabic",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Delegation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Coordination",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mentoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Appium",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flutter",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SPM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Carthage",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gitlab CI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bootstrap (Framework)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ActiveMQ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bazel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Paython",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2857404",
+          "companyUrn": "urn:li:fsd_company:2857404",
+          "companyLink1": "https://www.linkedin.com/school/ain-shams-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH7PfN-Bc9p1A/company-logo_400_400/company-logo_400_400/0/1631318000872?e=1785369600&v=beta&t=3FqY-thsNVNNp6tEN8VIHjPTMfx4uzVQrKxRkczEkXM",
+          "title": "Ain Shams University",
+          "subtitle": "Very Good, Computer Science",
+          "caption": "2007 - 2011",
+          "subComponents": []
+        },
+        {
+          "title": "Tabary Sheratoon School",
+          "subtitle": "null, Secondary Education and Teaching",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "93,65 %"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Yelp",
+          "subtitle": "Mar 2022 - Mar 2022",
+          "subComponenets": []
+        },
+        {
+          "title": "Pandora platform",
+          "subtitle": "Mar 2021 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- multi-brand mobile app for ordering food.\n- Foodora: https://apps.apple.com/us/app/foodora-local-food-delivery/id998930867\n- Mjam: https://apps.apple.com/us/app/mjam-delivery-for-food/id488694956#?platform=iphone\n- NetPincér: https://apps.apple.com/us/app/netpinc%C3%A9r-%C3%A9telrendel%C3%A9s/id975208947"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ab-in-den-urlaub (iOS)",
+          "subtitle": "May 2015 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "-\tAchievements:\n◦\tRe-wrote booking module with offline mode support using the iOS Core Data.\n◦\tEnhanced the iOS app CI/CD pipeline by using Gitlab CI and Fastlane."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ADIB Securities for iPhone",
+          "subtitle": "May 2014 - May 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "ADIB Securities brings access to your brokerage account right on to your iPhone. The app offers advanced features yet on an easy to use interface and is available in both Arabic and English Language. Some of the features are:\n\n- Real time prices\n- Order placement and monitoring\n- Personalized watch list\n- Interactive intraday and historical charts\n- Complete and up to date portfolio and cash positions\n- Market News"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TradeNetX - FoxX  (.NET Desktop) Product",
+          "subtitle": "Apr 2013 - Apr 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Integrated management system for financial institutions and \nbrokerage firms.\n-  Technologies: WPF, Web Services, AMQ Feed Server and Oracle DB."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BlueNet Access",
+          "subtitle": "2011 - 2011",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Ain Shams University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "BlueNet Access (Internet Browsing via Bridging Bluetooth Ad-hoc Network): To browse the \ninternet via Bluetooth For mobile phones (Android - J2ME) and PCs in ad-hoc network. \n(JAVA SE - Android - J2ME)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mi Vodafone Spain",
+          "subtitle": "Jul 2017 - Apr 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "-\tRoles:\n◦\tLeading team technically.\n◦\tSolving design problems."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lafarge Scaffolds",
+          "subtitle": "Apr 2017 - May 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Internal app for Lafarge company http://www.lafarge.com.eg/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TTouch (iOS - iPhone/iPad) Product",
+          "subtitle": "Apr 2013 - Apr 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Equity stocks trading app for brokerage firms and financial companies that support trading and displaying prices for multiple markets.\n\n- Technologies: Objective-C, Web Services, ActiveMQ Feed Server, and Oracle DB.\n\n- App Store Links:\n   1. (TTouch) ADIB Securities: https://itunes.apple.com/eg/app/adib-securities/id921368438?mt=8\n  2. (TTouch) ENBD eBroker Mobile: https://itunes.apple.com/ae/app/ebroker-mobile/id541436423?mt=8\n  3. (TTouch) NBADS Trade: https://itunes.apple.com/sg/app/nbads-trade/id721512664?mt=8\n  4. (TTouch) Al Wathbah Mobile: https://itunes.apple.com/ie/app/al-wathbah-mobile/id1045081419?mt=8\n  5. (TTouch) NAEEM Brokerage UAE:https://itunes.apple.com/us/app/naeem-brokerage-uae/id994429642?mt=8\n\n-       Features:\n   1. Multiple themes/ languages configured form BKEnd\n   2. Control showing/hiding screens or modules in the app from the BKEnd\n   3. Charts and real-time data\n   4. Has many security solutions\n\n- Achievements:\n    \t1. Contributed to building the product from scratch, establishing core architecture and foundational components.\n\t2. Developed a real-time pricing system integrated across multiple app screens with integration with ActiveMQ server.\n\t3. Built dynamic theming and localization services, configurable remotely from the backend.\n\t4. Led the full migration of the codebase from Objective-C to Swift.\n\t5. Integrated a third-party Charts SDK and extended it with custom features to meet product requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Aqarjee (iOS - iPhone) product",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Aqarjee is a property management system for small \nbusinesses. It will help you manage your properties rental easier, quicker and more efficiently \nanytime and anywhere. Aqarjee application has a bilingual interface (English and Arabic) and \nsupports two calendars (Georgian and Hijri)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ChartIQ (Web) Customization and Integration",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "trading chart component integrated with FoxX \nand TTouch products.\n-  Technologies: Java Script, JQuery, HTML, CSS, Bootstrap, Ajax."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

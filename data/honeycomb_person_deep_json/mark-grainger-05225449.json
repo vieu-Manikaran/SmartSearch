@@ -1,0 +1,337 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/mark-grainger-05225449",
+  "row_key": "id:003Uk00000Pb49UIAR",
+  "person": "Mark Grainger",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAouWD4B2UIX7--oaVqYvL4-P170_ugiUio",
+      "firstName": "Mark",
+      "lastName": "Grainger",
+      "fullName": "Mark Grainger",
+      "publicIdentifier": "mark-grainger-05225449",
+      "headline": "Senior Software Engineer at Lyka",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Melbourne Area Australia",
+      "addressWithoutCountry": "Greater Melbourne Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Jun 2023 - Present · 2 yrs 7 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "36690334",
+          "companyUrn": "urn:li:fsd_company:36690334",
+          "companyLink1": "https://www.linkedin.com/company/hungryhungry/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHm8f0Asz0rHw/company-logo_400_400/company-logo_400_400/0/1637285025728/hungryhungry_logo?e=1785369600&v=beta&t=Fqf8ek2KSx-w3wssh5GxRWsuqkL8FgrU124_rezHaV0",
+          "title": "Senior Software Engineer",
+          "subtitle": "HungryHungry . Full-time",
+          "caption": "Mar 2021 - May 2024 · 3 yrs 2 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2760274",
+          "companyUrn": "urn:li:fsd_company:2760274",
+          "companyLink1": "https://www.linkedin.com/company/shine-on-solar/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFNu2Frte4WXA/company-logo_400_400/company-logo_400_400/0/1631340622618?e=1785369600&v=beta&t=CVHo6GUU5I2V8FJIHeDJxrhcDe-w8gN5jkRShcB51hI",
+          "title": "Senior Developer",
+          "subtitle": "Shine On . Full-time",
+          "caption": "Aug 2019 - Feb 2021 · 1 yr 6 mos",
+          "metadata": "Port Melbourne, VIC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Advised and provided expertise on updates to the existing applications to cope with a rapidly changing landscape. Consulted on proposed integrations with external systems.\n\nIdentified benefits, risks, and alternatives in proposed system designs and their impact with other systems and modules.\n\nDesigned API's and integrated with external API’s providing expertise to support the interactions between internal systems and other applications.\n\nWorked with other experts to define the framework for the application, considering data security, protocols for user access control and token management using cloud services and databases.\n\nProposed improvements in current processes taking into consideration the state-of-the-art in current technologies."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2351708",
+          "companyUrn": "urn:li:fsd_company:2351708",
+          "companyLink1": "https://www.linkedin.com/company/rothfield/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG8T0MyIa6FfQ/company-logo_100_100/B56Zu1uTa_IMAQ-/0/1768280373471/rothfield_logo?e=1785369600&v=beta&t=Nd3wBAJSDPYSaR-ZGPwD6f0ygHUGMXKrupcpHd9E9uw",
+          "title": "Head of Engineering | Lead Developer",
+          "subtitle": "Rothfield Print & Image Management . Full-time",
+          "caption": "Nov 2013 - Aug 2019 · 5 yrs 9 mos",
+          "metadata": "Melbourne, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Project leader on the companies move to enterprise technologies and away from using various outdated legacy systems. In charge of project planning with key groups and stakeholders across the business. \n\nReverse engineered existing systems, distilling business logic into technical briefs within Jira, taking the new system from prototype stage through to an agile release cycle. This was achieved over a 3 year span with a distributed development team based in two different time zones, Australia and India.\n\n• Developed and designed systems that went from taking orders to inventory management and distribution across 3 platforms including handheld warehousing solutions.\n\n• Held daily scum meetings and managed the sprint process from beginning to end performing code review and release of code to production on a 2 weekly cycle.\n\n•  Facilitated technical decisions; incorporated feedback and emergent patterns from the team back into the overall design.\n\n• Provided programming teams with a technical brief that allows little room for misinterpretation.\n\n• Enforced engineering best practices via coding conventions and code review."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior software developer",
+          "subtitle": "Cordis Collective . undefined",
+          "caption": "Apr 2007 - Nov 2013 · 6 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1449",
+          "companyUrn": "urn:li:fsd_company:1449",
+          "companyLink1": "https://www.linkedin.com/company/electronic-arts/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGQxdnYoe0DZQ/company-logo_400_400/B4EZVJmsPmGgAc-/0/1740696634652/electronic_arts_logo?e=1785369600&v=beta&t=Vysjki7_yjnxMxWsodLVvbpGjQ0REdhOpa_7Nbcc8CI",
+          "title": "Filemaker developer",
+          "subtitle": "Electronic Arts . undefined",
+          "caption": "2003 - Apr 2007 · 4 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2238191",
+          "companyUrn": "urn:li:fsd_company:2238191",
+          "companyLink1": "https://www.linkedin.com/company/facilities-management-journal-fmj/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_hQAPrsGZjA/company-logo_400_400/company-logo_400_400/0/1631363581870/kpmmedia_logo?e=1785369600&v=beta&t=V-ChXiNQXO-Smkd5bJJc5HjOgUjbvLU9_q_JMP1skms",
+          "title": "Graphic designer",
+          "subtitle": "Diamond Media Group (DMG) . undefined",
+          "caption": "1999 - 2003 · 4 yrs",
+          "metadata": "Crystal palace, south London",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "vue3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "cdk",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST APIs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Laravel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Laravel Lumen",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Drupal",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servoy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JIRA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Filemaker developer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CakePHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Hugh Baird college",
+          "subtitle": "3 A levels, null",
+          "caption": "1991 - 1993",
+          "subComponents": []
+        },
+        {
+          "title": "Maghull high school",
+          "subtitle": "10 gcse's, null",
+          "caption": "1986 - 1991",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

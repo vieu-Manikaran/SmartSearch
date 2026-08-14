@@ -1,0 +1,277 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/priyanka-sawant-68a37b165",
+  "row_key": "id:003Uk00000yfTBZIA2",
+  "person": "Priyanka Sawant",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:32:01Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACdjOQoB_QYMmYJqhuBR7QXmty68xpH4kjg",
+      "firstName": "Priyanka",
+      "lastName": "Sawant",
+      "fullName": "Priyanka Sawant",
+      "publicIdentifier": "priyanka-sawant-68a37b165",
+      "headline": "Senior Software Engineer at Wipro|| core Java ||Collection ||Hibernate|| Springboot || RESTful web services ll SOAP",
+      "about": "I can easily adapt to a new working environment with good interpersonal skills both independently and as part of a team where I also have the ability to take initiative and work independently. My attitude and the sense of commitment enables me to work efficiently under pressure while maintaining high quality standards",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Pune Division, Maharashtra India",
+      "addressWithoutCountry": "Pune Division, Maharashtra",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Senior Software Engineer",
+          "subtitle": "Wipro . Full-time",
+          "caption": "Apr 2024 - Present · 1 yr 9 mos",
+          "metadata": "Pune, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "12502",
+          "companyUrn": "urn:li:fsd_company:12502",
+          "companyLink1": "https://www.linkedin.com/company/nihilent/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEYyCDORtLOTw/company-logo_400_400/company-logo_400_400/0/1631303539655?e=1785369600&v=beta&t=pg22eRPu7M4GEzFYYc0o-PBhUNLRAlaEgk3bQbYzTuM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Nihilent . Full-time",
+          "caption": "Oct 2022 - Mar 2024 · 1 yr 5 mos",
+          "metadata": "Pune, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1756",
+          "companyUrn": "urn:li:fsd_company:1756",
+          "companyLink1": "https://www.linkedin.com/company/hcltech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_400_400/company-logo_400_400/0/1664197008220/hcltech_logo?e=1785369600&v=beta&t=dwz9JqWaaaU9k2Z0ZsatF50OZfVGGUJYNoAu0xrodkM",
+          "title": "Senior Developer",
+          "subtitle": "HCL Technologies . Full-time",
+          "caption": "Mar 2022 - Oct 2022 · 7 mos",
+          "metadata": "Pune, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Spring Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Banking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RESTful WebServices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kibana logs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Intekel Financer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "kafka-tools",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GitHub",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST APIs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Boot",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hibernate",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring MVC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring DI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Angular",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "375731",
+          "companyUrn": "urn:li:fsd_company:375731",
+          "companyLink1": "https://www.linkedin.com/school/shivaji-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFCDkWlYRRDWQ/company-logo_400_400/company-logo_400_400/0/1667976723013/shivaji_university_logo?e=1785369600&v=beta&t=YJ1m4E2b1Jtxa-vh-ovSKJHA5AknR8e2npBcGeRy30Y",
+          "title": "Shivaji University",
+          "subtitle": "Bachelor of Engineering - BE, null",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "title": "Yashoda Technical campus, Faculty of Engineering, Wadhe",
+          "subtitle": "Bachelor of Engineering - BE, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

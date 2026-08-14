@@ -1,0 +1,596 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/akintaylor",
+  "row_key": "id:003Uk00000ydBW1IAM",
+  "person": "Akinbowale Akin-Taylor",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:19Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACMSRdsBfbWFH8Vj_uZr3wPXEdiZJHK17qE",
+      "firstName": "Akinbowale",
+      "lastName": "A.",
+      "fullName": "Akinbowale A.",
+      "publicIdentifier": "akintaylor",
+      "headline": "Software Engineer at Yelp",
+      "about": "Experienced engineer and builder specialising in scalable infrastructure, machine learning systems, and developer platforms. Experienced in building high-throughput backend systems and applying large language models to automate software engineering tasks. Master's (MMath) in Computer Science from the University of Waterloo, with a thesis focused on improving developer productivity by applying LLMs for build system maintenance (https://hdl.handle.net/10012/21450). Teaching and mentoring are my way of paying it forward and showing gratitude.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Toronto, Ontario Canada",
+      "addressWithoutCountry": "Toronto, Ontario",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEQpbmsBzxl_w/profile-displayphoto-scale_400_400/B56Z7IcEhsGUAg-/0/1781479263389?e=1785369600&v=beta&t=jIhITHzGXsCPxQmTfrZ5VPg7X3siuThwTksg39ZJX4k",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQHiVyjZXRlazQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693678660195?e=1785369600&v=beta&t=zCTY32R2jKK6Xo9KXNKwCJPw1MZda93qAoDsDT5xmhw",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEQpbmsBzxl_w/profile-displayphoto-scale_200_200/B56Z7IcEhsGUAc-/0/1781479263388?e=1785369600&v=beta&t=Tsv92YmemlxWZ3xfu8yWp4pUoC5qLT_1yDxWW7Pw_Xc"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEQpbmsBzxl_w/profile-displayphoto-scale_100_100/B56Z7IcEhsGUAY-/0/1781479263389?e=1785369600&v=beta&t=4IJzcTFWzFTYo5Un9qr8LbA_gie4rkYX39b8Y6qt8pw"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEQpbmsBzxl_w/profile-displayphoto-crop_800_800/B56Z7IcEhsGUAI-/0/1781479263388?e=1785369600&v=beta&t=b0KfbgvQVDjDg8E16ufBUnXLGU3kR1eUCn9NHE9QLTg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEQpbmsBzxl_w/profile-displayphoto-scale_400_400/B56Z7IcEhsGUAg-/0/1781479263389?e=1785369600&v=beta&t=jIhITHzGXsCPxQmTfrZ5VPg7X3siuThwTksg39ZJX4k"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 798,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHiVyjZXRlazQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1693678660195?e=1785369600&v=beta&t=K_DkIjIT-xwO7hUdiEarCifECHC3ibjtlSF9VUsZQ8Q"
+        },
+        {
+          "width": 1170,
+          "height": 293,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHiVyjZXRlazQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693678660195?e=1785369600&v=beta&t=zCTY32R2jKK6Xo9KXNKwCJPw1MZda93qAoDsDT5xmhw"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Software Engineer",
+          "subtitle": "Yelp . Permanent Full-time",
+          "caption": "Jun 2025 - Present · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Ad Bid Optimization (Infrastructure)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Software Engineer",
+          "subtitle": "Microsoft . Full-time",
+          "caption": "Jul 2022 - Apr 2023 · 9 mos",
+          "metadata": "Lagos, Nigeria",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Engineered pipelines to analyze telemetry data for ”EcoRecommendations”, achieving 15% energy savings.\n• Executed ETL for the ”IRIS” campaign, improving energy savings by 8% across devices with inefficient sleep settings.\n• Built part of Microsoft’s data infrastructure to help track their goal of achieving zero carbon emissions by 2030."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "40849242",
+          "companyUrn": "urn:li:fsd_company:40849242",
+          "companyLink1": "https://www.linkedin.com/company/delt-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHuX025czgkMw/company-logo_400_400/company-logo_400_400/0/1645045396364/delt_ai_logo?e=1785369600&v=beta&t=CGxuqGA9leKWD-yztCXDPQ6c7T2nqbjzKrIDMWDMxiQ",
+          "title": "Software Engineer",
+          "subtitle": "delt.ai . Full-time",
+          "caption": "Apr 2020 - Jun 2022 · 2 yrs 2 mos",
+          "metadata": "Mexico City, Mexico (Remote)",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Implemented a user management feature that increased active users by over 100%.\n• Enhanced a back office system, improving the client onboarding experience & increasing completions by over 100%.\n• Implemented an invoicing feature, enabling customers to request & complete payments for pending invoices. Increasing transaction volume by about 20%.\n• Implemented automated code documentation with Sphinx."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10916194",
+          "companyUrn": "urn:li:fsd_company:10916194",
+          "companyLink1": "https://www.linkedin.com/company/buildwithbloc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-vys6pZejjQ/company-logo_200_200/B56Z3Ru6QNG0AI-/0/1777340229438?e=1785369600&v=beta&t=g1Vh96haR88pqsh-HZ-zGIN7yVoHLREV8wsOomo3iYA",
+          "title": "Software Engineer",
+          "subtitle": "TechAdvance . Full-time",
+          "caption": "May 2019 - Apr 2020 · 11 mos",
+          "metadata": "Lagos, Nigeria",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Integrated with third-party API service providers for the API gateway service.\n• Implemented internal endpoints to provide transaction analytics for the business & finance team. \n• Served as interim team leader for four months, leading a small team of three engineers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "22350394",
+          "companyUrn": "urn:li:fsd_company:22350394",
+          "companyLink1": "https://www.linkedin.com/company/tryintelia/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHEpLdT-6c3nw/company-logo_400_400/company-logo_400_400/0/1631352988821?e=1785369600&v=beta&t=_CseEu1IdZVWgFx1aA2FSz3rFJm1ggMqd_JOSJZntqE",
+          "title": "Intelia",
+          "subtitle": "Full-time · 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer",
+              "caption": "Dec 2018 - May 2019 · 5 mos",
+              "metadata": "Lagos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Developed ”KarmaBot”, a project health dashboard highlighting progress & leading stand-up discussions.\n• Implemented automated features for assigning remote days & leave requests, integrated with Slack to enhance user experience."
+                }
+              ]
+            },
+            {
+              "title": "Quality Assurance Engineer",
+              "caption": "Aug 2018 - Dec 2018 · 4 mos",
+              "metadata": "Lagos, Nigeria",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Created & executed test scripts based on software requirement specifications to ensure the final product meets requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "507580",
+          "companyUrn": "urn:li:fsd_company:507580",
+          "companyLink1": "https://www.linkedin.com/company/mainone-cable-company/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGBKVNTATKAxQ/company-logo_400_400/company-logo_400_400/0/1728124147098/mainone_cable_company_logo?e=1785369600&v=beta&t=HuDt3fQp8jLTdQ4j_WiPr31X65DZQlYQqYd5tRKsJgE",
+          "title": "Intern Web Developer",
+          "subtitle": "MainOne . Internship",
+          "caption": "May 2017 - Sep 2017 · 4 mos",
+          "metadata": "Lagos, Nigeria",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsibilities included working with senior developers to build-in house applications.\nBuilt a customer dictionary, which is a web portal showing details of all MainOne’s current customers.\n\nMore specifically:\n- Implemented UI using HTML, CSS, and JQuery.\n- Built a prototype backend for testing and proof of concept with Firebase.\n- Integrated with APIs.\n- Programming Languages/Tools: JavaScript(JQuery), HTML, CSS, Firebase, JSON."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "LFS253: Containers Fundamentals",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Jan 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Mathematical Thinking in Computer Science",
+          "subtitle": "Coursera",
+          "issued": "Issued Aug 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Node.js API Masterclass With Express & MongoDB",
+          "subtitle": "Udemy",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Python Django Dev To Deployment",
+          "subtitle": "Udemy",
+          "issued": "Issued Jul 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Learn Python by Building a Blockchain & Cryptocurrency",
+          "subtitle": "Udemy",
+          "issued": "Issued Jun 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Modern JavaScript From The Beginning",
+          "subtitle": "Udemy",
+          "issued": "Issued May 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Container Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Container Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Container Runtimes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Containers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker APIs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Compose",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Multi-container Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MLOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fine Tuning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Build Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Prompt Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Collaborative Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Extract, Transform, Load (ETL)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Cloud Platform (GCP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": "University of Waterloo",
+          "subtitle": "Master of Mathematics, Graduate Research Assistant, Graduate Teaching Assistant",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Thesis Master's student working on Build System Automation research under Professor Shane McIntosh and Mei Naggapan. \nMember of the Software REBELs (Software Repository Excavation and Build Engineering Labs) and SWAG (Software Architecture Group)."
+            }
+          ]
+        },
+        {
+          "companyId": "76978719",
+          "companyUrn": "urn:li:fsd_company:76978719",
+          "companyLink1": "https://www.linkedin.com/school/babcock-university-ilishan-remo-nigeria/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFD9GnW8bjfHQ/company-logo_400_400/company-logo_400_400/0/1635719862173?e=1785369600&v=beta&t=NJY-KCjCx4yzWm3SgOQkkHD60fiz8rYZTtrMzmC1tZU",
+          "title": "Babcock University, Ilishan-Remo, Nigeria",
+          "subtitle": "Bachelor of Science - BS, Babcock University Computer Club (BUCC); Intradepartmental Football Tournament, 2nd Place.",
+          "caption": "2015 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "4.1/5.0"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Courses included - Introduction to Programming, OOP, Data Structures and Algorithms, Computer Architecture, Computer Hardware, Operating Systems, Software Engineering, Database Systems, System Design and Analysis, etc."
+            }
+          ]
+        },
+        {
+          "companyId": "5336365",
+          "companyUrn": "urn:li:fsd_company:5336365",
+          "companyLink1": "https://www.linkedin.com/school/bridge-house-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGFTUTeX-SsPA/company-logo_400_400/company-logo_400_400/0/1631322610728?e=1785369600&v=beta&t=4e0PAyT1oXDNoEsyNTfca8bCbJowv3E_MGBrh3jFM4c",
+          "title": "Bridge House College",
+          "subtitle": "Cambridge International A-Levels, Chess; Football Team.",
+          "caption": "2013 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Mathematics - A; Physics - B; Economics - B;"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "53411238",
+          "companyUrn": "urn:li:fsd_company:53411238",
+          "companyLink1": "https://www.linkedin.com/school/stanford-code-in-place/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFOi4Y2x5aRXw/company-logo_400_400/company-logo_400_400/0/1678737966476/stanford_code_in_place_logo?e=1785369600&v=beta&t=NIlNxSHkVDsW8jfROql03M73dqegbOgm8BFi-ZjgVO0",
+          "title": "Head Section Leader",
+          "subtitle": "Code in Place",
+          "caption": "Apr 2023 - Jun 2023 · 2 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "72066657",
+          "companyUrn": "urn:li:fsd_company:72066657",
+          "companyLink1": "https://www.linkedin.com/school/kiboschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHRJ7LDml3I9Q/company-logo_400_400/company-logo_400_400/0/1673358033135/kiboschool_logo?e=1785369600&v=beta&t=ESua-S2PQ5yLbFyPJG-FgHAyLFFp0vwI4iDF5TxsxpU",
+          "title": "Mentor",
+          "subtitle": "Kibo School",
+          "caption": "Oct 2022 - Aug 2023 · 10 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "72066657",
+          "companyUrn": "urn:li:fsd_company:72066657",
+          "companyLink1": "https://www.linkedin.com/school/kiboschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHRJ7LDml3I9Q/company-logo_400_400/company-logo_400_400/0/1673358033135/kiboschool_logo?e=1785369600&v=beta&t=ESua-S2PQ5yLbFyPJG-FgHAyLFFp0vwI4iDF5TxsxpU",
+          "title": "Teaching Assistant",
+          "subtitle": "Kibo School",
+          "caption": "Nov 2021 - Dec 2021 · 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "53411238",
+          "companyUrn": "urn:li:fsd_company:53411238",
+          "companyLink1": "https://www.linkedin.com/school/stanford-code-in-place/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFOi4Y2x5aRXw/company-logo_400_400/company-logo_400_400/0/1678737966476/stanford_code_in_place_logo?e=1785369600&v=beta&t=NIlNxSHkVDsW8jfROql03M73dqegbOgm8BFi-ZjgVO0",
+          "title": "Section Leader",
+          "subtitle": "Code in Place",
+          "caption": "Apr 2021 - May 2021 · 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5351527",
+          "companyUrn": "urn:li:fsd_company:5351527",
+          "companyLink1": "https://www.linkedin.com/company/andela/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF4stmbN8pBjg/company-logo_200_200/B4EZc7N7F4HgAI-/0/1749045195669/andela_logo?e=1785369600&v=beta&t=3_sCCwZY0A3NQ6WB8RVNDxJE8fvV8tuKSfUCxO94eYk",
+          "title": "Andela Learning Community Peer Learning Group Mentor",
+          "subtitle": "Andela",
+          "caption": "Sep 2019 - Dec 2019 · 3 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

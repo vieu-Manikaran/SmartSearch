@@ -1,0 +1,502 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/josephkunzler",
+  "row_key": "id:003Uk00000yfTx0IAE",
+  "person": "Joseph Kunzler",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:01Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA0CSfoB8KYhWi0D4RmUYQY9yP9VyjeVpVw",
+      "firstName": "Joseph",
+      "lastName": "Kunzler",
+      "fullName": "Joseph Kunzler",
+      "publicIdentifier": "josephkunzler",
+      "headline": "Senior Software Engineer at Coinbase",
+      "about": "Senior Engineer with a background designing, testing and implementing infrastructure and distributed applications. Certified AWS Solutions Architect - particularly focused in serverless architecture design patterns and strategies for building high-performance, secure, & cost-efficient systems in the cloud(s).",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Tampa, Florida United States",
+      "addressWithoutCountry": "Tampa, Florida",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEAq0qDRUe00A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686717162036?e=1785369600&v=beta&t=N5s_bqSoLLLlraOpfkHlTGkBJgysfETzapSRp1DPjh8",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQEHDKsK7X-L0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1594840057428?e=1785369600&v=beta&t=odjHjuThHBkwi3T6z5dDc6MFIlbrnyM7uPy34n7AfZg",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEAq0qDRUe00A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1686717162036?e=1785369600&v=beta&t=Apxk9P53nlSc_y5H5O-5jc_mmEhvSf5rnoTaXFnSYu8"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEAq0qDRUe00A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1686717162036?e=1785369600&v=beta&t=3HUf0Np0GSJQ5oJrGdy5n6z18tbWXuIqHU1QhOIHdF4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEAq0qDRUe00A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1686717162036?e=1785369600&v=beta&t=MoHRcA1elbgN0DsOn9eqI2OwMuo071LAg6nsgjiAP-0"
+        },
+        {
+          "width": 492,
+          "height": 492,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEAq0qDRUe00A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686717162036?e=1785369600&v=beta&t=N5s_bqSoLLLlraOpfkHlTGkBJgysfETzapSRp1DPjh8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQEHDKsK7X-L0Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1594840057428?e=1785369600&v=beta&t=S837hG6FkDjeOHjV0Huz-ZZE2udTLknxG7DA8lWLuAw"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQEHDKsK7X-L0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1594840057428?e=1785369600&v=beta&t=odjHjuThHBkwi3T6z5dDc6MFIlbrnyM7uPy34n7AfZg"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 5 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2025 - Present · 11 mos",
+              "metadata": "Tampa, FL",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Full Stack | Prime Brokerage & Institutional"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Jan 2023 - Feb 2025 · 2 yrs 1 mo",
+              "metadata": "Tampa, Florida, United States",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Dec 2021 - Jan 2023 · 1 yr 1 mo",
+              "metadata": "Tampa, Florida, United States",
+              "description": []
+            },
+            {
+              "title": "DevOps Engineer",
+              "caption": "Aug 2020 - Dec 2021 · 1 yr 4 mos",
+              "metadata": "Tampa, Florida, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "At Coinbase, our mission is to build an open financial system. We’re doing this to increase the amount of economic freedom in the world, a measurable concept that can be greatly accelerated with the adoption of cryptocurrency."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "34230078",
+          "companyUrn": "urn:li:fsd_company:34230078",
+          "companyLink1": "https://www.linkedin.com/company/tagomi/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGQtBSGNopdVw/company-logo_400_400/company-logo_400_400/0/1630598573701/tagomi_logo?e=1785369600&v=beta&t=cyaz0hPIgZza3UCjzMJvSE9JtJ1o0hPraLIZO6_OMZk",
+          "title": "DevOps Engineer",
+          "subtitle": "Tagomi (Acq. Coinbase) . Full-time",
+          "caption": "Jun 2019 - Aug 2020 · 1 yr 2 mos",
+          "metadata": "Tampa, Florida, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Tagomi has one mission — provide clients with the best possible execution so they can keep more of their returns. Tagomi combines institutional-grade services with superior execution technology for digital assets and cryptocurrencies. Our advanced routing tactics and execution algorithms analyze real-time and historical data to decide where and when to trade."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "88949394",
+          "companyUrn": "urn:li:fsd_company:88949394",
+          "companyLink1": "https://www.linkedin.com/company/camoag/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHx4JKxCihXaQ/company-logo_200_200/B56ZgeVyePH0AI-/0/1752855685488/camoag_logo?e=1785369600&v=beta&t=9UWnmgZO7Vy3ofJ0I2ezuZ4sMxByQjO1enzAnpaD7TA",
+          "title": "DevOps Engineer",
+          "subtitle": "CamoAg . Full-time",
+          "caption": "Jan 2019 - Jun 2019 · 5 mos",
+          "metadata": "Tampa, Florida, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "40% of US farmland is rented creating a $32 billion/year market. However, very little data on pricing and relative performance exists leading to a very inefficient market and to price distortion on both ends of the spectrum. Tillable (Now CamoAg) was created to introduce data transparency to this market and make it more efficient to the benefit of all parties."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10871276",
+          "companyUrn": "urn:li:fsd_company:10871276",
+          "companyLink1": "https://www.linkedin.com/company/athenabitcoin/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpjXBe6RbNGw/company-logo_100_100/B56Z7RKcfoJAAI-/0/1781625637065/athenabitcoin_logo?e=1785369600&v=beta&t=dE4VuwbFIN3q5k956dnPAQe9KLPoLIFc65MujmwhkUg",
+          "title": "DevOps Engineer",
+          "subtitle": "Athena Bitcoin Inc. . Contract",
+          "caption": "May 2018 - Jan 2019 · 8 mos",
+          "metadata": "Chicago, Illinois",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "We own and operate an international network of cryptocurrency ATM's (U.S., Columbia, Argentina, Mexico, Chile), as well as P2P cryptocurrency exchanges BitQuick.co & MercadoAthena.com. Additionally, we provide liquidity services for individual and institutional investors."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "22328704",
+          "companyUrn": "urn:li:fsd_company:22328704",
+          "companyLink1": "https://www.linkedin.com/company/alphacoincapital/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQGxXZlEFCRg/company-logo_400_400/company-logo_400_400/0/1631311587731?e=1785369600&v=beta&t=a-AOZq66aw4ENkqj4PS0-XAH4l9pvxZrc9S2UGuezmo",
+          "title": "Founder & Managing Partner",
+          "subtitle": "AlphaCoin Capital . Full-time",
+          "caption": "Jun 2017 - Dec 2018 · 1 yr 6 mos",
+          "metadata": "Chicago, Illinois",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "AlphaCoin Capital LLC is the management company of AlphaCoin Fund, L.P., an investment firm focused in cryptocurrency and digital assets. Our thesis is long-only investing at the protocol level based on fundamental analysis."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "141910",
+          "companyUrn": "urn:li:fsd_company:141910",
+          "companyLink1": "https://www.linkedin.com/company/common-goal-systems/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHECxNoM0xI_A/company-logo_400_400/company-logo_400_400/0/1631332159809?e=1785369600&v=beta&t=Tf6QOtTM6-caAvp7W3NAymUQq85WSgTTvbJviITvtRE",
+          "title": "Common Goal Systems",
+          "subtitle": "undefined · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software QA Engineer",
+              "caption": "Jan 2017 - Jun 2017 · 5 mos",
+              "metadata": "Elmhurst, Illinois",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Common Goal Systems, a private company founded in 2001, develops and markets Internet services to the educational market. Our services are currently in use by over 1000 schools, 30,000 teachers, and 300,000 parents/students."
+                }
+              ]
+            },
+            {
+              "title": "Sales Engineer",
+              "caption": "Jan 2016 - Dec 2016 · 11 mos",
+              "metadata": "Elmhurst, Illinois",
+              "description": []
+            },
+            {
+              "title": "Senior Technology Analyst",
+              "caption": "Jun 2014 - Dec 2015 · 1 yr 6 mos",
+              "metadata": "Elmhurst, Illinois",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5258",
+          "companyUrn": "urn:li:fsd_company:5258",
+          "companyLink1": "https://www.linkedin.com/school/university-of-iowa/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZmXdCae6kyw/company-logo_400_400/company-logo_400_400/0/1630640261520/university_of_iowa_logo?e=1785369600&v=beta&t=nB7ZXlhBCytzvj0lLuaWduSAudSFx-3LG3ajBwyO0qE",
+          "title": "Tech Support Analyst",
+          "subtitle": "The University of Iowa . undefined",
+          "caption": "Dec 2012 - May 2014 · 1 yr 5 mos",
+          "metadata": "ITS Help-desk (University of Iowa)",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "38046",
+          "companyUrn": "urn:li:fsd_company:38046",
+          "companyLink1": "https://www.linkedin.com/company/reyes-holdings/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFz7AGAFLXN0A/company-logo_400_400/company-logo_400_400/0/1641580116422/reyes_holdings_logo?e=1785369600&v=beta&t=Iegi_5AdhpIo8QsJVmu21BabWOPDz2eFF8Vmf159occ",
+          "title": "SharePoint & Web Developer (Intern)",
+          "subtitle": "Reyes Holdings . undefined",
+          "caption": "May 2013 - Aug 2013 · 3 mos",
+          "metadata": "Rosemont, Illinois",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Amazon Web Services Solutions Architect - Associate",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Spanish",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "University of Iowa National Scholars Award (NSA)",
+          "subtitle": "Issued by University of Iowa",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Academic Scholarship"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Software Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Datadog",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Prometheus.io",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electronic Trading",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Trading Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cryptocurrency",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5258",
+          "companyUrn": "urn:li:fsd_company:5258",
+          "companyLink1": "https://www.linkedin.com/school/university-of-iowa/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZmXdCae6kyw/company-logo_400_400/company-logo_400_400/0/1630640261520/university_of_iowa_logo?e=1785369600&v=beta&t=nB7ZXlhBCytzvj0lLuaWduSAudSFx-3LG3ajBwyO0qE",
+          "title": "University of Iowa",
+          "subtitle": "Bachelor's degree, Business & Entrepreneurship Living / Learning Community, Intramural Sports (Football and Basketball), Bar-back/Bartender (Summit Iowa City), Computer Science Club, IT Support Analyst",
+          "caption": "2009 - 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "www.cloudiqtest.com",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "www.josephkunzler.com",
+          "subtitle": "",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

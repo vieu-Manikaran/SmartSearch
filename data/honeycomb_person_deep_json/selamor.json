@@ -1,0 +1,442 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/selamor",
+  "row_key": "id:0031N00001OxkFXQAZ",
+  "person": "Mor Sela",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:21:50Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAD-lAQBfKNqzyLuomN_Hs6Zq8Y5gwgwOtM",
+      "firstName": "Mor",
+      "lastName": "Sela",
+      "fullName": "Mor Sela",
+      "publicIdentifier": "selamor",
+      "headline": "Head of Engineering @ Miro",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQF4Z2LTdRrTCg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1647047032057?e=1785369600&v=beta&t=jPUrylwB9CXUNni6t1r0I4opy4GIsjGx5g7J1Sb4xFw",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQFB0b7CHJQzzw/profile-displaybackgroundimage-shrink_350_1400/B56Z8hLF2fIoAU-/0/1782967983774?e=1785369600&v=beta&t=p0ejPX84eSDGRFPQqF8Y3zWVOvrRYUMyQdxLGn6d_FA",
+      "profilePicAllDimensions": [
+        {
+          "width": 99,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF4Z2LTdRrTCg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1647047032057?e=1785369600&v=beta&t=yya56fulOwNG4O3_9GiUOObCHGrcDsqbHmllI4XcR4Y"
+        },
+        {
+          "width": 199,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF4Z2LTdRrTCg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1647047032057?e=1785369600&v=beta&t=rE3iypEMP3t8WyEf7-huRpPwyIUXOwxJgFGKEIgIiVA"
+        },
+        {
+          "width": 337,
+          "height": 337,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF4Z2LTdRrTCg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1647047032057?e=1785369600&v=beta&t=0rV2tE5exAMHh9E_g92PWGET3DpHEjBZihYIPS_ocyY"
+        },
+        {
+          "width": 337,
+          "height": 337,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF4Z2LTdRrTCg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1647047032057?e=1785369600&v=beta&t=jPUrylwB9CXUNni6t1r0I4opy4GIsjGx5g7J1Sb4xFw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQFB0b7CHJQzzw/profile-displaybackgroundimage-shrink_200_800/B56Z8hLF2fIoAQ-/0/1782967983773?e=1785369600&v=beta&t=uHWVCshwHxCp3cdyEymuwWLXbpacJPf2Q4Nw_-udMCQ"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQFB0b7CHJQzzw/profile-displaybackgroundimage-shrink_350_1400/B56Z8hLF2fIoAU-/0/1782967983774?e=1785369600&v=beta&t=p0ejPX84eSDGRFPQqF8Y3zWVOvrRYUMyQdxLGn6d_FA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "19029173",
+          "companyUrn": "urn:li:fsd_company:19029173",
+          "companyLink1": "https://www.linkedin.com/company/mirohq/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEPS1xZbw7MFQ/company-logo_400_400/company-logo_400_400/0/1694624157258/mirohq_logo?e=1785369600&v=beta&t=of17f-j7LVaQHuw4PmRFY00ZU_x-m_3cGF3cYqv9jco",
+          "title": "Head of Engineering, Insights",
+          "subtitle": "Miro . undefined",
+          "caption": "Jun 2024 - Present · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "90952516",
+          "companyUrn": "urn:li:fsd_company:90952516",
+          "companyLink1": "https://www.linkedin.com/company/orange-collective-vc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF4WmHfhQjC3Q/company-logo_400_400/B56Z0chT3XKkAc-/0/1774299991548/orange_collective_vc_logo?e=1785369600&v=beta&t=uze7Drbzzh696UzDKYuT0g_LIx2s1zxVs4_SEbx2GbU",
+          "title": "Venture Partner",
+          "subtitle": "Orange Collective . Part-time",
+          "caption": "Mar 2024 - Present · 1 yr 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "CTO & Founder",
+          "subtitle": "Cardinal (YC W23) . Full-time",
+          "caption": "Jan 2023 - May 2024 · 1 yr 4 mos",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Acquired by Miro"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "undefined · 3 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Director Of Engineering",
+              "caption": "Jun 2021 - Nov 2022 · 1 yr 5 mos",
+              "description": []
+            },
+            {
+              "title": "Director Of Engineering",
+              "caption": "Jun 2019 - Jun 2021 · 2 yrs",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2652211",
+          "companyUrn": "urn:li:fsd_company:2652211",
+          "companyLink1": "https://www.linkedin.com/company/houseparty/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGbgq9H94nexQ/company-logo_400_400/company-logo_400_400/0/1630614587590/houseparty_logo?e=1785369600&v=beta&t=4QjRcc5uRyaKualBu0s1YYJF7J14cRsBl1b-WVRiSMU",
+          "title": "Engineering Manager, Mobile",
+          "subtitle": "Houseparty (part of Epic Games) . undefined",
+          "caption": "Mar 2017 - Jun 2019 · 2 yrs 3 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9362347",
+          "companyUrn": "urn:li:fsd_company:9362347",
+          "companyLink1": "https://www.linkedin.com/company/aleph-vc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHZPYbJ4-gTJg/company-logo_400_400/company-logo_400_400/0/1706441591659/aleph_vc_logo?e=1785369600&v=beta&t=5RDssAaKjDT739xucs-Sm5ob7jX7PUBF52ReWxSwNXM",
+          "title": "Engineer in Residence",
+          "subtitle": "Aleph VC . undefined",
+          "caption": "Nov 2016 - Mar 2017 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Scaling Aleph's impact on the eco-system, and servicing Aleph's portfolio companies"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5076331",
+          "companyUrn": "urn:li:fsd_company:5076331",
+          "companyLink1": "https://www.linkedin.com/company/docady-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQESrle69PqbSQ/company-logo_400_400/company-logo_400_400/0/1631318658877?e=1785369600&v=beta&t=ZOr05C0yjvjvSyZaVC8k77Uo1w2hzta9tNfyOq__hzo",
+          "title": "Director of R&D",
+          "subtitle": "Docady . undefined",
+          "caption": "Feb 2014 - Jul 2016 · 2 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "First employee at Docady. Responsible for the conception and implementation of most of the technology in the company. Full stack - backend (RoR), client (Android - Java, iOS - Objective C), DevOps (AWS, Ansible, &C), Product advisor."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Israel Defense Forces",
+          "subtitle": "undefined · 4 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Special Projects Manager",
+              "caption": "Jul 2012 - Mar 2014 · 1 yr 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leading manager for one of the top projects in the unit. Leading multiple technical and intelligence teams. \nThe job included both a managerial role - coordination of work inside the unit and between intelligence units - and CTO-like technical role for the technical teams."
+                }
+              ]
+            },
+            {
+              "title": "Team Leader",
+              "caption": "Jul 2010 - Jul 2012 · 2 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managing a team of developers and researchers of varying size (8-12). \nThe team was responsible for creating specially crafted intelligence solutions. Technologies was suited to problem - main technologies include Python, C++, Reverse Engineering, Networks, Security and Encryption."
+                }
+              ]
+            },
+            {
+              "title": "Squad Leader",
+              "caption": "Jul 2009 - Jul 2010 · 1 yr",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "417032",
+          "companyUrn": "urn:li:fsd_company:417032",
+          "companyLink1": "https://www.linkedin.com/company/memtex/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGDoWc3V4v8vA/company-logo_400_400/company-logo_400_400/0/1675066422037/memtex_logo?e=1785369600&v=beta&t=UVnl6AwV4_FxfjFrNplKObq0hNpubzR0ooGuQE7hAJU",
+          "title": "Software Developer",
+          "subtitle": "Memtex . undefined",
+          "caption": "Aug 2006 - Sep 2007 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Implementation of network testing for an embedded Wifi network appliance; development of various modules for several embedded devices. Development using C, C++, Assembly, Python."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OOP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Multithreading",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Win32 API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Patterns",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3154",
+          "companyUrn": "urn:li:fsd_company:3154",
+          "companyLink1": "https://www.linkedin.com/school/tel-aviv-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGDm7yBqiPGaQ/company-logo_400_400/B4DZoBIsyxJEAc-/0/1760955649635/tel_aviv_university_logo?e=1785369600&v=beta&t=Ww07uTEpBzTT4xF8n7hcNKR4q-O1WSoZeL_Z1r3rnyE",
+          "title": "Tel Aviv University",
+          "subtitle": "Bachelor of Science, Compter Sciences",
+          "caption": "2004 - 2007",
+          "subComponents": []
+        },
+        {
+          "companyId": "3154",
+          "companyUrn": "urn:li:fsd_company:3154",
+          "companyLink1": "https://www.linkedin.com/school/tel-aviv-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGDm7yBqiPGaQ/company-logo_400_400/B4DZoBIsyxJEAc-/0/1760955649635/tel_aviv_university_logo?e=1785369600&v=beta&t=Ww07uTEpBzTT4xF8n7hcNKR4q-O1WSoZeL_Z1r3rnyE",
+          "title": "Tel Aviv University",
+          "subtitle": "Master of Science, Compter Sciences",
+          "caption": "2009 - Present",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

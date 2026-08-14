@@ -1,0 +1,220 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jordan-walker-144440129",
+  "row_key": "id:0033l00002ssqr8AAA",
+  "person": "Jordan Walker",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB-RBMQB03KD-uPnFKfEZEua5Eg0q65EA5A",
+      "firstName": "Jordan",
+      "lastName": "Walker",
+      "fullName": "Jordan Walker",
+      "publicIdentifier": "jordan-walker-144440129",
+      "headline": "EVP, Game Development at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Apex, North Carolina United States",
+      "addressWithoutCountry": "Apex, North Carolina",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQE_Sx_RxrE8OQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729971177047?e=1785369600&v=beta&t=jubzlzAp6QyCJzLbTiokZqaxL6m97EdSCnEdq64KX-M",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQE_Sx_RxrE8OQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729971177029?e=1785369600&v=beta&t=6rS4R900Sj4UMctty0C5DnR0_oRkn6q5gGSgkzpXoBQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQE_Sx_RxrE8OQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729971177029?e=1785369600&v=beta&t=zO3PtWINTiAn8bfQxOprvh9Df3nU0eq1JoTSiXff7-U"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQE_Sx_RxrE8OQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729971177029?e=1785369600&v=beta&t=5Zf_S_-UT7rUysL-3J9eb2sfQKX_ZEfp7na4CZCVxSo"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQE_Sx_RxrE8OQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729971177047?e=1785369600&v=beta&t=jubzlzAp6QyCJzLbTiokZqaxL6m97EdSCnEdq64KX-M"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 19 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "EVP, Game Development",
+              "caption": "Feb 2026 - Present · ",
+              "description": []
+            },
+            {
+              "title": "VP, Game Development",
+              "caption": "May 2025 - Jul 2026 · 1 yr 2 mos",
+              "description": []
+            },
+            {
+              "title": "VP, Art",
+              "caption": "Jun 2024 - Jun 2025 · 1 yr",
+              "description": []
+            },
+            {
+              "title": "Senior Director, Art",
+              "caption": "Jan 2023 - Jun 2024 · 1 yr 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Fortnite"
+                }
+              ]
+            },
+            {
+              "title": "Director, Technical Art",
+              "caption": "Jun 2022 - Jan 2023 · 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Fortnite"
+                }
+              ]
+            },
+            {
+              "title": "Technical Art Director",
+              "caption": "Jan 2019 - Jun 2022 · 3 yrs 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Fortnite"
+                }
+              ]
+            },
+            {
+              "title": "Lead Artist",
+              "caption": "2014 - Jan 2019 · 5 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Paragon\nFortnite"
+                }
+              ]
+            },
+            {
+              "title": "Senior Technical Artist",
+              "caption": "2010 - 2014 · 4 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Gears of War 3\nInfinity Blade\nUE3 Foliage UE3 Tech Demos\nSamaritan UE3 Tech Demo\nElemental UE4 Tech Demo\nInfiltrator UE4 Tech Demo\nA Boy and His Kite UE4 Tech Demo"
+                }
+              ]
+            },
+            {
+              "title": "Environment Artist",
+              "caption": "2007 - 2010 · 3 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Gears of War 2\nGears of War 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "14221",
+          "companyUrn": "urn:li:fsd_company:14221",
+          "companyLink1": "https://www.linkedin.com/company/mad-doc-software/",
+          "title": "Lead Environment Artist",
+          "subtitle": "Mad Doc Software . undefined",
+          "caption": "2005 - 2007 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Started as Environment artist on Empire Earth 3, became the Environment Art Lead as the team grew."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "31533",
+          "companyUrn": "urn:li:fsd_company:31533",
+          "companyLink1": "https://www.linkedin.com/company/n-space/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFu-rCLrOicg/company-logo_400_400/company-logo_400_400/0/1631351079871?e=1785369600&v=beta&t=eGlpbzfAEWekzQf4tuDjt3-K8VRe9YSesy1-9caaz3s",
+          "title": "Artist",
+          "subtitle": "n-Space . undefined",
+          "caption": "2004 - 2005 · 1 yr",
+          "metadata": "Orlando, Florida Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Environment artist on Geist. Also handled texturing and environment lighting."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "69954",
+          "companyUrn": "urn:li:fsd_company:69954",
+          "companyLink1": "https://www.linkedin.com/school/piedmont-community-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHbAvRkVLH0xg/company-logo_400_400/company-logo_400_400/0/1733256594023/piedmont_community_college_logo?e=1785369600&v=beta&t=n-3zVfEvMpnEACuM6uWMLhxpfbypwUjOe-tvbrS3LMs",
+          "title": null,
+          "subtitle": "Associate's degree, Digital Effects and Animation Technology",
+          "caption": "2002 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

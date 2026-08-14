@@ -1,0 +1,373 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/sfranco",
+  "row_key": "id:003Uk00000yfTmcIAE",
+  "person": "Sergio Franco",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAQHntQB3rIcVOmL2AF9LKFIOFoNLiOhsHg",
+      "firstName": "Sergio",
+      "lastName": "Franco",
+      "fullName": "Sergio Franco",
+      "publicIdentifier": "sfranco",
+      "headline": "Director of Engineering at Epic Games",
+      "about": "Specialties: C/C++, C#, HLSL, Lua, Python, OpenGL, DirectX, Data Oriented Designs, Design Patterns, STL, Agile Development",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQEerQJ3j1ob3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1610042833633?e=1785369600&v=beta&t=TL8-E6nnxciDQV1ygRr6EunWHLp0Zm7ODiO-howogS4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEerQJ3j1ob3Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1610042833633?e=1785369600&v=beta&t=qz4w5WizpqiQCtLS0Luej56hVn8Zu8sJ_AhDLO8B1jg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEerQJ3j1ob3Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1610042833633?e=1785369600&v=beta&t=w0OQxZrgpsFv_aJVEBVqOPl-kvD85WDzmO6C-JiDG3U"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEerQJ3j1ob3Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1610042833633?e=1785369600&v=beta&t=wTAs1tovZnUdRPCoI3Aady2nCpdddQENMOt_t5qBu6Y"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEerQJ3j1ob3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1610042833633?e=1785369600&v=beta&t=TL8-E6nnxciDQV1ygRr6EunWHLp0Zm7ODiO-howogS4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Director of Engineering",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Oct 2025 - Present · 3 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "96324072",
+          "companyUrn": "urn:li:fsd_company:96324072",
+          "companyLink1": "https://www.linkedin.com/company/fantastic-pixel-castle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF_FYoNg1eo-w/company-logo_400_400/company-logo_400_400/0/1698925447361/fantastic_pixel_castle_logo?e=1785369600&v=beta&t=dJVaU-avmtwU8rK7kiOrKHesyq_Q0nTJRpz6JQu1RUg",
+          "title": "Principal Software Engineer",
+          "subtitle": "Fantastic Pixel Castle . Full-time",
+          "caption": "Mar 2025 - Sep 2025 · 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "17920775",
+          "companyUrn": "urn:li:fsd_company:17920775",
+          "companyLink1": "https://www.linkedin.com/company/sharkmob/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH86ggjFr0naQ/company-logo_400_400/company-logo_400_400/0/1731679351727/sharkmob_logo?e=1785369600&v=beta&t=xyV9t33dUnGqVHmcp2_EwApR3s6udDeWCPir2w9_8O0",
+          "title": "Technical Director",
+          "subtitle": "Sharkmob . undefined",
+          "caption": "Jan 2021 - Nov 2024 · 3 yrs 10 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Senior Software Engineer",
+          "subtitle": "Amazon . undefined",
+          "caption": "Sep 2017 - Jan 2021 · 3 yrs 4 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technical Lead on Lumberyard Engine Technology at Amazon Games Studios"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7882",
+          "companyUrn": "urn:li:fsd_company:7882",
+          "companyLink1": "https://www.linkedin.com/company/rare-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGJ_YdOqUFh_g/company-logo_100_100/B4EZ0Kj0rYHsAQ-/0/1773998656645/rare_ltd_logo?e=1785369600&v=beta&t=DSg5nT3T9mKUIR_0MzbGmSpeQ9t7rZeH1NucLSqjpaM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Rare Ltd . undefined",
+          "caption": "Dec 2012 - Sep 2017 · 4 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Kinect Sports Rivals\n- Sea of Thieves"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Software Development Engineer",
+          "subtitle": "Microsoft . undefined",
+          "caption": "Jul 2011 - Dec 2012 · 1 yr 5 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Shipped Kinect Sesame Street Season 1 and 2."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "33583",
+          "companyUrn": "urn:li:fsd_company:33583",
+          "companyLink1": "https://www.linkedin.com/company/foundryteam/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGjfAtshq7vlQ/company-logo_200_200/B4EZX22VXXHcAM-/0/1743603193809/foundryteam_logo?e=1785369600&v=beta&t=xT6YKEAY4XxQK4XOul4a5eD9hDPJVr9gLLIa0Qzccp4",
+          "title": "Junior Software Engineer",
+          "subtitle": "The Foundry . undefined",
+          "caption": "Jun 2010 - Jul 2011 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software Engineer on the World leading movie special effects and post-production software Nuke."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1356708",
+          "companyUrn": "urn:li:fsd_company:1356708",
+          "companyLink1": "https://www.linkedin.com/company/worldweavertd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHTil497FcIOw/company-logo_400_400/company-logo_400_400/0/1642599044725/worldweaver_ltd_logo?e=1785369600&v=beta&t=bjV38hmNAL7BM1_756H3NIDCq9tWKT-ts3yz2iOKp2o",
+          "title": "Intern Programmer",
+          "subtitle": "Worldweaver Ltd. . undefined",
+          "caption": "Jun 2008 - Sep 2009 · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Programmer at worldweaver working on proprietary 3D engine DXStudio."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "OpenGL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DirectX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox 360",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gameplay Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HLSL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kinect",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xcode",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gdb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox One",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "20145",
+          "companyUrn": "urn:li:fsd_company:20145",
+          "companyLink1": "https://www.linkedin.com/school/university-of-derby/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE1Zy7cRKNtEQ/company-logo_400_400/company-logo_400_400/0/1631365656358/university_of_derby_logo?e=1785369600&v=beta&t=y12Ik4RPYbarpSOz4E-_0qtIWv5BBvoc9ppOgWt8bO4",
+          "title": "University of Derby",
+          "subtitle": "2:1 Bsc(Hons), Computer Games Programming",
+          "caption": "2007 - 2010",
+          "subComponents": []
+        },
+        {
+          "title": "Escola da Apel",
+          "subtitle": "null, Computer Studies",
+          "caption": "2003 - 2007",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Sesame Street TV",
+          "subtitle": "Oct 2012 - Nov 2012",
+          "subComponenets": []
+        },
+        {
+          "title": "Kinect Sesame Street TV",
+          "subtitle": "Jul 2012 - Oct 2012",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

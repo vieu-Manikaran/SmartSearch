@@ -1,0 +1,433 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/stewartmiles",
+  "row_key": "id:003Uk00000xfprNIAQ",
+  "person": "Stewart Miles",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:27Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABiSFYBTQ8qZLCOdeU3kj6v6WWyzUMjbfU",
+      "firstName": "Stewart",
+      "lastName": "Miles",
+      "fullName": "Stewart Miles",
+      "publicIdentifier": "stewartmiles",
+      "headline": "Tech for game devs",
+      "about": "Developer product & engineering leader\n\nI design & build easy to use solutions that serve the needs of developers across a range of environments (client (desktop & mobile), cloud). I've built tools for game asset creators (artists, audio engineers / composers, game designers), other software engineers (middleware & SaaS) and hardware engineers.\n\nMy knowledge and experience touches most layers of software stacks:\n• Using assembly to twiddle registers in CPUs / chipsets, turn on memory controllers and route addresses to devices.\n• Building backends for scalable online services.\n• Developer facing web interfaces.\n• Shipping usable client libraries to enable integration of Cloud services.\n\nTo deliver successful developer products, I've managed diverse teams with a focus on coaching happy, productive people with a growth mindset.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEeCT33D1eppg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1650497770059?e=1785369600&v=beta&t=tULzqpa6uMjQZAcA9WY_WYwHZRtb-_qTy5G-eK5D43g",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEeCT33D1eppg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1650497770059?e=1785369600&v=beta&t=YoBOqfEQaVWxWk3v_QWiqL1pV61eluk0KeWs-B7KmBs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEeCT33D1eppg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1650497770059?e=1785369600&v=beta&t=yph7M6lh9OW8_TpNC17OfpDIOQywVr88a9qVN_qUAi0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEeCT33D1eppg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1650497770059?e=1785369600&v=beta&t=J7xGo4nR39LhYHraeE0JEM0UK4JgwL0Z3vuZYbTuMIc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEeCT33D1eppg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1650497770059?e=1785369600&v=beta&t=tULzqpa6uMjQZAcA9WY_WYwHZRtb-_qTy5G-eK5D43g"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Research Engineering Director",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Jul 2025 - Present · 6 mos",
+          "metadata": "Larkspur, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Building technologies for game developers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "79167040",
+          "companyUrn": "urn:li:fsd_company:79167040",
+          "companyLink1": "https://www.linkedin.com/company/agentic-ai-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFxuFtXuAI76A/company-logo_400_400/company-logo_400_400/0/1646338717994/agentic_ai_logo?e=1785369600&v=beta&t=pnb_-usKGyCpCEEUu0sFhGjy-XKrJ7AEaLtH7abY1w0",
+          "title": "Co-founder and CTO",
+          "subtitle": "Agentic . Full-time",
+          "caption": "Jul 2021 - Jul 2025 · 4 yrs",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked with a great team to build out a scalable platform that provided AI players as a service for video games."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Google",
+          "subtitle": "Full-time · 13 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Staff Software Engineer, Google Research",
+              "caption": "Apr 2020 - Jul 2021 · 1 yr 3 mos",
+              "metadata": "San Francisco, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead an engineering team that applied machine learning to games in Google Research.\nWe published our work in https://ai.googleblog.com/2021/06/quickly-training-game-playing-agents.html?m=1 and an example open source project https://github.com/google-research/falken"
+                }
+              ]
+            },
+            {
+              "title": "Staff Software Engineer / Manager, Developer Platform + Fun Propulsion Labs",
+              "caption": "Sep 2013 - Apr 2020 · 6 yrs 7 mos",
+              "metadata": "Mountain View, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead a team which built: \n• Cross platform (iOS, Android, Windows, macOS, Linux) tools and technologies for game developers.\n  ◦ Firebase Games Strategy, Design, SDKs, documentation, samples etc.\n     http://firebase.google.com/games\n  ◦ FlatBuffers serialization library: http://github.com/google/flatbuffers\n  ◦ 3D Animation runtime: http://github.com/google/motive\n  ◦ Game math library: http://github.com/google/mathfu\n  ◦ Game platform abstraction layer: http://github.com/google/fplbase\n  ◦ 2D fluid simulation: http://github.com/google/liquidfun\n• Developer focused technologies (e.g the platform that hosts developers.google.com)\n\nDrove and authored public outreach for game developer products, for example some of my public work for Firebase:\n• GDC 2020: https://youtu.be/DeXigwGYh18?t=2403\n• GDC 2019: https://youtu.be/5wtlj_q3DjE?t=15039\n• GDC 2018: https://youtu.be/79ROM84kZIE?list=PLOU2XLYxmsIIS1jX91rxyDNEXPQ54DrOu\n• Google I/O 2017: https://youtu.be/WiFgxtvpE1w"
+                }
+              ]
+            },
+            {
+              "title": "Staff Software Engineer / Manager, Platforms",
+              "caption": "Aug 2007 - Aug 2013 · 6 yrs",
+              "metadata": "Mountain View, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Development of technology for Google's datacenters. \nhttp://www.google.com/datacenters\n\nLead a system software development team bringing up new server designs in Google's Datacenters.\n• Low level x86 development.  \n• Hardware bring up (BIOS and systems software) in collaboration with hardware design engineers on new platforms.\n• Platform qualification tools and processes.\n• Monitoring of platforms after delivery to production."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "4036",
+          "companyUrn": "urn:li:fsd_company:4036",
+          "companyLink1": "https://www.linkedin.com/company/z-axis/",
+          "title": "Senior Engineer",
+          "subtitle": "Z-Axis (Activision) . undefined",
+          "caption": "Aug 2005 - Aug 2007 · 2 yrs",
+          "metadata": "Foster City, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on the following games:\n\nX-Men : The Official Game: https://en.wikipedia.org/wiki/X-Men:_The_Official_Game\n• Lead audio development team.\n• Cross platform (PlayStation2, Xbox 360) audio engine design & implementation.\n• Built design tools for audio integration by the design team.\n• Audio editing and conversion tools for the audio team.\n\nEnemy Territory : Quake Wars PS3 https://en.wikipedia.org/wiki/Enemy_Territory:_Quake_Wars\n• Automated texture optimization to reduce load times.\n• Memory management optimization.\n• Audio implementation for PlayStation3.\n• Voice chat implementation on PlayStation3 SPUs."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "165393",
+          "companyUrn": "urn:li:fsd_company:165393",
+          "companyLink1": "https://www.linkedin.com/company/pandemic-studios/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFvDNirl3oEqA/company-logo_400_400/company-logo_400_400/0/1631346514912?e=1785369600&v=beta&t=Os3bsgo1Ly_Ojp-iob5lmm7N86oslnoiBNVuBQmmyuk",
+          "title": "Programmer",
+          "subtitle": "Pandemic Studios . undefined",
+          "caption": "Jun 2003 - Aug 2005 · 2 yrs 2 mos",
+          "metadata": "Los Angeles, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on the following games:\n\nStarWars Battlefront: https://en.wikipedia.org/wiki/Star_Wars:_Battlefront#Star_Wars:_Battlefront\n• Built and integrated cross platform (PlayStation2, Xbox, PC) audio engine\n• Optimized memory management and I/O subsystems across the game.\n• Sound design for initial demos and mixing with Nick Peck (audio director)\n• Cross platform (PlayStation2, Xbox, PC) voice chat implementation, mixing, codec implementation, reliable UDP networking etc. \n• Modeled as the original \"Fleet\" variant of the Rebel Vanguard https://battlefront.fandom.com/wiki/Rebel_Vanguard\n\nStarWars Battlefront II (assistant lead engineer): https://en.wikipedia.org/wiki/Star_Wars:_Battlefront#Star_Wars:_Battlefront_II\n• Maintained audio engine\n• Built new dynamic in-game UI system that facilitated live editing by artists / designers.\n• Implemented flying AI (drives various flying vehicles in the game).\n\nMercenaries: https://en.wikipedia.org/wiki/Mercenaries_(series)#Mercenaries:_Playground_of_Destruction_(2005)\n• Numerous audio and visual bug fixes to help the game ship."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "163262",
+          "companyUrn": "urn:li:fsd_company:163262",
+          "companyLink1": "https://www.linkedin.com/company/criterion-software/",
+          "title": "Audio Software Engineer",
+          "subtitle": "Criterion Software . undefined",
+          "caption": "Dec 2000 - May 2003 · 2 yrs 5 mos",
+          "metadata": "Guildford, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Credits for work on the following games:\n• Airblade (audio engine)\n• Burnout (audio engine + integration)\n• Burnout2 (audio engine + integration)\n\nRenderware: https://en.wikipedia.org/wiki/RenderWare\n• Collaborated on the design and implementation of Renderware Audio targeting PlayStation2, Xbox, GameCube and Windows\n• Implemented tools for encoding optimized files for multichannel streaming audio from optical media."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13326",
+          "companyUrn": "urn:li:fsd_company:13326",
+          "companyLink1": "https://www.linkedin.com/company/imaginationtech/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVoyF5iucXEQ/company-logo_100_100/B4EZfFVYomGcAQ-/0/1751362407475/imaginationtech_logo?e=1785369600&v=beta&t=aYM1o9sY8bs-MZ5zUDU4ZX5zJ7rJ3xBbpisuCI4UtyM",
+          "title": "Application Specific Integrated Circuits (ASIC) Engineer",
+          "subtitle": "Imagination Technologies . undefined",
+          "caption": "Jul 2000 - Nov 2000 · 4 mos",
+          "metadata": "Kings Langley, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked in the PowerVR division on the following ASIC components:\n• 4 way set associative write back, multi-threaded cache\n• AES/EBU / SP-DIF output \n• Sin / cos generator"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Database Programmer",
+          "subtitle": "Objective Computing . undefined",
+          "caption": "Mar 1999 - Dec 1999 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on various custom database applications"
+              }
+            }
+          ]
+        },
+        {
+          "title": "IS Assistant",
+          "subtitle": "PCI Unipack . undefined",
+          "caption": "Jul 1998 - Sep 1998 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Information systems administration & asset tracking"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Music Production",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sound Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Signal Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox 360",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Multithreading",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "X86",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Debugging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Device Drivers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C  ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "7609",
+          "companyUrn": "urn:li:fsd_company:7609",
+          "companyLink1": "https://www.linkedin.com/school/uniofwarwick/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_200_200/B4EZeDcOnXGcAI-/0/1750256905393/uniofwarwick_logo?e=1785369600&v=beta&t=H_W9eiIIhSUT-UEGyPa3oZ4iGwHzwyH6GwHe8Ssq2JI",
+          "title": null,
+          "subtitle": "Bsc Hons, Computer Systems Engineering",
+          "caption": "1997 - 2000",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

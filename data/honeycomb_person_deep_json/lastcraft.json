@@ -1,0 +1,509 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/lastcraft",
+  "row_key": "id:003Uk00000Pb7C7IAJ",
+  "person": "Marcus Baker",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:16:42Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAgQz0Bfl8nuyCAhTd-NJOFbc7fHev2pd0",
+      "firstName": "Marcus",
+      "lastName": "Baker",
+      "fullName": "Marcus Baker",
+      "publicIdentifier": "lastcraft",
+      "headline": "Senior backend dev, sometime team lead, sometimes architect.",
+      "about": "Hi.\n\nCurrently work at Medtronic as an embedded software engineer and dev lead (C++, software architect) and also platform dev (Python mainly). Writing tools to maintain video streaming devices within operating theatres.\n\nI recently a senior engineer at Sensat, helping to develop a visualisation platform for the building industry. Worked combining 3D graphics with GIS (Three.js, Typescript, WebGL), in particular viewing pointclouds. Often called in to help out on other code in Pulumi, Typescript and Golang.\n\nPast roles have also been as lead/senior developer in start ups as they transition to stable companies. My knowledge is mainly in system building, but also in programming languages, testing, databases, code quality and high discipline agile developments.\n\nRecent-ish examples of work include scaling infrastructure globally, 3D graphics, GIS, terabyte scale social media, petabyte video storage and rendering, software architecture, and some lower level coding in C down to PIC chips.\n\nFor side projects I was the co-founder and in past times president of the PHP London organisation, founder of the UK PHP conference, creator or co-creator of several open source projects (CGreen, SimpleTest, Phemto), authored regular programming columns and an occasional technical book reviewer. Co-author/contributer to Manning's \"PHP in Action\" and contributer to O'Reilly's \"97 things every programmer should know\".\n\nWas a very early implementer of agile methods, starting with eXtreme Programming in 2001.\n\nKnown as \"lastcraft\" on the developer forums.\n\nyours, Marcus\n\nSpecialties: lead developer, previously web developer, now database developer, object oriented analysis and design, scrum master, agile development.\nBuzzwords that tell you next to nothing: Typescript, C, SQL, Python, Ruby, PHP, Perl, Scheme, UML, XP, Scrum, Postgres, MySQL, Mongo, three.js,  pulumi, AWS.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHbYNSy5a1SuQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516257366150?e=1785369600&v=beta&t=YC07nRizFj4P6AOWx3Q5xVnV0YmvcGkmS0iXERlhiHw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHbYNSy5a1SuQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516257366118?e=1785369600&v=beta&t=7MdDO_Sl_ZB1DRfT_uqn5N6L7ApZY7G65vBXFf2qDJw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHbYNSy5a1SuQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516257365976?e=1785369600&v=beta&t=78cG3vTLT6Xqz5CaOrV75cJy1d4iycncjDFZzl99Ni4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHbYNSy5a1SuQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516257366063?e=1785369600&v=beta&t=C0hEaIwEZYCYwzjFzeD__GGqZprY56FYakKhr43oaV4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHbYNSy5a1SuQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516257366150?e=1785369600&v=beta&t=YC07nRizFj4P6AOWx3Q5xVnV0YmvcGkmS0iXERlhiHw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Senior Software Engineer (also dev lead)",
+          "subtitle": "Medtronic Digital Surgery . Full-time",
+          "caption": "Mar 2024 - Present · 1 yr 10 mos",
+          "metadata": "Islington, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked in the medical Livestream platform. Currently coding embedded devices with an emphasis on remote management and security. Currently dev lead for that project."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10290691",
+          "companyUrn": "urn:li:fsd_company:10290691",
+          "companyLink1": "https://www.linkedin.com/company/sensat/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHzlIYCJrv1QQ/company-logo_400_400/company-logo_400_400/0/1630639146142/sensat_logo?e=1785369600&v=beta&t=BAzaGGeJ8ZbtOoXoZPuJ2sE1vNSU4IfIsieIYsbHCvQ",
+          "title": "Senior Software Engineer",
+          "subtitle": "Sensat . Full-time",
+          "caption": "Jun 2020 - Jan 2024 · 3 yrs 7 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked in the infra team to regionalise the existing app to enable data sovereignty. Previously optimising 3D and 2D displays of photogrammetry and other GIS data on the web.\nBuzzwords: Typescript, node.js, three.js, 3D graphics, Golang, Python, mongo. Some Angular, AWS, pulumi."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Conversocial",
+          "subtitle": "Full-time · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Architect",
+              "caption": "Jan 2020 - Apr 2020 · 3 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Backend development, design and mentoring. Working with 6TB of highly interconnected social media data.\nBuzzwords: Python, Scrum, Mongo, API design."
+                }
+              ]
+            },
+            {
+              "title": "Engineering Team Lead",
+              "caption": "Jan 2019 - Jan 2020 · 1 yr",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead the channels engineering team during a company merger. This distributed (UK, Romania) team handles data ingest and all live data around core social messaging services for the company. Our job is to design the system and software architecture that can cope with high traffic volumes (Facebook, Twitter, Apple, Instagram, WhatsApp, WeChat), automated bot messaging, GDPR compliance. My role is software architect, line managment, mentoring, hiring and doubling up as a senior software engineer.\nBuzzwords: Python, Mongo, Scrum."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Developer",
+              "caption": "Jul 2016 - Jan 2019 · 2 yrs 6 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Work in platforms and scalability team"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1454451",
+          "companyUrn": "urn:li:fsd_company:1454451",
+          "companyLink1": "https://www.linkedin.com/company/aframe/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHcx26I_RzzUQ/company-logo_400_400/company-logo_400_400/0/1631314392745?e=1785369600&v=beta&t=bsEiHYvbFmbunTM7r7fU_G1Ba2kwW2ACSUCDaolnKdY",
+          "title": "Senior developer, a.k.a idiot of integration",
+          "subtitle": "Aframe Ltd . undefined",
+          "caption": "Nov 2010 - Apr 2016 · 5 yrs 5 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Building a web based media (video) asset manager. Also engineering manager amd team lead in the early days. Built tools for video retrieval and storage, and integration with Adobe Anywhere. 0.3Pbytes of data.\nProjects included building a virtual file system in C for FTP integration.\nBuzzwords: Ruby, C, Postgres, gluster"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "55992",
+          "companyUrn": "urn:li:fsd_company:55992",
+          "companyLink1": "https://www.linkedin.com/company/mashery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0F-t5w6I1CQ/company-logo_400_400/company-logo_400_400/0/1631316598161?e=1785369600&v=beta&t=Anz7-y7VNq691rJRHTm1iokjpWEK15UY25iAOaDrn8w",
+          "title": "Senior Developer",
+          "subtitle": "Mashery . undefined",
+          "caption": "Mar 2010 - Nov 2010 · 8 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Leading API management tool, software as a service."
+              }
+            }
+          ]
+        },
+        {
+          "title": "LastCraft",
+          "subtitle": "undefined · 8 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software consultant",
+              "caption": "Jul 2001 - Jun 2010 · 8 yrs 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Consulting and writing"
+                }
+              ]
+            },
+            {
+              "title": "Author",
+              "caption": "Jan 2003 - Jan 2010 · 7 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Author of several articles on PHP|Architect and PHP Developer. Regular columnist for PHP|Architect for just over a year. Contributing author on &quot;PHP in Action&quot; for Manning. Technical reviewer/editor for PHP|Architect guide to design patterns."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "97224",
+          "companyUrn": "urn:li:fsd_company:97224",
+          "companyLink1": "https://www.linkedin.com/company/wordtracker/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF5WWFx-sfF7g/company-logo_400_400/company-logo_400_400/0/1631365632390?e=1785369600&v=beta&t=n8wEwusX3Hbz1SFTbfFk_h4pMgKm37tJ76LmW22Y_So",
+          "title": "Head of Research, Senior Developer",
+          "subtitle": "Wordtracker . undefined",
+          "caption": "Nov 2001 - Feb 2010 · 8 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Joined as the first full time engineer, working as senior developer, tech lead and all hands role, finished as Head of Research. Work was processing full text and SEO keyword data, as well as refactoring the original codebase. Tech was mostly PHP and Perl, some C and Ruby. Smattering of other tech such as Texis, Erlang, Scala. Also build the SimpleTest PHP and CGreen test frameworks and open sourced them."
+              }
+            }
+          ]
+        },
+        {
+          "title": "President",
+          "subtitle": "PHP London . undefined",
+          "caption": "Mar 2004 - Apr 2008 · 4 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "PHP London is a non-profit organisation. It runs monthly meet-ups and the annual UK PHP Conference (Olympia)."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Developer",
+          "subtitle": "Coms.com . undefined",
+          "caption": "2001 - 2001 · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Building telephony and message platform in Perl and C"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Co-owner",
+          "subtitle": "Mirrormill . undefined",
+          "caption": "2000 - 2001 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Joint CEO and backend developer, since handed to my business partner. Built websites for clients using C and early PHP. I also handled running the company day to day, subcontractors and sales."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fleet Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Extreme Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mongoose ODM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telephony",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Search Engine Optimization (SEO)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Conference Coordination",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Conference Speaking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Writing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sinatra",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Video",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "tech lead",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "QA Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "7198",
+          "companyUrn": "urn:li:fsd_company:7198",
+          "companyLink1": "https://www.linkedin.com/school/king%27s-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_400_400/company-logo_400_400/0/1630592448557/kings_college_london_logo?e=1785369600&v=beta&t=s7BsHBk3FvJIutrSI54Y6Vw7kbSk7GVMUNIurGGVCUM",
+          "title": null,
+          "subtitle": "PGCE, Teaching",
+          "caption": "1988 - 1989",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "PGCE post graduate degree"
+            }
+          ]
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": null,
+          "subtitle": "3, Physics",
+          "caption": "1982 - 1985",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Physics Degree"
+            }
+          ]
+        },
+        {
+          "title": "John Newnham Sixth form College",
+          "subtitle": "null, null",
+          "caption": "1980 - 1982",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A-levels"
+            }
+          ]
+        },
+        {
+          "title": "Riddlesdown High School",
+          "subtitle": "null, null",
+          "caption": "1975 - 1980",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "O-levels"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Cgreen",
+          "subtitle": "Jan 2005 - Jan 2010",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Unit tester for C. Includes mocks.\nhttps://github.com/cgreen-devs/cgreen"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

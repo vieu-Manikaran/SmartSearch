@@ -1,0 +1,562 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/gowtham-chitipolu",
+  "row_key": "id:003Uk00000ydBEAIA2",
+  "person": "Gowtham Chitipolu",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACEHz6cBG85JTuj1DM-zCW9r58LnEVvH5Dw",
+      "firstName": "Gowtham",
+      "lastName": "Chitipolu",
+      "fullName": "Gowtham Chitipolu",
+      "publicIdentifier": "gowtham-chitipolu",
+      "headline": "Software Engineer at Coinbase | Distributed Systems & Full-Stack applications | FinTech & Crypto",
+      "about": "I build reliable, high-performance full-stack applications, backend and data systems that power the crypto economy. With 6+ years of experience, I specialize in architecting and launching mission-critical platforms from the ground up in complex, compliance-driven environments.\n\nMy core expertise includes:\n\n- System Architecture: Leading end-to-end product development, from scalable microservices and robust APIs (REST, gRPC) to enhancing the user experience on the frontend.\n- Tech Stack: Proficient in Go, Python, and JavaScript/TypeScript, with deep experience in cloud-native infrastructure using Kubernetes, AWS, and GCP.\n- Crypto & FinTech: Building solutions for DeFi, CEXs, DEXs, and digital asset rewards while navigating complex regulatory requirements for platforms serving millions of users.\n\nI'm driven by solving intricate engineering challenges to build the foundational infrastructure for the future of finance.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "India",
+      "addressWithoutCountry": "India",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQH7uxioOSGxFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715236341897?e=1785369600&v=beta&t=VGvYfzxscR2yG5Wgu0z7a2oX_rSyrBmpg-SSNLsVLSw",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5116AQH31jYKJWpImQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1568739077038?e=1785369600&v=beta&t=A1k7PBSXT_VoVHuW7ajkHygHT0Uy__JigQpQRRWnPyM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQH7uxioOSGxFg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715236341897?e=1785369600&v=beta&t=rVpk7V9hKU3QvvrqlAc7aZRvmMSzcwoO-wHg-FlKIBI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQH7uxioOSGxFg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715236341897?e=1785369600&v=beta&t=DD1W9BogHBK_4zWphLELmo7vO75PeEql6Ue6AgI50RM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQH7uxioOSGxFg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715236341897?e=1785369600&v=beta&t=vL_KN-uViBJgp7cOIHQrWUuTYcdpBIAvgjQCS53zY4E"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQH7uxioOSGxFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715236341897?e=1785369600&v=beta&t=VGvYfzxscR2yG5Wgu0z7a2oX_rSyrBmpg-SSNLsVLSw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5116AQH31jYKJWpImQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1568739076973?e=1785369600&v=beta&t=m0-A-_t2e4HhVpgw5bOdJTjWBWZQkPF68uTsq92SzUY"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5116AQH31jYKJWpImQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1568739077038?e=1785369600&v=beta&t=A1k7PBSXT_VoVHuW7ajkHygHT0Uy__JigQpQRRWnPyM"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Software Engineer II",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Sep 2024 - Present · 1 yr 4 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My role involves engineering and maintaining scalable solutions for the company's core crypto tax and compliance platforms. \nI work on key initiatives that ensure our products meet regulatory requirements and provide a reliable experience for millions of users."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "86626846",
+          "companyUrn": "urn:li:fsd_company:86626846",
+          "companyLink1": "https://www.linkedin.com/company/alpacatech/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYMQETGDfnng/company-logo_200_200/B56ZwcHhRwHwAI-/0/1769998259666/alpacatech_logo?e=1785369600&v=beta&t=A4IUr6308XJGaZER2w70ZhnI90unxxk1tUXqJA4tbBM",
+          "title": "Data Engineer",
+          "subtitle": "AlpacaTech Co., Ltd. . Full-time",
+          "caption": "Jul 2023 - Aug 2024 · 1 yr 1 mo",
+          "metadata": "Tokyo, Japan",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "In this role, I owned the full lifecycle of financial data, from architecting the underlying cloud infrastructure with Terraform to engineering high-performance ETL pipelines and creating scalable data lakes on AWS.\n\n• Architected and launched two critical data lakes on AWS: one consolidating news feeds to enable generative AI applications, and a second for forex ticker data to support algorithmic trading bots and reconciliation.\n• Overhauled existing financial ETL pipelines using AWS Glue, significantly reducing data processing downtimes and increasing data reliability for all downstream AI models and analysis."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2371630",
+          "companyUrn": "urn:li:fsd_company:2371630",
+          "companyLink1": "https://www.linkedin.com/company/diverta-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHfo_jNVWQhDA/company-logo_400_400/company-logo_400_400/0/1630635547772/diverta_inc__logo?e=1785369600&v=beta&t=q7g_1Y_QTAwxWbsq2ukU0G37_bGL9IU5h7vLWV6SFZs",
+          "title": "Software Engineer",
+          "subtitle": "Diverta Inc. . Full-time",
+          "caption": "Jan 2020 - Jun 2023 · 3 yrs 5 mos",
+          "metadata": "Tokyo, Japan",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Over three years, I contributed across the full stack of a large-scale video analysis platform. My work involved building high-throughput data pipelines, managing scalable cloud infrastructure on GCP, implementing core computer vision algorithms, and developing the user-facing analysis application.\n\n• Designed a high-performance Apache Airflow data processing pipeline for processing large-scale CCTV footage.\n• Managed a highly scalable video analysis system's infrastructure on GCP, optimizing for high scalability and cost-efficiency.\n• Implemented state-of-the-art Multi-Target Multi-Camera Tracking (MTMCT) algorithms, which formed the core of the platform's analytical engine.\n• Developed key front-end and back-end components for a web application to deliver multi-camera tracking analysis and visualizations to users."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2371630",
+          "companyUrn": "urn:li:fsd_company:2371630",
+          "companyLink1": "https://www.linkedin.com/company/diverta-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHfo_jNVWQhDA/company-logo_400_400/company-logo_400_400/0/1630635547772/diverta_inc__logo?e=1785369600&v=beta&t=q7g_1Y_QTAwxWbsq2ukU0G37_bGL9IU5h7vLWV6SFZs",
+          "title": "Machine Learning Intern",
+          "subtitle": "Diverta Inc. . Internship",
+          "caption": "May 2019 - Jul 2019 · 2 mos",
+          "metadata": "Within 23 wards, Tokyo, Japan",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My internship spanned machine learning and web development, where I built a computer vision model and supported enterprise-level content management systems.\n\n• Built an ML model that filtered non-human objects from CCTV video feeds to improve person-tracking accuracy.\n• Resolved critical bugs and shipped new features for high-traffic websites built on the RCMS platform."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "157268",
+          "companyUrn": "urn:li:fsd_company:157268",
+          "companyLink1": "https://www.linkedin.com/school/indian-institute-of-technology-kanpur/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEhNteRFbyBdQ/company-logo_400_400/company-logo_400_400/0/1630585318049/indian_institute_of_technology_kanpur_logo?e=1785369600&v=beta&t=O8ExeOD-eAfYgFDdCM4nVXPssOcAKdS2eZYG1sNxl8Y",
+          "title": "Summer Research Intern",
+          "subtitle": "Indian Institute of Technology, Kanpur . Internship",
+          "caption": "May 2018 - Jul 2018 · 2 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed and trained a neural network to detect zero-day malware in Android applications. \nMy model used static analysis of app permissions and API calls to identify previously unseen threats, providing a more effective defense than traditional signature-based antivirus."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Oct 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Google Cloud Platform Essentials",
+          "subtitle": "Google",
+          "issued": "Issued Sep 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+          "subtitle": "Coursera",
+          "issued": "Issued Feb 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Neural Networks and Deep Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued Feb 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Japanese",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telugu",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "gRPC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cryptocurrency",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Full-Stack Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Back-End Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Spark",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Patterns",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15095560",
+          "companyUrn": "urn:li:fsd_company:15095560",
+          "companyLink1": "https://www.linkedin.com/school/indian-institute-of-technology-gandhinagar-iitgn-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPsIf1VUt26g/company-logo_400_400/company-logo_400_400/0/1691123756515/indian_institute_of_technology_gandhinagar_iitgn__logo?e=1785369600&v=beta&t=qr6NiszIzlolJbW3iMXvhsjjdLrbRwlkK0S_aAgTcDg",
+          "title": "Indian Institute of Technology Gandhinagar ",
+          "subtitle": "Bachelor of Technology - BTech, Mechanical Engineering with a Minor in CSE",
+          "caption": "Sep 2016 - Sep 2020",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Folio Feed",
+          "subtitle": "Oct 2023 - Dec 2023",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Personalized Stock Portfolio News and Sentiment Dashboard"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Image Processing Toolbox",
+          "subtitle": "Oct 2018 - Dec 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Image Processing Toolbox in Verilog using Basys3 FPGA.\nIn this project, we have implemented image processing operations (those involving convolutions) on an image using FPGA(Basys-3 board). "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Malware Detection in Android Apps using Neural Networks",
+          "subtitle": "May 2018 - Jul 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Most of the antivirus in the market use Signature-based malware detection, so they fail in preventing newly developed malware. The purpose of this project is to design a Neural Network that could determine the probability of an Android Application having a malware inside it. Since the neural network is trained on thousands of existing Android applications, it can successfully predict the possibility of any new application having a malware even if the malware is newly developed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pill Reminder for Patients",
+          "subtitle": "Jan 2018 - Apr 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Indian Institute of Technology Gandhinagar"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Developed a pill box prototype and an android application for patients to remind them to take pills in time.Used various sensors to record the patient's behaviour and Arduino board to connect the pill box to android app\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Real Time Facial Emotion Recognizer",
+          "subtitle": "Mar 2018 - Mar 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Indian Institute of Technology Gandhinagar"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "RTFER uses Convolution Neural Network which is implemented in keras python deep neural networks library. This model is trained on fer2013 dataset. This model takes camera video input and detects the face position using OpenCV face detection algorithm and feed this to a trained CNN model for predicting the emotion of the person and displays the respective emoji in the place of the face on the live video."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Human Resource Predictor",
+          "subtitle": "Nov 2017 - Nov 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Predicting the probability of an employee leaving his/her company based on some features like salary, job satisfaction level, bad incidents while doing his/her job etc.,"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GNius",
+          "subtitle": "Dec 2016 - Jan 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "GNius is web application which was created exclusively for IIT-GN students. It was made for the Dashboard competition in Inter IIT Tech Meet 2017. The portal was made to accumulate every feature that the institute student needs, all in one place."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

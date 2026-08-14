@@ -1,0 +1,437 @@
+{
+  "linkedin_url": "https://no.linkedin.com/in/espenhjerto",
+  "row_key": "id:003Uk00000yaRftIAE",
+  "person": "Espen Hjerto",
+  "account": "Lenovo Group",
+  "fetched_at": "2026-07-14T10:44:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAATEcQBWvILK1dPT-A9buLVgPLJ7Nl-2oM",
+      "firstName": "Espen",
+      "lastName": "Hjertø",
+      "fullName": "Espen Hjertø",
+      "publicIdentifier": "espenhjerto",
+      "headline": "CTO,  Lenovo Nordics",
+      "about": "I love people and technology. Entrepreneur with focus on growth.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Norway",
+      "addressWithCountry": "Oslo, Oslo Norway",
+      "addressWithoutCountry": "Oslo, Oslo",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGpkv403VZU3A/profile-displayphoto-scale_400_400/B4DZpzFKQqJcAg-/0/1762867324519?e=1785369600&v=beta&t=uRutd-Uh3psvxN6L7BqqxR8R0MNuXotVX6IL_RugFj8",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEdqWmKwFzGUQ/profile-displaybackgroundimage-shrink_200_800/B56ZrvDL5ZHQAU-/0/1764947182273?e=1785369600&v=beta&t=u_2EfUrFidVEQzwx0RIGNaIjhbzD4IMSUfspJ1t7c1Y",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGpkv403VZU3A/profile-displayphoto-scale_100_100/B4DZpzFKQqJcAc-/0/1762867324519?e=1785369600&v=beta&t=d9jvcC4bNDvP9Hyp391IGRV8l4EQob2uOOLHYwhiekQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGpkv403VZU3A/profile-displayphoto-scale_200_200/B4DZpzFKQqJcAY-/0/1762867324519?e=1785369600&v=beta&t=BBuCsg2uWfOSx2HfK9Z8mdlPLTXaGgepqbe_ss5Rn3I"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGpkv403VZU3A/profile-displayphoto-crop_800_800/B4DZpzFKQqJcAI-/0/1762867324428?e=1785369600&v=beta&t=lrHFrkrotaEXb9V6y8WgshAdKmtjNQ6TE-LQkFR-xCI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGpkv403VZU3A/profile-displayphoto-scale_400_400/B4DZpzFKQqJcAg-/0/1762867324519?e=1785369600&v=beta&t=uRutd-Uh3psvxN6L7BqqxR8R0MNuXotVX6IL_RugFj8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1250,
+          "height": 312,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEdqWmKwFzGUQ/profile-displaybackgroundimage-shrink_350_1400/B56ZrvDL5ZHQAY-/0/1764947182273?e=1785369600&v=beta&t=1-qN0gspthlm4Bu3V83ZUr2yyKHI1nGJyGWPktH3lb4"
+        },
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEdqWmKwFzGUQ/profile-displaybackgroundimage-shrink_200_800/B56ZrvDL5ZHQAU-/0/1764947182273?e=1785369600&v=beta&t=u_2EfUrFidVEQzwx0RIGNaIjhbzD4IMSUfspJ1t7c1Y"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "3653",
+          "companyUrn": "urn:li:fsd_company:3653",
+          "companyLink1": "https://www.linkedin.com/company/lenovo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwodgzuPCrOA/company-logo_400_400/company-logo_400_400/0/1659011656349/lenovo_logo?e=1785369600&v=beta&t=3uKthCYTRw-tNf-xnG4Hrku8C_NMDwkw4GdWbRmxWyQ",
+          "title": "Lenovo",
+          "subtitle": "Full-time · 10 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "CTO, Lenovo Nordics & Baltics",
+              "caption": "Oct 2024 - Present · 1 yr 3 mos",
+              "metadata": "Oslo, Norway",
+              "description": []
+            },
+            {
+              "title": "General Manager, Lenovo Global Technology Nordics and Norway",
+              "caption": "Feb 2015 - Oct 2024 · 9 yrs 8 mos",
+              "metadata": "Oslo Area, Norway",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I manage the Lenovo Datacenter business in The Nordics and Norway. Technical background now working with P/L management, people. Managing teams in all customer segments, partners and ISVs. Experience with multi country management and regions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1025",
+          "companyUrn": "urn:li:fsd_company:1025",
+          "companyLink1": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_200_200/B4EZdkxlEZH0AM-/0/1749742408362/hewlett_packard_enterprise_logo?e=1785369600&v=beta&t=F33cZtdJfo2M1gOUbcpsI66QY4mJ16GyH5FTtiKT0wI",
+          "title": "HP",
+          "subtitle": "undefined · 14 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sales Director & Country Manager Channel Business",
+              "caption": "Nov 2012 - Jan 2015 · 2 yrs 2 mos",
+              "metadata": "Oslo Area, Norway",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managing HP Partner business, Service Provider Business, SMB, OEM and Alliances at HP Norway."
+                }
+              ]
+            },
+            {
+              "title": "Country Manager, Enterprise Servers Storage & Networking",
+              "caption": "Sep 2011 - Nov 2012 · 1 yr 2 mos",
+              "metadata": "Oslo Area, Norway",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managing the team of 70+ people in total, Manager of managers. P/L manager. Reporting out of the country."
+                }
+              ]
+            },
+            {
+              "title": "Business Unit Manager, Servers",
+              "caption": "Nov 2009 - Oct 2011 · 1 yr 11 mos",
+              "metadata": "Oslo Area, Norway",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Manager for HP Proliant server business growing market share to 60%. Total business responsibility.  P/L manager."
+                }
+              ]
+            },
+            {
+              "title": "Sales Manager",
+              "caption": "Feb 2006 - Oct 2011 · 5 yrs 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Sales Manager at HP.  Starting up HP Direct business."
+                }
+              ]
+            },
+            {
+              "title": "Key Account Manager",
+              "caption": "2003 - Feb 2006 · 3 yrs 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Account management, medium and large customers"
+                }
+              ]
+            },
+            {
+              "title": "Senior Sales Specialist",
+              "caption": "2001 - 2003 · 2 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Server and Storage specialist. Selling the HP value to our customers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CTO",
+          "subtitle": "PKD Telecom . undefined",
+          "caption": "1998 - 2001 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "CTO and project manager of hardware and software manufactured by our company..  One of the entrepreneurs and board member."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1025",
+          "companyUrn": "urn:li:fsd_company:1025",
+          "companyLink1": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_200_200/B4EZdkxlEZH0AM-/0/1749742408362/hewlett_packard_enterprise_logo?e=1785369600&v=beta&t=F33cZtdJfo2M1gOUbcpsI66QY4mJ16GyH5FTtiKT0wI",
+          "title": "Presales Specialist",
+          "subtitle": "Compaq . undefined",
+          "caption": "1995 - 1998 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technical trainer in the Compaq ASE programme. Technical consultant pre- and post-sales."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Presales",
+          "subtitle": "Compaq Computer . undefined",
+          "caption": "1994 - 1997 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My responsibilities include technical presales for large and medium accounts"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Service, installation and IT",
+          "subtitle": "Motorola . undefined",
+          "caption": "1990 - 1994 · 4 yrs",
+          "metadata": "Oslo Area, Norway",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Installing cell phones in cars, installation of base stations for two-way communication on remote locations. Service professional on cell phones, pagers and two-way radios."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [
+        {
+          "title": "MusicDNA AS",
+          "subtitle": "Board Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Information Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sikkerhet",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Selling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Key Account Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales Process",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Channel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Selling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Account Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pre-sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Channel Partners",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Alliances",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Partner Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "NII/NHI",
+          "subtitle": "Bachelor of Science (B.Sc.), Databases, Computer Systems Networking and Telecommunications",
+          "caption": "1990 - 1994",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Studying networking, programming and databases with a lot of mathematics :-)"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

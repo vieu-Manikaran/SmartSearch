@@ -1,0 +1,615 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/stephen-herkert-jr",
+  "row_key": "id:003Uk00000z7pIrIAI",
+  "person": "Stephen Herkert",
+  "account": "Lytx",
+  "fetched_at": "2026-07-14T10:21:48Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAtviBsB4swU9dQFW5o_W_dH0uGATi9Xvoc",
+      "firstName": "Stephen",
+      "lastName": "H.",
+      "fullName": "Stephen H.",
+      "publicIdentifier": "stephen-herkert-jr",
+      "headline": "Network Engineer | Cisco & Microsoft Certified | Expert in Design, Security\n& Optimization",
+      "about": "With a track record as a performance driven professional, I possess a history of designing, implementing, and optimizing complex network infrastructures. My expertise lies in analyzing network requirements, identifying inefficiencies, and devising innovative solutions to enhance performance. With a solid foundation in Cisco technologies and proficiency in Palo Alto firewalls, F5 BigIP, and AWS among others, I am well-equipped to tackle diverse networking challenges.\nThroughout my career, I have demonstrated transformative leadership skills and a knack for problem resolution. I take pride in my ability to troubleshoot network issues, provide timely resolutions, and effectively communicate complex technical concepts to diverse stakeholders. By collaborating with cross-functional teams, I ensure project delivery within budgetary and time constraints while maintaining robust communication channels.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Tampa, Florida United States",
+      "addressWithoutCountry": "Tampa, Florida",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "26167",
+          "companyUrn": "urn:li:fsd_company:26167",
+          "companyLink1": "https://www.linkedin.com/company/lytxinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZaBN0JHGmXA/company-logo_100_100/B4DZgJvZmdHAAQ-/0/1752510077843/lytxinc_logo?e=1785369600&v=beta&t=NfCL0oX6Zf4HwhrxEfAz-XBdQJZc0H-cdd0QkKfBThk",
+          "title": "Staff Cloud Network Engineer",
+          "subtitle": "Lytx, Inc. . Full-time",
+          "caption": "Mar 2025 - Present · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "34083",
+          "companyUrn": "urn:li:fsd_company:34083",
+          "companyLink1": "https://www.linkedin.com/company/greenway-health/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGGxy3jNGT6rQ/company-logo_100_100/B4EZzXpe7QIUAQ-/0/1773144502248/greenway_health_logo?e=1785369600&v=beta&t=4gEGxHA2rb2KvA-G2HHyWKI2xIZBob07qRxpHumtWYM",
+          "title": "Greenway Health",
+          "subtitle": "undefined · 8 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Network Engineer",
+              "caption": "Oct 2022 - Mar 2025 · 2 yrs 5 mos",
+              "metadata": "Tampa, Florida, United States",
+              "description": []
+            },
+            {
+              "title": "Senior Network Engineer",
+              "caption": "Jan 2019 - Oct 2022 · 3 yrs 9 mos",
+              "metadata": "Tampa/St. Petersburg, Florida Area",
+              "description": []
+            },
+            {
+              "title": "Network Engineer",
+              "caption": "Mar 2017 - Dec 2018 · 1 yr 9 mos",
+              "metadata": "Tampa/St. Petersburg, Florida Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20270",
+          "companyUrn": "urn:li:fsd_company:20270",
+          "companyLink1": "https://www.linkedin.com/school/hillsborough-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEt148cFEj4yg/company-logo_100_100/B4EZ1pv2x.HcAQ-/0/1775595646444/hillsborough_college_logo?e=1785369600&v=beta&t=7tN357Tw8RU8wSCR-JMkwLgi5bJdkHffRPqVtnfGZtI",
+          "title": "Hillsborough Community College",
+          "subtitle": "undefined · 4 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "System Administrator",
+              "caption": "Jan 2014 - Mar 2017 · 3 yrs 2 mos",
+              "metadata": "Tampa/St. Petersburg, Florida Area",
+              "description": []
+            },
+            {
+              "title": "Lab Tech",
+              "caption": "Sep 2012 - Jan 2014 · 1 yr 4 mos",
+              "metadata": "Tampa/St. Petersburg, Florida Area",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "AI Solutions on Cisco Infrastructure Essentials",
+          "subtitle": "Cisco",
+          "issued": "Issued May 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Network Professional Security (CCNP-S)",
+          "subtitle": "Cisco",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Specialist - Network Security Firepower",
+          "subtitle": "Cisco",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Specialist - Security Core",
+          "subtitle": "Cisco",
+          "issued": "Issued Jun 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Specialist - Web Content Security",
+          "subtitle": "Cisco",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Specialist - Network Security VPN Implementation",
+          "subtitle": "Cisco",
+          "issued": "Issued Sep 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Specialist - Security Identity Management Implementation",
+          "subtitle": "Cisco",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Specialist - Enterprise Design",
+          "subtitle": "Cisco",
+          "issued": "Issued Sep 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MTA: Cloud Fundamentals - Certified 2016",
+          "subtitle": "Microsoft",
+          "issued": "Issued Mar 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Networking Professional -Enterprise",
+          "subtitle": "Cisco",
+          "issued": "Issued Jan 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation",
+          "subtitle": "Cisco",
+          "issued": "Issued Jan 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Specialist - Enterprise Core",
+          "subtitle": "Cisco",
+          "issued": "Issued Jan 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "120491",
+          "companyUrn": "urn:li:fsd_company:120491",
+          "companyLink1": "https://www.linkedin.com/company/onlc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHZ5tUAyFb-lw/company-logo_400_400/company-logo_400_400/0/1631320682472?e=1785369600&v=beta&t=xZDDllbAaM5Uek-491xmaOMiS86Nhm7NhxLxvlOmbaM",
+          "title": "Server Virtualization with Windows Server Hyper-V and System Center - MS Course 20409",
+          "subtitle": "ONLC Training Centers",
+          "issued": "Issued Aug 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MTA: Mobility and Device Fundamentals - Certified 2016",
+          "subtitle": "Microsoft",
+          "issued": "Issued Apr 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "16529",
+          "companyUrn": "urn:li:fsd_company:16529",
+          "companyLink1": "https://www.linkedin.com/company/comptia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvewdxT9h_6Q/company-logo_100_100/B4EZuQYLnGHIAQ-/0/1767653817239/comptia_logo?e=1785369600&v=beta&t=gyPY7qgKVAf_-Y65x5QITqRrO9EmzwlpbS3ZPA6Z7RA",
+          "title": "A+",
+          "subtitle": "CompTIA",
+          "issued": "Issued Mar 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "162479",
+          "companyUrn": "urn:li:fsd_company:162479",
+          "companyLink1": "https://www.linkedin.com/company/apple/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1785369600&v=beta&t=xz8wYn_JGZUgL6PQtn6EX3lObYNFAaPGx6TQOE92Wn0",
+          "title": "Apple Certified Support Professional (ACSP)",
+          "subtitle": "Apple",
+          "issued": "Issued Dec 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "CCNA",
+          "subtitle": "Cisco",
+          "issued": "Issued Jul 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "16529",
+          "companyUrn": "urn:li:fsd_company:16529",
+          "companyLink1": "https://www.linkedin.com/company/comptia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvewdxT9h_6Q/company-logo_100_100/B4EZuQYLnGHIAQ-/0/1767653817239/comptia_logo?e=1785369600&v=beta&t=gyPY7qgKVAf_-Y65x5QITqRrO9EmzwlpbS3ZPA6Z7RA",
+          "title": "Network+",
+          "subtitle": "CompTIA",
+          "issued": "Issued May 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MTA: Database Fundamentals - Certified 2016",
+          "subtitle": "Microsoft",
+          "issued": "Issued Nov 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MTA: Software Development Fundamentals - Certified 2016",
+          "subtitle": "Microsoft",
+          "issued": "Issued Nov 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Cloudflare",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Imperva",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Wireless Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Disaster Recovery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Satisfaction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Repair",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtual Private Network (VPN)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Active Directory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Hardware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166671",
+          "companyUrn": "urn:li:fsd_company:166671",
+          "companyLink1": "https://www.linkedin.com/school/usouthflorida/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHwsMY_NU98iw/company-logo_400_400/company-logo_400_400/0/1686165874965/usouthflorida_logo?e=1785369600&v=beta&t=MIqlyJdgn8S4DlQMTKRoTLe50ssOoWoWuJLbulOmQ8A",
+          "title": "University of South Florida",
+          "subtitle": "Bachelor of Science (BS) in Applied Science, Phi Kappa Phi",
+          "caption": "2014 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Magna Cum Laude"
+            }
+          ]
+        },
+        {
+          "companyId": "20270",
+          "companyUrn": "urn:li:fsd_company:20270",
+          "companyLink1": "https://www.linkedin.com/school/hillsborough-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEt148cFEj4yg/company-logo_100_100/B4EZ1pv2x.HcAQ-/0/1775595646444/hillsborough_college_logo?e=1785369600&v=beta&t=7tN357Tw8RU8wSCR-JMkwLgi5bJdkHffRPqVtnfGZtI",
+          "title": "Hillsborough Community College",
+          "subtitle": "Associate of Science (A.S.), Phi Theta Kappa",
+          "caption": "2011 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "High Honors"
+            },
+            {
+              "type": "insightComponent",
+              "text": "CCC - Wireless and IP Communications\nCCC - Cisco Certified Network Associate\nCCC - Microsoft Certified Information Technology Professional\nCCC - Network Communications / LAN\nCCC - Information Technology Analysis\nCCC - Information Technology Support Specialist\nCCC - Information Technology Technician\nCCC - Information Technology Management"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

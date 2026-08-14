@@ -1,0 +1,398 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/philipmcardle",
+  "row_key": "id:0031N0000221JNPQA2",
+  "person": "Phil McArdle",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:13Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAARyhfQBu6c4jRJVzTdDU8W8nnlvAZMcBUs",
+      "firstName": "Phil",
+      "lastName": "McArdle",
+      "fullName": "Phil McArdle",
+      "publicIdentifier": "philipmcardle",
+      "headline": "Senior Technical Producer, Tech Services at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Brightons, Scotland United Kingdom",
+      "addressWithoutCountry": "Brightons, Scotland",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQECD0EqpcZoTQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1669917945550?e=1785369600&v=beta&t=zhSWq9MNjS8kydgL4VE2b6K9zVTCucXbq-eF23wt2f4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECD0EqpcZoTQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1669917945550?e=1785369600&v=beta&t=ywgL-deL6Dx0RnxMht-g56A-4bjzJxx-qVjXOBYUFm0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECD0EqpcZoTQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1669917945550?e=1785369600&v=beta&t=Yp0lz7uimbRxllKM-tKNb6nlSCV02GgSfKTkzFp0r7E"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECD0EqpcZoTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1669917945550?e=1785369600&v=beta&t=0rvhZ846ESe-OOxvgvczxGgFESvtbsGUCNQEf5NdTug"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECD0EqpcZoTQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1669917945550?e=1785369600&v=beta&t=zhSWq9MNjS8kydgL4VE2b6K9zVTCucXbq-eF23wt2f4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 7 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Technical Producer",
+              "caption": "Dec 2022 - Present · 3 yrs 1 mo",
+              "metadata": "Edinburgh, Scotland, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Technical Producer",
+              "caption": "Oct 2021 - Dec 2022 · 1 yr 2 mos",
+              "metadata": "Edinburgh, Scotland, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Site Reliability Engineer",
+              "caption": "Feb 2018 - Oct 2021 · 3 yrs 8 mos",
+              "metadata": "Edinburgh, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2868588",
+          "companyUrn": "urn:li:fsd_company:2868588",
+          "companyLink1": "https://www.linkedin.com/company/cloudgine/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF7jw08Rlz7LA/company-logo_400_400/company-logo_400_400/0/1631336635536?e=1785369600&v=beta&t=Jhtv2OxZ07uLmIFBLIHE8QwFt1fFTiyKqkVfC-8koDM",
+          "title": "Operations Manager",
+          "subtitle": "Cloudgine . Full-time",
+          "caption": "Jul 2015 - Feb 2018 · 2 yrs 7 mos",
+          "metadata": "Edinburgh, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Operational responsibility for all local and remote infrastructure, project servers and third-party cloud services.\n\nInherited a small local infrastructure and grew this into a multi-host VMware vSphere environment. Built out Puppet configuration management from scratch to manage this environment in order to provide infrastructure as code across the organisation, and virtualized or rebuilt any existing servers onto this new environment. \n\nTook over ownership of the company's AWS environment, adopting modern security and organisational best practises, separating different concerns into discrete accounts and providing secure backups of all local and remote infrastructure.\n\nBuilt up multiple Jenkins masters to manage various automation tasks across ops and development CI. Adopted pipeline as code throughout the Jenkins infrastructure, including a detailed shared Groovy library providing common code, standardisation and enhanced notification features to all Jenkins jobs."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3168776",
+          "companyUrn": "urn:li:fsd_company:3168776",
+          "companyLink1": "https://www.linkedin.com/company/reloaded-games-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHXRKt3RF-qPw/company-logo_400_400/company-logo_400_400/0/1631309203858?e=1785369600&v=beta&t=eGBBoInT4CL8NAm6apckKniLfpueB5tqjim4yFOIewM",
+          "title": "Reloaded Productions Ltd",
+          "subtitle": "Full-time · 4 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Operations Manager",
+              "caption": "Jun 2014 - Jun 2015 · 1 yr",
+              "metadata": "Edinburgh, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Projects: APB: Reloaded (PC, Xbox One, PS4)\n\nResponsible for a diverse team of engineers spanning live operations, tools, build engineering and server-side development. This included ongoing mentoring and training of staff in different skillsets, with staff having come into their roles at varying levels of experience.\n\nIn addition to the responsibilities of my own team, I also worked closely with production and management in the planning and development efforts for the game teams and helped supervise our QA efforts.\n\nDuring this time I was also involved in helping to kickstart the development of the console versions of APB, incorporating their unique client and server-side requirements into our existing development processes and helping to onboard the new external team.\n\nI was also instrumental in managing the conflicting priorities and interests of the monetisation and product teams with those of development, community and design, working closely with each team to understand everyone's needs and find acceptable compromises."
+                }
+              ]
+            },
+            {
+              "title": "Release Engineer",
+              "caption": "Nov 2010 - Jun 2014 · 3 yrs 7 mos",
+              "metadata": "Edinburgh, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Projects: APB: Reloaded (PC)\n\nAs part of this role I gained complete responsibility for all aspects of branching and release management for a live game with a weekly patch cycle, regular game updates, and occasional hotfixes. This included working with QA and production to ensure that all components were present and accounted for, often providing release notes both for the end users and deployment instructions for our operations team.\n\nI was individually responsible for much of this time for maintaining and improving a number of APB's existing tools, including our existing NSIS-based installer, C# based launcher and crash processor, and further tools and scripts written in Python, including our Tkinter-based development game launcher and bespoke build automation framework. This responsibility was eventually passed on to a later Tools hire.\n\nFrequently worked across multiple departments in both production and technical roles to spec out new tools work and game features. For most of this time, I also worked on the frontlines of our relationships with our distribution partners for the Brazilian & Russian territories from both technical & production perspectives.\n\nTook over complete responsibility for all aspects of JIRA and Confluence administration, and later worked with producers on project management, making changes to each system as required by development.\n\nAfter our IT staff left, having worked closely with him for some time I further gained responsibility for maintaining and improving the local office infrastructure (Windows Server 2003 through 2012, Debian, VMware ESXi, Active Directory, Cisco ASA, 3Com switches, and other bespoke solutions including custom iptables firewalls) as well as all physical maintenance and upgrades of desktops and servers along with any new builds."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "17011",
+          "companyUrn": "urn:li:fsd_company:17011",
+          "companyLink1": "https://www.linkedin.com/company/realtime-worlds/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGF5M2qn93WvQ/company-logo_400_400/company-logo_400_400/0/1631314459220?e=1785369600&v=beta&t=_sh2XYSGEUN4H4kJI4i-bKksp5ETJbuxL7KDQgW70dI",
+          "title": "Build Engineer",
+          "subtitle": "Realtime Worlds . Full-time",
+          "caption": "Sep 2008 - Sep 2010 · 2 yrs",
+          "metadata": "Dundee, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Projects: APB: All Points Bulletin (PC)\n\nCoordinated asset integration between content creation and engineering branches, including liaising between Art, QA, Design and Engineering teams.\n\nResponsible for the assembly and distribution of builds of APB for both playtests and live releases.\n -  Including working with the tools team to design and develop a single tool to manage the complex tool-chains required to build each of the project's components.\n - With the Release Manager, documented and released multiple builds each week, most for deployment by our operations team, with the remainder for ratings boards, localisation firms, and the final retail discs.\n\nIdentified many areas where the project was shipping source assets and code and worked with other members of the development team to clean up the source branches and improve the patchmasks used for distributing the game.\n\nGained responsibility for internal deployments of playtest builds and for managing servers during playtests.\n\nRegularly provided support and guidance in the effective use of source control to other members of the development team.\n\nImplemented various tools and scripts in Python as required for myself or for ad-hoc requests from development."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Freelance IT & Web Developer",
+          "subtitle": "(Self-Employed) . undefined",
+          "caption": "Sep 2007 - Sep 2008 · 1 yr",
+          "metadata": "Dundee, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Computer Maintenance & Web Development\n\nDealing with a range of issues from hardware set-up and upgrades to software installs, configuration and troubleshooting.\n\nWorking on development of a number of SQL-driven websites for international companies - A wide variety of work, ranging from fixing long-standing to newly-discovered issues as well as adding and removing features at the clients' request, from minor interface tweaks to major new functionality.\n\nLearning and working within the framework of existing sites to minimise workload, reducing the impact of changes and likelihood of introducing further bugs. Effectively tackling clients' requirements, regardless of prior knowledge of the platform, or existing skills. Proactively investigating clients' sites to find potential problem areas and related issues."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3095",
+          "companyUrn": "urn:li:fsd_company:3095",
+          "companyLink1": "https://www.linkedin.com/company/sitelgroup/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHNqzWMWUqV3g/company-logo_400_400/company-logo_400_400/0/1677676023258/sitelgroup_logo?e=1785369600&v=beta&t=sYFS-BUuWxuhO_SAVuQLL572d9iMJ_Kt3URTn9Y2J5M",
+          "title": "Customer Service Advisor",
+          "subtitle": "Sitel (formerly ClientLogic) . undefined",
+          "caption": "Aug 2004 - Sep 2007 · 3 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Progressed through various departments including:\n - technical support to BT business broadband customers\n - supported BT's corporate customers - clients including Reuters, Cisco and BP - with broadband, software, routers, and networking issues\n - supervisory experience providing shift and holiday cover as and when required\n - domain name services helpdesk\n\nAssisted as developer and content creator on various internal projects, including:\n - Seconded to BT's centre in Alness as one of a team of three to develop a new process tool for the technical campaigns across BT Business Broadband.\n- Lead developer on an internal web-based knowledge base for BT for Windows Vista.\n- Seconded for a month to BT to work on their latest tool for business technical agents, including re-writing or creating new processes and technical documentation from scratch, as well as converting existing material where appropriate."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "90812745",
+          "companyUrn": "urn:li:fsd_company:90812745",
+          "companyLink1": "https://www.linkedin.com/company/zero-critical-club-by-wiz/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE5xekCJ9Tl7g/company-logo_400_400/company-logo_400_400/0/1675002546386?e=1785369600&v=beta&t=zrdcMnaZamTtGdc_8sF4cOCMtvGsWRKZM4JVGdIriXA",
+          "title": "Member",
+          "subtitle": "Zero Critical Club",
+          "issued": "Issued Sep 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JIRA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MMO",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unreal Engine 3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Release Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Release Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Build Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Configuration Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Regular Expressions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Groovy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "25034",
+          "companyUrn": "urn:li:fsd_company:25034",
+          "companyLink1": "https://www.linkedin.com/school/abertay-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEkddB1_q-vsA/company-logo_400_400/company-logo_400_400/0/1721301432169/abertay_university_logo?e=1785369600&v=beta&t=jkmg0cmbBi5WpOAZOJIjkFugbFySzwrFPxMSRDe65SI",
+          "title": null,
+          "subtitle": "BSc, Computer Games Technology",
+          "caption": "2001 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

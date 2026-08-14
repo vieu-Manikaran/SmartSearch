@@ -1,0 +1,177 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/leo-thomas-697ba91b3",
+  "row_key": "id:003Uk00000yfZqIIAU",
+  "person": "Leo Thomas",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:44Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADHVHpMBrht3hcvRJYmBYtGXKERm6lcZuiY",
+      "firstName": "Leo",
+      "lastName": "Thomas",
+      "fullName": "Leo Thomas",
+      "publicIdentifier": "leo-thomas-697ba91b3",
+      "headline": "Software Engineer at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Los Angeles, California United States",
+      "addressWithoutCountry": "Los Angeles, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGFK_pdej78Wg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715985833834?e=1785369600&v=beta&t=FvlUMkDCjqOWT_FTHctKuYI9DU142AKNKSGOirvfBM4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGFK_pdej78Wg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715985833834?e=1785369600&v=beta&t=1Sbv8PV_rd9AbX3Rks_-5ScUbjT14kH3Zwq88qXORLo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGFK_pdej78Wg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715985833834?e=1785369600&v=beta&t=bEdJkSNjj8iGgN5XxFvzXsbjwoEWQpsXEn2FS3frhQY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGFK_pdej78Wg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715985833834?e=1785369600&v=beta&t=n_wAmKvyZcXFid_yvDrxVGpc4S-AvwHm3J-mgbkpoaY"
+        },
+        {
+          "width": 422,
+          "height": 422,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGFK_pdej78Wg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715985833834?e=1785369600&v=beta&t=FvlUMkDCjqOWT_FTHctKuYI9DU142AKNKSGOirvfBM4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "senior cloud software engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "May 2021 - Present · 4 yrs 8 mos",
+          "metadata": "Los Angeles, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Full Lifecycle Development: Led the complete lifecycle from analysis and design to development, testing, and deployment of a diabetes management application, adhering to Agile methodologies and ensuring seamless integration and quality.\n\nBackend and Integration: Utilized RESTful web services, Hibernate with SQL for database interactions, and EJBs for business logic implementation. Employed JMS for inter-application communication and developed PL/SQL stored procedures and triggers for backend functionality.\n\nDeployment and Testing: Built and deployed the application using Gradle, WebLogic, JBoss, and AWS EC2. Ensured robustness by developing unit tests with JUnit and Mockito, and addressing quality and performance issues throughout the application."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Application Programming Interfaces (API)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JMeter",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WebLogic",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gradle",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PL/SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

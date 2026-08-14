@@ -1,0 +1,421 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/laiqjafri",
+  "row_key": "id:003Uk00000yfU6VIAU",
+  "person": "Laiq Jafri",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:34Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAD8q84B1VJdCyLs35z8j3iRW_pue9tl5cg",
+      "firstName": "Laiq",
+      "lastName": "Jafri",
+      "fullName": "Laiq Jafri",
+      "publicIdentifier": "laiqjafri",
+      "headline": "Fullstack Python and React",
+      "about": "Fullstack Python and React",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Aylesbury, England United Kingdom",
+      "addressWithoutCountry": "Aylesbury, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFxV3TkyaaVew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656000285719?e=1785369600&v=beta&t=8QubP5KYYESbQ-K6AYLa8Jd8BBLNtboRSFMjSfbIZCM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFxV3TkyaaVew/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1656000285719?e=1785369600&v=beta&t=MRrgczpBf8I95ASav3z0oyceXH6CUcMnZjAqXRHIx4g"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFxV3TkyaaVew/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1656000285719?e=1785369600&v=beta&t=8rr5hJW71c9sYEyfqnoqIKNTHBWp0nlV7PACVeTzkJ0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFxV3TkyaaVew/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1656000285719?e=1785369600&v=beta&t=3cGlI-UJI644ip91V2ForSw0oQ5MTW1mJnjAMBo6Zjk"
+        },
+        {
+          "width": 551,
+          "height": 551,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFxV3TkyaaVew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656000285719?e=1785369600&v=beta&t=8QubP5KYYESbQ-K6AYLa8Jd8BBLNtboRSFMjSfbIZCM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Senior Software Engineer",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Nov 2021 - Present · 4 yrs 2 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1068",
+          "companyUrn": "urn:li:fsd_company:1068",
+          "companyLink1": "https://www.linkedin.com/company/jpmorganchase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1785369600&v=beta&t=jYOBdiueGs_lhwuITtjYPaz8lhGNeBBj6VIEbg1hxcE",
+          "title": "JPMorgan Chase & Co.",
+          "subtitle": "Full-time · 5 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Associate (Technology)",
+              "caption": "Jan 2019 - Oct 2021 · 2 yrs 9 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Technology Analyst",
+              "caption": "Aug 2016 - Jan 2019 · 2 yrs 5 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "subtitle": "3rdWindow.com . undefined",
+          "caption": "Sep 2012 - Aug 2015 · 2 yrs 11 mos",
+          "metadata": "Pakistan",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Principal Software Engineer",
+          "subtitle": "tigerlab sdn bhd . undefined",
+          "caption": "Jun 2011 - Sep 2012 · 1 yr 3 mos",
+          "metadata": "Kuala Lumpur, Malaysia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1217651",
+          "companyUrn": "urn:li:fsd_company:1217651",
+          "companyLink1": "https://www.linkedin.com/company/mwm-ventures/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEsnBbWGA3o9A/company-logo_400_400/company-logo_400_400/0/1631335232492?e=1785369600&v=beta&t=pm239gRZu2h16GAUixNnuBcd4512SSA0aqlDLfG96Dw",
+          "title": "Software Engineer",
+          "subtitle": "MWM Ventures . undefined",
+          "caption": "May 2010 - Jul 2011 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1465335",
+          "companyUrn": "urn:li:fsd_company:1465335",
+          "companyLink1": "https://www.linkedin.com/company/d3velopers/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEHg3aHx0dq7w/company-logo_400_400/company-logo_400_400/0/1647028158079/d3velopers_logo?e=1785369600&v=beta&t=GgUYBAPiqUL6jvHmJ1eW29v58buZHx9gONpA488VFqw",
+          "title": "Co-Founder",
+          "subtitle": "D3velopers . undefined",
+          "caption": "Mar 2010 - Apr 2011 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "97990",
+          "companyUrn": "urn:li:fsd_company:97990",
+          "companyLink1": "https://www.linkedin.com/company/jyte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF_F_9Od7Jqcg/company-logo_400_400/company-logo_400_400/0/1631384141996?e=1785369600&v=beta&t=nzcR0qcglZ9qGJuok-xmsDiOlxqLEVrx_BdWvYeiiVM",
+          "title": "Software Engineer (RoR/PHP)",
+          "subtitle": "AboutUs . undefined",
+          "caption": "Aug 2007 - Mar 2010 · 2 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "51296",
+          "companyUrn": "urn:li:fsd_company:51296",
+          "companyLink1": "https://www.linkedin.com/company/confiz/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHnyQFhNgcH9g/company-logo_400_400/company-logo_400_400/0/1632220168688/confiz_logo?e=1785369600&v=beta&t=KBlfywCVOSQ_rXgvzT--SZygVr9MItrKaDpqbhZFaVY",
+          "title": "Software Engineer",
+          "subtitle": "Confiz Solutions . undefined",
+          "caption": "Jun 2007 - Aug 2007 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Teaching Assistant",
+          "subtitle": "Discrete Mathematics . undefined",
+          "caption": "Sep 2006 - Jan 2007 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "IT Intern",
+          "subtitle": "Unitech Private Limited                                     Jun 2006 ­ Aug 2006 . undefined",
+          "caption": "Jul 2006 - Aug 2006 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "System Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Solution Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Solution Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Code Review",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "13478",
+          "companyUrn": "urn:li:fsd_company:13478",
+          "companyLink1": "https://www.linkedin.com/school/royal-holloway-university-of-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGgQFu_Ia5Nmw/company-logo_400_400/company-logo_400_400/0/1709226297257/royal_holloway_university_of_london_logo?e=1785369600&v=beta&t=REuXXGxrizZNbnHcFl01DhYXka7ZfAPoy44DHKJjNFA",
+          "title": "Royal Holloway, University of London",
+          "subtitle": "Master’s Degree, Data Science and Analytics",
+          "caption": "2015 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Distinction"
+            }
+          ]
+        },
+        {
+          "companyId": "15096487",
+          "companyUrn": "urn:li:fsd_company:15096487",
+          "companyLink1": "https://www.linkedin.com/school/fastnu/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_100_100/B4DZbEm8GEHsAQ-/0/1747055264905/fastnu_logo?e=1785369600&v=beta&t=CFCzTM28r9e993H2pHWosdkipu0KQ0cl4IjOfT-R91Y",
+          "title": "National University of Computer and Emerging Sciences",
+          "subtitle": "Bachelors of Science, Computer Science",
+          "caption": "2003 - 2007",
+          "subComponents": []
+        },
+        {
+          "title": "Punjab College of Information Technology                                           Marks",
+          "subtitle": "Intermediate, Computer Science",
+          "caption": "2001 - 2003",
+          "subComponents": []
+        },
+        {
+          "title": "Cathedral School System",
+          "subtitle": "Matriculation, Science",
+          "caption": "1997 - 2001",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

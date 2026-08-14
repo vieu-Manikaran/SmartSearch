@@ -1,0 +1,420 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/jaspermai",
+  "row_key": "id:003Uk00000ydBudIAE",
+  "person": "Jasper Mai",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:42Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACMcnloBKp3NLv5Uwgs7EWFycx1Iq78L3pg",
+      "firstName": "Jasper",
+      "lastName": "Mai",
+      "fullName": "Jasper Mai",
+      "publicIdentifier": "jaspermai",
+      "headline": "Software @ Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Greater Toronto Area, Canada Canada",
+      "addressWithoutCountry": "Greater Toronto Area, Canada",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGKMMzaSX5hhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730233856355?e=1785369600&v=beta&t=cRYq5DEm9huEq7njtL13_aHxSM8cGeqoohYqfDwzLlQ",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQGsfm7o8_T9BA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730235893309?e=1785369600&v=beta&t=PYQjYYb_x7hQBl3HmMxAKBWLx9nJxE1fd10q16x56q4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGKMMzaSX5hhA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730233856312?e=1785369600&v=beta&t=80iKLeRk9c0HHl4dP8MugjPJE8LHyMFfyymh1qpg83k"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGKMMzaSX5hhA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730233856312?e=1785369600&v=beta&t=aJD0WSG6pMNl44TEFnP-e0PYy_e5wfcHbm5vAWcOJq0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGKMMzaSX5hhA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730233856312?e=1785369600&v=beta&t=LKI4_Lo9k43csaq0w6jJQntZUUaHXsYqi9419dn1cSM"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGKMMzaSX5hhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730233856355?e=1785369600&v=beta&t=cRYq5DEm9huEq7njtL13_aHxSM8cGeqoohYqfDwzLlQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQGsfm7o8_T9BA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1730235893309?e=1785369600&v=beta&t=6uRDCJPlA6qtyVDW8jop95gZE7iIzHxn1MdhUiAE4RA"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQGsfm7o8_T9BA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730235893309?e=1785369600&v=beta&t=PYQjYYb_x7hQBl3HmMxAKBWLx9nJxE1fd10q16x56q4"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Permanent Full-time · 1 yr 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer II",
+              "caption": "Feb 2026 - Present · ",
+              "description": []
+            },
+            {
+              "title": "Software Engineer I",
+              "caption": "Sep 2024 - Feb 2026 · 1 yr 5 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Software Engineer Intern",
+          "subtitle": "Coinbase . Internship",
+          "caption": "May 2023 - Aug 2023 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Asset Services | Wallets"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Software+ Intern",
+          "subtitle": "Google . Internship",
+          "caption": "May 2022 - Aug 2022 · 3 mos",
+          "metadata": "Kitchener, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Google Cloud Platform (GCP) | Google Kubernetes Engine (GKE)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18296301",
+          "companyUrn": "urn:li:fsd_company:18296301",
+          "companyLink1": "https://www.linkedin.com/company/homexco/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHhuRApJ8ncmA/company-logo_400_400/company-logo_400_400/0/1644436289704/homexco_logo?e=1785369600&v=beta&t=TqrEWfLKGkfbyEZjMetRM5tXnwg_vh6U7qpjZ5izt8g",
+          "title": "Software Engineer Intern",
+          "subtitle": "HomeX . Internship",
+          "caption": "Sep 2021 - Dec 2021 · 3 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Product Development [Sep 2022 - Dec 2022] | HomeX Fieldguide (FG)\n\nConsumer Applications [Sep 2021 - Dec 2021] | Content Management System (CMS)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15088102",
+          "companyUrn": "urn:li:fsd_company:15088102",
+          "companyLink1": "https://www.linkedin.com/company/delltechnologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF0hQrvoqdRNw/company-logo_400_400/company-logo_400_400/0/1725894960637/delltechnologies_logo?e=1785369600&v=beta&t=aBtF_qQqOnDhglhUk_9CQgfUd3eESAABvdQ034R9PEY",
+          "title": "Software Engineer Intern",
+          "subtitle": "Dell Technologies . Internship",
+          "caption": "May 2021 - Aug 2021 · 3 mos",
+          "metadata": "Ottawa, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Research & Development | 5G Mobile Network"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "322224",
+          "companyUrn": "urn:li:fsd_company:322224",
+          "companyLink1": "https://www.linkedin.com/company/blenzcoffee/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHn2zjTi5vF_g/company-logo_400_400/company-logo_400_400/0/1630656660471/blenz_the_canadian_coffee_company_ltd_logo?e=1785369600&v=beta&t=WhmRcF_8ZTl4Xfr-2lPSDAbCaBUFEHdByQ9Kkwz3PGs",
+          "title": "Barista & Customer Service",
+          "subtitle": "Blenz The Canadian Coffee Company Ltd. . Part-time",
+          "caption": "Jun 2019 - Sep 2019 · 3 mos",
+          "metadata": "Surrey, British Columbia, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1222312",
+          "companyUrn": "urn:li:fsd_company:1222312",
+          "companyLink1": "https://www.linkedin.com/company/france-education-international/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGFiyWWDLDkKQ/company-logo_100_100/B4EZkulVrnHEAQ-/0/1757423164556/france_education_international_logo?e=1785369600&v=beta&t=YvHpj5yaqhSDIjT4Dxg9doS7jAR7jNMbfLxVCG0qGCY",
+          "title": "DELF B1 Certification",
+          "subtitle": "Centre international d'études pédagogiques (CIEP)",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Law Foundation Cup Debate Provincials",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "LFC Debate Provincials 2017- Junior 8th Place Speaker"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lower Mainland East Debate Regionals ",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "LME Debate Regionals 2017- Junior 1st Place Team \nLME Debate Regionals 2018- Senior 3rd Place Team \nLME Debate Regionals 2018- Senior 4th Place Speaker"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Model United Nations Awards ",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- ConnectMUN 2015| OSCE| Best Position Paper\n- VYMUN 2016| UNHRC| Best Delegate\n- TOLMUN 2017| DISEC| Outstanding Delegate\n- PacificMUN 2017| UNCSTD| Best Delegate\n- FHMUN 2017| UNICEF| Best Delegate\n- RICHMUN 2017| MACUSA| Best Delegate\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Public Speaking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Event Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3660",
+          "companyUrn": "urn:li:fsd_company:3660",
+          "companyLink1": "https://www.linkedin.com/school/university-of-toronto/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_400_400/company-logo_400_400/0/1639421285702/university_of_toronto_logo?e=1785369600&v=beta&t=at2zlejozfDNtdXS6u0Y9IBIzddm3-_lhVsALPBBv-U",
+          "title": "University of Toronto",
+          "subtitle": "Honours Bachelor of Science - HBSc, Computer Science",
+          "caption": "Sep 2019 - Jun 2024",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.9/4.0 GPA\nDean's List Scholar"
+            }
+          ]
+        },
+        {
+          "companyId": "5524",
+          "companyUrn": "urn:li:fsd_company:5524",
+          "companyLink1": "https://www.linkedin.com/school/national-university-of-singapore/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/company-logo_400_400/0/1631313842677?e=1785369600&v=beta&t=BLYq-iBHz_FqaaGXL4bZgxmu66S38NnLFgnox2PnoSI",
+          "title": "National University of Singapore",
+          "subtitle": "Exchange Program, null",
+          "caption": "Jan 2023 - May 2023",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Cie International Experience Award"
+            }
+          ]
+        },
+        {
+          "title": "Fraser Heights Secondary",
+          "subtitle": "null, -\nBadminton Team (4x Provincial Championships, Senior Team Captain),\nVolleyball Team (Senior Team Captain),\nBasketball Team (Junior Team Captain)\n---\nModel United Nations (Club Executive),\nDebate Club (Club Executive),\nLEO Club (Club Executive),\nRed Cross International,\nMath Challengers,\nMock Trials",
+          "caption": "2014 - 2019",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "4.00 GPA"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "767316",
+          "companyUrn": "urn:li:fsd_company:767316",
+          "companyLink1": "https://www.linkedin.com/company/canadian-high-schools-model-un/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH67vHWzFGaWg/company-logo_400_400/company-logo_400_400/0/1631345359201?e=1785369600&v=beta&t=UuRStA7J8Fl9LdYXO0hKSyS2oFWvOZug7sX6svtpZwg",
+          "title": "Chief Of Staff",
+          "subtitle": "Canadian High Schools Model United Nations",
+          "caption": "May 2018 - Apr 2019 · 11 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2852129",
+          "companyUrn": "urn:li:fsd_company:2852129",
+          "companyLink1": "https://www.linkedin.com/company/shadcanada/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEVm42Bx3cXeQ/company-logo_400_400/company-logo_400_400/0/1732041496464/shadcanada_logo?e=1785369600&v=beta&t=mhI6WrtqBRS8EDN9_VUe2iZOCDKjxcUZvh6I9SOU9fk",
+          "title": "Shad Ambassador",
+          "subtitle": "Shad Canada",
+          "caption": "Sep 2017 - Jun 2018 · 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

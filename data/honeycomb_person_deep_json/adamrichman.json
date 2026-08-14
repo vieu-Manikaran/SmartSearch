@@ -1,0 +1,479 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/adamrichman",
+  "row_key": "id:003Uk00000yfTZDIA2",
+  "person": "Adam Richman",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:27Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABFUI4Bdjc_Q70CpjY9n9TJIZhqsRVvEdc",
+      "firstName": "Adam",
+      "lastName": "Richman",
+      "fullName": "Adam Richman",
+      "publicIdentifier": "adamrichman",
+      "headline": "Tech Lead & Software Engineer at Yelp",
+      "about": "I'm a technical lead and software engineer for Yelp's restaurant management products, Yelp Reservations and Yelp Guest Manager. I have experience writing and supporting distributed systems in Python, Go, Javascript, PHP and Ruby.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Berkeley, California United States",
+      "addressWithoutCountry": "Berkeley, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQHcahu6ZIJH0Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516295852180?e=1785369600&v=beta&t=lJCV5XNIlx_sFNjie7yhA0Vi7L9t3ZrcUBViUa_EtZo",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQHcahu6ZIJH0Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516295852170?e=1785369600&v=beta&t=7H0nazxu-yHoFXpaFSyt7QzN_14bgAJRdAz_J9dtY6w"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQHcahu6ZIJH0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516295852125?e=1785369600&v=beta&t=sK-ynRsWdwSIZ7bsPXdwqbqaZ8a2PCBbGo039iTq4GA"
+        },
+        {
+          "width": 273,
+          "height": 273,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQHcahu6ZIJH0Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516295852137?e=1785369600&v=beta&t=CQlsL9I0EWxUbK3W2PXXH_eSy_2XmUhA8Dpuz4Ae2jw"
+        },
+        {
+          "width": 273,
+          "height": 273,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQHcahu6ZIJH0Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516295852180?e=1785369600&v=beta&t=lJCV5XNIlx_sFNjie7yhA0Vi7L9t3ZrcUBViUa_EtZo"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 11 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Lead, Software Engineering",
+              "caption": "Jul 2018 - Present · 7 yrs 6 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Designing and improving systems, processes and solutions for the Yelp Waitlist and Yelp Reservations products\n\n• Consult with engineering and product managers to understand project requirements, determine scope for cost/benefit analysis and prioritize features\n\n• Collaborate across teams to produce technical roadmaps for Yelp's restaurant products and systems that support them\n\n• Interface with other teams and systems throughout the organization to help export knowledge and identify opportunities for leveraging solutions across teams\n\n• Train and mentor new or less-experienced engineers to empower them to quickly contribute meaningful work and  break down complexity"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Oct 2014 - Jul 2018 · 3 yrs 9 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Full-stack Developer and Project lead for Yelp Reservations. Built new features in software for managing restaurants and facilitating diners' ability to make reservations through Yelp, in React (web frontend) and Python (django, celery, redis, postgres, SQS, elasticsearch) on the backend.\n\nAs a project lead:\n• Scoped and implemented backend instrumentation for experiments driving app downloads via deep deferred links to a native, improved reservation management experience in iOS & Android\n\n• Streamlined new account provisioning and subscription management for Yelp Reservations via integrations with Zuora and SFDC, in collaboration with engineers across multiple departments\n\n• Planning and full-stack implementation of mobile and desktop web flows for accepting credit card holds during reservation checkout\n\n• Maintain and provide on-going support for highly available system, ensuring ease of observability and visibility into system health via automated alerting and dashboards in Splunk and SignalFX."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3032535",
+          "companyUrn": "urn:li:fsd_company:3032535",
+          "companyLink1": "https://www.linkedin.com/school/hack-reactor/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHrP1umKnHBrg/company-logo_400_400/company-logo_400_400/0/1671479991043/hack_reactor_logo?e=1785369600&v=beta&t=mvs_MGjoDYunKmvP3N_Gdh8kgbEVMe5njdt47sxpvEk",
+          "title": "Hack Reactor",
+          "subtitle": "undefined · 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Hackers-in-Residence, Coordinator",
+              "caption": "Mar 2014 - Sep 2014 · 6 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Instructor, coding mentor, facilitator for communication between staff and other Hackers-In-Residence."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jan 2014 - Sep 2014 · 8 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "At the Bay Area's most competitive and advanced professional software development immersive. Focus on full stack engineering with emphasis on Javascript."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "693529",
+          "companyUrn": "urn:li:fsd_company:693529",
+          "companyLink1": "https://www.linkedin.com/company/ad60-agency-llc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHZTGfK79oEZA/company-logo_400_400/company-logo_400_400/0/1631359505064?e=1785369600&v=beta&t=Job9JAT2XoMdDb9Ge8Vnwjj8r34J-XhkotFJ6EeGeYY",
+          "title": "Full-stack Software Engineer Intern",
+          "subtitle": "AD60 INC . undefined",
+          "caption": "Nov 2013 - Dec 2013 · 1 mo",
+          "metadata": "Brooklyn, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Assisted with implementing new features and fixing bugs in 3 web apps under development for clients. Contributed original code to projects in Ruby on Rails, AngularJS, HTML/CSS, custom Javascript and various JS libraries."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Audio Engineer",
+          "subtitle": "Music from a Bucket . undefined",
+          "caption": "Jun 2001 - Dec 2013 · 12 yrs 6 mos",
+          "metadata": "Coney Island, Brooklyn, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "On various albums with major label distribution, including those at my own recording studio The Bucket NYC. \nhttp://www.TheBucketNYC.com"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3004",
+          "companyUrn": "urn:li:fsd_company:3004",
+          "companyLink1": "https://www.linkedin.com/company/island-def-jam-music-group/",
+          "title": "Musical Director, Lead Guitar",
+          "subtitle": "Island Def Jam Music Group / Mercury Records / Jessie James . undefined",
+          "caption": "Feb 2009 - Jan 2011 · 1 yr 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Musical director, lead guitar player and backing vocalist for Mercury Records' Jessie James.\n\nPerformance Highlights:\n-The Ellen Show\n-The Today Show \n-Dallas Cowboys half-time show"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Singer / Songwriter",
+          "subtitle": "(Bucket O' Records / Or Music / Sony Music) . undefined",
+          "caption": "Jan 2001 - Aug 2006 · 5 yrs 7 mos",
+          "metadata": "NY, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Releases:\n\"Two\" (LP, Bucket O' Records 2001) \n\"The Patience EP\" (Or Music 2004)\n\"Patience and Science\" (Or Music 2005)\n\nHighlights:\n-Hundreds of U.S. college performances\n-High profile showcase at SXSW\n-National AAA and Hot AC radio promotional tour\n-National Tours with Better Than Ezra, Vertical Horizon, Duncan Sheik, The Rocket Summer\n-Music video and song placement in numerous national retail outlets and TV programs"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "24623",
+          "companyUrn": "urn:li:fsd_company:24623",
+          "companyLink1": "https://www.linkedin.com/company/one-economy-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFB86W8BbX2Ag/company-logo_400_400/company-logo_400_400/0/1631344974381?e=1785369600&v=beta&t=9AtspiAhHQwJBoHw6Bb1aVjE_N7_7S7TiMf9P85tZr0",
+          "title": "Web Development Intern",
+          "subtitle": "One Economy Corporation . undefined",
+          "caption": "May 2001 - Dec 2001 · 7 mos",
+          "metadata": "Washington D.C. Metro Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "HTML, CSS and Javascript for One Economy's portal TheBeehive.org."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Startup Engineering - Stanford via Coursera",
+          "subtitle": "Coursera",
+          "issued": "Issued Sep 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Backbone.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Angular JS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ionic JS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cordova",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sinatra",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "coffeescript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AJAX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon S3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3032535",
+          "companyUrn": "urn:li:fsd_company:3032535",
+          "companyLink1": "https://www.linkedin.com/school/hack-reactor/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHrP1umKnHBrg/company-logo_400_400/company-logo_400_400/0/1671479991043/hack_reactor_logo?e=1785369600&v=beta&t=mvs_MGjoDYunKmvP3N_Gdh8kgbEVMe5njdt47sxpvEk",
+          "title": "Hack Reactor",
+          "subtitle": "null, null",
+          "caption": "2014 - 2014",
+          "subComponents": []
+        },
+        {
+          "companyId": "4644",
+          "companyUrn": "urn:li:fsd_company:4644",
+          "companyLink1": "https://www.linkedin.com/school/george-washington-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFSVBibNbqMQA/company-logo_400_400/company-logo_400_400/0/1633354278505/george_washington_university_logo?e=1785369600&v=beta&t=VXEGWBif83mkIwQDQrgRJer1E9d5DC4cvqdX2uRGrQw",
+          "title": "The George Washington University",
+          "subtitle": "null, null",
+          "caption": "2000 - 2001",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "ngLazy",
+          "subtitle": "May 2014 - May 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I authored an AngularJS Lazy Load and Infinite Scroll Library. Developers can implement an infinite scroll and loading widget with about 5 lines of code."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "pinkmtv.com",
+          "subtitle": "Apr 2014 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "NodeJS bridge server, translating protocol for forth-coming HTML5 client and legacy C# game server."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Communally",
+          "subtitle": "Feb 2014 - Feb 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The product of a hackathon, a platform for the crowd-sourcing of myriad local happenings. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stylr",
+          "subtitle": "Feb 2014 - May 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A mobile game best described as \"tinder-for-fashion.\" Made in collaboration with Stitch Fix for internal use. Demo video via http://www.getStylr.com.\nStack: Cordova, AngularJS, Ionic Framework, ExpressJS, MongoDB, MongoLab, Digital Ocean."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/yves-adam-33751274/en",
+  "row_key": "id:0033l00002vNQ4yAAG",
+  "person": "Yves Adam",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:16Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA-83FsBwJ1anpqJoWFppVfVg6qMcke4LbU",
+      "firstName": "Yves",
+      "lastName": "ADAM",
+      "fullName": "Yves ADAM",
+      "publicIdentifier": "yves-adam-33751274",
+      "headline": "Product Engineer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "FR",
+        "language": "fr"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Marketing & Advertising",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFCmJt1svIgAQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1554147841537?e=1785369600&v=beta&t=VajbdxRoJePun2V5KdDls6RzZ8JeG0HlsWyGu9m5Im4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFCmJt1svIgAQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1554147841163?e=1785369600&v=beta&t=4crsyw6VKVoYcZP3AXgMM6ChIk_RacLmOx_RzI3qzeg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFCmJt1svIgAQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1554147841559?e=1785369600&v=beta&t=E4NtKTi_D9gzB3JLZkDuFqDgIW949tB6dIFqmbAXjAY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFCmJt1svIgAQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1554147841239?e=1785369600&v=beta&t=_Y8mmXBro9X5qKF8qDmJPZoj2kAo5SIfNUh15hmfS74"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFCmJt1svIgAQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1554147841537?e=1785369600&v=beta&t=VajbdxRoJePun2V5KdDls6RzZ8JeG0HlsWyGu9m5Im4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "81903096",
+          "companyUrn": "urn:li:fsd_company:81903096",
+          "companyLink1": "https://www.linkedin.com/company/userled/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_UZtZvijiJw/company-logo_200_200/B4EZuT105kJ4AI-/0/1767711920215/userled_logo?e=1785369600&v=beta&t=PZ3vmDEROloA6WKixlHJwr1M5jJrqofjERMhiPrMsNU",
+          "title": "Senior Software Engineer",
+          "subtitle": "Userled . Full-time",
+          "caption": "Oct 2024 - Present · 1 yr 3 mos",
+          "metadata": "London, UK",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18366484",
+          "companyUrn": "urn:li:fsd_company:18366484",
+          "companyLink1": "https://www.linkedin.com/company/valsysinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFVY67e3E0d3A/company-logo_400_400/company-logo_400_400/0/1631354680336/valsys_ltd_logo?e=1785369600&v=beta&t=8956EJXQxXEsN32rVIt3jctYxiLOjMW_bx8UPX0ITks",
+          "title": "Valsys Inc.",
+          "subtitle": "Full-time · 1 yr 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Software Engineer",
+              "caption": "Aug 2024 - Oct 2024 · 2 mos",
+              "metadata": "London Area, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In charge of deployment and ensuring the tickets are reviewed for the current sprint are merged on time to be ready for QC and then deployment. Managing 2 developers under me, I am in charge of the backend, and personally ensuring the code is improving whilst staying structurally coherent."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jun 2023 - Jul 2024 · 1 yr 1 mo",
+              "metadata": "London Area, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Implemented and expanded a DSL (Domain Specific Language) that would parse queries in domain language, fetch additional information (e.g. fetch from database), then return the result through the API.\n\nAs DSL was becoming the most important part of the system AND evolving rapidly, I introduced an Integration test suite that would use DSL as the input and validate the results as well as the some mocked interactions. Each test would be mapped to an internal documentation for the product owner.\n\nThe second main feature I worked on was simulation. I implemented the second iteration of our simulation feature and extended it so that simulation can be saved as scenarios and run/refreshed on demand.\n\nI continuously pushed for better architecture and code hygiene and mainly pushed the Line Of Sight principle and Dependency Inversion Principle as part of this job."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Software Engineer II",
+          "subtitle": "Medtronic Digital Surgery . Full-time",
+          "caption": "Nov 2021 - May 2023 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Coding in Python and Go.\n2022 was the year where I really focused on Software Architecture. I have brought some concept of DDD as part of the development. I introduced and integrated the Port & adapter design pattern which was a great fit for our multiple components within our product.\n\nThe product -> https://www.youtube.com/watch?v=5aYxO255l34"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "33583",
+          "companyUrn": "urn:li:fsd_company:33583",
+          "companyLink1": "https://www.linkedin.com/company/foundryteam/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGjfAtshq7vlQ/company-logo_200_200/B4EZX22VXXHcAM-/0/1743603193809/foundryteam_logo?e=1785369600&v=beta&t=xT6YKEAY4XxQK4XOul4a5eD9hDPJVr9gLLIa0Qzccp4",
+          "title": "Software Engineer",
+          "subtitle": "Foundry . undefined",
+          "caption": "Jan 2018 - Nov 2021 · 3 yrs 10 mos",
+          "metadata": "London, UK",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I have joined Foundry to work on Athera project which was using Google Cloud Provider and Kubernetes for our microservices system; programming essentially in Go for the backend and Angular/Typescript/RxJs for the frontend.\n\nI then joined another Foundry product for few months before joining the research department.\n\nI am currently working as part of the research department working on a key solution for solving VFX pipelines biggest problems."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5394893",
+          "companyUrn": "urn:li:fsd_company:5394893",
+          "companyLink1": "https://www.linkedin.com/company/domotz/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFgkXxEwIRZxw/company-logo_400_400/company-logo_400_400/0/1689156201008/domotz_logo?e=1785369600&v=beta&t=J-12zk38zu74hvSe-jAcUd31W6w5WBPXm1iVRLKiYhg",
+          "title": "Domotz Ltd",
+          "subtitle": "undefined · 1 yr 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "R&D Software Engineer",
+              "caption": "Aug 2016 - Dec 2017 · 1 yr 4 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Code mainly in python, javascript and bash script.\nPerform Proof of Concept (PoC), Unit Tests, Integration Tests."
+                }
+              ]
+            },
+            {
+              "title": "Junior Software Developer",
+              "caption": "Jan 2016 - Jul 2016 · 6 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Six month duration time internship at Domotz Ltd.\nWorked mainly in python and javascript.\nPerformed  PoC (Proof Of Concept), Unit Test and Integration Test."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "15106279",
+          "companyUrn": "urn:li:fsd_company:15106279",
+          "companyLink1": "https://www.linkedin.com/school/esiee-paris/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnsKmdPlPdCg/company-logo_400_400/company-logo_400_400/0/1697537987715/esiee_paris_logo?e=1785369600&v=beta&t=PqD0xHNJnDEs2knlKLjciFgflPPthMiDBWXFoN38xBA",
+          "title": "Engineer Trainee",
+          "subtitle": "ESIEE PARIS / research department . Full-time",
+          "caption": "Jul 2015 - Aug 2015 · 1 mo",
+          "metadata": "2 Boulevard Blaise Pascal, 93162 Noisy-le-Grand, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "\"Develop a wireless sensor network to detect the pollution\"​\n\nHandled the modelling software \"GME\" :\nDeveloped a META file which allows the user to build his own network\nDeveloped JAVA applications"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "163847",
+          "companyUrn": "urn:li:fsd_company:163847",
+          "companyLink1": "https://www.linkedin.com/company/flir-systems/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG3sj1sc0V1ZQ/company-logo_100_100/company-logo_100_100/0/1630658473382/flir_systems_logo?e=1785369600&v=beta&t=EgSdB0Gtu0V-XWP8cgi9epW60h00caiYlOBHuhRcxn4",
+          "title": "Engineer assistant pole System",
+          "subtitle": "FLIR Systems . undefined",
+          "caption": "Jul 2013 - Oct 2013 · 3 mos",
+          "metadata": "20 boulevard de Beaubourg 77183 Croissy-Beauboug",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked in the Pole System – R&D\nBuilt Excel macros for the production\nExecuted EMC test on equipments and Test & Quality process"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Stagiaire / Trainee",
+          "subtitle": "MTO . undefined",
+          "caption": "Jul 2012 - Aug 2012 · 1 mo",
+          "metadata": "Longjumeau 91345",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Repaired furniture and equipment: beds, remotes, bedside tables.\nEstablished Quality process for air conditioning filters.\nWorked in team"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Microsoft Excel Macros",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leading Development Teams",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Clean architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unit Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ARM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15106279",
+          "companyUrn": "urn:li:fsd_company:15106279",
+          "companyLink1": "https://www.linkedin.com/school/esiee-paris/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnsKmdPlPdCg/company-logo_400_400/company-logo_400_400/0/1697537987715/esiee_paris_logo?e=1785369600&v=beta&t=PqD0xHNJnDEs2knlKLjciFgflPPthMiDBWXFoN38xBA",
+          "title": "ESIEE PARIS",
+          "subtitle": "Master of Engineering - MEng, Membre actif CIE3 (Comité d'Intégration)",
+          "caption": "2011 - 2016",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Challenge Technologique Innovateam",
+          "subtitle": "May 2015 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Conception d'un drone en accord avec le thème du concours (Drone Espion).\nNous devons avec le budget de 500€ accordé par l'entreprise Innovateam, prévoir les composants nécessaire a la réalisation du drone ainsi que les éventuels dépenses additionnels engendré au cour du projet. Nous devons aussi commander ces composants et les assembler puis nous charger des réglages et de la programmation du drone.\nUn des critères de ce projet est l'innovation et nous somme libre sur ce point pour rajouter des fonction ou utilisation en accord avec le thème.\nLes fonctions principale dans le cahier des charges étant la fonction prise de photos de cibles, la capacité a se poser sur une zone restreinte et la capacité a évoluer dans des zones difficiles d’accès pour les drones. L'aspect innovation est aussi présent dans ces critères. Nous devons faciliter le pilotage, que nous effectuerons lors de l’épreuve, au maximum."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Digital Synthesizer controlled by an android device",
+          "subtitle": "May 2014 - Jun 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with ESIEE PARIS"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Le projet de fin de 1ère année du cycle ingénieur à ESIEE Paris a consisté en la réalisation d'un synthétiseur numérique contrôlé par un appareil Android.\nUn contrôleur MIDI est connecté à un nano-ordinateur Raspberry Pi qui exécute le programme de synthèse sonore par modulation de fréquence (FM). L'application Android communique avec le Raspberry Pi en Bluetooth et permet à l'utilisateur de modifier les paramètres de la synthèse sonore (harmoniques, transposition de la hauteur des notes et enveloppe ADSR)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

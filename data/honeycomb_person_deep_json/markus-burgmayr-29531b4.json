@@ -1,0 +1,353 @@
+{
+  "linkedin_url": "https://de.linkedin.com/in/markus-burgmayr-29531b4",
+  "row_key": "id:003Uk00000ydBOYIA2",
+  "person": "Markus Burgmayr",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:50:00Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADCQNEBWZ3Woa-ScyVpNlRcmHliNAbWFBg",
+      "firstName": "Markus",
+      "lastName": "Burgmayr",
+      "fullName": "Markus Burgmayr",
+      "publicIdentifier": "markus-burgmayr-29531b4",
+      "headline": "Enterprise Architecture",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Germany",
+      "addressWithCountry": "Greater Munich Metropolitan Area Germany",
+      "addressWithoutCountry": "Greater Munich Metropolitan Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Account CTO - Director",
+          "subtitle": "Wipro . Full-time",
+          "caption": "Oct 2024 - Present · 1 yr 3 mos",
+          "metadata": "Munich, Bavaria, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "BayWa r.e. Global",
+          "subtitle": "Full-time · 1 yr 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Enterprise Architect",
+              "caption": "Mar 2023 - Oct 2024 · 1 yr 7 mos",
+              "metadata": "München, Bayern, Deutschland",
+              "description": []
+            },
+            {
+              "title": "Head of Enterprise Architecture",
+              "caption": "Mar 2023 - Mar 2023 · ",
+              "metadata": "Munich, Bavaria, Germany",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Principal Enterprise ",
+          "subtitle": "Deutsche Glasfaser Holding GmbH . Full-time",
+          "caption": "Jan 2022 - Feb 2023 · 1 yr 1 mo",
+          "metadata": "Düsseldorf, North Rhine-Westphalia, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2103",
+          "companyUrn": "urn:li:fsd_company:2103",
+          "companyLink1": "https://www.linkedin.com/company/telefonica/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFQ1OjwQ2rVbw/company-logo_400_400/company-logo_400_400/0/1727681140503/telefonica_logo?e=1785369600&v=beta&t=o5sDkFYqOHhMakUuhi6yAZ4xaQegIR7FutHjv99yyvU",
+          "title": "Principal Enterprise Architect",
+          "subtitle": "Telefonica o2 Germany . undefined",
+          "caption": "Nov 2008 - Dec 2021 · 13 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "CEO - Founder",
+          "subtitle": "mbu-consulting . undefined",
+          "caption": "Sep 1989 - Dec 2021 · 32 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Custom software development, architecture consulting, requirements engineering, web design, game programming"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2112310",
+          "companyUrn": "urn:li:fsd_company:2112310",
+          "companyLink1": "https://www.linkedin.com/company/telefonica-deutschland/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHE1X4U9grjgQ/company-logo_200_200/B4DZ1EMLNkIcAI-/0/1774965536042/telefonica_germany_logo?e=1785369600&v=beta&t=0yu-U1c67lBxq3ZIaV_piQXkVu0OnqUeFuXRpn7eTMY",
+          "title": "Senior Architect",
+          "subtitle": "o2 Germany . undefined",
+          "caption": "Mar 1999 - Jun 2008 · 9 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Python: GUI-Programmierung mit TKinter",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Rede, Vortrag, Präsentation: Die magische erste Minute",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Migrationsprojekte",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT-Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digitale Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systemarchitektur",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Event Driven Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unternehmensarchitekturplanung",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telco",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telecommunications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Order Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architectures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Public Speaking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

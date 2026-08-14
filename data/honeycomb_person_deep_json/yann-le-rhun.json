@@ -1,0 +1,541 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/yann-le-rhun",
+  "row_key": "id:003Uk00000ydIvhIAE",
+  "person": "Yann Rhun",
+  "account": "Lenovo Group",
+  "fetched_at": "2026-07-14T10:44:48Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAIvZocBoSDjRxMPMB1sgSSVp-7d0iLHXFc",
+      "firstName": "Yann",
+      "lastName": "Le Rhun",
+      "fullName": "Yann Le Rhun",
+      "publicIdentifier": "yann-le-rhun",
+      "headline": "France Chief Technology Officer",
+      "about": "CTO France at Lenovo, I support enterprises and public sector organizations in their digital transformation, focusing on hybrid infrastructures, responsible AI, and sustainable architectures.With over 30 years of experience in IT, I work to align global technology strategies with local operational challenges, with a strong focus on pragmatic innovation, open source, digital sovereignty, and environmental performance.I regularly engage with customers, partners, and institutions on topics including infrastructure, hybrid cloud, edge &amp; AI, and new “as-a-service” consumption models.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "France",
+      "addressWithCountry": "Rueil-Malmaison, Île-de-France France",
+      "addressWithoutCountry": "Rueil-Malmaison, Île-de-France",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQGH9rYQMunWPg/profile-displayphoto-scale_400_400/B4EZkEZLZmIIAg-/0/1756715334113?e=1785369600&v=beta&t=0WjnISmhIGQtxBNcn2YCy6Y4ihnubUMehKNwcvFsmoA",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQENl8ILgKyPbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1624352101416?e=1785369600&v=beta&t=CDkTh3BzXwkN2lA5vZ48xtqnAdyOXNP-UEYllb5uuxA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGH9rYQMunWPg/profile-displayphoto-scale_100_100/B4EZkEZLZmIIAc-/0/1756715334113?e=1785369600&v=beta&t=1JpZh_UcZtRmy8_fLH_b2Mmm-ybUQdB6OC4JRnj2jeU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGH9rYQMunWPg/profile-displayphoto-scale_200_200/B4EZkEZLZmIIAY-/0/1756715334113?e=1785369600&v=beta&t=7LkvgWaRBK-xF75ExiLsBPTeZusZH7rs86VXS3OkhVI"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGH9rYQMunWPg/profile-displayphoto-crop_800_800/B4EZkEZLZmIIAI-/0/1756715334031?e=1785369600&v=beta&t=9z0wfgM--e-_5EKEItpVwXa8ykoQZX8uDhmu298MsMc"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGH9rYQMunWPg/profile-displayphoto-scale_400_400/B4EZkEZLZmIIAg-/0/1756715334113?e=1785369600&v=beta&t=0WjnISmhIGQtxBNcn2YCy6Y4ihnubUMehKNwcvFsmoA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 796,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQENl8ILgKyPbw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1624352101416?e=1785369600&v=beta&t=C4uE6PGDrHp3gsCpdU5rtIyXrv5ERKahmK9loA8XcmI"
+        },
+        {
+          "width": 796,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQENl8ILgKyPbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1624352101416?e=1785369600&v=beta&t=CDkTh3BzXwkN2lA5vZ48xtqnAdyOXNP-UEYllb5uuxA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "3653",
+          "companyUrn": "urn:li:fsd_company:3653",
+          "companyLink1": "https://www.linkedin.com/company/lenovo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwodgzuPCrOA/company-logo_400_400/company-logo_400_400/0/1659011656349/lenovo_logo?e=1785369600&v=beta&t=3uKthCYTRw-tNf-xnG4Hrku8C_NMDwkw4GdWbRmxWyQ",
+          "title": "Lenovo",
+          "subtitle": "Permanent · 7 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Chief Technology Officer Lenovo France",
+              "caption": "Sep 2025 - Present · 4 mos",
+              "metadata": "France",
+              "description": []
+            },
+            {
+              "title": "Technologist & FTSS Manager",
+              "caption": "Aug 2024 - Present · 1 yr 5 mos",
+              "metadata": "Rueil-Malmaison, Île-de-France, France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In charge of Technologist & FTSS for Lenovo France IDG"
+                }
+              ]
+            },
+            {
+              "title": "Software Business Developer",
+              "caption": "Aug 2022 - Present · 3 yrs 5 mos",
+              "metadata": "Ville de Paris, Île-de-France, France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In charge of Lenovo Infrastructure software development. \nLenovo software, \nPartnership like Datacore, Cohesity,Hycu, Microsoft, Nutanix, Veeam, VMware..."
+                }
+              ]
+            },
+            {
+              "title": "Hyper Convergence Business Developper Manager",
+              "caption": "May 2018 - Aug 2022 · 4 yrs 3 mos",
+              "metadata": "Paris",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In charge of HCI developpment business (Datacore, Microsoft, Nutanix, VMware)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "84700",
+          "companyUrn": "urn:li:fsd_company:84700",
+          "companyLink1": "https://www.linkedin.com/company/heliaq-france/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEDKdys6bJ1gA/company-logo_400_400/B4EZrJcSDSIQAc-/0/1764316226090/heliaq_france_logo?e=1785369600&v=beta&t=pR5weqhlMPpfAYohLixjDS2hPZqfO431lbuAgoxt4mw",
+          "title": "Consultant",
+          "subtitle": "QUADRIA . undefined",
+          "caption": "Jun 2017 - Jan 2018 · 7 mos",
+          "metadata": "Montpellier Area, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Develop and Promote Quadria's Cloud solutions offerings.\n\n• Implementation of commercial actions with customers and suppliers in order to obtain the best possible coverage.\n\n• Prospecting, development and acquisition of private and public accounts in the South-East zone.\n\n• Customer visits, participation in any commercial meeting, day of presentation and seminar clients / suppliers in the field.\n\n• Establishing and participating in the preparation of quotations, responses to consultations and calls for tenders.\n\n• Organize and monitor trade relations with customers and suppliers.\n\n• Expert in the field of digital transformation and cloud computing."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15088102",
+          "companyUrn": "urn:li:fsd_company:15088102",
+          "companyLink1": "https://www.linkedin.com/company/delltechnologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF0hQrvoqdRNw/company-logo_400_400/company-logo_400_400/0/1725894960637/delltechnologies_logo?e=1785369600&v=beta&t=aBtF_qQqOnDhglhUk_9CQgfUd3eESAABvdQ034R9PEY",
+          "title": "Dell",
+          "subtitle": "undefined · 16 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Business Developer Manager Cloud France",
+              "caption": "Feb 2016 - Dec 2016 · 10 mos",
+              "metadata": "France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In charge of Dell Cloud offering\nInterfacing with Internal Sales Representatives and Business Managers on all business opportunities and to identify new opportunities within the accounts\nMap that customer key business focus are in line with cloud solution, help customer to find the best solution for his strategy\nDevelop pipeline\nManage partner offer and enablement."
+                }
+              ]
+            },
+            {
+              "title": "Principal Consultant",
+              "caption": "Feb 2015 - Jan 2016 · 11 mos",
+              "metadata": "France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Main responsibilities:\n• Being the referrent of high complex services Deal.\n• Define the overall solution for the customer and organize presentations on all aspects of the company's products and services.\n• Assist the sales team to assess the potential applications of the company's products and services to meet customers auxbesoins.\n• Perform analysis of customer needs.\n• Assess the scope of projects and coordinate in-house team of specialists, as well as activities betweenthe various services.\n• Write detailed descriptions of features and services to sell solutions and high-end technology services.\n• Assist sellers to generate demand for technology solutions and services.\n• Participate with buyers in technical discussions / presentations on website-based technology solutions and services."
+                }
+              ]
+            },
+            {
+              "title": "Services Sales Executive",
+              "caption": "Mar 2011 - Jan 2015 · 3 yrs 10 mos",
+              "metadata": "France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": ". In charge of developing Dell Services and Dell Partner Services offer.\n. Manage partner quality delivery and create plan and action to improve it.\n. Select services project to partner depending on availability and partner skills."
+                }
+              ]
+            },
+            {
+              "title": "Software Sales Specialist France",
+              "caption": "Jan 2008 - Feb 2011 · 3 yrs 1 mo",
+              "metadata": "France",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for creating and/or supporting thought leadership on a global, regional and/or local level for one or more Dell IT practice areas and marketing strategies. Responsible for market analysis and other Dell IP for one or more Dell IT practice areas.  Provides techncial assessment, design , planning & implementation of Software solution \n·  Primary expert to construct and deliver the specific solution, scope document, risk profile and   corresponding financials and where applicable, provide on a global, country, regional and/or local basis.\n·  As needed, provide a \"trusted expert advisor\" role as a Subject Matter Expert for technical Software. \nManage and develop all enterprise business software\n. Work closely with Symantec/vmware vendor to achieve Objectives.\n. Create, validate and drive Action plan, manage incentive with partner."
+                }
+              ]
+            },
+            {
+              "title": "Presales Technical Consultant (TSR)",
+              "caption": "Feb 2006 - Jan 2008 · 1 yr 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The System Consultant is responsible for selling Enterprise product, solutions and services to specific segments. As a function of the external sales team this role works in close collaboration with Account Managers and Account Executives. \n\n                        1. Develops strategic relationships with customers and works to be positioned as a trusted advisor on all Enterprise Solutions matters \n\n                        2. Develops and sells innovative IT solutions to address customers business needs \n\n                        3. Delivers exceptional customer experience in alignment wuith Dell Standards \n\n                        4. Develops integrated account plan with Account Executives to identify new enterprise opportunities \n\n                        5. Integrates and co-ordinates all elements of the Dell Solution portfolio including demand, delivery and partners \n\n                        6. Communicates Dell Solution vision and capability to customers"
+                }
+              ]
+            },
+            {
+              "title": "Inside Sales Representative",
+              "caption": "Jan 2002 - Jan 2006 · 4 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for selling the company's products and services to companies with 50 to 500 employees\nClose sales and take orders typically generated by relational account management.\n\nPRINCIPAL DUTIES AND RESPONSIBILITIES\nSell Dell products and services by: placing outbound customer calls, placing outbound prospect calls and responding to customer inbound calls.\nEstablish customer relationships with the \"decision making unit\" : such as purchasing manager, IT-manager, finance manager, general director and other influencers.\nForecast account goals by analysing various sales reports such as, quotas vs. actual performance, lost sales and leasing.\nAchieve quarterly targets through the management, direction and support of the internal sales team.\nProduce management information such as reports and metrics to help assess our current and projected position against forecast, plan and targets and to take appropriate action where required."
+                }
+              ]
+            },
+            {
+              "title": "Technician",
+              "caption": "Aug 2000 - Jan 2002 · 1 yr 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Provide second-level technical support on basic operational or maintenance of personal computers and /or peripherals using documented procedures and available tools.\n ·  Guide L1 technical support rep's troubleshooting efforts to identify products that are defective and direct in issuing service calls in accordance with guidelines.\n ·  Escalate problems when unable to make proper determination.\n ·  Remain knowledgeable of Dell's product line and service offerings, current industry products and technologies.\n ·  Remain knowledgeable of Dell's procedural guidelines for issuing service and handling technical escalations.\n ·  Log and sufficiently document all agent contacts with the Support Specialist group.\n·  Identify and provide input on unique or recurring customer problems."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "163855",
+          "companyUrn": "urn:li:fsd_company:163855",
+          "companyLink1": "https://www.linkedin.com/company/fnac/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFbNeLrzFidQA/company-logo_400_400/company-logo_400_400/0/1631303736909?e=1785369600&v=beta&t=ysvpVid1naedG7HblJRp_slz5ctDyWRc4cvmA8FJmec",
+          "title": "Technical Manager",
+          "subtitle": "Fnac . undefined",
+          "caption": "Jan 1997 - Aug 2000 · 3 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technical manager for Fnac Assitance \n10 direct report\nfollow technician activty \nfollow quality of service delivery \nmanage forecast and objectifs\nhelp to develop technician competencies"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Technician",
+          "subtitle": "IBM Global Services . undefined",
+          "caption": "Aug 1995 - Jan 1997 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technician for Ibm Global Services.\nSpecialist on os/2. windows 3.1 \nhelp customer by phone or on site"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Accréditation 2021 Azure Stack HCI",
+          "subtitle": "Microsoft",
+          "issued": "Issued Feb 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Accréditation 2021 Windows Server 2022",
+          "subtitle": "Microsoft",
+          "issued": "Issued Feb 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Lenovo Président Club",
+          "subtitle": "Issued by Lenovo",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Platinum award",
+          "subtitle": "Issued by Dell Emea",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Best large Deal Emea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "People Gold Award Dell",
+          "subtitle": "Issued by David Robert",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Experience",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Selling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CommVault",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SMB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Hardware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SAN",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hardware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Laptops",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Solutions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Citrix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Managed Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Patch Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "IUT de Quimper",
+          "subtitle": "DUT, Technico Commercial",
+          "caption": "1992 - 1994",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

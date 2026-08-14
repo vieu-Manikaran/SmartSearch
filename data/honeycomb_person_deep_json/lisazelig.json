@@ -1,0 +1,494 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/lisazelig",
+  "row_key": "id:003Uk00000x92odIAA",
+  "person": "Lisa Zelig",
+  "account": "Midjourney",
+  "fetched_at": "2026-07-14T10:21:12Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABK89kBrtWINBA_zaxBwTxXCtxodgcbCcI",
+      "firstName": "Lisa",
+      "lastName": "Zelig",
+      "fullName": "Lisa Zelig",
+      "publicIdentifier": "lisazelig",
+      "headline": "AI/ML Infrastructure — ex-Meta, ex-Google",
+      "about": "An engineering executive who builds structure where there is chaos, clarity where there is noise, and trust where there is friction.\n\n20+ year engineering leader specializing in SRE, Production Engineering, and Privacy, with 8 years leading global teams at Meta and Google. I align reliability strategy with business outcomes, transforming complex systems into resilient, outcome-driven operations.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Atlanta, Georgia United States",
+      "addressWithoutCountry": "Atlanta, Georgia",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFm8NQvxaaxtQ/profile-displayphoto-scale_200_200/B4EZ5RX0H3JMAc-/0/1779481659567?e=1785369600&v=beta&t=548XptUCRgE8XDsVjp_uSg1S5s0ysj3pPyX7WTiY5UU",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQHtbKEABGB1_g/profile-displaybackgroundimage-shrink_200_800/B4EZ5RYr2HIcAU-/0/1779481886684?e=1785369600&v=beta&t=rw0g3l4FoixuWaVnVygNZY2cc5dfKSdCZowUZWZ2b5s",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFm8NQvxaaxtQ/profile-displayphoto-scale_400_400/B4EZ5RX0H3JMAg-/0/1779481659567?e=1785369600&v=beta&t=0wR5gtoMDoFRfuw4t-DPYQiHVqWx01y2ayZ0kaQKyQI"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFm8NQvxaaxtQ/profile-displayphoto-scale_100_100/B4EZ5RX0H3JMAY-/0/1779481659567?e=1785369600&v=beta&t=fFkdSDA8SrhXUhzbTrRWMIS90wYNoBg94CP3pXNFd7U"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFm8NQvxaaxtQ/profile-displayphoto-crop_800_800/B4EZ5RX0H3JMAI-/0/1779481659567?e=1785369600&v=beta&t=B8bY8m9eFnGODUtFfs3XTGh-7enTy52YZpZS4Gvc4WI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFm8NQvxaaxtQ/profile-displayphoto-scale_200_200/B4EZ5RX0H3JMAc-/0/1779481659567?e=1785369600&v=beta&t=548XptUCRgE8XDsVjp_uSg1S5s0ysj3pPyX7WTiY5UU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1185,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQHtbKEABGB1_g/profile-displaybackgroundimage-shrink_350_1400/B4EZ5RYr2HIcAY-/0/1779481886684?e=1785369600&v=beta&t=ZJQahga1WNWRyq4VPJciCR1SBulvgmXLsFtaK0rzs60"
+        },
+        {
+          "width": 677,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQHtbKEABGB1_g/profile-displaybackgroundimage-shrink_200_800/B4EZ5RYr2HIcAU-/0/1779481886684?e=1785369600&v=beta&t=rw0g3l4FoixuWaVnVygNZY2cc5dfKSdCZowUZWZ2b5s"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "82318617",
+          "companyUrn": "urn:li:fsd_company:82318617",
+          "companyLink1": "https://www.linkedin.com/company/midjourney/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdHwWJr1YZhg/company-logo_400_400/company-logo_400_400/0/1697570621105/midjourney_logo?e=1785369600&v=beta&t=ElVxt5ls8qroFbwD7FQPIaTQ15Aqv5XDw7EM4RZBPOU",
+          "title": "Engineering Manager - Infrastructure",
+          "subtitle": "Midjourney . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "metadata": "Atlanta, GA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "We might be called the \"Infra Team\" but this global team does everything relating to the model serving stack and the core engineering that supports the company and its products. We partner closely with the Midjourney Product and Research teams. We keep the beauty flowing."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Production Engineering Manager / Production Engineer (Senior Staff)",
+          "subtitle": "Meta . Full-time",
+          "caption": "May 2019 - Apr 2025 · 5 yrs 11 mos",
+          "metadata": "Menlo Park, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led and scaled Production Engineering for Privacy and Integrity systems, ensuring compliance for billions of users. \n\n* Infrastructure & Investment Strategy: Developed Meta's infrastructure capital budgeting framework for Privacy, Security, & Integrity, formalizing cost tracking and enabling executive review and prioritization of hundreds of millions in investments tied to regulatory expectations.\n* Organizational Scaling: Founded and scaled a 40+ engineer/manager distributed Production Engineering organization across 5 sites, supporting compliance-critical platforms for 3,000+ developers.\n* Operational Excellence: Drove system design and operational excellence improvements, including improving availability from 90% to 99.999% for a core policy enforcement system on Facebook and Instagram.\n* Executive Partnership: Partnered with VPs and executive leaders to integrate reliability and efficiency into cross-organizational planning, resulting in a multi-year technical strategy based on a comprehensive reliability risk assessment.\n* Incident Management: Established incident management rigor, reducing MTTD, MTTM, and MTTR during major outages and high-risk escalations (e.g., US 2020 elections, COVID misinformation, child safety). Established the first Privacy Infra-focused incident review process, aligned with the Privacy incident review process. Led and resolved multiple incidents."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "76987811",
+          "companyUrn": "urn:li:fsd_company:76987811",
+          "companyLink1": "https://www.linkedin.com/company/facebook/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/company-logo_400_400/0/1635988509331/facebook__logo?e=1785369600&v=beta&t=uJYvhIATYKQViQjAD05UxjI88yF88yJPJnX249iiaLY",
+          "title": "Senior Production Engineering Manager",
+          "subtitle": "Facebook . undefined",
+          "caption": "May 2019 - Nov 2021 · 2 yrs 6 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Google",
+          "subtitle": "undefined · 7 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Site Reliability Engineering Manager",
+              "caption": "Oct 2016 - May 2019 · 2 yrs 7 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managed multiple Site Reliability Engineering teams (Gmail, Calendar) responsible for products used by billions of users worldwide.\n\nServed as a leadership coach as part of the internal leadership development program."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jun 2011 - Oct 2016 · 5 yrs 4 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead software engineer on multiple projects in Gmail, Network Infrastructure and Security, and Data Privacy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "Graduate Student Researcher",
+          "subtitle": "UC Berkeley . undefined",
+          "caption": "Aug 2006 - Jun 2011 · 4 yrs 10 mos",
+          "metadata": "Berkeley, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Research focus on understanding the movement of user data, towards supporting auditing or real-time policy enforcement. Other research projects focused on network measurement and security."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3214971",
+          "companyUrn": "urn:li:fsd_company:3214971",
+          "companyLink1": "https://www.linkedin.com/company/icsiatberkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG2n1Ab_cP3tw/company-logo_200_200/B56Zu51qX4H4AI-/0/1768349411128/icsiatberkeley_logo?e=1785369600&v=beta&t=WVSjE8MlbuJofLq1lf5LjWgiZX96qm4BdmLm9ypyXa4",
+          "title": "Research Assistant",
+          "subtitle": "ICSI - International Computer Science Institute . undefined",
+          "caption": "May 2009 - Aug 2009 · 3 mos",
+          "metadata": "Berkeley, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3214971",
+          "companyUrn": "urn:li:fsd_company:3214971",
+          "companyLink1": "https://www.linkedin.com/company/icsiatberkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG2n1Ab_cP3tw/company-logo_200_200/B56Zu51qX4H4AI-/0/1768349411128/icsiatberkeley_logo?e=1785369600&v=beta&t=WVSjE8MlbuJofLq1lf5LjWgiZX96qm4BdmLm9ypyXa4",
+          "title": "Research Assistant",
+          "subtitle": "ICSI - International Computer Science Institute . undefined",
+          "caption": "Jun 2006 - Aug 2006 · 2 mos",
+          "metadata": "Berkeley, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Evaluation and redesign of an existing distributed logging and replay debugging system, with a focus on addressing the problem of concurrency in debugging distributed systems."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Systems Administrator",
+          "subtitle": "Various . undefined",
+          "caption": "1998 - 2006 · 8 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Computer, network, and server repair/administration/voodoo. Clients included Lionbridge, VeriTest, and Pandemic Studios. Taught computer certification prep courses with IpCom (A+ and MCP/MCSE). Sales, development, and a DIY Computer Repair TV show personality."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Lead Network Administrator",
+          "subtitle": "PeopleLink, Inc . undefined",
+          "caption": "Dec 1998 - Feb 2001 · 2 yrs 2 mos",
+          "metadata": "Santa Monica, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Managed and supported all aspects of the employee-facing systems and servers, telephony, and financial capital for IT services, scaling from 20 to 200 employees. Designed and administered the NT 4.0 domain, including security, email, CRM, backup, systems monitoring, and quota management. Designed and managed the local and wide area networks, including wired/wireless and several remote offices, supporting rapid growth and heavy usage. Managed a team of three network administrators."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "16529",
+          "companyUrn": "urn:li:fsd_company:16529",
+          "companyLink1": "https://www.linkedin.com/company/comptia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvewdxT9h_6Q/company-logo_100_100/B4EZuQYLnGHIAQ-/0/1767653817239/comptia_logo?e=1785369600&v=beta&t=gyPY7qgKVAf_-Y65x5QITqRrO9EmzwlpbS3ZPA6Z7RA",
+          "title": "CompTIA A+",
+          "subtitle": "CompTIA",
+          "issued": "Issued Jan 2002",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified Systems Engineer",
+          "subtitle": "Microsoft",
+          "issued": "Issued Jan 2000",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Privacy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Privacy Issues",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "University of California, Berkeley",
+          "subtitle": "Master of Science (MS), Computer Science Graduate Student Association (CSGSA), WICSE",
+          "caption": "2006 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "PhD student in the Networking group, advised by Scott Shenker.\n\nCSGSA President"
+            }
+          ]
+        },
+        {
+          "companyId": "3757",
+          "companyUrn": "urn:li:fsd_company:3757",
+          "companyLink1": "https://www.linkedin.com/school/university-of-north-carolina-at-chapel-hill/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHim3Hq1GIZjw/company-logo_200_200/B4EZpKJMS1GYAI-/0/1762180515404/university_of_north_carolina_at_chapel_hill_logo?e=1785369600&v=beta&t=6usm_oMJEO79pfqbk1fdMMLAjN74Uve3s2fdz2gccss",
+          "title": null,
+          "subtitle": "BS, Computer Science Club, National Society for Collegiate Scholars, ACM Student Chapter",
+          "caption": "2002 - 2005",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Graduated with Highest Honors and Distinction"
+            }
+          ]
+        },
+        {
+          "companyId": "19253",
+          "companyUrn": "urn:li:fsd_company:19253",
+          "companyLink1": "https://www.linkedin.com/school/harvey-mudd-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHemxvB6tRt_w/company-logo_400_400/company-logo_400_400/0/1727220275769/harvey_mudd_college_logo?e=1785369600&v=beta&t=8pgrjaBHUjPmCW0s0duEb_4nXqEeKUJgpRNe2-ld0Y4",
+          "title": "Harvey Mudd College",
+          "subtitle": "null, Computer Science",
+          "caption": "1996 - 1998",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

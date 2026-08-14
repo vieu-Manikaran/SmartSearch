@@ -1,0 +1,178 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/nikhil-sharma-4167757b",
+  "row_key": "id:003Uk00000yfWG8IAM",
+  "person": "Nikhil Sharma",
+  "account": "University College London",
+  "fetched_at": "2026-07-14T10:35:24Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABEFXxIBBHumIwLhzTxksw_ZCRnf_WCDtRc",
+      "firstName": "Nikhil",
+      "lastName": "Sharma",
+      "fullName": "Nikhil Sharma",
+      "publicIdentifier": "nikhil-sharma-4167757b",
+      "headline": "Director, Agency MBS Trader at Barclays",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York City Metropolitan Area United States",
+      "addressWithoutCountry": "New York City Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFarDMNkv-0Kw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707607068162?e=1785369600&v=beta&t=-rlOtVd-TrZTakvUHP-OpPSciqSu_QLB05nfmkMcsjM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFarDMNkv-0Kw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707607068162?e=1785369600&v=beta&t=BTEbuIVucIfoaMsq_ZGltkGey5eVHxSMV4HLTGvGtN0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFarDMNkv-0Kw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707607068162?e=1785369600&v=beta&t=nU8DSF6j4PHxgcgaoS8uHQtWwNV4GysK4V2g-S5E6Ws"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFarDMNkv-0Kw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707607068162?e=1785369600&v=beta&t=1t44vJj0v5e03Xtr5Uj4Jgpoci31y-Gdjxyei2AxWsY"
+        },
+        {
+          "width": 415,
+          "height": 415,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFarDMNkv-0Kw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707607068162?e=1785369600&v=beta&t=-rlOtVd-TrZTakvUHP-OpPSciqSu_QLB05nfmkMcsjM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1426",
+          "companyUrn": "urn:li:fsd_company:1426",
+          "companyLink1": "https://www.linkedin.com/company/barclays-bank/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFAXc9z0Go7Uw/company-logo_400_400/company-logo_400_400/0/1663677974291/barclays_bank_logo?e=1785369600&v=beta&t=EmQz_-oq6VdLpYlSMORO8QYiam4IH2Y8Ga6FGlfOulw",
+          "title": "Barclays",
+          "subtitle": "undefined · 10 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director",
+              "caption": "Jan 2023 - Present · 3 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Agency MBS Trading - Specified Pools"
+                }
+              ]
+            },
+            {
+              "title": "Vice President",
+              "caption": "Jan 2021 - Jan 2023 · 2 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Agency MBS Trading - Specified Pools"
+                }
+              ]
+            },
+            {
+              "title": "Assistant Vice President",
+              "caption": "Sep 2017 - Jan 2021 · 3 yrs 4 mos",
+              "metadata": "Greater New York City Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Agency MBS Trading - Specified Pools"
+                }
+              ]
+            },
+            {
+              "title": "Analyst",
+              "caption": "Jul 2015 - Aug 2017 · 2 yrs 1 mo",
+              "metadata": "Greater New York City Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1426",
+          "companyUrn": "urn:li:fsd_company:1426",
+          "companyLink1": "https://www.linkedin.com/company/barclays-bank/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFAXc9z0Go7Uw/company-logo_400_400/company-logo_400_400/0/1663677974291/barclays_bank_logo?e=1785369600&v=beta&t=EmQz_-oq6VdLpYlSMORO8QYiam4IH2Y8Ga6FGlfOulw",
+          "title": "Summer Analyst",
+          "subtitle": "Barclays . undefined",
+          "caption": "May 2014 - Aug 2014 · 3 mos",
+          "metadata": "Greater New York City Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3299022",
+          "companyUrn": "urn:li:fsd_company:3299022",
+          "companyLink1": "https://www.linkedin.com/company/united-states-senator-robert-menendez/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHeJKXKBDhwvg/company-logo_400_400/company-logo_400_400/0/1630584040888/united_states_senator_robert_menendez_logo?e=1785369600&v=beta&t=N1JIWg3cYKuaXhlxLqFQwzb5-STW2bunf5BFtodVAL0",
+          "title": "Constituent Services Intern",
+          "subtitle": "United States Senator Robert Menendez . undefined",
+          "caption": "Jun 2012 - Aug 2012 · 2 mos",
+          "metadata": "Newark, New Jersey",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "3890",
+          "companyUrn": "urn:li:fsd_company:3890",
+          "companyLink1": "https://www.linkedin.com/school/goizueta-business-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFazoqrq_g-GQ/company-logo_400_400/company-logo_400_400/0/1657130160598/goizueta_business_school_logo?e=1785369600&v=beta&t=QPoVsIYBu-h-Q5MTrtegvCgqrb1qk-BdABrubvNH-H4",
+          "title": "Emory University - Goizueta Business School",
+          "subtitle": "Bachelor of Business Administration (BBA), Finance, Strategy & Management Consulting",
+          "caption": "2011 - 2015",
+          "subComponents": []
+        },
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "University College London, U. of London",
+          "subtitle": "null, Comparative Healthcare Program",
+          "caption": "2013 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

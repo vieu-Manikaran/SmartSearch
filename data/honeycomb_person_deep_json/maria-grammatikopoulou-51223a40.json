@@ -1,0 +1,373 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/maria-grammatikopoulou-51223a40",
+  "row_key": "id:003Uk00000Pb9L2IAJ",
+  "person": "Maria Grammatikopoulou",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:06Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAiT0V4Bue6yUTdjxXz8n9MwBJOLo7Q4ip0",
+      "firstName": "Maria",
+      "lastName": "Grammatikopoulou",
+      "fullName": "Maria Grammatikopoulou",
+      "publicIdentifier": "maria-grammatikopoulou-51223a40",
+      "headline": "AI Manager at Medtronic",
+      "about": "Computer Vision Engineer with background in Electrical Engineering, Control Systems and Robotics.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Research",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater London, England United Kingdom",
+      "addressWithoutCountry": "Greater London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFRqHclSrIq9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1603547219061?e=1785369600&v=beta&t=FgfjAh0C__wUeLHZk_4rYAYuI6U8jIho1nJzJZ1DcwQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFRqHclSrIq9A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1603547219060?e=1785369600&v=beta&t=6E6rcgbs9RdXsb5K-NVgJrlKV9uOKDqoAiXS7f8Pqdg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFRqHclSrIq9A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1603547219060?e=1785369600&v=beta&t=Wcv8U46XjmMuXgMIHPQtiQZmGYKTWUpy3ZDO3p9jLis"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFRqHclSrIq9A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1603547219060?e=1785369600&v=beta&t=DrGbwjoLhHaM1tcpRhuVLpc0O_Ep11vPQMZPWXEDv7A"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFRqHclSrIq9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1603547219061?e=1785369600&v=beta&t=FgfjAh0C__wUeLHZk_4rYAYuI6U8jIho1nJzJZ1DcwQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "undefined · 6 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "AI Manager",
+              "caption": "Jul 2024 - Present · 1 yr 6 mos",
+              "description": []
+            },
+            {
+              "title": "Principal AI/Computer Vision Engineer ",
+              "caption": "Jul 2020 - Jun 2024 · 3 yrs 11 mos",
+              "description": []
+            },
+            {
+              "title": "Senior AI/Computer Vision Engineer",
+              "caption": "Oct 2019 - Jul 2020 · 9 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "PhD Candidate",
+          "subtitle": "Imperial College London . undefined",
+          "caption": "Oct 2015 - Sep 2019 · 3 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Microrobot detection and manipulation for biomedical applications - Research group: The Hamlyn Centre for Robotic Surgery"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "PhD Scholarship",
+          "subtitle": "Issued by The Hamlyn Centre for Robotic Surgery, Imperial College London",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Master's Scholarship",
+          "subtitle": "Issued by The Hamlyn Centre for Robotic Surgery, Imperial College London",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Postgraduate Scholarship",
+          "subtitle": "Issued by School of Mathematics, Computer Science & Engineering - City, University of London",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Robotics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Vision",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Control Systems Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electrical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Image Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TensorFlow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LaTeX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solidworks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Simulink",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robot Operating System (ros.org)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenCV",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PyTorch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "Doctor of Philosophy - PhD, null",
+          "caption": "2015 - 2019",
+          "subComponents": []
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "Master of Research (MRes), Medical Robotics and Image Guided Intervention",
+          "caption": "2014 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Distinction"
+            }
+          ]
+        },
+        {
+          "companyId": "163090",
+          "companyUrn": "urn:li:fsd_company:163090",
+          "companyLink1": "https://www.linkedin.com/school/citystgeorges/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFo5ybHIog7yg/company-logo_100_100/B4EZUn_qj6GYAQ-/0/1740132756782/city_university_london_logo?e=1785369600&v=beta&t=Fd7uS2yEseQH6uqc63NuBZHwMW6BDoC8kd1YqFOWLBc",
+          "title": "City, University of London",
+          "subtitle": "Master of Science (MS), Systems and Control Engineering",
+          "caption": "2013 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Distinction"
+            }
+          ]
+        },
+        {
+          "companyId": "15094947",
+          "companyUrn": "urn:li:fsd_company:15094947",
+          "companyLink1": "https://www.linkedin.com/school/aristotle-university-of-thessaloniki-auth-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEsWPLYe2V06A/company-logo_100_100/B4DZflxz77HkAY-/0/1751906730430/aristotle_university_of_thessaloniki_auth__logo?e=1785369600&v=beta&t=WB8blxN7uwKpfxJS9Pu0X8HqfniJ-cc2onUtTbqK4YQ",
+          "title": "Aristotle University of Thessaloniki (AUTH)",
+          "subtitle": "Dipl. Ing., Electrical and Computer Engineering",
+          "caption": "2006 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "P.A.N.D.O.R.A",
+          "subtitle": "Oct 2010 - Oct 2011",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "“Pandora” robotics research team (Program for the Advancement of Non Directed Operating Robotic Agents) was founded in 2005 under the Electrical and Computer Engineering Department of Aristotle University of Thessaloniki. Today it consists of 5 faculty members and 22 undergraduate students.\nPandora has participated in the RoboCupRescue competition four times: In 2008 in China, in 2009 in Austria , in 2011 in Istanbul and more recently in 2013 in Netherlands, The goal of this competition is the development of one or more robotic vehicles that can navigate areas having suffered a natural disaster – like an earthquake – and are able to locate human victims.\n\nFor this purpose our vehicle incorporates sensors for determining its positiion in space and others for detecting and identifying victims. The vehicle is autonomous, which means it is able to move without the aid of a GPS system and with no teleoperation. It creates a map and caries out the indentification proccess on its own, which are especially important in confined spaces or areas where there is no networking."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

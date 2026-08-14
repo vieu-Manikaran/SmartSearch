@@ -1,0 +1,401 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/harshito",
+  "row_key": "id:003Uk00000yPGJyIAO",
+  "person": "Harshit Omar",
+  "account": "FluidCloud",
+  "fetched_at": "2026-07-14T10:35:04Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABHXl08BHEw3WsJeWrWb1ZZDHSva3iitc1M",
+      "firstName": "Harshit",
+      "lastName": "O.",
+      "fullName": "Harshit O.",
+      "publicIdentifier": "harshito",
+      "headline": "Co-Founder & CTO @ FluidCloud | Re-inventing Cloud & Security",
+      "about": "I am a tech enthusiast and a dynamic programming expert, passionate about solving intricate challenges with creativity and precision. Currently, I am the CTO and Co-Founder of FluidCloud, where I oversee engineering, architecture, and platform innovation. A builder at heart, I have architected systems at scale across public cloud, containers, and infrastructure security - always with a focus on performance, resilience, and user-centric design.\nBefore FluidCloud, I was the Founding Engineer at Accurics, where I have been instrumental in developing and delivering solutions for cloud cyber resilience, enabling self-healing of cloud-native infrastructure misconfigurations. Throughout my tenure, I worked with esteemed companies such as SpaceX, NASDAQ, AutomationAnywhere, and others, collaborating on integrations and development of our product.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQH4u5n-9-Hbng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1610036680958?e=1785369600&v=beta&t=uszTsxor58LZtcgZTF_cbnmcSVs8gDYg44GTtD74Goc",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQHjxfJk0nhemA/profile-displaybackgroundimage-shrink_350_1400/B4DZhWMLzoGsAg-/0/1753792691855?e=1785369600&v=beta&t=GECoC4iX967hL4S4j9SGhds1ymKe9l6HkBoAWXPw_R8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH4u5n-9-Hbng/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1610036680958?e=1785369600&v=beta&t=5FIITXe4orDmq4RNCGocUKlmVdkb36FPAHZL2Z1lvTg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH4u5n-9-Hbng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1610036680958?e=1785369600&v=beta&t=bkruTBrYvd8ZPGdSccuBE9xX4XoNDInmkRddrfaLkDM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH4u5n-9-Hbng/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1610036680958?e=1785369600&v=beta&t=BrpRliR6HX7VsKiePR7ko5yLHzvdFE7hxBduPlNLtwI"
+        },
+        {
+          "width": 551,
+          "height": 551,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH4u5n-9-Hbng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1610036680958?e=1785369600&v=beta&t=uszTsxor58LZtcgZTF_cbnmcSVs8gDYg44GTtD74Goc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQHjxfJk0nhemA/profile-displaybackgroundimage-shrink_200_800/B4DZhWMLzoGsAc-/0/1753792691855?e=1785369600&v=beta&t=l5i5vYjmVNbLXvz1d3HdPEaYoUmeAQ6BXliJb8zN7Sw"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQHjxfJk0nhemA/profile-displaybackgroundimage-shrink_350_1400/B4DZhWMLzoGsAg-/0/1753792691855?e=1785369600&v=beta&t=GECoC4iX967hL4S4j9SGhds1ymKe9l6HkBoAWXPw_R8"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "106725587",
+          "companyUrn": "urn:li:fsd_company:106725587",
+          "companyLink1": "https://www.linkedin.com/company/fluidcloud/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGC9Vra6pFKpQ/company-logo_100_100/B4EZhV.dC_HEAU-/0/1753789092344/fluidcloud_logo?e=1785369600&v=beta&t=NRT0nmwZaouBHpI-0eJPrp3zR7nmwCikebaQ2cD-Fvs",
+          "title": "Co-Founder & CTO",
+          "subtitle": "FluidCloud . Full-time",
+          "caption": "Aug 2024 - Present · 1 yr 5 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Engineering a new standard for cloud infrastructure that’s portable, visible, and resilient from the start. Building alongside a world-class team that’s free to challenge assumptions and innovate."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "55043142",
+          "companyUrn": "urn:li:fsd_company:55043142",
+          "companyLink1": "https://www.linkedin.com/company/accurics/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEWhGsAxSUvdg/company-logo_400_400/company-logo_400_400/0/1633465402958?e=1785369600&v=beta&t=hITnx0-CsmoUaI4v_htxiGul5DbTe9kS-rFTidF-qK0",
+          "title": "Staff Software Engineer",
+          "subtitle": "Accurics . Full-time",
+          "caption": "Nov 2019 - Jun 2023 · 3 yrs 7 mos",
+          "metadata": "Pune Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was the first engineer and one of the founding members of the team. I led the bootstrapping of a multi-services architecture, leveraging technologies like Kubernetes, GoLang, Rego, Terraform, and VueJS. A significant accomplishment was the complete redesign of the product, with a focus on enhancing performance and scalability. Throughout my tenure, I had the opportunity to work with esteemed companies such as SpaceX, NASDAQ, and others, collaborating on integrations and customization of our product. I demonstrated expertise in architecting robust infrastructures and successfully implemented optimizations to drive efficiency and improve overall system performance. I take pride in contributing to the growth and success of the CSPM product and am excited to bring my technical skills and experience to new challenges and opportunities."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3821702",
+          "companyUrn": "urn:li:fsd_company:3821702",
+          "companyLink1": "https://www.linkedin.com/company/pulse-secure/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEYIVNihrt6QQ/company-logo_400_400/company-logo_400_400/0/1630619386205/pulse_secure_logo?e=1785369600&v=beta&t=hMbdM-ymXACtpYJwxO-8v2S6AwxWbTFSBfF9Gl7zoqA",
+          "title": "Software Engineer 2",
+          "subtitle": "Pulse Secure . undefined",
+          "caption": "Mar 2017 - Nov 2019 · 2 yrs 8 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tResourcefully initiating, planning, executing, tracking / monitoring, controlling and ensuring completion of the project as scheduled and effectively implementing operational processes for increased efficiency.\n•\tResponsible for enhancing the product by adding new functionality & cultivating the quality and creating unit test cases in product technologies and solving internal issues and issues raised by customers.\n•\tInvestigating issues by reviewing/debugging code and providing fixes, also highlight risks and help mitigate risks from technical aspects.\n•\tWorked on Rewriter module, responsible for providing Secure access through any network without VPN application.\n•\tAnalysis of product vulnerabilities like XSS, DoS, MITM, etc. using tools like Fiddler, Wireshark.\n•\tParticipated in Hackathons for creating and innovating new techniques for the improvement of the product / architecture."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2681769",
+          "companyUrn": "urn:li:fsd_company:2681769",
+          "companyLink1": "https://www.linkedin.com/company/aptean/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEbhAf6afP1AA/company-logo_100_100/B4EZ5mAYYxK8AM-/0/1779827836870/aptean_logo?e=1785369600&v=beta&t=76ObOJSeHk1xZP0eI2qEcMaED49Nm8cTnyCgoavWAGI",
+          "title": "Aptean",
+          "subtitle": "undefined · 2 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Associate Engineer",
+              "caption": "Jan 2016 - Feb 2017 · 1 yr 1 mo",
+              "metadata": "Bengaluru Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tMaintaining high coding standards and practices while ensuring high code coverage also exercising quality control on all aspects of software development.\n•\tTravelled to USA for 2 months and received training and development sessions from Senior Personnel.\n•\tEfficiently managing entire day-to-day activities covering wide functional areas including designing & developing the workflow program, debugging and troubleshooting.\n•\tCollaborating with the team members and senior management to maintain a continuous stream of information regarding the project status and progress.\n•\tParticipated in Agile development activities including sprint planning, stand-ups, retrospectives and team discussion on improvement."
+                }
+              ]
+            },
+            {
+              "title": "Associate Engineer",
+              "caption": "Feb 2015 - Dec 2015 · 10 mos",
+              "metadata": "Bengaluru Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Event Management Framework (EMF)\n\nEMF is a Data Integration and Monitoring product that helps organizations that require an enterprise-wide view into business issues that can escalate into material problems, it monitors systems across the organization to provide a view of the events that affects your system and alerts you to anomalies for swift resolution. It is designed to provide actionable insight into events across your system. Can be linked with your existing systems and configured to generate alerts in the customized format."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "GEM Award",
+          "subtitle": "Issued by Aptean",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Recognized Performance Award for a successful product release for Patient Flow 5.4.1 in Aptean in August 2016."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matlab Programming",
+          "subtitle": "Issued by National Institute of Technology, Surathkal",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Containerization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Debugging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "SRM University",
+          "subtitle": "Bachelor of Technology (BTech), Information Technology",
+          "caption": "2011 - 2015",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/christopher-evi-parker-2060a068",
+  "row_key": "id:003Uk00000Pb7hVIAR",
+  "person": "Christopher Evi-Parker",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:16:55Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA5AKyYBuox5BHMbYk8KbcAU3FnL2yC2tz0",
+      "firstName": "Christopher",
+      "lastName": "Evi-Parker",
+      "fullName": "Christopher Evi-Parker",
+      "publicIdentifier": "christopher-evi-parker-2060a068",
+      "headline": "Senior ML leader with a wide array of experience in diverse domains (robotics, sports, industrial, construction). Particular adept at bringing ML products to market.",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Research",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQGfDYPlLzc7JQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704322638731?e=1785369600&v=beta&t=M1qy2CMBL_zE4tdm1tTqg9DXuPtepDwjjkga5WuxDqI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGfDYPlLzc7JQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704322638731?e=1785369600&v=beta&t=H6kaB1jTOobKfaWR7DN99yvB8DRrEEmCwFLbMruVhE0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGfDYPlLzc7JQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704322638731?e=1785369600&v=beta&t=5fNjx-zTKXQs27ORvYLsEdMUcibnLbWsNKNGDJJuYos"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGfDYPlLzc7JQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704322638731?e=1785369600&v=beta&t=r0ajznhSmmUlq9MLmGMY1amCsjNT-JzUeVhYDRDYrb0"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGfDYPlLzc7JQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704322638731?e=1785369600&v=beta&t=M1qy2CMBL_zE4tdm1tTqg9DXuPtepDwjjkga5WuxDqI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal Software Engineer",
+          "subtitle": "Medtronic . undefined",
+          "caption": "Nov 2024 - Present · 1 yr 2 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Realtime AI and Video processing"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1271",
+          "companyUrn": "urn:li:fsd_company:1271",
+          "companyLink1": "https://www.linkedin.com/company/shell/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGN30g7aSl4NA/company-logo_400_400/company-logo_400_400/0/1631303787196?e=1785369600&v=beta&t=oiVmsAEg8_mMwjqbv4r6KmSiFXP_x7Df9TWrYzncKkw",
+          "title": "Senior Machine Vision Engineer (contract)",
+          "subtitle": "Shell . Contract",
+          "caption": "Oct 2023 - Nov 2024 · 1 yr 1 mo",
+          "metadata": "Greater London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Researching and Integrating computer vision based technologies for several of Shell's upstream and downstream businesses"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11560515",
+          "companyUrn": "urn:li:fsd_company:11560515",
+          "companyLink1": "https://www.linkedin.com/company/xyz-reality/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFo6SFTUF0mag/company-logo_400_400/company-logo_400_400/0/1719922707138/xyz_reality_logo?e=1785369600&v=beta&t=orqZ-Y3WQGnXMDm_cvuK2mhc1A5zoarsjKL83Oba-nk",
+          "title": "Lead Computer Vision Scientist",
+          "subtitle": "XYZ Reality . Full-time",
+          "caption": "Jan 2022 - Sep 2023 · 1 yr 8 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led the development of XYZ's advanced scene understanding algorithm for the construction industry.\nDelivered automated calibration for our award winning multi-sensors AR device (RGB amongst others) saving the company 100s of technical man hours on the factory floor calibrating our devices."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15855106",
+          "companyUrn": "urn:li:fsd_company:15855106",
+          "companyLink1": "https://www.linkedin.com/company/stats-perform/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGMhSswNtYLQg/company-logo_100_100/B4EZfGJ7VdHYAQ-/0/1751376181074/stats_perform_logo?e=1785369600&v=beta&t=nJHEbu4GaVwafojcUZTTzRj1peLOw7Ang44g72IuWG0",
+          "title": "Computer Vision Tech Lead",
+          "subtitle": "Stats Perform . Full-time",
+          "caption": "Nov 2019 - Jan 2022 · 2 yrs 2 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led the SportVU optical tracking R&D team as well as many of the CV teams effort in optical tracking particularly specializing in kalman based trackers and camera calibration"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Founder",
+          "subtitle": "Cepco Sports Vision Ltd . undefined",
+          "caption": "Jun 2018 - Nov 2019 · 1 yr 5 mos",
+          "metadata": "http://cepcosportsvision.com",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Computer Vision consultancy. My company currently has 2 contracts to consult and help build computer vision technology within their domain in sports tech."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "20650111",
+          "companyUrn": "urn:li:fsd_company:20650111",
+          "companyLink1": "https://www.linkedin.com/company/statmetrix/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEDzFjVaoKv4g/company-logo_400_400/company-logo_400_400/0/1630666346990/africa_football_accelerator_ltd_logo?e=1785369600&v=beta&t=-_42NIXar9FaXNNYONN-9gVw631DZbXopYIFtmHAmgk",
+          "title": "Computer Vision Consultant",
+          "subtitle": "Statmetrix . undefined",
+          "caption": "Jan 2019 - Oct 2019 · 9 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led a computer vision team in developing computer vision based sports application"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3880216",
+          "companyUrn": "urn:li:fsd_company:3880216",
+          "companyLink1": "https://www.linkedin.com/company/bnpparibascorporateandinstitutionalbanking/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEdsE_K9X_EzA/company-logo_400_400/company-logo_400_400/0/1631637194014/bnpparibascorporateandinstitutionalbanking_logo?e=1785369600&v=beta&t=Xgy2XygHh-JofbvV0_82MtBnCygwstrs338z4IjYj5M",
+          "title": "C++ Software Developer Contractor",
+          "subtitle": "BNP Paribas Corporate and Institutional Banking . undefined",
+          "caption": "Oct 2017 - May 2018 · 7 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "worked on software for real time position management"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1400",
+          "companyUrn": "urn:li:fsd_company:1400",
+          "companyLink1": "https://www.linkedin.com/company/thomson-reuters/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtf0NHyUa92g/company-logo_400_400/company-logo_400_400/0/1719933220460/thomson_reuters_logo?e=1785369600&v=beta&t=OtS9RWVCYYshm83Rug2ijhW0ziVsggGlGfiG3brooOM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Thomson Reuters . undefined",
+          "caption": "May 2017 - Oct 2017 · 5 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Created proof of concepts in the block chain domain focusing particularly on smart contracts and integrating Thomson Reuters financial market data sources. Worked exclusively with AWS using cutting edge tools like cloudformation and ECS."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13740357",
+          "companyUrn": "urn:li:fsd_company:13740357",
+          "companyLink1": "https://www.linkedin.com/company/windcave/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGBnVTQZILxoA/company-logo_400_400/company-logo_400_400/0/1630620554596/windcave_logo?e=1785369600&v=beta&t=fIhT6-tk6Azs1a2jpJ51c_NqiYIdFMwRHSRqeMl5xSc",
+          "title": "Windcave",
+          "subtitle": "undefined · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Development Team Lead",
+              "caption": "Jul 2015 - Apr 2017 · 1 yr 9 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I led a team developing secure authorization and clearing systems. \n\nA major part of our work involves developing in house scalable webserver technology and replicating transaction systems."
+                }
+              ]
+            },
+            {
+              "title": "C++ Software Developer",
+              "caption": "Jul 2013 - Jun 2015 · 1 yr 11 mos",
+              "metadata": "London Area, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Writing payment gateway software connecting to multiple acquiring banks in different geographies. Used various standard financial protocols from ISO8583, XML and REST based interfaces. \nDeveloped full stack systems from backend software to user interfaces."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "19195",
+          "companyUrn": "urn:li:fsd_company:19195",
+          "companyLink1": "https://www.linkedin.com/company/met-office/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEFwaDV4DAEBg/company-logo_400_400/B4EZ8cqR9KHAAc-/0/1782892273728/met_office_logo?e=1785369600&v=beta&t=eyzy3C1qm52HCO3vij7yc46riCAZULmbMICE74jO_Ec",
+          "title": "Met Office",
+          "subtitle": "undefined · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Scientific Software Engineer",
+              "caption": "Jul 2011 - Jul 2013 · 2 yrs",
+              "metadata": "Exeter, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I worked closely with HPC vendors exploring new code optimization techniques on latest hardware. \nContributed to my team winning the \"Outstanding Technical Achievement Award\" by creating a parallel process version of a sophisticated river flow model used in Met Office global climate model. \n\nA large part of my role involved undertaking model performance analysis to aid writing reports which provided guidance on current and forthcoming supercomputer hardware. The reports were provided to departmental head executives for consumption."
+                }
+              ]
+            },
+            {
+              "title": "Foundation Scientific Software Engineer",
+              "caption": "Jul 2010 - Jun 2011 · 11 mos",
+              "metadata": "Exeter, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "High Performance Computing forms a key part of the Met Office’s Operation Weather Forecasting. My role was to analyse and improve performance of codes running on the supercomputer. \nOptimizing supercomputer usage ensured sufficient return on investment and production of more accurate forecasts.\nSoftware I worked on is written primarily in Fortran and C++. \nI developed an up to date knowledge of High Performance Computing from both hardware architecture and software/algorithmic sides to inform decisions about code design.\n\nLiaise with scientists and code-owners to ensure developments will be efficient on current and\nforthcoming supercomputer hardware."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Introduction to Parallel Programming with CUDA",
+          "subtitle": "Johns Hopkins University",
+          "issued": "Issued Jun 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "State Estimation and Localization for Self-Driving Cars",
+          "subtitle": "University of Toronto",
+          "issued": "Issued Jan 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Probabilistic Graphical Models 1: Representation",
+          "subtitle": "Stanford University",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotics: Estimation and Learning",
+          "subtitle": "University of Pennsylvania",
+          "issued": "Issued Mar 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotics: Mobility",
+          "subtitle": "University of Pennsylvania",
+          "issued": "Issued Feb 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotics: Perception",
+          "subtitle": "University of Pennsylvania",
+          "issued": "Issued Jan 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms on Graphs",
+          "subtitle": "University of California San Diego",
+          "issued": "Issued Nov 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotics: Aerial Robotics",
+          "subtitle": "University of Pennsylvania",
+          "issued": "Issued Nov 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotics: Computational Motion Planning",
+          "subtitle": "University of Pennsylvania",
+          "issued": "Issued Nov 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Machine Learning (Andrew Ng)",
+          "subtitle": "Coursera",
+          "issued": "Issued Sep 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Unity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "pandas",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TensorFlow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PyTorch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Azure Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Performance Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fortran",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fortran 95",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TCP/IP stack",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "UDP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "E-commerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5738",
+          "companyUrn": "urn:li:fsd_company:5738",
+          "companyLink1": "https://www.linkedin.com/school/university-of-edinburgh/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSi1nlisxTcg/company-logo_400_400/company-logo_400_400/0/1631312234132?e=1785369600&v=beta&t=WxLGIpJx5lTcdPMVKLNMc_std6r-HZm6-NVVzjyLWyI",
+          "title": "Edinburgh University",
+          "subtitle": "Master of Science (MSc), Computer Software Engineering",
+          "caption": "2008 - 2009",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "High performance computing. Learning how to program on some of the worlds most powerful computers. "
+            }
+          ]
+        },
+        {
+          "companyId": "9665",
+          "companyUrn": "urn:li:fsd_company:9665",
+          "companyLink1": "https://www.linkedin.com/school/university-of-liverpool/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFvYEvNOqvzWA/company-logo_100_100/B4EZ83oQC0HAAI-/0/1783344726465/university_of_liverpool_logo?e=1785369600&v=beta&t=Iwp7pdqRpD_SkvJlU4Cw9DU13evCZ5r4fStfOh5Succ",
+          "title": "Liverpool University",
+          "subtitle": "Bachelor of Science (BSc), Physics",
+          "caption": "2005 - 2008",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "1st"
+            }
+          ]
+        },
+        {
+          "title": "LTA",
+          "subtitle": "Level 1 Coach, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Retroshare",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Open source C++ F2F application. Uses GNU PGP/OpenSSL to form cryptographically secure relationships to node peers. Responsible for the GXS module (Co designed and authored)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

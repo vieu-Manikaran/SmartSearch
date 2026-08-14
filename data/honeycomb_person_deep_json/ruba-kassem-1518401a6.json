@@ -1,0 +1,253 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ruba-kassem-1518401a6",
+  "row_key": "id:003Uk00000oWpdmIAC",
+  "person": "Ruba Kassem",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:25Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADAthM0BjfscB0OZWZXDDbnshwOJz2YSwtM",
+      "firstName": "Ruba",
+      "lastName": "Kassem",
+      "fullName": "Ruba Kassem",
+      "publicIdentifier": "ruba-kassem-1518401a6",
+      "headline": "Product Regulation Specialist",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Chemicals",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Detroit Metropolitan Area United States",
+      "addressWithoutCountry": "Detroit Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHP7jbGWkiSbQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708959775673?e=1785369600&v=beta&t=A06C1IW3EtfoxGYaLgyGgR9iDNaSlCmFXhHQAnc6NNQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHP7jbGWkiSbQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708959775673?e=1785369600&v=beta&t=Fsol0EBTd0WRzanLb7VUErikxmmHoWMTEWNJmq7i52E"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHP7jbGWkiSbQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708959775673?e=1785369600&v=beta&t=kkpCqt02YUi9k61mTcTYWyWaB8OFCU3TYbkvp54iS9k"
+        },
+        {
+          "width": 245,
+          "height": 245,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHP7jbGWkiSbQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1708959775673?e=1785369600&v=beta&t=wCJYCnkx9Kam7ccYWPoak8J-I1WWrs26NOidYOYUC8g"
+        },
+        {
+          "width": 245,
+          "height": 245,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHP7jbGWkiSbQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708959775673?e=1785369600&v=beta&t=A06C1IW3EtfoxGYaLgyGgR9iDNaSlCmFXhHQAnc6NNQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2633",
+          "companyUrn": "urn:li:fsd_company:2633",
+          "companyLink1": "https://www.linkedin.com/company/basf/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHVFpL5cLoZUg/company-logo_100_100/B4EZ8czz8IHoAI-/0/1782894772228/basf_logo?e=1785369600&v=beta&t=rlNAFz1g83NZdLVK0Kawmk_poRqjx3NSgJ5X_1kG_Jk",
+          "title": "Product Regulation Specialist",
+          "subtitle": "BASF . undefined",
+          "caption": "Feb 2024 - Present · 1 yr 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "7574906",
+          "companyUrn": "urn:li:fsd_company:7574906",
+          "companyLink1": "https://www.linkedin.com/company/piramal-pharma-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAdxF9mR74ig/company-logo_400_400/company-logo_400_400/0/1688193957879/piramal_pharma_solutions_logo?e=1785369600&v=beta&t=u1_ER_izYEtXHbQDrP5QkW6HresIaWb5yk5jCXva6ow",
+          "title": "Analytical Validation Scientist",
+          "subtitle": "Piramal Pharma Solutions . undefined",
+          "caption": "Aug 2022 - Feb 2024 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2415664",
+          "companyUrn": "urn:li:fsd_company:2415664",
+          "companyLink1": "https://www.linkedin.com/company/element-materials-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE_wBVjdiBubA/company-logo_400_400/company-logo_400_400/0/1630576109970/element_materials_technology_logo?e=1785369600&v=beta&t=En_OdR2vnWM6nZrlqSg9EaUQ3kKzJrh_SuEs3JLx7c8",
+          "title": "Analytical Chemist II",
+          "subtitle": "Element Materials Technology . undefined",
+          "caption": "Nov 2021 - Aug 2022 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1584189",
+          "companyUrn": "urn:li:fsd_company:1584189",
+          "companyLink1": "https://www.linkedin.com/company/avomeen/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEwj0Br03lr7w/company-logo_400_400/company-logo_400_400/0/1630556762429/avomeen_logo?e=1785369600&v=beta&t=Hkow3T0ChvPdAckunJkEVjqtRdmSabVDRk9r6zfGzMQ",
+          "title": "Analytical Chemist I",
+          "subtitle": "Avomeen . undefined",
+          "caption": "Nov 2020 - Nov 2021 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Excel: Macros in Depth (365/2019)",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "GC-MS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Laboratory Safety",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Reports",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gas Chromatography",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chromatography",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Method Transfer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research and Development (R&D)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Method Validation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Good Manufacturing Practice (GMP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel Macros",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2510",
+          "companyUrn": "urn:li:fsd_company:2510",
+          "companyLink1": "https://www.linkedin.com/school/university-of-michigan-dearborn/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHtWhbuyjldkg/company-logo_100_100/B4EZ7Iot2CIkAI-/0/1781482577510/university_of_michigan_dearborn_logo?e=1785369600&v=beta&t=Uft-77y16_9Dp-JJfDtzbx2KuwS1zNfbUr20BhGscx4",
+          "title": "University of Michigan-Dearborn",
+          "subtitle": "Bachelor of Science - BS, Chemistry (ACS)",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

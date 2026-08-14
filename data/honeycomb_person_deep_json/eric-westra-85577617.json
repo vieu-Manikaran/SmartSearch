@@ -1,0 +1,273 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/eric-westra-85577617",
+  "row_key": "id:003Uk00000Pb8aPIAR",
+  "person": "Eric Westra",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:02Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAN-qEEB8_g01ThoSbvEU2D3KNzHtLUh0Ds",
+      "firstName": "Eric",
+      "lastName": "Westra",
+      "fullName": "Eric Westra",
+      "publicIdentifier": "eric-westra-85577617",
+      "headline": "Director of Engineering, Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Hudsonville, Michigan United States",
+      "addressWithoutCountry": "Hudsonville, Michigan",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Director of Engineering",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Mar 2023 - Present · 2 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "899089",
+          "companyUrn": "urn:li:fsd_company:899089",
+          "companyLink1": "https://www.linkedin.com/company/covidien-2/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEyv90A0Sdv9g/company-logo_400_400/company-logo_400_400/0/1631376162632/covidien_2_logo?e=1785369600&v=beta&t=bAKxjrGlWPwY47XaGUs42NVtfE6MkdA5tjKo8oIFq5I",
+          "title": "Principal Software Engineer",
+          "subtitle": "Medtronic . undefined",
+          "caption": "Dec 2013 - Present · 12 yrs 1 mo",
+          "metadata": "Boulder, CO",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Research and Development on Energy-Based Devices.\n\nTechnical Lead responsible for the design and development of a next-generation Electrosurgical generator."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "43141",
+          "companyUrn": "urn:li:fsd_company:43141",
+          "companyLink1": "https://www.linkedin.com/company/sencore/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQENEIGHWcC0pQ/company-logo_400_400/company-logo_400_400/0/1630570332151/sencore_logo?e=1785369600&v=beta&t=dRNJnyIYx5RTOzNiP--kQzTrG2woWHJtdhF6Nn4NZ4E",
+          "title": "Senior Software Engineer",
+          "subtitle": "Sencore . undefined",
+          "caption": "May 2003 - Nov 2013 · 10 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technical Lead of 4 to 6 member team in developing equipment for television distribution systems.\n\nResponsible for software system design, documentation, estimates, project tasking and quality.  \n\nPast projects include:\n - MPEG2/H.264 Decoder\n - MPEG2/H.264 Transcoder\n - DVB-S2 Modulator\n - MPEG over IP  (MPEG2 TS over IP)"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MPEG",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MPEG2",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Device Drivers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "H.264",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DVB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ARM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IPTV",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firmware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MPEG-4",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Colorado Technical University",
+          "subtitle": "MSCS, Software Engineering",
+          "caption": "2005 - 2006",
+          "subComponents": []
+        },
+        {
+          "companyId": "46474",
+          "companyUrn": "urn:li:fsd_company:46474",
+          "companyLink1": "https://www.linkedin.com/school/dordtuniversity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFOX0Qttu4-ZA/company-logo_400_400/company-logo_400_400/0/1630613871703/dordtuniversity_logo?e=1785369600&v=beta&t=JLyCremN9_l10SkyVIXv9pnwUFG5i7-OszXJYblUDp0",
+          "title": null,
+          "subtitle": "BS, Computer Club (Treasurer), Bread for the World(Treasurer), Concert Choir",
+          "caption": "1999 - 2003",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

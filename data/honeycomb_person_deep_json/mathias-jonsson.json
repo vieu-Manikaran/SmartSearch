@@ -1,0 +1,411 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mathias-jonsson",
+  "row_key": "id:003Uk00000xr8wuIAA",
+  "person": "Mathias Jonsson",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:46:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABVxvssBClohfbyl7y7t1BkjfuDILAdwBGQ",
+      "firstName": "Mathias",
+      "lastName": "Jonsson",
+      "fullName": "Mathias Jonsson",
+      "publicIdentifier": "mathias-jonsson",
+      "headline": "Platform Architect OneStream | Bridging Finance & Technology | 6+ Years in EPM",
+      "about": "I’m a Stockholm-based finance technology specialist with over five years of experience bridging Financial Control teams and EPM platforms. I’ve advanced from 1st-line support to architecting, developing, and sustaining global solutions—first on SAP BPC at Epiroc and now on OneStream at Autoliv. I translate complex business needs into scalable reporting architectures, lead end-to-end deployments, and ensure system stability through hands-on support and continuous improvement. I’ve streamlined administrative routines with targeted automation and crafted best-practice documentation to empower support teams. I actively monitor scalable, best-practice EPM enhancements to help optimize reporting and improve data quality as business needs evolve.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Stockholm, Stockholm County Sweden",
+      "addressWithoutCountry": "Stockholm, Stockholm County",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQHuxEwFKEpvSg/profile-displaybackgroundimage-shrink_200_800/B4DZdQ2PihHwAU-/0/1749408087771?e=1785369600&v=beta&t=4KrDLUNPTMaapWgYfN9i0-Bct3nxNFuixReXuvbt5F4",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQHuxEwFKEpvSg/profile-displaybackgroundimage-shrink_350_1400/B4DZdQ2PihHwAY-/0/1749408087771?e=1785369600&v=beta&t=7nGY0gXnqLyNXanyJvzSMLZhdIYvxji2QCp8tQQXHTE"
+        },
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQHuxEwFKEpvSg/profile-displaybackgroundimage-shrink_200_800/B4DZdQ2PihHwAU-/0/1749408087771?e=1785369600&v=beta&t=4KrDLUNPTMaapWgYfN9i0-Bct3nxNFuixReXuvbt5F4"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "Platform Architect",
+          "subtitle": "ICA Gruppen . Full-time",
+          "caption": "Nov 2025 - Present · 2 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5949",
+          "companyUrn": "urn:li:fsd_company:5949",
+          "companyLink1": "https://www.linkedin.com/company/autoliv/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEnka1RuPHPYw/company-logo_400_400/company-logo_400_400/0/1631300849174?e=1785369600&v=beta&t=qZQ0AA1GofjKgbdIJFBnBZ6-LiA4Hl0SA7becQDMYcc",
+          "title": "Autoliv",
+          "subtitle": "Full-time · 2 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "OneStream Functional Architect",
+              "caption": "Mar 2025 - Nov 2025 · 8 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Serve as primary interface between OneStream and Financial & Business Control teams for Actuals reporting, ensuring solutions align with business needs as well as Autoliv/OneStream best practices, standards, and strategy\n- Provide third-line support for OneStream by investigating and resolving reporting/application incidents, performing root cause analysis, and implementing long-term solutions\n- Lead design and delivery of new OneStream functionality, overseeing requirements gathering, solution architecture, testing, and deployment\n- Direct maintenance cycles and change management across development and production environments, ensuring platform stability and scalability\n- Optimize administrative routines by automating tasks and packaging operational procedures into comprehensive documentation and best practice guidelines, handed over to the support team for continued execution"
+                }
+              ]
+            },
+            {
+              "title": "OneStream Specialist",
+              "caption": "Mar 2023 - Mar 2025 · 2 yrs",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Acted as primary interface between OneStream and Financial & Business Control teams for Actuals reporting, ensuring solutions aligned with business needs and Autoliv/OneStream best practices, standards, and strategy\n- Provided third-line support for OneStream by investigating and resolving reporting/application incidents, performing root cause analysis, and implementing long-term solutions\n- Led end-to-end development and deployment of new OneStream functionality, including requirements gathering, solution design, testing, and rollout\n- Facilitated regular maintenance cycles by reviewing, testing, and implementing change requests across development and production environments\n- Optimized administrative routines by automating tasks and packaging operational procedures into comprehensive documentation and best practice guidelines, handed over to the support team for continued execution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "16268827",
+          "companyUrn": "urn:li:fsd_company:16268827",
+          "companyLink1": "https://www.linkedin.com/company/epiroc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6pNXWSqPWbw/company-logo_400_400/company-logo_400_400/0/1631304891437?e=1785369600&v=beta&t=9Y3E2DHo1Aq3rVwjjdjQeoTb1aynlqhIMrdYGpKKOfg",
+          "title": "Epiroc",
+          "subtitle": "Full-time · 4 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Functional Architect",
+              "caption": "Aug 2021 - Mar 2023 · 1 yr 7 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Served as Functional Architect and third-level support for Epiroc’s group consolidation system SAP Business Planning and Consolidation (SAP BPC)\n- Developed new functionality based on evolving business requirements while maintaining system quality and stability\n- Led end-to-end development projects, ensuring requirements were comprehensive, achievable, and aligned across stakeholders from initiation to delivery\n- Collaborated with controllers and other stakeholders to optimize reporting workflows and system performance"
+                }
+              ]
+            },
+            {
+              "title": "Reporting System Professional",
+              "caption": "Jan 2019 - Aug 2021 · 2 yrs 7 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Provided 1st and 2nd line support for group financial reporting systems and tools\n   • Supported business, divisional, and group controllers using SAP Business Planning and Consolidation (SAP BPC), SAP Business Warehouse (SAP BW), Intercompany Netting, and a custom-built sales monitoring application\n- Maintained and aligned reporting systems in close collaboration with the Group Financial Control team to meet evolving business needs\n- Assisted the Functional Architect with reporting system development tasks such as:\n   • Designing input schedules and output reports\n   • Configuring controls, business logic, and restatement processes\n   • Conducting testing and resolving system/reporting issues"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Accountant",
+          "subtitle": "Jambo Tours Scandinavia AB . Full-time",
+          "caption": "Apr 2017 - Jan 2019 · 1 yr 9 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Responsible for accounts payable, including invoice processing and vendor reconciliation\n- Performed routine bookkeeping and account reconciliations for monthly and year-end closing\n- Led initiatives to streamline finance routines and improve process efficiency\n- Analyzed currency demand and risk exposure to execute hedging strategies that support operational needs"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5058360",
+          "companyUrn": "urn:li:fsd_company:5058360",
+          "companyLink1": "https://www.linkedin.com/company/valegro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFFybAAMD-Z8g/company-logo_100_100/B4DZ4GHb6uJUAQ-/0/1778219074487/valegro_logo?e=1785369600&v=beta&t=jPdBvrZgi14M40FibjkvHmCWeb99jiPArwOmsQw4a2E",
+          "title": "Accounting Consultant",
+          "subtitle": "Valegro . undefined",
+          "caption": "Oct 2016 - Apr 2017 · 6 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Accounting assignment at Jambo Tours Scandinavia AB\n- Managed accounts payable and accounts receivable processes\n- Supported day-to-day financial operations and vendor/customer reconciliation"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1205858",
+          "companyUrn": "urn:li:fsd_company:1205858",
+          "companyLink1": "https://www.linkedin.com/company/msc-cruises/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGH8cHf3T-RrA/company-logo_400_400/company-logo_400_400/0/1631323764131?e=1785369600&v=beta&t=UGYu5JTjt_Yz8p7TrUo8Nk7raT8I6IOC2Ooy7sC-76g",
+          "title": "Finance Assistant",
+          "subtitle": "MSC Cruises . Part-time",
+          "caption": "Jan 2010 - Sep 2016 · 6 yrs 8 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Registered customer payments and supported accounts receivable processes\n- Performed general office tasks and administrative support\n- Gained early exposure to financial operations in a multinational environment"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swedish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "OneStream",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Project Management (EPM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Functional Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Maintenance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "3rd Line Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Systems Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Metadata Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Master Data Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Consolidation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Forecasting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Group Reporting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Control",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Reporting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Corporate Finance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Accounting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Foreign Exchange Risk Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Account Reconciliation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166164",
+          "companyUrn": "urn:li:fsd_company:166164",
+          "companyLink1": "https://www.linkedin.com/school/stockholm-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDDr4dLuJjYw/company-logo_400_400/company-logo_400_400/0/1651005531999/stockholm_university_logo?e=1785369600&v=beta&t=ekqGGRY6uRVgluC6yv4hM_LCebyxyUv8Zbn4byPe6bc",
+          "title": "Stockholm University",
+          "subtitle": "Bachelor’s Degree, Business Administration",
+          "caption": "2013 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Bachelor of Science in Business Administration and Information Technology\nStockholm University | 180 ECTS\n- Major: Business Administration\n- Thesis: Corporate Social Responsibility"
+            }
+          ]
+        },
+        {
+          "companyId": "4814",
+          "companyUrn": "urn:li:fsd_company:4814",
+          "companyLink1": "https://www.linkedin.com/school/kth/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFDvNUYDVR6cA/company-logo_200_200/B4DZkpBLOmJkAI-/0/1757329798694/kth_logo?e=1785369600&v=beta&t=aXfyEOXSomcIAFYhd7DWAKv5E6EtxPSviFLKZ1LO_tY",
+          "title": "KTH Royal Institute of Technology",
+          "subtitle": "null, Engineering and Economics",
+          "caption": "2013 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Completed 1 semester of coursework in:\n- Business Calculation and Entrepreneurship\n- External Accounting\n- Industrial Marketing\n- Business Finance and Organizational Structures"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

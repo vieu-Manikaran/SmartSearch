@@ -1,0 +1,369 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/chasewevans",
+  "row_key": "id:0031N00001OxkkeQAB",
+  "person": "Chase Evans",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T10:52:03Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAlUKMsBo-52UQEukTFSqtyT1VSm5QIAqQY",
+      "firstName": "Chase",
+      "lastName": "Evans",
+      "fullName": "Chase Evans",
+      "publicIdentifier": "chasewevans",
+      "headline": "Founder at Trustleast",
+      "about": "A software engineer with a strong background in distributed systems, cloud infrastructure management and security, cost effective computing, and zero to one bootstrapping. Industry and language agnostic with a preference for Go.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Oakland, California United States",
+      "addressWithoutCountry": "Oakland, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQE2ra9zZN237Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568841729853?e=1785369600&v=beta&t=UhD_X0CfNhm58F3UWcHKnJufbDMua3ALnWfHNl2-IG8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQE2ra9zZN237Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1568841729783?e=1785369600&v=beta&t=_3MgdTK6dGKmzajKBmwbgdl7502MZG0ixjoGPTiWERQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQE2ra9zZN237Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1568841729758?e=1785369600&v=beta&t=2Fzw2Eh_qRs3eXxPEkeGImMxUmOScjVG10kLhF8N0FU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQE2ra9zZN237Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1568841729811?e=1785369600&v=beta&t=qhgqs_HSUGe6luVjwVeJwkZ4YRcrwfnjDiDIFbH4trE"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQE2ra9zZN237Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568841729853?e=1785369600&v=beta&t=UhD_X0CfNhm58F3UWcHKnJufbDMua3ALnWfHNl2-IG8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "104607385",
+          "companyUrn": "urn:li:fsd_company:104607385",
+          "companyLink1": "https://www.linkedin.com/company/trustleast/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFxD434_dCBfQ/company-logo_400_400/company-logo_400_400/0/1724365376044/trustleast_logo?e=1785369600&v=beta&t=Yw1FUr7Xsf6QU0ZuRRCKDngBWvQ7IKZzINzsYednYRE",
+          "title": "Founder",
+          "subtitle": "Trustleast . Full-time",
+          "caption": "Mar 2024 - Present · 1 yr 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 6 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Staff Software Engineer",
+              "caption": "Feb 2022 - Mar 2024 · 2 yrs 1 mo",
+              "description": []
+            },
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Jan 2019 - Feb 2022 · 3 yrs 1 mo",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Nov 2017 - Jan 2019 · 1 yr 2 mos",
+              "metadata": "San Francisco, California",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2992384",
+          "companyUrn": "urn:li:fsd_company:2992384",
+          "companyLink1": "https://www.linkedin.com/company/whisper-app/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH1-zjHiuFVBg/company-logo_400_400/company-logo_400_400/0/1631352757655?e=1785369600&v=beta&t=Z5xp4WXf4TwrTZn89_r3WhZP5YB8bd1DraO-Mh4Wy3Q",
+          "title": "Whisper",
+          "subtitle": "undefined · 4 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Server Architect",
+              "caption": "Aug 2014 - Sep 2017 · 3 yrs 1 mo",
+              "description": []
+            },
+            {
+              "title": "Software Architect",
+              "caption": "Aug 2013 - Aug 2014 · 1 yr",
+              "metadata": "United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "49697",
+          "companyUrn": "urn:li:fsd_company:49697",
+          "companyLink1": "https://www.linkedin.com/company/medallia-inc./",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGhHZP1A8nG2A/company-logo_200_200/B4EZy0Afo7JIAM-/0/1772546554747/medallia_inc_logo?e=1785369600&v=beta&t=8oc9C5OUpHbzs40f2KWS7-UETvJ0wViRwvsctWI6wog",
+          "title": "Software Engineer",
+          "subtitle": "Medallia, Inc. . undefined",
+          "caption": "2012 - Aug 2013 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Backend software development and design to support an analytics driven web application."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior Programmer",
+          "subtitle": "Student Affairs and Information Technology at University of California, Berkeley . undefined",
+          "caption": "Mar 2011 - May 2012 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Senior Programmer to a team of 5 programmers focusing on web applications written in perl and python."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Programmer",
+          "subtitle": "Student Affairs - IT at University of California, Berkeley . undefined",
+          "caption": "Mar 2010 - Mar 2011 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software architecture and development with the purpose of maintaining the UC Berkeley network."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Residential Computing Consultant",
+          "subtitle": "UC Berkeley, RSSP-IT . undefined",
+          "caption": "2009 - 2010 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Computer repairs and network troubleshooting, largely focused on remedying software issues, but also delving into hardware issues."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Google Cloud Platform (GCP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scala",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Erlang",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mercurial",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Subversion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "University of California, Berkeley",
+          "subtitle": "Electrical Engineering and Computer Science, Parallel Computing, SaaS, Databases, HCI",
+          "caption": "2008 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

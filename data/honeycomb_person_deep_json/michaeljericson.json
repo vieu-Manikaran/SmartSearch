@@ -1,0 +1,390 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/michaeljericson",
+  "row_key": "id:0036O00003tZzIPQA0",
+  "person": "Mike Ericson",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:59Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAklCxoBTIqgq3eyvPhwdex8FwWvwBm5L0M",
+      "firstName": "Michael",
+      "lastName": "Ericson",
+      "fullName": "Michael Ericson",
+      "publicIdentifier": "michaeljericson",
+      "headline": "Cybersecurity expert @ Medtronic | Protecting Medtronic's Touch Surgery Ecosystem (TSE) SaaS hosted in AWS",
+      "about": "I am a Principal Cyber Assurance Analyst at Medtronic, a global leader in medical technology, services, and solutions. I have over 10 years of experience in IT audit, risk, and compliance, with credentials such as CISSP, CISA, and CCSFP. My mission is to protect the security and privacy of Medtronic's digital surgery solutions and devices, which are deployed in AWS cloud platforms and used by healthcare professionals and patients worldwide.\n\nIn my current role, I lead the efforts to achieve SOC 2 Type 2 and HIPAA Type 1 compliance for Medtronic's Touch Surgery Ecosystem (TSE) and the AI-powered DS1 embedded software device, which enable remote surgical training and guidance. I also support the sales team and have completed hundreds of IT security questionnaires, tenders, RFPs/RFIs and contractual security exhibits containing thousands of questions and have attended customer-facing sales calls to help grow the business by well over 400% since I joined the company. Additionally, I developed a new work intake process and trained over 200 staff members on the security compliance program and the TSE security controls. I leverage my expertise in cloud security, risk assessment, and control implementation to ensure Medtronic's systems and data are secure, compliant, and resilient.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Minneapolis-St. Paul Area United States",
+      "addressWithoutCountry": "Greater Minneapolis-St. Paul Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQH4gDC21Tay0g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1648749335999?e=1785369600&v=beta&t=KVkBueqB9gOkOpI34jouAccXGCw7CvR6errb3eTDQj8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQH4gDC21Tay0g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648749335999?e=1785369600&v=beta&t=StggvcZuiVobQp5w3Wa6Dcyuu26mP5OrGpKJbeibpoo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQH4gDC21Tay0g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1648749335999?e=1785369600&v=beta&t=FLKA3BkpTTZHjBpjf1c6v2bskwC7dOKCJ2y1dXkuwww"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQH4gDC21Tay0g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1648749335999?e=1785369600&v=beta&t=oBaJstXhCH1GndwQzsto6h8-EbQEurLClNTWQpaO-sQ"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQH4gDC21Tay0g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1648749335999?e=1785369600&v=beta&t=KVkBueqB9gOkOpI34jouAccXGCw7CvR6errb3eTDQj8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal Cyber Information Assurance Analyst at Medtronic",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "May 2021 - Present · 4 yrs 8 mos",
+          "metadata": "Moundview, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Responsible for security of Medtronic's Touch Surgery Ecosystem (TSE) AWS cloud platform and its AI-powered DS1 computer.\n• Led efforts to help successfully achieve TSE SOC 2 Type 2, HIPAA Type 1 and NHS Cyber Essentials certifications in consecutive years.\n• Completed hundreds of IT security questionnaires, tenders, RFPs and contractual security exhibits to include thousands of questions and attended customer-facing sales calls to help grow the business by well over 400%.\n• Developed a new work intake process used by sales, legal, privacy and security teams to better organize, streamline and respond to increasing volumes of IT security questionnaires.\n• Trained DS staff (~200+ individuals) on the security compliance program, TSE security controls, and the new work intake process by presenting at DS all-department and sales pipeline meetings."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3617422",
+          "companyUrn": "urn:li:fsd_company:3617422",
+          "companyLink1": "https://www.linkedin.com/company/optum/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGtVdNs0GPdgw/company-logo_200_200/B56ZqoWBMAHQAI-/0/1763760936025/optum_logo?e=1785369600&v=beta&t=kKgOs46qYkGrpeE3lp6eSSiXbPevSxJ0B5MpWYG2fb8",
+          "title": "Associate Director, Compliance / Manager IT Security",
+          "subtitle": "Optum . Full-time",
+          "caption": "Aug 2013 - May 2021 · 7 yrs 9 mos",
+          "metadata": "Eden Prairie, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tManaged 5 direct reports and led security/privacy risk and control assessments of internal, federal and state government systems against NIST 800-53, CMS MARS-E, IRS 1075, NIST 800-171, and ISO 27001 controls.\n•\tPromoted by helping achieve ATC/ATO and enabling Optum to host its first 2 ACA state health insurance exchanges.\n•\tIdentified gaps in the design of AWS, Azure and Salesforce cloud service workloads to protect data of US citizens. \n•\tAided business, IT and stakeholders with POA&M development and remediation.\n•\tAuthored System Security Plans (SSPs) and Safeguards Security Reports (SSRs) for multiple US states.\n•\tEnhanced Optum’s process of securely integrating acquired entities by evaluating adherence to the CIS Top 20.\n•\tAdvised technology teams on how to implement FIPS 140-2 encryption on systems to protect data.\n•\tDefined a new mandatory enterprise-wide ITSM Security Impact Analysis (SIA) process for all system changes.\n•\tCreated compliance guidelines for deploying File Integrity Monitoring (FIM) on system components.\n•\tIncreased audit log event captures, SIEM ingestion, and alerting to enable effective security incident investigations.\n•\tAssessed and authored SSPs to strengthen security of 6 DoD Tricare West military applications."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1720",
+          "companyUrn": "urn:li:fsd_company:1720",
+          "companyLink1": "https://www.linkedin.com/company/unitedhealth-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHFsVkm-0t4fA/company-logo_400_400/company-logo_400_400/0/1643414339445/unitedhealth_group_logo?e=1785369600&v=beta&t=A0mfgWCmIN_UqGLWMaqxBKBulJ3cgltvfbanm2CrC4I",
+          "title": "Manager, Internal Audit",
+          "subtitle": "UnitedHealth Group . undefined",
+          "caption": "Mar 2012 - Aug 2013 · 1 yr 5 mos",
+          "metadata": "Minnetonka, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tManaged 4 direct reports in the execution of the annual IT audit plan.\n•\tLed the planning, execution, and reporting phases of IT audits, to include ICFR/SOX.\n•\tDeveloped a strategic 2013 IT audit plan to include emerging risk areas not covered previously, which convinced executives to increase funding by 35%. \n•\tStrengthened information security policies by which all systems must comply through evaluation of emerging technology risk areas, laws, regulations, and international standards.\n•\tFixed front-end system issues impacting balances of consumer-directed health accounts – e.g. HSAs and FSAs.\n•\tImproved governance, code scanning, penetration testing, password management, and code versioning of 5 enterprise mission-critical mobile applications – e.g. Health4Me."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1235",
+          "companyUrn": "urn:li:fsd_company:1235",
+          "companyLink1": "https://www.linkedin.com/company/wellsfargo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_400_400/company-logo_400_400/0/1630471638964/wellsfargo_logo?e=1785369600&v=beta&t=_ZX7jJAX1ukTfa3LecxDACeAtjWQ_zmPd610Uq1WcpM",
+          "title": "IT Senior Audit Leader / IT Audit Leader",
+          "subtitle": "Wells Fargo . undefined",
+          "caption": "Sep 2007 - Mar 2012 · 4 yrs 6 mos",
+          "metadata": "Minneapolis, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tPromoted by refocusing wholesale banking IT audit coverage to align with critical business risks.\n•\tAdvised senior leadership of high-risk wholesale banking IT projects requiring audit engagement.\n•\tLed the planning, execution, and reporting phases of IT audits, with guidance from the engagement supervisor. \n•\tMade COBIT-based recommendations to vastly improve IT governance over wholesale banking operations.\n•\tClosed data security gap for the world's largest ACH payment processor of $50 trillion annually.\n•\tHardened Windows, Linux, Oracle, SQL, and WebLogic configurations of 13 mission-critical wholesale bank systems.\n•\tFixed segregation of duties issues allowing developers to promote unauthorized code changes to a commercial loan origination system processing $200 billion of assets.\n•\tImproved controls over Basel II capital reserve calculations, vendor management, insurance, and several high-profile wholesale banking system implementations.\n•\tFixed logical access to IBM iSeries servers, which process the largest volume of US crop insurance policies.\n•\tEnsured essential IT controls were built into the new HSA system impacting 300,000+ Health Savings Accounts (HSAs)."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2532",
+          "companyUrn": "urn:li:fsd_company:2532",
+          "companyLink1": "https://www.linkedin.com/company/us-bank/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH3muwzIvCLNw/company-logo_200_200/B56ZwLyxC4IcAI-/0/1769724383816/us_bank_logo?e=1785369600&v=beta&t=T8EKyInjSWzmnJf78dGimJlKuhB2CsIohI8tPesj5o4",
+          "title": "Experienced Staff - IT Audit",
+          "subtitle": "US Bank . undefined",
+          "caption": "Apr 2006 - Sep 2007 · 1 yr 5 mos",
+          "metadata": "Minneapolis, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tPerformed testing of IT controls, and drafted and presented findings to IT leadership.\n•\tCompleted special project audits as assigned, and participated in systems development projects.\n•\tEnhanced controls over networking, distributed computing, mortgage, trust and brokerage operations.\n•\tRemedied improper logical access to mortgage loan origination and servicing system impacting 16 million consumers.\n•\tDeactivated over 100 individuals with improper physical access to systems in core data centers.\n•\tCorrected misaligned BCP and DR plans, preventing timely recovery by up to 120 hours for mission-critical business functions.\n•\tLed an audit of mid-range AS400 systems covering capacity planning, performance monitoring, and change control."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1646762",
+          "companyUrn": "urn:li:fsd_company:1646762",
+          "companyLink1": "https://www.linkedin.com/company/hitrust-alliance-llc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFFwPj_PacI-g/company-logo_100_100/B56ZU.KrU_HoAU-/0/1740504741652/hitrust_alliance_llc_logo?e=1785369600&v=beta&t=UhL0i6Wzh3DqJd5JJjmy0I-U7ZTdYBqVppM8yoiCvGY",
+          "title": "HITRUST Certified Common Security Framework Practitioner (CCSFP)",
+          "subtitle": "HITRUST",
+          "issued": "Issued Jul 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "26753",
+          "companyUrn": "urn:li:fsd_company:26753",
+          "companyLink1": "https://www.linkedin.com/company/isc2/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEANDNp1O78-g/company-logo_400_400/company-logo_400_400/0/1692269546870?e=1785369600&v=beta&t=gSnOX85TYo1H_Od4TQ10pqsVPc7YOo7S2ev7l0Vi_0U",
+          "title": "Certified Information Systems Security Professional (CISSP)",
+          "subtitle": "(ISC)²",
+          "issued": "Issued Jul 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10312672",
+          "companyUrn": "urn:li:fsd_company:10312672",
+          "companyLink1": "https://www.linkedin.com/company/isaca-minnesota-chapter/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPzyeuyTHvUg/company-logo_400_400/company-logo_400_400/0/1721148170239/isaca_minnesota_chapter_logo?e=1785369600&v=beta&t=hnFxn7U1YA3rlrY-iipCgm6kBHMVA581o2WQwjJ8Ljs",
+          "title": "Certified Information Systems Auditor (CISA)",
+          "subtitle": "ISACA Minnesota Chapter",
+          "issued": "Issued May 2011",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "IT Audit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Risk Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Risk Assessment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDLC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Disaster Recovery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sarbanes-Oxley Act",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Service Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Change Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Identity Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Configuration Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firewalls",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "19685",
+          "companyUrn": "urn:li:fsd_company:19685",
+          "companyLink1": "https://www.linkedin.com/school/metro-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFhB9s20pVrPA/company-logo_400_400/company-logo_400_400/0/1688402928509/metro_state_university_logo?e=1785369600&v=beta&t=BHnWhDe0srzxa-2X4oUMtZMGuei6AaTDNMg13-B_vgY",
+          "title": null,
+          "subtitle": "Bachelor of Arts, Accounting",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

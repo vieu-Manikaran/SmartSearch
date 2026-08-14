@@ -1,0 +1,369 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/yunjin",
+  "row_key": "id:003Uk000012UWQfIAO",
+  "person": "Yun Jin",
+  "account": "Fireworks AI",
+  "fetched_at": "2026-07-14T10:36:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADLbZgB6vuagb0Upf7yqEr29tCvaDu1GoE",
+      "firstName": "Yun",
+      "lastName": "Jin",
+      "fullName": "Yun Jin",
+      "publicIdentifier": "yunjin",
+      "headline": "Specialized Intelligence@Fireworks.AI | Ex-Meta | Ex-AlibabaCloud | Ex-Microsoft | Repeat Startup Scaler",
+      "about": "Technologist at heart. Always learning, always building — compilers, distributed systems, HPC and AI.\n\nTeam scaler by training. Built and led organizations from tens to hundreds — in startups and big techs. Scaling organizations just like scaling systems.\n\nBusiness driver in action. Vision, Strategy, Execution - deliver business results with engineering teams.\n\nI'm hiring multiple AI roles:\n\nSoftware Engineer, AI Performance Optimization: https://job-boards.greenhouse.io/fireworksai/jobs/4001152009\nSoftware Engineer, Training Infrastructure: https://job-boards.greenhouse.io/fireworksai/jobs/4000408009\nAI Researcher: https://job-boards.greenhouse.io/fireworksai/jobs/4000239009",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Fremont, California United States",
+      "addressWithoutCountry": "Fremont, California",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQE6rSzJgUkzCA/profile-displaybackgroundimage-shrink_200_800/B56Zd3V8j4HEAU-/0/1750053932317?e=1785369600&v=beta&t=93HCo5QrOL-IVnjNjhgNOZnezBJRFPnVnIz8e3SUOEA",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQE6rSzJgUkzCA/profile-displaybackgroundimage-shrink_350_1400/B56Zd3V8j4HEAY-/0/1750053932317?e=1785369600&v=beta&t=_C-8oxHHwYv6AHJgLIFQ75RLTucs033evqEGm25ManI"
+        },
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQE6rSzJgUkzCA/profile-displaybackgroundimage-shrink_200_800/B56Zd3V8j4HEAU-/0/1750053932317?e=1785369600&v=beta&t=93HCo5QrOL-IVnjNjhgNOZnezBJRFPnVnIz8e3SUOEA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "91174981",
+          "companyUrn": "urn:li:fsd_company:91174981",
+          "companyLink1": "https://www.linkedin.com/company/fireworks-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBD0h39SCyLw/company-logo_400_400/company-logo_400_400/0/1711133682942/fireworks_ai_logo?e=1785369600&v=beta&t=CThoZGybDlkdOYbemJ_CeRFc5lBpwo5JuLmMa0DIY4M",
+          "title": "Head of AI Infra",
+          "subtitle": "Fireworks AI . Full-time",
+          "caption": "Jun 2025 - Present · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Build the AI Cloud with the fastest inference (Forbes certified \"AI 50\" company, flexible model customizations, and versatile application models. I'm hiring multiple AI roles:\n\nSoftware Engineer, AI Performance Optimization: https://job-boards.greenhouse.io/fireworksai/jobs/4001152009\nSoftware Engineer, Training Infrastructure: https://job-boards.greenhouse.io/fireworksai/jobs/4000408009\nAI Researcher: https://job-boards.greenhouse.io/fireworksai/jobs/4000239009"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Engineering Director",
+          "subtitle": "Meta . Full-time",
+          "caption": "Oct 2014 - Jun 2025 · 10 yrs 8 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Built and led multiple teams within Meta's infrastructure organization, spearheading critical systems and horizontal initiatives:  \n• Multi-region site infrastructure: Global Traffic Management, Disaster Recovery, Meta Scheduler for Service Placement, etc.   \n• Serverless platform: Function as a Service, Queue, Workflow, etc.  \n• Fleet-wide performance and efficiency: Auto-Scaling, Elastic Capacity, Automatic Performance Test, GPU Observability, AI Workload Optimization, etc.\n* Software driven capacity management and AI expansion enablement"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "319913",
+          "companyUrn": "urn:li:fsd_company:319913",
+          "companyLink1": "https://www.linkedin.com/company/pplive/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGdzN_KRGkFjg/company-logo_400_400/company-logo_400_400/0/1631330111582?e=1785369600&v=beta&t=brbCyaCjEnMl2oZbPXVl6i-MXoX5wBO-wa5gZI5F-IE",
+          "title": "Vice President",
+          "subtitle": "PPLive . undefined",
+          "caption": "Oct 2011 - Oct 2014 · 3 yrs",
+          "metadata": "Shanghai City, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I led the technical team in PPTV to grow from a startup to one of the top video streaming services in China. My key contributions include:\n•\tBuilt the engineering team from scratch to hundreds of people, including cloud, multi-clients, data platform, hardware, and SRE\n•\tBuilt PPCloud, the core of PPLive's video delivery system, one of the largest in the world at the time by integrating capability of cloud and client-based P2P capabilities. \n•\tCreated R&D org for PPTV's OTT development. Shipped 2 generations of PPTV's set top box and smart TV"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1218665",
+          "companyUrn": "urn:li:fsd_company:1218665",
+          "companyLink1": "https://www.linkedin.com/company/alibaba-cloud-computing-company/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEZecjjDTVXJA/company-logo_400_400/company-logo_400_400/0/1723709190350/alibaba_cloud_computing_company_logo?e=1785369600&v=beta&t=ESdvrKzcJibYhC1YI5LBCMX_9aZRsks5vTd7V__hpo0",
+          "title": "Director, Architect",
+          "subtitle": "Alibaba Cloud Computing Company . undefined",
+          "caption": "Oct 2009 - Oct 2011 · 2 yrs",
+          "metadata": "Hangzhou, Zhejiang, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was among the first-generation technical staff of Alibaba Cloud Computing. I led the team to initiate several foundational services and scale them to support Alibaba's internal workload like data warehouse. Those services evolved into the base of Alibaba's Cloud products.\n•\tPangu, the distributed storage system that powers all Alibaba Cloud's storage products today. \n•\tFuxi, the scheduling system that supports both online and offline workload\n•\tOpen Table Processing System as the distributed data processing system"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Principal Development Manager",
+          "subtitle": "Microsoft . Full-time",
+          "caption": "Jan 2003 - Sep 2009 · 6 yrs 8 mos",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I started as a software engineer and grew to senior manager. I worked on multiple developer platform and server projects focused on performance, high scalability, and developer experience, including:\n•\tAzure Application platform. Built and led a team to create .Net WCF/WF components for building enterprise-class, distributed and cloud-ready applications in Windows Azure.\n•\tWindows HPC (High Performance Computing) Server. Owned job scheduler for Windows HPC cluster; Invented framework to automatically scale single host computation to the distributed environment; Helped to build world's No.10 supercomputer in 2008.\n•\tCommon Language Runtime (Runtime for .Net framework). Worked in CLR's Garbage Collector and multi-threading model"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3996059",
+          "companyUrn": "urn:li:fsd_company:3996059",
+          "companyLink1": "https://www.linkedin.com/company/china-digital-tv-holding-co-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHxixi0DSJlnQ/company-logo_400_400/company-logo_400_400/0/1631342984702?e=1785369600&v=beta&t=BF0s6dLOS5o7zVB2wQSULNspxIkkEM8ml2NmONO3SdY",
+          "title": "Cofounder, Chief Architect",
+          "subtitle": "China Digital Tv Holding Co Ltd . Full-time",
+          "caption": "Jul 1997 - Oct 2001 · 4 yrs 3 mos",
+          "metadata": "Beijing, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I confounded the company (public in NYSE until 2017 under ticker STV) when I was in college and led the key technical development after graduation. During my tenure, I helped build digital broadcast technology to bring Internet content to users at high speed and low cost at a time when 56k dial up was a luxury for the Chinese market."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Graphics Processing Unit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PyTorch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "High Performance Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SaaS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Big Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Content Delivery Network",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Recommendation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NoSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "14022",
+          "companyUrn": "urn:li:fsd_company:14022",
+          "companyLink1": "https://www.linkedin.com/school/tsinghua-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJU3_2fIeNWw/company-logo_400_400/company-logo_400_400/0/1631309794782?e=1785369600&v=beta&t=4hTpEolkRMO_sL7fta53DG7PVsm_tYNEA4mB-BwP1bI",
+          "title": "Tsinghua University",
+          "subtitle": "Bachelor's degree, Mechatronics, Robotics, and Automation Engineering",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

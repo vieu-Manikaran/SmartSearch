@@ -1,0 +1,446 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/yanning-jia",
+  "row_key": "id:003Uk00000ydADtIAM",
+  "person": "Yanning Jia",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:24Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABp6ZsUB0MLy7Q6Npk-gFGTXV4Udpm5cDB4",
+      "firstName": "Yanning",
+      "lastName": "Jia",
+      "fullName": "Yanning Jia",
+      "publicIdentifier": "yanning-jia",
+      "headline": "Senior Software Engineer @ Coinbase",
+      "birthDateOn": {
+        "month": 12,
+        "day": 9
+      },
+      "about": "Tech lead with extensive experience in designing, developing, and deploying scalable software solutions in a team environment from 0 to 1. Passionate about developing test driven and performant software that aligns with stakeholder needs. Focused on innovation, performance, mentorship and operational excellence.\n\nAREAS OF EXPERTISE\nSoftware Development | System Architecture | API Design | Microservices | Service Oriented Architecture | Multi-tenancy | Scalability | Observability | Benchmarking | Experimentation | Stakeholder Management | Collaboration | Mentorship",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Madison, Wisconsin United States",
+      "addressWithoutCountry": "Madison, Wisconsin",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFVx0UnuKFvXw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1552158571540?e=1785369600&v=beta&t=HCMfuc3MpsL2X0xh27wSIxCB6MJT7EKJR0hfvc1BKE0",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQGbMxkbFma0yw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648697931699?e=1785369600&v=beta&t=dQq_Dd9Wm6-VYQjRajmAQJ8iLF4qAH_KFiN7I1b9SFs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFVx0UnuKFvXw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1552158571236?e=1785369600&v=beta&t=s_1o0wFTpE6EemARKVQNlZqEbM8Vn4rPnB9Xy2PvZnU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFVx0UnuKFvXw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1552158571286?e=1785369600&v=beta&t=l219eSe4WHfsJ5XcE6JI0UDuofBUe064ey4k6izCFZ4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFVx0UnuKFvXw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1552158571359?e=1785369600&v=beta&t=fokr_m1XM7j6PYhS4QXyD-Z97drVY2c3TEdXNRjE1MU"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFVx0UnuKFvXw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1552158571540?e=1785369600&v=beta&t=HCMfuc3MpsL2X0xh27wSIxCB6MJT7EKJR0hfvc1BKE0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQGbMxkbFma0yw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1648697931699?e=1785369600&v=beta&t=HxnJJUa2C61F3h9bF1-3RP2wUpFnu7pRI4OIKetUQyY"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQGbMxkbFma0yw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648697931699?e=1785369600&v=beta&t=dQq_Dd9Wm6-VYQjRajmAQJ8iLF4qAH_KFiN7I1b9SFs"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Sep 2025 - Present · 4 mos",
+          "metadata": "United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Reliable Blockchain Access"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Google . Full-time",
+          "caption": "May 2022 - Sep 2025 · 3 yrs 4 mos",
+          "metadata": "United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Built Android framework module OnDevicePersonalization APIs and ML training and serving pipeline.\n• Established release and system health monitoring workflows that oversee the release to 1B+ devices.\n• Engaged with OEM and AdTech partners to drive adoptions and integrations.\n• Built performance regression monitoring, critical user journey testing, and flag rollout pipelines."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Amazon",
+          "subtitle": "Full-time · 2 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Development Engineer",
+              "caption": "Mar 2020 - May 2022 · 2 yrs 2 mos",
+              "metadata": "Minneapolis, Minnesota, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Amazon Transportation Services\n• Built Amazon Freight planning and execution platform and workflows globally for internal and external freight ecosystem participants"
+                }
+              ]
+            },
+            {
+              "title": "Software Development Engineer",
+              "caption": "Sep 2019 - Mar 2020 · 6 mos",
+              "metadata": "Greater Boston Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Amazon Global Logistics Technology\n• Built cross boarder transportation compliance and reporting functionalities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "13471203",
+          "companyUrn": "urn:li:fsd_company:13471203",
+          "companyLink1": "https://www.linkedin.com/company/xinhulian/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGPJI9K3cFfQA/company-logo_400_400/company-logo_400_400/0/1631357189213?e=1785369600&v=beta&t=rXNqg-uij-xvJx2j2WBjLFBIF7dUWuPi3Z-MCfQGt2Q",
+          "title": "Co-founder, Technical Business Partner",
+          "subtitle": "XHL Marketing Technology . undefined",
+          "caption": "Feb 2017 - May 2017 · 3 mos",
+          "metadata": "Beijing City, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Designed the MVP and core functionality of a SaaS product which received 6M series A round of funding."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13471203",
+          "companyUrn": "urn:li:fsd_company:13471203",
+          "companyLink1": "https://www.linkedin.com/company/xinhulian/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGPJI9K3cFfQA/company-logo_400_400/company-logo_400_400/0/1631357189213?e=1785369600&v=beta&t=rXNqg-uij-xvJx2j2WBjLFBIF7dUWuPi3Z-MCfQGt2Q",
+          "title": "Director of Search Engine Marketing",
+          "subtitle": "XHL Marketing Technology . undefined",
+          "caption": "Aug 2015 - Aug 2016 · 1 yr",
+          "metadata": "Beijing City, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Lead a search engine marketing team with 5+ languages, 10+ channels to a 1.5X all-time high sales leads record.\n• Launched A/B tests on Google and Facebook campaigns using Google Analytics and R with 1.1 percent jump in CTR.\n• Redesigned KPI and incentive algorithms for the department, cost-per-lead decreased by 50% YoY.\n• Built infrastructure and SoP for remarketing and display marketing campaigns in Google, resulting in a 20% jump in traffic and sales leads.\n• Initialized Facebook brand advertising in 20+ countries, the number of fans increased from 1K to 20K in two months."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Adwords Search",
+          "subtitle": "Google",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Google Analytics",
+          "subtitle": "Google",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Computer Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Performance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer vision",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Service-Oriented Architecture (SOA)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Federated Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Application Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Open-Source Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Monitoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Edge Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3181",
+          "companyUrn": "urn:li:fsd_company:3181",
+          "companyLink1": "https://www.linkedin.com/school/university-of-minnesota/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEKTpIfhAXtlw/company-logo_400_400/company-logo_400_400/0/1719939334329/university_of_minnesota_logo?e=1785369600&v=beta&t=1OG6eR7lkAVdKwlGTyu5YwLPYWnQVDPzfdzvyopUni4",
+          "title": "University of Minnesota-Twin Cities",
+          "subtitle": "Master of Science, Data Science, Computer Science",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "During the study at University of Minnesota, I received intensive training in Machine learning engineering and software engineering. I've also participated in climate research using computer vision and national geographical data.\n\nCourses I took:\nComputer Vision\nArtificial Intelligence\nIntro to Machine Learning\nSoftware Engineering\nBig Data Engineering and Analytics\nPredictive Learning\nIntro to Data Mining\nPrinciples of Database Management Systems\nApplied Regression Analysis\nApplied Multivariate Analysis"
+            }
+          ]
+        },
+        {
+          "companyId": "20289",
+          "companyUrn": "urn:li:fsd_company:20289",
+          "companyLink1": "https://www.linkedin.com/school/peking-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFNJ0xtCpaTmA/company-logo_400_400/company-logo_400_400/0/1630659985593/peking_university_logo?e=1785369600&v=beta&t=nLm-UbFW8nHwSEmGcsu5QsInAu5UmtwJBMQjMgMRNus",
+          "title": "Peking University",
+          "subtitle": "Bachelor of Science, Director of the student volunteering org at Peking University Centennial Hall.\nJournalist and editor of the School of Mathematics Monthly magazine.",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "During the study at Peking University, I received solid training in calculus, algebra, geometry, and topology. I also spent 600+ hrs on undergraduate research involving the topic of invariants on topological manifolds. "
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

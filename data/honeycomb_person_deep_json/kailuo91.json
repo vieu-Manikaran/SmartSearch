@@ -1,0 +1,517 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/kailuo91",
+  "row_key": "id:003Uk00000ydHaHIAU",
+  "person": "Kai Luo",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:13Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAnBQsUBk7K_eZ0p6lrrudWxSFzZsTE2fQg",
+      "firstName": "Kai",
+      "lastName": "Luo",
+      "fullName": "Kai Luo",
+      "publicIdentifier": "kailuo91",
+      "headline": "Staff engineer @ Stripe",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Los Angeles Metropolitan Area United States",
+      "addressWithoutCountry": "Los Angeles Metropolitan Area",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQFZTef2KNbqkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1523732607052?e=1785369600&v=beta&t=Sb4SgHd_tcIROjIZq3w5Nfsjowp8__6Kzsd9Jt7o1sw",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQFZTef2KNbqkQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1523732607143?e=1785369600&v=beta&t=1UNMobHA7TwnVFRWhC8pVfa7hhH7S6Hnh2BK1SRmSlI"
+        },
+        {
+          "width": 1200,
+          "height": 300,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQFZTef2KNbqkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1523732607052?e=1785369600&v=beta&t=Sb4SgHd_tcIROjIZq3w5Nfsjowp8__6Kzsd9Jt7o1sw"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2135371",
+          "companyUrn": "urn:li:fsd_company:2135371",
+          "companyLink1": "https://www.linkedin.com/company/stripe/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE2ZfJyfn-VCg/company-logo_100_100/B56ZlyKwpUKIAQ-/0/1758557047806/stripe_logo?e=1785369600&v=beta&t=xG7ZlvzXoY1NG0Ey6bOTqVdGQ4krgRoPIVVIBzZtxlU",
+          "title": "Staff Software Engineer",
+          "subtitle": "Stripe . undefined",
+          "caption": "2025 - Present · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "89557300",
+          "companyUrn": "urn:li:fsd_company:89557300",
+          "companyLink1": "https://www.linkedin.com/company/bridge-apis/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGTnGEjYupVKQ/company-logo_400_400/company-logo_400_400/0/1724205390501/bridge_apis_logo?e=1785369600&v=beta&t=zywjbVEb8GIGqGtxjGgPXyQSunADy0IdgRo5THRNsQg",
+          "title": "Builder",
+          "subtitle": "Bridge . undefined",
+          "caption": "2025 - Present · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Technical Lead",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Jan 2021 - Feb 2025 · 4 yrs 1 mo",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Crypto wallet infrastructure\n- Wallet on-chain gas fee optimization\n- Large-scale liquidity management\n- Crypto regulation and compliance\n\nPublished patent (https://patents.google.com/patent/US20240257084A1/en?oq=US18102590)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "68047275",
+          "companyUrn": "urn:li:fsd_company:68047275",
+          "companyLink1": "https://www.linkedin.com/company/uniswaporg/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHp8mtb_uvFgQ/company-logo_400_400/company-logo_400_400/0/1705604225648/uniswaporg_logo?e=1785369600&v=beta&t=wenPcvVoteJBMIJLCmjcGCvmL7y2VUmHAyMEpUJO11M",
+          "title": "Blockchain Engineer",
+          "subtitle": "Uniswap . undefined",
+          "caption": "2025 - 2025 · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "L2"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Founding engineer",
+          "subtitle": "Quibi . undefined",
+          "caption": "May 2019 - Jan 2021 · 1 yr 8 mos",
+          "metadata": "Hollywood, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- build messaging service from scratch.\n- ads, discovery, and recommendation"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "51941",
+          "companyUrn": "urn:li:fsd_company:51941",
+          "companyLink1": "https://www.linkedin.com/company/hulu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEKtpNWRRh5aQ/company-logo_400_400/company-logo_400_400/0/1630645356849/hulu_logo?e=1785369600&v=beta&t=folBD5DPooA3oABZ1NXchHB9K9v1Hcl7t_syHiIgrVM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Hulu . undefined",
+          "caption": "Nov 2016 - May 2019 · 2 yrs 6 mos",
+          "metadata": "Santa Monica, California",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Ad platform"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Software Engineer",
+          "subtitle": "Amazon Web Services . undefined",
+          "caption": "Jul 2015 - Nov 2016 · 1 yr 4 mos",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "AWS marketplace"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Software Engineering Intern",
+          "subtitle": "Amazon . undefined",
+          "caption": "Jun 2013 - Aug 2013 · 2 mos",
+          "metadata": "Seattle, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19888",
+          "companyUrn": "urn:li:fsd_company:19888",
+          "companyLink1": "https://www.linkedin.com/school/rosehulman/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFQXBVP1S9ZLA/company-logo_400_400/company-logo_400_400/0/1630646617500/rose_hulman_institute_of_technology_logo?e=1785369600&v=beta&t=HyMxNftF8mqdXPu3RXgQ4yXdO1LkUFYhUextiubxGIk",
+          "title": "Web programming Teaching Assitant",
+          "subtitle": "Rose-Hulman Institute of Technology . undefined",
+          "caption": "Mar 2013 - May 2013 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Helped develop course materials and grade assignments.\nHTML, CSS, JavaScript."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "39554",
+          "companyUrn": "urn:li:fsd_company:39554",
+          "companyLink1": "https://www.linkedin.com/company/rose-hulman-ventures/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE_0JfJ2KwKWg/company-logo_400_400/company-logo_400_400/0/1630586032534/rose_hulman_ventures_logo?e=1785369600&v=beta&t=jwYGcK94f8LAhhaFh9Pb973ufJUGHjayMh-qVFk5LqU",
+          "title": "Software Engineer internship",
+          "subtitle": "Rose-Hulman Ventures . undefined",
+          "caption": "Jun 2012 - Aug 2012 · 2 mos",
+          "metadata": "100 South Campus Drive  Terre Haute, IN 47802",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Maintained a C# windows application called CartTest to retrieve data from a cart when testing in a cornfield.\n● Wrote a python script to generate a scanned image of corn stalks and a formatted analysis file of the growing condition. \n● Used Objective-C and Xcode to fix a data analysis issue on an iPad application."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+          "subtitle": "Coursera",
+          "issued": "Issued Sep 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Neural Networks and Deep Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued Oct 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "ToastMaster",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQLite",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "19888",
+          "companyUrn": "urn:li:fsd_company:19888",
+          "companyLink1": "https://www.linkedin.com/school/rosehulman/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFQXBVP1S9ZLA/company-logo_400_400/company-logo_400_400/0/1630646617500/rose_hulman_institute_of_technology_logo?e=1785369600&v=beta&t=HyMxNftF8mqdXPu3RXgQ4yXdO1LkUFYhUextiubxGIk",
+          "title": "Rose-Hulman Institute of Technology",
+          "subtitle": "b.s, Computer Science",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "FlashCards Android App",
+          "subtitle": "Sep 2012 - Sep 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Rose-Hulman Institute of Technology"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "1. Utilized SQLite database to manage internal app data.\n2. Utilized Java to build 3D flip animation for each card view.\n3. Made public API calls from Quizlet (an online learning website) for searching existing card sets and reading card set content."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Rose-Hulman iPhone app",
+          "subtitle": "Jun 2013 - Jan 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "1. Build a web crawler in Python to parse course and person information from Rose-Hulman website. The web crawler is currently hosted on Google App Engine.\n2. Download the profile image of each active Rose-Hulman student from the Angel website by doing what Mark did for FaceMash.\n3. Utilized iOS native API to provide data visualization."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "iRose backend",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "backend service hosted on Google App engine to retrieve courses and student info."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

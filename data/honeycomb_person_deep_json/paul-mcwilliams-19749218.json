@@ -1,0 +1,386 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/paul-mcwilliams-19749218",
+  "row_key": "id:0036O000047TlRRQA0",
+  "person": "Paul McWilliams",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAOhV4MBoRMmNdsIIP4cYIIJQh7D6snfZQw",
+      "firstName": "Paul",
+      "lastName": "McWilliams",
+      "fullName": "Paul McWilliams",
+      "publicIdentifier": "paul-mcwilliams-19749218",
+      "headline": "Data Operations Manager at Medtronic",
+      "about": "Operations Manager with an eye for systems and processes and 10 years' experience delivering transformative projects in the charitable sector and the airline industry. Dynamic relationship management skills, particularly in terms of diplomacy and persuasion.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "E-learning",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGp8PTWvyyQHQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1577455490356?e=1785369600&v=beta&t=EwlOjcTH65YJpFGwQSdPXyv4mi5JTJ3B-0neNpK9bDI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGp8PTWvyyQHQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1577455490292?e=1785369600&v=beta&t=RtlNuepjUKcTAup27wBKB0tYUYLwlqHuLe1HbYNuuX4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGp8PTWvyyQHQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1577455490269?e=1785369600&v=beta&t=dvb6gCDuzHscVIDkWg14rDNSgw9Jk7YoaIRE1TRXspw"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGp8PTWvyyQHQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1577455490319?e=1785369600&v=beta&t=DxYvJtAtwI80Rem9qNz3Q3ZoPT4pqI-GqwIYsEsugPE"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGp8PTWvyyQHQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1577455490356?e=1785369600&v=beta&t=EwlOjcTH65YJpFGwQSdPXyv4mi5JTJ3B-0neNpK9bDI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Data Operations Manager",
+          "subtitle": "Medtronic Digital Surgery . Full-time",
+          "caption": "Dec 2019 - Present · 6 yrs 1 mo",
+          "metadata": "London",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "24555",
+          "companyUrn": "urn:li:fsd_company:24555",
+          "companyLink1": "https://www.linkedin.com/company/teach-first/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNaX8ndoQMGQ/company-logo_400_400/company-logo_400_400/0/1663690290611/teach_first_logo?e=1785369600&v=beta&t=0UYpbMwi8Og6Vh6J47ajbQzuZKQm44sjdVZFIYXBeao",
+          "title": "Teach First",
+          "subtitle": "undefined · 5 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Programme Implementation Specialist",
+              "caption": "Jan 2019 - Dec 2019 · 11 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Manager, Data and Operations",
+              "caption": "Nov 2017 - Dec 2019 · 2 yrs 1 mo",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Manage the operational aspects of Pre-Employment training, focusing particularly on the annual Summer Institute (SI) training programme for approximately 3,000 Teach First participants; develop systems and process for effective project delivery.\n\nLead the work of a Data Committee to implement and maintain data practices across the organisation.\n\nOversee event delivery on the ground, ensuring that any issues are dealt with calmly and effectively.\n\nDelivered a new SI App for 2018, incorporating personalised participant schedules.\n\nWorked in Mumbai for six weeks to create an internal reporting architecture for Teach for India.\n\nCreated a Curriculum Mapping tool to design a diverse curriculum from the centre and negate repetition of content.\n\nResearched and implemented a software solution for classroom booking and timetabling.\n\nDeveloped a new process for evaluating SI, allowing for quick action on issues raised."
+                }
+              ]
+            },
+            {
+              "title": "Data Officer, Summer Institute",
+              "caption": "Jan 2014 - Nov 2017 · 3 yrs 10 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2354458",
+          "companyUrn": "urn:li:fsd_company:2354458",
+          "companyLink1": "https://www.linkedin.com/company/globalgiving-uk/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGUax1pnA2QLQ/company-logo_400_400/company-logo_400_400/0/1631387008042?e=1785369600&v=beta&t=BY1IgPA3dYgAVd-YFIN_oj5UPNssFRydyqG7rItoZq0",
+          "title": "GlobalGiving UK",
+          "subtitle": "undefined · 2 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Marketplace Manager",
+              "caption": "Sep 2012 - Dec 2013 · 1 yr 3 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Project Management: Delivered a ‘Gateway Challenge’ fundraising training and implementation project for 40 small NGOs all over the world: raised £60,000 in 30 days from a budget of less than £5,000.\n\nProject Design: Used donor-preference data to develop innovative Christmas fundraising appeal focusing on Children’s projects. Secured corporate support to run a parallel matched funding campaign.\n\nVolunteer Management: Manage and oversee the work of a team of four marketplace and communications volunteers.\n\nTraining: Deliver regular workshops and webinars in online fundraising and communications for GlobalGiving UK’s NGO project partners.\n\nDonor Stewardship: Write and distribute regular donor and stakeholder newsletters, and conduct a weekly engagement programme with regular and major donors.\n\nData Management: Track donation patterns and trends, and seek to fully understand our donor profile."
+                }
+              ]
+            },
+            {
+              "title": "Partnerships Manager",
+              "caption": "Mar 2011 - Sep 2012 · 1 yr 6 mos",
+              "metadata": "GlobalGiving UK",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Project Management: Managed a small internal team and multiple stakeholders (including over 150 NGO project partners worldwide) to coordinate the global launch of the online volunteering platform, GlobalGivingTIME for employees of Aegis Media. The target of $5,000 in donated time was achieved with a week to spare.\n\nFundraising: Co-managed a national fundraiser for AAR Japan, an NGO whose work focused on long-term rebuilding following the 2011 earthquake and tsunami in northern Japan. Volunteers from our corporate partner, Subaru UK took part in an 11-week, UK-wide cycle relay which raised £30,000 for the cause.\n\nPartnership Management: Oversaw an innovative Christmas Gift Voucher campaign for four ‘featured’ NGOs from the GlobalGiving suite. These NGOs were highlighted on a bespoke landing page for our corporate partner, Salesforce, who sent GlobalGiving gift vouchers to some of their key partners as Christmas gifts. The initiative generated over £10,000 for the featured charities.\n\nProgramme design and innovation: Drafted, proposed and implemented a new skills-sharing scheme for directors and senior staff at Pearson; this has since expanded into a global mentoring programme linking senior staff at Pearson with project leaders all over the world.\n\nEvent Planning: Organised and hosted an end-of year event at the Marriott Hotel in Grosvenor Square for 50 existing and pipeline corporate partners. Acted as MC on the evening itself, introducing attendees to some case studies of our work during the previous year.\n\nGeneral Management and Admin: Used CRM software to maintain a portfolio of live partnerships (including BCG, Guardian and Standard Chartered) and a pipeline of on-going discussions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Operations Manager",
+          "subtitle": "Archive UK . undefined",
+          "caption": "Dec 2009 - Mar 2011 · 1 yr 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Management: Directed the work of Archive’s ten-strong UK team; chaired weekly staff meetings; set deadlines and provided appropriate support to ensure timely and efficient project delivery \n\nFundraising: Created a long-lead timeline for funding applications and thereby oversaw 200 per cent increase in Archive’s revenue stream between January and April 2010\n\nProject Management: Oversaw the recruitment process for a new Communications Coordinator and Board Member"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1337066",
+          "companyUrn": "urn:li:fsd_company:1337066",
+          "companyLink1": "https://www.linkedin.com/company/glasgow-prestwick-airport/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFqHdVh_u9dTA/company-logo_400_400/company-logo_400_400/0/1659135455165/glasgow_prestwick_airport_logo?e=1785369600&v=beta&t=fI6PcYoJ71EEwpCfdYj-DTy-dpFD2FznA0JXxTksnWQ",
+          "title": "Passenger Flight Operations Manager",
+          "subtitle": "Prestwick Handling . undefined",
+          "caption": "Feb 2006 - Mar 2007 · 1 yr 1 mo",
+          "metadata": "Glasgow Prestwick Airport, Prestwick, UK",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "General Management: Managed the flight operations department (a team of 17 staff), including all recruitment and internal promotion; responsible for the safe, timely and efficient aircraft turnaround of all passenger flights\n\nAdvocacy: Represented the department at weekly operations meetings and in dealings with external partners\n\nTraining: Delivered all initial and ongoing staff training; wrote a new departmental training manual; maintained a database of training records"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Partner Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Partnerships",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Corporate Social Responsibility",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CRM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Corporate Partnership Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Account Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programme Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Training Delivery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Training Programme Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pipeline Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NGOs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fundraising",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Mining",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4477",
+          "companyUrn": "urn:li:fsd_company:4477",
+          "companyLink1": "https://www.linkedin.com/school/oxforduni/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1785369600&v=beta&t=YWZ_dcWkHXOGDiT8--gbh6rFHaRC3LwtP7-KaBVekrM",
+          "title": "University of Oxford",
+          "subtitle": "MSc, African Studies",
+          "caption": "2007 - 2008",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Comprehensive analysis of key African themes including democratisation, race relations, poverty and diasporas. The course also included an in-depth study of research ethics and methodology.\n\nFocus on South Africa, with specific emphasis on social politics, economics and race relations since the fall of apartheid. Thesis examined Black Economic Empowerment in the mining industry"
+            }
+          ]
+        },
+        {
+          "companyId": "19844",
+          "companyUrn": "urn:li:fsd_company:19844",
+          "companyLink1": "https://www.linkedin.com/school/university-of-stirling/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFXHoXFCtzQaw/company-logo_400_400/company-logo_400_400/0/1719820662132/university_of_stirling_logo?e=1785369600&v=beta&t=xtY0y2CeGHFdmiW81PEgHSa11D0DajyEd5DasX45JWk",
+          "title": "The University of Stirling",
+          "subtitle": "BA (Hons.), History",
+          "caption": "2000 - 2004",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Emphasis on recent South African history and race relations. Dissertation examined political violence and States of Emergency in South Africa between 1985 and 1990"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

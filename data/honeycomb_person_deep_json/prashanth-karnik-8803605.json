@@ -1,0 +1,81 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/prashanth-karnik-8803605",
+  "row_key": "id:003Uk00000yfU3rIAE",
+  "person": "Prashanth Karnik",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:32:08Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADxHuABmKgsClxv2fo7UYzkJRrYr3PsLrk",
+      "firstName": "Prashanth",
+      "lastName": "Karnik",
+      "fullName": "Prashanth Karnik",
+      "publicIdentifier": "prashanth-karnik-8803605",
+      "headline": "software engineer at wipro",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Piscataway, New Jersey United States",
+      "addressWithoutCountry": "Piscataway, New Jersey",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "software engineer",
+          "subtitle": "wipro . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Senior Software Engineer",
+          "subtitle": "Wipro Technologies . undefined",
+          "caption": "Dec 2003 - Present · 22 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

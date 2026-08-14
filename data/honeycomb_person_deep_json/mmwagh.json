@@ -1,0 +1,626 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mmwagh",
+  "row_key": "id:003Uk00000yfg7QIAQ",
+  "person": "Mansi Wagh",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:21:02Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAChagg8B5fQPTlSpv-0qWL8tMONKZy7twiE",
+      "firstName": "Mansi",
+      "lastName": "Wagh",
+      "fullName": "Mansi Wagh",
+      "publicIdentifier": "mmwagh",
+      "headline": "Software Engineer | SUNY Buffalo MS in CS graduate",
+      "about": "I am currently pursuing Masters in Computer Science and Engineering with a major in Software and Information Science and will be graduating in December 2020. I am actively seeking full-time opportunities in Software Engineering and Data Science domains.\n\nI am a technology enthusiast and like to solve challenges through programming. Having 2 years of work experience as a Software Developer with a demonstrated history of working in the information technology industry, I want to work for an organization were I can learn, work and contribute the best of my potential.\n\nSkills:\nProgramming languages: Python, Java, C, VHDL\nWeb technologies: HTML, CSS, JavaScript, Bootstrap, AngularJS,ReactJS, Node.js\nDatabase technologies: , PLSQL, MySQL,Oracle SQL\nFrameworks & tools: GIT, JIRA, AWS, Android Studio, Hadoop, Apache Spark, Apache Solr, Putty, Zenhub\n",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Atlanta Metropolitan Area United States",
+      "addressWithoutCountry": "Atlanta Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQH00vzTSNoxMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1610334328475?e=1785369600&v=beta&t=dTwr_juqao2CbLoGntWuGGJWdQgM_u7ed4r8YCCW70Q",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQEiSfu6OeMcxw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1593191018530?e=1785369600&v=beta&t=zf20YD1GNe18Y8s4Jyf-FHCj_RTyEvAHAuzbeUBxerI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH00vzTSNoxMg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1610334328475?e=1785369600&v=beta&t=FkuMSffPI2qxdfTZKrBE1AHguyqHqjRH606fA-3h_Z4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH00vzTSNoxMg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1610334328475?e=1785369600&v=beta&t=b0xbasOtidR089RBY6dcvJMyC2QF_o1tFkfUFVMS14w"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH00vzTSNoxMg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1610334328475?e=1785369600&v=beta&t=7-euCJKtcXnr99jlhEhTw-j21nnEMPd15rrTNpUVH4A"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH00vzTSNoxMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1610334328475?e=1785369600&v=beta&t=dTwr_juqao2CbLoGntWuGGJWdQgM_u7ed4r8YCCW70Q"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQEiSfu6OeMcxw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1593191018530?e=1785369600&v=beta&t=wAuOi_iCkGKTspjkdrBDsPc0QDBomms9mOP1-_jkdsk"
+        },
+        {
+          "width": 819,
+          "height": 204,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQEiSfu6OeMcxw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1593191018530?e=1785369600&v=beta&t=zf20YD1GNe18Y8s4Jyf-FHCj_RTyEvAHAuzbeUBxerI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Software Engineer II",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Apr 2021 - Present · 4 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1353",
+          "companyUrn": "urn:li:fsd_company:1353",
+          "companyLink1": "https://www.linkedin.com/company/tata-consultancy-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_400_400/company-logo_400_400/0/1708946550425/tata_consultancy_services_logo?e=1785369600&v=beta&t=argHyOHxOL8b_6ayqv8Ix2k-fvrql9BXSBmDI9iR4jw",
+          "title": "Tata Consultancy Services",
+          "subtitle": "Full-time · 1 yr 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Developer",
+              "caption": "Nov 2018 - May 2019 · 6 mos",
+              "metadata": "Pune, Maharashtra,India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Designed Java-based components for websites and migrated existing websites to Magnolia CMS improving the website ranking by 30%.\n• Revamped the website by worked with Maven, configured templates, dialogs and basic app creation in Java to further optimize its performance by 44%.\n• Collaborated with clients for website optimization and maintenance using agile project development"
+                }
+              ]
+            },
+            {
+              "title": "Test Engineer",
+              "caption": "Nov 2017 - Oct 2018 · 11 mos",
+              "metadata": "Pune,Maharashtra,India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Created Business Intelligent reports, designed visual insights and performed end-to-end functional, performance and manual testing for the reports using MicroStrategy\n• Performed validation of the Business Intelligent reports and framed test scenarios for fulfilling business requirements and improved report usability and accessibility by 48%\n• Managed Defect Identification, Defect Management Cycle and progress report using Jira"
+                }
+              ]
+            },
+            {
+              "title": "Assistant System Engineer Trainee",
+              "caption": "Jul 2017 - Oct 2017 · 3 mos",
+              "metadata": "Gandhinagar, Gujarat,India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tUnderwent a 4-month intensive training program learning technical skills in Core Java, Advanced Java, Frameworks such as Spring , Hibernate and MVC. \n•\tMastered major professional development skills like Agile methodology, Project Definition, Teamwork and Presentation."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "435210",
+          "companyUrn": "urn:li:fsd_company:435210",
+          "companyLink1": "https://www.linkedin.com/company/hackerrank/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1785369600&v=beta&t=cgfKkWltLqdbUl9fRJg-ok9aHBrpuR3USvn3WHgImLQ",
+          "title": "Problem Solving (Basic)",
+          "subtitle": "HackerRank",
+          "issued": "Issued Oct 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "435210",
+          "companyUrn": "urn:li:fsd_company:435210",
+          "companyLink1": "https://www.linkedin.com/company/hackerrank/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1785369600&v=beta&t=cgfKkWltLqdbUl9fRJg-ok9aHBrpuR3USvn3WHgImLQ",
+          "title": "Java (Basic)",
+          "subtitle": "HackerRank",
+          "issued": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning REST APIs",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "6622522",
+          "companyUrn": "urn:li:fsd_company:6622522",
+          "companyLink1": "https://www.linkedin.com/company/triplebyte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFL5EsaT_03yA/company-logo_400_400/company-logo_400_400/0/1630654179261/triplebyte_logo?e=1785369600&v=beta&t=TbnjxXoJkLEpYfYuSFPPLMhKiyumvBkS4fTyMX1BQ9M",
+          "title": "Triplebyte Certified Front End Engineer",
+          "subtitle": "Triplebyte",
+          "issued": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Tableau Essential Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Apache Spark Essential Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning Hadoop",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Data Science Foundations-Level 1",
+          "subtitle": "IBM",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "479370",
+          "companyUrn": "urn:li:fsd_company:479370",
+          "companyLink1": "https://www.linkedin.com/company/magnolia-cms/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGsLpsqGiBOww/company-logo_400_400/company-logo_400_400/0/1712560076808/magnolia_cms_logo?e=1785369600&v=beta&t=exqqWCXlUkLixOvSf6-R1SevoUkoJYth8dHb4s7kW3o",
+          "title": "Magnolia Certified Associate Developer",
+          "subtitle": "Magnolia",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marathi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MicroStrategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Magnolia CMS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Spark",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Big Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "6502",
+          "companyUrn": "urn:li:fsd_company:6502",
+          "companyLink1": "https://www.linkedin.com/school/universityatbuffalo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEk7c2dS0qFGA/company-logo_400_400/company-logo_400_400/0/1660069485905/universityatbuffalo_logo?e=1785369600&v=beta&t=lOqKd-zpGVWpmz4Sw4kXKKGp_w98EXcmeW9CWT8r1MM",
+          "title": "University at Buffalo",
+          "subtitle": "Master of Science - MS, Computer Science",
+          "caption": "2019 - 2020",
+          "subComponents": []
+        },
+        {
+          "companyId": "16172970",
+          "companyUrn": "urn:li:fsd_company:16172970",
+          "companyLink1": "https://www.linkedin.com/school/government-engineering-college-aurangabad/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGVIr-eTPvMgg/company-logo_400_400/company-logo_400_400/0/1631346203271?e=1785369600&v=beta&t=Dm6cO-OFZ83OxFJreXyvh_wPSXa67YE8F4dp1Nlb3Ms",
+          "title": "Government College of Engineering Aurangabad",
+          "subtitle": "Bachelor of Engineering - BE, Computer Science",
+          "caption": "2013 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "CGPA : 8.34/10"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Big Data Processing with Hadoop",
+          "subtitle": "Mar 2020 - Apr 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tImplemented a simple word count program using MapReduce on 3 text files stored in HDFS.\n•\tGenerated the top 10 occurring tri-grams in the input files by replacing the keywords in the input with '$' using MapReduce program. A global mapper was created to take the output of all local reducers which was then passed to a global reducer that combined the tri-grams and incremented their counts.\n•\tCreated an inverted index of all the words occurring in the input files using MapReduce. Words and the corresponding list of filenames in which they appear was given as the output.\n•\tPerformed a relational join on 2 text files using MapReduce. The input text files were joined on the primary key constraint.\n•\tImplemented the K-nearest neighbor algorithm using MapReduce of Hadoop. The mapper program was used to output the distances and the labels associated with them to the reducer which in turn sorted the distances according to the K-neighbors and predicted their class label. \n\nLanguage used: Python \nFrameworks used: Hadoop\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Implementation of Predictive Analytics",
+          "subtitle": "Feb 2020 - Feb 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tImplemented Principal Components Analysis(Dimensionality Reduction), K-Nearest Neighbors and  K-means clustering models from scratch using Numpy and Pandas.\n•\tUsing Bagging and Bootstrap aggregration, developed multiple decision tree classifiers and implemented Random Forest classification from scratch.\n•\tDeveloped Ensemble Model using K-NN, Support Vector Machine(SVM), Decision Tree and Logistic Regression models  and implemented the voting classifier on them that gave 97% accuracy in classification of data using scikit-learn.\n•\tPerformed GridSearch on SVM, K-NN and Decision Tree models to tune their hyperparameters and output optimal hyperparameters with 95% accuracy.\n\nLanguage used: Python 3\nFrameworks used: Tensorflow\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Implementation of end-to-end search engine for analyzing Twitter Data",
+          "subtitle": "Nov 2019 - Nov 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tBuilt an end-to-end solution for searching tweets which involved content ingestion, topic categorization and sentiment analysis. Statistical information of the results obtained was presented in graphical and chart formats.\n•\tCrawled and effectively indexed over 400K multilingual tweets using Apache Solr in EC2 instance of AWS for analyzing the impact of political rhetoric in traditional and social media.\n\nFrameworks used: PyFlask, Bootstrap, Apache Solr,AWS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Binary Classification Model using Logistic Regression",
+          "subtitle": "Oct 2019 - Oct 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tImplemented the binary classification on the Wisconsin Diagnostic Breast Cancer (WDBC) dataset using logistic regression as a classifier to distinguish each cell into 2 classes by comparing them with 30 features given in dataset.\n•\tTrained the classifier to classify tumour cells as benign or malignant with 98.2% accuracy and  93.3% precision.\n\nLanguage used: Python \nFrameworks used: Numpy, Pandas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Multiclass Classification Model using Neural Network",
+          "subtitle": "Sep 2019 - Sep 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": " •\tImplemented single hidden layer neural network on Fashion-MNIST dataset consisting of 70K images, classifying each 28X28 grayscale image and mapping it to its best  matched label associated with 10 classes from scratch.\n•\tExecuted multilayer neural network with 87.3% and Convolutional neural network(CNN) with 88% accuracy using Keras and Tensorflow.\n\nLanguage used-Python "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evaluation of Information Retrieval Models",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tImplemented BM-25, Language Model and Divergence From Randomness Model on multi-lingual tweet data using TREC-eval  to increase the MAP-scores by tuning the hyperparameters of the models.\n•\tExecuted strategies such as eDismax Query Parser, Synonym Factory ,Filter Factory and slop queries to improve the MAP-scores of the models.\n\nFramework used: Apache Solr, AWS\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Movie Genre Prediction using Apache Spark",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tImplemented a multi-label movie genre prediction model using  Apache Spark. Trained the model with different features vectors generated from the term-document matrix of movie plots to predict the movie genre.\n•\tImplemented Term Frequency-Inverse Document Frequency(TF-IDF) and custom feature engineering based techniques like HashingTF, stopwordsRemover, regexTokenizer to improve the performance of the model.\n\nFramework used: Apache Spark\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "NAO Educational Robot",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tProgrammed the robot to perform real-time applications like pagewise reading of a book, playing rock-papers-scissors game and interacting with kids through Trivia  game using Choreograph IDE.\n•\tExplored and used built-in Nao capabilities such as Speech recognition, Gesture Recognition and Facial Recognition to perform the tasks using NAOqi framework. \n\nLanguage Used: Python\nIDE used: Choreograph \nVersion Control: Git                                                                                                                                                   \n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reinforcement Learning using Q-Learning algorithm",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•  Built and trained a reinforcement agent to navigate the grid and reach its goal in minimum steps by choosing the state-action pair that gives maximum reward by avoiding obstacles in its path.\n•  Implemented Q-learning algorithm to update Q-table values depending on rewards gained by choosing the random steps based on state-action pairs.\n\nLanguage used: Python"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Student Peer and Self Evaluation System",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tDeveloped a website to assist the instructors to evaluate individual student performance in a team project by logging into the system through a 2-step verification process. \n•\tImplemented features like creating a survey, uploading a reviewing assignment, adding a course in database and downloading normalized scores of every student in a team for multiple instructors. \n\nLanguages used: PHP, HTML, JavaScript\nDatabase used: MySQL\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

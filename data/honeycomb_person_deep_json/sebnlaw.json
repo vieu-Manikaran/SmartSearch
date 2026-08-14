@@ -1,0 +1,155 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sebnlaw",
+  "row_key": "id:003Uk00000ypyivIAA",
+  "person": "Sebastian Law",
+  "account": "Midjourney",
+  "fetched_at": "2026-07-14T10:21:22Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACw4DGABphZWnJo67oqdNtOU18K98_Yf70A",
+      "firstName": "Sebastian",
+      "lastName": "Law",
+      "fullName": "Sebastian Law",
+      "publicIdentifier": "sebnlaw",
+      "headline": "Senior Software Engineer @ Midjourney",
+      "about": "I write software",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGI0gvFYYwJOQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1617530901981?e=1785369600&v=beta&t=lRwTWqoCzGsBC4NbnwQ4NKQvR52CR1ZW7mj-Xso-KHU",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGI0gvFYYwJOQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1617530901981?e=1785369600&v=beta&t=2GsMFvuoLK5erpx1Jf0gND4eod9Rfr1AfrHO6LRQbqo"
+        },
+        {
+          "width": 160,
+          "height": 160,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGI0gvFYYwJOQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1617530901981?e=1785369600&v=beta&t=LrFSIwLDuO_3Q_3zx659YbolcJaX-mxEEqXzZpHNsgk"
+        },
+        {
+          "width": 160,
+          "height": 160,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGI0gvFYYwJOQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1617530901981?e=1785369600&v=beta&t=dMkPdn4a_PG8cbzxw6yTSiFY0BdVT1jIs-OSYKAEZ1k"
+        },
+        {
+          "width": 160,
+          "height": 160,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGI0gvFYYwJOQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1617530901981?e=1785369600&v=beta&t=lRwTWqoCzGsBC4NbnwQ4NKQvR52CR1ZW7mj-Xso-KHU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "82318617",
+          "companyUrn": "urn:li:fsd_company:82318617",
+          "companyLink1": "https://www.linkedin.com/company/midjourney/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdHwWJr1YZhg/company-logo_400_400/company-logo_400_400/0/1697570621105/midjourney_logo?e=1785369600&v=beta&t=ElVxt5ls8qroFbwD7FQPIaTQ15Aqv5XDw7EM4RZBPOU",
+          "title": "Midjourney",
+          "subtitle": "Full-time · 3 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jul 2025 - Present · 6 mos",
+              "metadata": "San Francisco, CA",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "May 2022 - Jul 2025 · 3 yrs 2 mos",
+              "metadata": "San Francisco, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "working on infra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "551087",
+          "companyUrn": "urn:li:fsd_company:551087",
+          "companyLink1": "https://www.linkedin.com/company/cityofsouthsanfrancisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHMJqRurCKHqQ/company-logo_400_400/company-logo_400_400/0/1631433966775/cityofsouthsanfrancisco_logo?e=1785369600&v=beta&t=P7ZSdwE8vWUygh-yHhvf_1kVXaiPolERinaOxOrvSlM",
+          "title": "Swim Instructor",
+          "subtitle": "City of South San Francisco . Part-time",
+          "caption": "Oct 2019 - Mar 2020 · 5 mos",
+          "metadata": "South San Francisco, California",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Taught swimming to groups of students aged 4+ as well as adults at all skill levels."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "2841",
+          "companyUrn": "urn:li:fsd_company:2841",
+          "companyLink1": "https://www.linkedin.com/school/ucsc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHmYTRjksZf6w/company-logo_200_200/B56Z5CzyxBHwAE-/0/1779237335003/ucsc_logo?e=1785369600&v=beta&t=MUWZLhvkx2FHMA_-aiW3GWkAvLvUwgTTHLJ6fJqTCxU",
+          "title": "University of California, Santa Cruz",
+          "subtitle": "Bachelor of Science - BS, Computer Science",
+          "caption": "Sep 2023 - Jun 2024",
+          "subComponents": []
+        },
+        {
+          "companyId": "17575",
+          "companyUrn": "urn:li:fsd_company:17575",
+          "companyLink1": "https://www.linkedin.com/school/college-of-san-mateo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFVbsuohO9gtQ/company-logo_400_400/company-logo_400_400/0/1682616238540/college_of_san_mateo_logo?e=1785369600&v=beta&t=gSMuCUTGxJdDX08ESMcVctK56GIbKDTKJ1cstKvGD3E",
+          "title": "College of San Mateo",
+          "subtitle": "null, Computer and Information Science",
+          "caption": "Jun 2021 - May 2023",
+          "subComponents": []
+        },
+        {
+          "companyId": "6805042",
+          "companyUrn": "urn:li:fsd_company:6805042",
+          "companyLink1": "https://www.linkedin.com/school/mills-high-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFXyJ27VeKnng/company-logo_400_400/company-logo_400_400/0/1630591948532?e=1785369600&v=beta&t=Bhil3QFN9IxBKRd__QSdM1Ur5PhfNxCR1ckUiC5N8Ek",
+          "title": "Mills High School",
+          "subtitle": "null, null",
+          "caption": "Aug 2017 - May 2021",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

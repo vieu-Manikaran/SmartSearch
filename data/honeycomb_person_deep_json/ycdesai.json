@@ -1,0 +1,332 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ycdesai",
+  "row_key": "id:003Uk00000yfSxIIAU",
+  "person": "Yash Desai",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:52Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA8CpusBWUh-6v30r5n9a83HL5jT3vZqiYs",
+      "firstName": "Yash",
+      "lastName": "Desai",
+      "fullName": "Yash Desai",
+      "publicIdentifier": "ycdesai",
+      "headline": "Engineering @ Base",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQGmvu4SZYvNHw/profile-displayphoto-shrink_100_100/B4EZd5YA.UH0AU-/0/1750088028697?e=1785369600&v=beta&t=thn7p6SLj4rrM_SK9c-5AJrH_gbVWdrkDTHQPeTWw64",
+      "profilePicAllDimensions": [
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGmvu4SZYvNHw/profile-displayphoto-shrink_800_800/B4EZd5YA.UH0Ac-/0/1750088028697?e=1785369600&v=beta&t=q2wTpI74kyv5-xgk-z3YeSLNm490Z6kKxWbnbPiofvM"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGmvu4SZYvNHw/profile-displayphoto-shrink_200_200/B4EZd5YA.UH0AY-/0/1750088028676?e=1785369600&v=beta&t=NxbmtwRBUG9Jw8w8AyNocSrHknFp3_Bie_ldD-3BKqs"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGmvu4SZYvNHw/profile-displayphoto-shrink_400_400/B4EZd5YA.UH0Ag-/0/1750088028697?e=1785369600&v=beta&t=1cnc92amjY3tiF-UNKdtQT-jNk9xDC9peXfj-QgRVdc"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGmvu4SZYvNHw/profile-displayphoto-shrink_100_100/B4EZd5YA.UH0AU-/0/1750088028697?e=1785369600&v=beta&t=thn7p6SLj4rrM_SK9c-5AJrH_gbVWdrkDTHQPeTWw64"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Staff Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Jun 2025 - Present · 7 mos",
+          "metadata": "New York, New York, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "88928253",
+          "companyUrn": "urn:li:fsd_company:88928253",
+          "companyLink1": "https://www.linkedin.com/company/carrymoney/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFazuy51NIhdw/company-logo_400_400/company-logo_400_400/0/1696538740725?e=1785369600&v=beta&t=qlNrlsgc7ILhE47AoNlvVy65supGqNjsgoBz4bFUZAc",
+          "title": "Carry",
+          "subtitle": "Full-time · 2 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Head of Engineering",
+              "caption": "Feb 2024 - May 2025 · 1 yr 3 mos",
+              "metadata": "New York, NY",
+              "description": []
+            },
+            {
+              "title": "Founding Engineer",
+              "caption": "Oct 2022 - Feb 2024 · 1 yr 4 mos",
+              "metadata": "New York, NY",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9398436",
+          "companyUrn": "urn:li:fsd_company:9398436",
+          "companyLink1": "https://www.linkedin.com/company/opendoor-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF6pvw60dENkQ/company-logo_400_400/company-logo_400_400/0/1699478580992/opendoor_com_logo?e=1785369600&v=beta&t=4C0K9wkLjOqnLeFPCy5hLbbkXV7jwOP-ZMCtKuyiyZc",
+          "title": "Senior Software Engineer",
+          "subtitle": "Opendoor . undefined",
+          "caption": "Sep 2019 - Oct 2022 · 3 yrs 1 mo",
+          "metadata": "Los Angeles, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11407978",
+          "companyUrn": "urn:li:fsd_company:11407978",
+          "companyLink1": "https://www.linkedin.com/company/exosfinancial/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHCsCUWmoabEw/company-logo_400_400/company-logo_400_400/0/1630569649915/meetexos_logo?e=1785369600&v=beta&t=tKUppQP37lGMVDKWmTtLHLYxQv_67-QbgFx1Rd4jlxA",
+          "title": "Software Engineer",
+          "subtitle": "Exos . undefined",
+          "caption": "Jul 2018 - Aug 2019 · 1 yr 1 mo",
+          "metadata": "New York, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1815218",
+          "companyUrn": "urn:li:fsd_company:1815218",
+          "companyLink1": "https://www.linkedin.com/company/uber-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1785369600&v=beta&t=r9l905urYGR2nLPIAo9IUo1TE7lT_q18b3QvXaHjxb8",
+          "title": "Software Engineer",
+          "subtitle": "Uber . undefined",
+          "caption": "Apr 2016 - Jun 2018 · 2 yrs 2 mos",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Software Engineering Intern",
+          "subtitle": "LinkedIn . undefined",
+          "caption": "May 2015 - Aug 2015 · 3 mos",
+          "metadata": "Mountain View, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3858",
+          "companyUrn": "urn:li:fsd_company:3858",
+          "companyLink1": "https://www.linkedin.com/company/informatica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEV9kECiZwXrg/company-logo_400_400/company-logo_400_400/0/1656645409373/informatica_logo?e=1785369600&v=beta&t=RZGgnEmfjsWOPx7YlsTjmWtDxLoO8mmNp7G0FEOhUDw",
+          "title": "Software Development Intern",
+          "subtitle": "Informatica . undefined",
+          "caption": "May 2014 - Aug 2014 · 3 mos",
+          "metadata": "Redwood City, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3168400",
+          "companyUrn": "urn:li:fsd_company:3168400",
+          "companyLink1": "https://www.linkedin.com/company/xvolve/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQE-hvr_TIpW6w/company-logo_400_400/company-logo_400_400/0/1631432279055/xvolve_logo?e=1785369600&v=beta&t=_7y7qjflvL-y6ylS-X9YyKRoTHAqHZd6JY9HClB7MPg",
+          "title": "Software Engineer Intern",
+          "subtitle": "Xvolve . undefined",
+          "caption": "Sep 2013 - Dec 2013 · 3 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer Intern",
+          "subtitle": "Mounza Inc . undefined",
+          "caption": "May 2013 - Aug 2013 · 3 mos",
+          "metadata": "Palo Alto, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RESTful WebServices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon EC2",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "University of California, Berkeley",
+          "subtitle": "Bachelor's Degree, Computer Science, Economics",
+          "caption": "2012 - Jun 2015",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

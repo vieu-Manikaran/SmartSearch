@@ -1,0 +1,598 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/viren-agarwal-784256ab",
+  "row_key": "id:003Uk00000yfTUoIAM",
+  "person": "Viren Agarwal",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABdaCdQBFt0yMAhzxUi8yMtRNkkMyYw3BKY",
+      "firstName": "Viren",
+      "lastName": "Agarwal",
+      "fullName": "Viren Agarwal",
+      "publicIdentifier": "viren-agarwal-784256ab",
+      "headline": "Staff Software Engineer @Coinbase | Ex-JioSaavn | IITian",
+      "about": "Currently working  as a Technical Lead at JioSaavn handling everything in and around data.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Mumbai, Maharashtra India",
+      "addressWithoutCountry": "Mumbai, Maharashtra",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5116AQH0uaVikk0QwQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1557816221198?e=1785369600&v=beta&t=QI1dQv1ZdYjiEyiu2UUP61IVhTr93wZl3MtANSsvBe8",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5116AQH0uaVikk0QwQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1557816221165?e=1785369600&v=beta&t=ro0Y7VjMbAfuwz97wYB-NLa7dFS1jiX_IhowKFS3bf4"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5116AQH0uaVikk0QwQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1557816221198?e=1785369600&v=beta&t=QI1dQv1ZdYjiEyiu2UUP61IVhTr93wZl3MtANSsvBe8"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Aug 2025 - Present · 5 mos",
+              "metadata": "India",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer - Data Platform",
+              "caption": "Apr 2022 - Aug 2025 · 3 yrs 4 mos",
+              "metadata": "India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Data Platform & Services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1090735",
+          "companyUrn": "urn:li:fsd_company:1090735",
+          "companyLink1": "https://www.linkedin.com/company/jio-saavn/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEQhDRmE61vlA/company-logo_400_400/company-logo_400_400/0/1659424254538/jio_saavn_logo?e=1785369600&v=beta&t=aVzJXnHNv8ZmQ3TkbmQgku43yhILWmHiOrSCuATFktY",
+          "title": "JioSaavn",
+          "subtitle": "Full-time · 2 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Tech Lead - Data & Infrastructure",
+              "caption": "Jul 2021 - Apr 2022 · 9 mos",
+              "metadata": "Mumbai, Maharashtra, India",
+              "description": []
+            },
+            {
+              "title": "Senior Software Developer - Data & Infra",
+              "caption": "Apr 2020 - Jul 2021 · 1 yr 3 mos",
+              "metadata": "Mumbai, Maharashtra, India",
+              "description": []
+            },
+            {
+              "title": "Software Developer - Data Products | Data Engineer",
+              "caption": "Jul 2019 - Apr 2020 · 9 mos",
+              "metadata": "Mumbai Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working mainly around data engineering, managing big data infrastructure and building products around data.\nData Engineering -\n1. Working in a team responsible to implement, manage and upgrade data pipeline systems to process and extract meaningful data from TBs of JioSaavn daily logs.\n2. Handled migration of  our entire data pipeline and Petabytes of data from AWS (EMR and S3) to Azure (Hdinsights and blobs)\n3. Build framework for generating custom pipeline dags, using airflow.\n4. Worked on optimization of big data clusters for better efficiency (through autoscaling of nodes and tuning parameters) bringing data processing cost by around 30% in a month.\n\nData Products -\nWorking and managing backend systems for various client facing data products.\n1. Yourcast - Platform where podcasters can upload their shows through RSS feed (so that podcast is visible on jiosaavn app),manage it and track its performance.\n2. Artist Insights - Platform where artists and their managers can get insights into their music-growth, fan base, create/share their playlists and manage their profile.\n3. LabelOne - Platform used by labels and partners to track their song, album visibility on app and its performance (streams, users etc)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "24673",
+          "companyUrn": "urn:li:fsd_company:24673",
+          "companyLink1": "https://www.linkedin.com/company/indus-valley-partners/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHmzatu1m0sIw/company-logo_400_400/company-logo_400_400/0/1638900301990/indus_valley_partners_logo?e=1785369600&v=beta&t=O5Y40PlzLN2ww4C6hCaICIP8i-hVaIf1_fuAcQBViFs",
+          "title": "Associate Software Engineer",
+          "subtitle": "Indus Valley Partners . undefined",
+          "caption": "Jun 2017 - Jun 2019 · 2 yrs",
+          "metadata": "Noida Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Product : Raptor\nRaptor is an automated web based platform built to power the hedge fund industry that includes support for regulatory filings covering OPERA, Form PF, AIFMD etc. and transaction reporting covering Compliance and MIFID.\n\nResponsibilities:\n•\tDevelop new features as a Full Stack developer in the .NET framework mainly involving WCF services, API creation and consumption, Microsoft Message Queues, SQL database design and queries. \n•\tWorking on database system developing efficient stored procedures, functions and Dynamic Querying.\n•\tUI/UX development on a service based architecture.\n•\tClient communication, Effort estimation & Development Plan."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Founder",
+          "subtitle": "Easycashback.co.in . undefined",
+          "caption": "Jun 2015 - Dec 2017 · 2 yrs 6 mos",
+          "metadata": "www.easycashback.co.in",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Founder of Easycashback.co.in (Startup-cum-Hobby)\nMade and individual owner of website www.easycashback.co.in . \nUsers after registering on this website, earns free recharge for shopping online. \nIt had 350 users.\nSuccessfully contacted various ecommerce websites for affiliate marketing."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Project Trainee",
+          "subtitle": "Semiconductor laboratory, Department of Space, Mohali . undefined",
+          "caption": "May 2016 - Jul 2016 · 2 mos",
+          "metadata": "Mohali",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "In-line Yield Metrology Requirements for ASIC Fabrication."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6485",
+          "companyUrn": "urn:li:fsd_company:6485",
+          "companyLink1": "https://www.linkedin.com/company/mahindragroup/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGQCdkOp2uW-g/company-logo_400_400/company-logo_400_400/0/1664681376096/mahindragroup_logo?e=1785369600&v=beta&t=6DG-r76t3DuV8UnDWtNYS2UmIzMzfKc19NVG_WkIhoQ",
+          "title": "Content Writer",
+          "subtitle": "Mahindra & Mahindra . undefined",
+          "caption": "Jul 2015 - Aug 2015 · 1 mo",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Won the Mahindra AQ event organised in our college by Mahindra & Mahindra and was awarded 2 month content internship with Mahindra."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Research Intern",
+          "subtitle": "IIT Hyderabad . undefined",
+          "caption": "May 2015 - Jul 2015 · 2 mos",
+          "metadata": "Hyderabad Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Guide- Dr. Kiran Kuchi (Professor, IIT H)\nField- 4G modem algorithms development (particularly on extraction of random access channel (RACH) on the uplink)\nWorked in CCS Studio and Texas C66x DSP chip to extract RACH signal by performing a 24K FFT on the received data. Objective was to minimize the time taken for implementing PRACH transmitter. Used FFTC coprocessor and various algorithms to accelerate the FFT and IFFT computations. I was able to reduce time from 268 μsec to 168 μsec."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1432136",
+          "companyUrn": "urn:li:fsd_company:1432136",
+          "companyLink1": "https://www.linkedin.com/company/robosapiens-technologies-pvt-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHqh1surYcdyg/company-logo_400_400/company-logo_400_400/0/1676819949854/robosapiens_technologies_pvt_ltd__logo?e=1785369600&v=beta&t=thFeZCEuG93H_9jlpYhEoNuOP8yOj-cKbQJC-jTmaPo",
+          "title": "Advanced Robotics & Embedded C",
+          "subtitle": "ROBOSAPIENS TECHNOLOGIES Pvt. Ltd. . undefined",
+          "caption": "May 2014 - Jul 2014 · 2 mos",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked with Atmega 16 microcontroller and various modules like LCD, RFID, GSM, GPS, Accelerometer, Ultrasonic Distance Sensor and made various projects.\n1. Keypad Controlled Wired Robot using USB to TTL Tx Rx.\n2. RFID Module based Attendance machine, Mobile Controlled Robot.\n3. Distance measuring device using Ultrasonic Distance Sensor."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "800493",
+          "companyUrn": "urn:li:fsd_company:800493",
+          "companyLink1": "https://www.linkedin.com/school/iiitbofficial/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE_nLNex0UufA/company-logo_400_400/company-logo_400_400/0/1735036209832/iiitbofficial_logo?e=1785369600&v=beta&t=Gym0I9z6tfksbY18Y_WEJpZH9vLrrKnkMAyC0Rs6J80",
+          "title": "Post Graduate Diploma in Data Science",
+          "subtitle": "International Institute of Information Technology Bangalore",
+          "issued": "Issued Nov 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9386799",
+          "companyUrn": "urn:li:fsd_company:9386799",
+          "companyLink1": "https://www.linkedin.com/company/ueducation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeJ-2mFiqcmQ/company-logo_400_400/company-logo_400_400/0/1732599862731?e=1785369600&v=beta&t=SM1neW-nDV3iqxOx0YyxOfQH84VYYRoe8pYhvT04KIA",
+          "title": "PGDDS Course 1&2 (Statistics and EDA)",
+          "subtitle": "upGrad.com",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9386799",
+          "companyUrn": "urn:li:fsd_company:9386799",
+          "companyLink1": "https://www.linkedin.com/company/ueducation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeJ-2mFiqcmQ/company-logo_400_400/company-logo_400_400/0/1732599862731?e=1785369600&v=beta&t=SM1neW-nDV3iqxOx0YyxOfQH84VYYRoe8pYhvT04KIA",
+          "title": "PGDDS Course 3 (Machine Learning 1)",
+          "subtitle": "upGrad.com",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "The Analytics Edge",
+          "subtitle": "edX",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Big Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Deep Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NoSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "800493",
+          "companyUrn": "urn:li:fsd_company:800493",
+          "companyLink1": "https://www.linkedin.com/school/iiitbofficial/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE_nLNex0UufA/company-logo_400_400/company-logo_400_400/0/1735036209832/iiitbofficial_logo?e=1785369600&v=beta&t=Gym0I9z6tfksbY18Y_WEJpZH9vLrrKnkMAyC0Rs6J80",
+          "title": "International Institute of Information Technology – Bangalore",
+          "subtitle": "Post Graduate Diploma, Data Science",
+          "caption": "2018 - 2019",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.65/4 GPA"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Post Graduate Diploma in Data Science"
+            }
+          ]
+        },
+        {
+          "companyId": "15138979",
+          "companyUrn": "urn:li:fsd_company:15138979",
+          "companyLink1": "https://www.linkedin.com/school/iitropar/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEIwM5TZx2P2g/company-logo_100_100/B56ZuopWK9HcAQ-/0/1768060970648/iitropar_logo?e=1785369600&v=beta&t=wWQOxfgET1TXCU6jz3IjlED_ybRGU-6w2bw8lDeaM4k",
+          "title": "Indian Institute of Technology, Ropar",
+          "subtitle": "Bachelor’s Degree, Member of Institute's Football team,  \nClass Coordinator (Robotics Club),\nDramatics Club, \nCoding Club",
+          "caption": "2013 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "CGPA - 8.1"
+            }
+          ]
+        },
+        {
+          "title": "Birla School, Kalyan",
+          "subtitle": "High School, null",
+          "caption": "2003 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "96.5% in CBSE"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Won Outstanding Student award in Class 8th,9th and 10th.\nWas Science Topper in our school in CBSE Board Examinations"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Easycashback.co.in- The power of shopping online.",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Founder of Easycashback.tk (Startup-cum-Hobby)\nMade and individual owner of website www.easycashback.tk . \nUsers after registering on this website, earns free recharge for shopping online. \nIt has presently 350 active users.\nSuccessfully contacted various ecommerce websites for affiliate marketing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Home Appliance control using Mobile Internet Connection or SMS.",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Indian Institute of Technology, Ropar"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "User after login to their account can see the current status and control switching of their home appliances attached to switch board (containing Arduino, Ethernet Shield and GSM module in its interior)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Password based smart door lock system",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Locking based on 4 digit password entered through 4x4 keypad and display on LCD with password changing function using Atmega16 microcontroller."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sudoku Solver using Image Processing and Matlab",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Read in a Sudoku puzzle using a USB webcam, extract data from it using image processing, and solve it using a simple numerical algorithm and finally showing the completely solved Sudoku."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Switching Appliances using Facial Recognition",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Indian Institute of Technology, Ropar"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The system detects the presence of a human face and if detected, appliances automatically get switched ON and switched OFF if otherwise (Using Matlab, Arduino and laptop web camera)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Smart- TEG Chulha",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Indian Institute of Technology, Ropar"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "A complete setup to convert the waste heat generated in the village chulha into electrical energy by using thermoelectric generator (TEG) modules and storing this energy in a battery."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

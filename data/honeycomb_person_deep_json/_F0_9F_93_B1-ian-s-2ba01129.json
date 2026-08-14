@@ -1,0 +1,411 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/%F0%9F%93%B1-ian-s-2ba01129",
+  "row_key": "id:003Uk00000yS0QkIAK",
+  "person": "Ian Stewart",
+  "account": "Fitbod",
+  "fetched_at": "2026-07-14T10:35:07Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAXf6W4ByLxJHGTWiqyoDs25czmMNwfhTvQ",
+      "firstName": "📱 Ian",
+      "lastName": "S.",
+      "fullName": "📱 Ian S.",
+      "publicIdentifier": "📱-ian-s-2ba01129",
+      "headline": "Phone Wrangler",
+      "about": "Github: https://github.com/Ian-Stewart",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Los Angeles, California United States",
+      "addressWithoutCountry": "Los Angeles, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQH58WJIFxYDCQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517533375007?e=1785369600&v=beta&t=vTWj3yoz4fNgs0olI4Kzs8RQ0G4iph_7XDfJ-eRW-bc",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQHNNknX-HQY_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517533375337?e=1785369600&v=beta&t=t9-fypO405dnw_Ob57xnifz28VBhmsOg4-hMfxdmZk4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQH58WJIFxYDCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517533375013?e=1785369600&v=beta&t=glVYpvBZz82uEbWSHXyimU6QmtD5P7gBvlHHuvxyarc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQH58WJIFxYDCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517533374811?e=1785369600&v=beta&t=6cmpOW8NvSzcMxeP1h_V7gRWPuZ3ht7ma0g-Ul7OpGY"
+        },
+        {
+          "width": 337,
+          "height": 337,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQH58WJIFxYDCQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517533374884?e=1785369600&v=beta&t=L4U80b5OUMhUeQKii9yGlb8-DMpZAXodTmRl4IhnMyw"
+        },
+        {
+          "width": 337,
+          "height": 337,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQH58WJIFxYDCQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517533375007?e=1785369600&v=beta&t=vTWj3yoz4fNgs0olI4Kzs8RQ0G4iph_7XDfJ-eRW-bc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQHNNknX-HQY_w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517533375408?e=1785369600&v=beta&t=Zps2DdBxjqedKy8KjmR5PgtGZllTnHzya5ePLvDjqe8"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQHNNknX-HQY_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517533375337?e=1785369600&v=beta&t=t9-fypO405dnw_Ob57xnifz28VBhmsOg4-hMfxdmZk4"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "10213159",
+          "companyUrn": "urn:li:fsd_company:10213159",
+          "companyLink1": "https://www.linkedin.com/company/fitbod/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHN9oQ4Gv7qjQ/company-logo_400_400/company-logo_400_400/0/1640626041736/fitbod_llc_logo?e=1785369600&v=beta&t=YA00z866K5DQ9p2KvNJwxZZ5Z3z8vugIPlcEXiyTmko",
+          "title": "Senior Software Engineer",
+          "subtitle": "Fitbod  . Full-time",
+          "caption": "Jun 2024 - Present · 1 yr 7 mos",
+          "metadata": "Los Angeles, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6560261",
+          "companyUrn": "urn:li:fsd_company:6560261",
+          "companyLink1": "https://www.linkedin.com/company/morse-corp/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHubAldUl1Njg/company-logo_400_400/company-logo_400_400/0/1634149705001/morse_corp_logo?e=1785369600&v=beta&t=_W0jt4GBWdpeFnid-8YNvKmFOZlkyATGYuoXk-Kqsk4",
+          "title": "Task Lead (Android)",
+          "subtitle": "MORSE Corp . Full-time",
+          "caption": "Apr 2020 - Aug 2023 · 3 yrs 4 mos",
+          "metadata": "Cambridge, Massachusetts, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead and contributed to multiple applications from initial requirements through to release."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15027",
+          "companyUrn": "urn:li:fsd_company:15027",
+          "companyLink1": "https://www.linkedin.com/company/tripadvisor/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH7thp3L5MNPA/company-logo_400_400/B4EZfG3UmZHsAg-/0/1751388080983/tripadvisor_logo?e=1785369600&v=beta&t=GG4KkFCFMTCVFGZWdLrSfnCntp6Z-6un0ZHkPbaeEZQ",
+          "title": "Software Engineer",
+          "subtitle": "Tripadvisor . undefined",
+          "caption": "Feb 2015 - Feb 2020 · 5 yrs",
+          "metadata": "Boston, Massachusetts, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "163500",
+          "companyUrn": "urn:li:fsd_company:163500",
+          "companyLink1": "https://www.linkedin.com/company/draper/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFbLucIEKEFNA/company-logo_400_400/company-logo_400_400/0/1630521519651/draper_logo?e=1785369600&v=beta&t=8v6HXOTN5Jfc4w9rDI-ayyhYffnJGjKSFYday_UEvDE",
+          "title": "Software Engineer",
+          "subtitle": "Draper Laboratory - Precision Airdrop . undefined",
+          "caption": "May 2013 - Aug 2013 · 3 mos",
+          "metadata": "Cambridge, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Improved test harness used on flight software. Used hardware-in-the-loop simulation to determine which software components were used the most in-flight.\n\nProject Description: http://www.draper.com/profile_precision_airdrop.html"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "979302",
+          "companyUrn": "urn:li:fsd_company:979302",
+          "companyLink1": "https://www.linkedin.com/company/opfocus/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFaxnbYX942JQ/company-logo_400_400/company-logo_400_400/0/1631354923045?e=1785369600&v=beta&t=To2pPuhKBkSD0b-X9lPmPCn9tY4xLho2185b6F0bHyA",
+          "title": "Junior Developer",
+          "subtitle": "OpFocus, Inc. . undefined",
+          "caption": "Jul 2011 - Aug 2011 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "889143",
+          "companyUrn": "urn:li:fsd_company:889143",
+          "companyLink1": "https://www.linkedin.com/company/gemvara/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFk-GIKJklnkw/company-logo_400_400/company-logo_400_400/0/1631327285297?e=1785369600&v=beta&t=boRoF2etIKMoRQ7MUZdK4_DIRDE3hFk6DfLqF237K1o",
+          "title": "Software Engineer",
+          "subtitle": "Gemvara . undefined",
+          "caption": "Jun 2010 - Aug 2010 · 2 mos",
+          "metadata": "Lexington, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Wrote software to calculate royalties to replace an existing manual system. Simplified weeks­-long process to a single button Excel application."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Cloud University Dreamforce Scholarship",
+          "subtitle": "Issued by Force.com",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Given to Computer Science or Engineering students working on the Force.com platform. I was able to attend Dreamforce 2011 in San Francisco, which was a very exciting experience, as it was both my first industry event as well as my first trip to the west coast."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dean's List (Spring 2012 - Fall 2013)",
+          "subtitle": "Issued by College of Natural Sciences at UMass Amherst",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Requirements for Dean's list: student must have a GPA above 3.5 and be a full-time student. https://www.cs.umass.edu/ugrad-education/deans-list-spring-2012"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test-Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Maven",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Serialization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Patterns",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jira",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gradle",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4508",
+          "companyUrn": "urn:li:fsd_company:4508",
+          "companyLink1": "https://www.linkedin.com/school/umassamherst/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_400_400/company-logo_400_400/0/1680271203107/umassamherst_logo?e=1785369600&v=beta&t=4GnXieYx0ivNzGf4FrjSHfUJ5mgb7tm2MLVYYr0ejzA",
+          "title": "University of Massachusetts, Amherst",
+          "subtitle": "Bachelor of Science (B.S.), Computer Science",
+          "caption": "2011 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Cumulative GPA 3.7, Cum Laude"
+            }
+          ]
+        },
+        {
+          "companyId": "42793",
+          "companyUrn": "urn:li:fsd_company:42793",
+          "companyLink1": "https://www.linkedin.com/school/massachusetts-college-of-liberal-arts/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnCfE-xhTEKw/company-logo_200_200/B4EZkvSQCgHoAI-/0/1757434937885/massachusetts_college_of_liberal_arts_logo?e=1785369600&v=beta&t=I1RK572DrLCR9_a9mHLCqjfBuPzG28qTdFmhdPwg0PI",
+          "title": "Massachusetts College of Liberal Arts",
+          "subtitle": "Candidate for Bachelor of Science (BS), Computer Science",
+          "caption": "2009 - 2011",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

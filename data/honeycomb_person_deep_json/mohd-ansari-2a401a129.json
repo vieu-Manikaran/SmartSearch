@@ -1,0 +1,66 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/mohd-ansari-2a401a129",
+  "row_key": "id:003Uk00000ya7FIIAY",
+  "person": "Mohd Ansari",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:48:22Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB-BJhwB3Iq8Lqw01VhH8HXXrCIZbYeujlY",
+      "firstName": "mohd",
+      "lastName": "ansari",
+      "fullName": "mohd ansari",
+      "publicIdentifier": "mohd-ansari-2a401a129",
+      "headline": "Team Lead at Wipro",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Mumbai, Maharashtra India",
+      "addressWithoutCountry": "Mumbai, Maharashtra",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Team Lead",
+          "subtitle": "Wipro . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

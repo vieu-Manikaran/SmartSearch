@@ -1,0 +1,457 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/nishil-sharma",
+  "row_key": "id:003Uk000010ymKbIAI",
+  "person": "Nishil Sharma",
+  "account": "Lytx",
+  "fetched_at": "2026-07-14T10:21:45Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAANKdPABL8MaTGVFE1cxu5SQiLgQCuJoIVk",
+      "firstName": "Nishil",
+      "lastName": "Sharma",
+      "fullName": "Nishil Sharma",
+      "publicIdentifier": "nishil-sharma",
+      "headline": "Sr. Technical Project Manager",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Greater Bengaluru Area India",
+      "addressWithoutCountry": "Greater Bengaluru Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGWcyqZmH2BrQ/profile-displayphoto-crop_800_800/B56ZzbI3g4IYAI-/0/1773203062567?e=1785369600&v=beta&t=Ptcs8JYwOfHnqjJqaY7_O4Cc28eQDBOpXST9sRtmLs8",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGWcyqZmH2BrQ/profile-displayphoto-scale_400_400/B56ZzbI3g4IYAg-/0/1773203062657?e=1785369600&v=beta&t=-f1Z9BwBCaXhYV-xLwptk4ihSZJQwk8DGSal0sPLsSs"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGWcyqZmH2BrQ/profile-displayphoto-scale_100_100/B56ZzbI3g4IYAc-/0/1773203062657?e=1785369600&v=beta&t=WvYf97qnoeKfOzLDW-8ppwkTgKeFLKqonoEsrI7WW7I"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGWcyqZmH2BrQ/profile-displayphoto-scale_200_200/B56ZzbI3g4IYAY-/0/1773203062657?e=1785369600&v=beta&t=NQrTwBey1EAjVKWPxl3Bk_k_8Isoum5XmX3f2MbSv5Q"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGWcyqZmH2BrQ/profile-displayphoto-crop_800_800/B56ZzbI3g4IYAI-/0/1773203062567?e=1785369600&v=beta&t=Ptcs8JYwOfHnqjJqaY7_O4Cc28eQDBOpXST9sRtmLs8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "26167",
+          "companyUrn": "urn:li:fsd_company:26167",
+          "companyLink1": "https://www.linkedin.com/company/lytxinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZaBN0JHGmXA/company-logo_100_100/B4DZgJvZmdHAAQ-/0/1752510077843/lytxinc_logo?e=1785369600&v=beta&t=NfCL0oX6Zf4HwhrxEfAz-XBdQJZc0H-cdd0QkKfBThk",
+          "title": "Senior Technical Project Manager",
+          "subtitle": "Lytx, Inc. . Full-time",
+          "caption": "May 2025 - Present · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1905301",
+          "companyUrn": "urn:li:fsd_company:1905301",
+          "companyLink1": "https://www.linkedin.com/company/rxlogix-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeYKfxGRXxgw/company-logo_400_400/company-logo_400_400/0/1687893893573/rxlogix_corporation_logo?e=1785369600&v=beta&t=wO_GU5JPaStgNG3ZFqyOfkHcrYUyMPJZIn6HMH9f4lI",
+          "title": "Technical Project Manager",
+          "subtitle": "RxLogix Corporation . Full-time",
+          "caption": "May 2022 - May 2025 · 3 yrs",
+          "metadata": "Bengaluru",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1756",
+          "companyUrn": "urn:li:fsd_company:1756",
+          "companyLink1": "https://www.linkedin.com/company/hcltech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_400_400/company-logo_400_400/0/1664197008220/hcltech_logo?e=1785369600&v=beta&t=dwz9JqWaaaU9k2Z0ZsatF50OZfVGGUJYNoAu0xrodkM",
+          "title": "Project Lead",
+          "subtitle": "HCLTech . Full-time",
+          "caption": "Nov 2019 - May 2022 · 2 yrs 6 mos",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "17962490",
+          "companyUrn": "urn:li:fsd_company:17962490",
+          "companyLink1": "https://www.linkedin.com/company/xperi-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGaeweWTOeAvg/company-logo_400_400/company-logo_400_400/0/1689185917515/xperi_inc_logo?e=1785369600&v=beta&t=k32NOn19527E0ewg51otOkSacRXetUJHFYQzVTKypXI",
+          "title": "Technical Lead",
+          "subtitle": "Xperi Inc. . Full-time",
+          "caption": "Jul 2017 - Nov 2019 · 2 yrs 4 mos",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "13677",
+          "companyUrn": "urn:li:fsd_company:13677",
+          "companyLink1": "https://www.linkedin.com/company/aris-global/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGdB5-e4s7Gug/company-logo_400_400/company-logo_400_400/0/1630506661960/aris_global_logo?e=1785369600&v=beta&t=Xf_Ca9RTEOXjvgNdwnS7CC7wUU7bF6aQEh3ZAFGXjoo",
+          "title": "Senior Solutions Analyst",
+          "subtitle": "ArisGlobal . Full-time",
+          "caption": "Nov 2012 - Jun 2017 · 4 yrs 7 mos",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9215331",
+          "companyUrn": "urn:li:fsd_company:9215331",
+          "companyLink1": "https://www.linkedin.com/company/accentureindia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=1785369600&v=beta&t=KemHTCvHrcx5vi9tcf4aye-TMkoZVEijO3UX8vVdZus",
+          "title": "Implementation Specialist",
+          "subtitle": "Accenture in India . Full-time",
+          "caption": "Apr 2010 - Feb 2012 · 1 yr 10 mos",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Responsible for In-depth analysis of implementation request and issues for global clients hosted on SAAS Platform.\n- Responsible for Implementation of resolution for global clients as per the SOP's.\n- Administer and provision user Application accounts for global clients.\n- Use the Incident Management System to document and manage problems and work requests and their respective resolutions and circumvention's.    \n- Involved in crucial investigation of priority cases and diagnosis for to development team for investigation."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5390798",
+          "companyUrn": "urn:li:fsd_company:5390798",
+          "companyLink1": "https://www.linkedin.com/company/hp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJUaQAv2kVcQ/company-logo_100_100/B56ZViAo6QHoAQ-/0/1741106089999/hp_logo?e=1785369600&v=beta&t=WNUPlq-nS4H7hFa4t0-MHT_A1xzJ-MogO4WhbX1im-8",
+          "title": "Technical Solutions Specialist",
+          "subtitle": "HP . Full-time",
+          "caption": "Sep 2008 - Apr 2010 · 1 yr 7 mos",
+          "metadata": "Bangalore Urban, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Providing remote technical solutions to the Global Clients.\n- Implementing solutions recommended by the senior IT resources.\n- Determine the business impact in case of Critical situations in the Client IT Infrastructure\n- Delivering quality Infrastructure IT services for client like Unilever, BT & Microsoft.\n- Aligning goals in line with the Quality and Technical metrics designed forecasting the weekly, monthly and quarterly objectives of the organization."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Introduction to Cybersecurity",
+          "subtitle": "Cisco",
+          "issued": "Issued Aug 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5383",
+          "companyUrn": "urn:li:fsd_company:5383",
+          "companyLink1": "https://www.linkedin.com/company/skillsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEEQZ51JSF9Hg/company-logo_200_200/B56Zwjho9QJEAI-/0/1770122547348/skillsoft_logo?e=1785369600&v=beta&t=QbD-21RWwUiegqgr2GQnkFcxpwwgdPkd45waGs_KwkY",
+          "title": "Kubernetes Administrator: Cluster Installation & Configuration",
+          "subtitle": "Skillsoft",
+          "issued": "Issued May 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5383",
+          "companyUrn": "urn:li:fsd_company:5383",
+          "companyLink1": "https://www.linkedin.com/company/skillsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEEQZ51JSF9Hg/company-logo_200_200/B56Zwjho9QJEAI-/0/1770122547348/skillsoft_logo?e=1785369600&v=beta&t=QbD-21RWwUiegqgr2GQnkFcxpwwgdPkd45waGs_KwkY",
+          "title": "Kubernetes Administrator: Managing Highly-available Clusters",
+          "subtitle": "Skillsoft",
+          "issued": "Issued May 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5383",
+          "companyUrn": "urn:li:fsd_company:5383",
+          "companyLink1": "https://www.linkedin.com/company/skillsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEEQZ51JSF9Hg/company-logo_200_200/B56Zwjho9QJEAI-/0/1770122547348/skillsoft_logo?e=1785369600&v=beta&t=QbD-21RWwUiegqgr2GQnkFcxpwwgdPkd45waGs_KwkY",
+          "title": "Kubernetes Administrator: Underlying Cluster Infrastructure",
+          "subtitle": "Skillsoft",
+          "issued": "Issued Apr 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5383",
+          "companyUrn": "urn:li:fsd_company:5383",
+          "companyLink1": "https://www.linkedin.com/company/skillsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEEQZ51JSF9Hg/company-logo_200_200/B56Zwjho9QJEAI-/0/1770122547348/skillsoft_logo?e=1785369600&v=beta&t=QbD-21RWwUiegqgr2GQnkFcxpwwgdPkd45waGs_KwkY",
+          "title": "Kubernetes Administrator: Kubernetes Fundamentals for Administrators",
+          "subtitle": "Skillsoft",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "AWS Cloud Migration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Anthropic Claude",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Project Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cybersecurity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jira",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CI/CD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Red Hat Enterprise Linux (RHEL)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RabbitMQ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Solutions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software as a Service (SaaS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15118224",
+          "companyUrn": "urn:li:fsd_company:15118224",
+          "companyLink1": "https://www.linkedin.com/school/saurashtra-university-rajkot/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGyXTwEfvrB7Q/company-logo_400_400/company-logo_400_400/0/1661665600840/saurashtra_university_rajkot_logo?e=1785369600&v=beta&t=7bOssxF4lffmdO-HidYba2mZK6BOiWJfGlLzoFqChS4",
+          "title": "Saurashtra University, Rajkot",
+          "subtitle": "Bachelor of Engineering - BE, Information Technology",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

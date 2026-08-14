@@ -1,0 +1,849 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/aanandshekharroy",
+  "row_key": "id:003Uk00000ydJPMIA2",
+  "person": "Aanand Roy",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:25Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABXATnMBOfihX_-Ld7R4P3crQJsxm6YNlDw",
+      "firstName": "Aanand",
+      "lastName": "Roy",
+      "fullName": "Aanand Roy",
+      "publicIdentifier": "aanandshekharroy",
+      "headline": "Senior Software Engineer @ Yelp | Generative AI & Search Infrastructure",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Montreal, Quebec Canada",
+      "addressWithoutCountry": "Montreal, Quebec",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQHU44HXz9-37g/profile-displayphoto-shrink_200_200/B4EZzVwbSKJEAY-/0/1773112767985?e=1785369600&v=beta&t=ApeJ2UZaidHp-z5O-erFVmQdpc_1qofzQ8iIl2ngcTQ",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQFEPyE-Z0LjYQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1617849528327?e=1785369600&v=beta&t=x97wZKSYYiM3jmEQHgYBRcARs-iTa96BjGZKATBYf4E",
+      "profilePicAllDimensions": [
+        {
+          "width": 560,
+          "height": 560,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHU44HXz9-37g/profile-displayphoto-shrink_800_800/B4EZzVwbSKJEAc-/0/1773112767985?e=1785369600&v=beta&t=8N2Pb-5ZP56fddZ28lB1JYtIDr7SyLQrA1bO71TgPLQ"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHU44HXz9-37g/profile-displayphoto-shrink_100_100/B4EZzVwbSKJEAU-/0/1773112767974?e=1785369600&v=beta&t=sA_rVlh_1XZbulFS6xPmjSoD9GhqR4CYfrurxjS6jdQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHU44HXz9-37g/profile-displayphoto-shrink_400_400/B4EZzVwbSKJEAg-/0/1773112767985?e=1785369600&v=beta&t=Ud-Ihx1ZuRQHgHudhnJ4DQjMWitKOT5Sg-tsIVpk6VI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHU44HXz9-37g/profile-displayphoto-shrink_200_200/B4EZzVwbSKJEAY-/0/1773112767985?e=1785369600&v=beta&t=ApeJ2UZaidHp-z5O-erFVmQdpc_1qofzQ8iIl2ngcTQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFEPyE-Z0LjYQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1617849528327?e=1785369600&v=beta&t=HQ7rvSNGH8UJStFnrDm-GsyV7TTDxTeGFrEQfkgEpwQ"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFEPyE-Z0LjYQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1617849528327?e=1785369600&v=beta&t=x97wZKSYYiM3jmEQHgYBRcARs-iTa96BjGZKATBYf4E"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Permanent Full-time · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer @ Search Quality | Generative AI & Search Infrastructure",
+              "caption": "Nov 2023 - Present · 2 yrs 2 mos",
+              "metadata": "Montreal, Quebec, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Driving innovation in search by leveraging generative AI to deliver highly relevant, precisely ranked results and building conversational search experiences."
+                }
+              ]
+            },
+            {
+              "title": "Tech Lead - SearchUX",
+              "caption": "Sep 2022 - Nov 2023 · 1 yr 2 mos",
+              "metadata": "Kitchener, Ontario, Canada",
+              "description": []
+            },
+            {
+              "title": "Software Engineer - Search UX",
+              "caption": "Mar 2021 - Sep 2022 · 1 yr 6 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2638481",
+          "companyUrn": "urn:li:fsd_company:2638481",
+          "companyLink1": "https://www.linkedin.com/company/joist/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE0x1Rn4A4K6g/company-logo_400_400/company-logo_400_400/0/1630539822489/joist_logo?e=1785369600&v=beta&t=y4U7luTOvm09XXj7m2qUXPq51i5WRDZnKJDFkF54NYc",
+          "title": "Joist",
+          "subtitle": "Full-time · 2 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Android Engineer",
+              "caption": "Jan 2020 - Mar 2021 · 1 yr 2 mos",
+              "metadata": "Toronto, Canada Area",
+              "description": []
+            },
+            {
+              "title": "Android Engineer",
+              "caption": "Jan 2019 - Dec 2019 · 11 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "16135643",
+          "companyUrn": "urn:li:fsd_company:16135643",
+          "companyLink1": "https://www.linkedin.com/company/pushcoin/",
+          "title": "Senior Android developer",
+          "subtitle": "PushCoin . undefined",
+          "caption": "Mar 2018 - Apr 2019 · 1 yr 1 mo",
+          "metadata": "Geneva, Illinois",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Developed a Point-of-Sale Android application from scratch in Kotlin, for school canteens in the U.S.A.\n* App caters to more than a million users of 400+schools and processes more than a million transactions per month.\n* Reduced checkout time by implementing new checkout flow.\n* Used MVP architecture with RxJava 2, Dagger 2 and Room for local database."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4827017",
+          "companyUrn": "urn:li:fsd_company:4827017",
+          "companyLink1": "https://www.linkedin.com/company/upwork/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFHVb6ZSCipCw/company-logo_400_400/company-logo_400_400/0/1727104517379/upwork_logo?e=1785369600&v=beta&t=ttCPWQw-s09wvi35eSGOpawTHqtw5Ud9e12C3YcAeSM",
+          "title": "Freelance Android/iOS developer",
+          "subtitle": "Upwork . undefined",
+          "caption": "Jul 2017 - Apr 2019 · 1 yr 9 mos",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed Android apps for various startups of domains ranging from entertainment, education and social network.\n• Earned the \"Top Rated\" developer badge on Upwork with 100% Job Success Score.\n• All 5-star ratings on Upwork.\n• Few of the reviews:\n    ○ Anand is excellent! He is knowledgeable and has the patience to teach a newbie, Will hire him again if needed.\n    ○ 100% Recommend Aanand!\n    ○ Freelancer is very professional and was very flexible with us. I highly recommend Aanand.\n    ○ Great guy! advises, quick, and high quality!\n● Profile link: https://www.upwork.com/o/profiles/users/_~0170feff0c983e88bf/"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Mentor and Code reviewer",
+          "subtitle": "Udacity . undefined",
+          "caption": "Jun 2017 - Jan 2019 · 1 yr 7 mos",
+          "metadata": "New Delhi Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Udacity Mentor for Associate Android Developer Fast Track Program.\n• Associate Android Developer Fast Track Program is designed to teach exactly what you need to know to successfully pass the Associate Android Developer Certification Exam from Google."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "24630",
+          "companyUrn": "urn:li:fsd_company:24630",
+          "companyLink1": "https://www.linkedin.com/company/packt-publishing/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHQJ2HdIyeLWg/company-logo_400_400/company-logo_400_400/0/1653389017535/packt_publishing_logo?e=1785369600&v=beta&t=YGyrC7CZa0WWtM_S-7D_XENahSL7xM2hawUYC4P5dzU",
+          "title": "Author",
+          "subtitle": "Packt . undefined",
+          "caption": "Sep 2017 - Feb 2018 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Author of \"Kotlin Programming Cookbook\" (ISBN13 9781788472142). Published on February 6'18.\n* Book includes recipes related to Android development in Kotlin."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13192751",
+          "companyUrn": "urn:li:fsd_company:13192751",
+          "companyLink1": "https://www.linkedin.com/company/bevesto/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHzjBeQvP59Rg/company-logo_400_400/company-logo_400_400/0/1631340860612?e=1785369600&v=beta&t=xUQ6V_YMqNAx9rL82cLZZ8AB2meZpFAcwuhz_3NB8lQ",
+          "title": "Co-founder",
+          "subtitle": "Bevesto . undefined",
+          "caption": "Jul 2016 - Jan 2017 · 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Founded a startup that provides market research to startups and companies with the help of automated tools and online panel.\n• Developed the back - end of the platform using Laravel (MVC) framework of Php .\n• 70 market research tasks completed.\n• Worked on marketing, operations, promotions and development of Bevesto.\n• Won the national level entrepreneurship competition , Fast - Forward, held at IIM Bangalore."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Introduction to TensorFlow for Artificial Intelligence",
+          "subtitle": "Coursera",
+          "issued": "Issued Jul 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Introduction to Financial Accounting",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Introduction to Marketing",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Managing Social and Human Capital",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning: Clustering & Retrieval",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Jul 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning: Classification",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Mar 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Interactivity with JavaScript",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Feb 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning: Regression",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Dec 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Introduction to Big Data",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Nov 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning Foundations: A Case Study Approach",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Nov 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Android Developer Nanodegree",
+          "subtitle": "Udacity",
+          "issued": "Issued Apr 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2584",
+          "companyUrn": "urn:li:fsd_company:2584",
+          "companyLink1": "https://www.linkedin.com/school/university-of-washington/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEYQ5hvFAZ8gQ/company-logo_100_100/B56Z6Q4H2JKMAI-/0/1780547092074?e=1785369600&v=beta&t=G4jao4VWBJPSjflbqz9J5B_KUgYTjiUzm8BUhVaPbzo",
+          "title": "Machine Learning specialization, Machine Learning",
+          "subtitle": "University of Washington",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Honor Code Certificate for Introduction to Computer Science and Programming Using Python",
+          "subtitle": "edX",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Honor Code Certificate for Introduction to Linux",
+          "subtitle": "edX",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Coursera",
+          "subtitle": "Mentor",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Earned Top Rated Developer badge on Upwork",
+          "subtitle": "Issued by Upwork",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Earned the Top rated developer badge on Upwork.\n•  “Top Rated” status is earned by building an impressive reputation on Upwork. You must have a proven history of success with multiple clients, delight your clients every time with high-quality work, and contribute to a safe and vibrant marketplace by knowing and following the Upwork \n• Profile link: https://www.upwork.com/freelancers/~0170feff0c983e88bf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Won the national level entrepreneurship competition, Fast-Forward , held at IIM Bangalore.",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scholarship by Tata Trusts & Google India",
+          "subtitle": "Issued by Tata Trusts & Google India",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Received scholarship by Tata Trusts & Google India for the Udacity Android Developer Nanodegree program.\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "TensorFlow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kotlin",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Entrepreneurship",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "startups",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unit Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2584",
+          "companyUrn": "urn:li:fsd_company:2584",
+          "companyLink1": "https://www.linkedin.com/school/university-of-washington/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEYQ5hvFAZ8gQ/company-logo_100_100/B56Z6Q4H2JKMAI-/0/1780547092074?e=1785369600&v=beta&t=G4jao4VWBJPSjflbqz9J5B_KUgYTjiUzm8BUhVaPbzo",
+          "title": "University of Washington",
+          "subtitle": "Machine Learning specialization, Machine Learning",
+          "caption": "2015 - 2017",
+          "subComponents": []
+        },
+        {
+          "title": "Coursera",
+          "subtitle": "DeepLearning.AI TensorFlow Developer, Deep Learning",
+          "caption": "Jul 2022 - Aug 2022",
+          "subComponents": []
+        },
+        {
+          "companyId": "15096633",
+          "companyUrn": "urn:li:fsd_company:15096633",
+          "companyLink1": "https://www.linkedin.com/school/indian-institute-of-information-technology-design-and-manufacturing-jabalpur/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG2LjL0bUoxvA/company-logo_400_400/company-logo_400_400/0/1631329367246?e=1785369600&v=beta&t=ytCQAB-OYwKowAHGnVoo1zvVfgzjRGounq7jqdQuE2s",
+          "title": "Indian Institute of Information Technology, Design and Manufacturing, Jabalpur",
+          "subtitle": "Bachelor of Technology (B.Tech.), Computer Science",
+          "caption": "2013 - 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "10132140",
+          "companyUrn": "urn:li:fsd_company:10132140",
+          "companyLink1": "https://www.linkedin.com/school/wharton-online/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQESwPxGyVRzpw/company-logo_400_400/company-logo_400_400/0/1634665776561/wharton_online_logo?e=1785369600&v=beta&t=ZS3YpU1657eLtaNpHgLahjjx8u8ReWzhwtXPSqWN0-c",
+          "title": "Wharton Online",
+          "subtitle": "Business Foundations Specialization, Business/Commerce, General",
+          "caption": "2020 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Course Certificates Completed:\n\n* Introduction to Marketing\n* Introduction to Financial Accounting\n* Managing Social and Human Capital\n* Introduction to Corporate Finance\n* Introduction to Operations Management\n* Wharton Business Foundations Capstone"
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Udacity",
+          "subtitle": "Android Developer Nanodgree, Android development",
+          "caption": "2016 - 2017",
+          "subComponents": []
+        },
+        {
+          "title": "D.A.V Public School,Ghaziabad",
+          "subtitle": "High School, Debate",
+          "caption": "2005 - 2010",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "9 CGPA"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Mentor",
+          "subtitle": "Coursera",
+          "caption": "Jun 2016 - Jan 2018 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Car-tegories: Road Trip Category Game",
+          "subtitle": "Jun 2018 - Jun 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The client already had the game developed on iOS platform, he wanted to bring it to the Android. The Android version was lagging behind in updates, so I had the responsibility to match up the iOS progress.\n• Added In-app purchases in the app.\n• Integrated the app with Firebase real-time database.\n• Updated user-interfaces to match the iOS version.\n• Added firebase services like Crashlytics, FIrebase analytics etc\n• Launched it on the play store"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Go Ubiquitous",
+          "subtitle": "Jan 2017 - Jan 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "•  Built a watch face for Android Wear so users can access Sunshine's weather information at a glance.\n•  App works on both round and square face watches."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Build It Bigger",
+          "subtitle": "Nov 2016 - Nov 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• Used Gradle to build a joke-telling app that has both a free and paid version. This included factoring functionality into libraries as well as using build flavors to modularize the construction of each variant of the app. \n• Configured a Google Cloud Endpoints development server to supply the jokes.\n• Use the Gradle App Engine plugin to deploy a backend\n• Configure an integration test suite that runs against the local App Engine development server\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Movie app",
+          "subtitle": "Jun 2016 - Jun 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• Built an app, optimized for tablets, to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. \n• App utilizes core Android user interface components and fetches movie information using themoviedb.org web API.\n• Implemented sync adapter to sync the data in a battery optimized and efficient manner.\n• Technologies/Libraries : Android, JAVA, Butterknife, Volley, SQLiteDatabase\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Concept Office",
+          "subtitle": "Aug 2017 - Nov 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Developed the Android version of Concept Office app.\n• The app was fully developed using Kotlin as the language. \n• Used MVP architecture with RxJava2 and Dagger2.\n• Integrated the app with FIrebase database as the backend."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Consciously.Life app UI/UX",
+          "subtitle": "Aug 2017 - Sep 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Developed app screens for Consciously.Life\n• Built UI/UX for signup, content-creation, data-analysis and e-commerce flow.\n• Developed an Invision prototype for visualization of the flow.\n•  Invision prototype: https://invis.io/X7DFAF1WF\n• All screens : https://drive.google.com/drive/folders/0B5gJQ0GzBOGLR3dwcl8yV1AtRjQ?usp=sharing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Frell",
+          "subtitle": "Jan 2017 - Apr 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• Developed a social selling app to buy and sell among friends.\n• Implemented a JWT token-based REST API using Laravel framework of Php.\n• Implemented services, networking, content provider using SQLite for offline usage and sync mechanism for the app.\n• Implemented Firebase services like Firebase Cloud Messaging, Analytics, Crash reporting .\n• Technologies used: Android, Networking, Java, GSON, Volley, Firebase, Stetho, Picasso, SQLite, REST api.\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

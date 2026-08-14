@@ -1,0 +1,430 @@
+{
+  "linkedin_url": "https://br.linkedin.com/in/victorcmoura",
+  "row_key": "id:003Uk00000ydEjbIAE",
+  "person": "Victor Moura",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:53Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB0iVOkBn9-NOZDp4jvAAP8cNs0dE0KlH-8",
+      "firstName": "Victor",
+      "lastName": "Moura",
+      "fullName": "Victor Moura",
+      "publicIdentifier": "victorcmoura",
+      "headline": "Senior Software Engineer at Coinbase",
+      "about": "As an experienced software engineer, I have a proven track record of delivering exceptional results. With extensive experience in software development, I possess a deep understanding of various programming languages and frameworks, as well as a keen eye for detail and problem-solving skills. I am always seeking to stay ahead of the curve, and I am constantly refining my skills to deliver the highest quality work.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "BR",
+        "language": "pt"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Brazil",
+      "addressWithCountry": "Brasília, Federal District Brazil",
+      "addressWithoutCountry": "Brasília, Federal District",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHPjA0KxaMvng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730752499086?e=1785369600&v=beta&t=0aJXO26vyTQgPXLXzHrvU5uZBMldPbirMuOdOjlUBug",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQHEN65uhaorTg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730752287239?e=1785369600&v=beta&t=V2IqpR0G8sgNVzm-PcS31uPe4AmGw8fQt0SIrxI3Lh0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHPjA0KxaMvng/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730752499052?e=1785369600&v=beta&t=ucKwI3gCnLk9DKiFxQ1T268wuXrbfDXZkMH-fFWY0a4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHPjA0KxaMvng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730752499052?e=1785369600&v=beta&t=mhPOFY4f5OAEvjr8VYQi6oW-toV2NvP1jdkHdtbls7U"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHPjA0KxaMvng/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730752499052?e=1785369600&v=beta&t=t4NtdspY8uNVXbmYQlHm9wL7eCYqj7DilVrJOvP4iS8"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHPjA0KxaMvng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730752499086?e=1785369600&v=beta&t=0aJXO26vyTQgPXLXzHrvU5uZBMldPbirMuOdOjlUBug"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQHEN65uhaorTg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1730752287239?e=1785369600&v=beta&t=iycW1lYSlnbdmHrEmwN0V_la31EV5qPbOoanKMin414"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQHEN65uhaorTg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730752287239?e=1785369600&v=beta&t=V2IqpR0G8sgNVzm-PcS31uPe4AmGw8fQt0SIrxI3Lh0"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 1 yr 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2026 - Present · ",
+              "metadata": "Brasil",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Oct 2024 - Jan 2026 · 1 yr 3 mos",
+              "metadata": "Brasil",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Maintainer of an internal blockchain investigation platform that processes data from a variety of networks to detect and prevent illegal activity;\n- Optimized Databricks jobs, SQL queries, and StarRocks tables to achieve a 10x latency reduction for highly available backend endpoints that support investigations in networks with billions of transactions;\n- Scaled system throughput by 4,000x through a re-architecture of the data serving layer, maintaining 99.9% availability under high-volume workloads;\n- Strengthened on-call standards by prioritizing root-cause resolution for recurrent anomalies, significantly reducing team toil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Amazon",
+          "subtitle": "Full-time · 3 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Development Engineer II",
+              "caption": "Oct 2023 - Oct 2024 · 1 yr",
+              "metadata": "São Paulo, Brazil",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Led a pivotal project on automating time-sensitive data privacy compliance workflows (related to LGPD, GDPR, CCPA, etc.). Collaborated closely with senior and principal engineers to resolve a complex data traceability challenge while reworking internal services, designing new integrations, and updating security reviews;\n- Designed and implemented a test override management system with a time-to-live capability to address temporary third-party-induced failures, reducing the need for manual interventions in the CI/CD pipeline and enhancing deployment efficiency."
+                }
+              ]
+            },
+            {
+              "title": "Software Development Engineer I",
+              "caption": "Apr 2021 - Sep 2023 · 2 yrs 5 mos",
+              "metadata": "São Paulo, Brazil",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Member of the International Technology (INTech) team, powering highly available services for Tax & Invoicing in multiple countries for millions of active users;\n- Part of the on-call rotation for critical services that enable LATAM business lines;\n- Developed a solution that optimizes data storage and significantly reduces costs for invoicing in amazon.com.mx;\n- Designed and implemented automatized Chaos Engineering experiments to continuously test core resilience mechanisms for services in LATAM;\n- Led Engineering Excellence & Operational Excellence efforts (Load Testing, Game Days, Chaos Testing, Pre-emptive Scaling, etc) to prepare critical services for peak events (Black Friday 2022, Prime Day 2023, Black Friday 2023), in which no incidents were reported."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "22326475",
+          "companyUrn": "urn:li:fsd_company:22326475",
+          "companyLink1": "https://www.linkedin.com/company/brelo-tech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFMs6WV-wNDMg/company-logo_400_400/company-logo_400_400/0/1630632636754/flexipag_logo?e=1785369600&v=beta&t=q3rz61kLX64PdlZptSN5u4qKtScy7htsN0nUZy-6F1g",
+          "title": "DevOps Engineer",
+          "subtitle": "Brelo . Full-time",
+          "caption": "May 2020 - Apr 2021 · 11 mos",
+          "metadata": "San Paolo, SP",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Designed and executed infrastructure live migration (no downtime) from a single instance in DigitalOcean to multi-region AWS architecture (S3, ELB, Route 53, ECS, RDS) managed with IaC (Terraform), processing millions of transactions per day;\n- Implemented multi-environment CI/CD pipelines that enabled daily releases with little to no operational load;\n- Automatized critical financial processes that powered core business with Python Django jobs;\n- Provided technical support to the Customer Service team: internal investigations, mitigating customer impact, etc;"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "35614466",
+          "companyUrn": "urn:li:fsd_company:35614466",
+          "companyLink1": "https://www.linkedin.com/company/lab-livre/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPqYGfOulB9Q/company-logo_100_100/B4DZU5ZfGMHYAQ-/0/1740424737607/lappis_rocks_logo?e=1785369600&v=beta&t=VyUHooTPZvKAjVkDcOn3pmDGPSP9-Hwxzs6JH41cS_U",
+          "title": "Software Engineer",
+          "subtitle": "LAPPIS . Part-time",
+          "caption": "Jul 2017 - Oct 2019 · 2 yrs 3 mos",
+          "metadata": "Brasília, Federal District, Brazil",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "LAPPIS (Advanced Software Production, Research and Innovation Laboratory) is a university lab that partners with public institutions to develop innovative software products. As a member of the lab, I participated in a 2-years project with the Brazilian Ministry of Citizenship by:\n  - Developing Python-based back-ends (REST APIs) to multiple services;\n  - Designing DevOps pipelines and optimizing existing ones;\n  - Brainstorming on new features and validating them with the stakeholders;\n  - Sharing gathered knowledge with the community in events as PyData and Campus Party;"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Español",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Português",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databricks Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "StarRocks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Protocol Buffers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Back-End Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chaos Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Open-Source Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Open-Source Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Privacy Law",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Privacy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Privacy Best Practices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Privacy Risk Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Writing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Functionality",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Vision",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Interpersonal Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "312647",
+          "companyUrn": "urn:li:fsd_company:312647",
+          "companyLink1": "https://www.linkedin.com/school/universidade-de-bras-lia/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQExCz_Zuyq6Uw/company-logo_400_400/company-logo_400_400/0/1631312441378?e=1785369600&v=beta&t=sthp5v6wZ9G7HxDeOkQL0Pz9eY_9c5707U8begQMAMg",
+          "title": "Universidade de Brasília",
+          "subtitle": "Bachelor of Software Engineering, Computer Software Engineering",
+          "caption": "2015 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "4.2945 (5.0 max)"
+            },
+            {
+              "type": "insightComponent",
+              "text": "- Built solid knowledge and practical experience with Data Structures and Algorithms by participating in Competitive Programming contests;\n- Engaged in teaching assistant activities for software engineering courses (Algorithms and Data Structures, Software Development Methodologies, Object Oriented Programming, Maintenance and Evolution of Software);\n\nBachelor's Thesis: Improved Watchtower, a DevOps open-source project, by creating a feature that reduces the tool's network usage by 99%."
+            }
+          ]
+        },
+        {
+          "companyId": "239895",
+          "companyUrn": "urn:li:fsd_company:239895",
+          "companyLink1": "https://www.linkedin.com/school/uspoficial/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEEty1xF9jFog/company-logo_100_100/B4EZVMm.k3HMAc-/0/1740747041633/uspoficial_logo?e=1785369600&v=beta&t=dNp-ytKRf_gbd3N2XgwGZ9JWwjahnWt9ALK1h3I4zVE",
+          "title": "Universidade de São Paulo",
+          "subtitle": "Graduate Studies in Computer Science (Summer Special Student), null",
+          "caption": "2020 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "- Contributed with a bike traffic model for a smart city simulator;\n- Mapped São Paulo cycling infrastructure data to enrich the existing map used in the simulator."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "312647",
+          "companyUrn": "urn:li:fsd_company:312647",
+          "companyLink1": "https://www.linkedin.com/school/universidade-de-bras-lia/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQExCz_Zuyq6Uw/company-logo_400_400/company-logo_400_400/0/1631312441378?e=1785369600&v=beta&t=sthp5v6wZ9G7HxDeOkQL0Pz9eY_9c5707U8begQMAMg",
+          "title": "Student Teaching Assistant",
+          "subtitle": "Universidade de Brasília",
+          "caption": "Aug 2016 - Dec 2020 · 4 yrs 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

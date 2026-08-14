@@ -1,0 +1,580 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/joe-sandom",
+  "row_key": "id:0033l00002uAmqxAAC",
+  "person": "Joe Sandom",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:14Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABgul8gB85HnJbrFxNZ_oEJdoZCkiH2evyQ",
+      "firstName": "Joe",
+      "lastName": "Sandom",
+      "fullName": "Joe Sandom",
+      "publicIdentifier": "joe-sandom",
+      "headline": "Technical Lead @ Linaro",
+      "about": "An experienced embedded engineer, specialised in developing safety critical software on a range of hardware platforms (Nvidia Jetson, NXP IMX, Qualcomm Snapdragon, Ambarella CV series, Beaglebone, Raspberry Pi, STM32).\n\nKey Skills;\n- Linux device driver development (I2C, SPI, V4L2, UART, Image Sensor, Industrial IO open source contributor - AMS TSL2591)\n\n- Image sensor development (Selection and evaluation process, driver development, ISP integration, tuning, lens selection)\n\n- Video/Audio capture and streaming (Gstreamer, HW accelerated encoding/decoding, SRT, UDP, TCP, WebRTC, RTP, RTSP)\n\n- Yocto (BSP bring up, recipes, bbclasses, meta-layers) and Buildroot\n\n- Linux systems & bootloaders (systemd, initramfs, u-boot, FIT image, networking, disk encryption, RFS verification, secure chain of trust, logging, RFS update)",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Public Safety",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFDwgeY6wJAHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678999029154?e=1785369600&v=beta&t=mFEsOfpe3JC-nZq3pKsMWyHW-BLhg-4UXCdxeyXYDHA",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQG4TgMQQADA9g/profile-displaybackgroundimage-shrink_350_1400/B4EZp1DpKgGoAY-/0/1762900483337?e=1785369600&v=beta&t=9LqWZqH0NKXWmDH7Lkxsb0WmMbFYcBekA9xfXeCJwes",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFDwgeY6wJAHA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678999029154?e=1785369600&v=beta&t=s8KdftYql_7tBG7G3p7jzCtNvzoQNJlYhaZRDtCMEFE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFDwgeY6wJAHA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1678999029154?e=1785369600&v=beta&t=BSW81vbZfLTZO2CUKoetusYwJ8wbNAF9iFhE2ssQFRo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFDwgeY6wJAHA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678999029154?e=1785369600&v=beta&t=VbFrWY8sbzs4rAaONo-zXHZpqA8Vmsr2c-1x8YrFrcg"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFDwgeY6wJAHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678999029154?e=1785369600&v=beta&t=mFEsOfpe3JC-nZq3pKsMWyHW-BLhg-4UXCdxeyXYDHA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQG4TgMQQADA9g/profile-displaybackgroundimage-shrink_200_800/B4EZp1DpKgGoAU-/0/1762900483337?e=1785369600&v=beta&t=X_9Wcbz9oqIAF25FQ7eSHjR9wPUeChAk7ul5zTXHPE0"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQG4TgMQQADA9g/profile-displaybackgroundimage-shrink_350_1400/B4EZp1DpKgGoAY-/0/1762900483337?e=1785369600&v=beta&t=9LqWZqH0NKXWmDH7Lkxsb0WmMbFYcBekA9xfXeCJwes"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1026961",
+          "companyUrn": "urn:li:fsd_company:1026961",
+          "companyLink1": "https://www.linkedin.com/company/linaro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE8jwhbYwa4AQ/company-logo_400_400/company-logo_400_400/0/1715688923311/linaro_logo?e=1785369600&v=beta&t=hEsRWnzQ-QFyeEhRPjTnil0SbhiGuIPBPFBMnsSNOzg",
+          "title": "Linaro",
+          "subtitle": "Full-time · 1 yr 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Lead",
+              "caption": "Jan 2025 - Present · 1 yr",
+              "metadata": "Greater London",
+              "description": []
+            },
+            {
+              "title": "Senior Embedded Linux Engineer",
+              "caption": "Sep 2024 - Jan 2025 · 4 mos",
+              "metadata": "Greater London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2079755",
+          "companyUrn": "urn:li:fsd_company:2079755",
+          "companyLink1": "https://www.linkedin.com/company/jenoptik-smart-mobility-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEt8eFRNcVE4Q/company-logo_400_400/company-logo_400_400/0/1630532310996/jenoptik_safety_and_security_logo?e=1785369600&v=beta&t=Qb34_SCqqITwr_b3hXIr4ArigcbZNr6eYoDneQ-c1aI",
+          "title": "Hardware Platform Lead",
+          "subtitle": "JENOPTIK Smart Mobility Solutions . Full-time",
+          "caption": "May 2023 - Oct 2024 · 1 yr 5 mos",
+          "metadata": "Camberley, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Working in the ITS market delivering video based edge computing systems with AI capabilities\n- Hardware/Platform team leader, responsible for the delivery of Camera, Radar and LiDAR systems\n- Line manage a distributed team of 7 engineers across electronics, embedded software, firmware, optics, radar and LiDAR specialists\n- Technical contributor focussing on Embedded Linux development, BSP development using Buildroot and Yocto, Linux Kernel driver development, Hardware bring-up\n- Working closely with product/project management to define work items and deliverables\n- Working closely with internal and external production/manufacturing teams to ensure the quality of our products and dealing with EOL components\n- Collaborate with R&D Architects and Team Leaders to define novel solutions to complex issues"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 4 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Embedded Engineering Manager",
+              "caption": "Jun 2022 - May 2023 · 11 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Embedded Software Engineer",
+              "caption": "Feb 2020 - Jun 2022 · 2 yrs 4 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Embedded Software Engineer",
+              "caption": "Dec 2018 - Feb 2020 · 1 yr 2 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Embedded Software Engineer within the Innovation department as part of the Hardware team. \n\nI have been a core member of the embedded team across multiple projects and have contributed from initial prototyping, through to production phases. \n\nSome of my technical responsibilities have included; \n\n- Linux kernel device driver development\n- Custom hardware Kernel and Device Tree development \n- Custom hardware Bootloader development (U-Boot)\n- Custom hardware bring-up - Electronics/Embedded integration \n- Custom distribution building using Yocto\n- Userspace driver development via serial communication protocols - I2C/SPI/UART\n- Sensor/peripheral integration - IMU, TPH, Battery Controller, Image Sensors, Capture Cards, GPIO Expansion, LED Controllers, Safe Shutdown, Fan Controllers, Servo Controllers, Power & Over-current Sensors \n- Linux system development - Disk Encryption, IP Tables, System Monitoring \n- Application development - Networked Video Streaming"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "166576",
+          "companyUrn": "urn:li:fsd_company:166576",
+          "companyLink1": "https://www.linkedin.com/company/ultra-electronics-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFErW8bxQcTkQ/company-logo_400_400/company-logo_400_400/0/1656679366248/ultra_electronics_group_logo?e=1785369600&v=beta&t=wS6Ho6xu0uB-vKfv4GdydoHoYdXRGsfrzn5-mFRpmjg",
+          "title": "Embedded Software Engineer",
+          "subtitle": "Ultra Electronics Group . Full-time",
+          "caption": "Sep 2016 - Dec 2018 · 2 yrs 3 mos",
+          "metadata": "Southampton, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "British Aerospace & Defence company speciailising in communication & integrated\nsystems for products to be deployed onto military and commercial based systems.\n\nEmbedded software engineering for surveillance & security systems deployed onto air,\nland and offshore systems, developing Windows and Linux compatible applications in\nC++ for the command and control of devices such as electro-optics, acoustic hailing\ndevices, searchlights and radars. Development of customer facing interfaces using the\nQT framework.\n\nEmbedded software engineering for a cryptographic radio module to be integrated into a\nsecure radio for aircraft. Software development using IAR Embedded\nWorkbench on the ARM M series processors. Consisting mainly of application layer,\ndevice layer development and software – firmware integration on target hardware."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3609207",
+          "companyUrn": "urn:li:fsd_company:3609207",
+          "companyLink1": "https://www.linkedin.com/company/funtech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHsUD2fRz_Agg/company-logo_400_400/company-logo_400_400/0/1630617106245/funtech_logo?e=1785369600&v=beta&t=Gnqv_84CYkfkJGg1AqWLgllbnbVC4AFyChKzlI6_bKY",
+          "title": "Tutor - Team Lead",
+          "subtitle": "FunTech . undefined",
+          "caption": "Jul 2015 - Aug 2016 · 1 yr 1 mo",
+          "metadata": "Northwood",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•Full-Time tutor/teacher based in St Helens school, Northwood. \n\n•Responsible for teaching various aspects of Computer Science to groups of Children/Teenagers with classes of up to 20 students. \n\n•Courses including; Java programming (Beginner & Advanced), Minecraft Redstone, Minecraft MODS, 3D Game Design, 3D Animation, 3D Modelling, Robotics and Touch Typing. \n\n•Responsible for supervising all tutors based in St Helens, Northwood."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15593",
+          "companyUrn": "urn:li:fsd_company:15593",
+          "companyLink1": "https://www.linkedin.com/school/university-of-east-anglia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEHA3xRqa_-GQ/company-logo_100_100/B4EZ0_EFPzJAAQ-/0/1774879528403/university_of_east_anglia_logo?e=1785369600&v=beta&t=YGXTMa9MDRV3DTP3WJ-2F0O3cqq60GsSb3vlRldo-EA",
+          "title": "Teaching Assistant",
+          "subtitle": "University of East Anglia . undefined",
+          "caption": "Jan 2016 - Jun 2016 · 5 mos",
+          "metadata": "Norwich, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked as a teaching assistant for the Analogue & Digital Electronics module, supporting 1st and 2nd year students."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "74467",
+          "companyUrn": "urn:li:fsd_company:74467",
+          "companyLink1": "https://www.linkedin.com/company/doulos-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHAQpnufi56hg/company-logo_400_400/company-logo_400_400/0/1631323196555?e=1785369600&v=beta&t=gYNVZaaWVgXJmuNiVabBgVKh-onZrLlou15YvJaFYb8",
+          "title": "Practical Embedded Linux Device Drivers",
+          "subtitle": "Doulos",
+          "issued": "Issued Dec 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4472",
+          "companyUrn": "urn:li:fsd_company:4472",
+          "companyLink1": "https://www.linkedin.com/company/arm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_200_200/B4EZXss3rjGgAM-/0/1743432940736/arm_logo?e=1785369600&v=beta&t=4oqd1iNz49uAKxF8UK7LEl91w-YpdSiMRbfy_3emlkc",
+          "title": "ARM University - Embedded Linux",
+          "subtitle": "Arm",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Embedded Linux Step By Step using Beaglebone Black",
+          "subtitle": "Udemy",
+          "issued": "Issued Apr 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Advanced C++ Programming",
+          "subtitle": "Udemy",
+          "issued": "Issued Jun 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "39939",
+          "companyUrn": "urn:li:fsd_company:39939",
+          "companyLink1": "https://www.linkedin.com/company/lynda-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFfDMello2Gtg/company-logo_400_400/company-logo_400_400/0/1631320875045?e=1785369600&v=beta&t=8pLYYLyrXFybfuUl3KyM6yrdtM-GUQwEo2RgkxxDvh8",
+          "title": "C++ Essential Training",
+          "subtitle": "Lynda.com",
+          "issued": "Issued Oct 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "39939",
+          "companyUrn": "urn:li:fsd_company:39939",
+          "companyLink1": "https://www.linkedin.com/company/lynda-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFfDMello2Gtg/company-logo_400_400/company-logo_400_400/0/1631320875045?e=1785369600&v=beta&t=8pLYYLyrXFybfuUl3KyM6yrdtM-GUQwEo2RgkxxDvh8",
+          "title": "Object-Oriented Design",
+          "subtitle": "Lynda.com",
+          "issued": "Issued Sep 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "74467",
+          "companyUrn": "urn:li:fsd_company:74467",
+          "companyLink1": "https://www.linkedin.com/company/doulos-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHAQpnufi56hg/company-logo_400_400/company-logo_400_400/0/1631323196555?e=1785369600&v=beta&t=gYNVZaaWVgXJmuNiVabBgVKh-onZrLlou15YvJaFYb8",
+          "title": "Developing with Embedded Linux",
+          "subtitle": "Doulos",
+          "issued": "Issued Jul 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "The Linux Foundation",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Institute of Engineering and Technology ",
+          "subtitle": "Member (MIET) ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Institute of Engineering and Technology Prize ",
+          "subtitle": "Issued by Institute of Engineering and Technology(IET) ",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Award for best overall performer in the Computer Systems Engineering degree programme. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Board Support Package",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Device Drivers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hardware Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "I2C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firmware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Internet Protocol Suite (TCP/IP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Gathering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cybersecurity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15593",
+          "companyUrn": "urn:li:fsd_company:15593",
+          "companyLink1": "https://www.linkedin.com/school/university-of-east-anglia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEHA3xRqa_-GQ/company-logo_100_100/B4EZ0_EFPzJAAQ-/0/1774879528403/university_of_east_anglia_logo?e=1785369600&v=beta&t=YGXTMa9MDRV3DTP3WJ-2F0O3cqq60GsSb3vlRldo-EA",
+          "title": "University of East Anglia",
+          "subtitle": "Bachelor's degree, Computer Systems Engineering (BEng) ",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class "
+            },
+            {
+              "type": "insightComponent",
+              "text": "Modules Studied; \n\nProgramming 1 & 2\nMathematics for Computing \nComputing Fundamentals\nDatabase Systems \nArchitectures & Operating Systems \nThe Computing Revolution\nSound + Image 1 & 2\nData Structures & Algorithms \nSoftware Engineering 1 &  2\nAnalogue & Digital Electronics\nElectricity Generation & Distribution \nEmbedded Systems \n3rd Year Project \n"
+            }
+          ]
+        },
+        {
+          "title": "City and Islington College",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Solar Panel Electricity Generation",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of East Anglia"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "3rd Year Computing Project (Dissertation)\n\n• Design and implementation of a dual-axis sun tracker \n\n• Testing and analysis between various forms of sun tracking systems\n\n• Design and implementation of a constant voltage controller, used to track the maximum power point(MPPT) of a solar panel. \n\nGrade Awarded: 1st+ "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

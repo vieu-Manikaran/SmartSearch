@@ -1,0 +1,137 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mike-fricker-b032921",
+  "row_key": "id:0033l00002ssqr9AAA",
+  "person": "Mike Fricker",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:23:00Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAA4FLMBpQ-jowjdEMpd0RvX8_NAtkoZePo",
+      "firstName": "Mike",
+      "lastName": "Fricker",
+      "fullName": "Mike Fricker",
+      "publicIdentifier": "mike-fricker-b032921",
+      "headline": "Lead Technical Director at Epic Games",
+      "about": "I'm a game programmer specializing in computer graphics and tools, but I'm passionate about all aspects of game design and development.\n\nSpecialties: Game engine architecture, 3D graphics, tools for game development, game design, C++ and C# programming, independent game development.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Durham, North Carolina United States",
+      "addressWithoutCountry": "Durham, North Carolina",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHgixpAaxqFCQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689985177830?e=1785369600&v=beta&t=mkwoqvi99thYMpLHeJ2qWBqMUlaEVKZXqqgsQAi6oJ4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHgixpAaxqFCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1689985177830?e=1785369600&v=beta&t=fw64mhglRjz2--_Xk5e8_G3Pi5DoFI8k5TplzVL62S8"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHgixpAaxqFCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689985177830?e=1785369600&v=beta&t=qp6x8LwbSptLYdZ3HPAljnV7M2jalWiex7KMUWiNoYg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHgixpAaxqFCQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1689985177830?e=1785369600&v=beta&t=Umr6C2v5tMkxEy49tKXB-0BTNyDfVxBiY4xs3WsduAw"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHgixpAaxqFCQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689985177830?e=1785369600&v=beta&t=mkwoqvi99thYMpLHeJ2qWBqMUlaEVKZXqqgsQAi6oJ4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "undefined · 18 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Technical Director",
+              "caption": "Aug 2020 - Present · 5 yrs 5 mos",
+              "metadata": "Cary, North Carolina, United States",
+              "description": []
+            },
+            {
+              "title": "Technical Director",
+              "caption": "Sep 2013 - Aug 2020 · 6 yrs 11 mos",
+              "description": []
+            },
+            {
+              "title": "Lead Programmer",
+              "caption": "Mar 2011 - Sep 2013 · 2 yrs 6 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Engine Programmer",
+              "caption": "Jul 2007 - Mar 2011 · 3 yrs 8 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Turbine, Inc.",
+          "subtitle": "undefined · 7 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Engineer (Graphics)",
+              "caption": "Apr 2006 - Jun 2007 · 1 yr 2 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Engineer (Graphics)",
+              "caption": "Nov 1999 - Mar 2006 · 6 yrs 4 mos",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "19316",
+          "companyUrn": "urn:li:fsd_company:19316",
+          "companyLink1": "https://www.linkedin.com/school/smuhalifax/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHXV93azLt_Q/company-logo_400_400/company-logo_400_400/0/1630464064652/smuhalifax_logo?e=1785369600&v=beta&t=BxkjNGAa9X9ME1o0q-QnR87D50HzIfZe1nkkH2zSaV8",
+          "title": null,
+          "subtitle": "null, null",
+          "caption": "1997 - 1998",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "linkedin_url": "https://il.linkedin.com/in/barak-landman-072608b",
+  "row_key": "id:0033l00002hezfIAAQ",
+  "person": "Barak Landman",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T09:56:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAIMLlYBou1FsXj_5cxbQysGOlw0-PKr-Zk",
+      "firstName": "Barak",
+      "lastName": "Landman",
+      "fullName": "Barak Landman",
+      "publicIdentifier": "barak-landman-072608b",
+      "headline": "DevOps Manager at Rafael Advanced Defense Systems",
+      "about": "- 2002 to 2019 as R&D role in global medical company ( Given Imaging \\ Covidien \\ Medtronic).\n- Leading the Platforms \\ DevOps team, implementing up to date technologies.\n- Leading R&D related cyber security activities.\n- Using high capabilities of self-studying for DevOps operations including CI \\ CD activities, Virtual Environment management, 3rd parties components legal review \\ approval process \\ vulnerabilities monitoring, Private\\Public Cloud deployment & support, Configuration Management, Production Kits, OEM Hardware certification, Customer Support Level5 and more.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Defense & Space",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Israel",
+      "addressWithCountry": "Haifa District Israel",
+      "addressWithoutCountry": "Haifa District",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFuHzxWtLq-zQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1525282550834?e=1785369600&v=beta&t=n_CdE0wgh3jIhkAezP4NFQIbJB-vL8Rz4acvQHAV71M",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFuHzxWtLq-zQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1525282550772?e=1785369600&v=beta&t=5qd5VaAenEQS6p_FUmFkwPSqQxs3ADgKcW-Soc69KCA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFuHzxWtLq-zQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1525282550748?e=1785369600&v=beta&t=lNjZqMIoQrG_vTfhGfL7wA4Vig6tJjWBzmq7urH4-g0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFuHzxWtLq-zQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1525282550810?e=1785369600&v=beta&t=tLhOGC_G3N-phPszjKG49teFeeZUxbodw5OjBftaHtA"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFuHzxWtLq-zQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1525282550834?e=1785369600&v=beta&t=n_CdE0wgh3jIhkAezP4NFQIbJB-vL8Rz4acvQHAV71M"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "14803350",
+          "companyUrn": "urn:li:fsd_company:14803350",
+          "companyLink1": "https://www.linkedin.com/company/rafael-advanced-defense-systems-official/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGjWdLehU_iCQ/company-logo_400_400/company-logo_400_400/0/1730446060663?e=1785369600&v=beta&t=-QlQCMjVI54QCMMKCJ_irRAt7_JAKZafN2k4nOkLHHM",
+          "title": "DevOps Manager",
+          "subtitle": "Rafael Advanced Defense Systems . Full-time",
+          "caption": "Sep 2019 - Present · 6 yrs 4 mos",
+          "metadata": "Haifa, Israel",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 11 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "SW DevOps Manager",
+              "caption": "Aug 2018 - Aug 2019 · 1 yr",
+              "metadata": "Haifa Area, Israel",
+              "description": []
+            },
+            {
+              "title": "DevOps SW Team Leader",
+              "caption": "Jan 2015 - Aug 2018 · 3 yrs 7 mos",
+              "metadata": "Israel (Yokneam)",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "For the last 10 years leading platforms \\ DevOps team including multi departments' cooperation (SQA \\ PM \\ R&D \\ IT \\ Legal \\ customer support \\ purchasing \\ production) for various operations:\n\tMember of Medtronic's Security Council team, leading the business unit (3 sites) cyber security activities.\n\tDevelop installation packages (installShield) for desktop \\ web solutions\n\tVirtualization operations using private (Hyper-V) \\ public cloud (AWS \\ Azure)\n\tDevOps operations including daily \\ nightly build and other required automation (TeamCity) \n\tPublic cloud deployments \\ support\n\tSprint version releases\n\tSource control administration (SVN)\n\tWriting development documents (e.g. SRSs \\ SDEs \\ SOPs \\ Working instructions etc.)\n\tIntegrated 3rd parties components legal review \\ approval process \\ vulnerabilities monitoring\n\tMicrosoft driver certification process for product device\n\tInvestigating installations \\ other product issues (e.g. Microsoft KBs failures)\n\tWorkstations images build, including production work instructions (Windows PE based)\n\tManaging software penetration tests, performed by 3rd party\n\tOEM Hardware approval and release process (DELL \\ HP workstations and additional off the shelf items)\n\t5th tier customer support world-wide)\n\tECO releases\n\tProduction \\ vendor training"
+                }
+              ]
+            },
+            {
+              "title": "Platforms SW Team Leader",
+              "caption": "May 2013 - Jan 2015 · 1 yr 8 mos",
+              "metadata": "Israel (Yokneam)",
+              "description": []
+            },
+            {
+              "title": "Senior Developer, System & Platform Administration",
+              "caption": "Apr 2008 - May 2013 · 5 yrs 1 mo",
+              "metadata": "Israel (Yokneam)",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software System Administrator",
+          "subtitle": "Given Imaging . undefined",
+          "caption": "Feb 2002 - Apr 2008 · 6 yrs 2 mos",
+          "metadata": "Israel Yokneam",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "System Manager",
+          "subtitle": "e-sim . undefined",
+          "caption": "Feb 2000 - Feb 2002 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "IT - System manager\n\tManaging LAN and WAN network, Mixed OS Environments – Win2k, NT, 9X, Unix, MAC.\n\tIn charge of Internet, Communications, Security, Office computing, scripting and purchasing.\n\tSupport offices worldwide (USA. India, Japan, France)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1053",
+          "companyUrn": "urn:li:fsd_company:1053",
+          "companyLink1": "https://www.linkedin.com/company/intel-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_400_400/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1785369600&v=beta&t=g-_No6rKYnzuUy2iHAD1a3o5iamiG5a0tDnDBHfNVqE",
+          "title": "System Administrator",
+          "subtitle": "Intel . undefined",
+          "caption": "Jan 1999 - Feb 2000 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "System Administrator\n\tImplementation of Year-2000 Microsoft environment LAB.\n\tTesting Year-2000 utilities \\ Hardware and back office applications (IIS 4, Exchange 5.5).\n\tHardware Technician."
+              }
+            }
+          ]
+        },
+        {
+          "title": "R&D -",
+          "subtitle": "Israel Electric company . undefined",
+          "caption": "Jun 1996 - Jan 1999 · 2 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "PLC programming"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevSecOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R&D",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Imaging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "bsimm",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FDA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Image Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Launch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electronics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Validation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ISO 13485",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Vision",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Ongoing professional courses (eLearning & classes)",
+          "subtitle": "ongoing professional courses, null",
+          "caption": "2000 - 2018",
+          "subComponents": []
+        },
+        {
+          "title": "MCSE ",
+          "subtitle": "null, null",
+          "caption": "1998 - 1999",
+          "subComponents": []
+        },
+        {
+          "companyId": "1795902",
+          "companyUrn": "urn:li:fsd_company:1795902",
+          "companyLink1": "https://www.linkedin.com/school/western-galilee-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHK7Iyxhr7wVA/company-logo_400_400/company-logo_400_400/0/1630640511361/western_galilee_college_logo?e=1785369600&v=beta&t=auFZgX2oYiAhMnn1CRi9lhryE9Pa6jB8w9FxOgBeUNk",
+          "title": "Western Galilee College",
+          "subtitle": "Practical electric engineer, null",
+          "caption": "1994 - 1996",
+          "subComponents": []
+        },
+        {
+          "title": "Ort kiriat bialik",
+          "subtitle": "Electronic technician, null",
+          "caption": "1990 - 1991",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

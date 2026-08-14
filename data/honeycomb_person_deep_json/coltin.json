@@ -1,0 +1,362 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/coltin",
+  "row_key": "id:003Uk00000xiwhWIAQ",
+  "person": "Coltin Caverhill",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:53Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA2n4EoB2ECAIbt5Fj5LiHK8ZZ_eUOKWe_8",
+      "firstName": "Coltin",
+      "lastName": "Caverhill",
+      "fullName": "Coltin Caverhill",
+      "publicIdentifier": "coltin",
+      "headline": "Engineering Leader and Writer |  @Yelp",
+      "about": "Hi, I'm Coltin, a Software Engineering Manager at Yelp. I have 13+ years of experience in Software Development and Leadership, and wrote my first line of code 20+ years ago.\n\nI became an engineering leader because I loved helping others. Putting an Engineer on a completely better path with a conversation has so much value, but also just feels really good! It is not required to be a manager to do this, but it gives me so much more surface area to work with.\n\nI run a newsletter called Lead Kindly, where I help software engineers and leaders be more effective! I have a strong focus on remote leadership and leading with empathy.\n\nhttps://coltino.substack.com/",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Kitchener, Ontario Canada",
+      "addressWithoutCountry": "Kitchener, Ontario",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEFW-T3qNpTlQ/profile-displayphoto-shrink_200_200/B56ZYrfH1LGcAY-/0/1744486301544?e=1785369600&v=beta&t=aSm0j4E2M6wr0eFZzbBGfCRJNmc5XdgmgjAvLjqk1PI",
+      "profilePicAllDimensions": [
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEFW-T3qNpTlQ/profile-displayphoto-shrink_800_800/B56ZYrfH1LGcAc-/0/1744486301544?e=1785369600&v=beta&t=uZCSHYpoK-XDUBt5qCK8mqygi9hSDt6oLeRZLDbcDOc"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEFW-T3qNpTlQ/profile-displayphoto-shrink_100_100/B56ZYrfH1LGcAU-/0/1744486301531?e=1785369600&v=beta&t=yqGwRF19QbGOl2Zs_U1z9kmLrFX31rTZHICUPiYXieE"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEFW-T3qNpTlQ/profile-displayphoto-shrink_400_400/B56ZYrfH1LGcAg-/0/1744486301544?e=1785369600&v=beta&t=TwALhPWUrFwrE02ac6UOsthLB_OOkLWI9JjvVhZXOl0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEFW-T3qNpTlQ/profile-displayphoto-shrink_200_200/B56ZYrfH1LGcAY-/0/1744486301544?e=1785369600&v=beta&t=aSm0j4E2M6wr0eFZzbBGfCRJNmc5XdgmgjAvLjqk1PI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 5 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Manager",
+              "caption": "Sep 2021 - Present · 4 yrs 4 mos",
+              "metadata": "Remote",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2020 - Sep 2021 · 1 yr 7 mos",
+              "metadata": "Pelham, Ontario, Canada",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "11116824",
+          "companyUrn": "urn:li:fsd_company:11116824",
+          "companyLink1": "https://www.linkedin.com/company/boostedai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFt6AjJ3GLFbg/company-logo_200_200/B56ZqeXQn9IsAI-/0/1763593489206/boostedai_logo?e=1785369600&v=beta&t=ZGgZqyY9V-muJNqty6lgBLWJiOWi7JlmGFvRHL70N6w",
+          "title": "Senior Software Engineer",
+          "subtitle": "Boosted.ai . Full-time",
+          "caption": "Mar 2018 - Feb 2020 · 1 yr 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Software Engineer",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Jun 2014 - Mar 2018 · 3 yrs 9 mos",
+          "metadata": "San Francisco, California",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software Engineer, focusing on Android."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Maluuba . Full-time",
+          "caption": "Apr 2012 - Oct 2013 · 1 yr 6 mos",
+          "metadata": "Kitchener, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Mobile development for Android and Windows Phone"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "9889",
+          "companyUrn": "urn:li:fsd_company:9889",
+          "companyLink1": "https://www.linkedin.com/company/qnx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFJbr1nO-oypw/company-logo_400_400/company-logo_400_400/0/1735818598048/qnx_logo?e=1785369600&v=beta&t=Sqkya8tw7AXXtHfThQQTcC9s0hmGdmc8WidRSFCmQX8",
+          "title": "Software Engineer",
+          "subtitle": "QNX Software Systems . Internship",
+          "caption": "Jan 2009 - Aug 2009 · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9889",
+          "companyUrn": "urn:li:fsd_company:9889",
+          "companyLink1": "https://www.linkedin.com/company/qnx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFJbr1nO-oypw/company-logo_400_400/company-logo_400_400/0/1735818598048/qnx_logo?e=1785369600&v=beta&t=Sqkya8tw7AXXtHfThQQTcC9s0hmGdmc8WidRSFCmQX8",
+          "title": "Software Engineer",
+          "subtitle": "QNX Software Systems . Internship",
+          "caption": "Jan 2008 - Apr 2008 · 3 mos",
+          "metadata": "Kanata, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Budgeting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "People Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Interpersonal Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kotlin",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Mobile Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Afro Growing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Phone",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Mobile",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": "University of Waterloo",
+          "subtitle": "Bachelor of Mathematics, Computer Science",
+          "caption": "2007 - 2011",
+          "subComponents": []
+        },
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": null,
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

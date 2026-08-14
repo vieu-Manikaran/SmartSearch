@@ -1,0 +1,635 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mitaliparthasarathy",
+  "row_key": "id:003Uk00000mahpCIAQ",
+  "person": "Mitali Parthasarathy",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAFEOrAB7c3BaJNdWapzV_VFNOP2okWe5Qk",
+      "firstName": "Mitali",
+      "lastName": "Parthasarathy",
+      "fullName": "Mitali Parthasarathy",
+      "publicIdentifier": "mitaliparthasarathy",
+      "headline": "Director of Engineering, Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Sunnyvale, California United States",
+      "addressWithoutCountry": "Sunnyvale, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEKd12mKLamJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693003694223?e=1785369600&v=beta&t=4VnWMBqIwJ5Z9qRUj1Gjnw73DBY1it6bJTyQ5GMzwQQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEKd12mKLamJg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1693003694223?e=1785369600&v=beta&t=8gwFI15LEv_a0XO-2lOmr0p8a-MfE0Prd1ODmSryDIM"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEKd12mKLamJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693003694223?e=1785369600&v=beta&t=dUUaJc4k_xbjdWacYL8ATrsUFuhHXYicvPN1lItMtXA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEKd12mKLamJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1693003694223?e=1785369600&v=beta&t=5ghZU4FoynZIqOtWinASclh-199QE8LESipEfQyqeIE"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEKd12mKLamJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693003694223?e=1785369600&v=beta&t=4VnWMBqIwJ5Z9qRUj1Gjnw73DBY1it6bJTyQ5GMzwQQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 6 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering, Backend Platform, Developer Experience",
+              "caption": "Jul 2025 - Present · 6 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I lead the Backend Platform org within the Developer Experience org.\n\nMy org consists of two main groups: Languages & Insights Platform and Internal Developer Platform.\n\nThe Languages & Insights Platform group includes Core Python and Core Java teams that create tools, libraries, and best practices to help service authors write high quality, performant, maintainable code in Python and JVM languages. We also have a Developer Insights & Automation team that creates an ecosystem of products that make it easy to understand the quality of our systems and enable teams to quickly and efficiently identify their highest priority maintenance tasks. This group also drives our AI developer tools strategy to bring the latest AI tools to all developers at Yelp.\n\nThe Internal Developer Platform group includes Application Observability and Release & Observability teams that build tools for logging, tracing and metrics data collection and dashboard tools for feature teams to understand performance regressions. They also manage our CICD pipelines and code review and release process for backend services. We also have a Developer Environments team that manages our IDEs, tools for local testing, AI code generation tools and paved-path environments for Python and JVM development."
+                }
+              ]
+            },
+            {
+              "title": "Director of Engineering, Backend Platform, Engineering Effectiveness",
+              "caption": "Oct 2023 - Jan 2026 · 2 yrs 3 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Senior Engineering Manager, Backend Platform, Engineering Effectiveness",
+              "caption": "Jul 2022 - Oct 2023 · 1 yr 3 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I support the Backend Platform group within the Engineering Effectiveness organization. My group consists of four teams:\n\nCore Services - Creates tools, libraries, and best practices to help service authors write high quality, performant, maintainable code in Python.\n\nCore Java - Provides state-of-the-art infrastructure for engineers to develop highly-performant JVM-based services utilizing best practices and modern tooling in Java, Scala and Kotlin\n\nContinuous Integration & Delivery - Supports an ecosystem of tools that empower developers at Yelp to deliver their code changes effectively\n\nDeveloper Insights & Automation - Creates an ecosystem of products that make it easy to understand quality of development, systems, and teams and enable teams to quickly and efficiently identify their highest priority maintenance tasks"
+                }
+              ]
+            },
+            {
+              "title": "Engineering Manager, Core Services",
+              "caption": "May 2020 - Jul 2022 · 2 yrs 2 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Core Services team creates tools, libraries, and best practices to help service authors write high quality, performant, maintainable code in Python. Specifically, we facilitate running and testing python services, libraries, and system packages, develop and maintain python platform and python libraries for communication between services, and support development of state of the art backend server interface for Yelp mobile apps."
+                }
+              ]
+            },
+            {
+              "title": "Engineering Manager, Developer Insights & Automation",
+              "caption": "Apr 2019 - Jul 2022 · 3 yrs 3 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I’m an Engineering Manager in Yelp’s Engineering Effectiveness organization. Our mission is: “Make engineering at Yelp faster, more efficient and easier.”\n\nMy team is responsible for increase developer productivity by providing tooling to build software that adheres to thoughtfully defined engineering best practices. The goal for our team is to develop some of the institutional knowledge to maintain high quality code across different code bases."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1482",
+          "companyUrn": "urn:li:fsd_company:1482",
+          "companyLink1": "https://www.linkedin.com/company/paypal/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_400_400/company-logo_400_400/0/1725506319701?e=1785369600&v=beta&t=d1Q9G3TYZqRKsYu5BfXcPrHunEET8mstWgvh5IpgpFg",
+          "title": "PayPal",
+          "subtitle": "undefined · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Member of Technical Staff, Infrastructure and Edge Services",
+              "caption": "Mar 2018 - Apr 2019 · 1 yr 1 mo",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I work on the Infrastructure as a Service group developing Java Spring web services (Load Balancer Management Service and DNS Management Service) that currently provides an interface to manage F5 and AVI Load Balancer devices and DNS devices at PayPal. I’m responsible for defining requirements, coding, testing and continuous integration and deployment for this service. I also work with internal customer teams to understand their requirements and provide technical guidance for using our APIs."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer, Infrastructure and Edge Services",
+              "caption": "Apr 2017 - Mar 2018 · 11 mos",
+              "metadata": "San Jose",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I work on the Infrastructure as a Service group developing a Java Spring web service to manage Load Balancer devices. I worked with internal customer teams to understand their requirements, provide technical guidance for service integration, and roadmap planning. Managed one intern from June to August ’17."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer, Cloud Infrastructure",
+              "caption": "May 2015 - Apr 2017 · 1 yr 11 mos",
+              "metadata": "San Jose",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I work in PayPal's Core Platform Infrastructure group that is responsible for running PayPal's private cloud. PayPal has one of the largest deployments of OpenStack in production. Specifically, I worked on the Identity (Keystone) and Dashboard (Horizon) services of OpenStack. My role involved working with product management to define requirements, designing, coding and testing product features and working with customers to design solutions for provisioning and maintaining cloud resources. I also worked on defining engineering processes like change management, blueprint design reviews and sprint planning."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Software Engineer",
+          "subtitle": "Cisco Systems Inc . undefined",
+          "caption": "Sep 2010 - May 2015 · 4 yrs 8 mos",
+          "metadata": "San Jose, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I designed, implemented and tested a protocol to dynamically create policies for application delivery controllers attached to a network switch. I was involved from the requirements and prototyping phase until the product was tested and shipped to customers. In this project, I was responsible for driving the design of interaction with other software components, designing to overcome the limitations of the system and aggressive testing to handle all failure scenarios.\n\nI designed and implemented a protocol for network analyzers attached to a switch to control and apply configuration to span traffic to the analytics appliance. I was involved in design reviews for switch and appliance software to produce a unified experience to the end-user. Some of my responsibilities include system design, coding and testing of software, managing project deadlines and expectations, coordinating with other project leads for software integration, coordinating with build and release managers for code commit and troubleshooting with QA and development engineers.\n\nI am involved in talking to customers to understand their topology and requirements and figuring out how best to use our features. This includes PoC demos, presentations and product enhancements to fit customer needs. I do most of my development in C and testing in Python/other scripting languages."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4298",
+          "companyUrn": "urn:li:fsd_company:4298",
+          "companyLink1": "https://www.linkedin.com/school/university-of-virginia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPXxfaisprvA/company-logo_400_400/company-logo_400_400/0/1712014926451?e=1785369600&v=beta&t=vuH8NLW5N6D380XeUNDC40SmRpVZVT5TFAwbcTVXY9s",
+          "title": "Graduate Student and Research/Teaching Assistant",
+          "subtitle": "University of Virginia . undefined",
+          "caption": "Aug 2008 - May 2010 · 1 yr 9 mos",
+          "metadata": "Charlottesville, VA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was a research assistant focusing on parallelizing demand-driven static analysis using Microsoft Phoenix framework. I was a teaching assistant for several undergraduate programming courses. Teaching programming labs, grading and guiding students to solve homework assignments were some of my responsibilities."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Software Engineering Intern",
+          "subtitle": "Cisco Systems . undefined",
+          "caption": "Jun 2009 - Aug 2009 · 2 mos",
+          "metadata": "San Jose, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I worked on automating the segregation of performance data using TCL scripts. I also wrote test cases and did functional and performance testing on the ASR 1K Edge router. I was responsible for implementing fixes and committing code for feature enhancements."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "16938",
+          "companyUrn": "urn:li:fsd_company:16938",
+          "companyLink1": "https://www.linkedin.com/company/gce/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGa2v-M4Fuxyg/company-logo_400_400/company-logo_400_400/0/1631318357322?e=1785369600&v=beta&t=A93GQmbTbsQX4A4pszcDfB3v4qlXbM_kA3fEivoQWM4",
+          "title": "Software Intern",
+          "subtitle": "Global Computer Enterprises . undefined",
+          "caption": "May 2008 - Jul 2008 · 2 mos",
+          "metadata": "Reston, VA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was responsible for implementing test suites using SoapUI to test a vendor management tool for the U.S. government. I also worked on SQL to validate the database for various test scenarios."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tamil",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Cisco Internal Networkers Conference Technology Award (Team)",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco DCCSG Technology Achievement Award (Team)",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RESTful WebServices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Shell Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TCP/IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Puppet",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gerrit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4298",
+          "companyUrn": "urn:li:fsd_company:4298",
+          "companyLink1": "https://www.linkedin.com/school/university-of-virginia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPXxfaisprvA/company-logo_400_400/company-logo_400_400/0/1712014926451?e=1785369600&v=beta&t=vuH8NLW5N6D380XeUNDC40SmRpVZVT5TFAwbcTVXY9s",
+          "title": null,
+          "subtitle": "M.C.S, ACM-W",
+          "caption": "2008 - 2010",
+          "subComponents": []
+        },
+        {
+          "companyId": "5489",
+          "companyUrn": "urn:li:fsd_company:5489",
+          "companyLink1": "https://www.linkedin.com/school/george-mason-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHCFipKMd_jpQ/company-logo_200_200/B4EZ84dCPKJEAI-/0/1783358563476/george_mason_university_logo?e=1785369600&v=beta&t=hwl-gDHuyfxKUhy2LPCc6eKJ6WBje8qFwKJCt_FF1Bc",
+          "title": null,
+          "subtitle": "B.S, Computer Science",
+          "caption": "2006 - 2008",
+          "subComponents": []
+        },
+        {
+          "companyId": "100176703",
+          "companyUrn": "urn:li:fsd_company:100176703",
+          "companyLink1": "https://www.linkedin.com/school/annauniversity-chennai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHUHJVQ0ySurw/company-logo_400_400/company-logo_400_400/0/1698329692568?e=1785369600&v=beta&t=daENC89RyF2LIDq9qh4F2ar-e8YfJqsMoyBi3XS8tQA",
+          "title": null,
+          "subtitle": "null, Computer Science",
+          "caption": "2004 - 2006",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Speaker Series Track Co-Lead",
+          "subtitle": "Unity Women @ PayPal",
+          "caption": "Aug 2015 - Dec 2016 · 1 yr 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "San Jose Chapter Co-Lead",
+          "subtitle": "Cisco Early in Career Network",
+          "caption": "2012 - 2014 · 2 yrs",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3138795",
+          "companyUrn": "urn:li:fsd_company:3138795",
+          "companyLink1": "https://www.linkedin.com/company/invent-your-future-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEUjqOsUBWbTg/company-logo_400_400/company-logo_400_400/0/1631304576573?e=1785369600&v=beta&t=f4TbesdHkIbjfwQHBVTZ2YglFZRbdu7gCVbm2DFwIkI",
+          "title": "Cisco Networking Workshop Lead/Volunteer, Dare 2B Digital",
+          "subtitle": "Invent Your Future Enterprises",
+          "caption": "2012 - 2013 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "493046",
+          "companyUrn": "urn:li:fsd_company:493046",
+          "companyLink1": "https://www.linkedin.com/company/reading-partners/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGA9MSlvgAWQQ/company-logo_400_400/company-logo_400_400/0/1630620697442/reading_partners_logo?e=1785369600&v=beta&t=E2ijrieBp-4vCxihucDwKkw7ipoNxbV27-2oFL3F8-0",
+          "title": "Reading Tutor",
+          "subtitle": "Reading Partners",
+          "caption": "Nov 2010 - Aug 2013 · 2 yrs 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Skynet: Load Balancer Management Service",
+          "subtitle": "Apr 2017 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Skynet is a highly-available, distributed service that provides a seamless interface to program and manage hundreds of load balancer devices using REST APIs. Currently, F5 and AVI devices are used by PayPal infrastructure but this can be expanded to other device types as well. Customer apps make calls to the Skynet service to allocate the resources needed to deploy an application across multiple data centers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Keystone V3 API with Apache frontend",
+          "subtitle": "Jun 2016 - Jun 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Implemented upgrade from v2.0 to v3 API versions including PayPal specific customizations. Improved performance by up to 4x by implemented an Apache front-end for the identity service."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Horizon Dashboard customization",
+          "subtitle": "Jan 2016 - Jan 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Implemented customizations to the dashboard such as management of Virtual Private Cloud (VPC), certification of images for provisioning virtual machines etc. Improved service performance by 10x by modifying API calls based on role privileges."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "In-chassis Service Module Bootup",
+          "subtitle": "Sep 2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Implemented a bootstrap protocol to facilitate the automatic creation of SPAN traffic analysis services on a network switch with failure detection and recovery capabilities. The protocol initiates a handshake between the supervisor and line card, recovers the hardware and software specifications of the module and applies configuration to send traffic to the module for analysis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Automated Policy Based Routing",
+          "subtitle": "May 2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "When load balancers are configured in the datacenter, there is a need to redirect return traffic from the server to the load-balancer appliance for security reasons. Configuring these redirection rules is tedious, error-prone and subject to frequent changes. APBR dynamically creates policies to redirect server return traffic to a load-balancer appliance based on the services configured in the appliance. Further, the algorithm handles errors, updates policies based on changes in service and purges configuration when needed. The user no longer needs to manually create or update any policy configuration on the switch."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Remote Integrated Services Engine",
+          "subtitle": "May 2011 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Implemented a protocol that allows a network switch to automatically bootstrap, handshake with and configure remote third-party L4-L7 network appliances in the datacenter. Service appliances can dynamically push configuration to the datacenter switch as well as accept configuration from the switch. This simplified provisioning protocol has been shown to reduce the CAPEX and OPEX costs of customers by an order of magnitude."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

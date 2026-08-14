@@ -1,0 +1,489 @@
+{
+  "linkedin_url": "https://be.linkedin.com/in/bert-verschoren-21244bab",
+  "row_key": "id:003Uk00000oJaB7IAK",
+  "person": "Bert Verschoren",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABdhb24BkBeoTJnRlY_zrCP-LX8wsOVJC2k",
+      "firstName": "Bert",
+      "lastName": "Verschoren",
+      "fullName": "Bert Verschoren",
+      "publicIdentifier": "bert-verschoren-21244bab",
+      "headline": "Principal Customer Success Manager @Medtronic",
+      "about": "I’m a delivery-focused leader with a strong track record of aligning teams and customers around clear goals and ensuring those goals get delivered, on time and with impact.\n\nWith experience in SaaS, healthcare, and cross-functional environments, I specialize in turning strategy into execution. I work closely with clients to understand what success looks like, then lead the teams, plans, and processes that bring that success to life.\n\nWhether I’m managing complex implementations, leading delivery teams, or building scalable customer workflows, I bring clarity, structure, and a strong sense of ownership to everything I do.\n\nKey strengths:\n- End-to-end delivery leadership across client lifecycles\n- Aligning internal teams and customer stakeholders\n- Building delivery frameworks that scale with growth\n- Driving adoption through clear communication and execution\n\nI adapt quickly to new industries and enjoy bringing fresh perspective to complex environments. Currently open to freelance or permanent opportunities where delivery excellence and customer alignment are key.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "NL",
+        "language": "nl"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Belgium",
+      "addressWithCountry": "Brussels, Brussels Region Belgium",
+      "addressWithoutCountry": "Brussels, Brussels Region",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQEODQndtqMX-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675673385153?e=1785369600&v=beta&t=_pLewTKezwKSsFgfyNSpYAmnCUwUqDiAufKkLYkZVyI",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEODQndtqMX-Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1675673385153?e=1785369600&v=beta&t=EkT8fhWDUT7glxptBCGh3F6SDFb4z5yqwqGXLQvO6oU"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEODQndtqMX-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675673385153?e=1785369600&v=beta&t=_pLewTKezwKSsFgfyNSpYAmnCUwUqDiAufKkLYkZVyI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Principal Customer Success Manager BeNeLux, Israel & Greece",
+          "subtitle": "Medtronic Digital Technologies . Full-time",
+          "caption": "Nov 2025 - Present · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10519661",
+          "companyUrn": "urn:li:fsd_company:10519661",
+          "companyLink1": "https://www.linkedin.com/company/awell/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGDQOJ8DpMaIQ/company-logo_400_400/company-logo_400_400/0/1654090971502/awell_logo?e=1785369600&v=beta&t=mXj7R2Wn7bnNIcxpyHaoRmt6xsyPZMNjpaJORTisE6E",
+          "title": "Awell Health",
+          "subtitle": "Full-time · 4 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": " Customer Success Manager & Head of Delivery",
+              "caption": "Sep 2021 - Aug 2025 · 3 yrs 11 mos",
+              "metadata": "Brussel",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Awell is a low-code platform used by clinical and product teams to design, improve and integrate clinical workflows into their tech stack."
+                }
+              ]
+            },
+            {
+              "title": "Senior Project Manager at Awell Health",
+              "caption": "Nov 2020 - Oct 2021 · 11 mos",
+              "metadata": "Brussel, Brussels Hoofdstedelijk Gewest, België",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project coordinator Quality and Accreditation",
+          "subtitle": "Valisana . undefined",
+          "caption": "Mar 2018 - Oct 2020 · 2 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Consultant",
+          "subtitle": "Omni Care Consult . undefined",
+          "caption": "Aug 2016 - Aug 2017 · 1 yr",
+          "metadata": "Mechelen",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3532023",
+          "companyUrn": "urn:li:fsd_company:3532023",
+          "companyLink1": "https://www.linkedin.com/company/mobitrace/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGJB_BDtRImZg/company-logo_400_400/company-logo_400_400/0/1630491701797/mobitrace_logo?e=1785369600&v=beta&t=FAUndRu8wLqhGM5dpN0Q6L1jyQePIiUlW7Sx18iFkD4",
+          "title": "Customer Service Manager",
+          "subtitle": "Mobitrace . undefined",
+          "caption": "Feb 2016 - Jul 2016 · 5 mos",
+          "metadata": "Hasselt",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5414",
+          "companyUrn": "urn:li:fsd_company:5414",
+          "companyLink1": "https://www.linkedin.com/company/uz-brussel/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGaAwmfxzEmAg/company-logo_400_400/company-logo_400_400/0/1631310494475?e=1785369600&v=beta&t=JfLGeQ245s4mmS9uK6SLlUSbZ5RqlRFXkbV9YVe41aw",
+          "title": "Critical Care Nurse",
+          "subtitle": "UZ Brussel . undefined",
+          "caption": "Sep 2012 - Feb 2016 · 3 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "633973",
+          "companyUrn": "urn:li:fsd_company:633973",
+          "companyLink1": "https://www.linkedin.com/company/uz-leuven/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpVv3xqkloRA/company-logo_400_400/company-logo_400_400/0/1686906273890/uz_leuven_logo?e=1785369600&v=beta&t=CIZ79V2m5h5emjhLiJo5jZL6C2NzCIDzIDRQkt8FGaM",
+          "title": "Verpleegkundige Intensieve Zorgen",
+          "subtitle": "UZ Leuven . undefined",
+          "caption": "Jun 2012 - Sep 2012 · 3 mos",
+          "metadata": "Leuven",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "57786",
+          "companyUrn": "urn:li:fsd_company:57786",
+          "companyLink1": "https://www.linkedin.com/company/az-jan-portaels/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE6n2ax3b_Nfw/company-logo_400_400/company-logo_400_400/0/1665671070558/az_jan_portaels_logo?e=1785369600&v=beta&t=nCJJLfsKKjInOnFkw3y1rqWuBvOOqaD7Xlpbpk7AOug",
+          "title": "Verpleegkundige",
+          "subtitle": "AZ Jan Portaels . undefined",
+          "caption": "Jan 2012 - Jun 2012 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10607186",
+          "companyUrn": "urn:li:fsd_company:10607186",
+          "companyLink1": "https://www.linkedin.com/company/vithas-hospital/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGyqkkdrs3B8A/company-logo_400_400/company-logo_400_400/0/1731926791939/vithas_hospital_logo?e=1785369600&v=beta&t=ajyoivvGKAiva13dsLBzshXSrAOlU3wq86RQ6Kz7T8w",
+          "title": "Verpleegkundige",
+          "subtitle": "Hospital Vithas Xanit Internacional . undefined",
+          "caption": "Apr 2011 - Sep 2011 · 5 mos",
+          "metadata": "Benalmádena",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2447540",
+          "companyUrn": "urn:li:fsd_company:2447540",
+          "companyLink1": "https://www.linkedin.com/company/the-kermode-canadian-center/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH7cjB7tnIy4A/company-logo_400_400/company-logo_400_400/0/1631310659656?e=1785369600&v=beta&t=jvveQtE06oFjW65PMznkuC57NOU0UdzSLZmFSiVEEBQ",
+          "title": "Leerkracht Engels",
+          "subtitle": "The Kermode Canadian Center . undefined",
+          "caption": "Sep 2010 - Jun 2011 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "41689",
+          "companyUrn": "urn:li:fsd_company:41689",
+          "companyLink1": "https://www.linkedin.com/company/amelior/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE3m9EQDjlGcw/company-logo_400_400/company-logo_400_400/0/1630515106665/amelior_logo?e=1785369600&v=beta&t=spX7bMBp3V0jdBe0b2Xfn42_HW7TjGIRTPYvDki3YaY",
+          "title": "Change management",
+          "subtitle": "Amelior - Training & Consulting",
+          "issued": "Issued Oct 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "800375",
+          "companyUrn": "urn:li:fsd_company:800375",
+          "companyLink1": "https://www.linkedin.com/company/peoplecert-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEY66hkTvsA5A/company-logo_400_400/company-logo_400_400/0/1726662854655/peoplecert_group_logo?e=1785369600&v=beta&t=vqQcwphGaa4TTugagUdIyX56yS2M6tSj05-Ol5RExSE",
+          "title": "PRINCE2® Foundation Certificate",
+          "subtitle": "PeopleCert",
+          "issued": "Issued May 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Engels",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Frans",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nederlands",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spaans",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Coaching",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oplossen van problemen",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Frans",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "master",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Softwareontwikkeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytisch denkvermogen",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Healthcare",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hospitals",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Clinical Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Healthcare Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medicine",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nursing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Healthcare Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3629",
+          "companyUrn": "urn:li:fsd_company:3629",
+          "companyLink1": "https://www.linkedin.com/school/ku_leuven/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEl1IJm5b5JCw/company-logo_200_200/B4EZy5GDlvGgAI-/0/1772631898991/ku_leuven_logo?e=1785369600&v=beta&t=HZ3X3xOnZRIDKUpfBwZ4o-BK82eQ17duSHwgVCiesPM",
+          "title": "KU Leuven",
+          "subtitle": "Master, Management en Beleid in de Gezondheidszorg",
+          "caption": "2012 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Afgestudeerd met onderscheiding"
+            }
+          ]
+        },
+        {
+          "companyId": "15090693",
+          "companyUrn": "urn:li:fsd_company:15090693",
+          "companyLink1": "https://www.linkedin.com/school/katholieke-hogeschool-leuven/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHGHGIUXeAaFA/company-logo_400_400/company-logo_400_400/0/1630660049027/katholieke_hogeschool_leuven_logo?e=1785369600&v=beta&t=8PfjxucVE9P6J7UTlSLq39QVnIGJ6dvIaW9igUqQvjU",
+          "title": "Katholieke Hogeschool Leuven",
+          "subtitle": "Bachelor in Sociaal Werk, Maatschappelijk werk ",
+          "caption": "2008 - 2010",
+          "subComponents": []
+        },
+        {
+          "companyId": "15090693",
+          "companyUrn": "urn:li:fsd_company:15090693",
+          "companyLink1": "https://www.linkedin.com/school/katholieke-hogeschool-leuven/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHGHGIUXeAaFA/company-logo_400_400/company-logo_400_400/0/1630660049027/katholieke_hogeschool_leuven_logo?e=1785369600&v=beta&t=8PfjxucVE9P6J7UTlSLq39QVnIGJ6dvIaW9igUqQvjU",
+          "title": "Katholieke Hogeschool Leuven",
+          "subtitle": "Bachelorgraad, Bachelor in Verpleegkunde",
+          "caption": "2005 - 2008",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/harryjamesmoss",
+  "row_key": "id:003Uk00000kMfRrIAK",
+  "person": "Harry Moss",
+  "account": "University College London",
+  "fetched_at": "2026-07-14T10:53:02Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABfjLakB_VT6_cWSXqseVDyKC5QIAZBXgRk",
+      "firstName": "Harry",
+      "lastName": "Moss",
+      "fullName": "Harry Moss",
+      "publicIdentifier": "harryjamesmoss",
+      "headline": "Senior Research Software Developer @ UCL",
+      "about": "Senior Research Software Developer within the UCL Centre for Advanced Research Computing, contributing to cutting-edge machine learning (ML) software solutions with over 5 years of experience in research software development. Focused on advancing ML workflows, MLOps pipelines, and NLP methodologies, particularly within healthcare and social science domains. Recent projects include implementing end-to-end ML pipelines for text classification in social sciences and developing data science platforms to enable ML-powered pipelines in forecasting hospital bed demand.\n\nAt UCL, collaborated with multidisciplinary teams to design scalable solutions leveraging tools like Python, PyTorch, Apache Airflow, MLFlow, and Docker. Passionate about optimising model performance and applying ML in non-traditional domains to drive impactful research outcomes. Dedicated to empowering researchers through robust software engineering practices and fostering innovation in the intersection of technology and healthcare.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Research",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHt23alWAjQhQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517569810613?e=1785369600&v=beta&t=kEhEQnQjGvJVbRKWNUpEiI-iuIrrk82GSOKhYWuTwFU",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHt23alWAjQhQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517569810627?e=1785369600&v=beta&t=f80fb6qWSFj7pU8no3UXnFELCekW_D-42GcYg6CtRNs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHt23alWAjQhQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517569810881?e=1785369600&v=beta&t=6cC-cSsZ01euR-tAH7gKC1OIxpWg9UohpRt1JuNk9Eg"
+        },
+        {
+          "width": 334,
+          "height": 334,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHt23alWAjQhQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517569810613?e=1785369600&v=beta&t=PqVDS8L7tXCTUIIkEBY79JkAxLihHxkQSNJYcaeJA40"
+        },
+        {
+          "width": 334,
+          "height": 334,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHt23alWAjQhQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517569810613?e=1785369600&v=beta&t=kEhEQnQjGvJVbRKWNUpEiI-iuIrrk82GSOKhYWuTwFU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "UCL",
+          "subtitle": "Part-time · 5 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Research Software Developer",
+              "caption": "Oct 2022 - Present · 3 yrs 3 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Senior Research Software Developer and Machine Learning Engineer in the Research Software Development Group within the UCL Centre For Advanced Research Computing."
+                }
+              ]
+            },
+            {
+              "title": "Research Software Developer",
+              "caption": "Aug 2020 - Oct 2022 · 2 yrs 2 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Research Software Developer within the UCL Centre For Advanced Research Computing. An exciting consultancy-style role that allowed me to work with researchers from across the University. I worked extensively in a MLOps-oriented role within a machine learning-driven project to forecast bed demand in hospitals. I also built an end-to-end pipeline to implement and fine-tune several classes of machine learning models for text classification in a social science scenario.\n\nSome of the technologies I regularly used and interacted in this role were:\n- Python\n- PyTorch\n- MLFlow\n- Apache Airflow\n- Docker\n- Kubernetes\n- Tensorflow"
+                }
+              ]
+            },
+            {
+              "title": "Postdoctoral Research Associate",
+              "caption": "Feb 2021 - Feb 2022 · 1 yr",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "One year part-time secondment as an NLP researcher in the UCL Social Research Institute within the Institute of Education. During this project I led the technical design and implementation of a Python-based software package to implement, train and test several machine learning models, comparing the performance of a 'classical' ML solution to state-of-the-art Transformer-based models and other neural network architectures within classification problems using longitudinal survey data. This PyTorch-driven project used several ML Ops methodologies to track experiment performance and dataset versioning, with peer-reviewed results published."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "12766",
+          "companyUrn": "urn:li:fsd_company:12766",
+          "companyLink1": "https://www.linkedin.com/company/the-british-library/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEIuvPgX0AU-Q/company-logo_400_400/company-logo_400_400/0/1713864831353/the_british_library_logo?e=1785369600&v=beta&t=W0OwazSqlx98TYgSAx7i_01BQnx8B9RXbBze2cigHik",
+          "title": "Research Software Engineer",
+          "subtitle": "The British Library . undefined",
+          "caption": "May 2019 - Aug 2020 · 1 yr 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I worked within the Endangered Archive Programme (EAP) to train and deploy convolutional neural networks for supervised learning on classification tasks. I used several cloud platforms including AWS and Google Cloud Platform (GCP) with the fastai and PyTorch Python libraries to determine the orientation of digitised items within the EAP collection. \n\nOther key aspects of my position included:\n\n- Explaining key machine learning concepts to colleagues\n- Delivering tutorials in popular Python data science and data visualisation libraries\n- Supervising students undergoing a PGCert qualification in Python and SQL\n- Working both autonomously and closely with other developers to determine solutions to problems encountered by research colleagues\n- Developing and maintaining C# software frameworks to ingest digitised copies of library collection items"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "8421",
+          "companyUrn": "urn:li:fsd_company:8421",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sheffield/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEORSKOZDnu4A/company-logo_400_400/company-logo_400_400/0/1667299950450/university_of_sheffield_logo?e=1785369600&v=beta&t=t-pfeDh1RK6vvmyPsbHU1nBjQtu6LO0YMq9NGTXd_Bs",
+          "title": "The University of Sheffield",
+          "subtitle": "Full-time · 4 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Postdoctoral Research Associate",
+              "caption": "Sep 2018 - Apr 2019 · 7 mos",
+              "metadata": "Sheffield, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Investigation of muon tomography for the structural analysis of volcanoes."
+                }
+              ]
+            },
+            {
+              "title": "PHD Student",
+              "caption": "Oct 2014 - Sep 2018 · 3 yrs 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "PhD student in high energy physics involved in work related to the ATLAS detector and supersymmetry research at CERN, in particular the improvement of key background estimates through data-driven methods. Thesis Title: \"Multijet Background Estimation for Supersymmetry Searches and Radiation Damage Studies with the ATLAS Detector\""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Kubernetes Essential Training: Application Development",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Introduction to Machine Learning in Production",
+          "subtitle": "Coursera",
+          "issued": "Issued Jun 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Neural Networks and Deep Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Building RESTful Web APIs with Django",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning Django",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Society of Research Software Engineering",
+          "subtitle": "Ordinary Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Institute of Physics",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "ML Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Prompt Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Application Programming Interfaces (API)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MLOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PyTorch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "fast.ai",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fortran",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Particle Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Numerical Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LaTeX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8421",
+          "companyUrn": "urn:li:fsd_company:8421",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sheffield/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEORSKOZDnu4A/company-logo_400_400/company-logo_400_400/0/1667299950450/university_of_sheffield_logo?e=1785369600&v=beta&t=t-pfeDh1RK6vvmyPsbHU1nBjQtu6LO0YMq9NGTXd_Bs",
+          "title": "The University of Sheffield",
+          "subtitle": "Doctor of Philosophy - PhD, Physics",
+          "caption": "2014 - 2019",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "PhD in high energy physics working on the ATLAS detector situated on the LHC at CERN, degree awarded 9th January 2019. Thesis title: \"Multijet Background Estimation for Supersymmetry Searches and Radiation Damage Studies with the ATLAS Detector\""
+            }
+          ]
+        },
+        {
+          "companyId": "8421",
+          "companyUrn": "urn:li:fsd_company:8421",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sheffield/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEORSKOZDnu4A/company-logo_400_400/company-logo_400_400/0/1667299950450/university_of_sheffield_logo?e=1785369600&v=beta&t=t-pfeDh1RK6vvmyPsbHU1nBjQtu6LO0YMq9NGTXd_Bs",
+          "title": null,
+          "subtitle": "MPhys Physics, Sheffield Students for the Exploration and Development of Space - Inclusions Officer, \n\nSheffield Physoc",
+          "caption": "2010 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class Honours"
+            },
+            {
+              "type": "insightComponent",
+              "text": "4 year integrated Masters degree providing a broad base of skills in Physics, with modules chosen to focus on Particle Physics."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Demonstrator - The Big Bang Fair 2015",
+          "subtitle": "On behalf of The University of Sheffield",
+          "caption": "Mar 2015 - Present · 10 yrs 10 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Design and construction of a collimation system for fast neutrons",
+          "subtitle": "Jul 2013 - Jul 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with The University of Sheffield"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "A collimation system for a fast neutron generator was designed and built. The generator uses Deuterium-Tritium fusion to create an isotropic source of neutrons, shielding was to be designed such that neutrons are only permitted to escape in a V shape above the generator, with neutrons elsewhere absorbed by the shielding."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cosmic Rays in Nuclear Security",
+          "subtitle": "Oct 2013 - Jun 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with The University of Sheffield"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "GEANT4 simulations were employed to investigate the application of muon induced fission events in the detection of nuclear materials in shipping cargo via the coincidence detection of neutrons with the detected absence of a muon."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

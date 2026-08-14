@@ -1,0 +1,472 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/felixbragman",
+  "row_key": "id:0033l0000330lG2AAI",
+  "person": "Felix Bragman",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:43Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAs9FS4BsstkH0pDn6grDjVV_2zeSQopVB8",
+      "firstName": "Felix",
+      "lastName": "Bragman",
+      "fullName": "Felix Bragman",
+      "publicIdentifier": "felixbragman",
+      "headline": "AI Research @ Wayve",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18294957",
+          "companyUrn": "urn:li:fsd_company:18294957",
+          "companyLink1": "https://www.linkedin.com/company/wayve-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEIF1ws28R1FQ/company-logo_200_200/B4EZ6XI8MRJAAE-/0/1780652164590/wayve_technologies_logo?e=1785369600&v=beta&t=byYxeudjvKxAr3tq3mC_reE5LnsgCirhkKp6VI3vsrY",
+          "title": "Applied Scientist ",
+          "subtitle": "Wayve . Full-time",
+          "caption": "Jul 2025 - Present · 6 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Efficient ML and World Modelling\n• nested architecture learning\n• object-centric representation learning\n• memory"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal AI Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Nov 2021 - May 2025 · 3 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• AI Tech Lead for the development of an intra-operative surgical guidance model\n\n• R&D of ML/CV algorithms for visual reasoning and processing of surgical videos across:\n     - multi-task learning\n     - video instance segmentation\n     - long-context modelling & memory compression\n     - transformer/Mixture of Expert models"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3489649",
+          "companyUrn": "urn:li:fsd_company:3489649",
+          "companyLink1": "https://www.linkedin.com/company/emedhealthcareuk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHh5osD3S9-dg/company-logo_400_400/company-logo_400_400/0/1719257925944/emedhealthcareuk_logo?e=1785369600&v=beta&t=n_hQeAUNajbDspRTw1cdPl3Sx-Xmw5jBTvKNVGvDFTA",
+          "title": "Babylon",
+          "subtitle": "Full-time · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Research Scientist",
+              "caption": "Mar 2021 - Nov 2021 · 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Representation learning from health records:\n• Graph neural networks and language modelling for learning from EHRs\n• Developed a PyTorch software library for learning from medical time-series data"
+                }
+              ]
+            },
+            {
+              "title": "Research Scientist",
+              "caption": "Jun 2019 - Mar 2021 · 1 yr 9 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Generative modelling and causal inference for learning fair classifiers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "Research Associate",
+          "subtitle": "UCL . undefined",
+          "caption": "Jul 2017 - Jun 2019 · 1 yr 11 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Deep learning and multi-task learning algorithms for computer vision \n• Task-specific and shared representations in multi-task learning (oral @ ICCV 2019, top 4%)\n• Multi-task Bayesian objective functions (oral @ MICCAI 2018, top 5%)\n• Dev for NiftyNet (http://niftynet.io/): a TensorFlow-based open-source platform for research in medical vision"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "MICCAI Travel Award",
+          "subtitle": "Issued by MICCAI",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Travel Award issues by MICCAI for the top 50 best papers at the conference"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "British Lung Foundation Travel Award",
+          "subtitle": "Issued by British Lung Foundation",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Travel award provided by the British Lung Foundation to the European Respiratory Society conference, awarded to early-career clinical and/or non-clinical researchers in the respiratory field."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Professor Sir Michael Brady Prize",
+          "subtitle": "Issued by University of Oxford, Department of Engineering Science",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Professor Sir Michael Brady Prize awarded for the overall best performance (dissertation and examinations) in the Masters in Biomedical Engineering at the University of Oxford."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Blonstein Award",
+          "subtitle": "Issued by University College London, Department of Mechanical Engineering",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Prize awarded for the best performance in the final-year engineering design module of UCL Mechanical Engineering. Design projects included: a) design of an articulated crane, b) design and computational modelling of a hydraulic system for an articulated crane, and c) design and computational modelling of a gearbox."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "University College London Dean's List",
+          "subtitle": "Issued by University College London",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Dean's List is awarded to students who excel in their chosen field and achieve an average of at least 75% (GPA 4.0)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Mathematical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Vision",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Biomedical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Image Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Image Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Signal Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LaTeX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Mining",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Materials Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cell Signaling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cancer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "UCL",
+          "subtitle": "Doctor of Philosophy (Ph.D.), Computer Vision",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Computer vision and machine learning to better phenotype COPD from 3D Computed Tomography (CT)\n\nDeveloped methods for: \n• Lung disease subtype classification (MICCAI)\n• Image segmentation of pulmonary structures using Gaussian Mixture Models (IEEE TMI)\n• Unsupervised learning of lung CT scans for disease progression modelling (MICCAI)\n• Disease progression modelling of COPD heterogeneous data for subtype identification (AJRCCM, <10% acceptance)"
+            }
+          ]
+        },
+        {
+          "companyId": "4477",
+          "companyUrn": "urn:li:fsd_company:4477",
+          "companyLink1": "https://www.linkedin.com/school/oxforduni/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1785369600&v=beta&t=YWZ_dcWkHXOGDiT8--gbh6rFHaRC3LwtP7-KaBVekrM",
+          "title": "University of Oxford",
+          "subtitle": "Master of Science (M.Sc.), Biomedical Engineering",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Distinction"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Awards: The Professor Sir Michael Brady Prize (Best Performance in the M.Sc. Biomedical Engineering)"
+            }
+          ]
+        },
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "University College London, U. of London",
+          "subtitle": "Bachelor of Engineering (B.Eng.), Mechanical Engineering",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class Honours"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Specialisations: Fluid Mechanics, Mathematics and Applied Mechanics & Dynamics \n\nAwards:\nDean's List (Year 2 and 3)\nBlonstein Award in Mechanical Engineering"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "UCL Mini-MD in Medical Imaging",
+          "subtitle": "Jul 2016 - Jul 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "An intensive two-week course based at the Royal Free Hospital and the Institute of Neurology. \n\nThe aim was to learn more about the practice of medical imaging  to gain insight about the clinical care pathway. This course allowed us to meet with patients and interact with various consultants. We learned about the current limitations in healthcare technology and discussed what future developments would be most beneficial for the patient."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pulmonary Toolkit - software suite for the analysis of 3D medical lung images",
+          "subtitle": "Sep 2011 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Contributor to the Pulmonary Toolkit - developed by Dr. Tom Doel. The software includes lung, airway and lobe segmentation in addition to various quantitative tools."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

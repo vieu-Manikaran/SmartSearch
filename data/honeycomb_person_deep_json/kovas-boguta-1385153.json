@@ -1,0 +1,238 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/kovas-boguta-1385153",
+  "row_key": "id:003Uk00000qTpXhIAK",
+  "person": "Kovas Boguta",
+  "account": "Midjourney",
+  "fetched_at": "2026-07-14T10:21:17Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAACcH3wBWd0U_WRLpVhJbWK5_VHBeYqG9sY",
+      "firstName": "Kovas",
+      "lastName": "Boguta",
+      "fullName": "Kovas Boguta",
+      "publicIdentifier": "kovas-boguta-1385153",
+      "headline": "MLE / ML research engineer",
+      "about": "Machine Learning Engineer skilled at bridging Engineering, Product, and Research. Repeat founder / tech lead / instigator of high-impact technically challenging 0-to-1 projects. Tensorflow: 6 yoe, JAX: 3 yoe, Data engineering: 10 yoe, MLOps, RPC services, Python & JVM ecosystems.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Oakland, California United States",
+      "addressWithoutCountry": "Oakland, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "82318617",
+          "companyUrn": "urn:li:fsd_company:82318617",
+          "companyLink1": "https://www.linkedin.com/company/midjourney/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdHwWJr1YZhg/company-logo_400_400/company-logo_400_400/0/1697570621105/midjourney_logo?e=1785369600&v=beta&t=ElVxt5ls8qroFbwD7FQPIaTQ15Aqv5XDw7EM4RZBPOU",
+          "title": "Staff Machine Learning Engineer",
+          "subtitle": "Midjourney . Full-time",
+          "caption": "Jan 2023 - Present · 3 yrs",
+          "metadata": "Oakland, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "96622",
+          "companyUrn": "urn:li:fsd_company:96622",
+          "companyLink1": "https://www.linkedin.com/company/twitter/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJZABhJ-eE0g/company-logo_400_400/company-logo_400_400/0/1690242317195/twitter_logo?e=1785369600&v=beta&t=d_lTrDYN3d7erdUCRiJ4Qwntuja93soRpjBR33eZyo0",
+          "title": "Staff Research Engineer",
+          "subtitle": "Twitter . Full-time",
+          "caption": "2016 - Present · 10 yrs",
+          "metadata": "Oakland, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Tech lead for Cortex Applied Research - Home Timeline collaboration. Tech lead for applying Knowledge Graph learning methods for Twitter’s flagship Home Timeline product, resulting in causal +16M UAM.\n• Founding Tech Lead for Topics Annotation Team. Shipped Twitter’s first successful ML-based topic classification model & underlying infra supporting 500k QPS to unlock a causal +1 million mDAU product innovation. Lead technical strategy & execution for team of 10 ICs; partnered with Director-level product & engineering leadership and orchestrated execution across a multitude of cross-functional efforts. Scaled human labeling throughput 100x by simplifying annotation criteria, automating process, and winning greater investment from leadership. Architected migration of inference pipeline to GCP resulting in 15x lower cost per tweet, +4M UAM and +$15M revenue. Orchestrated migration of cornerstone datasets to BigQuery resulting in 5x speedup in modelling iteration.\n• Pioneered Twitter’s First Tensorflow implementation. Recruited an adhoc team, formulated a strategy & co-designed an MVP executable within tight resource constraints, resulting a a TF-based NER model within 2 quarters that brought +4M UAM and influenced senior leadership to adopt TF as Twitter’s next-generation ML platform.\n• Founding Tech Lead of Cortex ML Platform team. Saw need, obtained funding (+2 ICs) & lead development of a suite of integrated productionization capabilities. Streamlined sequences of model training, evaluation, testing, deployment, with associated orchestration & metadata tracking.\n• Implemented DeepBird, Twitter’s first deep learning platform. Designed & implemented core modelling API, implemented integration between JVM-based serving stack and Lua-based ML stack, drove productionization pilots & debugging cycles with early customers, wrote documentation & course materials, resulting in 5-20 percent metrics wins across most product surfaces and over 1000+ models created."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Open Source Developer",
+          "subtitle": "Independent . undefined",
+          "caption": "2013 - Present · 13 yrs",
+          "metadata": "Greater New York City Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Created Gamma, a Clojure EDSL for GPU metaprogramming \t\t\n• Created Session, a notebook-like computing environment for Clojure"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "167842",
+          "companyUrn": "urn:li:fsd_company:167842",
+          "companyLink1": "https://www.linkedin.com/company/weebly/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHcjXpushYiRQ/company-logo_400_400/company-logo_400_400/0/1630590128284/weebly_logo?e=1785369600&v=beta&t=Xo4bpQvnia7eFyqZJvZkNWCYZcK3cupDaY8QhCrQcRU",
+          "title": "Head of Analytics",
+          "subtitle": "Weebly . undefined",
+          "caption": "2010 - 2013 · 3 yrs",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Owned analytics during growth from 3 to 30 million users, 20x revenue growth\n• Collaborated with C-suite and engineering teams to extract and implement insights\n• End-to-end responsibility for: ETL, cluster operations, analysis code, dashboards, self-service reports\n• Visualized the business for Sequoia Capital diligence team, ‘one of the best jobs [they’ve] seen.’"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Founder",
+          "subtitle": "Infoharmoni . undefined",
+          "caption": "2009 - 2010 · 1 yr",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Admitted to YCombinator\n• Developed Twitter visualization algorithms and data processing pipelines \n• Published first­-of-­their-­kind visualizations of the Iranian “green” protests and the Egyptian revolution"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10199",
+          "companyUrn": "urn:li:fsd_company:10199",
+          "companyLink1": "https://www.linkedin.com/company/wolfram-research/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0-xEV33mp1A/company-logo_400_400/company-logo_400_400/0/1631301014132?e=1785369600&v=beta&t=w1YGxz99qOrdCfy229823dcM8bGrhnX4ZGnXg3K-INs",
+          "title": "Senior Research Associate",
+          "subtitle": "Wolfram Research . undefined",
+          "caption": "2003 - 2008 · 5 yrs",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Spearheaded development of major projects for Wolfram Alpha and Mathematica\n• Developed natural language parsers and queries for Wolfram Alpha \n• Developed “language-integrated data” for Mathematica, including data curation and API design\n• Developed data science experiment warehouse, representation and publishing system\n• Implemented algorithms and experiments for A New Kind of Science-related projects \n• Interfaced with research community, spoke at academic conferences, reviewed for Complex Systems"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Mathematica",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Visualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Mining",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3881",
+          "companyUrn": "urn:li:fsd_company:3881",
+          "companyLink1": "https://www.linkedin.com/school/uchicago/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbp_dv8CAlpQ/company-logo_400_400/company-logo_400_400/0/1630577480920/uchicago_logo?e=1785369600&v=beta&t=hNnHdbG-3ipmDdtYF5LkSwN6zynKzhwpTTgbGRQGTX4",
+          "title": null,
+          "subtitle": "Bachelor’s Degree, Mathematics and Computer Science",
+          "caption": "1998 - 2002",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

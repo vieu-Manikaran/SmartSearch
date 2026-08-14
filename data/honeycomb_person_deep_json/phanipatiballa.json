@@ -1,0 +1,485 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/phanipatiballa",
+  "row_key": "id:003Uk0000090cjJIAQ",
+  "person": "Phani Patiballa",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:52:44Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABFpmtQBLknP-UBjBzVL0rGsBytoh_lscvI",
+      "firstName": "Phani",
+      "lastName": "Patiballa",
+      "fullName": "Phani Patiballa",
+      "publicIdentifier": "phanipatiballa",
+      "headline": "Lead DevOps Engineer | DevOps, Cloud & Automation Architect | GitLab CI/CD, AWS, VMware, Ansible, Python, FastAPI | MCA, M.Tech in AI/ML",
+      "about": "Lead DevOps Engineer with over 13 years of IT experience, specializing in bridging the gap between complex development requirements and stable, scalable infrastructure. Currently, I drive DevOps initiatives at Medtronic, where I focus on automating release cycles, managing virtualization, and building custom tooling to support engineering teams.\n\nKey Areas of Expertise:\n\nCI/CD Orchestration: Architecting pipelines using GitLab CI/CD and Jenkins to automate builds and deployments.\n\nInfrastructure & Virtualization: Managing hybrid environments across AWS (EC2, S3, Lambda), VMware, Docker, and Kubernetes.\n\nBuild Engineering: Expert in packaging and installation automation using InstallShield and Shell Scripting.\n\nConfiguration Management: Automating state management with Ansible and Terraform.\n\nDevSecOps & Coding: Writing production-grade automation scripts in Python and building internal UI tools with ReactJS.\n\nTech Stack: AWS | VMware | GitLab | Jenkins | Docker | Kubernetes | Ansible | Terraform | Python | ReactJS | FastAPI | C# .NET | Selenium\n\nI thrive in Agile environments where I can lead teams, mentor junior engineers, and drive technical innovation.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQETa1TtONYwOw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568807017235?e=1785369600&v=beta&t=HyBQHErd-WFkC3nBRDz83chM-EAcInzB5grhSW2chew",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQETa1TtONYwOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1568807017127?e=1785369600&v=beta&t=Hp4w3oI_k565ME6_MILbtoTDxjT4_Wp4oNNO969g3zI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQETa1TtONYwOw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1568807017101?e=1785369600&v=beta&t=mPerq_jlyJshADeCVCZsjm0xab80lX0irWJGrA1sJJ4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQETa1TtONYwOw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1568807017180?e=1785369600&v=beta&t=5ovjdXQAwapveZk_dvktM0RkXPwjBgdNPCxcs0LEn-s"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQETa1TtONYwOw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568807017235?e=1785369600&v=beta&t=HyBQHErd-WFkC3nBRDz83chM-EAcInzB5grhSW2chew"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Lead DevOps Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Sep 2018 - Present · 7 yrs 4 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1044",
+          "companyUrn": "urn:li:fsd_company:1044",
+          "companyLink1": "https://www.linkedin.com/company/pwc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=1785369600&v=beta&t=7BD9Id14fDdTuceDb8vFSWlANrjlMUvKIWzWESy7ZYg",
+          "title": "Senior Consultant",
+          "subtitle": "PwC . undefined",
+          "caption": "Jun 2017 - Sep 2018 · 1 yr 3 mos",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1353",
+          "companyUrn": "urn:li:fsd_company:1353",
+          "companyLink1": "https://www.linkedin.com/company/tata-consultancy-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_400_400/company-logo_400_400/0/1708946550425/tata_consultancy_services_logo?e=1785369600&v=beta&t=argHyOHxOL8b_6ayqv8Ix2k-fvrql9BXSBmDI9iR4jw",
+          "title": "IT Analyst",
+          "subtitle": "Tata Consultancy Services . undefined",
+          "caption": "Mar 2012 - May 2017 · 5 yrs 2 mos",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "1. Making Technical design specification from Functional Specification provided by client and then development on the same. \n2. Developing .Net Components in VB.NET for Business logic, Workflows , client-side scripting in JavaScript\n3. Interactive GUI design. \n4. Making the product compatible with Base Product TCS B@NCS \n5. Maintaining Database,Backup,Restore at Developer Level ,Designing SPs,UDFs in SQLServer 2005,2008\n6. Resolving Quality Assurance Incidence Requests.\n7. Developing HTML\n8. Deployment of new website in IIS and hence the IIS administration for the same. \n9. Unit Testing"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Vibe Coding with GitHub Copilot",
+          "subtitle": "Scrimba",
+          "issued": "Issued Dec 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCPS: Microsoft Certified Professional",
+          "subtitle": "Microsoft",
+          "issued": "Issued Aug 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "838197",
+          "companyUrn": "urn:li:fsd_company:838197",
+          "companyLink1": "https://www.linkedin.com/company/aspiring-minds/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGv-bQANStG4g/company-logo_400_400/company-logo_400_400/0/1630576086556/aspiring_minds_logo?e=1785369600&v=beta&t=_CVTP01WXE_Izf5iWD81W3wOuu5-fVSe8Qg7KQ7YQjg",
+          "title": "AMCAT Certified Data Processing Specialist",
+          "subtitle": "Aspiring Minds",
+          "issued": "Issued Sep 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "838197",
+          "companyUrn": "urn:li:fsd_company:838197",
+          "companyLink1": "https://www.linkedin.com/company/aspiring-minds/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGv-bQANStG4g/company-logo_400_400/company-logo_400_400/0/1630576086556/aspiring_minds_logo?e=1785369600&v=beta&t=_CVTP01WXE_Izf5iWD81W3wOuu5-fVSe8Qg7KQ7YQjg",
+          "title": "AMCAT Certified Software Engineer - IT Services",
+          "subtitle": "Aspiring Minds",
+          "issued": "Issued Sep 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "838197",
+          "companyUrn": "urn:li:fsd_company:838197",
+          "companyLink1": "https://www.linkedin.com/company/aspiring-minds/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGv-bQANStG4g/company-logo_400_400/company-logo_400_400/0/1630576086556/aspiring_minds_logo?e=1785369600&v=beta&t=_CVTP01WXE_Izf5iWD81W3wOuu5-fVSe8Qg7KQ7YQjg",
+          "title": "AMCAT Certified Software Engineer - Product",
+          "subtitle": "Aspiring Minds",
+          "issued": "Issued Sep 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Oct 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "871226",
+          "companyUrn": "urn:li:fsd_company:871226",
+          "companyLink1": "https://www.linkedin.com/company/scrum-alliance/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1785369600&v=beta&t=qBtgg53rCKw2oOgOBvhjCNHdXc-pOCqxkZXmd518BUs",
+          "title": "Certified ScrumMaster (CSM)",
+          "subtitle": "Scrum Alliance",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Shaping up with Angular.js",
+          "subtitle": "Code School",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telugu",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gitlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware vSphere",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ansible",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure as code (IaC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sonarqube",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "InstallShield Professional",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JFrog Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flask",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FastAPI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "739903",
+          "companyUrn": "urn:li:fsd_company:739903",
+          "companyLink1": "https://www.linkedin.com/school/birla-institute-of-technology-and-science-pilani/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHJcHjUCqWVbA/company-logo_400_400/company-logo_400_400/0/1695033146996/birla_institute_of_technology_and_science_pilani_logo?e=1785369600&v=beta&t=AshfEVyfk1xiK7wvJ6wubqsdeP160DBqbO00zrcypnI",
+          "title": "Birla Institute of Technology and Science, Pilani",
+          "subtitle": "Master of Technology - MTech, Artificial Intelligence and Machine Learning",
+          "caption": "Oct 2023 - Oct 2025",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "8.57"
+            }
+          ]
+        },
+        {
+          "title": "CVR college of engineering",
+          "subtitle": "Master of Computer Applications (MCA), Computer Science",
+          "caption": "2008 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Completed Post graduation in Master of Computer Applications (M.C.A)"
+            }
+          ]
+        },
+        {
+          "title": "Sri Balasai Degree College",
+          "subtitle": "Bachelor of Science (BS), Computer Science",
+          "caption": "2005 - 2008",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Completed Graduation in Computer Science"
+            }
+          ]
+        },
+        {
+          "title": "Annie besant Sisu vidya mandir",
+          "subtitle": "SSC, null",
+          "caption": "2000 - 2003",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Completed SSC in 2003 with 83%"
+            }
+          ]
+        },
+        {
+          "title": "Annie besant Sisu vidya mandir",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

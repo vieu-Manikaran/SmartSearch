@@ -1,0 +1,326 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/nitin-chopra-91a392111",
+  "row_key": "id:003Uk00000yfStIIAU",
+  "person": "Nitin Chopra",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:46Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABv_n6YB0qLyMRBo2hfK66iMtOEv5fFwnt8",
+      "firstName": "Nitin",
+      "lastName": "Chopra",
+      "fullName": "Nitin Chopra",
+      "publicIdentifier": "nitin-chopra-91a392111",
+      "headline": "Senior Software Engineer | Compliance-Tech & Onboarding Systems | Built Regulatory Policy + RFI Engines at Coinbase | 6+ yrs Fintech + Scalable Systems | Conscious Lifestyle",
+      "about": "I build systems that make regulatory compliance scalable, auditable, and human-centered.\nAs a Senior Software Engineer (IC5) at Coinbase, I helped shape the company’s compliance backbone—co-architecting the Regulatory Policies Engine and RFI orchestration platform that power our global EDD and KYC journeys. These systems transformed compliance from a bottleneck into a capability: submission rates rose from 17% → 86%, 7-day completion improved 60%, and manual reviews dropped nearly half, all while meeting strict UK and U.S. regulatory expectations.\n\nMy work sits at the intersection of engineering, regulation, and design—turning ambiguous policies into deterministic code paths and measurable user impact. I’ve led teams through re-platforming the KYC Refresh engine, supported the U.S. regulatory monitorship exit (> $200 M cost avoidance), and driven collaboration across Legal, Product, and Engineering to align user experience with auditability.\n\nBefore Coinbase, I built resilient data pipelines and infra at DE Shaw and Karza Technologies, mastering the craft of microservices, observability, and cloud performance at scale.\n\nNow, I’m seeking to deepen that journey—contributing to compliance-tech and onboarding systems that shape the next generation of transparent, regulation-ready fintech. My toolbox spans Python, Go, Java, Node.js, PostgreSQL, Kubernetes, and AWS, but my real focus is building trustworthy systems that regulators respect and users never notice.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jan 2025 - Present · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Senior engineer passionate about turning complex regulatory frameworks into elegant, scalable code. Built Coinbase’s core Regulatory Policies Engine and RFI orchestration platform, driving massive gains in EDD/KYC efficiency and compliance readiness across global markets."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Apr 2022 - Jan 2025 · 2 yrs 9 mos",
+              "metadata": "Remote",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "6603026",
+          "companyUrn": "urn:li:fsd_company:6603026",
+          "companyLink1": "https://www.linkedin.com/company/karza-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGdBcerOjG2Xg/company-logo_400_400/company-logo_400_400/0/1675239943137/karza_technologies_logo?e=1785369600&v=beta&t=_4Vi3yuCKAKzRw8X0VPrcvL2kBv258pjHwktZ-OQG38",
+          "title": "Sr. Software Engineer",
+          "subtitle": "Karza Technologies . Full-time",
+          "caption": "Aug 2021 - Mar 2022 · 7 mos",
+          "metadata": "Mumbai, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9498084",
+          "companyUrn": "urn:li:fsd_company:9498084",
+          "companyLink1": "https://www.linkedin.com/company/arcesium/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH4YHaLzqr73A/company-logo_400_400/company-logo_400_400/0/1719936099528/arcesium_logo?e=1785369600&v=beta&t=8WXgQwxvdnf73-jiVWxFNiZKtGx2fxkKHaQF-RqAxW8",
+          "title": "Arcesium",
+          "subtitle": "Full-time · 2 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2021 - Aug 2021 · 6 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jul 2019 - Jan 2021 · 1 yr 6 mos",
+              "metadata": "Hyderabad Area, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Coordinator",
+          "subtitle": "Fash Club . undefined",
+          "caption": "Apr 2017 - Apr 2018 · 1 yr",
+          "metadata": "BITS Pilani, KK Birla Goa Campus",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Events and Logistics Coordinator",
+          "subtitle": "BITS Alumni Affairs Division . undefined",
+          "caption": "Mar 2017 - Apr 2018 · 1 yr 1 mo",
+          "metadata": "BITS Pilani, K K Birla Goa Campus",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Core Member",
+          "subtitle": "Bits Alumni Affairs Divison . undefined",
+          "caption": "Apr 2016 - Apr 2018 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Clear Communications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Program Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stakeholder Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PEP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sanctions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Request for Information (RFI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "EDD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "KYC Verification",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Event Driven Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Api design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Solution Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Requirements",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Discussions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Birla Institute of Technology and Science, Pilani - K.K. Birla Goa Campus",
+          "subtitle": "B.E. (Hons.) Electrical & Electronics, null",
+          "caption": "2015 - 2019",
+          "subComponents": []
+        },
+        {
+          "title": "Tagore International School, Jaipur",
+          "subtitle": "null, null",
+          "caption": "2000 - 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

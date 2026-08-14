@@ -1,0 +1,482 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/lynndavenport",
+  "row_key": "id:003Uk00000yfTxoIAE",
+  "person": "Lynn Davenport",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:29Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAEjJocBjdPE0VzuLugWaQtj-WEqUSx7-t4",
+      "firstName": "Lynn",
+      "lastName": "Davenport",
+      "fullName": "Lynn Davenport",
+      "publicIdentifier": "lynndavenport",
+      "headline": "Engineering Director at Medtronic",
+      "about": "With 20+ years at Medtronic I have introduced new technologies that improve the lives of patients experiencing chronic pain, atrial fibrillation or early stage heart failure. I have designed algorithms and products to explore new areas and applications for current and future technologies, supporting a number of IDE trials and bringing that technology into worldwide markets. My experience spans implantable, very low power technologies up to EP focused capital and disposables.\n\nSpecialties: New Product Development, team management, IDE, PMA, system testing, clinical protocol design, verification and validation, HFE, requirement management, standards including 60601, 14708, 62366, submission reviews/responses, Training and Education",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "St Paul, Minnesota United States",
+      "addressWithoutCountry": "St Paul, Minnesota",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 21 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering",
+              "caption": "Dec 2022 - Present · 3 yrs 1 mo",
+              "metadata": "Minnesota, United States",
+              "description": []
+            },
+            {
+              "title": "Engineering Manager",
+              "caption": "Oct 2019 - Mar 2023 · 3 yrs 5 mos",
+              "metadata": "St Paul, Minnesota, United States",
+              "description": []
+            },
+            {
+              "title": "Engineering Manager",
+              "caption": "Oct 2019 - Mar 2023 · 3 yrs 5 mos",
+              "metadata": "St Paul, Minnesota, United States",
+              "description": []
+            },
+            {
+              "title": "Engineering Manager",
+              "caption": "Jul 2019 - Mar 2023 · 3 yrs 8 mos",
+              "metadata": "Mounds View MN",
+              "description": []
+            },
+            {
+              "title": "Principal Systems Engineer",
+              "caption": "Oct 2015 - Oct 2019 · 4 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I am defining the new system and electrical requirements in the phased RF product space for the AF Solutions division of Medtronic. I work closely with marketing, project management and the engineers designing software and hardware solutions."
+                }
+              ]
+            },
+            {
+              "title": "Principal Systems Engineer",
+              "caption": "Jul 2014 - Oct 2015 · 1 yr 3 mos",
+              "metadata": "Greater Minneapolis-St. Paul Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I am the Lead System Development Group Engineer for Pain Stimulation therapy. This role includes managing the project team including systems, standards and human factors engineers and working directly with functional and project leadership to achieve a timely submission for new products in the pain stimulation space."
+                }
+              ]
+            },
+            {
+              "title": "Senior Systems Engineer",
+              "caption": "Jul 2008 - Jul 2014 · 6 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In the Neurostimulation sector of Medtronic, I am working toward the next steps in Spinal Cord Stimulation. In this role, I am integrating the great work of Firmware, Software, Hardware, internal instrumentation and external instrumentation to meet the needs of our customers now and in the future."
+                }
+              ]
+            },
+            {
+              "title": "Senior Scientist",
+              "caption": "Apr 2004 - Jun 2008 · 4 yrs 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Research scientist in medical device industry-including experience in design of clinical and animal trials, design of new pacing algorithms (including full system testing and all associated requirement documentation), data collection, processing and presentation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3324",
+          "companyUrn": "urn:li:fsd_company:3324",
+          "companyLink1": "https://www.linkedin.com/company/iupui/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFdRrVBaWItJA/company-logo_400_400/company-logo_400_400/0/1631319906914?e=1785369600&v=beta&t=cpIFHyI5AnvInkZaU4x87KcdMO1C2Ee2pK6bvVmfa5U",
+          "title": "Research Assistant",
+          "subtitle": "IUPUI . undefined",
+          "caption": "Aug 2002 - Apr 2004 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Masters program with research ongoing in cardiac signal processing--data collection in hospital setting, creating processing tools with Matlab, filter design, explanation and display of data."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Research Associate",
+          "subtitle": "Northwestern University . undefined",
+          "caption": "Jun 2002 - Aug 2002 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "In Biomedical Engineering/Radiology department of Feinberg school of Medicine working on MRI post processing under a Koman grant. This internship was to develop a Graphical User Interface to visualize and process flow indicies of a region of interest in MRI scans."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Technology Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Influence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Attention to Detail",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technology Trends",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Industry standards",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Clinical Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "EP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Premarket Approval (PMA)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Clinical Trials",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Biomedical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15101180",
+          "companyUrn": "urn:li:fsd_company:15101180",
+          "companyLink1": "https://www.linkedin.com/school/indiana-university-indianapolis/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEhfGHQFUl0Fg/company-logo_400_400/company-logo_400_400/0/1706143011039/indiana_universitypurdue_university_indianapolis_logo?e=1785369600&v=beta&t=y9VoaJjsOEi4E-Ilxp-84S_vAui2skVFN95BLLnIzaE",
+          "title": null,
+          "subtitle": "MS, BME",
+          "caption": "2002 - 2004",
+          "subComponents": []
+        },
+        {
+          "companyId": "3196",
+          "companyUrn": "urn:li:fsd_company:3196",
+          "companyLink1": "https://www.linkedin.com/school/northwestern-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH-sXOOSUF3aA/company-logo_400_400/company-logo_400_400/0/1631319371681?e=1785369600&v=beta&t=uwxiA6VV3rL8BLGXfvrOb8Xcd49E1dcOguIJEe3_w2I",
+          "title": null,
+          "subtitle": "BS, President of IEEE Student Section, 2000-2001\nSWE memeber, 1998-present",
+          "caption": "1998 - 2002",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "EE major focusing in medical imaging and implanted technology, specifically the software tools to control acquisition and processing of cardiac gated MRI."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "Section Representative",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2013 - Jul 2015 · 2 yrs",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "SWE-MN Membership co-chair and Data Officer",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2009 - Jul 2013 · 4 yrs",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "SWE-MN Vice President",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2015 - Jul 2016 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "President of Minnesota Section (H006)",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2016 - Present · 9 yrs 6 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "Senator",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2017 - Jul 2019 · 2 yrs",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "Curriculum Committee  Chair Elect",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2021 - Jun 2022 · 11 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "Curriculum Committee Chair",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2022 - Jul 2023 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "Committee Member",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2018 - Present · 7 yrs 6 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20838",
+          "companyUrn": "urn:li:fsd_company:20838",
+          "companyLink1": "https://www.linkedin.com/company/society-of-women-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8-oklRoY9KA/company-logo_400_400/company-logo_400_400/0/1731704648885/society_of_women_engineers_logo?e=1785369600&v=beta&t=QMd80qYdU5NxaqMqOX98UmCbE1Yvk0OsiueDMmkYjOg",
+          "title": "Committee co chair- Awards and Recognition",
+          "subtitle": "Society of Women Engineers",
+          "caption": "Jul 2024 - Jul 2025 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

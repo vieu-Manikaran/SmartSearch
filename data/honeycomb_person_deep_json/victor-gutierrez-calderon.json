@@ -1,0 +1,437 @@
+{
+  "linkedin_url": "https://es.linkedin.com/in/victor-gutierrez-calderon/en",
+  "row_key": "id:003Uk00000m2QZSIA2",
+  "person": "Victor Gutierrez Calderon",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:36:37Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAuELtABKbYeFuwfZheS_O71BIjqxbFJhAc",
+      "firstName": "Victor",
+      "lastName": "Gutierrez Calderon",
+      "fullName": "Victor Gutierrez Calderon",
+      "publicIdentifier": "victor-gutierrez-calderon",
+      "headline": "Full Stack Engineer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "ES",
+        "language": "es"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Spain",
+      "addressWithCountry": "Greater Madrid Metropolitan Area Spain",
+      "addressWithoutCountry": "Greater Madrid Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFYpycKMxBYNg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695013407616?e=1785369600&v=beta&t=_lqEv6um0ubKtXUYCLHjeH8lilUTvekRwjwEX8eo0E0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFYpycKMxBYNg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1695013407616?e=1785369600&v=beta&t=eXKT3OaVCLR71M89zs7otHaatV9g4vGAoOznDYKOPtc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFYpycKMxBYNg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695013407616?e=1785369600&v=beta&t=38Ac9-8VrdpqDBHLjKp7L5Hw1NJOsGITAVUaClKFPSU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFYpycKMxBYNg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1695013407616?e=1785369600&v=beta&t=Df24OdC-9Q18oEd2SKAhQIAwiwfNewEfNPd_vheCX0k"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFYpycKMxBYNg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695013407616?e=1785369600&v=beta&t=_lqEv6um0ubKtXUYCLHjeH8lilUTvekRwjwEX8eo0E0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "111845019",
+          "companyUrn": "urn:li:fsd_company:111845019",
+          "companyLink1": "https://www.linkedin.com/company/entireio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG3TYtfL6EQnA/company-logo_200_200/B56ZxEh405HoAI-/0/1770676260471/entireio_logo?e=1785369600&v=beta&t=TtFpavpfHdUcYjkyg5UwzSiWCmFxDNxagQV4KeLLEv4",
+          "title": "Senior Software Engineer",
+          "subtitle": "Entire . Full-time",
+          "caption": "Dec 2025 - Present · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18409795",
+          "companyUrn": "urn:li:fsd_company:18409795",
+          "companyLink1": "https://www.linkedin.com/company/imos_aus/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGA0Fhd9vvOyQ/company-logo_400_400/company-logo_400_400/0/1705542192965/imos_aus_logo?e=1785369600&v=beta&t=WGn65PHtDBRWcnVBb2SizoyH41BnBnLzdzMpB8Dbykk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Integrated Marine Observing System . Full-time",
+          "caption": "Jul 2025 - Dec 2025 · 5 mos",
+          "metadata": "Hobart, Tasmania, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "20354956",
+          "companyUrn": "urn:li:fsd_company:20354956",
+          "companyLink1": "https://www.linkedin.com/company/c6o/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEI65igh06tZg/company-logo_400_400/company-logo_400_400/0/1738764413501/c6o_logo?e=1785369600&v=beta&t=rbom6U90PQWZmZc_b7ONGtAMxhnSjGHNgM9VgxrlukU",
+          "title": "Software Engineer",
+          "subtitle": "Codezero Technologies Inc. . Full-time",
+          "caption": "Feb 2024 - Aug 2025 · 1 yr 6 mos",
+          "metadata": "Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "72015769",
+          "companyUrn": "urn:li:fsd_company:72015769",
+          "companyLink1": "https://www.linkedin.com/company/planpay/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZX3S_3Fhcig/company-logo_400_400/company-logo_400_400/0/1675143760409/planpay_logo?e=1785369600&v=beta&t=vZxxL0XwiJmE33RFYbhnTQCQfSyfbuKflislx4yYOvE",
+          "title": "Full Stack Engineer",
+          "subtitle": "Planpay . Full-time",
+          "caption": "Dec 2022 - Sep 2023 · 9 mos",
+          "metadata": "Sídney, Nueva Gales del Sur, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2452379",
+          "companyUrn": "urn:li:fsd_company:2452379",
+          "companyLink1": "https://www.linkedin.com/company/palo-it/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEQmh19O9qjDg/company-logo_400_400/company-logo_400_400/0/1710732032132/palo_it_logo?e=1785369600&v=beta&t=I46vuoxhhFpodHIgV4un5mwuNK5fTYdOImPlJeXpNrI",
+          "title": "Full Stack Engineer",
+          "subtitle": "PALO IT . Full-time",
+          "caption": "Aug 2021 - Dec 2022 · 1 yr 4 mos",
+          "metadata": "Sydney, NSW, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "PALO IT is an international software development and consulting firm with a strong focus on digital and technology innovation. Our approach takes the best of Design Thinking, Agile and DevOps to help our clients disrupt their industries, reduce their time-to-market and successfully run their digital transformations. We also have a strong expertise in the FinTech space.\n\nIn Singapore, we have a team of 125 consultants (300 globally), ranging from User Researchers, UX designers, Developers, Scrum Masters, Agile coaches, DevOps/cloud experts, Architects to Big Data Specialists.\n\nOur services are organised around 3 pillars:\n\nInnovation:\n\nWe help you identify and test new products or business models through design thinking and rapid prototyping\n\nWe help you solve business challenges leveraging on latest technology trends such as Blockchain, VR, IOT, chatbot, AI\n\nDelivery:\n\nOur Scrum Team builds products and delivers software leveraging on Agile project management and engineering practices (CI/CD)\nTransformation:\n\nProcess: We help you through your Agile transformation - training and coaching of both business and IT teams\n\nTech: We help you adopt DevOps, cloud, omni-channels architecture and data driven organisation models\n\nIf you want to know more about our services or if you are interested to join our awesome team, contact us at australia@palo-it.com."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "811958",
+          "companyUrn": "urn:li:fsd_company:811958",
+          "companyLink1": "https://www.linkedin.com/company/db-telecom-mx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtPS1YYxecig/company-logo_400_400/company-logo_400_400/0/1719258001572/db_telecom_mx_logo?e=1785369600&v=beta&t=YxWrUnCskWT5EKNyBusWp1uvOefugBGFmApgRXKwiyg",
+          "title": "Freelance Software Engineer",
+          "subtitle": "Autonomo . undefined",
+          "caption": "Apr 2019 - Aug 2021 · 2 yrs 4 mos",
+          "metadata": "Sídney y alrededores, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Technical Expert",
+          "subtitle": "BEEVA . undefined",
+          "caption": "Nov 2017 - Apr 2019 · 1 yr 5 mos",
+          "metadata": "Madrid Area, Spain",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Member of a BBVA team, I am in charge of developing testing frameworks for every type of application that BBVA company is developing.\n- Mobile: Android\n- Tablet\n- Web"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1101442",
+          "companyUrn": "urn:li:fsd_company:1101442",
+          "companyLink1": "https://www.linkedin.com/company/ampl-a-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF0hgX1F8Zo3g/company-logo_400_400/company-logo_400_400/0/1631352062570?e=1785369600&v=beta&t=KXpWD4adf1v7NH2w-9qTTognHEqXDNJID2idmz1PLyU",
+          "title": "Software developer",
+          "subtitle": "Amplia ))) . undefined",
+          "caption": "Jun 2010 - Oct 2017 · 7 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Throughout the path which I was in this company, I have been in charge of:\n- Developing a desktop application, implemented in Java Swing, for 3 months.\n- Developing a desktop application, implemented in C#, for 3 months.\n- Member of backend's team. Developing REST Full services, for 3 years.\n- Member of frontend's team, for 4 years."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "IELTS C1",
+          "subtitle": "IELTS-BRITISH-COUNCIL",
+          "issued": "Issued Nov 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1153894",
+          "companyUrn": "urn:li:fsd_company:1153894",
+          "companyLink1": "https://www.linkedin.com/company/scrum-org/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFzF6WZjNSHkQ/company-logo_400_400/company-logo_400_400/0/1631433558836?e=1785369600&v=beta&t=dHPCYwHmdLBdS_mR4voeGYuTnTO-4BcTHjXe9TQgH3g",
+          "title": "Professional Scrum Developer™ I (PSD I)",
+          "subtitle": "Scrum.org",
+          "issued": "Issued Sep 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1153894",
+          "companyUrn": "urn:li:fsd_company:1153894",
+          "companyLink1": "https://www.linkedin.com/company/scrum-org/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFzF6WZjNSHkQ/company-logo_400_400/company-logo_400_400/0/1631433558836?e=1785369600&v=beta&t=dHPCYwHmdLBdS_mR4voeGYuTnTO-4BcTHjXe9TQgH3g",
+          "title": "Professional Scrum Master™ I (PSM I)",
+          "subtitle": "Scrum.org",
+          "issued": "Issued Sep 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Aug 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Geographic Information Systems (GIS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hibernate",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tomcat",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Less",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AJAX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166617",
+          "companyUrn": "urn:li:fsd_company:166617",
+          "companyLink1": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEI49Gik9k99A/company-logo_400_400/B4EZ8X8nKeIAAc-/0/1782813193098/universidad_politecnica_de_madrid_logo?e=1785369600&v=beta&t=25XuyzVyEDkLPYlIm3pYlJ_wIH2BHjs_ucPZ4z_Ue98",
+          "title": "Universidad Politécnica de Madrid",
+          "subtitle": "Grado en Telecomunicaciones, Telemática",
+          "caption": "2010 - 2020",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

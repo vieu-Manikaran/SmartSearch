@@ -1,0 +1,163 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/chris-mole-4276141",
+  "row_key": "id:003Uk00000mh9h7IAA",
+  "person": "Chris Mole",
+  "account": "University College London",
+  "fetched_at": "2026-07-14T10:35:18Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABExl8BnQ_0UjwbUKCcSuoAondOlgcUdP8",
+      "firstName": "Chris",
+      "lastName": "Mole",
+      "fullName": "Chris Mole",
+      "publicIdentifier": "chris-mole-4276141",
+      "headline": "Previously IBM UK and Ireland",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM UKI Industry Innovation & Business Development",
+          "subtitle": "IBM . undefined",
+          "caption": "Dec 2008 - Sep 2018 · 9 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1044",
+          "companyUrn": "urn:li:fsd_company:1044",
+          "companyLink1": "https://www.linkedin.com/company/pwc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=1785369600&v=beta&t=7BD9Id14fDdTuceDb8vFSWlANrjlMUvKIWzWESy7ZYg",
+          "title": "Director",
+          "subtitle": "PricewaterhouseCoopers . undefined",
+          "caption": "1987 - 1992 · 5 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "PricewaterhouseCoopers Consulting and predecessor firms"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10683",
+          "companyUrn": "urn:li:fsd_company:10683",
+          "companyLink1": "https://www.linkedin.com/company/reckitt-&-colman/",
+          "title": "Product Group Manager",
+          "subtitle": "Reckitt & Colman . undefined",
+          "caption": "1982 - 1987 · 5 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Process Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Change Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4522",
+          "companyUrn": "urn:li:fsd_company:4522",
+          "companyLink1": "https://www.linkedin.com/school/university-of-cambridge/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_100_100/B4EZXIJKuOHgAQ-/0/1742819601734/university_of_cambridge_logo?e=1785369600&v=beta&t=ma1WUu8o3V0D9WdA_hD1w4XE-GOrtZhpR0AtYf8MwYU",
+          "title": "University of Cambridge",
+          "subtitle": "Economics, null",
+          "caption": "1979 - 1982",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

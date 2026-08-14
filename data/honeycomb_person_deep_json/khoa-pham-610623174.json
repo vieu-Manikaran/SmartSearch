@@ -1,0 +1,157 @@
+{
+  "linkedin_url": "https://sg.linkedin.com/in/khoa-pham-610623174",
+  "row_key": "id:0033l000031Q0eAAAS",
+  "person": "Khoa Pham",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:24Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACliAawBdp6VsXM3XkEEuEsI4cM-y5gWWyw",
+      "firstName": "Khoa",
+      "lastName": "Pham",
+      "fullName": "Khoa Pham",
+      "publicIdentifier": "khoa-pham-610623174",
+      "headline": "Software Engineer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Consumer Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Vietnam",
+      "addressWithCountry": "Hanoi, Hanoi Vietnam",
+      "addressWithoutCountry": "Hanoi, Hanoi",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEGcDHPQmsNDA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1666810228391?e=1785369600&v=beta&t=BaLHFJZhoJcV9cqpw-yIIw4ZsapZ88cpojJgUsebtLA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEGcDHPQmsNDA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1666810228391?e=1785369600&v=beta&t=06ayxLn_AXSnS7U_Sko6uEzWRh1RZSS-bAKICMQMknE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEGcDHPQmsNDA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1666810228391?e=1785369600&v=beta&t=xODOub_Wf6WPdVEyU8FErno_LVF9buvbKS7skwlciiw"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEGcDHPQmsNDA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1666810228391?e=1785369600&v=beta&t=C8u4koKgvagUPCn0LUq0HwcBSGIt77B-8hnKx_FD8bc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEGcDHPQmsNDA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1666810228391?e=1785369600&v=beta&t=BaLHFJZhoJcV9cqpw-yIIw4ZsapZ88cpojJgUsebtLA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "208401",
+          "companyUrn": "urn:li:fsd_company:208401",
+          "companyLink1": "https://www.linkedin.com/company/fpt-software/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEomupwSTKvWA/company-logo_400_400/B56Zh4Hgj3HMAg-/0/1754361892047/fpt_software_logo?e=1785369600&v=beta&t=J-HtrAmis8AvphVRuYW_n2etHyttWXTdU_M6y0dODUc",
+          "title": "Solutions Architect",
+          "subtitle": "FPT Software . Full-time",
+          "caption": "Jun 2024 - Present · 1 yr 7 mos",
+          "metadata": "Hanoi",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Site Reliability Engineer",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Jan 2022 - Jun 2024 · 2 yrs 5 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2494",
+          "companyUrn": "urn:li:fsd_company:2494",
+          "companyLink1": "https://www.linkedin.com/company/bloomberg/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF0uyE7RGKDGg/company-logo_400_400/company-logo_400_400/0/1631374698859/bloomberg_lp_logo?e=1785369600&v=beta&t=RaBqCF1SARSDE1oEzI4DNgM87o7zIQzVW0a3HzVk0Ks",
+          "title": "Site Reliability Engineer",
+          "subtitle": "Bloomberg LP . Full-time",
+          "caption": "Jun 2020 - Jan 2022 · 1 yr 7 mos",
+          "metadata": "Singapore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "56737",
+          "companyUrn": "urn:li:fsd_company:56737",
+          "companyLink1": "https://www.linkedin.com/company/razer/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHw-kNLEuoX9g/company-logo_400_400/company-logo_400_400/0/1630629172318/razer_logo?e=1785369600&v=beta&t=z4C_OlXH0tHAdd1tkeVC8pQGDq5xAgjRVGZ-IgZf1z4",
+          "title": "Site Reliability Engineer",
+          "subtitle": "Razer Inc. . Full-time",
+          "caption": "May 2017 - May 2020 · 3 yrs",
+          "metadata": "Singapore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "15102270",
+          "companyUrn": "urn:li:fsd_company:15102270",
+          "companyLink1": "https://www.linkedin.com/school/vnuhcm---university-of-science/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHJFlg2mXKulw/company-logo_400_400/B56Zop8W9XHAAE-/0/1761640280554/vnuhcm___university_of_science_logo?e=1785369600&v=beta&t=qk3hkFTtFLFIRjwCbL9WSf_qBaBAo7FhdXm_r26-E58",
+          "title": "VNUHCM - University of Science",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "2012 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Ho Chi Minh City, Vietnam"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

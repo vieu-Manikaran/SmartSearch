@@ -1,0 +1,510 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/istodim",
+  "row_key": "id:003Uk00000Pb6mgIAB",
+  "person": "Dmitry Istomin",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAgPBwEB2HC1gBpR0KYWPKmPqeYrr-24l24",
+      "firstName": "Dmitry",
+      "lastName": "Istomin",
+      "fullName": "Dmitry Istomin",
+      "publicIdentifier": "istodim",
+      "headline": "Senior Software Engineer",
+      "about": "Experienced Senior Software Engineer with Node.js and C#.NET background. Primarily focused on full-stack Web development. Passionate, collaborative, enthusiastic.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Adelaide, South Australia Australia",
+      "addressWithoutCountry": "Adelaide, South Australia",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGPVxAc6qC5Rg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629352014323?e=1785369600&v=beta&t=dumKcYceXo6yb4qS4H_cetb0x2Ydh929Eu_ijKQx9CA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGPVxAc6qC5Rg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1629352014323?e=1785369600&v=beta&t=JgyyVovAFHnwXwPHourlbutAz_Zn_zBdE11TEA2D_oQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGPVxAc6qC5Rg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1629352014323?e=1785369600&v=beta&t=QJfMgfGnxyRS4mBQ7bNHRmKHMbA6Cz9peVfab2FsroI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGPVxAc6qC5Rg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1629352014323?e=1785369600&v=beta&t=lWxiQL93OdxtB_HX-sfFWnUbsWELYtrbitHXTdSh5Y0"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGPVxAc6qC5Rg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629352014323?e=1785369600&v=beta&t=dumKcYceXo6yb4qS4H_cetb0x2Ydh929Eu_ijKQx9CA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Jun 2024 - Present · 1 yr 7 mos",
+          "metadata": "Adelaide, South Australia, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "77677910",
+          "companyUrn": "urn:li:fsd_company:77677910",
+          "companyLink1": "https://www.linkedin.com/company/balthazar-dao/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEuyESKBloCng/company-logo_400_400/company-logo_400_400/0/1721105011996?e=1785369600&v=beta&t=UvAKI8mzdAxG18POonjMc__QETKefWP86t3-qYIRjyk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Balthazar DAO . Full-time",
+          "caption": "Jun 2023 - Present · 2 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "17944632",
+          "companyUrn": "urn:li:fsd_company:17944632",
+          "companyLink1": "https://www.linkedin.com/company/agridigital/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMwM95HEpubw/company-logo_400_400/company-logo_400_400/0/1661469542965/agridigital_logo?e=1785369600&v=beta&t=nEh4PEpD3oClfBpQC8dhyReGZMVRdvqmshGCz_rWH-4",
+          "title": "Senior Software Engineer",
+          "subtitle": "AgriDigital . Full-time",
+          "caption": "Aug 2022 - Jun 2023 · 10 mos",
+          "metadata": "Аделаида, Южная Австралия, Австралия",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Improvements for Frontend based on React/Redux.\nImprovements for Backend based on .NET 7.\nImplementation Infrastructure as Code solution for Azure.\nUpgrade of internal Xero integration service based on Node.js/Nest.js/Express."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "84717",
+          "companyUrn": "urn:li:fsd_company:84717",
+          "companyLink1": "https://www.linkedin.com/company/reckon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG1PRg4v_CFLw/company-logo_100_100/B56ZceXGbYGQAc-/0/1748561062674/reckon_logo?e=1785369600&v=beta&t=sZsisG1fsHGsDn_73xiTMFDLFzkPgWtcT03IPzQFuyc",
+          "title": "Senior Software Engineer",
+          "subtitle": "Reckon . Full-time",
+          "caption": "Aug 2021 - Jul 2022 · 11 mos",
+          "metadata": "Auckland, New Zealand",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Leading development of Ledger+ Core API based on Node.js, Typescript, MySQL and hosted at AWS as lambda function. \nMentorship."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19664",
+          "companyUrn": "urn:li:fsd_company:19664",
+          "companyLink1": "https://www.linkedin.com/company/cornerstoneondemand/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEMulbwpZJbWQ/company-logo_400_400/company-logo_400_400/0/1719809848778?e=1785369600&v=beta&t=DWr_3185aqTjYfE5nvr37XIxfMao1dDdhRNJyESHaZ4",
+          "title": "Senior Software Engineer",
+          "subtitle": "Cornerstone OnDemand . undefined",
+          "caption": "Nov 2018 - Aug 2021 · 2 yrs 9 mos",
+          "metadata": "Auckland, New Zealand",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Development of web-applications using React, NodeJS, C#, MongoDB, DynamoDB running within Docker containers and hosted in AWS and GCP platforms."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "22630",
+          "companyUrn": "urn:li:fsd_company:22630",
+          "companyLink1": "https://www.linkedin.com/company/genesis-energy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFRiiv5vq6Wdw/company-logo_400_400/company-logo_400_400/0/1631301906670?e=1785369600&v=beta&t=dIkeZ2OgVwEDGf6thLf6dXPd3BvZJdysQ50L0pu6OKo",
+          "title": "Software Developer",
+          "subtitle": "Genesis . undefined",
+          "caption": "Dec 2017 - Nov 2018 · 11 mos",
+          "metadata": "Auckland, New Zealand",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Development and maintenance of Energy IQ using React, NodeJS and C#.\nMentorship of Junior Developers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2672141",
+          "companyUrn": "urn:li:fsd_company:2672141",
+          "companyLink1": "https://www.linkedin.com/company/affinity-employer-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFVXXAziN-GDA/company-logo_400_400/company-logo_400_400/0/1735781283961/affinity_employer_services_logo?e=1785369600&v=beta&t=yop7A21fFWJfZJ2LB9GgYhXNOxInMHP2UWdQr3Qii2Y",
+          "title": "Software Developer",
+          "subtitle": "Affinity Employee Information - Integrated HR and Payroll System . undefined",
+          "caption": "Feb 2016 - Dec 2017 · 1 yr 10 mos",
+          "metadata": "Auckland, New Zealand",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2309824",
+          "companyUrn": "urn:li:fsd_company:2309824",
+          "companyLink1": "https://www.linkedin.com/company/virsae/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH9Y408SmenpQ/company-logo_400_400/company-logo_400_400/0/1644958730444/virsae_logo?e=1785369600&v=beta&t=Z25k_QrsEQZb5ygHYSXZSL2BOwgkGp3qRhltht5GcWM",
+          "title": "Software Developer",
+          "subtitle": "Virsae . undefined",
+          "caption": "Jan 2014 - Jan 2016 · 2 yrs",
+          "metadata": "Auckland, New Zealand",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Developer",
+          "subtitle": "AdMount . undefined",
+          "caption": "Apr 2013 - Aug 2015 · 2 yrs 4 mos",
+          "metadata": "Auckland, New Zealand",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Building a website and technical support."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2423658",
+          "companyUrn": "urn:li:fsd_company:2423658",
+          "companyLink1": "https://www.linkedin.com/company/transcribeme/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF_Uo-qdN61Yg/company-logo_400_400/company-logo_400_400/0/1630645811220/transcribeme_logo?e=1785369600&v=beta&t=TpdSN8rX9m5SHM7d6JWJTnOjumRZe0kUth-01q3wLYY",
+          "title": "Senior Software Developer",
+          "subtitle": "TranscribeMe.com . undefined",
+          "caption": "Nov 2011 - Jan 2014 · 2 yrs 2 mos",
+          "metadata": "Auckland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": ".NET Framework 3.5 ASP.NET Applications (MCTS)",
+          "subtitle": "Microsoft",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": ".NET Framework 3.5 Windows Forms Applications (MCTS)",
+          "subtitle": "Microsoft",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Award of Excellence, DUX",
+          "subtitle": "Issued by Computer Power Institute",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET MVC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LINQ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Computer Power Institute",
+          "subtitle": "Diploma, Software Development",
+          "caption": "2010 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Graduated with Awards: Award of Excellence, Dux"
+            }
+          ]
+        },
+        {
+          "companyId": "15100035",
+          "companyUrn": "urn:li:fsd_company:15100035",
+          "companyLink1": "https://www.linkedin.com/school/%D1%82%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8/",
+          "title": "Tomsk State University of Control Systems and Radioelectronics",
+          "subtitle": "Specialist, Information Security",
+          "caption": "2004 - 2009",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Genesis Energy IQ",
+          "subtitle": "Feb 2018 - Feb 2018",
+          "subComponenets": []
+        },
+        {
+          "title": "Southern cross hospital web site project",
+          "subtitle": "Oct 2012 - Oct 2012",
+          "subComponenets": []
+        },
+        {
+          "title": "Southern cross E-claiming online application",
+          "subtitle": "Feb 2012 - Jul 2012",
+          "subComponenets": []
+        },
+        {
+          "title": "TranscribeMe Customer Portal (alpha)",
+          "subtitle": "Feb 2012 - Mar 2012",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

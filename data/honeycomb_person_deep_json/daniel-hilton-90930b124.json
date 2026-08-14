@@ -1,0 +1,396 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/daniel-hilton-90930b124",
+  "row_key": "id:003Uk00000Pb5XPIAZ",
+  "person": "Dan Hilton",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:49Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB6oc1kBtQgQMNGGeJPAeHJaQz1MiFoE-yg",
+      "firstName": "Daniel",
+      "lastName": "Hilton",
+      "fullName": "Daniel Hilton",
+      "publicIdentifier": "daniel-hilton-90930b124",
+      "headline": "Senior iOS Developer",
+      "about": "An ambitious and motivated individual with a range of experience and knowledge, pursuing a career in iOS development. Excited to develop new skills and build upon existing programming knowledge and gain valuable experience within the industry.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQGmoMg0a57Klg/profile-displayphoto-scale_400_400/B4EZwKa.IaIEAo-/0/1769701375155?e=1785369600&v=beta&t=vor-yT7AbXLw_aS7hB4pnneVQt8EtX_LBEkuTs2p3bk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGmoMg0a57Klg/profile-displayphoto-scale_100_100/B4EZwKa.IaIEAk-/0/1769701375155?e=1785369600&v=beta&t=2oZ4siCJVedXQAsfpcm1jZXsnMa4BzPNW4kXUtAffsU"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGmoMg0a57Klg/profile-displayphoto-crop_800_800/B4EZwKa.IaIEAQ-/0/1769701375051?e=1785369600&v=beta&t=09JU9lJdetgqphNKRjhmGAdEv6rYKLrsdy3T0fcw9Lc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGmoMg0a57Klg/profile-displayphoto-scale_200_200/B4EZwKa.IaIEAg-/0/1769701375155?e=1785369600&v=beta&t=NJZcwQ0T26LI7cn0r4lgKHhPHdfhk0I-3RM0qk4a3UI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQGmoMg0a57Klg/profile-displayphoto-scale_400_400/B4EZwKa.IaIEAo-/0/1769701375155?e=1785369600&v=beta&t=vor-yT7AbXLw_aS7hB4pnneVQt8EtX_LBEkuTs2p3bk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 5 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior iOS Developer",
+              "caption": "Jan 2026 - Present · ",
+              "metadata": "London Area, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "iOS Developer",
+              "caption": "Sep 2020 - Present · 5 yrs 4 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "54164060",
+          "companyUrn": "urn:li:fsd_company:54164060",
+          "companyLink1": "https://www.linkedin.com/company/brezaa-dating-app/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGMxNY-Y69Tg/company-logo_400_400/company-logo_400_400/0/1647660155483?e=1785369600&v=beta&t=LB2c-JPgapW1zAc4entMPQ_5VpA7SWb11Oh0caXEXlQ",
+          "title": "Junior iOS Developer",
+          "subtitle": "Brezaa Dating App . Contract",
+          "caption": "Jul 2020 - Aug 2020 · 1 mo",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My role involved implementing new features, refactoring code, working with multiple libraries, working coherently within a team using Git."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2499600",
+          "companyUrn": "urn:li:fsd_company:2499600",
+          "companyLink1": "https://www.linkedin.com/company/jostecltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHUm8cCGxU-Vw/company-logo_400_400/company-logo_400_400/0/1630579914260/rj_acoustics_logo?e=1785369600&v=beta&t=gXk1Hya8mbonOSz_EA-Blvmb-Bb2NFZnU103EtWE37M",
+          "title": "Acoustic Engineer",
+          "subtitle": "RJ Acoustics . undefined",
+          "caption": "Nov 2017 - Apr 2020 · 2 yrs 5 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "This work involves undertaking and managing a range of projects, carrying out sound insulation and air tightness tests, solving problems, collating and analysing data, writing technical reports and liaising with a wide variety of clients."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2344411",
+          "companyUrn": "urn:li:fsd_company:2344411",
+          "companyLink1": "https://www.linkedin.com/company/bbc-studioworks/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGrTR45m4asxg/company-logo_400_400/company-logo_400_400/0/1630559445958/bbc_studioworks_logo?e=1785369600&v=beta&t=v-GqtVO73UvXsKqhnK15OOKRzUy525g39kBruJiLZGY",
+          "title": "Sound Assistant",
+          "subtitle": "BBC Studioworks . undefined",
+          "caption": "Aug 2017 - Sep 2017 · 1 mo",
+          "metadata": "Elstree",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "During these periods of work experience, I was operating as a team assistant to the production team, firstly on a CBBC programme and then also on Eastenders. I was required to be professional and organised and to be able to work well in a fast-paced environment."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "164505",
+          "companyUrn": "urn:li:fsd_company:164505",
+          "companyLink1": "https://www.linkedin.com/company/itv/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEAhyXTeU7zVA/company-logo_400_400/company-logo_400_400/0/1715092356081/itv_logo?e=1785369600&v=beta&t=lcoOwYyyctQQhupgkGTAyGmBoglcfGZOVQPVF9yj7Yk",
+          "title": "Sound Assistant",
+          "subtitle": "ITV . undefined",
+          "caption": "Aug 2017 - Aug 2017 · ",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "This work experience involved operating within the sound department at The London Studios where I was required to handle and use different equipment and technology to a professional standard. This involved setting up and micing up guests and working on communications and networking throughout the studio."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5263",
+          "companyUrn": "urn:li:fsd_company:5263",
+          "companyLink1": "https://www.linkedin.com/company/royal-mail/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHA7sO-33dUkw/company-logo_400_400/company-logo_400_400/0/1720776689108/royal_mail_logo?e=1785369600&v=beta&t=j94XndnpFWgFox17DY_3bh-zd_1FNzUcgJH57-8k9Uw",
+          "title": "Postman",
+          "subtitle": "Royal Mail . undefined",
+          "caption": "Sep 2016 - Jan 2017 · 4 mos",
+          "metadata": "Brighton, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My time at the Royal Mail taught me to work well both independently and as part of a team. I worked a great amount of overtime and was always willing to do extra work when asked."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5015",
+          "companyUrn": "urn:li:fsd_company:5015",
+          "companyLink1": "https://www.linkedin.com/company/sainsburys/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHR1BEO6EfFSA/company-logo_100_100/B4EZ8oPVcsKoAI-/0/1783086536756/sainsburys_logo?e=1785369600&v=beta&t=dNo0vIM6ky_YGOdHTwH9XLMFBWNKqnWJ-coR8NvcKtI",
+          "title": "Customer Restaurant Assistant",
+          "subtitle": "Sainsbury's . undefined",
+          "caption": "Aug 2011 - Jan 2016 · 4 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Technician",
+          "subtitle": "Spindlewood Limited . undefined",
+          "caption": "May 2014 - Jun 2014 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "During the summer of 2014 I had the opportunity to work with\nthis company at the Glastonbury festival, setting up Wi-Fi and telephone networks across the site. This work was good experience in many aspects, for example, it required me to learn a lot of new things in a short period of time and to be confident in fulfilling important tasks with these skills. I had to work under pressure and time constraints and I was involved in a good amount of problem solving. I also had to talk with important clients and try my best to resolve any issues they had."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Time Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Logic Pro",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pro Tools",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MaxMSP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Efficent",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xcode",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unit Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "18068",
+          "companyUrn": "urn:li:fsd_company:18068",
+          "companyLink1": "https://www.linkedin.com/school/birmingham-city-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaxNrr8w0QAQ/company-logo_100_100/B4EZfGguaLGcAU-/0/1751382157338/birmingham_city_university_logo?e=1785369600&v=beta&t=liU2GtppGnOsqxdqGGL1vlA_QnIDpiencbhyi0ZLkCE",
+          "title": "Birmingham City University",
+          "subtitle": "Bachelor’s Degree, Sound Engineering and Production",
+          "caption": "2013 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class"
+            }
+          ]
+        },
+        {
+          "title": "Cardinal Newman Catholic School",
+          "subtitle": "High School, null",
+          "caption": "2006 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A levels: Maths, Economics, Music Technology"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

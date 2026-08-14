@@ -1,0 +1,421 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jake-champlin-86146998",
+  "row_key": "id:0033l00002sspLHAAY",
+  "person": "Jake Champlin",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:53:01Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABS2l4kBokz0uwDOGMclbcvpq7mJkyO4RIg",
+      "firstName": "Jake",
+      "lastName": "Champlin",
+      "fullName": "Jake Champlin",
+      "publicIdentifier": "jake-champlin-86146998",
+      "headline": "Principal Engineer at Epic Games",
+      "about": "I am a natural born techie having developed a love for computers since a very young age. I successfully \"killed\" my first computer at the age of 6 when I was playing around in the Command Prompt and accidentally ran DELTREE from the root directory. Since then I had wanted to become a computer programmer for most of my life, learning how to code in my free time. I took every programming and technology class I could during high school and learned core networking components there as well. I also started using Linux almost exclusively in high school, becoming very familiar with the terminal and rebuilding my personal computer when it would break, which it often would as I was prone to hacking around. \n\nLearning on my own throughout my entire life has given me a keen sense of work ethic and character. Teaching myself to be motivated and dedicated to my passions and what I want to learn has propelled me fairly far in my career. \n\nMy most proud accomplishment to date are the several patches accepted into the Linux kernel that I have submitted. This was a great opportunity to teach myself the C programming language, and also taught me how to stay motivated in a project, even in spite of failures and setbacks.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Nashville, Indiana United States",
+      "addressWithoutCountry": "Nashville, Indiana",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 8 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Engineer",
+              "caption": "Nov 2022 - Present · 3 yrs 2 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Cloud Engineer",
+              "caption": "Sep 2017 - Dec 2022 · 5 yrs 3 mos",
+              "metadata": "Cary, North Carolina, United States",
+              "description": []
+            },
+            {
+              "title": "Lead Cloud Engineer",
+              "caption": "Feb 2021 - Apr 2022 · 1 yr 2 mos",
+              "metadata": "Cary, North Carolina, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2830763",
+          "companyUrn": "urn:li:fsd_company:2830763",
+          "companyLink1": "https://www.linkedin.com/company/hashicorp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFBoGhgrPpY9g/company-logo_200_200/B56ZVHpOInHsAI-/0/1740663743267/hashicorp_logo?e=1785369600&v=beta&t=qp5rkjHKsmXtgxTxgxDuU2Nrs9wIkRrKM9VYh3iyxpo",
+          "title": "HashiCorp",
+          "subtitle": "undefined · 1 yr 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer",
+              "caption": "Jan 2017 - Sep 2017 · 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Software Engineer on Terraform Ecosystem\n\n* Wrote, maintained, implemented bug fixes for Terraform in Golang\n* Split-out provider plugins into separate software projects to aid in decreasing developer overhead\n* Wrote Golang SDK for Oracle Public Cloud\n* Wrote Terraform Provider Plugin for Oracle Public Cloud\n* Made over 4k individual contributions to the Terraform and supporting providers"
+                }
+              ]
+            },
+            {
+              "title": "Site Reliability Engineer",
+              "caption": "Oct 2015 - Dec 2016 · 1 yr 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Use modern Hashicorp tools to improve Atlas reliability\n* Improve scaling, throughput, and uptime of internal services\n* Help increase developer happiness, by decreasing deployment time\n* Perform on-call duties to ensure maximum availability\n* Improve upon various internal Go services\n* Develop, test, and engineer new operational solutions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "428312",
+          "companyUrn": "urn:li:fsd_company:428312",
+          "companyLink1": "https://www.linkedin.com/company/minted/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH4HxSxhfxB7A/company-logo_400_400/company-logo_400_400/0/1630583102829/minted_logo?e=1785369600&v=beta&t=0n643eBwc3_0pwzZ1GnawTVdxgA8HNKJHLSygsX8ne4",
+          "title": "DevOps Engineer",
+          "subtitle": "Minted . undefined",
+          "caption": "Jul 2014 - Oct 2015 · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Configure systems for development, test and production of a scalable consumer and e- commerce Internet website.\n• Monitor and tune systems stability, capacity and performance. • Scale infrastructure to meet demand.\n• Troubleshoot system issues as necessary\n• Ensure system and network security\n• Partner with development team in supporting new features and services\n• On-call duties for production server issues and outages"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Systems Administrator",
+          "subtitle": "The Data Cave . undefined",
+          "caption": "Jun 2013 - Jul 2014 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "While working at The Data Cave I performed routine daily administration tasks to ensure that our services were running constantly for our customers. I rebuilt our whole infrastructure during my first four months of employment and have built everything from the ground up. While working at The Data Cave, I became very familiar with virtualization, server administration, and automated configuration management. I have also became very familiar with the networking layer of systems support. From configuring Cisco Switches, Routers, and Vyatta Routers, I have thoroughly improved my knowledge of networking, and continue to do so on a daily basis. \n\nI currently manage a small VM cluster containing several redundant Linux server instances spread out across multiple QEMU hypervisors. I implemented and fully monitor all of our internal services with a combination of Nagios and ComHub (An open-source Nagios Alert Wrangler that we wrote in-house). I also manage and maintain our redundant DNS, Cacti, NTP, and LDAP servers. I currently use Ansible to provision and automate the build process of our VM's, yet have begun to implement Chef as an automated configuration management tool. \n\nThe biggest asset that I have learned from The Data Cave is to respect our production environment. I learned how to place uptime and customer availability of our services at a high priority to ensure complete transparency across our connectivity platform."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Analytical Engineering . undefined",
+          "caption": "Jun 2012 - Jun 2013 · 1 yr",
+          "metadata": "Columbus Indiana",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "While working at Analytical Engineering I had the great opportunity to develop C++ applications with an amazing team of talented individuals. I wrote, tested, distributed, and maintained a fairly large C++ codebase using SVN for version control. I contributed to several projects during my employment there and even started and finished several new projects. We ran all of our applications on Gentoo Linux, and I served as a Linux Administrator as well as a developer. Installing, maintaining, and repairing the Linux Systems gave me a lot of experience in high stress situations. \n\nOne of the most crucial tools that I learned from working at Analytical Engineering was how to debug and fix software. While our company was a service company, the service could not be done if our software did not work. This taught me how to quickly debug and troubleshoot any software issues that arose, and quickly implement a fix or bug report to fix at a later time. \n\nAnalytical Engineering is also a sister company of The Data Cave, so when The Data Cave lost their previous Systems Administrator I had proven myself capable enough to be promoted to that position."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Information Technician",
+          "subtitle": "Central Computer Repair . undefined",
+          "caption": "Sep 2011 - Jun 2012 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "While working at Central Computer Repair I directly interfaced with customers and clients, assisting them in various computer repair issues. I would travel remote as well as work locally in the shop, and thoroughly repair customer computers. I became fairly proficient at virus removal, malware removal, registry errors, diagnosing hardware errors, fixing hardware errors, and direct customer interactions. \n\nI worked on mainly windows desktops and laptops, but also was able to service Linux and Apple machines as well. During my employment with Central Computer Repair, I also worked directly with several customers to create custom computer builds for them, working continuously to ensure the customer was pleased with my work."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Eagle Scout",
+          "subtitle": "Issued by Boy Scouts of America",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Linux System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nagios",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Github",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux KVM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++ Language",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "QEMU",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cacti",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chef",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux Kernel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ansible",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VB5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hacking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15131747",
+          "companyUrn": "urn:li:fsd_company:15131747",
+          "companyLink1": "https://www.linkedin.com/school/ivytechcolumbus/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFQpCTgBjZwXw/company-logo_400_400/company-logo_400_400/0/1638983425091/ivy_tech_community_college_columbus_logo?e=1785369600&v=beta&t=pYu0DC9B7mYMRqQi9u_9C2ucToKUv_rFEkt8EssRxt4",
+          "title": "Ivy Tech Community College-Columbus",
+          "subtitle": "null, Computer Science",
+          "caption": "2011 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Currently holding a 3.4 GPA and have 60 credits completed."
+            }
+          ]
+        },
+        {
+          "companyId": "5998",
+          "companyUrn": "urn:li:fsd_company:5998",
+          "companyLink1": "https://www.linkedin.com/school/universityofkentucky/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEKue1bZKdg6g/company-logo_400_400/company-logo_400_400/0/1656505619159/universityofkentucky_logo?e=1785369600&v=beta&t=9EzlE5T4zUp71jFYctKKU7oGewWdSZEDv1B3fPdcukY",
+          "title": "University of Kentucky",
+          "subtitle": "null, Computer Engineering",
+          "caption": "2008 - 2010",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Kitchen-Puppet",
+          "subtitle": "Sep 2014 - Sep 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Puppet driver for Test-Kitchen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SlackCI",
+          "subtitle": "Jul 2014 - Jul 2014",
+          "subComponenets": []
+        },
+        {
+          "title": "ComHub",
+          "subtitle": "Jun 2013 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Develop, maintain, and administer ComHub to ensure 100% working availability. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

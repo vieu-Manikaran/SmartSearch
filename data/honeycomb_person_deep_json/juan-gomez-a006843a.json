@@ -1,0 +1,439 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/juan-gomez-a006843a",
+  "row_key": "id:003Uk000008pAOvIAM",
+  "person": "Juan Gomez",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:50Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAhJUKABONGouDsZayBMVzK_fk3PQ7a6Cso",
+      "firstName": "Juan",
+      "lastName": "Gomez",
+      "fullName": "Juan Gomez",
+      "publicIdentifier": "juan-gomez-a006843a",
+      "headline": "PD Program Manager - CTOR at Medtronic",
+      "about": "•\tResults oriented person, motivated by the challenges.\n•\tLeadership, team work and analytical knowledge.\n•\tAbilities to properly work under pressure. Proactive, details oriented, organized and easy adaptation to changes.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "North Haven, Connecticut United States",
+      "addressWithoutCountry": "North Haven, Connecticut",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHxlY76P1nTzw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516850542127?e=1785369600&v=beta&t=edTzEOg2Zc5Qka3qIniap-OLMbiVZrBAyWKY0dn60bs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHxlY76P1nTzw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516850542134?e=1785369600&v=beta&t=c7_ZvzfhgRsPF-Tv3nvGxB3lmG3MnUIBaYWeMDjFKJs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHxlY76P1nTzw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516850542135?e=1785369600&v=beta&t=ZJ8ZnG7tD-0Ae98CDZc9hY7F-55Fs_QIPLqnaL0GQkQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHxlY76P1nTzw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516850542108?e=1785369600&v=beta&t=IfWHS5WlJ3wvyIqJiAO9SmwaznUg8AvdFRsYC2IeRig"
+        },
+        {
+          "width": 418,
+          "height": 418,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHxlY76P1nTzw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516850542127?e=1785369600&v=beta&t=edTzEOg2Zc5Qka3qIniap-OLMbiVZrBAyWKY0dn60bs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 10 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "PD Program Manager - CTOR",
+              "caption": "Oct 2023 - Present · 2 yrs 3 mos",
+              "metadata": "Connecticut, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for shaping the manufacturing architecture to successfully develop and launch new products to meet cost, quality and supply goals for the business by leading the extended operations team working with new product development. Track and Manage Operations KPI’s such as Predictive LBM’s, Predictive RTY’s, Capacity Planning & BOM Readiness."
+                }
+              ]
+            },
+            {
+              "title": "Principal Manufacturing Engineer",
+              "caption": "Jan 2020 - Oct 2023 · 3 yrs 9 mos",
+              "metadata": "North Haven, Connecticut",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead and guide project teams in cost savings, redesigns, manufacturing process improvements, instrument trouble shooting, and product line transfers. Manage and provide direction to other engineers to ensure projects deliverables are met. \nCTOR (Core Team Operations Representative) for the redesign project of a $46M net revenue product to fix a quality problem in the market."
+                }
+              ]
+            },
+            {
+              "title": "Project Engineering Manager | Molds and Tooling",
+              "caption": "Jul 2015 - Jan 2020 · 4 yrs 6 mos",
+              "metadata": "Dominican Republic",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Plan, organize, guide and control the resources under my responsibility to satisfy the requirements within time frame and budget of the projects under the tooling team responsibilities. Provide leadership, surveillance and coaching to the supervised professionals in order to successfully complete the job."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "899089",
+          "companyUrn": "urn:li:fsd_company:899089",
+          "companyLink1": "https://www.linkedin.com/company/covidien-2/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEyv90A0Sdv9g/company-logo_400_400/company-logo_400_400/0/1631376162632/covidien_2_logo?e=1785369600&v=beta&t=bAKxjrGlWPwY47XaGUs42NVtfE6MkdA5tjKo8oIFq5I",
+          "title": "Covidien",
+          "subtitle": "undefined · 10 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Project Engineer",
+              "caption": "Jan 2012 - Jul 2015 · 3 yrs 6 mos",
+              "metadata": "Dominican Republic",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Provide solutions to systems and application both new or existing, with the objective of satisfy customer needs (internal and external). Design and execute projects that add value to the product, identifying opportunities to assure the desired quality levels."
+                }
+              ]
+            },
+            {
+              "title": "Sr. Process Engineer",
+              "caption": "Aug 2007 - Jan 2012 · 4 yrs 5 mos",
+              "metadata": "Dominican Republic",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Provide technical assistance to the manufacturing process, helping the daily operations to maintain the product and operations within required standards. Develop the process and continuous revision of the operations to implement improvements to the assembly process, required tools and equipment assuring its best performance and in conformance with internal, regulatory and corporate requirements."
+                }
+              ]
+            },
+            {
+              "title": "Manufacturing Supervisor",
+              "caption": "Apr 2006 - Aug 2007 · 1 yr 4 mos",
+              "metadata": "Dominican Republic",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Manage the department resources to focus them in the different priorities of the area and in this way meet the different metrics."
+                }
+              ]
+            },
+            {
+              "title": "Manufacturing Group leader",
+              "caption": "Feb 2005 - Apr 2006 · 1 yr 2 mos",
+              "metadata": "Dominican Republic",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Encargado del personal del departamento de corte y tratado de suturas en el segundo turno, asignando las órdenes de producción, dando soporte a las demás áreas en el corte de sutura, seguimiento a los proyectos del área, entre otras."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1035541",
+          "companyUrn": "urn:li:fsd_company:1035541",
+          "companyLink1": "https://www.linkedin.com/school/universidad-tecnologica-de-santiago/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEb6LjPA141jw/company-logo_400_400/company-logo_400_400/0/1631333716807?e=1785369600&v=beta&t=buPtpbUWcLDz5d-gHitB2zovH8Rt1n6q6LPIkUq3Gpw",
+          "title": "Production cases teacher.",
+          "subtitle": "Santiago Technological University . undefined",
+          "caption": "Apr 2009 - Aug 2012 · 3 yrs 4 mos",
+          "metadata": "Dominican Republic",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Technician in charge",
+          "subtitle": "VIFA . undefined",
+          "caption": "Jul 2004 - Feb 2005 · 7 mos",
+          "metadata": "Dominican Republic",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Manage the technical team of the Company, assigning the Jobs requested by the customers and follow the equipment repairs."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Industrial Engineer Magna Cum Laude",
+          "subtitle": "Issued by Intec",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "First place in the regional Mathematic Olympiads",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Timelines",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Program Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentation Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Production Efficiency",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oral Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Written Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Component Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing Operations Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electrical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Quality",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Industrial Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Standard Operating Procedure (SOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "16851",
+          "companyUrn": "urn:li:fsd_company:16851",
+          "companyLink1": "https://www.linkedin.com/school/colorado-technical-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFmIfDn2MA1FQ/company-logo_400_400/company-logo_400_400/0/1631308762545?e=1785369600&v=beta&t=WDwQOvQ6pU-FF5hOqltFH5ByqbC-TVXQWXiaxZ8JOAs",
+          "title": "Colorado Technical University",
+          "subtitle": "Master of Business Administration - MBA, Project Management",
+          "caption": "Mar 2023 - Jul 2024",
+          "subComponents": []
+        },
+        {
+          "companyId": "683212",
+          "companyUrn": "urn:li:fsd_company:683212",
+          "companyLink1": "https://www.linkedin.com/school/instituto-tecnologico-de-santo-domingo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF-DYUSwPsGnw/company-logo_400_400/B4EZeefTj0G4Ac-/0/1750710697390?e=1785369600&v=beta&t=1SBqGq_h-yZ4EWGTssgDvQ83TuoiKZBYkDqDWyi6ciw",
+          "title": "Instituto Tecnológico de Santo Domingo",
+          "subtitle": "Industrial Engineer, Magna Cum Laude, Engineering",
+          "caption": "2001 - 2005",
+          "subComponents": []
+        },
+        {
+          "title": "Universidad APEC",
+          "subtitle": "Master degree in management and productivity., null",
+          "caption": "2006 - 2008",
+          "subComponents": []
+        },
+        {
+          "title": "ITESA",
+          "subtitle": "General electronics technician, null",
+          "caption": "1999 - 2001",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

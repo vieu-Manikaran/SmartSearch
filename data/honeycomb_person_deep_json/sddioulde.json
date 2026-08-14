@@ -1,0 +1,541 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sddioulde",
+  "row_key": "id:003Uk00000yd9PRIAY",
+  "person": "Saliou Diallo",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:20Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABZ4d4ABpFZuKGRZuiLbZVVDwCMPX4SF0Zc",
+      "firstName": "Saliou",
+      "lastName": "Diallo",
+      "fullName": "Saliou Diallo",
+      "publicIdentifier": "sddioulde",
+      "headline": "Senior Software Engineer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQHaz43BVb6mUA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713109673571?e=1785369600&v=beta&t=SlBmDUdjpZvqf5sE5L9Uy18YPhAYXTUmaqWAhq1nHEs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHaz43BVb6mUA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1713109673571?e=1785369600&v=beta&t=JZ4AsM6lvacnAVNAkeUEUh2bzjgPdnSpB31lO2wXXSk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHaz43BVb6mUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713109673571?e=1785369600&v=beta&t=-JyBzk6TbAW1CxxWR_hT0yfzTLiC7vDpmfszqfzzFpI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHaz43BVb6mUA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713109673571?e=1785369600&v=beta&t=fOfG2pzOsEPdtjkbMRc3xuw65_R94ZjIlhWPnM5Kn0Y"
+        },
+        {
+          "width": 469,
+          "height": 469,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHaz43BVb6mUA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713109673571?e=1785369600&v=beta&t=SlBmDUdjpZvqf5sE5L9Uy18YPhAYXTUmaqWAhq1nHEs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Apr 2025 - Present · 9 mos",
+          "metadata": "United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18756775",
+          "companyUrn": "urn:li:fsd_company:18756775",
+          "companyLink1": "https://www.linkedin.com/company/audius-music/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGpy2NGWqBExA/company-logo_200_200/B4EZxSXQDRK0AM-/0/1770908353727/audius_music_logo?e=1785369600&v=beta&t=0Z3X0x9IpLHwug5A6rTRJ2jD9cP-SSLUYHX-jAUrR10",
+          "title": "Audius",
+          "subtitle": "Full-time · 3 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Apr 2022 - Aug 2024 · 2 yrs 4 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Feb 2021 - Apr 2022 · 1 yr 2 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2988",
+          "companyUrn": "urn:li:fsd_company:2988",
+          "companyLink1": "https://www.linkedin.com/company/vmware/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzpbXCUplXJw/company-logo_400_400/company-logo_400_400/0/1716485708320/vmware_logo?e=1785369600&v=beta&t=YYQpwqFu9rndzhl2DhV7vca8Iivp6BfABbu6rWFjFFw",
+          "title": "Software Engineer",
+          "subtitle": "VMware . undefined",
+          "caption": "Jan 2020 - Jan 2021 · 1 yr",
+          "metadata": "New York City Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3048967",
+          "companyUrn": "urn:li:fsd_company:3048967",
+          "companyLink1": "https://www.linkedin.com/company/pivotal-software-inc./",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEDUiaAXDr9tQ/company-logo_400_400/company-logo_400_400/0/1630621022655/pivotal_software_inc_logo?e=1785369600&v=beta&t=XPTuEtmPC-Qo7jxEVDi9zvjh6SnDkpBEaEvWYD9jUXg",
+          "title": "Software Engineer",
+          "subtitle": "Pivotal Software, Inc. . undefined",
+          "caption": "Jun 2018 - Jan 2020 · 1 yr 7 mos",
+          "metadata": "New York, New York",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "59792",
+          "companyUrn": "urn:li:fsd_company:59792",
+          "companyLink1": "https://www.linkedin.com/school/minot-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF4iVSz9ggr1A/company-logo_400_400/company-logo_400_400/0/1630591551996/minot_state_university_logo?e=1785369600&v=beta&t=P7QdqE4GNGbY3oYDWiBH6Xizkr2XlXCQTN6H-N65V_E",
+          "title": "Minot State University",
+          "subtitle": "undefined · 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Mathematics Tutor",
+              "caption": "Sep 2016 - May 2017 · 8 mos",
+              "description": []
+            },
+            {
+              "title": "Research Assistant",
+              "caption": "Sep 2016 - May 2017 · 8 mos",
+              "description": []
+            },
+            {
+              "title": "Computer Lab Assistant",
+              "caption": "Aug 2016 - May 2017 · 9 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20675",
+          "companyUrn": "urn:li:fsd_company:20675",
+          "companyLink1": "https://www.linkedin.com/company/flatironssolutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEmFgdZsNgLTw/company-logo_400_400/company-logo_400_400/0/1655074059408/flatironssolutions_logo?e=1785369600&v=beta&t=lpMslimiI7GkroGv-gBe1HNSqIfeDvhth3pP6Htz2mI",
+          "title": "Software Development Intern",
+          "subtitle": "Flatirons Solutions . undefined",
+          "caption": "May 2016 - Aug 2016 · 3 mos",
+          "metadata": "Boulder, CO",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed plugins to enhance the quality of project management across different departments and unify release and iteration planning, test management, and issue tracking within one tool.\n• Participated in daily standup meetings and collaborated effectively with team members.\n• Performed requirements analysis for the project and documented user stories.\n• Wrote clean and scalable code based on development standards and best practices.\n• Manipulated application data and resources via an API.\n• Wrote test cases and test suites for new features.\n• Presented progress of plugin code and demonstrated new functionalities.\n• Introduced new metrics for code rating and upgraded production code quality analysis tool."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "59792",
+          "companyUrn": "urn:li:fsd_company:59792",
+          "companyLink1": "https://www.linkedin.com/school/minot-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF4iVSz9ggr1A/company-logo_400_400/company-logo_400_400/0/1630591551996/minot_state_university_logo?e=1785369600&v=beta&t=P7QdqE4GNGbY3oYDWiBH6Xizkr2XlXCQTN6H-N65V_E",
+          "title": "Minot State University",
+          "subtitle": "undefined · 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Computer Science Tutor",
+              "caption": "Jan 2016 - May 2016 · 4 mos",
+              "description": []
+            },
+            {
+              "title": "Web Developer",
+              "caption": "Sep 2015 - May 2016 · 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Designed and developed features on a STEM project used by students and teachers across schools in North Dakota.\n• Conducted analysis of database requirements.\n• Performed conceptual design of tables and implement into logical design.\n• Maintained integrity of data.\n• Tested and validated the implementation and performance of the database.\n• Performed data analysis and transform raw data into meaningful information.\n• Managed users and maintain a working state of the website."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Student Aid",
+          "subtitle": "CCBC - Career Center . undefined",
+          "caption": "Aug 2013 - May 2014 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Welcomed students and directed them to campus resources.\n• Answered phones and inquiries.\n• Scheduled appointments with counselors."
+              }
+            }
+          ]
+        },
+        {
+          "title": "First-year Experience Mentor",
+          "subtitle": "CCBC - Student Life . undefined",
+          "caption": "Jul 2013 - May 2014 · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Provided assistance to first-year students regarding academics, student life, campus culture, and other issues.\n• Facilitated orientation sessions for new students.\n• Acted as a bridge between students and college success."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "CKAD: Certified Kubernetes Application Developer",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Aug 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fulah",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Wolof",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Google Tech Community Fellow",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Winner of DKC3 2016 Collegiate Computing Competition",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "1st place Digi-Key's annual intercollegiate computer programming competition in 2016."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Agnes & Ray Ladendorf Scholarship",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "General Scholarship",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Transfer Student Scholarship",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flask",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Backend",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Blockchain",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solana",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Smart Contracts",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ethereum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDK development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Lambda",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon S3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Back-End Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linear Algebra",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Geometry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Service-Oriented Architecture (SOA)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle Database",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3523",
+          "companyUrn": "urn:li:fsd_company:3523",
+          "companyLink1": "https://www.linkedin.com/school/cornell-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE8SOXGRyv7LA/company-logo_400_400/company-logo_400_400/0/1631339899678?e=1785369600&v=beta&t=xSPvA9akKVBLrXrq7f2ZnhzvQzdgr9bwph2eTE8eJ6A",
+          "title": "Cornell University",
+          "subtitle": "Master of Engineering - MEng, Computer Science",
+          "caption": "2017 - 2018",
+          "subComponents": []
+        },
+        {
+          "companyId": "3554137",
+          "companyUrn": "urn:li:fsd_company:3554137",
+          "companyLink1": "https://www.linkedin.com/school/cornell-tech/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHxmVAn3XMxcA/company-logo_200_200/B4EZqh_qfGGUAI-/0/1763654412729/cornell_tech_logo?e=1785369600&v=beta&t=VCHpf-kBppbQZtBia9rBuDXoEAPwtNvH_Kr9x2PnPTw",
+          "title": "Cornell Tech",
+          "subtitle": "Master of Engineering - MEng, Computer Science",
+          "caption": "2017 - 2018",
+          "subComponents": []
+        },
+        {
+          "companyId": "59792",
+          "companyUrn": "urn:li:fsd_company:59792",
+          "companyLink1": "https://www.linkedin.com/school/minot-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF4iVSz9ggr1A/company-logo_400_400/company-logo_400_400/0/1630591551996/minot_state_university_logo?e=1785369600&v=beta&t=P7QdqE4GNGbY3oYDWiBH6Xizkr2XlXCQTN6H-N65V_E",
+          "title": "Minot State University",
+          "subtitle": "Bachelor’s Degree, Mathematics and Computer Science",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

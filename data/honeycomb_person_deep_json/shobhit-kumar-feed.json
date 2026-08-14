@@ -1,0 +1,352 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/shobhit-kumar-feed",
+  "row_key": "id:003Uk00000yd5hNIAQ",
+  "person": "Shobhit Kumar",
+  "account": "RapidAI",
+  "fetched_at": "2026-07-14T10:37:57Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA5wNR4Bk1_9UKFgUyVoaxFBrRb7PNQMJVQ",
+      "firstName": "Shobhit",
+      "lastName": "Kumar",
+      "fullName": "Shobhit Kumar",
+      "publicIdentifier": "shobhit-kumar-feed",
+      "headline": "Lead Software Engineer at RapidAI | Ex - Walmart | Ex- Fico | IIT Kharagpur",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Bangalore Urban, Karnataka India",
+      "addressWithoutCountry": "Bangalore Urban, Karnataka",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGZdiR1ZtMQKQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718265354091?e=1785369600&v=beta&t=TRVvxmJweMvhnaPnV38RceaEgUzB9PKc74ThwQTs8Is",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQH6CbyYH8GAHg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351205283?e=1785369600&v=beta&t=qYEGq7p8g4prm8MxI8R_e0N-IK69iwHzlzYru3AGUxs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGZdiR1ZtMQKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718265705468?e=1785369600&v=beta&t=u2PdKd9KHHpGRq0gPm5dQFYLytLzcUnIkHHuDuI5dqY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGZdiR1ZtMQKQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718267271380?e=1785369600&v=beta&t=Ugz5gloOd321guiPY8CpkbmiWQfAyrsJn-id6TQ90-w"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGZdiR1ZtMQKQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718253404876?e=1785369600&v=beta&t=pfJt4pGlUtoamcqKJJV9jC-UyHf1IOocWXTiKRa4v5s"
+        },
+        {
+          "width": 600,
+          "height": 600,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGZdiR1ZtMQKQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718265354091?e=1785369600&v=beta&t=TRVvxmJweMvhnaPnV38RceaEgUzB9PKc74ThwQTs8Is"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQH6CbyYH8GAHg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719351509269?e=1785369600&v=beta&t=xCi8LwU9z_n1YcoE0tl2yyJU8amo4MBvIWaNmfCaPp0"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQH6CbyYH8GAHg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351205283?e=1785369600&v=beta&t=qYEGq7p8g4prm8MxI8R_e0N-IK69iwHzlzYru3AGUxs"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "37506734",
+          "companyUrn": "urn:li:fsd_company:37506734",
+          "companyLink1": "https://www.linkedin.com/company/rapid-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF2Zh-M7Q7Yiw/company-logo_100_100/B56ZaCvMpJGoAQ-/0/1745950133104/rapid_ai_logo?e=1785369600&v=beta&t=TrViROLQ1OoUHAzRCKS_0RZSNlh9Km-rXoeyRN74xTw",
+          "title": "Lead Software Engineer",
+          "subtitle": "RapidAI . Full-time",
+          "caption": "Aug 2024 - Present · 1 yr 5 mos",
+          "metadata": "Bangalore Urban, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9390173",
+          "companyUrn": "urn:li:fsd_company:9390173",
+          "companyLink1": "https://www.linkedin.com/company/walmartglobaltechindia/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_400_400/company-logo_400_400/0/1630541053165/walmartglobaltechindia_logo?e=1785369600&v=beta&t=E7aJdazdfaeDdHmQgY8mWY2dH5EyknXfvV5bs3owXOg",
+          "title": "Walmart Global Tech India",
+          "subtitle": "Full-time · 4 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Mar 2022 - Aug 2024 · 2 yrs 5 mos",
+              "metadata": "Bangalore Urban, Karnataka, India",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Nov 2019 - Feb 2022 · 2 yrs 3 mos",
+              "metadata": "Bangalore Urban, Karnataka, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3398",
+          "companyUrn": "urn:li:fsd_company:3398",
+          "companyLink1": "https://www.linkedin.com/company/fico/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH2gSPhKN7WXw/company-logo_400_400/company-logo_400_400/0/1678222109663/fico_logo?e=1785369600&v=beta&t=wOHcC84jIbt8051kOihvdpM4FK1FckRNWcFSdiBQ15A",
+          "title": "Software Development Engineer",
+          "subtitle": "FICO . undefined",
+          "caption": "Jun 2016 - Oct 2019 · 3 yrs 4 mos",
+          "metadata": "Bangalore Urban, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3716484",
+          "companyUrn": "urn:li:fsd_company:3716484",
+          "companyLink1": "https://www.linkedin.com/company/oyo-rooms/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEQ7b3cQ9-5oQ/company-logo_400_400/company-logo_400_400/0/1684212048489/oyo_rooms_logo?e=1785369600&v=beta&t=m3oruxeOOiaBBTm6tW_hWt1IF51nLkpfTQBPJd5u2uQ",
+          "title": "Software Development Intern",
+          "subtitle": "OYO . undefined",
+          "caption": "May 2015 - Aug 2015 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JMeter",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gherkin",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cucumber",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Grafana",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Karate",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TestNG",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WCNP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google BigQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RDBMS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Platform Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OutSystems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure Cosmos DB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Network Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Identity and Access Management (IAM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operational Efficiency",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Batch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "157265",
+          "companyUrn": "urn:li:fsd_company:157265",
+          "companyLink1": "https://www.linkedin.com/school/indian-institute-of-technology-kharagpur/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_400_400/company-logo_400_400/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1785369600&v=beta&t=ant1KeBQcdrxPBXi8VNrjulgYKOpJVGWztQ_07MXM0s",
+          "title": "Indian Institute of Technology, Kharagpur",
+          "subtitle": "Bachelor of Technology - BTech, Aerospace",
+          "caption": "Aug 2012 - May 2016",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

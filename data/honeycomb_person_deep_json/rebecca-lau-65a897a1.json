@@ -1,0 +1,413 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/rebecca-lau-65a897a1",
+  "row_key": "id:003Uk00000Y1LdxIAF",
+  "person": "Rebecca Lau",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:25Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABWqe-YB4rD32TjcRxVB3CO5oZxnMG79zIk",
+      "firstName": "Rebecca",
+      "lastName": "Lau",
+      "fullName": "Rebecca Lau",
+      "publicIdentifier": "rebecca-lau-65a897a1",
+      "headline": "Principal Software Engineer at Medtronic Digital Surgery",
+      "about": "I have a BSc(H) in Computer Science from Nottingham Trent University.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 4 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Jan 2024 - Present · 2 yrs",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jul 2022 - Jan 2024 · 1 yr 6 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Aug 2021 - Jul 2022 · 11 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "61834",
+          "companyUrn": "urn:li:fsd_company:61834",
+          "companyLink1": "https://www.linkedin.com/company/asos-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH4aMVpddkb3w/company-logo_400_400/company-logo_400_400/0/1635860093495/asos_com_logo?e=1785369600&v=beta&t=KNQLXtsYljajZ_njkIcXvMlN9wR-RV7CdlkrVb6FoTc",
+          "title": "ASOS.com",
+          "subtitle": "Full-time · 3 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jul 2021 - Jul 2021 · ",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Nov 2018 - Jul 2021 · 2 yrs 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working on scalable python APIs serving machine learning models for AI & Data Science platform.\n\n\nPython; SQL; C#; Git; Flask; Fastapi; Nginx; Linkerd; Tensorflow Serving Api;\nAzure Kubernetes Service; Azure Machine Learning; Cosmos; SQL Database; ARM Template;"
+                }
+              ]
+            },
+            {
+              "title": "Associate Software Engineer",
+              "caption": "Sep 2017 - Nov 2018 · 1 yr 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Azure Services: Cloud Services, App Service, Azure SQL, Document DB, ARM templates\nLangages:  C#, SQL\nFrameworks: .net standard, .net core\nTesting Methodology: ATDD, TDD\nTesting: Unit, Integration, Spec, End to End, Smoke \nDev Ops: Octopus, Teamcity, ARM templates\nLibraries : Nunit, Moq, Shouldly, Specflow, TSQLT\nGit, Gitflow\nSOLID principles, Design patterns, Code Craftsmanship"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "61834",
+          "companyUrn": "urn:li:fsd_company:61834",
+          "companyLink1": "https://www.linkedin.com/company/asos-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH4aMVpddkb3w/company-logo_400_400/company-logo_400_400/0/1635860093495/asos_com_logo?e=1785369600&v=beta&t=KNQLXtsYljajZ_njkIcXvMlN9wR-RV7CdlkrVb6FoTc",
+          "title": "Software Engineering Intern",
+          "subtitle": "ASOS.com . undefined",
+          "caption": "Jun 2015 - Jul 2016 · 1 yr 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "204445",
+          "companyUrn": "urn:li:fsd_company:204445",
+          "companyLink1": "https://www.linkedin.com/company/hogarth/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEuyvWtYg97MA/company-logo_400_400/company-logo_400_400/0/1692784034224/hogarth_logo?e=1785369600&v=beta&t=OXYk9N37ryuLe34rVcrxeLWN0nfnDSYEQu86Uz-_liU",
+          "title": "Hogarth Worldwide",
+          "subtitle": "undefined · 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Junior python developer",
+              "caption": "Jul 2014 - Aug 2014 · 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "7 week internship working in the client engineering team in zonza. Spending 5 weeks working on a hack day project, before moving on to working on zonza for 2 weeks."
+                }
+              ]
+            },
+            {
+              "title": "Junior python developer",
+              "caption": "Jun 2014 - Jun 2014 · ",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Work experience for two weeks"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": " DAT256x: Essential Math for Machine Learning: Python Edition",
+          "subtitle": "edX",
+          "issued": "Issued Apr 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "Microsoft Professional Program in Data Science Core",
+          "subtitle": "edX",
+          "issued": "Issued Apr 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "DAT201x: Querying Data with Transact-SQL",
+          "subtitle": "edX",
+          "issued": "Issued Sep 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "DAT208x: Introduction to Python for Data Science",
+          "subtitle": "edX",
+          "issued": "Issued Sep 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "DAT101x: Introduction to Data Science",
+          "subtitle": "edX",
+          "issued": "Issued Jul 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Membership of the British Computing Society Prize for Outstanding Performance",
+          "subtitle": "Issued by Nottingham Trent University",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Placement Diploma in Professional Practice",
+          "subtitle": "Issued by Nottingham Trent University",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Microsoft Word",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Time Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Event Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Public Speaking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ATDD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "tdd",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET Core",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "12947",
+          "companyUrn": "urn:li:fsd_company:12947",
+          "companyLink1": "https://www.linkedin.com/school/nottingham-trent-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGVS1jLL586wQ/company-logo_400_400/company-logo_400_400/0/1663668357288/nottingham_trent_university_logo?e=1785369600&v=beta&t=Qn4CN07He-7KDhAiJgew7f7ciKA0YQMphDv8hZvcGIU",
+          "title": "Nottingham Trent University",
+          "subtitle": "Bachelor of Science - BS, Computer Science",
+          "caption": "2013 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "1st Class Honours"
+            }
+          ]
+        },
+        {
+          "title": "Woodford County High School",
+          "subtitle": "null, null",
+          "caption": "2006 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ravishankarkrishnakumar",
+  "row_key": "id:003Uk000012UWQeIAO",
+  "person": "Krishna Ravishankar",
+  "account": "Fireworks AI",
+  "fetched_at": "2026-07-14T10:36:24Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAdcvHIBXI6PnjfRoJaZ4NAwqzFa7KfsDI0",
+      "firstName": "Krishna",
+      "lastName": "Ravishankar",
+      "fullName": "Krishna Ravishankar",
+      "publicIdentifier": "ravishankarkrishnakumar",
+      "headline": "Data Reliability Engineer at Datadog",
+      "about": "Experienced and impact-driven Data Reliability Engineer with over 10years of experience in building scalable systems, automating infrastructure,and driving high-stakes engineering initiatives across cloud-native and distributed environments. Proven expertise in Kafka infrastructure, cloud migrations, distributed systems, DevOps practices, and incident response.Trusted for taking ownership of critical features, mentoring peers, and delivering outcomes that reduce cost, increase reliability, and align with organizational goals.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "91174981",
+          "companyUrn": "urn:li:fsd_company:91174981",
+          "companyLink1": "https://www.linkedin.com/company/fireworks-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBD0h39SCyLw/company-logo_400_400/company-logo_400_400/0/1711133682942/fireworks_ai_logo?e=1785369600&v=beta&t=CThoZGybDlkdOYbemJ_CeRFc5lBpwo5JuLmMa0DIY4M",
+          "title": "Site Reliability Engineer",
+          "subtitle": "Fireworks AI . Full-time",
+          "caption": "Feb 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1066442",
+          "companyUrn": "urn:li:fsd_company:1066442",
+          "companyLink1": "https://www.linkedin.com/company/datadog/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFLwWfI6v1OPA/company-logo_400_400/company-logo_400_400/0/1657564322231/datadog_logo?e=1785369600&v=beta&t=HZ8l26HSK4jMLtDK_ZCkZvJFeJcHl4QMgyQ2rBQtiho",
+          "title": "Data Reliability Engineer II",
+          "subtitle": "Datadog . Full-time",
+          "caption": "May 2022 - Feb 2026 · 3 yrs 9 mos",
+          "metadata": "Boston, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19857",
+          "companyUrn": "urn:li:fsd_company:19857",
+          "companyLink1": "https://www.linkedin.com/company/wayfair/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE5VUS4aKzIjw/company-logo_400_400/company-logo_400_400/0/1707335788746/wayfair_logo?e=1785369600&v=beta&t=EkWCO0YbZ2bOqVSbK1ppvJiR2ERR49ztMNgvZq86qb4",
+          "title": "Wayfair",
+          "subtitle": "Full-time · 4 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Engineer",
+              "caption": "Sep 2020 - May 2022 · 1 yr 8 mos",
+              "metadata": "Boston, Massachusetts, United States",
+              "description": []
+            },
+            {
+              "title": "Distributed Systems Engineer II",
+              "caption": "Sep 2018 - Aug 2020 · 1 yr 11 mos",
+              "metadata": "Boston, Massachusetts",
+              "description": []
+            },
+            {
+              "title": "Distributed System Engineer I",
+              "caption": "Jun 2017 - Aug 2018 · 1 yr 2 mos",
+              "metadata": "Boston, Massachusetts, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5046539",
+          "companyUrn": "urn:li:fsd_company:5046539",
+          "companyLink1": "https://www.linkedin.com/company/blackknight/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHFMfRNfPwKww/company-logo_400_400/company-logo_400_400/0/1631340241035?e=1785369600&v=beta&t=KFGugEeV171dXIllCt_LCH3hZnDWqHxpGtJn4zWOoKw",
+          "title": "Data Analyst Intern",
+          "subtitle": "Black Knight Financial Services . undefined",
+          "caption": "May 2016 - Nov 2016 · 6 mos",
+          "metadata": "Jacksonville, Florida Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tDesigned a tool (using Bash, Python and Spark) to get the configuration of four production Hadoop clusters and compare their properties as a tabular data. This tool helped the team to reduce the risk in cluster configuration and improved the configuration time by almost 80%.\n\n•\tProduced a script (using Bash and Sqoop) to support the ingestion activity for data migration from MySQL and SQL Server into Hive. This script compares the schema and data in source and destination DBs and generates a report on the data integrity before the daily run of a batch job.\n\n•\tCreated a Menu driven Kafka tool to create, display and drain messages. This tool helped the QA team to reduce their throughput time by 20% when performing tests on Kafka.\n\n•\tDeveloped a dashboard (using MS Excel and Access) to visualize the metrics of any project in the team. This tool tracked the employee timesheet data and helped optimize the project estimations.\n\n•\tDocumented the working of a Machine Learning algorithm that matched the US public property with the company proprietary data to visualize the existing mortgage."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Research Data Analyst Intern",
+          "subtitle": "M.I.N.D (Media Interface and Network Design) Labs . undefined",
+          "caption": "Jan 2016 - Apr 2016 · 3 mos",
+          "metadata": "Syracuse, New York Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tGathered and cleaned 5 millions records of cognitive brain data using Excel and R of 20 subjects for a research project on emotion-reading using functional Near Infrared Spectroscopy (fNIRS) and Electrocardiogram (ECG)\n\n•\tPerforming a more complete study on emotions using Electrocardiogram (ECG) and Electro Dermal Activity (EDA) to   complement the cognitive data by extending the idea to human computer interaction domain\n\n•\tStudied the data gathered from fNIRS and ECG by finding the correlation coefficient to illustrate a dependency  and plotted the results using R."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1353",
+          "companyUrn": "urn:li:fsd_company:1353",
+          "companyLink1": "https://www.linkedin.com/company/tata-consultancy-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_400_400/company-logo_400_400/0/1708946550425/tata_consultancy_services_logo?e=1785369600&v=beta&t=argHyOHxOL8b_6ayqv8Ix2k-fvrql9BXSBmDI9iR4jw",
+          "title": "Tata Consultancy Services",
+          "subtitle": "undefined · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Data Analyst",
+              "caption": "Oct 2012 - Jul 2015 · 2 yrs 9 mos",
+              "metadata": "Chennai Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tWorked on analyzing 300,000 rows data for a British Insurance sector and designed new reports by creating SQL queries to optimize the performance of application by 20%\n•\tDeveloped a tool using Job Control Language to reduce the cost spent by 80% on weekly data load activity\n•\tCreated a tool using SQL scripts to perform compilation, extraction and generation of reports, which mitigated the risk and enhanced decision making for Quality Analysis (QA)\n•\tStudied and developed programs using Hash Encryption Algorithm to encrypt & securely transfer data\n•\tFormulated a tool using Excel Macros, formulas for insurance actuaries to calculate the historic policy value during redress activities."
+                }
+              ]
+            },
+            {
+              "title": "Software Developer",
+              "caption": "Jul 2012 - Oct 2012 · 3 mos",
+              "metadata": "Chennai Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tDeveloped an application based on “Preferential Data Choice” using the CICS (Customer Information Control System) and successfully published the same as a paper in International Journal for Research and Development in Engineering (IJRDE).\n \n•\tAs a developer I was responsible for creating new or maintaining existing backend operations of the Outputs (Statements like Pension Benefits, Maturity Letter, Mortgage Letter) provided by the Insurance firm"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Getting and Cleaning Data",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Programming for Everybody (Getting Started with Python)",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "R Programming",
+          "subtitle": "Coursera",
+          "issued": "Issued Dec 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tamil",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "On the Spot award",
+          "subtitle": "Issued by TATA Consultancy Services Limited, Chennai, India",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "On the Spot Award for presenting in Annual Town Hall meeting conducted by TATA Consultancy Service Limited"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Star of the month award",
+          "subtitle": "Issued by TATA Consultancy Services Limitied, Chennai, India",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Star of the Month award for outstanding work and on-time delivery of a rectification project   "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Best Employee of the Month",
+          "subtitle": "Issued by TATA Consultancy Services Limited, Chennai, India",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Won awards and recognitions under “Best Employee of the month” for publishing my work in IJRDE"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hive",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Shell Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mainframe",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Implementation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "COBOL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JCL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Word",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166228",
+          "companyUrn": "urn:li:fsd_company:166228",
+          "companyLink1": "https://www.linkedin.com/school/syracuse-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFAyZ5pXkHL9Q/company-logo_400_400/company-logo_400_400/0/1630671468743/syracuse_university_logo?e=1785369600&v=beta&t=x-b1LWQBKAWOEz_eW7EX1mhBvWAK55a9MenvPqlFH1Q",
+          "title": "Syracuse University",
+          "subtitle": "Master’s Degree, A member of Nanhi Kali’s Finance team at Syracuse University, an initiative to educate underprivileged girls by providing them with direct funds for educational materials",
+          "caption": "2015 - 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "15144815",
+          "companyUrn": "urn:li:fsd_company:15144815",
+          "companyLink1": "https://www.linkedin.com/school/sastrauniv/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE4ha3C_kSahA/company-logo_400_400/company-logo_400_400/0/1631321770714?e=1785369600&v=beta&t=kQXWcTSVskBu2Z299ylUiV_vofNcRQOg0ZIgndm-D7k",
+          "title": null,
+          "subtitle": "Bachelor’s Degree, Involved in installing and maintaining LAN (Local Area Network) for Residential halls during junior and senior year at SASTRA university",
+          "caption": "2008 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.56"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Finance Team Member",
+          "subtitle": "Nanhi Kahli - Syracuse Chapter",
+          "caption": "Sep 2015 - Present · 10 yrs 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Analysis of Terrorist Activities",
+          "subtitle": "Oct 2016 - Oct 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Syracuse University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The objective of this project was to determine patterns in the Global Terrorism Database using different data mining techniques.The analysis was carried in three different parts. \n\n1.The first part of analysis is to uncover patterns in attack type in different regions using association rule.\n\n2. Second part of analysis is to predict the inclusion criterion of terrorist activity: political, economic, religious, social, three different SVM models were built for these three criteria, each with three different samples, and results were validated on test set.\n\n3. Finally, the last part of analysis is to determine if the group name associated with terrorist activity the results were proven on a subset of data using Random Forest Classifier and tuning the model."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Recommendation System",
+          "subtitle": "Mar 2016 - Mar 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Syracuse University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "•\tBuilt a recommendation system using collaborative filtering which uses Euclidean distance and Hierarchical clustering on a movie database from movielens.org\n•\tCreated a model with 10 clusters with each cluster representing a genre, thus suggesting movies to users from a cluster with respect to the user’s preference. \n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Extraction and Cleaning of Smartphone data – R programming",
+          "subtitle": "Jan 2016 - Jan 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Syracuse University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The project serves to demonstrate the collection and cleaning of a data set that can be used for subsequent analysis.Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.Extracted the sensor data and produced a single huge data set with average of each variable for each activity and subject.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Insurance Planner - Data Administration Concepts and Database Management Project",
+          "subtitle": "Nov 2015 - Nov 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Syracuse University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Insurance is something every individual needs, it helps to cover ones medical/damage expenses but choosing the right plan can be overwhelming. Most people in the United States have health insurance through their employer or union. Others seek out an individual or family health plan through a healthcare exchange, an agent, an insurance company, or a broker. The main purpose of the project is to centralize all the available insurance be it health, car or cosmetic in one place. \n\nThe current system works such a way that the customer has to get in touch with an agent from each insurance company and gains knowledge about the policy or plan offered by that company. The database developed is an user interactive database where in the customer can make more informed decision based on the plan available without the help of a third person. With amalgamation of all the insurance plan provided by different company in single centralized database would make it easier for the customers to choose the best plan by comparing them online. The database is designed such a way that customer can query the database by his or her own needs and also gives the customer with all available schemes or plan offered by different insurance companies in one place. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Enhanced S-Box design based on chaos theory",
+          "subtitle": "Dec 2011 - Dec 2011",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Shanmugha Arts, Science, Technology and Research Academy"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The project deals with the designing of a dynamic S-box based on the Chaos Theory. Chaotic maps are used to design S-box and offer computational efficiency in the design process. The S-box generates random numbers which can be used for encryption algorithms like AES and DES. These random numbers were run against few tests and the statistical results were shown as a graph."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hypothesis Testing: University town prices of USA - Python",
+          "subtitle": "Feb 2017 - Mar 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "1. Hypothesis: University towns have their mean housing prices less effected by recessions. \n\n2. Ran a t-test comparing the university town values to the non-university towns values, return whether the alternative hypothesis (that the two groups are the same) is true or not as well as the p-value of the confidence. \n\n3. Rejected the null hypothesis on University towns mean housing prices have same effects as non-University town mean housing prices during recessions with 99% confidence and p-value 0.002099\n\nDataset used:\n1.From the Zillow research data site there is housing data for the United States which has median home sale prices at a fine grained level\n\n2.From the Wikipedia page on college towns is a list of university towns in the United States\n\n3.From Bureau of Economic Analysis, US Department of Commerce, the GDP over time of the United States in current dollars (used the chained value in 2009 dollars), note :considered GDP data from the first quarter of 2000 onward.\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

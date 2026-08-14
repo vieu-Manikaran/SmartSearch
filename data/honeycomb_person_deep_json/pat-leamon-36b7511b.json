@@ -1,0 +1,393 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/pat-leamon-36b7511b",
+  "row_key": "id:003Uk00000nSnGMIA0",
+  "person": "Pat Leamon",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:36:46Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAQ0IcMBSHFEledPMWTGUnd50S5z31RCmOg",
+      "firstName": "Pat",
+      "lastName": "Leamon",
+      "fullName": "Pat Leamon",
+      "publicIdentifier": "pat-leamon-36b7511b",
+      "headline": "Principal engineer at Entire",
+      "about": "Agile developer looking to continue making things that just work.\n\nSpecialties: web applications",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Melbourne Area Australia",
+      "addressWithoutCountry": "Greater Melbourne Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "111845019",
+          "companyUrn": "urn:li:fsd_company:111845019",
+          "companyLink1": "https://www.linkedin.com/company/entireio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG3TYtfL6EQnA/company-logo_200_200/B56ZxEh405HoAI-/0/1770676260471/entireio_logo?e=1785369600&v=beta&t=TtFpavpfHdUcYjkyg5UwzSiWCmFxDNxagQV4KeLLEv4",
+          "title": "Principal Engineer",
+          "subtitle": "Entire . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "388663",
+          "companyUrn": "urn:li:fsd_company:388663",
+          "companyLink1": "https://www.linkedin.com/company/redbubble/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEoBHTRKaHC1Q/company-logo_400_400/company-logo_400_400/0/1736360587740/redbubble_logo?e=1785369600&v=beta&t=WYNZBijMC8_djFYC-vkDbIhFkKZLO64jD5Zu1ibybzY",
+          "title": "Redbubble",
+          "subtitle": "Part-time · 14 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Engineer",
+              "caption": "May 2021 - Dec 2025 · 4 yrs 7 mos",
+              "description": []
+            },
+            {
+              "title": "Head of Data Engineering",
+              "caption": "Dec 2017 - May 2021 · 3 yrs 5 mos",
+              "metadata": "Melbourne, Victoria, Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working with engineers to provide foundational data pieces for the rest of the company.  Consolidated data into BigQuery, introduced reliable event pipelines and started patterns for data verification and consistent reporting. \n\n Established detailed cost instrumentation and monitoring of warehouse access.\n\nAlso worked in teams to establish CQRS style services for read heavy traffic."
+                }
+              ]
+            },
+            {
+              "title": "Head of Engineering, SF",
+              "caption": "Feb 2017 - Nov 2017 · 9 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I relocated to San Francisco to help speed up the creation of a local engineering team for Redbubble.  I worked with our in house recruitment team to hire a small team, handover to my long term replacement and up skill the team in all things Redbubble.\n\nThe team was responsible for working on optimising our paid marketing, SEO and new markets activities.  Additionally I helped with the communication gap between the San Francisco and Melbourne based teams."
+                }
+              ]
+            },
+            {
+              "title": "Engineering Manager",
+              "caption": "Jul 2015 - Feb 2017 · 1 yr 7 mos",
+              "metadata": "Melbourne, Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I lead a team focused on enabling other teams to scale.  Some of the highlights:\n\nScalable CI via Buildkite\nBuildkite was chosen as the workers are self hosted, but the co-ordination infrastructure is managed.  This gave us flexibility in scaling our builds and optimising build times without the hassle of managing buildkite itself.\n\nService extraction with AWS and Docker\nA class of resource intensive background work was extracted to docker based services pulling from SQS queues.\n\nConsolidated Logging\nImplementing a scalable ELK solution with a mix of managed and self hosted components.\n\nWeb application samples\nReliable Docker based web application examples, including solutions for zero down-time deployments.\n\nContinuous delivery with Samson\nAutomated software release workflow."
+                }
+              ]
+            },
+            {
+              "title": "Software Developer",
+              "caption": "Mar 2011 - Jul 2015 · 4 yrs 4 mos",
+              "metadata": "Melbourne",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As one of four engineers when I joined to a 30+ person team now, I've worked on a wide range of areas with Redbubble.  My experience has varied from the purely technical - i.e. API integration with numerous third party systems, to leading the understanding of our artist customer base - i.e. organising surveys, interviews, trials and home visits.\n\nRedbubble introduced a culture of rapid learning, aiming to follow lean startup principles in order to deliver value most quickly to the business.  Because of this I've been able to use a range of customer problem validation techniques to ensure I'm not only building quality software, but that the software really solves problems our customers have.  The include A/B testing, correlation/causation analysis, online user testing, customer journey mapping, prototyping, limited user trials, etc.\n\nThese are some of the projects I'm most proud of during my time at Redbubble:\n\nArtist Payments\nWorking with the finance team, I devised a new payment process that would be simpler to administer, faster to execute and allow our artists to see their balance at any point.  A single co-worker I implemented the changes, again working with our finance team along the way to ensure it was as simple as possible.\n\nThe payment system has survived twice as long as the one that pre-dated it and has proved to be scalable and extensible for new payment methods.\n\nProduct uploader\nRedbubble was looking to expand it's product offerring, but as artist customer lead I found that with every new product we added, fewer and fewer artists would upload the required templates.  I led a small team to explore new ways of letting our artists add their designs to our increasing range of products.  In a few months we were able to deliver a functional prototype of a new method which our artists loved that made it simple to enable all of our products."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "226774",
+          "companyUrn": "urn:li:fsd_company:226774",
+          "companyLink1": "https://www.linkedin.com/company/sensis/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEpt2BOCK8Kmg/company-logo_400_400/company-logo_400_400/0/1630665163590/sensis_logo?e=1785369600&v=beta&t=h3B48B-Zi52WcHK60kUAOEXhlhy_SQVBsweimbBwyd8",
+          "title": "Software Developer",
+          "subtitle": "Sensis . undefined",
+          "caption": "Oct 2010 - Feb 2011 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Internal rest/json API development for mapping functions."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "Sky Network Services . undefined",
+          "caption": "Jul 2008 - Aug 2010 · 2 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working as part of an agile team providing software to support:\n- Inventory management \n- Provisioning\n- Capacity planning\n- Broadband troubleshooting"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15304",
+          "companyUrn": "urn:li:fsd_company:15304",
+          "companyLink1": "https://www.linkedin.com/company/jacobsrimell/",
+          "title": "Developer",
+          "subtitle": "Jacobs Rimell . undefined",
+          "caption": "May 2007 - Jul 2008 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Adding support for BPEL workflows in a telecoms provisioning and support product"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Developer",
+          "subtitle": "Apoapsis . undefined",
+          "caption": "Nov 2005 - May 2007 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Maintaining and enhancing a network monitoring tool based around Netflow packets"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "Infosys Australia . undefined",
+          "caption": "Dec 2002 - Feb 2005 · 2 yrs 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Project at Department of Infrastructure providing payments to bus operators around Victoria."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "165271",
+          "companyUrn": "urn:li:fsd_company:165271",
+          "companyLink1": "https://www.linkedin.com/company/oakton/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHAzmknj9B5pQ/company-logo_400_400/company-logo_400_400/0/1631305505170?e=1785369600&v=beta&t=nglDedQ-ykFI5TMh7lDzMTdUwOw-yWkWztpERCfsULg",
+          "title": "Desktop Support",
+          "subtitle": "Oakton . undefined",
+          "caption": "Dec 2000 - Dec 2001 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My industry placement year - largely desktop application support for BP."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ant",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Maven",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Acceptance Testing (Concordion/cucumber)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration (Teamcity/Hudson)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SNMP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XSLT",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PL/SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Version Control (cvs/svn/vss/git/clearcase)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5885",
+          "companyUrn": "urn:li:fsd_company:5885",
+          "companyLink1": "https://www.linkedin.com/school/rmit-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEGU1obJOmROQ/company-logo_400_400/company-logo_400_400/0/1688439184668/rmit_university_logo?e=1785369600&v=beta&t=BTfKIzM1V-6SdHyf7RQ5hvF7yajzLeo50QebkDRjxdc",
+          "title": null,
+          "subtitle": "Software Engineering, Computer Science",
+          "caption": "1999 - 2002",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

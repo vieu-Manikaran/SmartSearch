@@ -1,0 +1,331 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/cameron-jensen-0958931b",
+  "row_key": "id:003Uk000001eGDfIAM",
+  "person": "Cameron Jensen",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:22Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAQ5PbEBQFzOzEav1Uhq5CUvIFxxK3woxTQ",
+      "firstName": "Cameron",
+      "lastName": "Jensen",
+      "fullName": "Cameron Jensen",
+      "publicIdentifier": "cameron-jensen-0958931b",
+      "headline": "Software Engineer",
+      "about": "Software developer with over 15 years experience.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Hobart, Tasmania Australia",
+      "addressWithoutCountry": "Hobart, Tasmania",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQETFun3gZjFOw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1524112107862?e=1785369600&v=beta&t=QW-8mKhMGXUcAbN7J9ovr65CIvoWW8mETRVzRDLJPGc",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQETFun3gZjFOw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1524112108040?e=1785369600&v=beta&t=ISGw96gv8bJafVj7zYPyR4omnM_4dNNM_ai_fau4PQQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQETFun3gZjFOw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1524112107896?e=1785369600&v=beta&t=cU17sVpg4Q6gYSk0M5FKIyyYNzu-BhObSznCQGdmnmw"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQETFun3gZjFOw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1524112107930?e=1785369600&v=beta&t=AsJtzD6b_SjupNAADXKuxVfn_UNOOtTP97Zkkt0dWz0"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQETFun3gZjFOw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1524112107862?e=1785369600&v=beta&t=QW-8mKhMGXUcAbN7J9ovr65CIvoWW8mETRVzRDLJPGc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Lyka",
+          "subtitle": "Full-time · 2 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Apr 2025 - Present · 9 mos",
+              "description": []
+            },
+            {
+              "title": "Lead Software Engineer",
+              "caption": "Oct 2023 - Apr 2025 · 1 yr 6 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Frontend Engineer",
+              "caption": "Apr 2023 - Oct 2023 · 6 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3590440",
+          "companyUrn": "urn:li:fsd_company:3590440",
+          "companyLink1": "https://www.linkedin.com/company/biteable/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGROqRvRrXTpA/company-logo_400_400/company-logo_400_400/0/1664306349490/biteable_logo?e=1785369600&v=beta&t=k9EQmtK7JkcbOlDjUDFCNN-adp4SzSw0lDuNuw7mzbw",
+          "title": "Biteable",
+          "subtitle": "undefined · 6 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Dec 2021 - Apr 2023 · 1 yr 4 mos",
+              "description": []
+            },
+            {
+              "title": "Software Developer",
+              "caption": "Aug 2016 - Dec 2021 · 5 yrs 4 mos",
+              "metadata": "Hobart, Tasmania, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "475506",
+          "companyUrn": "urn:li:fsd_company:475506",
+          "companyLink1": "https://www.linkedin.com/company/ionata-digital/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHcBle0f2i6Eg/company-logo_100_100/B56Zz5MVwoJIAQ-/0/1773707287996/ionata_digital_logo?e=1785369600&v=beta&t=gpPuCfWhfmbd74hhXJq1eaIDkga-PWXzAKdQdkFQvUU",
+          "title": "Senior Developer",
+          "subtitle": "Ionata Digital . undefined",
+          "caption": "Aug 2012 - Jul 2016 · 3 yrs 11 mos",
+          "metadata": "Hobart",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1726747",
+          "companyUrn": "urn:li:fsd_company:1726747",
+          "companyLink1": "https://www.linkedin.com/company/gqtool-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwJHNJnRiqiQ/company-logo_400_400/company-logo_400_400/0/1631336771696?e=1785369600&v=beta&t=_OyPi5f9UnsGHfHnETra5GbI7HXsaR7Rt-EdRKLLZHo",
+          "title": "Developer",
+          "subtitle": "GQTOOL LTD . undefined",
+          "caption": "2010 - Aug 2012 · 2 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1625490",
+          "companyUrn": "urn:li:fsd_company:1625490",
+          "companyLink1": "https://www.linkedin.com/company/additional-view/",
+          "title": "Web Developer",
+          "subtitle": "Additional View . undefined",
+          "caption": "Sep 2009 - Aug 2012 · 2 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XHTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SASS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

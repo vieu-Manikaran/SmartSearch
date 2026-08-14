@@ -1,0 +1,508 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/fgshepard",
+  "row_key": "id:003Uk00000ypyiqIAA",
+  "person": "Frank Shepard",
+  "account": "Midjourney",
+  "fetched_at": "2026-07-14T10:21:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADDJFsBs-R9TiBgRh75WBBqcXnFZwItMXc",
+      "firstName": "Frank",
+      "lastName": "S.",
+      "fullName": "Frank S.",
+      "publicIdentifier": "fgshepard",
+      "headline": "Engineer & Instructor",
+      "about": "I'm an experienced web application developer, architect, and engineering manager. I love building teams, working across disciplines, advocating for developers and collaborating on product development.\n\nOn the side, I teach in the Code as a Liberal Art program at The New School as well as at the Brooklyn Institute for Social Research.\n\nSpecialties: Javascript/Node application development, serverless architectures, cloud computing\n\nRecent Interests: Elixir, Haskell, Technology & ethics, artificial intelligence",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United States",
+      "addressWithoutCountry": "United States",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "82318617",
+          "companyUrn": "urn:li:fsd_company:82318617",
+          "companyLink1": "https://www.linkedin.com/company/midjourney/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdHwWJr1YZhg/company-logo_400_400/company-logo_400_400/0/1697570621105/midjourney_logo?e=1785369600&v=beta&t=ElVxt5ls8qroFbwD7FQPIaTQ15Aqv5XDw7EM4RZBPOU",
+          "title": "Principal Engineer",
+          "subtitle": "Midjourney . Full-time",
+          "caption": "Nov 2022 - Present · 3 yrs 2 mos",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "166389",
+          "companyUrn": "urn:li:fsd_company:166389",
+          "companyLink1": "https://www.linkedin.com/school/the-new-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFdlPN2GDZNZQ/company-logo_400_400/company-logo_400_400/0/1630603907744/the_new_school_logo?e=1785369600&v=beta&t=dajqg2oSwvSCfc5XvcCgqZZhChkmMcpx1lrEfKKMJ_k",
+          "title": "The New School",
+          "subtitle": "undefined · 16 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Part-time Assistant Professor",
+              "caption": "May 2019 - Present · 6 yrs 8 mos",
+              "metadata": "Greater New York City Area",
+              "description": []
+            },
+            {
+              "title": "Part-time Faculty",
+              "caption": "Jul 2009 - May 2019 · 9 yrs 10 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "“Interpreting Algorithms”, Fall 2025\n“The Algorithmic Sublime”, Fall 2022 - present\n\"Code Toolkit\", Spring  2016 - present\n\"Nietzsche & Religion,\" Spring 2012\n\"Theorizing Religion,\" Fall 2010, Fall 2011\n \"Globalization, Empire, & Religion,\" Fall 2009"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "11167236",
+          "companyUrn": "urn:li:fsd_company:11167236",
+          "companyLink1": "https://www.linkedin.com/company/brooklyn-institute-for-social-research/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHZeeOjfaCzpA/company-logo_400_400/company-logo_400_400/0/1631407426689?e=1785369600&v=beta&t=bA8RtVe83sDO0CFVsQCOJ2XyYXQUq5MpW3fIoA4m4Xc",
+          "title": "Associate Faculty",
+          "subtitle": "Brooklyn Institute for Social Research . undefined",
+          "caption": "Sep 2013 - Present · 12 yrs 4 mos",
+          "metadata": "Brooklyn, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "\"The Singularity\", 2018, 2020\n“Thinking Machines: an Introduction to AI”, 2018, 2021\n“Turing”, 2017\n“Infinity”, 2015 (2nd faculty)\n“Wagner & Nietzsche” (2nd faculty)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "162315",
+          "companyUrn": "urn:li:fsd_company:162315",
+          "companyLink1": "https://www.linkedin.com/company/dentsu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSceqDCNOufA/company-logo_400_400/company-logo_400_400/0/1630544766068/dentsuintl_logo?e=1785369600&v=beta&t=8j__c7gBiowJdBD2xr7n9EznB-HOEwWuJcl6VOCcByA",
+          "title": "dentsu international",
+          "subtitle": "Full-time · 2 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Director, Software Engineering",
+              "caption": "Aug 2021 - Oct 2022 · 1 yr 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Build and manage a team of full-stack engineers responsible for building the web applications that deliver our data products to our users. We use a serverless architecture hosted on AWS powered by NodeJS, Postgres, Snowflake, and VueJS on the client-side. \n- Work closely with the product team to plan, design, and build new features and applications. \n- I've recently joined a micro-frontend working group tasked with finding a way to bring applications built by teams spread across the globe into an integrated system without sacrificing local velocity and design freedom."
+                }
+              ]
+            },
+            {
+              "title": "Director, Software Engineering",
+              "caption": "Mar 2020 - Aug 2021 · 1 yr 5 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2340059",
+          "companyUrn": "urn:li:fsd_company:2340059",
+          "companyLink1": "https://www.linkedin.com/company/amnetgroup/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGWD5CSsxBquw/company-logo_400_400/company-logo_400_400/0/1696857992022/amnetgroup_logo?e=1785369600&v=beta&t=_MPNOOPLEuOWznvNqgZSKxfY9sBKIMS72OVQpCGl4xE",
+          "title": "Amnet Programmatic Experts for Dentsu Aegis Network",
+          "subtitle": "undefined · 3 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director Of Engineering (Web applications)",
+              "caption": "Oct 2018 - Mar 2020 · 1 yr 5 mos",
+              "metadata": "Greater New York City Area",
+              "description": []
+            },
+            {
+              "title": "Front-End Architect",
+              "caption": "Jan 2017 - Oct 2018 · 1 yr 9 mos",
+              "metadata": "New York, New York",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Full-stack web application development utilizing a serverless, microservices architecture (AWS)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "884018",
+          "companyUrn": "urn:li:fsd_company:884018",
+          "companyLink1": "https://www.linkedin.com/company/accordant-media/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbTglVfwIouQ/company-logo_400_400/company-logo_400_400/0/1631368569876?e=1785369600&v=beta&t=e82BFjvwSSrc-8LDTTgTLJNvnbeNWkAF7kh0E4Menqk",
+          "title": "Front-End Engineer",
+          "subtitle": "Accordant Media . undefined",
+          "caption": "Nov 2015 - Dec 2016 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Full-stack development using Python, Javascript, Node, VueJS, AngularJS on AWS (Lambda, RDS, APIs, etc)."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2242329",
+          "companyUrn": "urn:li:fsd_company:2242329",
+          "companyLink1": "https://www.linkedin.com/company/sumall/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF1nvRxG7JnIA/company-logo_400_400/company-logo_400_400/0/1631316575670?e=1785369600&v=beta&t=5-RmCuPK6BS3stTAssQ6VMh5QqFYMjdkCyCKyyy1WBw",
+          "title": "Front-End Engineer",
+          "subtitle": "SumAll . undefined",
+          "caption": "Oct 2014 - Oct 2015 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Build data visualizations and compelling interfaces using custom frameworks built on cutting-edge libraries and platforms.\n\nJavaScript, jQuery, d3, lodash, Vue.js, Docker, DropWizard"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "38649",
+          "companyUrn": "urn:li:fsd_company:38649",
+          "companyLink1": "https://www.linkedin.com/company/crisp--media/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEsgD6NdarrAw/company-logo_400_400/company-logo_400_400/0/1631301936203?e=1785369600&v=beta&t=5A3bTTKEe5ZnbO1X8IvAzCOeCbtkO--y3K57CBuyrJ8",
+          "title": "Front-End Engineer",
+          "subtitle": "Crisp Media . undefined",
+          "caption": "Apr 2013 - Oct 2014 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Javascript Engineer\nI write, test, and debug JavaScript-based software for the mobile web. Our team builds and maintains a third-party JavaScript platform for the creation and delivery of rich-media ads.\n\nHTML5 Developer\nVideo & Animation\nUser-interaction & engagement tracking\nCross-browser and cross-device testing"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "89935931",
+          "companyUrn": "urn:li:fsd_company:89935931",
+          "companyLink1": "https://www.linkedin.com/company/archdigitals/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGMPoqxIDSZJg/company-logo_400_400/company-logo_400_400/0/1672243359008?e=1785369600&v=beta&t=nUx0uQJUJExE6LExvqBsZ6H6RCAJBRze0G_s_svqUf0",
+          "title": "Director of Development",
+          "subtitle": "Arch Digitals . undefined",
+          "caption": "Sep 2012 - Apr 2013 · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2624",
+          "companyUrn": "urn:li:fsd_company:2624",
+          "companyLink1": "https://www.linkedin.com/school/columbia-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_400_400/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1785369600&v=beta&t=SSmGfqT793RocawXXcyCKzH_gUYc5-G8LDmXnt4XDNs",
+          "title": "Columbia University",
+          "subtitle": "undefined · 7 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Doctoral Candidate",
+              "caption": "Sep 2005 - Jan 2013 · 7 yrs 4 mos",
+              "description": []
+            },
+            {
+              "title": "Teaching Fellow",
+              "caption": "Sep 2005 - May 2009 · 3 yrs 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Teaching Assistant for the following courses:\nIntroduction to the New Testament (Spring 2009)\nReligion, An Introduction (Fall 2008)\nIslam (Spring 2008)\nReligion & Postmodernism (Fall 2007)\nLife After Death (Spring 2007)\nPhilosophy of Religion (Fall 2006)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teaching",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Editing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Standards",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Writing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Serverless architectures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2624",
+          "companyUrn": "urn:li:fsd_company:2624",
+          "companyLink1": "https://www.linkedin.com/school/columbia-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_400_400/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1785369600&v=beta&t=SSmGfqT793RocawXXcyCKzH_gUYc5-G8LDmXnt4XDNs",
+          "title": "Columbia University in the City of New York",
+          "subtitle": "Doctor of Philosophy (Ph.D.), Religion",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Western Philosophy"
+            }
+          ]
+        },
+        {
+          "companyId": "2624",
+          "companyUrn": "urn:li:fsd_company:2624",
+          "companyLink1": "https://www.linkedin.com/school/columbia-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_400_400/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1785369600&v=beta&t=SSmGfqT793RocawXXcyCKzH_gUYc5-G8LDmXnt4XDNs",
+          "title": "Columbia University in the City of New York",
+          "subtitle": "Master of Philosophy (M.Phil.), Religion",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Western Philosophy"
+            }
+          ]
+        },
+        {
+          "companyId": "1646",
+          "companyUrn": "urn:li:fsd_company:1646",
+          "companyLink1": "https://www.linkedin.com/school/harvard-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1785369600&v=beta&t=6UPT13bAXUu-uQx_8cGFJw9Nt7RqPUoqd11BgbPysyI",
+          "title": "Harvard University",
+          "subtitle": "Master of Theological Studies (M.T.S.), Religion",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Philosophy, South Asian / Buddhist Studies"
+            }
+          ]
+        },
+        {
+          "companyId": "157313",
+          "companyUrn": "urn:li:fsd_company:157313",
+          "companyLink1": "https://www.linkedin.com/school/princeton-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_400_400/company-logo_400_400/0/1630648147093/princeton_university_logo?e=1785369600&v=beta&t=0CuBDwMAib-FDwdNbMTqJvMDCwNLl_mzBod4NwZSB-w",
+          "title": "Princeton University",
+          "subtitle": "Bachelor of Arts (B.A.), Religion",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Religion"
+            }
+          ]
+        },
+        {
+          "companyId": "3881",
+          "companyUrn": "urn:li:fsd_company:3881",
+          "companyLink1": "https://www.linkedin.com/school/uchicago/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbp_dv8CAlpQ/company-logo_400_400/company-logo_400_400/0/1630577480920/uchicago_logo?e=1785369600&v=beta&t=hNnHdbG-3ipmDdtYF5LkSwN6zynKzhwpTTgbGRQGTX4",
+          "title": "University of Chicago",
+          "subtitle": "Master of Arts (M.A.), Social Sciences",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "MRAID Webtester",
+          "subtitle": "May 2013 - May 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "This project provides a web implementation of MRAID (Mobile Rich Media Ad Interface Definitions) so that ad designers have a place to test their MRAID-compliant ads without trafficking them into an application.\n\nTo use this web-tester online, a recent version is available at http://webtester.mraid.org.\n\nGitHub: https://github.com/mraid/webtester\n(Previously hosted as a Google Code project)\n\nTo find out more about MRAID, please see http://www.iab.net/mraid/."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

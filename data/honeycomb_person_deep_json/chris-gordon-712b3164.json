@@ -1,0 +1,166 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/chris-gordon-712b3164",
+  "row_key": "id:0031N00001cO7h4QAC",
+  "person": "Chris Gordon",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:32:50Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA2xgb4BWMqTjXisbwFF4oBqWtablWx8wEk",
+      "firstName": "Chris",
+      "lastName": "Gordon",
+      "fullName": "Chris Gordon",
+      "publicIdentifier": "chris-gordon-712b3164",
+      "headline": "Technical Lead  at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Bruno, California United States",
+      "addressWithoutCountry": "San Bruno, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Software Engineer",
+          "subtitle": "Yelp . undefined",
+          "caption": "Aug 2015 - Present · 10 yrs 5 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2988",
+          "companyUrn": "urn:li:fsd_company:2988",
+          "companyLink1": "https://www.linkedin.com/company/vmware/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzpbXCUplXJw/company-logo_400_400/company-logo_400_400/0/1716485708320/vmware_logo?e=1785369600&v=beta&t=YYQpwqFu9rndzhl2DhV7vca8Iivp6BfABbu6rWFjFFw",
+          "title": "MTS Intern",
+          "subtitle": "VMware . undefined",
+          "caption": "May 2013 - Aug 2013 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vim",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Memory Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3558",
+          "companyUrn": "urn:li:fsd_company:3558",
+          "companyLink1": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1785369600&v=beta&t=v2DbUxdBk6bM0VWV94bC3Cy2jYJdLswUCGoHxnMX358",
+          "title": "Georgia Tech",
+          "subtitle": "Bachelor's degree, Sigma Pi, Swim club,",
+          "caption": "2011 - 2015",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

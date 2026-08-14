@@ -1,0 +1,66 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/gareth-edwards-4b45b210",
+  "row_key": "id:003Uk00000Pb4tcIAB",
+  "person": "Gareth Edwards",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:38Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAI5R0gBtQeubMj498M3XE0DxHyNB0fIAGI",
+      "firstName": "Gareth",
+      "lastName": "Edwards",
+      "fullName": "Gareth Edwards",
+      "publicIdentifier": "gareth-edwards-4b45b210",
+      "headline": "Principal Manufacturing Engineer at TRW",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Automotive",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Adrian, Michigan United States",
+      "addressWithoutCountry": "Adrian, Michigan",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "3745",
+          "companyUrn": "urn:li:fsd_company:3745",
+          "companyLink1": "https://www.linkedin.com/company/zf-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHXMNdmkd7RUQ/company-logo_400_400/company-logo_400_400/0/1737616365186/zf_group_logo?e=1785369600&v=beta&t=widgZF6-F1J36KUnD8iJrIDJB9DyR0tmVT0QjQJAftU",
+          "title": "Principal Manufacturing Engineer",
+          "subtitle": "TRW . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

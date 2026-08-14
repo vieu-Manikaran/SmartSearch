@@ -1,0 +1,472 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/aravindsrivats",
+  "row_key": "id:003Uk00000yfUTqIAM",
+  "person": "Aravind Srivatsan",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:13Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAuA_MoBIdaZhmJPkFWP-ImLRvQeilxiDkE",
+      "firstName": "Aravind",
+      "lastName": "Srivatsan",
+      "fullName": "Aravind Srivatsan",
+      "publicIdentifier": "aravindsrivats",
+      "headline": "Coinbase | Ex PayPal",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "India",
+      "addressWithoutCountry": "India",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFu2DiNokIE2g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1639072298977?e=1785369600&v=beta&t=pyogy50EpBLo2gqiRzlx_B72KinFH8gKc8Qyw3B0si8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFu2DiNokIE2g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1639072298977?e=1785369600&v=beta&t=jKrLRF5AME6d4o18S1A9HFzB1rKTmXm0PwGMcRBAcak"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFu2DiNokIE2g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1639072298977?e=1785369600&v=beta&t=TBIj_-Gtc6VDw67F82wy0xJqoWTnF6mQSD4gJQN_9XI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFu2DiNokIE2g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1639072298977?e=1785369600&v=beta&t=UBkpvC3LGO2jFkMpoQL4M5AWAHVRqqEEwsyqTRlCSlc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFu2DiNokIE2g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1639072298977?e=1785369600&v=beta&t=pyogy50EpBLo2gqiRzlx_B72KinFH8gKc8Qyw3B0si8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Apr 2022 - Present · 3 yrs 9 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1482",
+          "companyUrn": "urn:li:fsd_company:1482",
+          "companyLink1": "https://www.linkedin.com/company/paypal/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_400_400/company-logo_400_400/0/1725506319701?e=1785369600&v=beta&t=d1Q9G3TYZqRKsYu5BfXcPrHunEET8mstWgvh5IpgpFg",
+          "title": "PayPal",
+          "subtitle": "Internship · 7 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Apr 2021 - Mar 2022 · 11 mos",
+              "metadata": "Chennai, Tamil Nadu, India",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jul 2015 - Mar 2021 · 5 yrs 8 mos",
+              "metadata": "Chennai Area, India",
+              "description": []
+            },
+            {
+              "title": "Engineer Intern",
+              "caption": "Jan 2015 - Jun 2015 · 5 mos",
+              "metadata": "Chennai, Tamil Nadu, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lead Web Developer",
+          "subtitle": "Zasprex Studios . undefined",
+          "caption": "Apr 2010 - Jun 2012 · 2 yrs 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Develop web interfaces from the design and develop the application interface required by the client."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tamil",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Association for Computing Machinery",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Change Champion",
+          "subtitle": "Issued by PayPal",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Key Talent Award",
+          "subtitle": "Issued by PayPal",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Special Jury Mention - Intraprenuer of the Year (Creator)",
+          "subtitle": "Issued by Zinnov",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apollo GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AJAX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15144815",
+          "companyUrn": "urn:li:fsd_company:15144815",
+          "companyLink1": "https://www.linkedin.com/school/sastrauniv/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE4ha3C_kSahA/company-logo_400_400/company-logo_400_400/0/1631321770714?e=1785369600&v=beta&t=kQXWcTSVskBu2Z299ylUiV_vofNcRQOg0ZIgndm-D7k",
+          "title": "Shanmugha Arts, Science, Technology and Research Academy",
+          "subtitle": "Bachelor of Technology (BTech), Daksh Technical Team",
+          "caption": "2011 - 2015",
+          "subComponents": []
+        },
+        {
+          "title": "Velammal",
+          "subtitle": "Higher Secondary, Computer Science",
+          "caption": "2009 - 2011",
+          "subComponents": []
+        },
+        {
+          "title": "Padma Sarangapani",
+          "subtitle": "High School, High School/Secondary Diplomas and Certificates",
+          "caption": "1999 - 2009",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Troop Leader",
+          "subtitle": "Bharat Scouts and Guides",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "EcoKitchen",
+          "subtitle": "Nov 2015 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "EcoKitchen allows donors to provide meals to children, elderly people and others in need."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FaceGlass",
+          "subtitle": "Aug 2013 - Aug 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "An android application for the Glass (before the Glass SDK was released) that uses the Animetrics API to recognize trained faces."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Peek-A-Far",
+          "subtitle": "Sep 2013 - Sep 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A map based web and android application that is useful for people to know about various bars, restaurants in a location before visiting."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Aakash Pustak",
+          "subtitle": "Feb 2013 - Jan 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Shanmugha Arts, Science, Technology and Research Academy"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The project involves porting the NCERT books of Indian Government to the Aakash tablets."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Google Task Manager",
+          "subtitle": "Jun 2013 - Jul 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A web application that uses the Tasks API to manage user tasks similar to the Google Tasks. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

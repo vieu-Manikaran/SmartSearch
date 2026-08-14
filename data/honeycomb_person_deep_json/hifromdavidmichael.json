@@ -1,0 +1,490 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/hifromdavidmichael",
+  "row_key": "id:0036O00004AsGUyQAN",
+  "person": "David Michael",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:40Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACCpsnsBizUKrGc4-iYBZzLYZZyULs8skq4",
+      "firstName": "David",
+      "lastName": "Michael",
+      "fullName": "David Michael",
+      "publicIdentifier": "hifromdavidmichael",
+      "headline": "Principal Security Engineer | AppSec Platform & Cloud Infrastructure | CISSP · CKA",
+      "about": "The problems I work on don't have clean edges. All these years inside one company teaches you that the hard part is usually the join: between systems, between teams, between a finding and the person who can act on it. Hollis writes that \"what we don't know about ourselves will be what runs us.\" Organizations are no different. I build the thing that makes the join visible. Still write the code. Not hard to reach.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Minneapolis-St. Paul Area United States",
+      "addressWithoutCountry": "Greater Minneapolis-St. Paul Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 17 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Cybersecurity Specialist",
+              "caption": "Jan 2022 - Present · 4 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Built security findings aggregation platform using Django ecosystem with PostgreSQL backend to centralize results from open source scanning tools, establishing a foundation to eventually eliminate manual spreadsheet exchanges and integrate with project discovery workflows.\n• Developed comprehensive KSPM framework formalizing policy authoring, monitoring, alerting and education processes for Kubernetes security across security teams and stakeholders.\n• Developed versioning system for CSPM policy documents using GitLab pipelines and merge requests, enabling security professionals to author, test and review changes before publishing to stakeholders at a predictable cadence independent from vendor updates.\n• Provided templates and training for security professionals to implement version control and change management for compliance documentation through GitLab policy management.\n• Built internal tooling and automation across the security team, replacing manual workflows with API-driven integrations."
+                }
+              ]
+            },
+            {
+              "title": "Principal IT Technologist",
+              "caption": "Jul 2016 - Jan 2022 · 5 yrs 6 mos",
+              "metadata": "Minneapolis, MN",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Operated Twistlock container security across dozens of clusters scanning thousands of images, then led migration to a replacement vendor solution across a global security team.\n• Architected a 5-phase modernization roadmap from basic source control adoption to fully autonomous 12-factor applications, providing developers with a clear transformation path.\n• Hosted technology workshops for global IT teams, accelerating organization-wide adoption of emerging tools while establishing consistent implementation standards.\n• Developed container and serverless prototypes to showcase future IT capabilities, effectively socializing modern infrastructure options with business developers through practical demonstrations.\n• Implemented Docker on Jenkins nodes, eliminating developer configuration delays."
+                }
+              ]
+            },
+            {
+              "title": "Sr Systems Administrator",
+              "caption": "Jun 2010 - Jul 2016 · 6 yrs 1 mo",
+              "metadata": "Mounds View, Minnesota",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Transformed static architectural diagrams into interactive web applications, enabling dynamic system walkthroughs that improved stakeholder understanding of complex legacy infrastructure.\n• Migrated SCOM 2007 to 2012 R2 using SCORCH/PowerShell SMA, transitioning VM databases to managed services, boosting reliability and cutting maintenance costs.\n• Invested in Pluralsight to master Node.js, Windows internals and API development, applying these skills to build AIDB and optimize SCOM monitoring while demonstrating self-directed professional growth.\n• Integrated monitoring data into security vulnerability program, strengthening organizational risk assessment and remediation prioritization.\n• Leveraged AIDB data to enhance CMDB with CI \"heartbeat\" metrics, dramatically improving asset tracking accuracy."
+                }
+              ]
+            },
+            {
+              "title": "Systems Administrator",
+              "caption": "Sep 2008 - Jun 2010 · 1 yr 9 mos",
+              "metadata": "Mounds View, Minnesota",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Automated infrastructure deployment to colocation centers, reducing build time and configuration errors\n• Provided on-call support for critical business applications\n• Designed performance visualizations for operations meetings, improving data-driven decisions\n• Built ITSM program implementing incident and change management in BMC Remedy\n• Integrated monitoring systems with NetIQ AppManager before leading SCOM migration\n• Integrated monitoring systems with incident management and TFS work items"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "9319160",
+          "companyUrn": "urn:li:fsd_company:9319160",
+          "companyLink1": "https://www.linkedin.com/company/chipheads-computer-repair-shops/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF_3EBHWCvLKQ/company-logo_400_400/company-logo_400_400/0/1631301458478?e=1785369600&v=beta&t=DfWA8fjrof0zIp2oOEMwLdbPIjr3U6kEx8LKapNcjV4",
+          "title": "Onsite Support Technician",
+          "subtitle": "Chipheads Computer Repair Shops . Full-time",
+          "caption": "Aug 2004 - Aug 2008 · 4 yrs",
+          "metadata": "Richfield, Minnesota",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Repaired computers as PC Repair technician at ChipHeads shop\n• Provided onsite technical support to residential and small business customers\n• Educated customers on troubleshooting techniques, empowering self-sufficiency\n• Adapted quickly to evolving technologies in fast-paced work environment\n• Delivered exceptional customer service through effective problem-solving and communication\n• Built strong customer relationships through reliable, professional onsite support"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4101731",
+          "companyUrn": "urn:li:fsd_company:4101731",
+          "companyLink1": "https://www.linkedin.com/company/backpack-software-inc/",
+          "title": "Systems Administrator",
+          "subtitle": "Backpack Software Inc . Full-time",
+          "caption": "Jun 2000 - Jul 2004 · 4 yrs 1 mo",
+          "metadata": "St Paul, Minnesota",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Provided technical support for BackPack Software's email software, web hosting, ISP services and datacenter co-location\n• Built and administered Linux, Unix, Solaris and Windows servers\n• Developed proficiency in C, Delphi, Perl and JavaScript programming\n• Created tools using Perl and Delphi to enhance company software and services\n• Resolved complex email, web hosting and connectivity issues for customers\n• Managed datacenter co-location services ensuring optimal performance and uptime"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2127",
+          "companyUrn": "urn:li:fsd_company:2127",
+          "companyLink1": "https://www.linkedin.com/company/best-buy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGT2K1dnyeIlA/company-logo_400_400/company-logo_400_400/0/1732018895513/best_buy_logo?e=1785369600&v=beta&t=KttqB6FSQv1Yr4pf9maYIOLaVkE6W-NB2SGGHnANdjU",
+          "title": "PC Technician",
+          "subtitle": "Best Buy . Full-time",
+          "caption": "May 1997 - Aug 2001 · 4 yrs 3 mos",
+          "metadata": "Burnsville, Minnesota",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Supported customers with inquiries about computer products and technologies\n• Assisted customers in selecting appropriate hardware and software based on needs\n• Troubleshot and resolved Windows software and hardware issues\n• Collaborated with sales team to provide comprehensive customer solutions"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5856445",
+          "companyUrn": "urn:li:fsd_company:5856445",
+          "companyLink1": "https://www.linkedin.com/company/unique-software/",
+          "title": "Onsite Support Technician",
+          "subtitle": "Unique Software . Full-time",
+          "caption": "Apr 1998 - Jun 2000 · 2 yrs 2 mos",
+          "metadata": "Eagan, Minnesota",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Provided technical support services to customers both remotely and in-shop\n• Built and configured Mac networks and computer labs for local school districts\n• Specialized in Mac troubleshooting and comprehensive issue resolution\n• Tasked with learning ColdFusion to develop complex B2B commerce platform"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Amazon Web Services Training and Certification",
+          "issued": "Issued Nov 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "800375",
+          "companyUrn": "urn:li:fsd_company:800375",
+          "companyLink1": "https://www.linkedin.com/company/peoplecert-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEY66hkTvsA5A/company-logo_400_400/company-logo_400_400/0/1726662854655/peoplecert_group_logo?e=1785369600&v=beta&t=vqQcwphGaa4TTugagUdIyX56yS2M6tSj05-Ol5RExSE",
+          "title": "ITIL 4 Foundation Certificate in IT Service Management",
+          "subtitle": "PeopleCert",
+          "issued": "Issued Nov 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analytics Foundations",
+          "subtitle": "DeepLearning.AI",
+          "issued": "Issued Apr 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "26753",
+          "companyUrn": "urn:li:fsd_company:26753",
+          "companyLink1": "https://www.linkedin.com/company/isc2/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEANDNp1O78-g/company-logo_400_400/company-logo_400_400/0/1692269546870?e=1785369600&v=beta&t=gSnOX85TYo1H_Od4TQ10pqsVPc7YOo7S2ev7l0Vi_0U",
+          "title": "Certified Information Systems Security Professional (CISSP)",
+          "subtitle": "ISC2",
+          "issued": "Issued Apr 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Understanding the Brain: The Neurobiology of Everyday Life",
+          "subtitle": "The University of Chicago",
+          "issued": "Issued Mar 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Verified Certificate for Introduction to Computer Science and Programming Using Python",
+          "subtitle": "edX",
+          "issued": "Issued Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "12893459",
+          "companyUrn": "urn:li:fsd_company:12893459",
+          "companyLink1": "https://www.linkedin.com/company/cloud-native-computing-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH5MvALB7nkQQ/company-logo_400_400/company-logo_400_400/0/1720630871456/cloud_native_computing_foundation_logo?e=1785369600&v=beta&t=ENFdWTyW7wP_yTallD4vguZAoIIINaH6aKFCxA0xCSo",
+          "title": "Certified Kubernetes Administrator",
+          "subtitle": "CNCF [Cloud Native Computing Foundation]",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "106103185",
+          "companyUrn": "urn:li:fsd_company:106103185",
+          "companyLink1": "https://www.linkedin.com/company/western-governor-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF-FVDoC7qE9w/company-logo_400_400/company-logo_400_400/0/1735463292472?e=1785369600&v=beta&t=s-VNUw_UB6-o2gPIn_BpxK26gdaZen4Qzkn5NLnjJFc",
+          "title": "WGU Certificate: Back-End Developer",
+          "subtitle": "Western Governors University",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "106103185",
+          "companyUrn": "urn:li:fsd_company:106103185",
+          "companyLink1": "https://www.linkedin.com/company/western-governor-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF-FVDoC7qE9w/company-logo_400_400/company-logo_400_400/0/1735463292472?e=1785369600&v=beta&t=s-VNUw_UB6-o2gPIn_BpxK26gdaZen4Qzkn5NLnjJFc",
+          "title": "WGU Certificate: Front-End Developer",
+          "subtitle": "Western Governors University",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Container Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Security Posture Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon EKS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Helm",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security Policies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Objects",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Custom Resource Definitions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ingress",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Logging and Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Open Source Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Orchestration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Site Reliability Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administrator",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communications Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Access Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Asset Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Identity Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security Assessment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "34215122",
+          "companyUrn": "urn:li:fsd_company:34215122",
+          "companyLink1": "https://www.linkedin.com/school/centennial-high-school-29/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEREGKBQQFIqw/company-logo_400_400/company-logo_400_400/0/1630607855715?e=1785369600&v=beta&t=PiBZx4zpV9ronsFjy7W_4VRSkMB-8KNVGakWQ4fQMdk",
+          "title": "Centennial High School",
+          "subtitle": "null, Apogee/3DRealms Build Engine, Command & Conquer",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "14084",
+          "companyUrn": "urn:li:fsd_company:14084",
+          "companyLink1": "https://www.linkedin.com/school/western-governors-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFa_Rmvn-l75w/company-logo_200_200/B56ZstboHbGsAI-/0/1765993775885/western_governors_university_logo?e=1785369600&v=beta&t=Z8PxVegPLRGcig2XvQ9GNfAagE1L9_Molf9H1BwWtK0",
+          "title": "Western Governors University",
+          "subtitle": "Bachelor of Science, Software Engineering",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Completed B.S. in Software Engineering (Java track) in 6 months while working full-time. Covered full-stack development, security, cloud deployment, and software design principles."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

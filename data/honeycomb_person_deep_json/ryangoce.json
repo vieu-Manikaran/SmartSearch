@@ -1,0 +1,470 @@
+{
+  "linkedin_url": "https://ph.linkedin.com/in/ryangoce",
+  "row_key": "id:003Uk00000Pb3LuIAJ",
+  "person": "Ryan Goce",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABsOxU0Bl5aJAZDu4lq5_bQ6suClX8NTTBI",
+      "firstName": "Ryan Albert",
+      "lastName": "Goce",
+      "fullName": "Ryan Albert Goce",
+      "publicIdentifier": "ryangoce",
+      "headline": "Engineering Manager at Lyka",
+      "about": "I love technology and I love writing code.  I like everything to be automated and I like to simplify series tasks with just a click of a button.\n\nOver the past 10 years, I have learned a myriad of programming languages and technologies and I am still learning.  I am a firm believer that knowledge of patterns and a good software engineering background/foundation are characteristics of a good software engineer.\n\n",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Glen Waverley, Victoria Australia",
+      "addressWithoutCountry": "Glen Waverley, Victoria",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Engineering Manager",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Jul 2024 - Present · 1 yr 6 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2766773",
+          "companyUrn": "urn:li:fsd_company:2766773",
+          "companyLink1": "https://www.linkedin.com/company/flexisource-it/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHca7foRJVYcQ/company-logo_400_400/company-logo_400_400/0/1689117955275/flexisource_it_logo?e=1785369600&v=beta&t=S8k_UpvBPYm9K1fHtBiOUVbyBbLv9FECC_UXZ0-Q1vg",
+          "title": "Lead Software Engineer",
+          "subtitle": "Flexisource IT . Full-time",
+          "caption": "Jun 2022 - Jul 2024 · 2 yrs 1 mo",
+          "metadata": "Manila, National Capital Region, Philippines",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked with our client EonX to develop a number of web and mobile applications"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6626777",
+          "companyUrn": "urn:li:fsd_company:6626777",
+          "companyLink1": "https://www.linkedin.com/company/eonx-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQE0CzB5e8SRDw/company-logo_400_400/company-logo_400_400/0/1630572834418/eonx_com_logo?e=1785369600&v=beta&t=mV0rZJiTBfRNgrsTyKPdCnaaEiXg0PE3_LMFa6RzKGM",
+          "title": "Lead Software Engineer",
+          "subtitle": "EonX . Full-time",
+          "caption": "Jun 2022 - Jul 2024 · 2 yrs 1 mo",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2256508",
+          "companyUrn": "urn:li:fsd_company:2256508",
+          "companyLink1": "https://www.linkedin.com/company/saperium/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0G9RteK_3lQ/company-logo_400_400/company-logo_400_400/0/1679495599543/saperium_logo?e=1785369600&v=beta&t=ihN4TFOPpmQOt8g6U0WIrX12rXaJhWyD7r_Haq7U4O8",
+          "title": "Saperium",
+          "subtitle": "Full-time · 10 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Architect",
+              "caption": "Jan 2022 - Jun 2022 · 5 mos",
+              "metadata": "Taguig, National Capital Region, Philippines",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jan 2012 - Jan 2022 · 10 yrs",
+              "metadata": "NCR - National Capital Region, Philippines",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Work closely with developers to develop a number of mobile and web applications.\nCollaborate with QA, stakeholders and a team of developers to finish a number of applications.\nConduct code-reviews and internal training to a team of developers.\nHelp in finalizing requirements with clients.\nConverted legacy Monolith application to Microservices Architecture.\nImplemented applications using Event Sourcing Architecture using Express and Node.js.\nCreated several libraries in Node.js to supplement Event Sourcing needs.\nDesign and implement initial and base code for all applications developed in iOS and Node.js.\nResponsible for the design and architecture of all applications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Towers Watson Philippines, Inc. . undefined",
+          "caption": "Jan 2011 - Dec 2011 · 11 mos",
+          "metadata": "NCR - National Capital Region, Philippines",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Conduct several in-house tranings to developers\nClient implementations and support\nLed the deployment and administration of live and staging servers.\nLed the team in finishing the Dependent Review Solution"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "724505",
+          "companyUrn": "urn:li:fsd_company:724505",
+          "companyLink1": "https://www.linkedin.com/company/advanced-card-systems-ltd./",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHLAjTtzmjl3Q/company-logo_400_400/B56Zg6YzYLG4Ac-/0/1753326238392/advanced_card_systems_ltd_logo?e=1785369600&v=beta&t=wriXiXPuYuqrADaC2RasZ6wx1zEy4Uv_LNog-rlVoBk",
+          "title": "Team Lead",
+          "subtitle": "Advanced Card Systems Ltd. . undefined",
+          "caption": "Dec 2008 - Jan 2011 · 2 yrs 1 mo",
+          "metadata": "NCR - National Capital Region, Philippines",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led seven developers in the development of the company’s multi-tenant collaboration web platform.\nResponsible for the overall design and architecture of the web application.\nRefactored the whole web application to be more performant, scalable and maintainable.\nIntroduced new technologies: jQuery and MVC."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "143725",
+          "companyUrn": "urn:li:fsd_company:143725",
+          "companyLink1": "https://www.linkedin.com/company/gurango-software/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE-R1Gn-Mgy7w/company-logo_400_400/company-logo_400_400/0/1631311311560?e=1785369600&v=beta&t=pI2d8Mdr6YixF852Tjl4vk1UvAmdW4mwTwQFM21I_C0",
+          "title": "Software Engineer",
+          "subtitle": "Gurango Software Corporation . undefined",
+          "caption": "Jan 2006 - Dec 2008 · 2 yrs 11 mos",
+          "metadata": "Quezon City, Philippines",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Supervises two developers.\nActively participates in product roadmap and features.\nResponsible for the overall design and architecture of the reporting feature of the payroll solution.\nDesigned several mini-projects of the company."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCTS: .NET Framework 3.5, ASP.NET Applications",
+          "subtitle": "Microsoft",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Infrastructure Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xcode",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Dynamodb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RabbitMQ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MS Reporting Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "17078",
+          "companyUrn": "urn:li:fsd_company:17078",
+          "companyLink1": "https://www.linkedin.com/school/ateneo-de-manila-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRx9QGyQRWPg/company-logo_100_100/B56Zad8NxjHsAQ-/0/1746406530638/ateneo_de_manila_university_logo?e=1785369600&v=beta&t=khXXf2fFP7WlPfUjR7wvOys04j8srSH7yXNf-CLPU2s",
+          "title": "Ateneo de Manila University",
+          "subtitle": "Bachelor of Arts (BA), Economics",
+          "caption": "2001 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "The Dealers' Forum V2",
+          "subtitle": "Dec 2015 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Greenfield project of the legacy Dealers' Forum Web Application\nSwitched stack from Microsoft to Open Source using Node.js\nNew architecture using Microservices, Event Sourcing and CQRS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "OnePass Mobile (iOS)",
+          "subtitle": "Jan 2013 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Chat app for doctors"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Dealers' Forum Mobile App (iOS)",
+          "subtitle": "Jan 2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Mobile app for car dealers and car inspectors"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Dealers' Forum Web",
+          "subtitle": "Jan 2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Maintenance of legacy web project created using ASP.NET WebForms"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sensoria Fitness Mobile (iOS)",
+          "subtitle": "Jan 2014 - May 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Fitness app using smart socks and heart rate monitor integration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sensoria Fitness Web",
+          "subtitle": "Jan 2014 - May 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Web frontend and backend of the Sensoria Fitness brand"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Teczo Web",
+          "subtitle": "Dec 2008 - Jan 2011",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "ASP.NET web application used for internal collaboration tool"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

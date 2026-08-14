@@ -1,0 +1,138 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/travistiedemann",
+  "row_key": "id:003Uk00000x1tDQIAY",
+  "person": "Travis Tiedemann",
+  "account": "Werner Enterprises, Inc.",
+  "fetched_at": "2026-07-14T10:47:33Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAFtfOMB-BVxXaGgUfLi4X3dT8ctrPWiVsI",
+      "firstName": "Travis",
+      "lastName": "Tiedemann",
+      "fullName": "Travis Tiedemann",
+      "publicIdentifier": "travistiedemann",
+      "headline": "IT Manager at Werner Enterprises",
+      "about": "Specialties: Red Hat Linux\nNetbackup\nHP-UX\nAIX\nSolaris\nRed Hat Cluster/GFS \nOracle RAC\nXEN/KVM virtualization\nGluster\nAnsible\nYAML",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Transportation/Trucking/Railroad",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Omaha, Nebraska United States",
+      "addressWithoutCountry": "Omaha, Nebraska",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEQwVEp7J9Iaw/profile-displayphoto-crop_800_800/B56Z3bIMzTGsAI-/0/1777497855351?e=1785369600&v=beta&t=y5idPdGgNCV2mP4BEb2JresJkEhwUY7_7z4q-dQ_T2U",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEQwVEp7J9Iaw/profile-displayphoto-scale_100_100/B56Z3bIMzTGsAc-/0/1777497855472?e=1785369600&v=beta&t=0r1NNZllNXBoa61MV-JjizbO__t_HIk9b2c_pD_DsbY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEQwVEp7J9Iaw/profile-displayphoto-scale_400_400/B56Z3bIMzTGsAg-/0/1777497855472?e=1785369600&v=beta&t=6wYOewZWb1gysXCjAaxrJMHqjiOmGJCjuJrdxSwcL40"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEQwVEp7J9Iaw/profile-displayphoto-scale_200_200/B56Z3bIMzTGsAY-/0/1777497855472?e=1785369600&v=beta&t=ZHzuh_8nYlxG9VmCzs6-UrYPx0S79v9_0c9J6WgBzSE"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEQwVEp7J9Iaw/profile-displayphoto-crop_800_800/B56Z3bIMzTGsAI-/0/1777497855351?e=1785369600&v=beta&t=y5idPdGgNCV2mP4BEb2JresJkEhwUY7_7z4q-dQ_T2U"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "12586",
+          "companyUrn": "urn:li:fsd_company:12586",
+          "companyLink1": "https://www.linkedin.com/company/werner-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAK3LmTyMsrA/company-logo_400_400/company-logo_400_400/0/1737154595689/werner_enterprises_logo?e=1785369600&v=beta&t=20ZSiGgtgVf7Ay72nPY2zknfCOtqd4PtVORDmNYfGew",
+          "title": "Werner Enterprises",
+          "subtitle": "Full-time · 4 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "IT Manager",
+              "caption": "Feb 2025 - Present · 11 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Cloud Operations Engineer",
+              "caption": "Apr 2021 - Present · 4 yrs 9 mos",
+              "metadata": "Omaha, Nebraska, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5992",
+          "companyUrn": "urn:li:fsd_company:5992",
+          "companyLink1": "https://www.linkedin.com/company/unionpacific/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNdy3vDfqqlw/company-logo_400_400/company-logo_400_400/0/1631301014323?e=1785369600&v=beta&t=1q_T-6WWLz0D5EaOUGIIj6uzKXTi3hfM5Tk92_d0Zs0",
+          "title": "Senior Systems Engineer",
+          "subtitle": "Union Pacific Railroad . undefined",
+          "caption": "May 2004 - Apr 2021 · 16 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2578",
+          "companyUrn": "urn:li:fsd_company:2578",
+          "companyLink1": "https://www.linkedin.com/company/gateway/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQELfqGFa_TMzA/company-logo_400_400/company-logo_400_400/0/1631319975833?e=1785369600&v=beta&t=mtYwf79x4ub5Z5QSHRRhysUPniPcXCC65OxkgkwsAf8",
+          "title": "Senior Unix Systems Administrator",
+          "subtitle": "Gateway . undefined",
+          "caption": "Aug 1995 - Apr 2004 · 8 yrs 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Microsoft Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

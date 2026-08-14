@@ -1,0 +1,513 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mjsesma",
+  "row_key": "id:003Uk00000Pb4mDIAR",
+  "person": "Miguel Sesma",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAASzBE0BgTago93LVrKO9RNJkXRDEqZWjgs",
+      "firstName": "Miguel J.",
+      "lastName": "Sesma",
+      "fullName": "Miguel J. Sesma",
+      "publicIdentifier": "mjsesma",
+      "headline": "Principal Android Developer @ Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "ES",
+        "language": "es"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "E-learning",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Spain",
+      "addressWithCountry": "Greater Madrid Metropolitan Area Spain",
+      "addressWithoutCountry": "Greater Madrid Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFMj17PNAi5UA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1621274964331?e=1785369600&v=beta&t=XC0CrY1Ym_uwe-eFXAwaBad8LYMsWMyAIbFJGddFxRs",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQHMbnJ729yuhw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1621275326205?e=1785369600&v=beta&t=75BpEoZp3xYHofJXl7NF0Npx5Eo6THLNk4QFGN5JHok",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFMj17PNAi5UA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1621274964331?e=1785369600&v=beta&t=aoRge5lNfFU5_d93K3ZWmn82eqKpdZ04owvJvWDYVd4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFMj17PNAi5UA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1621274964331?e=1785369600&v=beta&t=v5Yu0yKUNs_31XQiRoRXkl2hMt8UUJohJRsWPf9BVhU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFMj17PNAi5UA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621274964331?e=1785369600&v=beta&t=W3_4wiuKMFXS099E9yTMjcl3jzPuF1me9RaW5TFIeD0"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFMj17PNAi5UA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1621274964331?e=1785369600&v=beta&t=XC0CrY1Ym_uwe-eFXAwaBad8LYMsWMyAIbFJGddFxRs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQHMbnJ729yuhw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1621275326205?e=1785369600&v=beta&t=2J1s5hSnY-wAOTkVCifvggQXCFhSEBRu-koaNCZcB5E"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQHMbnJ729yuhw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1621275326205?e=1785369600&v=beta&t=75BpEoZp3xYHofJXl7NF0Npx5Eo6THLNk4QFGN5JHok"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal Android Developer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jan 2021 - Present · 5 yrs",
+          "metadata": "Madrid, Comunidad de Madrid, España",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developing Android apps for the robotics surgery field"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Senior Android developer",
+          "subtitle": "Touch Surgery . undefined",
+          "caption": "Jan 2018 - Present · 8 yrs",
+          "metadata": "London, Reino Unido",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "We are creating apps to simulate and share knowledge about surgery procedures. Users can quickly learn surgery, instantly test their knowledge, and rehearse for surgery.\nWe are committed to using the best Android software engineering practices and architecture patterns to achieve this goal."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "834590",
+          "companyUrn": "urn:li:fsd_company:834590",
+          "companyLink1": "https://www.linkedin.com/company/paradigma-digital/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEvCbUJmFJ2aA/company-logo_400_400/company-logo_400_400/0/1630587353758/paradigma_digital_logo?e=1785369600&v=beta&t=SZS1fh2sRUXCL-3k9LXNDrQn_BvLUs9QTKu6qq7DBio",
+          "title": "Mobility architect",
+          "subtitle": "Paradigma Digital . undefined",
+          "caption": "Jan 2017 - Dec 2017 · 11 mos",
+          "metadata": "Madrid y alrededores, España",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Mobility projects for Android and iOS apps ensuring best programming practices. \nWe develop apps in Kotlin and Swift  and create cloud backend infastructures using different mBaaS."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2103",
+          "companyUrn": "urn:li:fsd_company:2103",
+          "companyLink1": "https://www.linkedin.com/company/telefonica/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFQ1OjwQ2rVbw/company-logo_400_400/company-logo_400_400/0/1727681140503/telefonica_logo?e=1785369600&v=beta&t=o5sDkFYqOHhMakUuhi6yAZ4xaQegIR7FutHjv99yyvU",
+          "title": "Telefónica / Paradigma Tecnológico",
+          "subtitle": "undefined · 4 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Android developer",
+              "caption": "Aug 2014 - Jan 2017 · 2 yrs 5 mos",
+              "metadata": "Madrid, Distrito telefónica",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Telefónica / O2 TuGo Project.\n- Use of the mobile number on any device: Android, Windows iOS, WEB, etc.\n- Working on a mix of technologies: Android, SIP, Video, Telephony, Security"
+                }
+              ]
+            },
+            {
+              "title": "Android NFC consultant.",
+              "caption": "Sep 2012 - Aug 2014 · 1 yr 11 mos",
+              "metadata": "Madrid, Distrito Telefónica",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Telefónica/O2 Wallet NFC project:\n- O2 Finantial Services support on Wallet NFC development.\n- NFC Visa / MasterCard payment app development on Android and Windows Phone\n- NFC, HCE and tokenization consultant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "29216",
+          "companyUrn": "urn:li:fsd_company:29216",
+          "companyLink1": "https://www.linkedin.com/school/universidad-europea-de-madrid/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEu_Aa76fcmPw/company-logo_400_400/company-logo_400_400/0/1630998679745/universidad_europea_de_madrid_logo?e=1785369600&v=beta&t=g4X6qTE6qGh1oOLOjz9UsH_9XUvutsovOnENyJ6I0Xo",
+          "title": "Visiting Professor",
+          "subtitle": "Universidad Europea . undefined",
+          "caption": "2014 - Apr 2016 · 2 yrs 3 mos",
+          "metadata": "Madrid y alrededores, España",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Profesor de Android del Máster Universitario en Nuevos Dispositivos Móviles-MBI (Master in Business Innovation)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "916020",
+          "companyUrn": "urn:li:fsd_company:916020",
+          "companyLink1": "https://www.linkedin.com/company/sbsh-mobile-software/",
+          "title": "PhoneWeaver product manager",
+          "subtitle": "SBSH Mobile Software . undefined",
+          "caption": "2007 - 2014 · 7 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Android developer and product manager."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Director",
+          "subtitle": "Sesma Ingenieros . undefined",
+          "caption": "2012 - Aug 2013 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Programación Android y Windows Phone.\nProyectos NFC, Finantial Services, GIS.\nCursos de programación en Android y Windows Phone\n\nServicios informáticos. Consultoría, seguridad, movilidad y formación. Seguridad de redes, antihacking, perimetral."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "426779",
+          "companyUrn": "urn:li:fsd_company:426779",
+          "companyLink1": "https://www.linkedin.com/company/adl-technology-s.a./",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3iF-AHw8qGA/company-logo_400_400/company-logo_400_400/0/1631310554909?e=1785369600&v=beta&t=crRnShnkx-NiQBr6NKs5rokTGmSvO6jlRbOc_74PxcY",
+          "title": "Director de sistemas",
+          "subtitle": "ADL Technology, S.A. . undefined",
+          "caption": "1993 - Aug 2012 · 19 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Perteneciente al grupo Stalia, ADL Technology S.A. gestiona los servicios informáticos de todas las empresas del grupo."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Director Servicio Técnico y Soporte",
+          "subtitle": "CSEI S.A. . undefined",
+          "caption": "Sep 1985 - Feb 1993 · 7 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Dirección Técnica para Madrid. Llegando a estar a cargo de 10 trabajadores.\n Reparación a nivel componente de Impresoras, PC, Instrumentación y emisoras de radio.\nAsesoramiento a equipo comercial y clientes.\nInstalaciones de sistemas UNIX, Novell, etc."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Español",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Inglés",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "telefonia",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Dispositivos móviles",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Aplicaciones móviles",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gestión de productos",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Desarrollo de software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Liderazgo de equipos",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Estrategia empresarial",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telecomunicaciones",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NFC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HCE",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Payments",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166617",
+          "companyUrn": "urn:li:fsd_company:166617",
+          "companyLink1": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEI49Gik9k99A/company-logo_400_400/B4EZ8X8nKeIAAc-/0/1782813193098/universidad_politecnica_de_madrid_logo?e=1785369600&v=beta&t=25XuyzVyEDkLPYlIm3pYlJ_wIH2BHjs_ucPZ4z_Ue98",
+          "title": null,
+          "subtitle": "Ingeniería Técnica de Telecomunicación., Equipos electrónicos",
+          "caption": "1983 - 1987",
+          "subComponents": []
+        },
+        {
+          "title": "University of Cambridge. ESOL",
+          "subtitle": "1978 a; Certificate, Advanced English",
+          "caption": "2002 - 2008",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "TU Go (Telefónica / O2 )",
+          "subtitle": "Aug 2014 - Aug 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "With the TU Go app you can:\n-Use your O2 mobile number on more devices.\n-Stay connected in more places with calls, texts and voicemail over wifi.\n-Call and text anyone – they don't need to have the app.\n-Connect over wifi anywhere in the world with the same rates as in the UK.\n-Download the app for free and create your account – we'll send you a text to complete the registration."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Telefonica NFC Wallet 2.1",
+          "subtitle": "Sep 2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Pagos con el teléfono movil. Las tarjetas Visa y Mastercard se almacenan en la SIM como elemento seguro y permiten el pago simple y rápido por NFC."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Teravial Mobility",
+          "subtitle": "2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Teravial es el lider en sistemas de gestión integral de carreteras. Teravial Mobility permite la toma de datos y gestión en campo mediante dispositivos Android."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

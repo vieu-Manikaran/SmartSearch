@@ -1,0 +1,530 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/oguzelibol",
+  "row_key": "id:003Uk00000xg2BlIAI",
+  "person": "Oguz Elibol",
+  "account": "Lenovo Group",
+  "fetched_at": "2026-07-14T10:44:14Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAC2b_sBE7Klq4QVKmjJp-_t5D63r9AeUfg",
+      "firstName": "Oguz",
+      "lastName": "Elibol",
+      "fullName": "Oguz Elibol",
+      "publicIdentifier": "oguzelibol",
+      "headline": "-",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGPqdU8bo-kMA/profile-displayphoto-shrink_100_100/B56ZUXxZ8WHoAY-/0/1739860582439?e=1785369600&v=beta&t=idw5pqOaBuflIpH9jNQzCKh7-AKzvytnk9zOA0Bi2c4",
+      "profilePicAllDimensions": [
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGPqdU8bo-kMA/profile-displayphoto-shrink_800_800/B56ZUXxZ8WHoAg-/0/1739860582458?e=1785369600&v=beta&t=1C4nz1D-wpmHW48lTyUJoI65XQHtUHCvUzlaLhzFI0o"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGPqdU8bo-kMA/profile-displayphoto-shrink_200_200/B56ZUXxZ8WHoAc-/0/1739860582458?e=1785369600&v=beta&t=6OK1xlTnpG4oUCBUO4oLUuzF89kq4l9-kZbWlOiAnFA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGPqdU8bo-kMA/profile-displayphoto-shrink_400_400/B56ZUXxZ8WHoAk-/0/1739860582458?e=1785369600&v=beta&t=Gmr1rtvFHr9-WNLZoCZ9G8RpxqatqP2ACa4q1QhDDBs"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGPqdU8bo-kMA/profile-displayphoto-shrink_100_100/B56ZUXxZ8WHoAY-/0/1739860582439?e=1785369600&v=beta&t=idw5pqOaBuflIpH9jNQzCKh7-AKzvytnk9zOA0Bi2c4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "3653",
+          "companyUrn": "urn:li:fsd_company:3653",
+          "companyLink1": "https://www.linkedin.com/company/lenovo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwodgzuPCrOA/company-logo_400_400/company-logo_400_400/0/1659011656349/lenovo_logo?e=1785369600&v=beta&t=3uKthCYTRw-tNf-xnG4Hrku8C_NMDwkw4GdWbRmxWyQ",
+          "title": "Director, AI Architect ",
+          "subtitle": "Lenovo . Full-time",
+          "caption": "Jan 2025 - Present · 1 yr",
+          "metadata": "San Jose, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Identification and evaluation of Business Group technology needs \n- Industrial and academic partnerships\n- Technical assistant to the CTO"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder, CTO ",
+          "subtitle": "Rosette Health, Inc . Full-time",
+          "caption": "Jun 2023 - Sep 2024 · 1 yr 3 mos",
+          "metadata": "Redwood City, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Healthcare AI: Conversational simulators to train healthcare professionals. Alchemist (Class 36), StartX Med (S24)"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder",
+          "subtitle": "ELBO AI . Full-time",
+          "caption": "Jan 2022 - Jan 2023 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Transforming technology toxicity to nourishment for children by building an AI based educational personal assistant."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "33457528",
+          "companyUrn": "urn:li:fsd_company:33457528",
+          "companyLink1": "https://www.linkedin.com/company/bright-machines/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH2uR7abYDbYA/company-logo_200_200/B4EZgt5NyUGwAI-/0/1753116630551/bright_machines_logo?e=1785369600&v=beta&t=dqTJbGPFkLXP34Xpk8WUyPEO5ZayBywp2ILcvlkLXIk",
+          "title": "Head of Applied Science - Machine Learning",
+          "subtitle": "Bright Machines . Full-time",
+          "caption": "Aug 2021 - Jan 2022 · 5 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for AI strategy and building the team to execute on the vision of low/no code deployment of industrial robots"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Applied Science Manager - Alexa AI",
+          "subtitle": "Amazon . Full-time",
+          "caption": "May 2020 - Aug 2021 · 1 yr 3 mos",
+          "metadata": "Sunnyvale, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed deep learning based models and techniques to advance Speaker ID technology and relevant applications: \n- Achieved state of the art accuracy in speak identification\n- Launched on device speaker identification and emotion detection models for private and low latency inference used for Alexa and Halo products\n- Developed speech synthesis models for interaction and data augmentation\n- Investigated scaling properties of large speech models"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1053",
+          "companyUrn": "urn:li:fsd_company:1053",
+          "companyLink1": "https://www.linkedin.com/company/intel-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_400_400/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1785369600&v=beta&t=g-_No6rKYnzuUy2iHAD1a3o5iamiG5a0tDnDBHfNVqE",
+          "title": "Intel Corporation",
+          "subtitle": "Full-time · 3 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Applied Science Director - Deep Learning Large Model Training",
+              "caption": "Aug 2019 - May 2020 · 9 mos",
+              "metadata": "Santa Clara, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Led an applied science team to enable training large scale (> billion parameters) deep learning models on Intel deep learning training accelerators\nAIPG - Artificial Intelligence Products Group"
+                }
+              ]
+            },
+            {
+              "title": "Research Scientist/Manager - Deep Learning Audio Applications",
+              "caption": "Apr 2017 - Aug 2019 · 2 yrs 4 mos",
+              "metadata": "Santa Clara, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Performed research in deep learning audio applications and lead a research team  \nAIPG - Artificial Intelligence Products Group"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "727974",
+          "companyUrn": "urn:li:fsd_company:727974",
+          "companyLink1": "https://www.linkedin.com/company/intel-labs/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHMPl1uyCtoIw/company-logo_400_400/company-logo_400_400/0/1735061733939/intel_labs_logo?e=1785369600&v=beta&t=XaFUluSRMLuqgTyz7kGs9zdjKRxsuVctQFPvZ5if85o",
+          "title": "Intel Labs",
+          "subtitle": "Full-time · 9 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Research Scientist",
+              "caption": "2013 - Apr 2017 · 4 yrs 3 mos",
+              "metadata": "Santa Clara, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Intel Labs, Software and Systems Research, Sensors and Systems Laboratory\n\nContext and Resource Aware Digital Control for Low Power Sensor Systems:\n-Architected and implemented the digital control of a reconfigurable analog-front-end IP block by incorporating and hardening information processing and machine learning techniques. \n-Designed the system to dynamically adjust and reconfigure the analog front end parameters through classifying incoming information in real time. Implemented (RTL), tested and functionally verified, integrated with analog blocks and verified silicon\n- Continued building on the base design to add capabilities for sub-Nyquist sampling, sparse coding and other low power information processing techniques"
+                }
+              ]
+            },
+            {
+              "title": "Research Scientist",
+              "caption": "2008 - 2013 · 5 yrs",
+              "metadata": "Santa Clara, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "All Electronic DNA Sequencing:\n-\tLed an engineering team to realize a low detection limit, multiplexed array of biochemical sensors for DNA sequencing.\n-\tIndividual contributions included device fabrication, process development, device testing and modeling, fluidic and electrical interfacing, system architecture and integration, establishing and managing various academic and industrial collaborations. Team demonstrated an integrated system capable of detecting 500 tag molecules/pixel with pixel size scalable to ~1 um2 (on Intel 32 nm).\n-\tDeveloped the transducer fabrication process, fabricated and characterized CMOS integrated device performance, transferred the process to an internal foundry by working with a team of process engineers for monolithic integration of transducers on CMOS electronics (on Intel 130 nm). \n\nSingle Molecule Fingerprinting for DNA Sequencing:\n-\tCo-proposed and won an external research grant (NIH R01, $5M for 4 years).\n-\tHired and lead a team of interdisciplinary scientists towards developing a single molecule real time electronic DNA sequencing tool. \n-\tThe team completed the design and fabrication of single molecule detection system and demonstrated functionality by measuring signals on the order of single molecule concentration, designed ASIC for ultra-low current detection (on TSMC 180nm) ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3846",
+          "companyUrn": "urn:li:fsd_company:3846",
+          "companyLink1": "https://www.linkedin.com/school/purdue-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_400_400/company-logo_400_400/0/1630626191299/purdue_university_logo?e=1785369600&v=beta&t=QZSSFofThKA0q4lk_yrQqGRF4sCHdSbyBWemoazDY_o",
+          "title": "Purdue University",
+          "subtitle": "undefined · 7 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Graduate Research Assistant",
+              "caption": "Jan 2002 - Dec 2008 · 6 yrs 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Dual use Nano-sensors for Ultrasensitive Bio-detection and Actuation:\n-\tDesigned, fabricated and tested nanoplate field effect biosensors for the detection of biomolecules using an SOI top down fabrication process.\n-\tDemonstrated the tuning of the sensitivity of such devices through using a back gate/fluid gate and developed the model for the operation of the devices. \n-\tDemonstrated for the first time the use of these devices for hybridization sensing and ultra-localized dielectric heating by developing a new temperature measurement method capable of inferring local temperatures in fluid with ~1 um spatial resolution.\n\nNovel Bio-sensing Nanoscale Devices:\n-\tDesigned fabricated and tested ultra-thin channel field effect sensors and nanowire devices as biochemical sensors using epitaxial lateral overgrowth of silicon. This was one of the first examples of top-down fabrication of silicon nanowires using CMOS compatible techniques.\n-\tContributed to the development of pH sensitive polymer coated micro-cantilevers through mechanical modeling of devices."
+                }
+              ]
+            },
+            {
+              "title": "Graduate Teaching Assistant",
+              "caption": "Jan 2006 - May 2006 · 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "-\tTaught graduate students the fundamentals of semiconductor device fabrication and characterization. \n-\tRe-evaluated and modified the MEMS fabrication module developed for the class.\n-\tTroubleshot glitches in equipment, processing and characterization for the class."
+                }
+              ]
+            },
+            {
+              "title": "Undergraduate Research Assistant",
+              "caption": "Aug 2001 - Jan 2002 · 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Micro Pulse-tube Refrigeration System:\n-\tDesigned and implemented of the test setup for micro pulse tube refrigeration system. \n-\tRedesigned Ti-Pt temperature sensors of the pulse tube refrigeration device.\n-\tDeveloped the process for anodic bonding, through bond strength characterization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Research and Development Engineer",
+          "subtitle": "BioVitesse Inc. . undefined",
+          "caption": "Jan 2004 - Jan 2005 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "On-chip Bacterial Viability Detection: \n-\tDeveloped the process and executed the fabrication and packaging of microfluidic silicon and glass chips.\n-\tRedesigned and developed microfluidics for bacterial concentration by replacing dielectrophoretic filters with mechanical on chip filters. \n-\tPerformed experiments to quickly iterate and improve the system as a part of a small research team."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1504",
+          "companyUrn": "urn:li:fsd_company:1504",
+          "companyLink1": "https://www.linkedin.com/company/mit-lincoln-laboratory/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQENuSXwRY56vg/company-logo_200_200/B4EZwA7w55IEAI-/0/1769542193164/mit_lincoln_laboratory_logo?e=1785369600&v=beta&t=q-f0kH60lUwa2AJ0JUJM16BSSKASxV8zH2WzNzkk88o",
+          "title": "Graduate Researcher",
+          "subtitle": "MIT Lincoln Laboratory . undefined",
+          "caption": "Jun 2001 - Aug 2001 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Advanced CCD Device Failure Analysis:\n-\tInvestigated failure mode of electronic shutter and orthogonal transfer CCDs, traced to poly-poly shorting using SEM cross-sectional characterization and statistical analysis techniques. \n-\tPerformed 3D CAD modeling of four polysilicon level orthogonal CCD structures to visualize the locations of sections.  \n-\tPerformed device yield analysis from static test data."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Digital Circuit Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Biomedical Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scientific Experimentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Entrepreneurship",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Start-up Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technology Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Simulations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sensors",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Characterization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Semiconductors",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R&D",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nanotechnology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research and Development (R&D)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Heat Transfer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mechanical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Simulation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microfluidics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "1792",
+          "companyUrn": "urn:li:fsd_company:1792",
+          "companyLink1": "https://www.linkedin.com/school/stanford-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1785369600&v=beta&t=OsBN9FrVCpDu_BVZJvZLFMsYbTThUz3NdZ15YeHkrrE",
+          "title": "Stanford University",
+          "subtitle": "Graduate Certificate, Artificial Intelligence",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "3846",
+          "companyUrn": "urn:li:fsd_company:3846",
+          "companyLink1": "https://www.linkedin.com/school/purdue-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_400_400/company-logo_400_400/0/1630626191299/purdue_university_logo?e=1785369600&v=beta&t=QZSSFofThKA0q4lk_yrQqGRF4sCHdSbyBWemoazDY_o",
+          "title": null,
+          "subtitle": "Doctor of Philosophy, Electrical Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "3846",
+          "companyUrn": "urn:li:fsd_company:3846",
+          "companyLink1": "https://www.linkedin.com/school/purdue-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_400_400/company-logo_400_400/0/1630626191299/purdue_university_logo?e=1785369600&v=beta&t=QZSSFofThKA0q4lk_yrQqGRF4sCHdSbyBWemoazDY_o",
+          "title": null,
+          "subtitle": "Master of Science, Electrical Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "3846",
+          "companyUrn": "urn:li:fsd_company:3846",
+          "companyLink1": "https://www.linkedin.com/school/purdue-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_400_400/company-logo_400_400/0/1630626191299/purdue_university_logo?e=1785369600&v=beta&t=QZSSFofThKA0q4lk_yrQqGRF4sCHdSbyBWemoazDY_o",
+          "title": null,
+          "subtitle": "Bachelor of Science, Electrical Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "3846",
+          "companyUrn": "urn:li:fsd_company:3846",
+          "companyLink1": "https://www.linkedin.com/school/purdue-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_400_400/company-logo_400_400/0/1630626191299/purdue_university_logo?e=1785369600&v=beta&t=QZSSFofThKA0q4lk_yrQqGRF4sCHdSbyBWemoazDY_o",
+          "title": null,
+          "subtitle": "Bachelor of Science, Mechanical Engineering",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "7034",
+          "companyUrn": "urn:li:fsd_company:7034",
+          "companyLink1": "https://www.linkedin.com/company/ieee/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGoRdJYxmIDhQ/company-logo_400_400/company-logo_400_400/0/1631326760285?e=1785369600&v=beta&t=DM9F_OEE-IO203aynBk8FLFJmstxNmF_3vLCA5dUFPI",
+          "title": "Associate Editor for IEEE Access",
+          "subtitle": "IEEE",
+          "caption": "Jan 2015 - Present · 11 yrs",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

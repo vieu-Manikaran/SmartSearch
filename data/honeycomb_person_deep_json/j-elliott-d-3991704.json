@@ -1,0 +1,331 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/j-elliott-d-3991704",
+  "row_key": "id:0031N00001Q2anZQAR",
+  "person": "Elliott Dozier",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:32:50Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAC8RSUBTDoggvTXve6tRbZQ924bZcDhK28",
+      "firstName": "J Elliott",
+      "lastName": "D.",
+      "fullName": "J Elliott D.",
+      "publicIdentifier": "j-elliott-d-3991704",
+      "headline": "Technology Sourcing at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Fremont, California United States",
+      "addressWithoutCountry": "Fremont, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Technology Sourcing",
+          "subtitle": "Yelp . undefined",
+          "caption": "Jan 2015 - Present · 11 yrs",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for technology partnerships supporting Yelp's corporate & production infrastructure."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1481",
+          "companyUrn": "urn:li:fsd_company:1481",
+          "companyLink1": "https://www.linkedin.com/company/ebay/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_400_400/company-logo_400_400/0/1634568184469/ebay_logo?e=1785369600&v=beta&t=BrvehhbjlArvkuStSGl0yGcpsPjYeTDOJvz2CWCr6hg",
+          "title": "Technology Sourcing",
+          "subtitle": "eBay/PayPal . undefined",
+          "caption": "Oct 2011 - Dec 2014 · 3 yrs 2 mos",
+          "metadata": "San Jose, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Sourcing of hardware (servers, storage devices, networking/security, desktop/laptop/workstations), OS, & support."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Systems, Inc.",
+          "subtitle": "undefined · 3 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Category & Supplier Management",
+              "caption": "Aug 2009 - Oct 2011 · 2 yrs 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for implementation of Category Management strategy (BPO/Consulting/Staff Aug) for Labor ($2.4 Billion annually). Managed Sourcing Events (RFIs, RFPs, & eAuctions) across multiple BUs."
+                }
+              ]
+            },
+            {
+              "title": "Finance M&A: Integration",
+              "caption": "Jul 2008 - Jul 2009 · 1 yr",
+              "metadata": "San Jose, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Acquisition Integration--mapping & transitioning the financial processes & controls (AR, AP, Credit, Travel, Stock, Payroll, Procurement) of acquired companies over to equivalent Cisco processes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Marketing Business Analysis",
+          "subtitle": "IBM . undefined",
+          "caption": "2007 - 2007 · ",
+          "metadata": "Singapore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Marketing intelligence, business operations, customer satisfaction, & marketing communication."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Japanese",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Sourcing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Supply Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Procurement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Program Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chinese",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Outsourcing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Finance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Forecasting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sourcing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Supply Chain",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vendor Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Supply Chain Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Contract Negotiation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mergers & Acquisitions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4035",
+          "companyUrn": "urn:li:fsd_company:4035",
+          "companyLink1": "https://www.linkedin.com/school/brigham-young-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFRMyoXTVO86A/company-logo_400_400/company-logo_400_400/0/1646864910688/brigham_young_university_logo?e=1785369600&v=beta&t=EyxjhsY3t4b2wt13kSDfYHCn_Z_V8GzD2aX4OQTkims",
+          "title": "Brigham Young University",
+          "subtitle": "BS + BA, Business Administration + Chinese",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mostafarokooie",
+  "row_key": "id:003Uk00000yfUyuIAE",
+  "person": "Mostafa Rokooie",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:48Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAdiPsEBmh91KLR0Mo4JvMGG0pONU1K2itE",
+      "firstName": "Mostafa",
+      "lastName": "Rokooie",
+      "fullName": "Mostafa Rokooie",
+      "publicIdentifier": "mostafarokooie",
+      "headline": "Director of Engineering at Yelp",
+      "about": "A Software Engineering Manager with a demonstrated history of working in the internet industry. Skilled in engineering leadership and designing software architecture.\n\n** I am hiring Software Engineers and Engineering Managers for my team.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGSBNSPpFpBiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516589324507?e=1785369600&v=beta&t=ae6ZLmGBbK_5wObAHP4F1EUU6Z8P3z0492BS-3LEvF4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGSBNSPpFpBiA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516589324500?e=1785369600&v=beta&t=is2OuVAuhRh-UwEiAlirylMn3pshH4sfl5QOxv1rBiA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGSBNSPpFpBiA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516589324469?e=1785369600&v=beta&t=tSwd852dBOiCZ4IlFwjy5-4H8bRFUjgJWt1TSFlaoWA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGSBNSPpFpBiA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516589324523?e=1785369600&v=beta&t=bLRhzAEiUyPTpXwjfaDHaw_j4xHf_lKw7rhOzhsiecI"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGSBNSPpFpBiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516589324507?e=1785369600&v=beta&t=ae6ZLmGBbK_5wObAHP4F1EUU6Z8P3z0492BS-3LEvF4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "undefined · 9 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering, Restaurants",
+              "caption": "Jul 2024 - Present · 1 yr 6 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Oct 2018 - Jul 2024 · 5 yrs 9 mos",
+              "metadata": "San Francisco, California",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working closely with product management team to plan a roadmap for our rapidly growing product, Yelp Connect. And managing the engineering team to efficiently execute on our fast iterating roadmap."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Aug 2016 - Sep 2018 · 2 yrs 1 mo",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Individual contributor on Eat24 and Yelp WiFi teams.  Playing multiple engineering roles, including Project Lead, Interviewer, and New-hire/Intern mentor."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1545609",
+          "companyUrn": "urn:li:fsd_company:1545609",
+          "companyLink1": "https://www.linkedin.com/company/toptal/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFgwQd0YhdeQg/company-logo_100_100/B4DZZeOeeFG0AU-/0/1745337575559/toptal_logo?e=1785369600&v=beta&t=_FfAwRuT-pGqxo759A7BxbQZrxagdP5lwRTB52MFqKA",
+          "title": "Python and C++ Developer",
+          "subtitle": "Toptal . undefined",
+          "caption": "Aug 2013 - Dec 2015 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Karizan Telecomm . undefined",
+          "caption": "Aug 2007 - Apr 2011 · 3 yrs 8 mos",
+          "metadata": "Tehran, Iran",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Individual contributor to multiple embedded-system applications."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Iran University of Science and Technology",
+          "subtitle": "Bachelor of Science, Soccer simulation leagues of Robocup, ACM-ICPC",
+          "caption": "2005 - 2011",
+          "subComponents": []
+        },
+        {
+          "title": "Allame Helli High School",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

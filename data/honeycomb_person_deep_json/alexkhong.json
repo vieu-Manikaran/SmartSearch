@@ -1,0 +1,307 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/alexkhong",
+  "row_key": "id:003Uk00000m2QYkIAM",
+  "person": "Alex Ong",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:36:35Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAALTR6oBML-Ta5fC8CJMOafz9UL55jZnbUI",
+      "firstName": "Alex",
+      "lastName": "Ong",
+      "fullName": "Alex Ong",
+      "publicIdentifier": "alexkhong",
+      "headline": "Beep bop",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Melbourne Area Australia",
+      "addressWithoutCountry": "Greater Melbourne Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEW82H-iSrWJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516517231342?e=1785369600&v=beta&t=FY4RWCchyZrOSALVd9Hrcf6wF5SfJxnhpEkCXa6C0qw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEW82H-iSrWJA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516517231003?e=1785369600&v=beta&t=pcKjyjbxf_zQ0IjnazXzb5l1zeC6knSfn8S25ynAXus"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEW82H-iSrWJA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516517231055?e=1785369600&v=beta&t=4ivr_V0ReEX55W1kU0udsy2PnIxVXgIo69rxm_hQDus"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEW82H-iSrWJA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516517803932?e=1785369600&v=beta&t=YzX-JNNEp9g7boeyURS5a3o50GLbSlC022CLCRWIYkQ"
+        },
+        {
+          "width": 409,
+          "height": 409,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEW82H-iSrWJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516517231342?e=1785369600&v=beta&t=FY4RWCchyZrOSALVd9Hrcf6wF5SfJxnhpEkCXa6C0qw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "111845019",
+          "companyUrn": "urn:li:fsd_company:111845019",
+          "companyLink1": "https://www.linkedin.com/company/entireio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG3TYtfL6EQnA/company-logo_200_200/B56ZxEh405HoAI-/0/1770676260471/entireio_logo?e=1785369600&v=beta&t=TtFpavpfHdUcYjkyg5UwzSiWCmFxDNxagQV4KeLLEv4",
+          "title": "Principal Software Engineer",
+          "subtitle": "Entire . Full-time",
+          "caption": "Dec 2025 - Present · 1 mo",
+          "metadata": "Melbourne, VIC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18583501",
+          "companyUrn": "urn:li:fsd_company:18583501",
+          "companyLink1": "https://www.linkedin.com/company/stealth-startup-community/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1785369600&v=beta&t=jnJ0lu4WVrElcyDiesxh7pBWS9Zz5GAvPIEGNZ0sl3g",
+          "title": "Principal Engineer",
+          "subtitle": "Stealth Startup . Full-time",
+          "caption": "Nov 2025 - Feb 2026 · 3 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "22688",
+          "companyUrn": "urn:li:fsd_company:22688",
+          "companyLink1": "https://www.linkedin.com/company/atlassian/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGeyLL6crkJKg/company-logo_400_400/company-logo_400_400/0/1735593604612/atlassian_logo?e=1785369600&v=beta&t=yc96-54WeibpcMstCKB7E6wDoBzGYUT1t-Tjm17og_M",
+          "title": "Principal Engineer",
+          "subtitle": "Atlassian . Full-time",
+          "caption": "Jan 2024 - Nov 2025 · 1 yr 10 mos",
+          "metadata": "Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "864529",
+          "companyUrn": "urn:li:fsd_company:864529",
+          "companyLink1": "https://www.linkedin.com/company/catch.com.au/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE2uP9R2N0Pdw/company-logo_400_400/company-logo_400_400/0/1630671098075/catchcomau_logo?e=1785369600&v=beta&t=APKF8y2ZtxKb28yspkdx8049y5QSe-TrbGGhZXpfO30",
+          "title": "Catch",
+          "subtitle": "Full-time · 3 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Engineer",
+              "caption": "Sep 2021 - Oct 2023 · 2 yrs 1 mo",
+              "metadata": "Melbourne, Victoria, Australia",
+              "description": []
+            },
+            {
+              "title": "Engineering Manager - Shopping Experience, Retail and Marketplace",
+              "caption": "Sep 2020 - Aug 2021 · 11 mos",
+              "metadata": "Melbourne, Victoria, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1067382",
+          "companyUrn": "urn:li:fsd_company:1067382",
+          "companyLink1": "https://www.linkedin.com/company/greensync-pty-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEt8hvK2l7WUw/company-logo_400_400/company-logo_400_400/0/1631348526322?e=1785369600&v=beta&t=-AfzxNGNNhhBgfqhhOj4fHzQAfna5DKPwjZE6dv6gUU",
+          "title": "GreenSync Pty Ltd",
+          "subtitle": "undefined · 4 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Head Of Engineering",
+              "caption": "Feb 2019 - May 2020 · 1 yr 3 mos",
+              "metadata": "Melbourne, Australia",
+              "description": []
+            },
+            {
+              "title": "Product Manager",
+              "caption": "Apr 2018 - Jan 2019 · 9 mos",
+              "metadata": "Melbourne, Australia",
+              "description": []
+            },
+            {
+              "title": "Team Lead",
+              "caption": "Jan 2017 - Mar 2018 · 1 yr 2 mos",
+              "metadata": "Melbourne, Australia",
+              "description": []
+            },
+            {
+              "title": "Tech Lead",
+              "caption": "Apr 2016 - Jan 2017 · 9 mos",
+              "metadata": "Melbourne, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "157356",
+          "companyUrn": "urn:li:fsd_company:157356",
+          "companyLink1": "https://www.linkedin.com/company/thoughtworks/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE5QBG-mhja9g/company-logo_400_400/company-logo_400_400/0/1630637271377/thoughtworks_logo?e=1785369600&v=beta&t=ugbQhq5bno5MkDkbksG0zfVK5Hxbe3zB9OexxG24ux4",
+          "title": "Consultant",
+          "subtitle": "ThoughtWorks . undefined",
+          "caption": "Aug 2007 - Mar 2016 · 8 yrs 7 mos",
+          "metadata": "Melbourne, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "TDD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Devops",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Build Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5677",
+          "companyUrn": "urn:li:fsd_company:5677",
+          "companyLink1": "https://www.linkedin.com/school/university-of-melbourne/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEACkXGOAWOFg/company-logo_400_400/company-logo_400_400/0/1691363410465?e=1785369600&v=beta&t=zQPd3k_m49gvUN591PNWO_xktcZbZnG2hTzY8po6D3g",
+          "title": "University of Melbourne",
+          "subtitle": "Bachelor of Science/Bachelor of Engineering, Computer Science/Electrical Engineering",
+          "caption": "1999 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

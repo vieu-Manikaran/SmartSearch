@@ -1,0 +1,398 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/mrityunjoy-biswas-36551357",
+  "row_key": "id:003Uk00000ya8GdIAI",
+  "person": "Mrityunjoy Biswas",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:48:27Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAwAEz0BZq_kqmm9uWnK1_ADGZ-HG0WDrQo",
+      "firstName": "Mrityunjoy",
+      "lastName": "Biswas",
+      "fullName": "Mrityunjoy Biswas",
+      "publicIdentifier": "mrityunjoy-biswas-36551357",
+      "headline": "Principal Software Engineer at Visteon",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Kolkata, West Bengal India",
+      "addressWithoutCountry": "Kolkata, West Bengal",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFSgmZ2sCt_ig/profile-displayphoto-shrink_100_100/B4DZRWKRl7GUAY-/0/1736612322427?e=1785369600&v=beta&t=jLXaJAYhqKB2oAazEqszG02V7giVaA-ZPx3nMOH1f0I",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFSgmZ2sCt_ig/profile-displayphoto-shrink_200_200/B4DZRWKRl7GUAc-/0/1736612322427?e=1785369600&v=beta&t=wzh2iTUA860hXJL6Hj4Ux__39o_KaCmQkdJJny_XmGY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFSgmZ2sCt_ig/profile-displayphoto-shrink_400_400/B4DZRWKRl7GUAk-/0/1736612322402?e=1785369600&v=beta&t=Y0qe1RvSXkw3B0tyNcOPq4Up47VzWptiUsvieS9DUZ0"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFSgmZ2sCt_ig/profile-displayphoto-shrink_800_800/B4DZRWKRl7GUAg-/0/1736612322427?e=1785369600&v=beta&t=ZIoAyjcy648OEn2V-Va38useEfeQfep8Ri_p7Z1BH_g"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFSgmZ2sCt_ig/profile-displayphoto-shrink_100_100/B4DZRWKRl7GUAY-/0/1736612322427?e=1785369600&v=beta&t=jLXaJAYhqKB2oAazEqszG02V7giVaA-ZPx3nMOH1f0I"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "13716776",
+          "companyUrn": "urn:li:fsd_company:13716776",
+          "companyLink1": "https://www.linkedin.com/company/visteonindia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH_X4rpA8K8HQ/company-logo_200_200/B4DZubU5i6IAAI-/0/1767837506258?e=1785369600&v=beta&t=iLCj02DViIiJ7PF_bdtTw38qgIa4GRKdhAWZec_x2Us",
+          "title": "Principal Software Engineer",
+          "subtitle": "Visteon India . Full-time",
+          "caption": "Jan 2025 - Present · 1 yr",
+          "metadata": "Kolkata, West Bengal, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Wipro",
+          "subtitle": "Full-time · 5 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Project Leader",
+              "caption": "Mar 2023 - Dec 2024 · 1 yr 9 mos",
+              "metadata": "Kolkata, West Bengal, India",
+              "description": []
+            },
+            {
+              "title": "Senior Project Engineer",
+              "caption": "Mar 2019 - Nov 2023 · 4 yrs 8 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "758771",
+          "companyUrn": "urn:li:fsd_company:758771",
+          "companyLink1": "https://www.linkedin.com/company/brisa-technologies-private-limited/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRmCdJkk96lw/company-logo_400_400/company-logo_400_400/0/1688460096953/brisa_technologies_private_limited_logo?e=1785369600&v=beta&t=-OaozpjVowtRJDb6JVlEhrhXTym9uhLDPLYsU6VB_8U",
+          "title": "Member Technical Staff",
+          "subtitle": "Brisa Technologies Private Limited . undefined",
+          "caption": "Mar 2017 - Mar 2019 · 2 yrs",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Embedded Developer",
+          "subtitle": "Oxys Technologies Pvt Ltd. . undefined",
+          "caption": "Mar 2013 - Mar 2017 · 4 yrs",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Texas Instrument Analog design contest",
+          "subtitle": "Cranes Software",
+          "issued": "Issued Jan 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Bengali",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Automotive",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux Kernel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hypervisor",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Circuit Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Peripherals",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Interrupts",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Project Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "People Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "BSP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Green Hills Integrity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automotive Infotainment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux Device Driver",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electronics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microcontrollers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electrical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "13433025",
+          "companyUrn": "urn:li:fsd_company:13433025",
+          "companyLink1": "https://www.linkedin.com/school/uitbu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHBMfez2t7Ifg/company-logo_400_400/company-logo_400_400/0/1630586076990/uitbu_logo?e=1785369600&v=beta&t=T_CHOEc_3VLeJoFHWzkTHcWqwqPenACOEGItkfdNZXk",
+          "title": "University Institute of Technology, The University of Burdwan",
+          "subtitle": "Bachelor of Engineering (BE), Electronis and Communication Engineering",
+          "caption": "2008 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "MPPT for UAV Battery management",
+          "subtitle": "Aug 2015 - Aug 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Solar MPPT for UAV. This project was done for charging high capacity Li-Po battery of Drones and for managing the power sections of UAV. Solar voltage was boosted by DC to DC converter. Hill Climbing MPPT algorithm gave the most efficient charging method."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Autopilot Module",
+          "subtitle": "Feb 2015 - Feb 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "STM32 auto-pilot module. This project was for acquiring some I2C and SPI sensor data, GPS and logs the data to micro SD and Spansion NOR Flash Memory. We developed one non OS firmware and another one with RTOS OS to run the board."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SPOC System",
+          "subtitle": "Apr 2014 - Apr 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "SPOC System for automated controlling the Oxygen Level of soldiers. It is one kind of wearable technology. SPOC system will control a Pneumatic Valve according to the body oxygen requirement. PPG Sensors was used to measure the oxygen level. Some additional features like Li-Ion battery monitoring, PPG sensor connectivity, alarm, I2C DAC for controlling solenoid valve was present at the SPOC system."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "linkedin_url": "https://es.linkedin.com/in/samuelmendozaherrera",
+  "row_key": "id:003Uk00000TgKpOIAV",
+  "person": "Samuel Mendoza",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:23Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABHTG-MB2aC1aplnvTNDTla6OaLQkcXRLkM",
+      "firstName": "Samuel",
+      "lastName": "Mendoza Herrera",
+      "fullName": "Samuel Mendoza Herrera",
+      "publicIdentifier": "samuelmendozaherrera",
+      "headline": "Project Manager Digital Solutions | Surgical Robotics | Medical Devices",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "ES",
+        "language": "es"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Spain",
+      "addressWithCountry": "Greater Madrid Metropolitan Area Spain",
+      "addressWithoutCountry": "Greater Madrid Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQE7_GOk2adgsA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690883497107?e=1785369600&v=beta&t=cYwKE8Movcsu01jrQGSK6JUSPORN_15VWD8M-Wd19F8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQE7_GOk2adgsA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1690883497107?e=1785369600&v=beta&t=QMnkLbhDx7II00LYS6-SHbg3P7EdhvKcFu5GAore9kI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQE7_GOk2adgsA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690883497107?e=1785369600&v=beta&t=Z_L9R6LbUrXcvpyYOYN4CIxfH-q14ipgi_emS0jNp8Q"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQE7_GOk2adgsA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1690883497107?e=1785369600&v=beta&t=uV5pgWjVqgnanaDdrxkyCgTZ1cSu-Xyldke3IrCnLZc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQE7_GOk2adgsA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690883497107?e=1785369600&v=beta&t=cYwKE8Movcsu01jrQGSK6JUSPORN_15VWD8M-Wd19F8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Senior Implementation Specialist",
+          "subtitle": "Medtronic Digital Surgery . undefined",
+          "caption": "Dec 2024 - Present · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11195480",
+          "companyUrn": "urn:li:fsd_company:11195480",
+          "companyLink1": "https://www.linkedin.com/company/abex-excelencia-rob%C3%B3tica/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFaCnqCHtrYRg/company-logo_400_400/company-logo_400_400/0/1704714498063/abex_excelencia_robtica_logo?e=1785369600&v=beta&t=QkPjFXvFSAqiSQtTPoeNofjAqZpX3VqtR_GCw2SeJw0",
+          "title": "Technical Implementation Project Manager Digital Solution",
+          "subtitle": "ABEX Excelencia Robótica  . Full-time",
+          "caption": "Jan 2024 - Dec 2024 · 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1515604",
+          "companyUrn": "urn:li:fsd_company:1515604",
+          "companyLink1": "https://www.linkedin.com/company/karlstorz/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFzS-92bhctrg/company-logo_400_400/company-logo_400_400/0/1729502330231/karlstorz_logo?e=1785369600&v=beta&t=BmjrF3dJ0oQ83Tf1VuWvtz7NmSOmDLnX4qOrsHa_diw",
+          "title": "Project Engineer",
+          "subtitle": "KARL STORZ Endoscopia Ibérica, S.A. . undefined",
+          "caption": "Mar 2019 - Jan 2024 · 4 yrs 10 mos",
+          "metadata": "San Fernando de Henares, Madrid, España",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "999447",
+          "companyUrn": "urn:li:fsd_company:999447",
+          "companyLink1": "https://www.linkedin.com/company/s.i.-unitecnic-s.l./",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGt8ei9Kq5p_Q/company-logo_400_400/company-logo_400_400/0/1631373161181?e=1785369600&v=beta&t=_g69Z9Vdi8ACuDbOddwnwQ52FR-_WFv84Pyov4TDd5o",
+          "title": "Senior Broadcast Engineer",
+          "subtitle": "S.I. Unitecnic S.L. . undefined",
+          "caption": "Nov 2017 - Mar 2019 · 1 yr 4 mos",
+          "metadata": "Madrid",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "22177227",
+          "companyUrn": "urn:li:fsd_company:22177227",
+          "companyLink1": "https://www.linkedin.com/company/uvetech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNMkAeYmoirw/company-logo_400_400/company-logo_400_400/0/1631306477383?e=1785369600&v=beta&t=hqrWQfUCIOB3d79tHtWVSK3fMciWZp-sl4b4Ub8CPOs",
+          "title": "Project Engineer",
+          "subtitle": "UVETECH . undefined",
+          "caption": "Nov 2015 - Nov 2017 · 2 yrs",
+          "metadata": "Leganés Area, Spain",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "77589",
+          "companyUrn": "urn:li:fsd_company:77589",
+          "companyLink1": "https://www.linkedin.com/company/tecnatom/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEP5twZ0Rma-A/company-logo_400_400/company-logo_400_400/0/1736417446760/tecnatom_logo?e=1785369600&v=beta&t=zYrMVYwsb4jzhFyx7ngl3pv-eQ-F_u3vXpD6JTTCq7o",
+          "title": "Component Engineer",
+          "subtitle": "Tecnatom . undefined",
+          "caption": "May 2014 - Jul 2015 · 1 yr 2 mos",
+          "metadata": "Madrid y alrededores, España",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "334327",
+          "companyUrn": "urn:li:fsd_company:334327",
+          "companyLink1": "https://www.linkedin.com/company/audinate/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHdzgQGqohSMw/company-logo_400_400/B56ZvnLSM7IUAc-/0/1769110053963/audinate_logo?e=1785369600&v=beta&t=a_biKBpBBKgJiaVXd-r3ir23m4i-arjbxJaMVDn8wc8",
+          "title": "Dante Certification Level 3 - Advanced Dante Concepts",
+          "subtitle": "Audinate",
+          "issued": "Issued Apr 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "334327",
+          "companyUrn": "urn:li:fsd_company:334327",
+          "companyLink1": "https://www.linkedin.com/company/audinate/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHdzgQGqohSMw/company-logo_400_400/B56ZvnLSM7IUAc-/0/1769110053963/audinate_logo?e=1785369600&v=beta&t=a_biKBpBBKgJiaVXd-r3ir23m4i-arjbxJaMVDn8wc8",
+          "title": "Dante Certification Level 1",
+          "subtitle": "Audinate",
+          "issued": "Issued Jan 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "334327",
+          "companyUrn": "urn:li:fsd_company:334327",
+          "companyLink1": "https://www.linkedin.com/company/audinate/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHdzgQGqohSMw/company-logo_400_400/B56ZvnLSM7IUAc-/0/1769110053963/audinate_logo?e=1785369600&v=beta&t=a_biKBpBBKgJiaVXd-r3ir23m4i-arjbxJaMVDn8wc8",
+          "title": "Dante Certification Level 2",
+          "subtitle": "Audinate",
+          "issued": "Issued Jan 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Alemán",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Español",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Francés",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Inglés",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "AutoCAD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Word",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ANSYS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mechanical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Diseño asistido por ordenador",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ingeniería",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Inglés",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Abaqus",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ingeniería mecánica",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Energía nuclear",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SolidWorks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PLC Ladder Logic",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++ Language",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "68051",
+          "companyUrn": "urn:li:fsd_company:68051",
+          "companyLink1": "https://www.linkedin.com/school/eae-business-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEyrnR_kpYuWQ/company-logo_400_400/company-logo_400_400/0/1733912650683/eae_business_school_logo?e=1785369600&v=beta&t=OGMtzWVvJWLDav9l4Ew0olvU3PAzCPyFAkiXPnVDe04",
+          "title": "EAE Business School",
+          "subtitle": "Master's degree, Project Management",
+          "caption": "Aug 2023 - Jul 2025",
+          "subComponents": []
+        },
+        {
+          "companyId": "13120",
+          "companyUrn": "urn:li:fsd_company:13120",
+          "companyLink1": "https://www.linkedin.com/school/universidad-carlos-iii-de-madrid/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQELWMfr_IILrw/company-logo_200_200/B4EZ82d54bIAAE-/0/1783325237297/universidad_carlos_iii_de_madrid_logo?e=1785369600&v=beta&t=koh6oX89H3QjlmplUQI9EB2jjXhVrwsmEijFSwvDdaY",
+          "title": "Universidad Carlos III de Madrid",
+          "subtitle": "Master's degree, Business Management, null",
+          "caption": "Sep 2021 - Mar 2023",
+          "subComponents": []
+        },
+        {
+          "companyId": "13120",
+          "companyUrn": "urn:li:fsd_company:13120",
+          "companyLink1": "https://www.linkedin.com/school/universidad-carlos-iii-de-madrid/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQELWMfr_IILrw/company-logo_200_200/B4EZ82d54bIAAE-/0/1783325237297/universidad_carlos_iii_de_madrid_logo?e=1785369600&v=beta&t=koh6oX89H3QjlmplUQI9EB2jjXhVrwsmEijFSwvDdaY",
+          "title": "Universidad Carlos III de Madrid",
+          "subtitle": "Master's degree, Industrial Engineering",
+          "caption": "2012 - 2015",
+          "subComponents": []
+        },
+        {
+          "companyId": "387945",
+          "companyUrn": "urn:li:fsd_company:387945",
+          "companyLink1": "https://www.linkedin.com/school/universidad-de-la-laguna/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHvRjyn7ot_Ww/company-logo_100_100/B4DZe_wlXMGYAQ-/0/1751268874091/universidad_de_la_laguna_logo?e=1785369600&v=beta&t=K6bLWW9FEEPpB2BEfSF3-AHzy-Na6fNLvgqqc_ByuEE",
+          "title": "Universidad de La Laguna",
+          "subtitle": "Bachelor's degree, Mechanical Engineering",
+          "caption": "2007 - 2012",
+          "subComponents": []
+        },
+        {
+          "title": "CT Formación",
+          "subtitle": "Master’s Degree, Catia V5 Mechanical Design",
+          "caption": "2015 - 2015",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

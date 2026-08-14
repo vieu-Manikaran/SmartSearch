@@ -1,0 +1,323 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/jenakan-sivagnaanam",
+  "row_key": "id:003Uk00000rWRt9IAG",
+  "person": "Jenakan Sivagnaanam",
+  "account": "Homebase",
+  "fetched_at": "2026-07-14T10:47:13Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAATgxyYB4mxmDQNQN-vxIlKkppBxkC5m4d0",
+      "firstName": "Jenakan",
+      "lastName": "Sivagnaanam",
+      "fullName": "Jenakan Sivagnaanam",
+      "publicIdentifier": "jenakan-sivagnaanam",
+      "headline": "Tech Lead | Financial Services | Employee Experience",
+      "about": "Experienced Software Engineer with a demonstrated history of working on product and SaaS solutions as distributed applications on multiple frameworks. Comfortable with agile development practices and used to a frequent delivery schedule.\n\nStrong engineering professional with a Bachelor of Applied Science (BASc) focused in Honours Computer Engineering from University of Waterloo.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressWithCountry": "Canada",
+      "addressWithoutCountry": "Canada",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "6464539",
+          "companyUrn": "urn:li:fsd_company:6464539",
+          "companyLink1": "https://www.linkedin.com/company/homebase-app/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG31SOzV8GQiA/company-logo_400_400/company-logo_400_400/0/1709269985439/homebase_app_logo?e=1785369600&v=beta&t=ljTM_0N7ILdyZVbvjOndDIOvGz9xunsX-l8cm2QGY6Q",
+          "title": "Staff Engineer",
+          "subtitle": "Homebase . Permanent Full-time",
+          "caption": "Sep 2022 - Present · 3 yrs 4 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1196866",
+          "companyUrn": "urn:li:fsd_company:1196866",
+          "companyLink1": "https://www.linkedin.com/company/wave-hq/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYoi3HJgQd7Q/company-logo_100_100/B4EZcOMnlsHQAY-/0/1748289878661/wave_hq_logo?e=1785369600&v=beta&t=_CoG3l3DEGzfTPOxzkD6z4UW8L-JKKbF4VmUe4gglQY",
+          "title": "Wave HQ",
+          "subtitle": "undefined · 3 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Manager",
+              "caption": "Jan 2022 - Sep 2022 · 8 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": []
+            },
+            {
+              "title": "Engineering Lead",
+              "caption": "Sep 2020 - Dec 2021 · 1 yr 3 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Mar 2019 - Sep 2020 · 1 yr 6 mos",
+              "metadata": "Toronto, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a senior member of the Wave Money engineering team, was responsible for designing and coordinating development of backend APIs and services that make up how Money represents a business' ledger and how Money can transfer funds to other institutions.\n\nLeveraged Serverless framework on AWS stack for services, specifically using APIGateway, Lambda, DynamoDB, SQS and SNS. Backend code written in Golang."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "subtitle": "Every . undefined",
+          "caption": "Jul 2018 - Feb 2019 · 7 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Reimagining banking solutions for small and micro businesses.\n\nAcquired by Wave!\n\nResponsible for developing product APIs consumed by client apps leveraging serverless architecture."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Systems",
+          "subtitle": "undefined · 6 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer III",
+              "caption": "Nov 2016 - Jun 2018 · 1 yr 7 mos",
+              "metadata": "Toronto, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for feature development, maintenance and support of multi-tenant back-end platform powering OTT consumer video applications.\n\nDeveloped automated deployment and orchestration tooling for Cisco Video as a Service offering using Spring Boot, Cassandra, and OpenStack.\n\nImplemented orchestration templates to deploy distributed Java EE application on Cisco VaaS."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Apr 2014 - Nov 2016 · 2 yrs 7 mos",
+              "metadata": "Toronto, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed Salt scripts used in orchestration templates to configure EC2 instances with dependent packages and services (logging, metrics, alerting).\n\nMigrated orchestration templates from OpenStack to AWS.\n\nAdapted Spring microservices as a thin API interface between customer services (entitlement, catalog) and Rails based video platform."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "May 2012 - Apr 2014 · 1 yr 11 mos",
+              "metadata": "Toronto, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed distributed Java EE based video ingestion and curation service (Cisco Videoscape Media Suite) using Java 7, JBoss, Oracle and Jbpm.\n\nAssisted in redesigning install script into Java EE installer service to coordinate installation and upgrade of video service across multiple VMs.\n\nExposed custom configurations to JBoss application as Maven archetypes. Implemented customer enhancements to back-office B2B video management application using said custom configuration points.\n\nIntegrated 3rd party video metadata services to enrich existing customer content. Implemented XSLT parsers to filter and export curated metadata to downstream and external systems."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "AWS ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cassandra",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenStack",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Boot",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ElastiCache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ElasticSearch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Serverless",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": "University of Waterloo",
+          "subtitle": "Bachelor of Applied Science (BASc), Honours Computer Engineering",
+          "caption": "2004 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/stephenarthursaur",
+  "row_key": "id:0031N00002IEbRrQAL",
+  "person": "stephen arthur",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:32:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAPyBFYBQb9E-DNN6EeHI93nT2XcagQ7KdM",
+      "firstName": "Stephen",
+      "lastName": "Arthur",
+      "fullName": "Stephen Arthur",
+      "publicIdentifier": "stephenarthursaur",
+      "headline": "FinOps Engineer",
+      "about": "Software engineer with an emphasis on analyzing, optimizing and ultimately, solving, problems related to scalability. Some specifics include: writing code to enable analysis leading to large and novel cost optimizations, defining and delivering processes to implement cost or observability initiatives, identifying and making architectural changes to improve site-wide response times. In general I'm comfortable and confident analyzing relevant parts of reliability vs performance vs cost tradeoffs, and providing tools to automate the decisions.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQGm8hMoJG1OJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1575233729935?e=1785369600&v=beta&t=afKAp8vuqdPCZTcnlJULDKWd7nPVUmuO7E232JPPRm0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGm8hMoJG1OJg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1575233729864?e=1785369600&v=beta&t=b8mUwC1PHRrynCc6fUnfM9XaC9pSIdycJ0Vf8QSQVUU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGm8hMoJG1OJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1575233729648?e=1785369600&v=beta&t=g7caa-8e5HwyeZaK0sXE-ySQbLg5jim8dNV-UilrKtU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGm8hMoJG1OJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1575233729903?e=1785369600&v=beta&t=QyWKFOa8b89AXBrk0muzRUPdFysnYqyyt14Bn9hyB9w"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGm8hMoJG1OJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1575233729935?e=1785369600&v=beta&t=afKAp8vuqdPCZTcnlJULDKWd7nPVUmuO7E232JPPRm0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "title": "Principal Engineer, AI Economics",
+          "subtitle": "Sarth AI Velocity LLC . Self-employed",
+          "caption": "Jul 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Staff Software Engineer - FinOps",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Jun 2022 - Mar 2025 · 2 yrs 9 mos",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed and executed a consolidated FinOps strategy, aligned with the FinOps Framework, including vendor evaluation and selecting CloudZero and ProsperOps as strategic partners.\n    ◦ Curated FinOps roadmap / OKRs, using a maturity model and gap analysis, to identify the next most impactful areas of investment which led to sustainable progress resilient to organizational disruption (leadership exits, restructuring).\n\n• Reframed Cloud Costs as Unit Economics - moved Coinbase from ongoing and reactive Cost Reduction programs to proactive and sustainable Cost Efficiency, using the Driver-Adjusted Cost KPI in alignment with Finance for budgeting based on external drivers.\n\n• Implemented proportional shared total cost of ownership (TCO) model using CloudZero to bring 15 sources of telemetry online and reallocate 30% of cloud costs from shared infrastructure platforms to end-users.\n\n• Delivering these foundational capabilities led to a FinOps cultural flywheel where the benefits of unit economics became evident and fed back into many other capabilities:\n    ◦ Developers better understood the cost of scaling and tradeoffs between resiliency and cost for their systems\n    ◦ Product Owners took accountability for efficiency and profitability at a more granular product level\n    ◦ Engineering leadership understood the levers that could be used to bend the efficiency curve of key platforms and shared services\n    ◦ Finance gained the confidence that cloud costs were controllable\n\n• Increased the value of vendor partnerships, landing significant cost savings and error avoidance of $10s million by continually optimizing usage and actively managing vendor relationships.\n\n• Improved Coinbase’s FinOps and Engineering reputation through conferences and building internal/external community."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 6 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Platform Lead - Compute Platform",
+              "caption": "Oct 2021 - Jun 2022 · 8 mos",
+              "metadata": "Remote",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Compute Platform group consists of Compute Infrastructure teams building, operating and maintaining Yelp's platform as a service (PaaSTA) running on k8s, and Production Engineering teams that own Reliability and Observability. My role as platform lead is to identify the strategies and opportunities for cross-team collaboration that align to our group's vision for teams to execute on, while delivering a reliable and cost efficient compute platform for workloads at Yelp.\n\n- Drive product vision to deliver a differentiated Compute Platform product that powers Yelp’s business.\n- Define and measure key performance indicators to quantify product value, prioritize initiatives, and build the business case for investment (build vs buy decisions for multiple new and existing vendor relationships, how to evaluate success, etc.).\n- Drive innovation through user research, staying up to date with industry trends, and building strong vendor / open-source relationships (e.g., State of FinOps Survey with FinOps Foundation).\n- Create and operate key AWS cloud financial management processes (e.g., reporting to executive stakeholders in and out of Engineering, forecasting, negotiating, and committed spend planning)."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer - Production Observability",
+              "caption": "Sep 2018 - Oct 2021 · 3 yrs 1 mo",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Production Observability team empowers developers to understand and operate their systems in production; building and promoting standard and reusable approaches to use logs, metrics, traces, dashboards, alerts / SLOs in order to verify the site is available, fast and serving correct responses to users. The team builds tooling for tracking and optimizing AWS costs engineering-wide.\n\n- Build a hierarchical cost categorization system to provide varying granularity roll-ups for differing stakeholders' reporting needs; used in biweekly reporting for engineering teams, standard alerts on cost increases\n- Created an ongoing automated container rightsizer tool / process for Yelp's PaaS, based on allocation versus utilization, to eliminate waste on cpu-driven cluster autoscaling\n- Track and optimize the cost of Yelp's largest shared S3 buckets by prefix, and implement more granular lifecycle transition policies to shift data to lower-cost storage classes\n- Document and implement centrally managed convertible reservation strategy, with automated instance type conversions (via vendor tooling)\n- Inform Yelp's long-term observability needs by working closely with power users, soliciting developer feedback, attending industry events, etc."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer - Performance",
+              "caption": "Oct 2015 - Sep 2018 · 2 yrs 11 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The infrastructure performance team owns the performance of Yelp's websites and mobile applications. We create tools and dashboards to enable easily tracking Yelp's website and app performance, and we build and maintain the high performance of core infrastructure that features are built on.\n\n Regenerated over 100 million images using Elastic MapReduce to apply best practice image compression techniques, saving an average 30% to image file size for all Yelp images without any loss in perceived quality. This resulted in a 15% reduction in CDN bandwidth. Led to a top 15 all-time viewed blog post on Yelp's engineering blog.\n\n Built a system for load tests running Python with Locust.io and Docker, integrated with Jenkins, for opt-in load testing on merging branches.\n\n Large-scale refactor to HAProxy and Nginx configurations to permit TCP connections to be reused for internal cross-datacenter HTTP requests, reducing east coast and international master data center response times by 60ms.\n\n Ad-hoc analyses for production investigation and regression using Splunk, Signalfx, profiling and distributed tracing tooling (Zipkin).\n\n Consider various optimizations to Yelp's core infrastructure based on performance analysis data weighing trade-offs in reductions to user-facing response time, reliability, resilience, and infrastructure cost."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1353",
+          "companyUrn": "urn:li:fsd_company:1353",
+          "companyLink1": "https://www.linkedin.com/company/tata-consultancy-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_400_400/company-logo_400_400/0/1708946550425/tata_consultancy_services_logo?e=1785369600&v=beta&t=argHyOHxOL8b_6ayqv8Ix2k-fvrql9BXSBmDI9iR4jw",
+          "title": "Tata Consultancy Services",
+          "subtitle": "undefined · 6 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Performance Consultant",
+              "caption": "Jun 2012 - Oct 2015 · 3 yrs 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Various positions for clients consulting on IT performance -- including load testing, defect and incident analysis, monitoring, tuning.\n\n\n Monitored and built dashboards via tools like Sitescope and Splunk to watch infrastructure and application logs during tests.\n\n Identified performance issues with tracing profilers (JProfiler, YourKit) and APM (AppDynamics).\n\n Reviewed and changed source code to fix performance bottlenecks.\n\n Created automation scripts for load testing using industry standard tools like LoadRunner, Performance Center, JMeter, SoapUI.\n\n Deployed and integrated tools like WebPageTest and Sitespeed.io into Jenkins for automated performance regression testing.\n\n Configured AWS EC2 instances to scale horizontally, in order to meet additional infrastructure needs of load generation."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jun 2009 - Jun 2012 · 3 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Used a variety of tools to get the job done across several projects.\nJava, .NET, SQL Server, Informatica, DB2, Unix\n\nSupported production team on federal government system processing millions of health insurance claims per day through Informatica\nWorked across the stack on a Java 6 web application\nDeveloped .NET winform warehouse POS component from requirements\nDocumented BI requirements\nCreated an SSRS Custom Security Extension\nManaged a 12-member team responsible for prototyping a few hundred ASP.NET pages to high-level spec"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "3173",
+          "companyUrn": "urn:li:fsd_company:3173",
+          "companyLink1": "https://www.linkedin.com/school/the-ohio-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEw433uw5btkQ/company-logo_400_400/company-logo_400_400/0/1631327096366?e=1785369600&v=beta&t=rnFfOvK6twWS5nt0APwmiuWXa_2x70V8RAYCr95cImQ",
+          "title": null,
+          "subtitle": "B.S., Computer and Information Science",
+          "caption": "2005 - 2009",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

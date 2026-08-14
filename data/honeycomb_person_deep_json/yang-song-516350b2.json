@@ -1,0 +1,368 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/yang-song-516350b2",
+  "row_key": "id:003Uk00000yfUAzIAM",
+  "person": "Yang Song",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:40Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABfmW-IBCn6ALFEFaBmfpjwi-WthXxzqP20",
+      "firstName": "Yang",
+      "lastName": "Song",
+      "fullName": "Yang Song",
+      "publicIdentifier": "yang-song-516350b2",
+      "headline": "Applied Scientist at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Applied Scientist",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Jan 2024 - Present · 2 yrs",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Ads Bidding Optimization Team:\n\t•Real-Time Bidding: Optimized bidding strategies that balance the interests of advertisers and users.\n\t•Auction Dynamics: Enhancing reserve prices, pricing mechanisms, ad load distribution.\n\t•Experimentation Frameworks: Building tools and processes for marketplace experimentation"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 4 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Data Scientist",
+              "caption": "Jun 2021 - 2023 · 1 yr 7 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Ads team"
+                }
+              ]
+            },
+            {
+              "title": "Senior Data Scientist",
+              "caption": "Aug 2018 - Jun 2021 · 2 yrs 10 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Marketplace team\n\nRandomized Experimentation:\n      ----Improve the existing Yelp experimentation platform & experimentation approaches: Individual Level A/B testing, Geo/Cluster Level A/B Testing, Sequential A/B Testing\n      ----Implemented variance reduction techniques on these testings, which includes CUPED, stratification and pair matching.\n      -----Proposed and Implemented a solution to solve the experiment cohort pollution issue.\n      -----Implemented delta method on proportion metrics testing to solve the data dependency issue.\n\nObservational Studies :\n      -----Various of observational causal inferences projects, which is used in local services growth, quality and monetization. Used model based imputation (diff-in-diff, bayesian structural time series model), matching based (propensity score) and weighting based techniques.\n\nMachine Learning Projects\n      ----Built ML model to improve project matching accuracy between consumers and service providers.\n      ----Built ML models on Yelp Waitlist waiting time estimation, wrote features creation pipeline and built the prediction model in Spark.\n      -----In order to improve consumer quote reply rate, optimized questions in the RAQ (request a quote) question flows by using NLP. Techniques include POS tagging, topic modeling & entity recognition.  \n      -----Mined local services user search pattern, the result is used in local services businesses page for cross-selling."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1534",
+          "companyUrn": "urn:li:fsd_company:1534",
+          "companyLink1": "https://www.linkedin.com/company/the-home-depot/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHzR2llYqUBtg/company-logo_400_400/company-logo_400_400/0/1630656428961/the_home_depot_logo?e=1785369600&v=beta&t=RvFl1PC8ElQc3aouLK3WU6f7_kUbOtfYEu-yxsdSByk",
+          "title": "Data Scientist",
+          "subtitle": "The Home Depot . undefined",
+          "caption": "Nov 2016 - Jul 2018 · 1 yr 8 mos",
+          "metadata": "Foster City",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Pro/Marketplace Matching Algorithm\n   - Machine learning model to match customers with local service providers and push the model to production\n\nServices Search Enhancement\n   - Elasticsearch (Ranking relevant services/documents by using statistical language model & learning to rank algorithm)\n \nNLP \n   - Text/Descriptions Categorization\n   - Topic Modeling\n   - Sentiment Analysis\n   - Noun Phrase Extraction \n\nCustomer Survey Analysis\n   - Shapley Value Regression\n   - Factor Analysis (PCA & PLS)\n\nServices Recommendation \n\nA/B Testing & Web Analytics"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10855353",
+          "companyUrn": "urn:li:fsd_company:10855353",
+          "companyLink1": "https://www.linkedin.com/company/altice-usa/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF24Hsaqzbwxw/company-logo_400_400/company-logo_400_400/0/1630562101888/altice_usa_logo?e=1785369600&v=beta&t=-az1MPxAWreNMMO4RCht3GcT_XG_BBBngO0obkHHDUI",
+          "title": "Data Scientist",
+          "subtitle": "Altice USA (Formerly Cablevision) . undefined",
+          "caption": "Jul 2015 - Oct 2016 · 1 yr 3 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Applied text mining, natural language processing techniques such as sentiment analysis, text clustering, categorization and topic modeling on service center call records and online surveys by using Python\n• Designed and performed A/B testing on customer WIFI-usage data by using Python and R\n• Processed large network health data using Hive, performed data cleaning and built supervised learning model using Python and Spark, developed R shiny App to visualize the aggregated result"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5471",
+          "companyUrn": "urn:li:fsd_company:5471",
+          "companyLink1": "https://www.linkedin.com/company/lifeatgallo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFvaVC4gYQiyA/company-logo_400_400/company-logo_400_400/0/1707842113551/e__j_gallo_winery_logo?e=1785369600&v=beta&t=9dhIhxDnKTMxQs9UdXhC7K9-f7ged5I43kzs0UD9xfQ",
+          "title": "Statistician Intern",
+          "subtitle": "E. & J. Gallo Winery . undefined",
+          "caption": "Jun 2014 - Sep 2014 · 3 mos",
+          "metadata": "Modesto, California Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Optimized and expanded understanding of wine promotion calendar, price elasticity by building linear mixed effects model based on marketing and sales data by using R\n• Used a variety of machine learning algorithms to classify and predict customers' segment and buying behavior. The algorithms I used are mainly PLS, PCR, Decision Tree and Logistic Regression\n• Assisted in developing market segmentation scheme. Create descriptive reports and data visualization on pilot survey data"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3323",
+          "companyUrn": "urn:li:fsd_company:3323",
+          "companyLink1": "https://www.linkedin.com/school/indiana-university-school-of-medicine/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFZPiob4WwzAw/company-logo_400_400/company-logo_400_400/0/1691504096520/indiana_university_school_of_medicine_logo?e=1785369600&v=beta&t=eJ4aVKslAdsvFi9SbxZi1uRoC7klkyP18HqG6_LjYWI",
+          "title": "Research Assistant",
+          "subtitle": "Indiana University School of Medicine . undefined",
+          "caption": "May 2012 - Jul 2012 · 2 mos",
+          "metadata": "Indianapolis, Indiana Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Collected, combined and cleaned large dimensional data, conducted statistical analysis\n• Assisted senior statistician to evaluate 2-year disease-free survival in patients with confirmed Breast Cancer\n• Generated Kaplan-Meier curves, logrank test for the treatment effects and adjusted for covariant effects\n• Learned and participated in design planning of clinical trials, communicated with clinicians and medical writers regarding study protocol and statistical analysis issues"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese (Simplified)",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Text Mining",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Mining",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hive",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spark",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scala",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Recommender Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "1792",
+          "companyUrn": "urn:li:fsd_company:1792",
+          "companyLink1": "https://www.linkedin.com/school/stanford-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1785369600&v=beta&t=OsBN9FrVCpDu_BVZJvZLFMsYbTThUz3NdZ15YeHkrrE",
+          "title": "Stanford University",
+          "subtitle": "Master’s Degree, Statistics",
+          "caption": "2013 - 2015",
+          "subComponents": []
+        },
+        {
+          "companyId": "3846",
+          "companyUrn": "urn:li:fsd_company:3846",
+          "companyLink1": "https://www.linkedin.com/school/purdue-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_400_400/company-logo_400_400/0/1630626191299/purdue_university_logo?e=1785369600&v=beta&t=QZSSFofThKA0q4lk_yrQqGRF4sCHdSbyBWemoazDY_o",
+          "title": "Purdue University",
+          "subtitle": "Bachelor’s Degree, Mathematics and Statistics",
+          "caption": "2009 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Graduated with Distinction & Honor"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Topic Modeling",
+          "subtitle": "Sep 2019 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A reproduce of multiple topic modeling algorithms from scratch"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

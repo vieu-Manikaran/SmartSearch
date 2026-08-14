@@ -1,0 +1,366 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/joemillervi",
+  "row_key": "id:003Uk00000qEt71IAC",
+  "person": "Joe Miller",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA-ZhqABriH7QxSrYnbznZNnuIBYD7WWnfo",
+      "firstName": "Joe",
+      "lastName": "Miller",
+      "fullName": "Joe Miller",
+      "publicIdentifier": "joemillervi",
+      "headline": "Software Engineering Manager",
+      "about": "Empowering engineers to excel while fostering a culture of trust, autonomy, and high-impact performance. Currently at Yelp driving user sessions and improving growth platforms.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Denver Metropolitan Area United States",
+      "addressWithoutCountry": "Denver Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQFAj_clAzcitQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640812338804?e=1785369600&v=beta&t=dmNkcUGtyPfoxVMP34_PNQ2ITKT6W48_joSpkMRZI88",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQH3LFRLXdWyJw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689117157073?e=1785369600&v=beta&t=tFu2VLgJ2X_XKDpV9OkTFxzKbV2cfQQvqgQ_EkTQNQ8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFAj_clAzcitQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1640812338804?e=1785369600&v=beta&t=sfgD7B_-vk8PftGLdWR2zMJKJ_N9b9LIJcnn89cCfrE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFAj_clAzcitQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1640812338804?e=1785369600&v=beta&t=FpTZ7e3eoRKBYxSwaxCRLWGb9ecmZoSDaW6Chmf1BbI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFAj_clAzcitQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1640812338804?e=1785369600&v=beta&t=j41f6zv7b6va2z5brDSt6xYyK8KaWSQRk143xWccPnA"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFAj_clAzcitQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640812338804?e=1785369600&v=beta&t=dmNkcUGtyPfoxVMP34_PNQ2ITKT6W48_joSpkMRZI88"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQH3LFRLXdWyJw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1689117157073?e=1785369600&v=beta&t=BmtGOT9ZE27Bw5YJJzbXKK3siNhWK2d3ALK6kMoZf1U"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQH3LFRLXdWyJw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689117157073?e=1785369600&v=beta&t=tFu2VLgJ2X_XKDpV9OkTFxzKbV2cfQQvqgQ_EkTQNQ8"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 9 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Mar 2021 - Present · 4 yrs 10 mos",
+              "metadata": "Denver, CO",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Results\n- Leading Traffic Growth team\n- Hit sessions targets for growth (60M 2025)\n- Automated experimentation systems \n- Improved observability and alerting\n\nTeam Building & Leadership \n- Successfully hired, mentored, and onboarded 9 full-stack software engineers, doubling the team's size. \n- Cultivated a supportive and inclusive results-driven culture in which teammates are transparent about failures, mentorship is prioritized, and we celebrate success together. This positive environment increases productivity and quality of output, while also being healthy for individuals.\n- Set team vision and mission collaboratively with team members, enabling autonomy and trust. \n\nCareer Development\n- Guided engineers in their career development based on their professional goals through weekly 1-1s. - Promoted a Software Engineer to an Engineering Manager and Software Engineers within their roles.\n- Implemented a mentorship program, pairing seasoned team members with junior engineers, to enhance team collaboration and expedite growth trajectories.\n\nProcess Improvement\n- Standardized project execution protocols using Agile, Jira, and Github, enhancing transparency and streamlined processes, expediting project completion.\n- Updated communication channels to be project based, facilitating collaboration with multiple Project Managers, and more effectively managing a geographically dispersed team.\n- Revamped on-call protocols to leverage our distributed team of engineers, ensuring consistent alert monitoring and response irrespective of time zones."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2019 - Mar 2021 · 1 yr 7 mos",
+              "metadata": "Atlanta, Georgia, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Promoted to Sr level, led technical vision of the Traffic team across Consumer Growth. Converted ad hoc processes into platforms and systems to enable other teams and drive growth. Mentored new engineers on the team and continued to drive traffic growth through product features and experimentation.\n\nTechnical Accomplishments\t\n- Migrated Traffic team's experiment infrastructure from Google Cloud Platform, Google Analytics and BigQuery to Yelp’s internal Data Lake, built on AWS Redshift and PostgreSQL. This upgrade resulted in $400k annual savings for the company and increased visibility of experiment metrics.\n- Automated experimentation workflows using React, Python, and Cassandra, reducing dev time needed to run an experiment from weeks to minutes.\n- Created the Frequently Asked Questions product modules on Business pages using React, Jest, Apollo, and GraphQL, increasing users to business pages by 6%, a 250k DAU increase.\n- Led the creation of new pages that increased total traffic from Google to Yelp by 2%. Nearme and City pages are SEO optimized and run on Python, GraphQL, MYSQL, Memcached, React, SSR.\n- Transitioned core experiment infrastructure from Yelp's monolith repo into Python and JavaScript libraries, improving the API's usability for all internal teams.\n- Created and maintained COVID traffic dashboards using BigQuery, and PostgreSQL to provide visibility of traffic changes by location to higher ups, informing product response. \n\nLeadership & Mentoring\n- Onboarded 5 full-stack engineers, providing mentorship and support during their integration into the team. New engineers were pushing code after 3 days and owning a project within 3 weeks.\n- Conducted technical interviews, assessing candidates for code quality and communication skills.\n- Reviewed code, project proposals, OKRs, and documentation for my team to improve standards."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jul 2016 - Aug 2019 · 3 yrs 1 mo",
+              "metadata": "San Francisco",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Fullstack Engineer on the Growth Traffic team, led and executed user and SEO experiments to increase traffic to the website and app properties.\n\n- Improved the titles on Yelp Business and Search pages using Python, increasing overall traffic by 14%, or 18M user sessions a month.\n- Increased content on Search pages, using JavaScript, React, APIs increasing traffic by 10%.\n- Improved performance via HTML5 resource hints and lazy loading, boosting organic traffic by 6%.\n- Added internal linking on thousands of Yelp Search and Nearme pages using Python, React, and Cassandra to increase visibility of popular pages.\n- Fixed team security issues by moving secrets out of config files and into AWS Secrets Manager.\n- Improved search URL readability using Python by removing URL parameters."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Freelance Web Developer",
+          "subtitle": "BhamWebSolutions . undefined",
+          "caption": "Jan 2013 - Jan 2016 · 3 yrs",
+          "metadata": "Bellingham, Washington Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Custom websites complete for businesses. Design, backend, databases, SEO."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10102",
+          "companyUrn": "urn:li:fsd_company:10102",
+          "companyLink1": "https://www.linkedin.com/school/western-washington-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF4FV7rPE-0Og/company-logo_400_400/company-logo_400_400/0/1649887653357/western_washington_university_logo?e=1785369600&v=beta&t=XNdBiyV9xdI8isBEYlzvBFEhxetjkdj8T3Ol7__2Ais",
+          "title": "Dance Accompanist",
+          "subtitle": "WWU . undefined",
+          "caption": "Sep 2013 - Sep 2014 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Providing music for university dance classes."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "MITx: Introduction to Computer Science and Programming Using Python",
+          "subtitle": "edX",
+          "issued": "Issued Jan 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Strategic Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Conflict Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stakeholder Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Creativity and Innovation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "People Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tailwind CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vercel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Building",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "styled-components",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jest",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apollo",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Next.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Search Engine Optimization (SEO)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3032535",
+          "companyUrn": "urn:li:fsd_company:3032535",
+          "companyLink1": "https://www.linkedin.com/school/hack-reactor/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHrP1umKnHBrg/company-logo_400_400/company-logo_400_400/0/1671479991043/hack_reactor_logo?e=1785369600&v=beta&t=mvs_MGjoDYunKmvP3N_Gdh8kgbEVMe5njdt47sxpvEk",
+          "title": "Hack Reactor",
+          "subtitle": "null, null",
+          "caption": "Jan 2016 - Apr 2016",
+          "subComponents": []
+        },
+        {
+          "companyId": "35184",
+          "companyUrn": "urn:li:fsd_company:35184",
+          "companyLink1": "https://www.linkedin.com/school/uncsa/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFD511fnUz_Cw/company-logo_400_400/company-logo_400_400/0/1630667280747/uncsa_logo?e=1785369600&v=beta&t=MTjV1GEr_WPbx9dZ4MKSSckSwB-TiYTPScBpZfH1cyA",
+          "title": "North Carolina School of the Arts",
+          "subtitle": "Bachelor's of Music, Classical Guitar Performance",
+          "caption": "2009 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

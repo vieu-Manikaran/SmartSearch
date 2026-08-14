@@ -1,0 +1,596 @@
+{
+  "linkedin_url": "https://br.linkedin.com/in/giovanniantonaccio",
+  "row_key": "id:003Uk00000ydDYvIAM",
+  "person": "Giovanni Antonaccio",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:46Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABjjK5sBFvbDBB4v5gERkHioedV8cy_Gcas",
+      "firstName": "Giovanni",
+      "lastName": "Antonaccio",
+      "fullName": "Giovanni Antonaccio",
+      "publicIdentifier": "giovanniantonaccio",
+      "headline": "Senior Software Engineer @ Coinbase",
+      "about": "Frontend Engineer with 11+ years of experience in large-scale applications across energy, AI, and finance sectors. Over the past 5 years, collaborated remotely with global teams, including Design, Product, large Frontend teams (8+ members), and distributed Backend teams. Demonstrated success in implementing Design Systems, Micro-Frontends, Backend for Frontend (BFF), APIs, monolithic and microservice applications, mobile apps, CI/CD pipelines, real-time systems with WebSockets, and large dashboards using React.js, Next.js, TypeScript, Node.js, React Native, Python, and Docker. Currently focused on scaling frontend applications, modernizing legacy systems, and applying cutting-edge technologies to enhance performance and maintainability.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Brazil",
+      "addressWithCountry": "Manaus, Amazonas Brazil",
+      "addressWithoutCountry": "Manaus, Amazonas",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHmdix7epljsQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726229778492?e=1785369600&v=beta&t=OE1pB2TchCp_EZ1x28J29kMOc-IDvguMoDYvK4TzyE0",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQF3U_SNaLWJ2Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734545670773?e=1785369600&v=beta&t=YCmthtuOFnH6hNGX2BzYjxrfqA2lLSEAF5j4I_nsA1o",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHmdix7epljsQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726229778433?e=1785369600&v=beta&t=hVZPKIt-ffMxYMIVMEG_FEgOg5vmeLQAM9LdcGkC-ME"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHmdix7epljsQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726229778433?e=1785369600&v=beta&t=O3WeZ0HQwjrFeIBy0U-8UvTHr3cmZNly_R5DsSjRt1Q"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHmdix7epljsQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726229778433?e=1785369600&v=beta&t=ttUSi5zIDzN6YD22GhUpaw_wrcdr3slwGt-2LHjJGVQ"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHmdix7epljsQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726229778492?e=1785369600&v=beta&t=OE1pB2TchCp_EZ1x28J29kMOc-IDvguMoDYvK4TzyE0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQF3U_SNaLWJ2Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734545670773?e=1785369600&v=beta&t=M3o1answKPvRYIbYH2-qu5ewxhOx1g2l3KKN3DxXWSI"
+        },
+        {
+          "width": 1080,
+          "height": 270,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQF3U_SNaLWJ2Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734545670773?e=1785369600&v=beta&t=YCmthtuOFnH6hNGX2BzYjxrfqA2lLSEAF5j4I_nsA1o"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Dec 2024 - Present · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "203563",
+          "companyUrn": "urn:li:fsd_company:203563",
+          "companyLink1": "https://www.linkedin.com/company/ciandt/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHeZyGQWQJb7g/company-logo_200_200/B4EZ89lXBZJEAE-/0/1783444632003/ciandt_logo?e=1785369600&v=beta&t=o8OjYmhOshMSNUW-vVAcgHXOt9p7FDsSqOzobh_JinU",
+          "title": "CI&T",
+          "subtitle": "Full-time · 3 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Master Software Engineer | React.js, Next.js, TypeScript, Redux and Node.js",
+              "caption": "Jan 2023 - Dec 2024 · 1 yr 11 mos",
+              "metadata": "Campinas, São Paulo, Brasil",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a contractor for Invesco, one of the largest asset management firms in the US, I lead efforts on the UI team to modernize “Vision,” an internal tool whose legacy codebase has reached its performance limits. My role involves designing the frontend architecture, developing POCs with Micro-Frontend and BFF approaches, and mentoring engineers to ensure best practices.  The primary focus of this rewrite is to enhance both performance and maintainability by implementing modern, cutting-edge techniques.\n\nWe use a monorepo managed by NX with React 18, Next.js, TypeScript, Redux Toolkit, and RTK Query as core technologies, alongside a Storybook-documented Design System. With ~90% test coverage from Vitest and React Testing Library, supported by ESLint and SonarQube, we maintain high code quality. Automated CI/CD pipelines and Gitflow enable seamless deployments. To ensure optimal performance, we manage server state using a combination of RTK Query and a Backend for Frontend (BFF) architecture, which seamlessly integrates with multiple backend services."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer | React.js, JavaScript, Node.js, Design Systems and Micro-Frontends",
+              "caption": "Oct 2021 - Jan 2023 · 1 yr 3 mos",
+              "metadata": "Campinas, São Paulo, Brasil",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "At Conversica, I contributed to the Partner Portal as a key UI team member, setting architectural standards and developing reusable components in React, Redux Toolkit, and RTK Query. My work included leading a major rebranding effort in under two weeks, which involved replacing +1,500 hardcoded tokens to support Dark Mode and White Labeling.\n\nI created a POC for migrating the legacy PHP system to React using Micro-Frontends with single-spa, supporting a seamless transition to modern technologies. My role also involved close collaboration with backend, Product, and Design teams, as well as mentoring engineers and presenting solutions in company architecture meetups."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "10213612",
+          "companyUrn": "urn:li:fsd_company:10213612",
+          "companyLink1": "https://www.linkedin.com/company/sidiaoficial/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFktPno5HDd3Q/company-logo_400_400/B4DZjtQrdJH0Ac-/0/1756327230359/sidiaoficial_logo?e=1785369600&v=beta&t=gwrReKP4VBnbMFgOonyGeo0tKAJKS59GwoS0bjVsPxw",
+          "title": "Software Developer | Angular, TypeScript, Python, Docker and CI/CD",
+          "subtitle": "Sidia Instituto de Ciência e Tecnologia . Full-time",
+          "caption": "Jan 2021 - Oct 2021 · 9 mos",
+          "metadata": "Manaus, Amazonas, Brasil",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At SIDIA, a R&D institute for Samsung, I played a key role in a team that developed a sophisticated system to detect duplicated bug reports and recommend the right tech groups to address them. As a full-stack developer, I worked on frontend applications with Angular, supported backend development using Node.js and Python, and closely collaborated with the Design Team to create new features.\n\nI spearheaded DevOps efforts by automating CI/CD processes to ensure seamless deployment of 8+ microservices across development, QA, and production environments. I designed and implemented CI/CD pipelines using Concourse CI and Docker, and configured Traefik to manage communication between microservices. Additionally, I supported a team of 5 engineers throughout these initiatives."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer | React.js, TypeScript, Redux, Material UI and React Native",
+          "subtitle": "VTinova . Full-time",
+          "caption": "Jul 2019 - Jan 2021 · 1 yr 6 mos",
+          "metadata": "Manaus, Amazonas, Brazil",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was invited back to join the UI Development team at VTinova to work on the same remote metering product I had previously supported from the hardware side. In this role, I focused on building web and mobile applications using React and React Native, leading efforts to create interfaces that allowed users to visualize vast amounts of data in real-time via WebSocket connections. The resulting interactive charts, tables, and maps significantly enhanced data visualization and usability, aligning the UI with VTINOVA’s commitment to innovation in remote metering solutions."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11854389",
+          "companyUrn": "urn:li:fsd_company:11854389",
+          "companyLink1": "https://www.linkedin.com/company/technicolorgroup/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFfwQk_Xl_Rgg/company-logo_400_400/company-logo_400_400/0/1713431362678/technicolorgroup_logo?e=1785369600&v=beta&t=WoM963vcpJ5CirvOqbvmTh6Xy-6WUCHwA9ChE7E1sOM",
+          "title": "Development Engineer | Python, LabView, Frontend Development and Project Management",
+          "subtitle": "Technicolor . Full-time",
+          "caption": "Aug 2018 - Jul 2019 · 11 mos",
+          "metadata": "Manaus, Amazonas",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At Technicolor Brasil, a global leader in technology solutions for media and entertainment, I contributed significantly through various roles. I developed software for JIGs and process automation, enhancing efficiency and reducing costs by streamlining operations. As a Product Owner in R&D projects, I led initiatives that introduced innovative solutions and supported new project implementations. My project management skills ensured the successful execution of these projects, driving advancements and maintaining high standards in our technology offerings."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Developer | C++, Python, Labview, Selenium and Java",
+          "subtitle": "VTinova . Full-time",
+          "caption": "May 2015 - Aug 2018 · 3 yrs 3 mos",
+          "metadata": "Manaus e Região, Brasil",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At VTinova, a pioneering Brazilian Electrical Engineering company specializing in remote metering solutions, I contributed to both the Embedded Systems and QA teams. In QA, I automated testing processes using Java and Selenium, reducing regression testing time from an entire day to just minutes and significantly cutting the number of regression bugs. In Embedded Systems, I developed solutions in Python and C++ for ARM platforms, focusing on algorithm design and data analysis to optimize our metering products. I also ensured 24/7 availability for real-time communication with a central server via WebSockets."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "3824181",
+          "companyUrn": "urn:li:fsd_company:3824181",
+          "companyLink1": "https://www.linkedin.com/school/aluracursos/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhtn30GMJekQ/company-logo_200_200/B4EZ5mb_4jJAAE-/0/1779835076346/aluracursos_logo?e=1785369600&v=beta&t=m9uRYijrKc9KU53HConO2pSsMSUNrPM_439D656v2IY",
+          "title": "Android I: Crie sua App fantástica com Android Studio - 10 horas",
+          "subtitle": "Alura Cursos Online",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3824181",
+          "companyUrn": "urn:li:fsd_company:3824181",
+          "companyLink1": "https://www.linkedin.com/school/aluracursos/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhtn30GMJekQ/company-logo_200_200/B4EZ5mb_4jJAAE-/0/1779835076346/aluracursos_logo?e=1785369600&v=beta&t=m9uRYijrKc9KU53HConO2pSsMSUNrPM_439D656v2IY",
+          "title": "Aplicações modernas com Socket.IO e Node.JS - 12 horas",
+          "subtitle": "Alura Cursos Online",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3824181",
+          "companyUrn": "urn:li:fsd_company:3824181",
+          "companyLink1": "https://www.linkedin.com/school/aluracursos/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhtn30GMJekQ/company-logo_200_200/B4EZ5mb_4jJAAE-/0/1779835076346/aluracursos_logo?e=1785369600&v=beta&t=m9uRYijrKc9KU53HConO2pSsMSUNrPM_439D656v2IY",
+          "title": "HTML5 e CSS3 I: Suas primeiras páginas da Web - 32 horas",
+          "subtitle": "Alura Cursos Online",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3824181",
+          "companyUrn": "urn:li:fsd_company:3824181",
+          "companyLink1": "https://www.linkedin.com/school/aluracursos/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhtn30GMJekQ/company-logo_200_200/B4EZ5mb_4jJAAE-/0/1779835076346/aluracursos_logo?e=1785369600&v=beta&t=m9uRYijrKc9KU53HConO2pSsMSUNrPM_439D656v2IY",
+          "title": "MEAN Stack: Web moderna  - 16 horas",
+          "subtitle": "Alura Cursos Online",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3824181",
+          "companyUrn": "urn:li:fsd_company:3824181",
+          "companyLink1": "https://www.linkedin.com/school/aluracursos/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhtn30GMJekQ/company-logo_200_200/B4EZ5mb_4jJAAE-/0/1779835076346/aluracursos_logo?e=1785369600&v=beta&t=m9uRYijrKc9KU53HConO2pSsMSUNrPM_439D656v2IY",
+          "title": "MYSQL I: INICIANDO SUAS CONSULTAS",
+          "subtitle": "Alura Cursos Online",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Inglês",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Português",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Hackathon | CI&T",
+          "subtitle": "Issued by CI&T",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "My team and I participated in a hackathon where we used Flow, the AI developed by CI&T, to optimize the Pull Request lifecycle. Our prompt received the git diff as input and generated detailed PR descriptions, test scenarios, and attention points for the QA team. It also conducted a thorough review of code quality and suggested improvements. This solution significantly boosted the efficiency of the PR process, and our project earned 2nd place out of 27 competing teams."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "[Awards] Client Satisfaction | Invesco",
+          "subtitle": "Issued by CI&T",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\"Has to contact the client and receives constant positive feedback. It is committed to the client and is a reference for the team, being recognized as a relationship highlight.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "[Awards] Go for it! | Invesco",
+          "subtitle": "Issued by CI&T",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\"This person has created something new and went after it to achieve the goal and made it happen! Keywords: initiative, implementation of an idea, protagonism, proactivity, creation, highlight.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "[Awards] Teamwork | Conversica",
+          "subtitle": "Issued by CI&T",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\"Without this person the team is not the same! Collaborates for the development of the team and has an easy relationship with other people/areas, confirming the importance of teamwork. Keywords: teamwork, collaboration, contribution, genuine care.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hackathon | Conversica",
+          "subtitle": "Issued by Conversica",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "My team and I won 1st place in the Conversica Hackathon, which focused on global operations. We developed a module to automatically translate conversations between multiple AI Agents into different languages, greatly improving the efficiency of expanding into new regions. This was achieved before public OpenAI APIs were available, making it a standout solution. Our project caught the attention of the board for its potential impact on the company’s global operations."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "[Awards] Client Satisfaction | Conversica",
+          "subtitle": "Issued by CI&T",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\"Has to contact the client and receives constant positive feedback. It is committed to the client and is a reference for the team, being recognized as a relationship highlight.\""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Redux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Performance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hooks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Comunicação",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Melhoria de processos",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Melhoria de desempenho",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React Hooks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Next.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Angular",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CI/CD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lean Six Sigma",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Frontend ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engenharia de Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gestão de projetos de software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "857003",
+          "companyUrn": "urn:li:fsd_company:857003",
+          "companyLink1": "https://www.linkedin.com/school/igti/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF8OT9RjVFVBw/company-logo_400_400/company-logo_400_400/0/1656305893939/igti_logo?e=1785369600&v=beta&t=3DdWB1PutUT6mVPmLWS9uhvcdVBNA4ReI4A8mEtojGk",
+          "title": "Instituto de Gestão e Tecnologia da Informação",
+          "subtitle": "Master of Business Administration - MBA, Engenharia de Software Ágil ",
+          "caption": "2019 - 2020",
+          "subComponents": []
+        },
+        {
+          "title": "Universidade do Estado do Amazonas",
+          "subtitle": "Graduação, Engenharia Elétrica",
+          "caption": "2012 - 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "166675",
+          "companyUrn": "urn:li:fsd_company:166675",
+          "companyLink1": "https://www.linkedin.com/school/university-of-strathclyde/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNXcrM2lW4Vg/company-logo_400_400/company-logo_400_400/0/1720082239808/university_of_strathclyde_logo?e=1785369600&v=beta&t=qmzjb3M1eT2XrwuiNhAWmYZ1qCfzdXV5udk58WTrW2I",
+          "title": "University of Strathclyde",
+          "subtitle": "Graduação Sanduiche, Engenharia Elétrica e Eletrônica",
+          "caption": "2014 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Academic Exchange\n\nDuring my academic exchange, I undertook a project to improve the efficiency of a microcontroller by reviewing and optimizing its algorithms. This involved extensive benchmark testing and updating documentation to reflect the changes. The process required careful analysis of the existing code and performance improvements to optimize the microcontroller’s operations."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "73401290",
+          "companyUrn": "urn:li:fsd_company:73401290",
+          "companyLink1": "https://www.linkedin.com/company/cyberlabs-uea/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF4Zn7Y3t9Rbw/company-logo_200_200/B4DZnETaHNGgAI-/0/1759935048602/hub_tecnologia_e_inovao_logo?e=1785369600&v=beta&t=dJjeQE-eePQynEreRY_xgM80ORZsRnck21Yh8elbses",
+          "title": "Professor",
+          "subtitle": "Hub - Tecnologia e Inovação",
+          "caption": "Jan 2017 - Dec 2017 · 11 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

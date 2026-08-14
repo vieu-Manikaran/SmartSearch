@@ -1,0 +1,210 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/congwei-wu-01942670",
+  "row_key": "id:003Uk00000ydBF9IAM",
+  "person": "Congwei Wu",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:44Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA8DOpUBefffp_nwC87_5umIT3pSH5SO6xQ",
+      "firstName": "Congwei",
+      "lastName": "Wu",
+      "fullName": "Congwei Wu",
+      "publicIdentifier": "congwei-wu-01942670",
+      "headline": "Staff Software Engineer at Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "undefined · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Aug 2025 - Present · 5 mos",
+              "metadata": "New York City Metropolitan Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Tech Lead for Identity Accounts team (10 engineers), driving architecture and technical direction for Users, Organizations, IAM, Accounts, and Settings."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Apr 2022 - Aug 2025 · 3 yrs 4 mos",
+              "metadata": "New York City Metropolitan Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1815218",
+          "companyUrn": "urn:li:fsd_company:1815218",
+          "companyLink1": "https://www.linkedin.com/company/uber-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1785369600&v=beta&t=r9l905urYGR2nLPIAo9IUo1TE7lT_q18b3QvXaHjxb8",
+          "title": "Software Engineer",
+          "subtitle": "Uber . undefined",
+          "caption": "Mar 2019 - Apr 2022 · 3 yrs 1 mo",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Marketplace Fulfillment, distributed highly scalable real-time indexing and geo-location serving platform services."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1019086",
+          "companyUrn": "urn:li:fsd_company:1019086",
+          "companyLink1": "https://www.linkedin.com/company/sambaintel/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGRVXet9UTxUA/company-logo_100_100/B4EZ7w7_GOHsAM-/0/1782158717548/sambaintel_logo?e=1785369600&v=beta&t=pzCTDHidrhK2VDbvUtrPgpP_2WARvKoa6uPj4_CGorY",
+          "title": "Data Engineer",
+          "subtitle": "Samba TV . undefined",
+          "caption": "Mar 2018 - Feb 2019 · 11 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "247483",
+          "companyUrn": "urn:li:fsd_company:247483",
+          "companyLink1": "https://www.linkedin.com/company/truecar-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE7LSFoYuc4YA/company-logo_400_400/company-logo_400_400/0/1667318640927/truecar_inc__logo?e=1785369600&v=beta&t=b4jjWhTPHaanLtuPqARtcDDpRgMliUlAAcZBkr7_3EI",
+          "title": "Software Engineer Intern",
+          "subtitle": "TrueCar, Inc. . undefined",
+          "caption": "Jun 2017 - Sep 2017 · 3 mos",
+          "metadata": "Los Angeles Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1244919",
+          "companyUrn": "urn:li:fsd_company:1244919",
+          "companyLink1": "https://www.linkedin.com/company/creditease/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEYxreylcyfVg/company-logo_400_400/company-logo_400_400/0/1630629873801/creditease_logo?e=1785369600&v=beta&t=y5p3HeVT0YgKhmjLyErZYdnTsNn2XpOAGoOz8Kt-yfQ",
+          "title": "Software Engineer, Data",
+          "subtitle": "CreditEase . undefined",
+          "caption": "Jul 2015 - Mar 2016 · 8 mos",
+          "metadata": "Beijing, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Amazon Dynamodb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4418",
+          "companyUrn": "urn:li:fsd_company:4418",
+          "companyLink1": "https://www.linkedin.com/school/university-of-california-irvine/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGxOSkIiHW9Ag/company-logo_200_200/B56ZoNqMfXJYAI-/0/1761165756689/university_of_california_irvine_logo?e=1785369600&v=beta&t=Q0IWWzF9dEmEPvRH1T4w3TLXd0hNm3Chqz1VBnoOzGc",
+          "title": "UC Irvine",
+          "subtitle": "Master of Science - MS, Statistics",
+          "caption": "Sep 2016 - Dec 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "1059487",
+          "companyUrn": "urn:li:fsd_company:1059487",
+          "companyLink1": "https://www.linkedin.com/school/shandong-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFB8n1zQEvcYQ/company-logo_400_400/company-logo_400_400/0/1631341114325?e=1785369600&v=beta&t=XGg6-sVcLnLaJJtASS9e7noLC3dkXiR2DPebSCAQTSo",
+          "title": "Shandong University",
+          "subtitle": "Bachelor of Science - BS, Physics",
+          "caption": "Sep 2011 - Jun 2015",
+          "subComponents": []
+        },
+        {
+          "companyId": "165218",
+          "companyUrn": "urn:li:fsd_company:165218",
+          "companyLink1": "https://www.linkedin.com/school/northern-arizona-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJP4PaFNhQLg/company-logo_400_400/company-logo_400_400/0/1630661606732?e=1785369600&v=beta&t=owN6lMdz9o3L4eUg581wo3xUo4lrNOLyVUy2RSmbbWE",
+          "title": "Northern Arizona University",
+          "subtitle": "Bachelor of Science - BS, Physics",
+          "caption": "Aug 2012 - Dec 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

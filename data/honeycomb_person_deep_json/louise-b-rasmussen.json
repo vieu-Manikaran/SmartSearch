@@ -1,0 +1,202 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/louise-b-rasmussen",
+  "row_key": "id:0031N0000221IxZQAU",
+  "person": "Louise Rasmussen",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:21:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAEBSxgBT5d5hwjdLtuAAN-m6yIbiRBdmUI",
+      "firstName": "Louise",
+      "lastName": "Rasmussen",
+      "fullName": "Louise Rasmussen",
+      "publicIdentifier": "louise-b-rasmussen",
+      "headline": "Senior Software Engineer & Sr. UX Designer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Motion Pictures & Film",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Fairfax, California United States",
+      "addressWithoutCountry": "Fairfax, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "165481",
+          "companyUrn": "urn:li:fsd_company:165481",
+          "companyLink1": "https://www.linkedin.com/company/pixar-animation-studios/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGweVEucihVrw/company-logo_400_400/company-logo_400_400/0/1725600535833/pixar_animation_studios_logo?e=1785369600&v=beta&t=N0klfb9zIlr1V-jTvrUQ2CQD_79lLQi79d2OX_JH0QM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Pixar Animation Studios . Full-time",
+          "caption": "Dec 2022 - Present · 3 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Senior Software Engineer & UX Designer",
+          "subtitle": "Epic Games . undefined",
+          "caption": "May 2018 - Oct 2022 · 4 yrs 5 mos",
+          "metadata": "Larkspur, California",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1879",
+          "companyUrn": "urn:li:fsd_company:1879",
+          "companyLink1": "https://www.linkedin.com/company/autodesk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGrSi2UOCdL5g/company-logo_400_400/company-logo_400_400/0/1719952472030/autodesk_logo?e=1785369600&v=beta&t=pa4VdWA2ufbxwah0WqkyMS3FIgR0cF9GYKw7wiYBvvM",
+          "title": "Senior Software Engineer & User Experience Designer",
+          "subtitle": "Autodesk . undefined",
+          "caption": "Jan 2014 - Apr 2018 · 4 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2777915",
+          "companyUrn": "urn:li:fsd_company:2777915",
+          "companyLink1": "https://www.linkedin.com/company/industrial-light-&-magic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFWlyHp8z1YLA/company-logo_100_100/B56ZZJpXRBGQAQ-/0/1744992302397/industrial_light__magic_logo?e=1785369600&v=beta&t=PdBNK9SQSsnrHjPb8EyvlWSXOXq4pP-D07LjtvShDqI",
+          "title": "R&D Software Engineer",
+          "subtitle": "Industrial Light & Magic . undefined",
+          "caption": "Aug 2005 - Jun 2013 · 7 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "PyQt",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MEL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Graphics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenGL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Renderman",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Qt",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4099",
+          "companyUrn": "urn:li:fsd_company:4099",
+          "companyLink1": "https://www.linkedin.com/school/uwmadison/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFyYW54n5mwAw/company-logo_400_400/company-logo_400_400/0/1630601304331/university_of_wisconsin_madison_logo?e=1785369600&v=beta&t=EU7hYX_QMOoqKgW0dkHMm3cl70cOZ4VKnVv4I8-rPB4",
+          "title": null,
+          "subtitle": "BS, Computer Science, Physics, Mathematics, Astrophysics",
+          "caption": "1999 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Zviz",
+          "subtitle": "Jan 2008 - Present",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/peyton-montei",
+  "row_key": "id:003Uk00000pkVdGIAU",
+  "person": "Peyton Montei",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:36:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAD8SjToBLgdtZf9lfZf0VBauK9Zt3U4kOSs",
+      "firstName": "Peyton",
+      "lastName": "Montei",
+      "fullName": "Peyton Montei",
+      "publicIdentifier": "peyton-montei",
+      "headline": "Engineering @ Entire",
+      "about": null,
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Publishing",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQF3bg8GKa2fng/profile-displayphoto-scale_100_100/B56Zv5Mt9uHAAc-/0/1769412419949?e=1785369600&v=beta&t=j9ijJx9ojsbS3fy6TC0uIwIFUbXlHTNFn5C44TmSB1w",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEVI_yCuJQ4TA/profile-displaybackgroundimage-shrink_350_1400/B56Zv5NAt6IoAY-/0/1769412496592?e=1785369600&v=beta&t=PoH1aPgdlqc57kuXrri5XdqVqjTYQAV0AMRmVHB1tCM",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQF3bg8GKa2fng/profile-displayphoto-scale_400_400/B56Zv5Mt9uHAAg-/0/1769412419949?e=1785369600&v=beta&t=jyFmXM-X-aeaWCkPCezTPOopUxtpJSM8mxUWdr2NuPg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQF3bg8GKa2fng/profile-displayphoto-scale_200_200/B56Zv5Mt9uHAAY-/0/1769412419949?e=1785369600&v=beta&t=smyo9JJpqLjzc2SkFJkWJuUMl7eRhSP1crML8xmIvEU"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQF3bg8GKa2fng/profile-displayphoto-crop_800_800/B56Zv5Mt9uHAAI-/0/1769412419867?e=1785369600&v=beta&t=xLXnAg7uFQPaCCMBq8MVfCGj3LwOBNjmptUI6k1OMa4"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQF3bg8GKa2fng/profile-displayphoto-scale_100_100/B56Zv5Mt9uHAAc-/0/1769412419949?e=1785369600&v=beta&t=j9ijJx9ojsbS3fy6TC0uIwIFUbXlHTNFn5C44TmSB1w"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 744,
+          "height": 186,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEVI_yCuJQ4TA/profile-displaybackgroundimage-shrink_200_800/B56Zv5NAt6IoAU-/0/1769412496592?e=1785369600&v=beta&t=i-pCRv-jI0D0eBcohewiT6CMe3CcY7wLIdpNEYuLvaE"
+        },
+        {
+          "width": 744,
+          "height": 186,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEVI_yCuJQ4TA/profile-displaybackgroundimage-shrink_350_1400/B56Zv5NAt6IoAY-/0/1769412496592?e=1785369600&v=beta&t=PoH1aPgdlqc57kuXrri5XdqVqjTYQAV0AMRmVHB1tCM"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "111845019",
+          "companyUrn": "urn:li:fsd_company:111845019",
+          "companyLink1": "https://www.linkedin.com/company/entireio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG3TYtfL6EQnA/company-logo_200_200/B56ZxEh405HoAI-/0/1770676260471/entireio_logo?e=1785369600&v=beta&t=TtFpavpfHdUcYjkyg5UwzSiWCmFxDNxagQV4KeLLEv4",
+          "title": "Customer Solutions Engineer",
+          "subtitle": "Entire . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "69155997",
+          "companyUrn": "urn:li:fsd_company:69155997",
+          "companyLink1": "https://www.linkedin.com/company/kygtrade/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEiuhvvPUoZaw/company-logo_400_400/company-logo_400_400/0/1699856655962/kygtrade_logo?e=1785369600&v=beta&t=HxpvrlJVI3d1Adbo9xgQ_nKn7TdPsrG8-NAmORlryU8",
+          "title": "KYG Trade™",
+          "subtitle": "Internship · 3 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sales Engineer",
+              "caption": "Jan 2024 - Jan 2026 · 2 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led end-to-end implementation for 5 concurrent accounts, managing data configuration, and system onboarding\n• Built 10+ custom AI-Assisted \"Trade Oracles\" solutions for niche use cases, reducing completion time from 2 weeks to minutes\n• Delivered 100+ product demos and presented on webinars; created interactive ROI calculator to quantify platform value\n •Improved AI model accuracy from 50-60% to 90% through iterative testing and trade expertise integration\n• Managed enterprise data lifecycle from raw data ingestion and cleaning to API uploads and quality enhancement, ensuring accurate platform presentation\n• Collaborated with product and engineering to develop duty rate analytics and AI tools aligned with compliance requirements"
+                }
+              ]
+            },
+            {
+              "title": "Product Intern",
+              "caption": "Dec 2022 - Dec 2023 · 1 yr",
+              "metadata": "Newport Beach, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•Trained and optimized AI/ML models for trade classification (import, export, FTA qualification), OCR, and document extraction; tested model performance to improve accuracy\n•Built company website pages and tracked engagement; analyzed platform user data for product insights\n•Conducted QA testing across sprint releases, writing test cases and testing user workflows; identified and reported bugs to ensure product quality\n•Created custom product demonstrations, customer materials"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "30074193",
+          "companyUrn": "urn:li:fsd_company:30074193",
+          "companyLink1": "https://www.linkedin.com/company/wit-nc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEzveUy7Yipfg/company-logo_400_400/company-logo_400_400/0/1630539816267?e=1785369600&v=beta&t=KYKRuDJ1vHzESfrLGF_Hd-kg167V1AvQRiHMkoGNnyA",
+          "title": "Board Member",
+          "subtitle": "WIT-NC - Women in International Trade Northern California . Part-time",
+          "caption": "Jan 2025 - Dec 2025 · 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Sponsorship Director - Women in Trade - Northern California Chapter"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18905132",
+          "companyUrn": "urn:li:fsd_company:18905132",
+          "companyLink1": "https://www.linkedin.com/company/nyuvip/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH4c8Rh3BrGdA/company-logo_400_400/company-logo_400_400/0/1630638939197/nyuvip_logo?e=1785369600&v=beta&t=swe4YDuAwSl1oJJetEvfZ3029Dikb6I3xaTtiszrcs8",
+          "title": "Research Assistant Lead",
+          "subtitle": "NYU Vertically Integrated Projects (VIP) . Part-time",
+          "caption": "Sep 2024 - May 2025 · 8 mos",
+          "metadata": "New York, New York, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•Led team of 15 research assistants in developing innovative offshore wind turbine prototype design\n•Managed project timeline, deliverables, and cross-functional collaboration with engineering faculty"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10038312",
+          "companyUrn": "urn:li:fsd_company:10038312",
+          "companyLink1": "https://www.linkedin.com/company/upmerch/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG5xeejW847xA/company-logo_400_400/company-logo_400_400/0/1673911478414/upmerch_logo?e=1785369600&v=beta&t=RRE2u7q61oOGROS1WnKwWQthNXDNX0JmcR8Ry4Am_3k",
+          "title": "Business Development Associate",
+          "subtitle": "UpMerch . Internship",
+          "caption": "Jun 2022 - Aug 2022 · 2 mos",
+          "metadata": "Chicago, Illinois, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•Conducted outbound prospecting for small businesses and campus organizations across California \n•Led weekly strategy meetings for 15-person team, coordinating progress updates and best practices"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15251132",
+          "companyUrn": "urn:li:fsd_company:15251132",
+          "companyLink1": "https://www.linkedin.com/school/california-polytechnic-state-university-san-luis-o/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_400_400/company-logo_400_400/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1785369600&v=beta&t=2aPbeznmHaG6QxBw4naUO_MbLrzKZTfI3X3GskR-uSE",
+          "title": "Research Assistant",
+          "subtitle": "California Polytechnic State University-San Luis Obispo . Internship",
+          "caption": "Sep 2021 - Jun 2022 · 9 mos",
+          "metadata": "San Luis Obispo, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•Created 50+ infographics translating research findings into accessible visual content for QCARES mental health research initiative\n•Conducted research by summarizing academic papers, collecting data, and analyzing surveys; coordinated team meetings with researchers"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [
+        {
+          "title": "International Compliance Professional Association (ICPA)",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Women In Trade Northern California (WIT-NC)",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "American Association of Exporters and Importers",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Information Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Content Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Search Engine Marketing (SEM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales Processes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IBM SPSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Canva",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Minitab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Upselling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Satisfaction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenTable",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Instagram Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "11313",
+          "companyUrn": "urn:li:fsd_company:11313",
+          "companyLink1": "https://www.linkedin.com/school/nyutandonschoolofengineering/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGSo6WKh04-Pw/company-logo_400_400/company-logo_400_400/0/1735832051890/nyutandonschoolofengineering_logo?e=1785369600&v=beta&t=LUS36t3Mqh7kH6LTBbVQTtw3FkCelYfM-Jj5SSJLydI",
+          "title": "NYU Tandon School of Engineering",
+          "subtitle": "Master's degree, Management of Technology, Data Analytics",
+          "caption": "Jan 2024 - Dec 2025",
+          "subComponents": []
+        },
+        {
+          "companyId": "15251132",
+          "companyUrn": "urn:li:fsd_company:15251132",
+          "companyLink1": "https://www.linkedin.com/school/california-polytechnic-state-university-san-luis-o/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_400_400/company-logo_400_400/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1785369600&v=beta&t=2aPbeznmHaG6QxBw4naUO_MbLrzKZTfI3X3GskR-uSE",
+          "title": "California Polytechnic State University-San Luis Obispo",
+          "subtitle": "null, null",
+          "caption": "Aug 2020 - Dec 2023",
+          "subComponents": []
+        },
+        {
+          "companyId": "19420",
+          "companyUrn": "urn:li:fsd_company:19420",
+          "companyLink1": "https://www.linkedin.com/school/university-of-new-haven/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHe1ywKqjiDbg/company-logo_200_200/B4EZybl5zNJsAI-/0/1772136931388/university_of_new_haven_logo?e=1785369600&v=beta&t=eFXfoh6FwXJWSEZEQJHCDLoKAur8v7BM6tEa0HAMxX0",
+          "title": "University of New Haven",
+          "subtitle": "null, null",
+          "caption": "Aug 2022 - Dec 2022",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Study Abroad in Rome, Italy "
+            }
+          ]
+        },
+        {
+          "companyId": "1704530",
+          "companyUrn": "urn:li:fsd_company:1704530",
+          "companyLink1": "https://www.linkedin.com/school/bishopblanchet/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGqd-JSofEUIw/company-logo_400_400/company-logo_400_400/0/1652134017150?e=1785369600&v=beta&t=J8fbNmJcxkZhKwaVOq9MkXv0kwnR1JkLma0zXgWYGYE",
+          "title": "Bishop Blanchet High School",
+          "subtitle": "High School Diploma, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "899833",
+          "companyUrn": "urn:li:fsd_company:899833",
+          "companyLink1": "https://www.linkedin.com/company/lumina-alliance/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHXOoUCMCqrPw/company-logo_400_400/company-logo_400_400/0/1630649802629/womens_shelter_program_of_slo_county_logo?e=1785369600&v=beta&t=fvYPfgkstZh7WVRV6Uxa5EcxgboBvCIOHy3QldGsvSA",
+          "title": "Fundraiser",
+          "subtitle": "Lumina Alliance (formerly RISE & Stand Strong)",
+          "caption": "Sep 2020 - Present · 5 yrs 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5236186",
+          "companyUrn": "urn:li:fsd_company:5236186",
+          "companyLink1": "https://www.linkedin.com/company/virginia-mason-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEHHLeEmuVuEg/company-logo_400_400/company-logo_400_400/0/1714514571708/virginia_mason_institute_logo?e=1785369600&v=beta&t=MNN2EMtMObly8eb-6wWatq4h6Sh5mVHQbc2Tm_WtDFo",
+          "title": "Student Volunteer",
+          "subtitle": "Virginia Mason Institute",
+          "caption": "Jul 2018 - Nov 2019 · 1 yr 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

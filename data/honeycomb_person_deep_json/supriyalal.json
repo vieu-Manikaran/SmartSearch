@@ -1,0 +1,625 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/supriyalal",
+  "row_key": "id:003Uk00000PmCACIA3",
+  "person": "Supriya Lal",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABTfYZcBkJgmv4cEiLH8rWEJp31HOCX0J5g",
+      "firstName": "Supriya",
+      "lastName": "Lal",
+      "fullName": "Supriya Lal",
+      "publicIdentifier": "supriyalal",
+      "headline": "Group Tech Lead @ Yelp Inc | Passionate About Bridging the Gender Gap in Tech",
+      "about": "As a Group Tech Lead at Yelp, I manage technical execution across multiple teams. I'm passionate about closing the gender gap in tech, writing for publications, and engaging with conferences and NGOs to promote diversity.Outside of tech, I express my creativity through dance and teach dance fitness on weekends.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFRvgPypZsYUQ/profile-displayphoto-shrink_800_800/B56ZRQS8ioGsAc-/0/1736513931842?e=1785369600&v=beta&t=XGDTq1eUs8Zy-AWNS16e4lMi7eV1yFzdHlp-pyXyz2I",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQHdP6NtAsbNWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731821425092?e=1785369600&v=beta&t=z1i4iXEaHZoqbyIX4ez0nUQR-6agcGCbTNHGGhHZH5M",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFRvgPypZsYUQ/profile-displayphoto-shrink_200_200/B56ZRQS8ioGsAY-/0/1736513931790?e=1785369600&v=beta&t=p_VtSA7NIBjIEnf-zoHlW2WxrV61k1Aorexn4tKhPG4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFRvgPypZsYUQ/profile-displayphoto-shrink_400_400/B56ZRQS8ioGsAg-/0/1736513931790?e=1785369600&v=beta&t=7eF0aRwPNiHCDjVyI9VUKfW0wmeYD_jhyI8jWSjnY4Q"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFRvgPypZsYUQ/profile-displayphoto-shrink_100_100/B56ZRQS8ioGsAU-/0/1736513931790?e=1785369600&v=beta&t=bNXeZTUVtvugRNT08ZXT8TmsC_z0P_xLOoLBRFNwyuc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFRvgPypZsYUQ/profile-displayphoto-shrink_800_800/B56ZRQS8ioGsAc-/0/1736513931842?e=1785369600&v=beta&t=XGDTq1eUs8Zy-AWNS16e4lMi7eV1yFzdHlp-pyXyz2I"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHdP6NtAsbNWw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1731821425092?e=1785369600&v=beta&t=EQ9YjnscYrUMf1VxmR7nbUr6HFkY7pD4w_qKvDhRlt0"
+        },
+        {
+          "width": 1056,
+          "height": 264,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHdP6NtAsbNWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731821425092?e=1785369600&v=beta&t=z1i4iXEaHZoqbyIX4ez0nUQR-6agcGCbTNHGGhHZH5M"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 7 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Group Tech Lead, Senior Staff Software Engineer-L5, Commerce Platform Org",
+              "caption": "Aug 2024 - Present · 1 yr 5 mos",
+              "metadata": "Seattle, WA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for leading the technical strategy and execution across seven teams within the Commerce Platform organization, which powers the selling and billing systems behind nearly all of Yelp’s $1B+ annual revenue. \n\nLeads evaluation and execution of revenue-driving initiatives while ensuring alignment with broader company strategy and business objectives."
+                }
+              ]
+            },
+            {
+              "title": "Technical Lead, Senior Staff Software Engineer-L5, Billing Infrastructure Team",
+              "caption": "Dec 2023 - Aug 2024 · 8 mos",
+              "metadata": "Seattle, Washington, United States",
+              "description": []
+            },
+            {
+              "title": "Technical Lead, Staff Software Engineer, Billing Infrastructure Team",
+              "caption": "Mar 2021 - May 2024 · 3 yrs 2 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Engineering lead for a 2+ year multi-team and multi org project to revamp the billing and payments systems such that its GAAP compliant. The project involved 50+ people from 8 engineering teams, 11 stakeholder teams \n\n* Lead the team's technical vision and roadmap, ensuring its successful execution. The team is responsible for building and maintaining Yelp's Billing platform."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer, Commerce Core Team",
+              "caption": "May 2019 - Mar 2021 · 1 yr 10 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Software Engineer, Transactions Core Team",
+              "caption": "Feb 2018 - May 2019 · 1 yr 3 mos",
+              "metadata": "San francisco",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2812",
+          "companyUrn": "urn:li:fsd_company:2812",
+          "companyLink1": "https://www.linkedin.com/company/cerner-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGE9flTBMlYvA/company-logo_400_400/company-logo_400_400/0/1654690655851/cerner_corporation_logo?e=1785369600&v=beta&t=75re-0xB9mO250V9qGlS4DEp2CZgcVd5TKnEyMdREdE",
+          "title": "Software Engineer, Infrastructure frameworks",
+          "subtitle": "Cerner Corporation . undefined",
+          "caption": "Aug 2016 - Feb 2018 · 1 yr 6 mos",
+          "metadata": "Kansas City, Missouri",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Develop a centralized platform to build consistent and scalable APIs.\n• Develop and maintain Beadledom, which is a framework for building Java RESTful services. It bundles several open sourced components required for building JAX-RS services using Guice.\nGithub: https://github.com/cerner/beadledom"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2225",
+          "companyUrn": "urn:li:fsd_company:2225",
+          "companyLink1": "https://www.linkedin.com/company/verisign/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBueyZA-rM0Q/company-logo_100_100/B4EZm6Mmk3HoAQ-/0/1759765490277/verisign_logo?e=1785369600&v=beta&t=li8v_49jaJvpmI1xsfUAj8RyUHeacvGAjTXPAl0D808",
+          "title": "Summmer Intern, Network Operations",
+          "subtitle": "VERISIGN . undefined",
+          "caption": "May 2015 - Aug 2015 · 3 mos",
+          "metadata": "Reston, Virginia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Automated Border Gateway Protocol peer configuration on Verisign's routers\n• The tool generates Cisco and Juniper configurations for up to 70 routers all over the world and pushes them to the device\n• Reduced the process time from 3-4 days to a few minutes by eliminating errors and simplifying the workflow"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4734",
+          "companyUrn": "urn:li:fsd_company:4734",
+          "companyLink1": "https://www.linkedin.com/school/uarizona/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE14g3Bkn8dTQ/company-logo_400_400/company-logo_400_400/0/1630669454247/uarizona_logo?e=1785369600&v=beta&t=aZMHbL_jmkzAr_gOrUjOy6YIEBR-EiX0u5Vo_D51MeE",
+          "title": "Graduate Teaching Assistant",
+          "subtitle": "The University of Arizona . undefined",
+          "caption": "Aug 2014 - May 2015 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "August 2014- December 2014 -Software Engineering\nJanuary 2015- May 2015- Programming Mobile Devices"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "521777",
+          "companyUrn": "urn:li:fsd_company:521777",
+          "companyLink1": "https://www.linkedin.com/company/safran/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF12gJLvR-O3Q/company-logo_400_400/company-logo_400_400/0/1631345488529?e=1785369600&v=beta&t=BFI5XTVSrzwgJIPELS_Pry-zrcGPE0cUEHqchN4UKI0",
+          "title": "Software Development Intern",
+          "subtitle": "Safran . undefined",
+          "caption": "Jun 2013 - Jul 2013 · 1 mo",
+          "metadata": "Noida, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Independently developed a web portal using Java technologies to automate pre-sales procedures for bio-metric and security products."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1028",
+          "companyUrn": "urn:li:fsd_company:1028",
+          "companyLink1": "https://www.linkedin.com/company/oracle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1785369600&v=beta&t=-2jXKAmeScrST660DEvhikbsU_jlaW2xSt2n4cFthv0",
+          "title": "Oracle Certified Professional, Java SE 6 Programmer",
+          "subtitle": "Oracle",
+          "issued": "Issued Sep 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Awesome women in engineering ",
+          "subtitle": "Co-lead",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lingua Franca (literary society)",
+          "subtitle": "Vice President",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4734",
+          "companyUrn": "urn:li:fsd_company:4734",
+          "companyLink1": "https://www.linkedin.com/school/uarizona/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE14g3Bkn8dTQ/company-logo_400_400/company-logo_400_400/0/1630669454247/uarizona_logo?e=1785369600&v=beta&t=aZMHbL_jmkzAr_gOrUjOy6YIEBR-EiX0u5Vo_D51MeE",
+          "title": "University of Arizona",
+          "subtitle": "Master of Science (M.S.), Computer Science",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.7/4"
+            }
+          ]
+        },
+        {
+          "title": "JSS ACADEMY OF TECHNICAL EDUCATION, NOIDA",
+          "subtitle": "Bachelor of Technology (B.Tech.), Information Technology",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.8/4"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "1054980",
+          "companyUrn": "urn:li:fsd_company:1054980",
+          "companyLink1": "https://www.linkedin.com/company/shades-of-happiness/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHmUlxYjKvOQg/company-logo_400_400/company-logo_400_400/0/1694679435775?e=1785369600&v=beta&t=WQvzQXwPy7SsPPzLmpPShL0e2dMVoK9cXjV3VRvXWTY",
+          "title": "Volunteer",
+          "subtitle": "Shades of Happiness",
+          "caption": "Jan 2013 - Jan 2014 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Conference talk proposal Reviewer at Grace Hopper Conference",
+          "subtitle": "Apr 2023 - Jun 2023",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Review and score conference talk submissions. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaker at Yelping From Home",
+          "subtitle": "Oct 2022 - Oct 2022",
+          "subComponenets": []
+        },
+        {
+          "title": "Speaker at Wonder Women Tech Conference",
+          "subtitle": "Sep 2022 - Sep 2022",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Presentation on \"10 step recipe to a successful technical lead\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaker at WomenTech Global Conference 2022",
+          "subtitle": "Jun 2022 - Jun 2022",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Panel Speaker at WomenTech Global Conference"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reduction of Energy Consumption in Multi- Core Android Devices",
+          "subtitle": "Jan 2016 - Apr 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Arizona"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• Conservation of Energy is a serious issue in handheld devices and little has been done to optimize the energy usage of the cores in android devices\n• The project aims at increasing the battery life of android phones by optimizing the multi cores"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Skin Cancer Detection Android Application",
+          "subtitle": "Jan 2015 - Apr 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Arizona"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Android application to detect skin cancer and classify into its different types. The application uses image processing and symptom based inputs from the user to categorize cancer "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "University Walkthrough",
+          "subtitle": "Jan 2015 - Apr 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Arizona"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "A 3D graphical model of University of Arizona allows the user to move along the streets using the arrow keys. The campus is beautifully modeled, texture mapped and rendered using Opengl, to give a very realistic view to the users "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Virtual Software Router",
+          "subtitle": "Aug 2014 - Dec 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Arizona"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The router handles real time traffic using ARP, ICMP and IP forwarding. It also handles link failure by selecting the most appropriate alternate route using OSPF and  Dijkstra’s Algorithm to transmit packets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Semantically Linked Instructional Content",
+          "subtitle": "Aug 2014 - Sep 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Arizona"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The project uses the presentation slide to find the corresponding segment in a lecture video using SIFT, RANSAC and Homography"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Multiresolution textural feature selection for brain tumor analysis",
+          "subtitle": "Aug 2013 - Aug 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Segments the image using Active Contour Model and then classifies them into malignant or benign using Support Vector Machine. Also, analyzes the change in accuracy of results by varying the features in multiple resolutions and hence finding an optimal combination of features for efficient classification of tumors"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "E-mandi (Online Grocery Shop)",
+          "subtitle": "Aug 2012 - Aug 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Allows buying of grocery by choosing the best retailer in the nearby area with the most subsidized prices and high quality products. The team participated in “The Great Mind Challenge” competition conducted by IBM. The project qualified two rounds and was selected amongst the top teams in India"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

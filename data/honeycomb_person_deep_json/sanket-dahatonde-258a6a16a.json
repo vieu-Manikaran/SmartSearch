@@ -1,0 +1,366 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/sanket-dahatonde-258a6a16a",
+  "row_key": "id:003Uk00000ydDZ4IAM",
+  "person": "Sanket Dahatonde",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:50:03Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAChhQuQBtoW5JSopG8hvUawVBg_ImeJue-M",
+      "firstName": "Sanket",
+      "lastName": "Dahatonde",
+      "fullName": "Sanket Dahatonde",
+      "publicIdentifier": "sanket-dahatonde-258a6a16a",
+      "headline": "Immediate joiner  | ETL - Data\n\nAnalyst | Data Engineer | Azure (ADF,\n\nDatabricks) | SQL | Data Warehouse | Python |\n\nPySpark",
+      "about": "Data Analyst | Financial Data Specialist | Medallion Architecture•Data Analyst specializing in ETL testing and Medallion Architecture, ensuring 100% accurate and reliable financial data.•Experienced in validating end-to-end pipelines (WSO to Snowflake), enabling real-time insights, reducing data latency, and preventing multi-million dollar risks.•Skilled in SQL, Databricks, pyspark, and data quality frameworks with a strong focus on data integrity, scalability, and regulatory compliance.•Ensuring Financial Integrity: Validated automated ETL pipelines from WSO (Wall Street Office) to Snowflake, ensuring Portfolio Managers receive 100% accurate daily Cash and P&amp;L reports to drive critical investment decisions.• Certified the end-to-end integrity of the Bronze (Raw), Silver (Cleaned), and Gold (Business-Ready) layers, ensuring that the final reporting layer serves as a \"Single Version of Truth\" for all departments.• Experience in utilizing housekeeping column for monitoring the data changes and maintain data quality",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Pune Division, Maharashtra India",
+      "addressWithoutCountry": "Pune Division, Maharashtra",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHS-G0LtJ-eUw/profile-displayphoto-scale_100_100/B4DZk.AF1rH4Ag-/0/1757681836926?e=1785369600&v=beta&t=DgIWHA18LfBmLeinvOI_K5a4OnhEBJDcO90rjBuDaOM",
+      "profilePicAllDimensions": [
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHS-G0LtJ-eUw/profile-displayphoto-crop_800_800/B4DZk.AF1rH4AM-/0/1757681836820?e=1785369600&v=beta&t=z6LFRYCtoodxgI8ByLTxEql9CCR45bbsTrcTZDz2cos"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHS-G0LtJ-eUw/profile-displayphoto-scale_400_400/B4DZk.AF1rH4Ak-/0/1757681836926?e=1785369600&v=beta&t=XD4Cb7oF7tyOCP9zl5vIuj20OztK9i9qk0NNfHJyUWo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHS-G0LtJ-eUw/profile-displayphoto-scale_200_200/B4DZk.AF1rH4Ac-/0/1757681836926?e=1785369600&v=beta&t=Rh4V2B2qjiRKwFYuHwwSsWEkllKQ5VNo7jz3lKKZW_s"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHS-G0LtJ-eUw/profile-displayphoto-scale_100_100/B4DZk.AF1rH4Ag-/0/1757681836926?e=1785369600&v=beta&t=DgIWHA18LfBmLeinvOI_K5a4OnhEBJDcO90rjBuDaOM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Sr. Software Engineer ",
+          "subtitle": "Wipro . Full-time",
+          "caption": "Jun 2024 - Present · 1 yr 7 mos",
+          "metadata": "Pune District",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Ensuring Financial Integrity: Validated automated ETL pipelines from WSO (Wall Street Office) to Snowflake, ensuring Portfolio Managers receive 100% accurate daily Cash and P&L reports to drive critical investment decisions.\n• Architecting Data Trust via Medallion Framework: Certified the end-to-end integrity of the Bronze (Raw), Silver (Cleaned), and Gold (Business-Ready) layers, ensuring that the final reporting layer serves as a \"Single Version of Truth\" for all departments.\n• Mitigating Multi-Million Dollar Risk: Eliminated the risks of manual intervention and human error by auditing the logic for \"Amount to Pay\" calculations, preventing discrepancies that could lead to significant financial loss.\n• Enabling Real-Time Liquidity Management: Guaranteed the reliability of the Producer-Consumer architecture, reducing data latency from 48 hours to near real-time, allowing the firm to optimize daily cash-on-hand.\nStrengthening Regulatory Compliance: Established a robust audit trail by validating raw data persistence in the Bronze layer, providing regulators with clear data lineage for every figure in the P&L reports.\n• Driving Operational Scalability: Verified that the Databricks/Spark-based architecture handles increased transaction volumes and new Fund IDs seamlessly, allowing the business to scale without increasing operational headcount."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5240",
+          "companyUrn": "urn:li:fsd_company:5240",
+          "companyLink1": "https://www.linkedin.com/company/zs-associates/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRujsQ62c0qQ/company-logo_100_100/B56Z9Ca.MhGoAI-/0/1783525794831/zs_associates_logo?e=1785369600&v=beta&t=hRElzR8-TA-ig9491vR-OB_ucAHhm7LdZ5A7a5xZ1y0",
+          "title": "Data Analyst/ETL Tester ",
+          "subtitle": "ZS . Full-time",
+          "caption": "Dec 2023 - Jul 2024 · 7 mos",
+          "metadata": "Pune District",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Proficient in ETL testing using the Medallion architecture, showcasing strong understanding and application of its functionalities.  \n• Designed and executed comprehensive ETL test cases within the Medallion Framework, ensuring thorough coverage of data processes. • Validating the data through various stages and data movement from landing, Bronze, Silver and gold. \n• Experience in utilizing housekeeping column for monitoring the data changes and maintain data quality.  \n• Experience in utilizing MD5 for checksum generation and password hashing. \n• Utilized Medallion for rigorous data integrity verification, contributing to enhanced data quality assurance in ETL pipelines."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1539",
+          "companyUrn": "urn:li:fsd_company:1539",
+          "companyLink1": "https://www.linkedin.com/company/amdocs/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHTmm1bSli4uw/company-logo_100_100/B4DZx287bpHwAQ-/0/1771522210156/amdocs_logo?e=1785369600&v=beta&t=5DMfBDmrtj1FQiKYrrZFK9uVED1CqDtC-76yt5XwU5E",
+          "title": "ETL Tester",
+          "subtitle": "Amdocs . Full-time",
+          "caption": "Apr 2021 - Dec 2023 · 2 yrs 8 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Validate the data in various stages of data movement from source to staging and staging to Data warehouse tables. \n• Involve in writing complex queries using SQL for data integrity. • Designed and developed QA documents like test cases and test scenarios from business and functional requirement. \n• Validate the load process of ETL to make sure target tables are populated according to mapping document.\n• Expertise in transforming data into user friendly to give business user a complete view of their business using power BI. \n• Writing SQL queries using Case logic, intersect, Minus, Subqueries, View, Union and various Joins.\n• Implemented pipelines in Azure Data Factory to move data from the raw zone to the clean zone and ultimately into the Atomic Data model. \n• Managed defects using JIRA, including logging, tracking, and closure. \n• Developed and executed DDL and DML queries, as well as stored procedures for data manipulation."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "157240",
+          "companyUrn": "urn:li:fsd_company:157240",
+          "companyLink1": "https://www.linkedin.com/company/capgemini/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_200_200/B4EZokv7VQIUAI-/0/1761553135376/capgemini_logo?e=1785369600&v=beta&t=LYoEE0H7mVjOA0mBKeh2h96bocnQfAdq5DaE5R0PB60",
+          "title": "Associate Engineer",
+          "subtitle": "Capgemini . undefined",
+          "caption": "Mar 2019 - Apr 2021 · 2 yrs 1 mo",
+          "metadata": "India,Pune",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Analyzing data and writing SQL query to retrieve data from multiple tables.\n• Interact with client to provide best customer service, Worked on production issues.\n• Used SQL queries to validate as per the business requirement. Used SQL queries to generate reports as per\nrequirement.\n• Participate in root-cause analysis of recurring issues, system backup.\n• File processing using Unix commands and scripts.\n• Used Sed, AWK, tr commands for shell scripting. Create file systems and backup."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure Data Fundamentals",
+          "subtitle": "Microsoft",
+          "issued": "Issued Jul 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure Fundamentals",
+          "subtitle": "Microsoft",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Investment Banking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure Databricks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PySpark",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Mining",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ETL Tools",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Power bi",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Warehousing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure Data Factory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Extract, Transform, Load (ETL)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle Database",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Shell Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "c",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Putty",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8383728",
+          "companyUrn": "urn:li:fsd_company:8383728",
+          "companyLink1": "https://www.linkedin.com/school/prof-ram-meghe-institute-of-technology-&-research/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFMNymPGvlIlw/company-logo_400_400/company-logo_400_400/0/1670143267452?e=1785369600&v=beta&t=YzZ7pW6KyxwDWu3vyuBLRiVS2aZ9fqQhcZaW3tvXxjA",
+          "title": "Prof. Ram Meghe Institute of Technology & Research",
+          "subtitle": "Bachelor of Engineering, Electronics and Telecommunications",
+          "caption": "2014 - 2018",
+          "subComponents": []
+        },
+        {
+          "companyId": "15117209",
+          "companyUrn": "urn:li:fsd_company:15117209",
+          "companyLink1": "https://www.linkedin.com/school/sant-gadge-baba-amravati-university-amravati/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEUtzy8FXYDFw/company-logo_400_400/company-logo_400_400/0/1630579262045/sant_gadge_baba_amravati_university_amravati_logo?e=1785369600&v=beta&t=GueYUfdRirpNXLwwnuhrboCqlR3KcHwJ0lY0TKPunl4",
+          "title": "Sant Gadge Baba Amravati University, Amravati",
+          "subtitle": "Bachelor of Engineering - BE, Electronics and Telecommunications",
+          "caption": "2014 - 2018",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

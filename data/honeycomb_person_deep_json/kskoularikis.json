@@ -1,0 +1,594 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/kskoularikis",
+  "row_key": "id:0033l00002y6R6yAAE",
+  "person": "Konstantinos Skoularikis",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:12Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABZ6XEkBXjaxRokjetD31BSdT5YeZaB3nvU",
+      "firstName": "Konstantinos",
+      "lastName": "Skoularikis",
+      "fullName": "Konstantinos Skoularikis",
+      "publicIdentifier": "kskoularikis",
+      "headline": "Machine Learning Platform Engineer at Medtronic",
+      "about": "As a Machine Learning Platform Engineer at Medtronic, I design and maintain production-grade ML infrastructure on AWS, focusing on reliability, scalability, and operational excellence. My work encompasses the full spectrum of MLOps practices, from infrastructure provisioning using Infrastructure as Code to implementing robust CI/CD pipelines that enable data science teams to deploy models with confidence.My technical expertise includes cloud infrastructure management (AWS, EKS, Karpenter), container orchestration (Kubernetes, Helm), workflow automation (Metaflow, Argo), and comprehensive observability solutions (Prometheus, Grafana). I leverage these technologies to build resilient systems that support the entire machine learning lifecycle, from experimentation to production deployment.Beyond my professional work, I maintain a homelab environment where I explore infrastructure technologies including Proxmox for virtualization, OPNsense for network security, and K3s for lightweight Kubernetes deployments. This hands-on experience allows me to experiment with emerging technologies and deepen my understanding of systems administration.With an MSc in Artificial Intelligence from Queen Mary University of London and AWS Solutions Architect certification, I bridge the gap between machine learning research and production systems, ensuring ML workloads operate reliably at scale.I look forward to connecting with you here on LinkedIn or via email at konstantinos.skoularikis@gmail.com. I am always happy to share any information and resources regarding any question that may arise.Github: https://github.com/Skoularikis Portfolio: https://skoularikis.github.io/portfolio/",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFwp0RjO6dTKQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1622248801576?e=1785369600&v=beta&t=O8ku4VjhO39uT4FhLKBmh6O1tL3fsPdGp0_9uJ348vE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFwp0RjO6dTKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1622248801576?e=1785369600&v=beta&t=K8_tOF6ELM9PZXz7JZ6u4-UYK5gMwt_PsmMM-5X8uIk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFwp0RjO6dTKQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1622248801576?e=1785369600&v=beta&t=LSFKxA2sG_CNWNduUMRKdbAjOPBJOwe-MiaQZC1p9fA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFwp0RjO6dTKQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1622248801576?e=1785369600&v=beta&t=9VQbj5TsRq_ALrIl8OXFrMwpd7C06w8doMkWecnxzRg"
+        },
+        {
+          "width": 546,
+          "height": 546,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFwp0RjO6dTKQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1622248801576?e=1785369600&v=beta&t=O8ku4VjhO39uT4FhLKBmh6O1tL3fsPdGp0_9uJ348vE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Machine Learning Platform Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Nov 2021 - Present · 4 yrs 2 mos",
+          "metadata": "Greater London",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Develop new and maintain existing applications in our EKS clusters for different AWS accounts\n- Design and code (IaC - terraform/Terragrunt) new solutions from the perspective of the infrastructure team \n- Manage and monitor databases whilst ensuring the validity and security of the underlying data\n- Support product deployment by creating efficient pipelines and aiding ML engineers on resolving infrastructure-related issues on a daily basis\n- Maintain 2 widely used internal python libraries"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4999461",
+          "companyUrn": "urn:li:fsd_company:4999461",
+          "companyLink1": "https://www.linkedin.com/company/rdc-informatics/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEwB_8iRAkouQ/company-logo_100_100/B4DZ8n.wrYK8AI-/0/1783082191943/rdc_informatics_logo?e=1785369600&v=beta&t=wmyihq41OdWaPHcbCYcHKEzo316DvZciVrUsN_--75s",
+          "title": "Mobile Software Engineer",
+          "subtitle": "RDC Informatics . Full-time",
+          "caption": "Mar 2020 - Aug 2020 · 5 mos",
+          "metadata": "Greece",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•  Designed the architecture (MVVM) and created the application layers of two B2B mobile applications.\n•  Composed comprehensive reports and proposed new ways of improving existing development processes, resulting in significantly cleaner code."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11308257",
+          "companyUrn": "urn:li:fsd_company:11308257",
+          "companyLink1": "https://www.linkedin.com/company/hellenic-army-es/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQESrT_CnywVNw/company-logo_400_400/company-logo_400_400/0/1631315553403?e=1785369600&v=beta&t=JZ7xhu-BLYIblNUPwJ96grO7myVHiquuhaTZRDG2ikg",
+          "title": "Member of the Security for the Hellenic Army General Staff",
+          "subtitle": "Hellenic Army  . undefined",
+          "caption": "Jul 2019 - Mar 2020 · 8 mos",
+          "metadata": "Greece",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Fulfilled my mandatory military obligations as a male Greek citizen.\n\n• Ensured that safety regulations were implemented on a daily basis."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mobile Software Engineer",
+          "subtitle": "Pobuca . Full-time",
+          "caption": "Jul 2018 - Jul 2019 · 1 yr",
+          "metadata": "Greece",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•  Spearheaded the development of the company’s mobile application for iOS by making high-level design choices and performed unit tests to verify code quality during all stages of software development.\n•  Led iOS team which entailed designing, building and maintaining an internal Kanban board, exceeding demanding deadlines numerous times.\n•  Performed as team member on an agile team, following Scrum practices, as well as compiled and presented a report to executive management every two weeks, assuming managerial responsibilities.\n•  Created an SQLite database and implemented various background processes, making the application available in offline mode, which improved overall user experience and customer satisfaction.\n•  Supervised an intern, who eventually joined the company’s personnel as a front-end engineer."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "262695",
+          "companyUrn": "urn:li:fsd_company:262695",
+          "companyLink1": "https://www.linkedin.com/company/pobuca/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH6z_UtbfqKqw/company-logo_400_400/company-logo_400_400/0/1630654991897/pobuca_logo?e=1785369600&v=beta&t=Xs2T1KG_E8xZYvhVzeb7JxXm0U35DTdxYApdKTZV5ks",
+          "title": "Pobuca",
+          "subtitle": "Full-time · 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Mobile Software Developer",
+              "caption": "Feb 2018 - Jul 2018 · 5 mos",
+              "metadata": "Athens,Greece",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•  Developed a mobile application’s prototype after request from senior management, leading in the acquisition of a new customer.\n•  Migrated a complex mobile application from Ionic 1 to Ionic 2.0, lowering interactivity delays by 35% and application’s initial startup time to 1.3 seconds, and resolved bugs, facilitating senior employees’ busy schedule."
+                }
+              ]
+            },
+            {
+              "title": "Software Developer Intern",
+              "caption": "Nov 2017 - Feb 2018 · 3 mos",
+              "metadata": "Athens, Greece",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Nov 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1061689",
+          "companyUrn": "urn:li:fsd_company:1061689",
+          "companyLink1": "https://www.linkedin.com/company/kaggle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHiDW6e3lXmdw/company-logo_200_200/B4EZz2IQPcHgAI-/0/1773655885272/kaggle_logo?e=1785369600&v=beta&t=a_R7AcbhRgxblAh7pSIZTf-93Ptvw2Zou94weajpo5w",
+          "title": "Intermediate Machine Learning",
+          "subtitle": "Kaggle",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Python for Computer Vision with OpenCV and Deep Learning",
+          "subtitle": "Udemy",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1061689",
+          "companyUrn": "urn:li:fsd_company:1061689",
+          "companyLink1": "https://www.linkedin.com/company/kaggle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHiDW6e3lXmdw/company-logo_200_200/B4EZz2IQPcHgAI-/0/1773655885272/kaggle_logo?e=1785369600&v=beta&t=a_R7AcbhRgxblAh7pSIZTf-93Ptvw2Zou94weajpo5w",
+          "title": "Intro to Machine Learning",
+          "subtitle": "Kaggle",
+          "issued": "Issued Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1061689",
+          "companyUrn": "urn:li:fsd_company:1061689",
+          "companyLink1": "https://www.linkedin.com/company/kaggle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHiDW6e3lXmdw/company-logo_200_200/B4EZz2IQPcHgAI-/0/1773655885272/kaggle_logo?e=1785369600&v=beta&t=a_R7AcbhRgxblAh7pSIZTf-93Ptvw2Zou94weajpo5w",
+          "title": "Python",
+          "subtitle": "Kaggle",
+          "issued": "Issued Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "162797",
+          "companyUrn": "urn:li:fsd_company:162797",
+          "companyLink1": "https://www.linkedin.com/company/british-council/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/company-logo_400_400/0/1630560502099/british_council_logo?e=1785369600&v=beta&t=SdujIoraSPKeEFMlLA3rXU7domEDiYEqPwO888lAYNE",
+          "title": "IELTS Academic",
+          "subtitle": "British Council",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2516",
+          "companyUrn": "urn:li:fsd_company:2516",
+          "companyLink1": "https://www.linkedin.com/school/university-of-michigan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1785369600&v=beta&t=nuxmfWV_vBohDgi2Ge0IWqDQm-fM-C4bOVcsr3ZPVGA",
+          "title": "Certificate of Proficiency in English, University of Michigan",
+          "subtitle": "University of Michigan",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "411534",
+          "companyUrn": "urn:li:fsd_company:411534",
+          "companyLink1": "https://www.linkedin.com/company/goethe-institut/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEAUmE98bh11g/company-logo_400_400/company-logo_400_400/0/1631325698722?e=1785369600&v=beta&t=8ksMN4QEs9yaUxSs3scp4-mjWPwIka0b0U_Bazbrxhc",
+          "title": "Goethe-Zertifikat B1 Zertifikat Deutsch",
+          "subtitle": "Goethe-Institut e.V.",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Greek",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Prototyping",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure as code (IaC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Reducing Operating Costs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operative Dashboard",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Monitoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research Methods",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Helm Charts",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Repository Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Platform Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Argo",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Metaflow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "9911",
+          "companyUrn": "urn:li:fsd_company:9911",
+          "companyLink1": "https://www.linkedin.com/school/queen-mary-university-of-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEP4F_lVG4Fow/company-logo_400_400/company-logo_400_400/0/1690809151089/queen_mary_university_of_london_logo?e=1785369600&v=beta&t=bOYuEFgzY8t98UhU8KCXgad4Thw1o-W9nm0--woms6E",
+          "title": "Queen Mary University of London",
+          "subtitle": "Master's degree, Data Science Society, Technology Society, Coding Society",
+          "caption": "Sep 2020 - Sep 2021",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "88.6"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Master's Thesis: \n- Title: PathUTRNet: Prediction of signaling pathways and microRNA non-coding regions with deep learning\n- Considered for a scientific publication\n\nModules:\n• Artificial Intelligence in Games - 87.8\n• Advanced Robotics Systems (Robotics III) - 73.0\n• Neural Networks and NLP - 80.4\n• Machine Learning - 85.4\n• Information Retrieval - 82.9\n• Natural Language Processing - 94.8 \n• Data Mining - 92.6\n• Deep Learning and Computer Vision - 79.9"
+            }
+          ]
+        },
+        {
+          "companyId": "162571",
+          "companyUrn": "urn:li:fsd_company:162571",
+          "companyLink1": "https://www.linkedin.com/school/athens-university-of-economics-and-business/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHpAnK2G7c2yA/company-logo_200_200/B4DZvVFxGDI0AI-/0/1768806617924/athens_university_of_economics_and_business_logo?e=1785369600&v=beta&t=WsMRYjgnU8NMXWfvhZYGoSS76glaw-ndWlRFAuA2DLY",
+          "title": "Athens University of Economics and Business",
+          "subtitle": "Bachelor's degree, Management Sciene and Technology",
+          "caption": "2013 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Major: Information Systems and Technology\nMinor: E-business Management\n\nIndicative Courses:\n• Algorithms and Data Structures\n• Information Systems Implementation and Architecture\n• Database Management Systems\n• Business Intelligence and Big Data Analytics\n• Software Engineering: Selected Topics\n• Development of Internet and Cloud Computing Applications"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "PathUTRNet Prediction of signaling pathways and microRNA non-coding regions with deep learning - Master's thesis",
+          "subtitle": "Apr 2021 - Apr 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Queen Mary University of London"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "•  Composed of two deep learning models which combine CNN and RNN layers to predict miRNA untraslated region targets, signaling transduction pathways and the non-coding region itself of the interaction.\n•  Considered for a scientific publication."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deep Networks for Image Classification",
+          "subtitle": "Apr 2021 - Jul 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Queen Mary University of London"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• Improved the VGG, ResNet, GoogLeNet models by alternating their structure, implementing new training methods, and augmenting existing data..\n• Compiled a paper, describing extensively models' principles as well as the enhancements that were made."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Four Russians",
+          "subtitle": "Oct 2017 - Dec 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Athens University of Economics and Business"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Implementation of the algorithm of Four Russians in Python to:\n• Perform binary array multiplication\n• Find the transitional closure of a graph\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "StyleMe",
+          "subtitle": "Jul 2017 - Sep 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Athens University of Economics and Business"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "A social web application which offers a solution to people's problem concerning their appearance.\nCreated both the backend and frontend part  and also set the server's environment to match my needs and finally deployed the application.\n\nTechnologies used:\n•  Frontend: Angular 2\n•  Backend: Node.js, Express\n•  Database: Mongodb"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

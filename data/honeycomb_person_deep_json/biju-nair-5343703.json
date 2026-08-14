@@ -1,0 +1,386 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/biju-nair-5343703",
+  "row_key": "id:003Uk00000nZxsDIAS",
+  "person": "Biju Nair",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:41Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAACWTfgBtq44k2s46qgcZHFkk-0Ob1u9Zck",
+      "firstName": "Biju",
+      "lastName": "Nair",
+      "fullName": "Biju Nair",
+      "publicIdentifier": "biju-nair-5343703",
+      "headline": "Director of Cloud R&D | Cloud Innovation Leader | Former Technical Architect | Driving Scalable Cloud Solutions",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Fernando, California United States",
+      "addressWithoutCountry": "San Fernando, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGm30Jc5SNgGw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718233863412?e=1785369600&v=beta&t=8t_8_XCuUewbSZVTyNqZ8a8aA2i-q3Q630eb-8v40Dg",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGm30Jc5SNgGw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718225117770?e=1785369600&v=beta&t=MwDj-VWb91adBXgNVLkWRLH90ktJ-SXuCSMOYICPVa0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGm30Jc5SNgGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718220997531?e=1785369600&v=beta&t=nijBQ9RFST1eubcBYhZg7q5O37817PiVM4QHDevw2ms"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGm30Jc5SNgGw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718226766132?e=1785369600&v=beta&t=MxuhZZlcjBs11uEDnLshn3QGTQrB_xLOgOcXDWb-uHI"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGm30Jc5SNgGw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718233863412?e=1785369600&v=beta&t=8t_8_XCuUewbSZVTyNqZ8a8aA2i-q3Q630eb-8v40Dg"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 18 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director Cloud R&D",
+              "caption": "Jun 2024 - Present · 1 yr 7 mos",
+              "metadata": "Los Angeles, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Director Cloud R&D"
+                }
+              ]
+            },
+            {
+              "title": "Distinguished Engineer",
+              "caption": "Jul 2021 - Aug 2024 · 3 yrs 1 mo",
+              "metadata": "California, United States",
+              "description": []
+            },
+            {
+              "title": "Sr Principal Software Engineer",
+              "caption": "Nov 2017 - Jul 2021 · 3 yrs 8 mos",
+              "metadata": "California, United States",
+              "description": []
+            },
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Jun 2012 - Nov 2017 · 5 yrs 5 mos",
+              "metadata": "Greater Los Angeles Area",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2007 - May 2012 · 5 yrs 3 mos",
+              "metadata": "Greater Los Angeles Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3336",
+          "companyUrn": "urn:li:fsd_company:3336",
+          "companyLink1": "https://www.linkedin.com/company/covansys/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHONMrKYbPHQw/company-logo_400_400/company-logo_400_400/0/1631319443556?e=1785369600&v=beta&t=OSqJgjtWOFLCUXcWg6pdp_CG_Gvxw1ISf8Og2s7BDHM",
+          "title": "Architect",
+          "subtitle": "Covansys . Full-time",
+          "caption": "Jul 2006 - Feb 2007 · 7 mos",
+          "metadata": "Greater Los Angeles Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Tech Lead",
+          "subtitle": "Wipro Technologies . Full-time",
+          "caption": "Nov 2002 - Jul 2006 · 3 yrs 8 mos",
+          "metadata": "Greater Los Angeles Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "subtitle": "MobiApps . Full-time",
+          "caption": "Jun 2002 - Nov 2002 · 5 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Malayalam",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tamil",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Patterns",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Big Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Service-Oriented Architecture (SOA)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Lambda",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon S3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS CloudFormation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Kinesis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon CloudWatch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "9875665",
+          "companyUrn": "urn:li:fsd_company:9875665",
+          "companyLink1": "https://www.linkedin.com/school/university-of-madras/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFnYPDIXmEmVA/company-logo_400_400/company-logo_400_400/0/1631385709034?e=1785369600&v=beta&t=MROWUN_ctY-pErs1MRMh6dRsiMxkvP0rNM8NJnJXSzg",
+          "title": "University of Madras",
+          "subtitle": "Master of Computer Applications, Computer Science",
+          "caption": "1996 - 1999",
+          "subComponents": []
+        },
+        {
+          "companyId": "1483508",
+          "companyUrn": "urn:li:fsd_company:1483508",
+          "companyLink1": "https://www.linkedin.com/school/university-of-kerala/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHKfUkGpKRKEw/company-logo_400_400/company-logo_400_400/0/1631314535143?e=1785369600&v=beta&t=EpcidEwQDSaKJUgcjmjfrlgsyWNrR8l58Ivl1pfaz4M",
+          "title": null,
+          "subtitle": "BSc, Physics",
+          "caption": "1993 - 1996",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

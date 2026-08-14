@@ -1,0 +1,763 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/shen-ks",
+  "row_key": "id:003Uk00000zbjXiIAI",
+  "person": "Shen Ks",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:21:06Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAMioRgBAaoZrlvFNER6wN0HqYUXtZo8GRE",
+      "firstName": "Shen",
+      "lastName": "KS",
+      "fullName": "Shen KS",
+      "publicIdentifier": "shen-ks",
+      "headline": "Engineering Manager | Distributed MicroServices & Cloud Architecture, AWS Cloud, Java/J2EE, C, C++, Python | Embedded Software/Firmware Verification and Validation on Class - II and III Medical Devices | MBA | MS - ECE",
+      "about": "Highly experienced Engineering Leader / Architect / Manager with 17+ years driving innovation and success across Insurtech, Banking (ISO 20022), and Healthcare sectors. Proven expertise in full-stack Development, bottleneck diagnosis, cloud migration. Adept at leading global teams, implementing Agile/SAFe methodologies, and delivering high-impact performance improvements.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Minneapolis-St. Paul Area United States",
+      "addressWithoutCountry": "Greater Minneapolis-St. Paul Area",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQHv-qxATnN53A/profile-displaybackgroundimage-shrink_350_1400/B56Z7yaaaMIUAY-/0/1782183470982?e=1785369600&v=beta&t=qkAlOrzkLAMR9vO9FQ_JmzrWgFsnLVFa47u-vhgswa4",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHv-qxATnN53A/profile-displaybackgroundimage-shrink_200_800/B56Z7yaaaMIUAU-/0/1782183470982?e=1785369600&v=beta&t=LPuAestfy3eC97VpHaxQ-v0KQXNNa8Wm6ztUaCRZyw0"
+        },
+        {
+          "width": 910,
+          "height": 227,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHv-qxATnN53A/profile-displaybackgroundimage-shrink_350_1400/B56Z7yaaaMIUAY-/0/1782183470982?e=1785369600&v=beta&t=qkAlOrzkLAMR9vO9FQ_JmzrWgFsnLVFa47u-vhgswa4"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Engineering Manager",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jun 2025 - Present · 7 mos",
+          "metadata": "Minneapolis, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "162929",
+          "companyUrn": "urn:li:fsd_company:162929",
+          "companyLink1": "https://www.linkedin.com/company/ccc-intelligent-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGcBHOPH5xitQ/company-logo_400_400/company-logo_400_400/0/1630638305292/ccc_information_services_logo?e=1785369600&v=beta&t=5wxwB2msbDGDaKhwlcSTHSeGRJXMAo7kf2QukJdGjoY",
+          "title": "CCC Intelligent Solutions",
+          "subtitle": "Full-time · 11 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineering Manager",
+              "caption": "Mar 2022 - Apr 2025 · 3 yrs 1 mo",
+              "metadata": "Chicago, Illinois",
+              "description": []
+            },
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Oct 2013 - Mar 2022 · 8 yrs 5 mos",
+              "metadata": "Chicago, Illinois",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1283",
+          "companyUrn": "urn:li:fsd_company:1283",
+          "companyLink1": "https://www.linkedin.com/company/infosys/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=1785369600&v=beta&t=wXRFwA1J0ChIKomgw78pxANBndJFiDxiGowP-7KcIos",
+          "title": "Associate Manager Information Technology",
+          "subtitle": "Infosys . Full-time",
+          "caption": "Feb 2013 - Oct 2013 · 8 mos",
+          "metadata": "Charlotte, North Carolina",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Led the development and implementation of a scalable Managed IT solution, streamlining support processes and reducing overall incident response time by 15% through strategic engineering management and process automation.\n- Oversaw contract and vendor management, ensuring seamless collaboration with external partners to optimize service-level agreements (SLAs) and drive cost-effective implementation planning.\n- Analyzed performance data and implemented service improvements, optimizing resource allocation and reducing cycle times for incident response by 30%, improving overall system efficiency.\n- Reduced system downtime by 30% by implementing proactive incident management strategies, enhancing response times, and refining communication protocols across teams and vendors.\n- Ensured the quality and success of IT transformation projects, achieving a 95% post-deployment issue resolution rate, elevating system reliability standards, and ensuring seamless end-to-end implementation.\n- Leveraged performance metrics and data visualization tools (Tableau) to enhance operational efficiencies, resulting in a 25% reduction in service delivery time over six months."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1033",
+          "companyUrn": "urn:li:fsd_company:1033",
+          "companyLink1": "https://www.linkedin.com/company/accenture/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEgtOEcxlXMog/company-logo_400_400/B4DZfqEQWkHAAg-/0/1751978673981/accenture_logo?e=1785369600&v=beta&t=ZlLVUNSvG5btIHNoXi_46VtOW4dm-uNZJDxBEBFgwUI",
+          "title": "Analyst Programmer",
+          "subtitle": "Accenture . Full-time",
+          "caption": "Apr 2008 - Jan 2013 · 4 yrs 9 mos",
+          "metadata": "Los Angeles, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Led the performance modernization of a legacy healthcare supply chain system, delivering a scalable and resilient solution that streamlined operations, enhanced the customer experience, and improved IT infrastructure architecture.\n- Analyzed and optimized SQL queries and batch jobs, reducing the execution time of a critical ETL process from 8 hours to 3.5 hours, improving data processing efficiency and overall system performance.\n- Designed and implemented optimized database indexes, ensuring 100% system availability and enabling seamless nightly batch job processing for mission-critical operations.\n- Conducted Accenture Learning Academy Technical Training programs, enhancing employee skills and operational efficiency across cross-functional teams.\n- Designed custom tools to identify application usage patterns and anomaly detection for creating user personas.\n- Developed a Java plugin for WebSphere 6.0 Application Server, earning recognition in an \"IBM Hackathon 2011\" for innovation and technical excellence.\n- Effectively communicated technical solutions to both technical and non-technical stakeholders, demonstrating strong verbal communication and strategic thinking to drive consensus and successful project execution."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "3846",
+          "companyUrn": "urn:li:fsd_company:3846",
+          "companyLink1": "https://www.linkedin.com/school/purdue-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_400_400/company-logo_400_400/0/1630626191299/purdue_university_logo?e=1785369600&v=beta&t=QZSSFofThKA0q4lk_yrQqGRF4sCHdSbyBWemoazDY_o",
+          "title": "Post Graduate Program in AI and Machine Machine Learning",
+          "subtitle": "Purdue University",
+          "issued": "Issued Apr 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Foundation Models and Generative AI Platforms",
+          "subtitle": "Simplilearn",
+          "issued": "Issued Mar 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI Essentials",
+          "subtitle": "Simplilearn",
+          "issued": "Issued Mar 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PC AIML - Machine Learning",
+          "subtitle": "Purdue University - Simplilearn",
+          "issued": "Issued Mar 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified AI Practitioner Early Adopter",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jan 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3556",
+          "companyUrn": "urn:li:fsd_company:3556",
+          "companyLink1": "https://www.linkedin.com/school/boston-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFBK74krMig1Q/company-logo_400_400/company-logo_400_400/0/1631319084422?e=1785369600&v=beta&t=tgTw_1FsbFXMcnqiqQHX6AfFxJO4wionmkWKuuyHO7Q",
+          "title": "Master of Business Administration",
+          "subtitle": "Boston University",
+          "issued": "Issued Aug 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1784",
+          "companyUrn": "urn:li:fsd_company:1784",
+          "companyLink1": "https://www.linkedin.com/company/boston-consulting-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFRjmUd2-ll4A/company-logo_100_100/B4EZ50Ww6wG0AM-/0/1780068585403/boston_consulting_group_logo?e=1785369600&v=beta&t=Wv_CLv1Vxc7KKd8MVlqxZUm-LxxFH2FvCETfZq_x1i8",
+          "title": "Introduction to Strategy Consulting - Virtual Experience Program",
+          "subtitle": "Boston Consulting Group (BCG)",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Verified Certificate for SRE Fundamentals and Security on IBM Cloud",
+          "subtitle": "edX",
+          "issued": "Issued Jan 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "13120",
+          "companyUrn": "urn:li:fsd_company:13120",
+          "companyLink1": "https://www.linkedin.com/school/universidad-carlos-iii-de-madrid/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQELWMfr_IILrw/company-logo_200_200/B4EZ82d54bIAAE-/0/1783325237297/universidad_carlos_iii_de_madrid_logo?e=1785369600&v=beta&t=koh6oX89H3QjlmplUQI9EB2jjXhVrwsmEijFSwvDdaY",
+          "title": " Introduction to Java Programming ",
+          "subtitle": "Universidad Carlos III de Madrid",
+          "issued": "Issued Dec 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "IBM Cloud Computing Core",
+          "subtitle": "edX",
+          "issued": "Issued Sep 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1646",
+          "companyUrn": "urn:li:fsd_company:1646",
+          "companyLink1": "https://www.linkedin.com/school/harvard-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1785369600&v=beta&t=6UPT13bAXUu-uQx_8cGFJw9Nt7RqPUoqd11BgbPysyI",
+          "title": "Disruptive Strategy",
+          "subtitle": "Harvard University",
+          "issued": "Issued Mar 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1646",
+          "companyUrn": "urn:li:fsd_company:1646",
+          "companyLink1": "https://www.linkedin.com/school/harvard-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1785369600&v=beta&t=6UPT13bAXUu-uQx_8cGFJw9Nt7RqPUoqd11BgbPysyI",
+          "title": "Data Science: R Basics ",
+          "subtitle": "Harvard University",
+          "issued": "Issued Dec 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Verified Certificate for Data Science: R Basics",
+          "subtitle": "edX",
+          "issued": "Issued Dec 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1033",
+          "companyUrn": "urn:li:fsd_company:1033",
+          "companyLink1": "https://www.linkedin.com/company/accenture/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEgtOEcxlXMog/company-logo_400_400/B4DZfqEQWkHAAg-/0/1751978673981/accenture_logo?e=1785369600&v=beta&t=ZlLVUNSvG5btIHNoXi_46VtOW4dm-uNZJDxBEBFgwUI",
+          "title": "Accenture Certified Wireless Practitioner",
+          "subtitle": "Accenture",
+          "issued": "Issued Apr 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1503",
+          "companyUrn": "urn:li:fsd_company:1503",
+          "companyLink1": "https://www.linkedin.com/school/mit/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1785369600&v=beta&t=ip1ak3MnQl3lIj_KFAtKCZhF8m6qZMxbGFGrduplNGs",
+          "title": "Application Test Solution Designer",
+          "subtitle": "Massachusetts Institute of Technology",
+          "issued": "Issued Sep 2009",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM Certified - Solution Designer for Java",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2009",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Apr 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Accenture Certified Wireless Practitioner",
+          "subtitle": "Issued by Accenture",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Certification received for my curriculum knowledge on the following areas :\nWireless Technologies, TCP/IP :mobile IP and IP mobility, Wireless LAN, UMTS, 3g Comm Systems, CDMA 2000 1xRTT, 1xEvolution, Advanced Wireless and 4G, LTE ,WiMax, Mobile architecture, Mobile Data and Applications. Smart Grid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "IBM Developer Superstar 2011",
+          "subtitle": "Issued by IBM Developer Works",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "IBM Developer Works - 1st runner - Developer Super Star 2011 for my Performance Engineering paper - Applied Statistics Based Performance Prediction Model"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Accenture Products - SuperStar 2010",
+          "subtitle": "Issued by Accenture",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Excellent Delivery on PHI / PII Security Implementations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Accenture Star Performer",
+          "subtitle": "Issued by Accenture",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Excellent Delivery on Product Solution Design - for re-engineering a legacy system to meet performance expectations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Accenture Star Performer",
+          "subtitle": "Issued by Accenture",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Excellent Delivery on Performance baselining, benchmarking, SLA determination, Performance regression solution design activities for a Healthcare Client"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Natural Language Processing (NLP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Advanced Generative AI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Deep Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firmware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JBoss Application Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Proof of Concept",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Application Programming Interfaces (API)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Adobe Experience Manager (AEM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quarkus",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Splunk",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Dynatrace",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile/SAFe Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JUnit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Representational State Transfer (REST)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3556",
+          "companyUrn": "urn:li:fsd_company:3556",
+          "companyLink1": "https://www.linkedin.com/school/boston-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFBK74krMig1Q/company-logo_400_400/company-logo_400_400/0/1631319084422?e=1785369600&v=beta&t=tgTw_1FsbFXMcnqiqQHX6AfFxJO4wionmkWKuuyHO7Q",
+          "title": "Boston University",
+          "subtitle": "Master of Business Administration - MBA, Strategy, Finance, Operations",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "9220773",
+          "companyUrn": "urn:li:fsd_company:9220773",
+          "companyLink1": "https://www.linkedin.com/school/onlinehbs/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSIL8O8qpfVw/company-logo_400_400/company-logo_400_400/0/1640264247543/onlinehbs_logo?e=1785369600&v=beta&t=HxqpwrkTsqdk9qitQC2m_BhAbZkYQrBOwE4I6m9y0Ls",
+          "title": "Harvard Business School Online",
+          "subtitle": "Certification, Management Strategy",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Activities and Societies: Electronics Engineering, Computer Architecture, Algorithms, Computer Applications, Networks and Circuits"
+            }
+          ]
+        },
+        {
+          "companyId": "1646",
+          "companyUrn": "urn:li:fsd_company:1646",
+          "companyLink1": "https://www.linkedin.com/school/harvard-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1785369600&v=beta&t=6UPT13bAXUu-uQx_8cGFJw9Nt7RqPUoqd11BgbPysyI",
+          "title": "Harvard University",
+          "subtitle": "Data Science, R Studio, Python programming. Statistical concepts - probability, inference, and modeling and how to apply them in practice. Gain experience with the tidyverse, including data visualization with ggplot2 and data wrangling with dplyr. Become familiar with essential tools for practicing data scientists such as Unix/Linux, git and GitHub, and RStudio. Implement machine learning algorithms.",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "82%"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Data science micro masters program. Focusing on statistics, vector selection, PCA, using R to do the analysis, Machine learning algorithms."
+            }
+          ]
+        },
+        {
+          "companyId": "1503",
+          "companyUrn": "urn:li:fsd_company:1503",
+          "companyLink1": "https://www.linkedin.com/school/mit/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1785369600&v=beta&t=ip1ak3MnQl3lIj_KFAtKCZhF8m6qZMxbGFGrduplNGs",
+          "title": "Massachusetts Institute of Technology",
+          "subtitle": "Solution Designer - Online Program, Information Technology",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A+"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Principles and Practices of good software solution design. Strategy for managing changes and sustaining quality in software development practice."
+            }
+          ]
+        },
+        {
+          "companyId": "100176703",
+          "companyUrn": "urn:li:fsd_company:100176703",
+          "companyLink1": "https://www.linkedin.com/school/annauniversity-chennai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHUHJVQ0ySurw/company-logo_400_400/company-logo_400_400/0/1698329692568?e=1785369600&v=beta&t=daENC89RyF2LIDq9qh4F2ar-e8YfJqsMoyBi3XS8tQA",
+          "title": "Anna University",
+          "subtitle": "Bachelor's of Engineering, Electronics and Communications Engineering",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "91%"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Electronics Engineering, Computer Architecture, Algorithms, Computer Applications, Networks and Circuits"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "BLE-Enabled Secure Medical Patch for Vitals Monitoring",
+          "subtitle": "Jul 2025 - Jul 2025",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Build a prototype firmware for a wearable BLE-enabled medical patch that monitors vital signs (e.g., heart rate, body temperature), securely transmits data to a mobile app, and complies with medical device standards.\n\n\n    Initialize a simulated BLE stack.\n    Read mock sensor data (heart rate, temperature).\n    Use a basic RTOS-like loop to schedule tasks.\n    Simulate secure data transmission.\n\nFirmware Development\nBluetooth Low Energy (BLE)\nEmbedded Systems\nCybersecurity for Medical Devices\nReal-Time Operating Systems (RTOS)\nDebugging and Testing\nMedical Device Firmware\nISO 13485 Compliance\nIEC 62304 Compliance\nDevice Connectivity\nLow-Power Wireless Communication"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Distributed-Order-Processing-System",
+          "subtitle": "Mar 2025 - Mar 2025",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Order Placement (AEM/Angular/Node.js):\n    A user places an order through an AEM-powered website with an Angular frontend.\n    Node.js will be used for backend logic within the frontend, if needed.\n    This component will send the order details as a REST request to the Order Service.\n\nOrder Service (SpringBoot/Quarkus):\n    This service will receive orders via REST API.\n    It will be implemented using both SpringBoot and Quarkus to compare and contrast.\n    It will validate the order, persist it to a database, and publish an \"Order Created\" event to Kafka.\n\nInventory Service (SpringBoot):\n    This service will consume the \"Order Created\" event from Kafka.\n    It will check if the items in the order are in stock.\n    If in stock, it will update the inventory and publish an \"Inventory Updated\" event to IBM MQ.\n    If out of stock, it will publish an \"Inventory Out of Stock\" event to IBM MQ.\n\nPayment Service (Quarkus):\n    This service will consume events from IBM MQ.\n    It will process payments using a simulated payment gateway.\n    It will publish a \"Payment Processed\" event to Kafka.\n\nShipping Service (SpringBoot):\n    This service will consume the \"Payment Processed\" event from Kafka.\n    It will generate shipping labels and update the order status.\n    It might use a SOAP web service to interact with a simulated shipping provider.\n\nMonitoring and Logging:\n    All services will log events to Splunk.\n    Dynatrace will be used for performance monitoring and tracing.\n    Bluetriangle will be used to monitor the user experience from the frontend perspective.\n\nCI/CD and Testing:\n    Junit will be used for unit and integration testing.\n    A CI/CD pipeline will be set up to automate testing and deployment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "JavaDev",
+          "subtitle": "Mar 2017 - Mar 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Some interesting Java projects "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subtitle": "",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

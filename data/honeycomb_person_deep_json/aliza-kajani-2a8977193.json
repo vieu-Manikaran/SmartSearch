@@ -1,0 +1,387 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/aliza-kajani-2a8977193",
+  "row_key": "id:003Uk00000yfMfVIAU",
+  "person": "Aliza Kajani",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:13Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAC2HA-AB1l_Rqo0nxHhV3cLjInAXoln5KL0",
+      "firstName": "Aliza",
+      "lastName": "Kajani",
+      "fullName": "Aliza Kajani",
+      "publicIdentifier": "aliza-kajani-2a8977193",
+      "headline": "Senior Embedded Software Engineer at Medtronic - Surgical Robotics",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York City Metropolitan Area United States",
+      "addressWithoutCountry": "New York City Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQG8wRCCbXKYpA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594428625285?e=1785369600&v=beta&t=8Lel6ZDY0MDSNRZtHOlRAUOcov06OTFKCxlGGkgL-no",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG8wRCCbXKYpA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594428625285?e=1785369600&v=beta&t=ByRXADBm93vbD2SZG9hD3VQG_2Ryx6TL3cfAH8k59Tw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG8wRCCbXKYpA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594428625285?e=1785369600&v=beta&t=kslgXJP-_Ty6FdJOeb_Epvo7Qi_ehd1Dij-Chl4QfVQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG8wRCCbXKYpA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594428625285?e=1785369600&v=beta&t=ZwwjkUh6jyT_7Jxjg7DjdpsfMp6m9M16ch4GSwHdgPc"
+        },
+        {
+          "width": 526,
+          "height": 526,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG8wRCCbXKYpA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594428625285?e=1785369600&v=beta&t=8Lel6ZDY0MDSNRZtHOlRAUOcov06OTFKCxlGGkgL-no"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 5 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Embedded Software Engineer",
+              "caption": "Jun 2025 - Present · 7 mos",
+              "description": []
+            },
+            {
+              "title": "Embedded Software Engineer II, Surgical Robotics",
+              "caption": "Dec 2021 - Jun 2025 · 3 yrs 6 mos",
+              "metadata": "North Haven, Connecticut, United States",
+              "description": []
+            },
+            {
+              "title": "Embedded Software Engineer I, Surgical Robotics",
+              "caption": "Jun 2020 - Dec 2021 · 1 yr 6 mos",
+              "metadata": "North Haven, Connecticut, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10456657",
+          "companyUrn": "urn:li:fsd_company:10456657",
+          "companyLink1": "https://www.linkedin.com/company/blur-product-development/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQELy99MVclpug/company-logo_400_400/company-logo_400_400/0/1650999583727/blur_product_development_logo?e=1785369600&v=beta&t=Hv0urJoDv7UBov9-bBC-1Nj4nfctDS6G9GhM1xVG440",
+          "title": "Electrical Engineering Intern",
+          "subtitle": "Blur Product Development . Internship",
+          "caption": "May 2019 - Aug 2019 · 3 mos",
+          "metadata": "Cary, North Carolina",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tPerformed verification and validation testing and safety circuit debugging for a caloric intake neurostimulation device\n•\tDesigned and populated an LED board prototype with brightness control for surgical goggles \n•\tReengineered and analyzed frequency response of a matching network designed to maximize power transfer for an ultrasound transducer using Altium’s SPICE tool for circuit simulation \n•\tProgrammed a display shield to output quantitative test results in C using PSoC Creator/Programmer"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Research Engineer",
+          "subtitle": "Duke University School of Medicine Department of Neurobiology - Glickfeld Lab . Internship",
+          "caption": "Jun 2018 - Jul 2018 · 1 mo",
+          "metadata": "Raleigh-Durham, North Carolina Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tDesigned an audio-reactive LED circuit to visually record the time of an audio stimulus to determine whether a significant delay between audio signal transmission and reception was present \n•\tAnalyzed behavioral data gathered from visual/auditory signal tests on mice regarding visual cortex activity in response to external stimuli with MATLAB and mWorks"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "555826",
+          "companyUrn": "urn:li:fsd_company:555826",
+          "companyLink1": "https://www.linkedin.com/company/berlin-heart-gmbh/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHaWT81eI3BDA/company-logo_200_200/B4DZ6683gdGYAE-/0/1781252978925/berlin_heart_gmbh_logo?e=1785369600&v=beta&t=gtFTurJ1a3-WSCs5izJoacOjhM25EMhtsE7_Al4zlTo",
+          "title": "Intern",
+          "subtitle": "Berlin Heart GmbH . Internship",
+          "caption": "May 2016 - Aug 2016 · 3 mos",
+          "metadata": "The Woodlands, Texas",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tStudied the design to market process of the EXCOR Pediatric Ventricular Assist Device (VAD), designed to maintain cardiac function and serve as a bridge to cardiac transplantation in pediatric patients\n•\tWorked closely with the service engineers to maintain the Ikus driving units which are used to pump the VAD \n•\tReviewed complaint forms from various hospitals using the VAD"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "Certified SAFe® 5 Practitioner",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Dec 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Pratt School of Engineering Dean's List",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Github",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scaled Agile Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jira",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microcontrollers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Universal Asynchronous Receiver/Transmitter (UART)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "I2C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "EtherCAT",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Verification and Validation (V&V)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Printed Circuit Board (PCB) Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Circuit Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Signal Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Altium Designer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Soldering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3356",
+          "companyUrn": "urn:li:fsd_company:3356",
+          "companyLink1": "https://www.linkedin.com/school/duke-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_200_200/B56ZbZv8i_H4AI-/0/1747409948261?e=1785369600&v=beta&t=v1t5eI_X6vKEc6gdGgGn1aNJdgscytTc794p22rfIgg",
+          "title": "Duke University",
+          "subtitle": "Bachelor's of Science in Engineering (BSE), Duke Biomedical Engineering Design Fellows, Duke Technology (DTech) Scholars, Tau Beta Pi, Duke Ski & Snowboard Team, Delta Gamma",
+          "caption": "2016 - 2020",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Blood Services Committee Chair",
+          "subtitle": "Duke Red Cross",
+          "caption": "Aug 2017 - May 2019 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Duke BME Design Fellows - Respiratory Muscle Trainer",
+          "subtitle": "Jan 2019 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Duke University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Selected to participate in a three-semester intensive biomedical engineering design fellowship, focused on gaining practical medical device design experience and building technical skills, including PCB design and CAD modeling. Working with Dr. Harrison Jones at Duke Hospital and a team of fellows to design a next generation respiratory therapy device. Constructed a stand-alone spirometry device with a user-friendly interface, that is capable of measuring and reporting a variety of respiratory parameters. Designed a circuit to filter and amplify the signal from a screen-type pneumotach using an instrumentation amplifier. Performed a statistical analysis for internal consistency and inter-device reliability."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

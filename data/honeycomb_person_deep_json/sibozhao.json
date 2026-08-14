@@ -1,0 +1,342 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sibozhao",
+  "row_key": "id:003Uk00000xfprSIAQ",
+  "person": "Sibo Zhao",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADZfpkBsHwQyubItz6uansx6IqP0N8Fy1c",
+      "firstName": "Sibo",
+      "lastName": "Zhao",
+      "fullName": "Sibo Zhao",
+      "publicIdentifier": "sibozhao",
+      "headline": "Director of Product at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHT0i-ft9O5Tg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517710124714?e=1785369600&v=beta&t=TnctYNMQ5qlIfrnjeNwfaaRcF0jkKHcSBSI5AQ11-Bk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHT0i-ft9O5Tg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517710124748?e=1785369600&v=beta&t=6v6g-28t5B_TzequMPm7-83BzZB0Ednxi0G-JWYsiz4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHT0i-ft9O5Tg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517710124819?e=1785369600&v=beta&t=X7Na7ZOyLc0sxCThDZx6jcwApDndtiNTwmPUW2w-O7M"
+        },
+        {
+          "width": 253,
+          "height": 253,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHT0i-ft9O5Tg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517710124627?e=1785369600&v=beta&t=BJwgf-gD0nDi2WfWyzXimH4h4tZHRUTMPFHpyhwAfUQ"
+        },
+        {
+          "width": 253,
+          "height": 253,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHT0i-ft9O5Tg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517710124714?e=1785369600&v=beta&t=TnctYNMQ5qlIfrnjeNwfaaRcF0jkKHcSBSI5AQ11-Bk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Director, Product Management",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Dec 2020 - Present · 5 yrs 1 mo",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Ecosystem growth\n\nPreviously\n- Fortnite monetization\n- Creator economy"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "824768",
+          "companyUrn": "urn:li:fsd_company:824768",
+          "companyLink1": "https://www.linkedin.com/company/lookout/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHHkSYVMvW1CA/company-logo_400_400/company-logo_400_400/0/1688233184501/lookout_logo?e=1785369600&v=beta&t=za3WHJUhfPqfTyyp9rETPwZvlGrpAadWXrX0hzebgPg",
+          "title": "Director of Product",
+          "subtitle": "Lookout . undefined",
+          "caption": "Nov 2015 - Nov 2020 · 5 yrs",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led product team for the Consumer and Carrier Partner (i.e. large global telecom companies) business lines"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1093828",
+          "companyUrn": "urn:li:fsd_company:1093828",
+          "companyLink1": "https://www.linkedin.com/company/hipmunk/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEwDOsgSI0jPQ/company-logo_400_400/company-logo_400_400/0/1630581980356/hipmunk_logo?e=1785369600&v=beta&t=jbNdSvI7vNkNG_2BWFKgY1n3bPoYcbGJiVIUx4X-ndQ",
+          "title": "Mobile Product Lead",
+          "subtitle": "Hipmunk . undefined",
+          "caption": "Mar 2015 - Nov 2015 · 8 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Drove overall mobile strategy and roadmap, built new mobile product vertical"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "167907",
+          "companyUrn": "urn:li:fsd_company:167907",
+          "companyLink1": "https://www.linkedin.com/company/zynga/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYQJRpdWIV3A/company-logo_400_400/company-logo_400_400/0/1696360009849/zynga_logo?e=1785369600&v=beta&t=I9eCX7uhjabfovDwcBR4LXtxdlCAAHDwr1fgw0n14Tc",
+          "title": "Senior Product Manager",
+          "subtitle": "Zynga . undefined",
+          "caption": "Aug 2013 - Feb 2015 · 1 yr 6 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Owned key features from design to live game phases, actively involved in launch planning to transition biggest Zynga titles from web to mobile\nJan 2014 - Mar 2015: FarmVille 2 Country Escape (iOS, Android, Amazon)\nAug 2013 - Dec 2013: CastleVille Legends (iOS, Android, Amazon)"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Board Member and Volunteer Tutor",
+          "subtitle": "Refugee Transitions . undefined",
+          "caption": "Apr 2008 - Apr 2011 · 3 yrs",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As volunteer - tutored two illiterate students in basic English skills\nAs board member - oversaw finances by reviewing cash flow projections and assessing staff hiring and salary, helped with the planning of the World of Difference Luncheon fundraising events"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5345",
+          "companyUrn": "urn:li:fsd_company:5345",
+          "companyLink1": "https://www.linkedin.com/company/cornerstone-research/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFOfRm1hTJ4vg/company-logo_400_400/company-logo_400_400/0/1631303072504?e=1785369600&v=beta&t=_Q2Sdzax5WUsZFxyE5M8-J7m_EfutiMWbG0JxIyZlOg",
+          "title": "Research Associate",
+          "subtitle": "Cornerstone Research . undefined",
+          "caption": "Aug 2007 - Apr 2011 · 3 yrs 8 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Managed teams of analysts and cross-functional staff, performed complex financial and economic analyses related to business litigation, led firm development efforts in recruiting and training."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Launch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Competitive Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Financial Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Startup Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketing Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3881",
+          "companyUrn": "urn:li:fsd_company:3881",
+          "companyLink1": "https://www.linkedin.com/school/uchicago/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbp_dv8CAlpQ/company-logo_400_400/company-logo_400_400/0/1630577480920/uchicago_logo?e=1785369600&v=beta&t=hNnHdbG-3ipmDdtYF5LkSwN6zynKzhwpTTgbGRQGTX4",
+          "title": "University of Chicago",
+          "subtitle": "MBA, Marketing Group, High-Tech Group, Entrepreneurial and Venture Capital Group, Net Impact",
+          "caption": "2011 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "• Finalist in New Venture Challenge\n• Recipient of Chicago Booth Merit Scholarship in recognition of outstanding academic and leadership achievements\n• Selected Board Fellow for Chicago Child Care Society through Net Impact"
+            }
+          ]
+        },
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "University of California, Berkeley",
+          "subtitle": "B.A., Economics, Statistics",
+          "caption": "2003 - 2007",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "• Undergraduate Economics Association (President)\n• Department of Economics (Peer Advisor)\n• De-cal (Instructor for Women in Leadership course)\n• English-In-Action (Volunteer Tutor)\n• YWCA (Jazz Funk Dance)"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

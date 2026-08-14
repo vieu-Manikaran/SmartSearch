@@ -1,0 +1,330 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/berj-doudian-a776a74",
+  "row_key": "id:003Uk00000yffVgIAI",
+  "person": "Berj Doudian",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:21:00Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADQZzsBVnvW3_ji2ibIPUKaymZnXR6TVf4",
+      "firstName": "Berj",
+      "lastName": "Doudian",
+      "fullName": "Berj Doudian",
+      "publicIdentifier": "berj-doudian-a776a74",
+      "headline": "Medical Device Software Engineering Director",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Los Angeles, California United States",
+      "addressWithoutCountry": "Los Angeles, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFOjy84C1x-TA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725382583244?e=1785369600&v=beta&t=wrWhxdYiPoqvzEW3W7CIHgZuw-VTCzw_fXfDTmU0AcM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFOjy84C1x-TA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1725382583221?e=1785369600&v=beta&t=RXGP7_HZziawteRox92G-lIsdLgvUQK5VzNXmaRow08"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFOjy84C1x-TA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725382583221?e=1785369600&v=beta&t=HkXpEQgt-0Zz7OUz_Ll-NBLLpBGJmsSMREdxeMKSnKk"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFOjy84C1x-TA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725382583221?e=1785369600&v=beta&t=dxwY_VtnjDMfmhjyxDXUJ386jdQ-HCpyQzDXvqNpSnw"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFOjy84C1x-TA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725382583244?e=1785369600&v=beta&t=wrWhxdYiPoqvzEW3W7CIHgZuw-VTCzw_fXfDTmU0AcM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Engineering Director - Cloud Software Development",
+          "subtitle": "Medtronic Diabetes . Full-time",
+          "caption": "Dec 2021 - Jul 2025 · 3 yrs 7 mos",
+          "metadata": "Northridge, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1637",
+          "companyUrn": "urn:li:fsd_company:1637",
+          "companyLink1": "https://www.linkedin.com/company/boston-scientific/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF3enIGxQaa7Q/company-logo_400_400/company-logo_400_400/0/1688306370403?e=1785369600&v=beta&t=iPyFqk-xPiAlBeCeSOcsKxeF21FZbAXH0UALZU3NadI",
+          "title": "Boston Scientific",
+          "subtitle": "undefined · 5 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sr. Manager, Software Engineering",
+              "caption": "Apr 2017 - Dec 2021 · 4 yrs 8 mos",
+              "metadata": "Valencia, California",
+              "description": []
+            },
+            {
+              "title": "Sr. Manager, Program Management Office",
+              "caption": "Jan 2016 - Apr 2017 · 1 yr 3 mos",
+              "metadata": "Valencia, CA",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4345",
+          "companyUrn": "urn:li:fsd_company:4345",
+          "companyLink1": "https://www.linkedin.com/company/st--jude-medical/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGrNyjaAO40qg/company-logo_400_400/company-logo_400_400/0/1631310238478?e=1785369600&v=beta&t=nFiZLXSdoK85SNWr_g1g8w1YOQTwZDKAEgc1x_zd_C0",
+          "title": "Manager, Principal Software Engineer",
+          "subtitle": "St. Jude Medical . undefined",
+          "caption": "May 2003 - Jan 2016 · 12 yrs 8 mos",
+          "metadata": "Sylmar, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FDA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ClearQuest",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ClearCase",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Control",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Biomedical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R&D",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2475",
+          "companyUrn": "urn:li:fsd_company:2475",
+          "companyLink1": "https://www.linkedin.com/school/ucla-anderson-school-of-management/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEie8vD0XYgWg/company-logo_400_400/company-logo_400_400/0/1630623988428/ucla_anderson_school_of_management_logo?e=1785369600&v=beta&t=AqZUJp-xkTQF1b_uIneBfdmIF64LGVh6OpIGb7JWMfo",
+          "title": "UCLA Anderson School of Management",
+          "subtitle": "Executive MBA, null",
+          "caption": "Sep 2024 - Jun 2026",
+          "subComponents": []
+        },
+        {
+          "companyId": "15251132",
+          "companyUrn": "urn:li:fsd_company:15251132",
+          "companyLink1": "https://www.linkedin.com/school/california-polytechnic-state-university-san-luis-o/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_400_400/company-logo_400_400/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1785369600&v=beta&t=2aPbeznmHaG6QxBw4naUO_MbLrzKZTfI3X3GskR-uSE",
+          "title": null,
+          "subtitle": "MS, Master of Engineering with a Biomedical Emphasis",
+          "caption": "2008 - 2011",
+          "subComponents": []
+        },
+        {
+          "companyId": "2477",
+          "companyUrn": "urn:li:fsd_company:2477",
+          "companyLink1": "https://www.linkedin.com/school/ucla/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_400_400/company-logo_400_400/0/1688403831517/ucla_logo?e=1785369600&v=beta&t=eO48i8BZgBYJFpWw7MmmXXYelh_XRtu9tuM2AXP3rX8",
+          "title": null,
+          "subtitle": "BS, Computer Science and Engineering",
+          "caption": "1998 - 2002",
+          "subComponents": []
+        },
+        {
+          "title": "Burbank High School",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/wenzhao-sde",
+  "row_key": "id:003Uk00000ydJ1EIAU",
+  "person": "Wen Zhao",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:20Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABQx-l4BMcnJxA-9EPEmB-vWWg5Ya2E4Vg4",
+      "firstName": "Wen",
+      "lastName": "Zhao",
+      "fullName": "Wen Zhao",
+      "publicIdentifier": "wenzhao-sde",
+      "headline": "Staff Software Engineer at Coinbase",
+      "about": "Backend | Payment | Crypto | Blockchain ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "CN",
+        "language": "zh"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Woodinville, Washington United States",
+      "addressWithoutCountry": "Woodinville, Washington",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 4 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Feb 2026 - Present · ",
+              "metadata": "Seattle, Washington, United States",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2021 - Feb 2026 · 4 yrs 6 mos",
+              "metadata": "Remote (anywhere)",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Coinbase Pay"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Software Dev Engineer II",
+          "subtitle": "Amazon . Full-time",
+          "caption": "Jan 2019 - Aug 2021 · 2 yrs 7 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "AFT: Personnel Rresource Management"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1053",
+          "companyUrn": "urn:li:fsd_company:1053",
+          "companyLink1": "https://www.linkedin.com/company/intel-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_400_400/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1785369600&v=beta&t=g-_No6rKYnzuUy2iHAD1a3o5iamiG5a0tDnDBHfNVqE",
+          "title": "Software Engineer",
+          "subtitle": "Intel Corporation . undefined",
+          "caption": "Jul 2017 - Jan 2019 · 1 yr 6 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Model tool and Analysis"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3660",
+          "companyUrn": "urn:li:fsd_company:3660",
+          "companyLink1": "https://www.linkedin.com/school/university-of-toronto/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_400_400/company-logo_400_400/0/1639421285702/university_of_toronto_logo?e=1785369600&v=beta&t=at2zlejozfDNtdXS6u0Y9IBIzddm3-_lhVsALPBBv-U",
+          "title": "Teaching Assistant",
+          "subtitle": "University of Toronto . undefined",
+          "caption": "Sep 2015 - Apr 2017 · 1 yr 7 mos",
+          "metadata": "Toronto",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "ECE361 Computer Networks"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6419",
+          "companyUrn": "urn:li:fsd_company:6419",
+          "companyLink1": "https://www.linkedin.com/company/harman-international/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG6PYdeX1hHGw/company-logo_400_400/company-logo_400_400/0/1721833603312/harman_international_logo?e=1785369600&v=beta&t=yhDvWrUz9lbtt2-Z3CB3Vmmu2fynq0NScfXWPzzmRUw",
+          "title": "Software Engineer Intern",
+          "subtitle": "HARMAN International . Internship",
+          "caption": "May 2016 - Aug 2016 · 3 mos",
+          "metadata": "Shanghai City, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Connected Car Solution, R&D"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Application Developer",
+          "subtitle": "IBM . undefined",
+          "caption": "Apr 2015 - Jul 2015 · 3 mos",
+          "metadata": "Shenzhen, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Excellent Graduation Thesis Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Code Review",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3660",
+          "companyUrn": "urn:li:fsd_company:3660",
+          "companyLink1": "https://www.linkedin.com/school/university-of-toronto/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_400_400/company-logo_400_400/0/1639421285702/university_of_toronto_logo?e=1785369600&v=beta&t=at2zlejozfDNtdXS6u0Y9IBIzddm3-_lhVsALPBBv-U",
+          "title": "University of Toronto",
+          "subtitle": "Master's degree, Computer Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "1817816",
+          "companyUrn": "urn:li:fsd_company:1817816",
+          "companyLink1": "https://www.linkedin.com/school/tianjin-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEWZYFVvk2a7Q/company-logo_200_200/B56Z9ZTp3fGQAE-/0/1783909752527?e=1785369600&v=beta&t=O9a2zEFu0qA27SaafH9YKmUYsuBHgO3TyHLEa-BgNEk",
+          "title": "Tianjin University",
+          "subtitle": "Bachelor's degree, Electrical and Electronics Engineering",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "MentorRock (NodeJS Web Project)",
+          "subtitle": "Oct 2016 - Oct 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Toronto"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "•\tBuilt a Node.js web application as a platform for mentor-seeking and long-time mentor-mentee relationship maintenance by cooperating in a group of 4 and used GitHub for resource control.\n•\tUsed EJS template as view engine in front-end, and MongoDB as the database, add Mongoose module in the server side for data management, and built 5 schemas based on different requirements\n•\tFollowed 3-tier web architecture that has presentation layer, logic layer, and data layer, and each tier is separate with a clear interface between them.\n\n•\tUsed REST as an architectural style and used Express to build several separate routes.\n•\tImplemented a private chatroom using Socket.io, which can show the online/offline status and store the chat logs in database \n•\tUsed Passport module for local and third-party authentication, and used Bcrypt module to encode user password by hash algorithm and store the hashed value in the database.\n•\tApplied Connect Flash module to show the login and register hints as a helper for Passport module.\n•\tRealized file uploads using Formidable module.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Road Estimation (A Machine Learning Project using Python)",
+          "subtitle": "Sep 2016 - Sep 2016",
+          "subComponenets": []
+        },
+        {
+          "title": "HelpingHand (Android App)",
+          "subtitle": "Jan 2016 - Jan 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Toronto"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "•\tCreated an android app using Java, which targets to children with one-arm-weakness and monitors the use of two arms, and designed real-time arm-involved game in it to encourage them to use their weak arm more\n•\tImplemented the communication between two TI sensortags and the Android phone to collect data of accelerometer by multi-threading, and designed a high-pass filtering algorithm that decrease the noise and error of data significantly\n•\tBuilt several animations of games, and the function of voice prompt to make it more user-friendly for children"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/dmytroivchenko",
+  "row_key": "id:003Uk000012UM7uIAG",
+  "person": "Dmytro Ivchenko",
+  "account": "Fireworks AI",
+  "fetched_at": "2026-07-14T10:36:13Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADDWhcBNQHTUF9qzWNYg0OUjpT7mjwWta8",
+      "firstName": "Dmytro",
+      "lastName": "Ivchenko",
+      "fullName": "Dmytro Ivchenko",
+      "publicIdentifier": "dmytroivchenko",
+      "headline": "Generative AI",
+      "about": "Designed, implemented and operated industry leading machine learning framework, search engine and database transaction log.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Del Mar, California United States",
+      "addressWithoutCountry": "Del Mar, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHFKe4SBIWIeA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517682361012?e=1785369600&v=beta&t=sVUZiCUMZpahg5jnPz2Lbo5hzOKzmPxm2rsPIJllmRQ",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQGuzCqEv3QaGQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1663868645061?e=1785369600&v=beta&t=nbQATgg1may6td-qt9KwGy1k-IOonR5-1dDuBHHZ7oI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHFKe4SBIWIeA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517682361527?e=1785369600&v=beta&t=YSpCRi7P5UxgN8nkS_YPSrEIP74jKTtjXtyuGJq4lkY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHFKe4SBIWIeA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517682361017?e=1785369600&v=beta&t=jOP-FOW4uv7BEwuogiwVpHy99c6DJAHdMqUU6dgTzb0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHFKe4SBIWIeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517682361039?e=1785369600&v=beta&t=a1WEpkizWhNuxkzp5OVExRKofpttglPPLXAvbkcZ-VY"
+        },
+        {
+          "width": 429,
+          "height": 429,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHFKe4SBIWIeA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517682361012?e=1785369600&v=beta&t=sVUZiCUMZpahg5jnPz2Lbo5hzOKzmPxm2rsPIJllmRQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQGuzCqEv3QaGQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1663868645061?e=1785369600&v=beta&t=COH3eaL68S2vOKyR3i77EqyMAMUUbJGBFXv4ZqIeeLU"
+        },
+        {
+          "width": 1034,
+          "height": 258,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQGuzCqEv3QaGQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1663868645061?e=1785369600&v=beta&t=nbQATgg1may6td-qt9KwGy1k-IOonR5-1dDuBHHZ7oI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "91174981",
+          "companyUrn": "urn:li:fsd_company:91174981",
+          "companyLink1": "https://www.linkedin.com/company/fireworks-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBD0h39SCyLw/company-logo_400_400/company-logo_400_400/0/1711133682942/fireworks_ai_logo?e=1785369600&v=beta&t=CThoZGybDlkdOYbemJ_CeRFc5lBpwo5JuLmMa0DIY4M",
+          "title": "Co-Founder, Engineer",
+          "subtitle": "Fireworks AI . undefined",
+          "caption": "Oct 2022 - Present · 3 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Meta",
+          "subtitle": "Full-time · 7 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Jun 2022 - Sep 2023 · 1 yr 3 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked on open-sourcing TorchRec and popularizing within an industry."
+                }
+              ]
+            },
+            {
+              "title": "Senior Staff Software Engineer",
+              "caption": "Jan 2019 - Sep 2023 · 4 yrs 8 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Author of TorchRec, a PyTorch domain library to train state of the art recommendation models.\n\nLead implementation of HPC training stack for large recommender models.\n\nLead a team of engineers to designed and implement Raft-based distributed transaction log used by Social Graph Indexing systems."
+                }
+              ]
+            },
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Jan 2016 - Jan 2019 · 3 yrs",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked on the Social Graph indexing. Designed and deployed inverted index-based automated indexing backend, which executes complex queries used by recommendations and various site features."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "LinkedIn",
+          "subtitle": "Full-time · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Staff Software Engineer",
+              "caption": "Sep 2014 - Jan 2016 · 1 yr 4 mos",
+              "metadata": "Mountain View, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead implementation of Galene, LinkedIn's search engine, used for all searches and recommendations on the site. Lead design and implementation of the faceted search functionality.\nParticipated in the Technical Leadership Group, which provided technical reviews and direction and the company's major projects."
+                }
+              ]
+            },
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Mar 2013 - Sep 2014 · 1 yr 6 mos",
+              "metadata": "Mountain View, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead implementation of LinkedIn Recruiter search."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Apr 2012 - Mar 2013 · 11 mos",
+              "metadata": "Mountain View, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked on LinkedIn Recruiter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2494",
+          "companyUrn": "urn:li:fsd_company:2494",
+          "companyLink1": "https://www.linkedin.com/company/bloomberg/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF0uyE7RGKDGg/company-logo_400_400/company-logo_400_400/0/1631374698859/bloomberg_lp_logo?e=1785369600&v=beta&t=RaBqCF1SARSDE1oEzI4DNgM87o7zIQzVW0a3HzVk0Ks",
+          "title": "Senior Software Developer",
+          "subtitle": "Bloomberg . undefined",
+          "caption": "Aug 2010 - Apr 2012 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "786158",
+          "companyUrn": "urn:li:fsd_company:786158",
+          "companyLink1": "https://www.linkedin.com/company/fatwire-software_2/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEkzybq2Fp2aw/company-logo_400_400/company-logo_400_400/0/1631334913695?e=1785369600&v=beta&t=B_JJH0GF4cd0MmnZcSsxYsDd03peyhvaBrbMJVDUHiQ",
+          "title": "Senior Software Developer",
+          "subtitle": "FatWire Software . undefined",
+          "caption": "Jan 2008 - Aug 2010 · 2 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "284721",
+          "companyUrn": "urn:li:fsd_company:284721",
+          "companyLink1": "https://www.linkedin.com/company/compact-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFXUsY814D8jg/company-logo_400_400/company-logo_400_400/0/1631301265876?e=1785369600&v=beta&t=XrETuSTuI7krPW18vcLY2zhGyLq37XgFv3wH65tnGIg",
+          "title": "Software Developer",
+          "subtitle": "Compact Solutions LLC . undefined",
+          "caption": "Jul 2007 - Jan 2008 · 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Database Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Retrieval",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Search",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15250306",
+          "companyUrn": "urn:li:fsd_company:15250306",
+          "companyLink1": "https://www.linkedin.com/school/national-technical-university-of-ukraine-%27kyiv-pol/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG6AO47AedJeg/company-logo_400_400/company-logo_400_400/0/1631386075411?e=1785369600&v=beta&t=qoVTftP6c3by0qOYvVduXqkPtDr3dsVq8R00jPITRUM",
+          "title": null,
+          "subtitle": "Master's, System analysis",
+          "caption": "2001 - 2007",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

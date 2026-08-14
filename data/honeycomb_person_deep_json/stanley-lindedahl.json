@@ -1,0 +1,440 @@
+{
+  "linkedin_url": "https://fi.linkedin.com/in/stanley-lindedahl",
+  "row_key": "id:0033l00002wfuh4AAA",
+  "person": "Stanley Lindedahl",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:45:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACA1gzUBStaRozb-MtdcBWLnDiR1L4MfFZY",
+      "firstName": "Stanley",
+      "lastName": "L.",
+      "fullName": "Stanley L.",
+      "publicIdentifier": "stanley-lindedahl",
+      "headline": "IT Operations Specialist at Alpaca",
+      "birthDateOn": {
+        "month": 6,
+        "day": 28
+      },
+      "about": "A qualified IT-Specialist with several years of experience working in high-paced environments. Good with hardware configuration, maintaining minimal downtime, and providing great customer service. Familiar with Network and Server Administration. Capable of effective troubleshooting and repairing faulty hardware.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Finland",
+      "addressWithCountry": "Helsinki, Uusimaa Finland",
+      "addressWithoutCountry": "Helsinki, Uusimaa",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHr7c8fiQut8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1623930197211?e=1785369600&v=beta&t=b2LvobFhLfKhJIYjEfqzpyi10LrCJfTBkXJBIBc6trQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHr7c8fiQut8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1623930197211?e=1785369600&v=beta&t=NFxr8I9f14QA4Q3DnBnuha0NmeG_JjAO-nWQVKI3pnk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHr7c8fiQut8A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1623930197211?e=1785369600&v=beta&t=NIotSxS58AJ2RWORMggcvvyZ_ZvtQ1kd2dCQsiflOTQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHr7c8fiQut8A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1623930197211?e=1785369600&v=beta&t=Q68oWtHHC5CY9wRTn4DIipwYLu25c_W5zZFXxj7Nvhs"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHr7c8fiQut8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1623930197211?e=1785369600&v=beta&t=b2LvobFhLfKhJIYjEfqzpyi10LrCJfTBkXJBIBc6trQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "9300556",
+          "companyUrn": "urn:li:fsd_company:9300556",
+          "companyLink1": "https://www.linkedin.com/company/alpacamarkets/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFV91nqVMKLlQ/company-logo_400_400/company-logo_400_400/0/1659022454907/alpacadb_inc__logo?e=1785369600&v=beta&t=BwNgBsppuN1BfE0FeHaMscsWVtHYQJRZnVz_XVk3HkY",
+          "title": "IT Operations Specialist",
+          "subtitle": "Alpaca . Full-time",
+          "caption": "Dec 2025 - Present · 1 mo",
+          "metadata": "Finlandia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "101490751",
+          "companyUrn": "urn:li:fsd_company:101490751",
+          "companyLink1": "https://www.linkedin.com/company/faciplay/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGmMzE5G1JTCQ/company-logo_400_400/company-logo_400_400/0/1705334916600?e=1785369600&v=beta&t=yeg-KNlX3lWhDyJygzoQj3ADC7IWnCOIbgjHnIou8mk",
+          "title": "CEO",
+          "subtitle": "Faciplay . Full-time",
+          "caption": "Oct 2023 - Present · 2 yrs 3 mos",
+          "metadata": "Helsinki, Uusimaa, Finland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "28123033",
+          "companyUrn": "urn:li:fsd_company:28123033",
+          "companyLink1": "https://www.linkedin.com/company/younite-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEfDGfcO3TRXw/company-logo_400_400/company-logo_400_400/0/1726948252224/younite_ai_logo?e=1785369600&v=beta&t=eKifuQiDiJcvIXIqNwx7mnQeV2-nWUN7LtLLN980rmo",
+          "title": "IT-Admin",
+          "subtitle": "Younite-AI . Full-time",
+          "caption": "Oct 2023 - Dec 2025 · 2 yrs 2 mos",
+          "metadata": "Helsingfors",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10167844",
+          "companyUrn": "urn:li:fsd_company:10167844",
+          "companyLink1": "https://www.linkedin.com/company/zoan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHR7wd0BhnkhA/company-logo_400_400/company-logo_400_400/0/1631376531602?e=1785369600&v=beta&t=fyFIKyGMfMZwjP_J9AXqGrBF11bnM-YB2xvfTb5Fk7o",
+          "title": "IT Manager (Bankruptcy)",
+          "subtitle": "ZOAN . Full-time",
+          "caption": "Apr 2023 - Sep 2023 · 5 mos",
+          "metadata": "Finland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "IT Studio Support Administrator",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Apr 2022 - Apr 2023 · 1 yr",
+          "metadata": "Finland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "212669",
+          "companyUrn": "urn:li:fsd_company:212669",
+          "companyLink1": "https://www.linkedin.com/company/unity/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFoRUR2DxPJiw/company-logo_400_400/company-logo_400_400/0/1682010178745/unity_logo?e=1785369600&v=beta&t=7sF3MGzjg-Xy9qpam-uRsOczwk0Y93x0VqUEHWThZlI",
+          "title": "IT Operations Specialist",
+          "subtitle": "Unity Technologies . Full-time",
+          "caption": "Jul 2020 - Apr 2022 · 1 yr 9 mos",
+          "metadata": "Helsinki, Uusimaa, Finland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "8212121",
+          "companyUrn": "urn:li:fsd_company:8212121",
+          "companyLink1": "https://www.linkedin.com/company/malax-kommun/",
+          "title": "IT-Assistent",
+          "subtitle": "Malax kommun . Full-time",
+          "caption": "Nov 2018 - Jul 2020 · 1 yr 8 mos",
+          "metadata": "Malax, Finland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "IT-Technician",
+          "subtitle": "LindeTecno OY AB . Self-employed",
+          "caption": "Feb 2018 - Nov 2018 · 9 mos",
+          "metadata": "Kristinestad, Finland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10479474",
+          "companyUrn": "urn:li:fsd_company:10479474",
+          "companyLink1": "https://www.linkedin.com/company/multitronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEdyNucxPE7FA/company-logo_400_400/company-logo_400_400/0/1630585246891/multitronic_logo?e=1785369600&v=beta&t=EItiRH7nRQE5QknGmx5GWcl9zb1Q5SkC7TfsJvuurVs",
+          "title": "IT-Technician Internship",
+          "subtitle": "Multitronic . Internship",
+          "caption": "Aug 2017 - Feb 2018 · 6 mos",
+          "metadata": "Vasa, Finland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "3608",
+          "companyUrn": "urn:li:fsd_company:3608",
+          "companyLink1": "https://www.linkedin.com/company/nvidia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_400_400/company-logo_400_400/0/1724881581208/nvidia_logo?e=1785369600&v=beta&t=Dc6be-MR3MnZN9ix99n55hjTShJi5ZAiwUSZrSE9NCw",
+          "title": "Omniverse Technical Curriculum",
+          "subtitle": "NVIDIA",
+          "issued": "Issued Jun 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "14209",
+          "companyUrn": "urn:li:fsd_company:14209",
+          "companyLink1": "https://www.linkedin.com/company/hdi/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHARFBGa72-_w/company-logo_200_200/B4EZqoMQVKGcAM-/0/1763758377416/hdi_logo?e=1785369600&v=beta&t=p01mJH7p8It7mewmvN9g8gOr5zeSwUI7c61q8VOzudw",
+          "title": "KCS Foundation (KCS)",
+          "subtitle": "HDI",
+          "issued": "Issued Jun 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Engelska",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Finska",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Svenska",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Omniverse Technical Curriculum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Device Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Zoom",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Audio Visual (AV) Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pressure Situations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "High-Pressure Situations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Backup Solutions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Lifecycle Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Internet Protocol Suite (TCP/IP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VLAN",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Domain Name System (DNS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Workplace",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Okta Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Datorkunskap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Wireless",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Datorreparation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Datorunderhåll",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

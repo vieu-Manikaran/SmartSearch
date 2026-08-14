@@ -1,0 +1,452 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/danieljosephadams",
+  "row_key": "id:003Uk00000uO2PrIAK",
+  "person": "Daniel Adams",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:37:25Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAm9ZgQBO4b4sPh5zY2sDZyS7QN559kHcCM",
+      "firstName": "Daniel J.",
+      "lastName": "Adams",
+      "fullName": "Daniel J. Adams",
+      "publicIdentifier": "danieljosephadams",
+      "headline": "Daniel Joseph Adams (f.k.a. Daniel Adams Hanna) of Boston, Franklin, and Martha's Vineyard, Massachusetts.",
+      "about": "Daniel Joseph Adams (f.k.a. Daniel Adams Hanna) of Boston, Franklin, and Martha's Vineyard, Massachusetts.\n\nhttps://poplme.co/OkhDTriK",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Entertainment",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "North Adams, Massachusetts United States",
+      "addressWithoutCountry": "North Adams, Massachusetts",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHMYg2ZCn_eFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1641320818700?e=1785369600&v=beta&t=3RoFoueDCFFaj7zwKW0KNtMFNNLPP-vDbfEubBarJVY",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQEWMtA8LPWBlg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517439892709?e=1785369600&v=beta&t=CZ1QcA56uQQLR_CNICm2OOKRNdLc-agJfQRnohu3QpY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHMYg2ZCn_eFg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1641320818700?e=1785369600&v=beta&t=eNqhgrm5YqOQk3DP8xHq_Aoucbdhtck4tGxRVnBZ2gc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHMYg2ZCn_eFg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1641320818700?e=1785369600&v=beta&t=jmEaLyd_24xSPwnIQNRZNuRQ0i2z7emII6mzcb4GxX4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHMYg2ZCn_eFg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1641320818700?e=1785369600&v=beta&t=aWsG1aSOjaRr36yt4QFVWp39vWDO3kqICTfIMWP7HWQ"
+        },
+        {
+          "width": 560,
+          "height": 560,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHMYg2ZCn_eFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1641320818700?e=1785369600&v=beta&t=3RoFoueDCFFaj7zwKW0KNtMFNNLPP-vDbfEubBarJVY"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEWMtA8LPWBlg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517439892743?e=1785369600&v=beta&t=ToDUv9jtEtEwv5lfiUDUsBOQTY7tXcGZRzhTHbC8FuI"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEWMtA8LPWBlg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517439892709?e=1785369600&v=beta&t=CZ1QcA56uQQLR_CNICm2OOKRNdLc-agJfQRnohu3QpY"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "321997",
+          "companyUrn": "urn:li:fsd_company:321997",
+          "companyLink1": "https://www.linkedin.com/company/martha%27s-vineyard/",
+          "title": "Producer",
+          "subtitle": "Martha's Vineyard . Contract",
+          "caption": "Aug 2010 - Present · 15 yrs 5 mos",
+          "metadata": "Vineyard Haven, Massachusetts, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "When I first started to draft this commemoration, it started off as a list with credits like, \"two Seasons of live Broadcasting Bill Murray's baseball team\" this, and \"trusted personal relationship with Oscar-winner\" that; \"alone in my private broadcast booth with superstar\" this, and \"sincerely unsolicitedly complimented by the leader of the free World\" that, but when attempting to compile a comprehensive recollection of the past decade, Tracy, and I simply could not.  There are just too many special moments, and singular experiences You  to recount.\nIt's been an absolutely thrilling ride, I must say, as reviewing a memory box full of mementos on this occasion brought back rushes of so many golden days, and nights.  We are very lucky to live where we do, and are so grateful for the gracious experience we have been afforded.\nOur success with the MVPBS social media promotion, and exclusive films project could only have happened on Martha's Vineyard.\nI guess I'm most proud of eight straight Seasons as Official Videographer for the MVRHS Football Team, and earning the trust of the key figures of this place to give me the responsibility of being let into the most exclusive companies on earth.\nMore than anything what I have had retaught to me the most over, and over again is that I'm actually the funniest person on the planet, but I am so glad, so glad, that I chose family over fame.\nOur best times always never include recording devices of any kind except for our sweet memories, and for that I am eternally thankful."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Official Videographer/Executive Producer",
+          "subtitle": "Martha's Vineyard NCAA Showdown . undefined",
+          "caption": "Jan 2016 - Present · 10 yrs",
+          "metadata": "Martha's Vineyard Arena",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "The first ever NCAA Men's Ice Hockey played on Martha's Vineyard Island is broadcast exclusively via Martha's Vineyard Public Broadcasting Station!"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Martha's Vineyard Football",
+          "subtitle": "undefined · 8 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Official Videographer",
+              "caption": "Sep 2013 - Feb 2022 · 8 yrs 5 mos",
+              "metadata": "Martha's Vineyard Regional High School",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "All things must pass, it seems.  With the retirement from broadcasting after 40 illustrious years of Mr. Ken Goldberg, and the reretirement of our legendary Hall of Fame Coach Donald Herman, it is time for me to step down as the Official Videographer of the Martha’s Vineyard Regional High School Football Team after nine glorious Seasons.  My Great Uncle Dan McCarthy founded the MVRHS program in 1960, and it has been my distinct privilege, and proud honor to continue in his tradition, and serve the Island community to the best of my ability through these years.  All of this work is archived with MVTV in perpetuity.\n   I’m definitely going to miss being high above the 50 yard line with the best vista in the stadium, and I hope I am remembered fondly for my commitment to the Team.  Thanks for the memories, and Go Vineyarders!"
+                }
+              ]
+            },
+            {
+              "title": "Official Videographer",
+              "caption": "Dec 2013 - Dec 2018 · 5 yrs",
+              "metadata": "Martha's Vineyard Regional High School",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Five fabulous seasons above center ice proudly continuing my family's tradition in the Martha's Vineyard community.  All games aired on television, and the web via MVTV."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "9276543",
+          "companyUrn": "urn:li:fsd_company:9276543",
+          "companyLink1": "https://www.linkedin.com/company/mvpbs/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG_AEc4y3n2MA/company-logo_400_400/company-logo_400_400/0/1631329613240?e=1785369600&v=beta&t=g4M7RNCC_PIeX2zDhrdNinE3fVhK8Kj17IiaAwvNqv0",
+          "title": "Executive Director",
+          "subtitle": "MVPBS . undefined",
+          "caption": "Jun 2010 - May 2019 · 8 yrs 11 mos",
+          "metadata": "Martha's Vineyard, Massachusetts",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Martha's Vineyard Public Broadcasting Station is the World's #1\nsource for Island news in the arts, culture, entertainment, and education."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Español",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Latin",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Martha's Vineyard Public Broadcasting Station™ is the World's #1 source for Island news!",
+          "subtitle": "Issued by ✓ verified via Klout and Kred",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Martha's Vineyard Public Broadcasting Station™ is the World's #1 source for Island news in the arts, culture, entertainment, and education; featuring exclusive videos.\n\n\"Our reality is beyond your imagination.\"℠   –Daniel J. Adams\nMVPBS™ Incorporated 501(c)3  (2009–2017C.E.)\n\n#TheWhiteDog™ forever."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Growth Strategies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Storytelling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Production Processes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Growth Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media Advertising",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Reality Television",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media Optimization (SMO)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Online Advertising",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Recording",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Interpersonal Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Audio Recording",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Online Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketing Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media Measurement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Live Sound",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Twitter Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media Content Creation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166187",
+          "companyUrn": "urn:li:fsd_company:166187",
+          "companyLink1": "https://www.linkedin.com/school/suffolk-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGEufWz-wUopQ/company-logo_400_400/company-logo_400_400/0/1631366446602/suffolk_university_logo?e=1785369600&v=beta&t=53joezyi4HboIq58H9oqALvkbShLJ-_NLSZgShZIIEc",
+          "title": "Suffolk University",
+          "subtitle": "null, President – Suffolk University Political Science Association;\nPresident – Suffolk University College Republicans;\nGovernor – Suffolk University Student Government Association;\nHonorary Officer – Suffolk University Gay and Lesbian Alliance;\nStation Assistant Manager, Program Director – Suffolk Radio;\nProgram Director – Suffolk University Rock n' Soul Revue;\nBasketball",
+          "caption": "1994 - 1998",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Nicknamed:  \"Emperor D.J.\""
+            }
+          ]
+        },
+        {
+          "title": "Franklin High School",
+          "subtitle": "Graduate – semi cum laude, Secretary – Classics Club;\nCaptain – Forge Hill Y.M.C.A. Hockomock League Basketball Team;\nAdvanced Placement – Art;\nOnly Male – Select Chorus;\nCaptain – The White Lightening",
+          "caption": "1991 - 1994",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Tenth, eleventh, and twelfth (10-12)"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Youngest graduate in a class of 435 students\nNicknamed:  \"Larry Joe Bird\""
+            }
+          ]
+        },
+        {
+          "title": "Leland Academy",
+          "subtitle": "null, Student Body President;\nAssistant Captain – Junior Varsity Basketball;\nThird Base – Junior Varsity Baseball",
+          "caption": "1989 - 1990",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Ninth (9th)"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Franklin, Massachusetts, private, preparatory, co-educational secondary school."
+            }
+          ]
+        },
+        {
+          "title": "Elliott Montessori School",
+          "subtitle": "null, Soloist – Chorus;\nStar:  \"Dr. Radium\" – Junior High film, \"The Valley of the Snails\" (NR, 1987);\nActor – Drama Club",
+          "caption": "1982 - 1989",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First through sixth (1-6)"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Maria Montessori's cathedral on Charles River Falls"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "MVPBS - Martha's Vineyard Public Braodcasting Station",
+          "subtitle": "Jun 2010 - Nov 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "MVPBS - Martha's Vineyard Public Broadcasting Station is the World's #1 source for Island news in the arts, culture, entertainment, and education; featuring exclusive videos.\n\n\"Our reality is beyond your imagination.\"℠   –Daniel J. Adams\nMVPBS™ Incorporated 501(c)3  (2009–2017C.E.)\n\n#TheWhiteDog™ forever."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

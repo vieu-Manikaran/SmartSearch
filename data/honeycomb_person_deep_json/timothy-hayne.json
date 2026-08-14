@@ -1,0 +1,205 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/timothy-hayne",
+  "row_key": "id:003Uk000001rHqAIAU",
+  "person": "Tim Hayne",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:38:14Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACluXBYBC7dXxK3pSjO6bKKFRECe7j5dgM4",
+      "firstName": "Timothy",
+      "lastName": "Hayne",
+      "fullName": "Timothy Hayne",
+      "publicIdentifier": "timothy-hayne",
+      "headline": "Senior Software Development Engineer at Lyka Pet Food",
+      "about": "Self-motivating, detail-oriented Data and Software Engineer, with experience in building core startup infrastructure. Passionate about backend optimisation of complex systems, and creating water-tight products, through fast-paced iteration, that delight even the most detail-oriented critics. Thrives in high-energy team environments yet enjoys operating with high levels of autonomy. Comfortable in large structured and unstructured data-environments.\n",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Sydney Area Australia",
+      "addressWithoutCountry": "Greater Sydney Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQERoso1-rOW-w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1541560804762?e=1785369600&v=beta&t=sS9tIoNdZwfKAOyVruanArW8p9cewwMAJTi4OCneCcc",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQERoso1-rOW-w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1541560804759?e=1785369600&v=beta&t=KS9DyzoXrLaCo6ecubb_v90nyk0WZkn1SldTzen2VaY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQERoso1-rOW-w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1541560804703?e=1785369600&v=beta&t=q7stCuUtdCvUANd_lw2qI_OkPmQXqx8rXJFytXIlZFc"
+        },
+        {
+          "width": 370,
+          "height": 370,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQERoso1-rOW-w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1541560804868?e=1785369600&v=beta&t=kXw4fAgNEPUTo0VwXJ_ksLOCH_Sz8DJFxH56unj7XqQ"
+        },
+        {
+          "width": 370,
+          "height": 370,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQERoso1-rOW-w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1541560804762?e=1785369600&v=beta&t=sS9tIoNdZwfKAOyVruanArW8p9cewwMAJTi4OCneCcc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Development Engineer",
+          "subtitle": "Lyka Pet Food . undefined",
+          "caption": "Feb 2019 - Present · 6 yrs 11 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "14436943",
+          "companyUrn": "urn:li:fsd_company:14436943",
+          "companyLink1": "https://www.linkedin.com/company/hiyapurpose/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHuV6I6CXDeKw/company-logo_400_400/company-logo_400_400/0/1631439883241/hiyapurpose_logo?e=1785369600&v=beta&t=7hCp2WAnRajyU8kfTib3wTjAYGf6h1y7Xc5ih60YZ24",
+          "title": "Product Engineer",
+          "subtitle": "HiyaPurpose . undefined",
+          "caption": "Jun 2018 - Present · 7 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led development of the HiyaPurpose platform by designing and implementing new features alongside the Founder and collaborating with our frontend developer.\n\n - Designed, built and managed data architecture and matching algorithms for a dynamic 350+ datapoint profiling engine with multiple user environments\n - Automated entire supporting workflow of all users, including autonomous matching and email notifications\n - Continued to debug and refine matching algorithms as user base expanded beyond several hundred users, which resulted in a tenfold increase in the speed of the platform’s matching algorithm\n - Designed and built features that increased customer’s usability of the platform that resulted in an increased number of users"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3558350",
+          "companyUrn": "urn:li:fsd_company:3558350",
+          "companyLink1": "https://www.linkedin.com/company/nomoss/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF2fg0rj9bNHw/company-logo_200_200/B4DZXuYc0KG4AI-/0/1743461142558/nomoss_logo?e=1785369600&v=beta&t=_gvaXKwC41PSgnRHG4E1W2f6DqtaaI_TRVx1IKv9kgg",
+          "title": "Software Consultant",
+          "subtitle": "No Moss Co . undefined",
+          "caption": "Mar 2017 - Nov 2018 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At No Moss, I worked as a full stack developer on both greenfield and existing projects, working collaboratively with clients to develop innovative solutions that achieve their business goals.\n\n- Work with HiyaPurpose to design, build, and rapidly deliver a groundbreaking recruiting platform that enabled the client to validate their idea and successfully pitch to investors\n- Provided technical assistance and advice to a medium-sized Australian retailer (Bay Leather Republic), working with their marketing team to make informed, platform decisions that resulted in increased online sales\n- Worked with a startup in the aged-care industry, contributing to a backend platform used by health care professionals in the improvement of health care outcomes for aged care residents."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WordPress",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VueJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166676",
+          "companyUrn": "urn:li:fsd_company:166676",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sydney/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHbPUZaDAMT6g/company-logo_400_400/company-logo_400_400/0/1646696237577/university_of_sydney_logo?e=1785369600&v=beta&t=CzdvWszHcjc2Y3MigW0fOIDy7SUQvtN3tx0yAUHjnP4",
+          "title": "University of Sydney",
+          "subtitle": "null, Bachelor of Mechatronic Engineering (with Honours) and Bachelor of Commerce (Finance)",
+          "caption": "2012 - 2016",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/helena-johnston",
+  "row_key": "id:003Uk00000Pb3GQIAZ",
+  "person": "Ellie Johnston",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABYqj7kB13EAnXmFddIN6hv8U-nWc8A3YC0",
+      "firstName": "Ellie",
+      "lastName": "Johnston",
+      "fullName": "Ellie Johnston",
+      "publicIdentifier": "helena-johnston",
+      "headline": "Principal Data Scientist at Touch Surgery",
+      "about": "Experienced Data Analyst with a demonstrated history of working in the hospital & health care industry. Skilled in Statistical Data Analysis, Teamwork, Matlab, Microsoft Excel, and Data Analysis. Strong information technology professional with a Doctor of Philosophy (Ph.D.) focused in Biomechanical Engineering from University of Leeds. ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater London, England United Kingdom",
+      "addressWithoutCountry": "Greater London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQHNfbnfpQ8OHQ/profile-displayphoto-shrink_400_400/B4EZakhuj1GYAg-/0/1746517027547?e=1785369600&v=beta&t=FyI0LnV0bkwnwjEstbaVFRAJCCP7IJ1hJmDs0SoD0KA",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHNfbnfpQ8OHQ/profile-displayphoto-shrink_200_200/B4EZakhuj1GYAY-/0/1746517027545?e=1785369600&v=beta&t=RkH1xy5-zPCHyQBBPPn2iycXRFkZLIGhmwyUiHTn9EM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHNfbnfpQ8OHQ/profile-displayphoto-shrink_800_800/B4EZakhuj1GYAc-/0/1746517027547?e=1785369600&v=beta&t=cStxuBSA1zJMpXU193VZV5CXxL3OKDjTR0alzcqhUFI"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHNfbnfpQ8OHQ/profile-displayphoto-shrink_100_100/B4EZakhuj1GYAU-/0/1746517027547?e=1785369600&v=beta&t=y-Tlxyxd9yM0UyMF8v87nyanOGl-KPZ8r30UkaZfkKo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHNfbnfpQ8OHQ/profile-displayphoto-shrink_400_400/B4EZakhuj1GYAg-/0/1746517027547?e=1785369600&v=beta&t=FyI0LnV0bkwnwjEstbaVFRAJCCP7IJ1hJmDs0SoD0KA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Principal Data Scientist",
+          "subtitle": "Medtronic Digital Surgery . Full-time",
+          "caption": "Sep 2021 - Present · 4 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "35989",
+          "companyUrn": "urn:li:fsd_company:35989",
+          "companyLink1": "https://www.linkedin.com/company/telstra-health-uk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGuJPBDL86bQw/company-logo_100_100/B56Zve.WRXKIAQ-/0/1768972445166/telstra_health_uk_logo?e=1785369600&v=beta&t=ymfNdOUEz_tZupniz1hx8DMkLcSpEkcGesQB91XWA8s",
+          "title": "Senior Health Analyst",
+          "subtitle": "Telstra Health UK (Dr Foster) . Full-time",
+          "caption": "Aug 2020 - Sep 2021 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4985473",
+          "companyUrn": "urn:li:fsd_company:4985473",
+          "companyLink1": "https://www.linkedin.com/company/imperial-college-health-partners/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG2F1CK-iVu8w/company-logo_400_400/company-logo_400_400/0/1656934434376/imperial_college_health_partners_logo?e=1785369600&v=beta&t=3H8CeDqdICnCvPxhCP4qzPMqwC17jbuFgZCc0I3VExY",
+          "title": "Health Data analyst",
+          "subtitle": "Imperial College Health Partners . undefined",
+          "caption": "Apr 2019 - Jul 2020 · 1 yr 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "PhD Student",
+          "subtitle": "University of Leeds . undefined",
+          "caption": "Sep 2015 - Mar 2019 · 3 yrs 6 mos",
+          "metadata": "Leeds, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "PhD project into the effect of surgical alignment on the contact pressure, kinematics and wear of total knee replacements. Wear can lead to osteolysis and early failure of total knee replacements.\n\nExperimental testing using a six station electro-mechanical knee simulator under different alignment and soft tissue conditions. \n\nA finite element model using Abaqus, validated using the experimental data and used for parametric testing."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "163510",
+          "companyUrn": "urn:li:fsd_company:163510",
+          "companyLink1": "https://www.linkedin.com/company/dstl/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEPuC3hPYpfGg/company-logo_200_200/B4EZp9GauYKgAI-/0/1763035426423/dstl_logo?e=1785369600&v=beta&t=0YdmD5p1VDAl4bXgUnfgQoiSKPFfPABprfKQbvDhD6g",
+          "title": "Scholarship Student",
+          "subtitle": "Dstl . undefined",
+          "caption": "Aug 2010 - Sep 2014 · 4 yrs 1 mo",
+          "metadata": "Sevenoaks",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Before starting university I worked in Dstl for a year in the search and detection team. I was working on a prototype detector and was involved in the testing and analysis. The aim of my work was to improve the performance of the detector, this included the improvement of the algorithm as well as physical improvements to the detector. \n\nI also worked at Dstl every summer during university. During this time I moved to the unmanned systems team to get experience in a different area. During my time there I established a means of testing the different robots that we had and scoring them. This was then input into a system so that people from different departments could ascertain the types of robots that could be useful for them."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2672915",
+          "companyUrn": "urn:li:fsd_company:2672915",
+          "companyLink1": "https://www.linkedin.com/company/datarobot/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGw5toRagF3Pg/company-logo_400_400/company-logo_400_400/0/1731398747234/datarobot_logo?e=1785369600&v=beta&t=IYsW2TDemMRKZ009t3mNjEb-eF2DLTOox2T_S-2tsSA",
+          "title": "DataRobot Essentials",
+          "subtitle": "DataRobot",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Medical Device Development",
+          "subtitle": "Udemy",
+          "issued": "Issued Jan 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Data Science in Stratified Healthcare in Precision Medicine",
+          "subtitle": "Coursera",
+          "issued": "Issued Jul 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3896",
+          "companyUrn": "urn:li:fsd_company:3896",
+          "companyLink1": "https://www.linkedin.com/company/dassaultsystemes/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHroRzeNTva6Q/company-logo_400_400/company-logo_400_400/0/1631330934922?e=1785369600&v=beta&t=HJ-AQ3IJ_H7RZLZN5B_cIeiBLpv-N66b523hs1w-4TU",
+          "title": "Certified SOLIDWORKS Associate (CSWA)",
+          "subtitle": "Dassault Systèmes",
+          "issued": "Issued Jun 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Public Speaking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4477",
+          "companyUrn": "urn:li:fsd_company:4477",
+          "companyLink1": "https://www.linkedin.com/school/oxforduni/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1785369600&v=beta&t=YWZ_dcWkHXOGDiT8--gbh6rFHaRC3LwtP7-KaBVekrM",
+          "title": "University of Oxford",
+          "subtitle": "Master’s Degree, University hockey club",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "2.1"
+            },
+            {
+              "type": "insightComponent",
+              "text": "A four year general engineering course that covered electronics, fluid mechanics, materials and mechanics. During the final two years I specialised with modules in mechanical, materials, biomedical, solid mechanics and software engineering."
+            }
+          ]
+        },
+        {
+          "companyId": "7244",
+          "companyUrn": "urn:li:fsd_company:7244",
+          "companyLink1": "https://www.linkedin.com/school/university-of-leeds/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0CKeyyA6TaQ/company-logo_400_400/company-logo_400_400/0/1631327098783?e=1785369600&v=beta&t=UScYufZplO5OEZLeTZrfgZbffFl6XWm6zJcwz3l4mRo",
+          "title": "University of Leeds",
+          "subtitle": "Doctor of Philosophy (Ph.D.), Biomechanical Engineering",
+          "caption": "2015 - 2019",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Investigating the effect of surgical alignment on the kinematics and wear of total knee replacements. This will be done using both experimental and computational methods, resulting in a validated computer model which can be used for parametric testing."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Volunteer",
+          "subtitle": "Oxford Adaptive Rowing Club",
+          "caption": "Aug 2014 - Jun 2015 · 10 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Geometric Analysis of Foot Print and Foot Shape",
+          "subtitle": "Oct 2014 - Oct 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Oxford"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Using pressure plate data from the gait lab I used three different methods to characterise foot shape in order to differentiate between normal and flat footed patients. The three methods tested were the position of the centre of pressure of the foot during gait, fourier series to quantify shape and principal component analyses using sliding landmarks. These methods were carried out using Matlab code that I had written."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

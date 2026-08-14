@@ -1,0 +1,484 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/pshanesmith",
+  "row_key": "id:0036O000044PLTcQAO",
+  "person": "Shane Smith",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:04Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAATwozcBSNRMtxUYle2uCMHVOAofDt8W_vs",
+      "firstName": "Shane",
+      "lastName": "Smith",
+      "fullName": "Shane Smith",
+      "publicIdentifier": "pshanesmith",
+      "headline": "Technology Leader at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Asheville, North Carolina United States",
+      "addressWithoutCountry": "Asheville, North Carolina",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHqDqYEWkpCQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1522708409526?e=1785369600&v=beta&t=hYBm7S4xYxvtJJNMQzr1wfpgUFNmSXqWi5jZ3JpuD8c",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQG9PeniOmDF6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517046331907?e=1785369600&v=beta&t=z754JZXbt_5XOllYbIYvxonTra2V9BUy7WEq1fKcV8Q",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHqDqYEWkpCQw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1522708408688?e=1785369600&v=beta&t=i9bErrqZSs4dVu3M5cW0FaRjT0xBIGs8p9n6uSciObc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHqDqYEWkpCQw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1522708408878?e=1785369600&v=beta&t=T5MSf-NQMI2huF0jYIM0dMpVMKI-K51S9n3ng37ss34"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHqDqYEWkpCQw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1522708408963?e=1785369600&v=beta&t=CqCxp3KlKc0sj58OmPfl0oJfEuKveFkOUYUNsiedbm4"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHqDqYEWkpCQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1522708409526?e=1785369600&v=beta&t=hYBm7S4xYxvtJJNMQzr1wfpgUFNmSXqWi5jZ3JpuD8c"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQG9PeniOmDF6g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517046332053?e=1785369600&v=beta&t=lVduDb3DtIoey8jHc4jWCMTNWQlfrOb8pW05jsEsYEE"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQG9PeniOmDF6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517046331907?e=1785369600&v=beta&t=z754JZXbt_5XOllYbIYvxonTra2V9BUy7WEq1fKcV8Q"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 7 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "VP, Technology Services",
+              "caption": "Dec 2022 - Present · 3 yrs 1 mo",
+              "description": []
+            },
+            {
+              "title": "Sr. Director, Technology Services",
+              "caption": "Jun 2022 - Dec 2022 · 6 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Director, IT",
+              "caption": "Feb 2021 - Oct 2022 · 1 yr 8 mos",
+              "metadata": "Cary, North Carolina, United States",
+              "description": []
+            },
+            {
+              "title": "IT Director",
+              "caption": "Sep 2018 - Feb 2021 · 2 yrs 5 mos",
+              "metadata": "Cary, North Carolina",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10205",
+          "companyUrn": "urn:li:fsd_company:10205",
+          "companyLink1": "https://www.linkedin.com/company/take-2-interactive-software-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHqDxyhkZqAXA/company-logo_400_400/company-logo_400_400/0/1684166362590/take_2_interactive_software_inc__logo?e=1785369600&v=beta&t=UO39cwZMbueeg1W6vKtQcg4udCfKBmADxEKNo-0EFoM",
+          "title": "Take-Two Interactive Software, Inc.",
+          "subtitle": "undefined · 3 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "VP, Global Enterprise Infrastructure",
+              "caption": "Jun 2017 - Sep 2018 · 1 yr 3 mos",
+              "metadata": "New York, New York",
+              "description": []
+            },
+            {
+              "title": "Senior Director, Global Enterprise Infrastructure",
+              "caption": "Feb 2015 - Jun 2017 · 2 yrs 4 mos",
+              "metadata": "New York, NY",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10205",
+          "companyUrn": "urn:li:fsd_company:10205",
+          "companyLink1": "https://www.linkedin.com/company/take-2-interactive-software-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHqDxyhkZqAXA/company-logo_400_400/company-logo_400_400/0/1684166362590/take_2_interactive_software_inc__logo?e=1785369600&v=beta&t=UO39cwZMbueeg1W6vKtQcg4udCfKBmADxEKNo-0EFoM",
+          "title": "Manager, Enterprise Architecture",
+          "subtitle": "Take-Two Interactive Software, Inc. . undefined",
+          "caption": "Jul 2013 - Jul 2014 · 1 yr",
+          "metadata": "New York, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Assessed, scoped, and assisted in the design of most major IT projects managed by the corporate infrastructure team. These projects included corporate datacenter design, global network, web filtering, email filtering, log aggregation, Microsoft Lync telephony, global managed wireless, network monitoring and systems management redesign (reporting, deployment, and patching). Worked with business, development, risk management, and legal stakeholders in order to scope projects and negotiate terms with vendors. Worked with peers in engineering, operations, and support in order to ensure the successful delivery and maintenance of solutions. Assisted with policy and standards development.  Provided supplemental engineering support to the corporate infrastructure team with Active Directory, Exchange, Linux, and Lync."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19870",
+          "companyUrn": "urn:li:fsd_company:19870",
+          "companyLink1": "https://www.linkedin.com/company/irrational-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHc-fvCqbkEPw/company-logo_400_400/company-logo_400_400/0/1631301082089?e=1785369600&v=beta&t=ycVvpNbH7Kwe8ZcKBc48wzT1BZDaiAQ1mTpyxy4FBpI",
+          "title": "IT Director",
+          "subtitle": "Irrational Games . undefined",
+          "caption": "Dec 2011 - Jul 2013 · 1 yr 7 mos",
+          "metadata": "Quincy, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Managed a small IT team supporting nearly 200 employees and contractors. Performed a major redesign of all critical IT systems, including networking, virtualization, storage, and source control. Performed audits of DR, security, and software usage. Developed reports used throughout the Take Two studios to improve accountability and compliance. Participated as an advisor in the global steering committee tasked with developing policy and selecting global IT solutions. Managed technical aspects of all major web development projects with internal and external resources."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Senior IT Manager",
+          "subtitle": "Epic Games . undefined",
+          "caption": "May 2006 - Dec 2011 · 5 yrs 7 mos",
+          "metadata": "Cary, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Built infrastructure up from a single medium sized studio to five interconnected global sites.  Worked directly with Cisco, EMC, NetApp, and VMWare to maintain relationships, resolve technical issues, and drive change in multiple product lines.  Managed maintenance contracts and negotiated purchasing.\n\nMajor Accomplishments:\n- Oversaw the build-out of a highly redundant datacenter\n- Converted a largely physical infrastructure to mostly virtualized environment with Cisco UCS and VMWare vSphere.\n- Designed and built remote office infrastructure in Warsaw, Seoul, Salt Lake City\n- Build a world class network with cutting edge technologies (Cisco 6509-E VSS, Cisco Nexus, Cisco UCS)\n- Developed tools to assist with internal IT processes using VBScript, Powershell, and C#\n- Assisted developers with database design tasks and performance testing for internal tools and the back end environment for the Gears of War franchise."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1491",
+          "companyUrn": "urn:li:fsd_company:1491",
+          "companyLink1": "https://www.linkedin.com/company/sas/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFhSD86O7AkYA/company-logo_400_400/company-logo_400_400/0/1720039737493/sas_logo?e=1785369600&v=beta&t=qO4tmNiH0SdMUB82C3wRz5dlmseNWuIa3hO4Ybb_wo0",
+          "title": "Software Engineer",
+          "subtitle": "SAS . undefined",
+          "caption": "May 2005 - May 2006 · 1 yr",
+          "metadata": "Cary, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed applications using SAS BI tools, Dataflux, and Oracle DB.  Built custom reports for internal sales and marketing groups.  Developed internal applications with Java/Tomcat/Hibernate.  Developed and optimized DB driven applications with PL/SQL."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "53711",
+          "companyUrn": "urn:li:fsd_company:53711",
+          "companyLink1": "https://www.linkedin.com/company/trailblazer-studios/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHX6RihMrr6BA/company-logo_400_400/company-logo_400_400/0/1630604156859/trailblazer_studios_logo?e=1785369600&v=beta&t=gDBZZmP679wT7cq6CO95FvP92pdBixrf4iiMnDOuhA8",
+          "title": "Network and Systems Administrator",
+          "subtitle": "Trailblazer Studios . undefined",
+          "caption": "2002 - 2005 · 3 yrs",
+          "metadata": "Raleigh, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Solely managed all IT operations supporting the unique requirements 3D animators, effects artists, audio engineers, and editors."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1491",
+          "companyUrn": "urn:li:fsd_company:1491",
+          "companyLink1": "https://www.linkedin.com/company/sas/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFhSD86O7AkYA/company-logo_400_400/company-logo_400_400/0/1720039737493/sas_logo?e=1785369600&v=beta&t=qO4tmNiH0SdMUB82C3wRz5dlmseNWuIa3hO4Ybb_wo0",
+          "title": "Network Engineer",
+          "subtitle": "SAS . undefined",
+          "caption": "Jan 2000 - 2002 · 2 yrs",
+          "metadata": "Cary, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Systems Administrator",
+          "subtitle": "Interface Technologies . undefined",
+          "caption": "1996 - 2000 · 4 yrs",
+          "metadata": "Raleigh, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "International Game Developers Association (IGDA)",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Cisco Nexus",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco UCS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Red Hat Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mac OS X",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Exchange",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Shell Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Powershell",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Active Directory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VBScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4813",
+          "companyUrn": "urn:li:fsd_company:4813",
+          "companyLink1": "https://www.linkedin.com/school/north-carolina-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGaD7AuaL571Q/company-logo_400_400/company-logo_400_400/0/1645128364860/north_carolina_state_university_logo?e=1785369600&v=beta&t=U4OIo76Z96b0WDiLhuJlsMciAo-8pnZ_S50ILVBe5T8",
+          "title": "North Carolina State University",
+          "subtitle": "Bachelor of Science, Volunteer at the Gallery of Art & Design (now the Gregg Museum of Art & Design)\nMember of the Men's Choir",
+          "caption": "1996 - 2002",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Volunteer",
+          "subtitle": "Oaks and Spokes",
+          "caption": "2014 - 2015 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Member",
+          "subtitle": "The Beehive Collective",
+          "caption": "2009 - 2010 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Epic Games / Cisco Virtual Switching System Core Upgrade",
+          "subtitle": "2008 - 2008",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Collaborated with Cisco on a core upgrade using VSS."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

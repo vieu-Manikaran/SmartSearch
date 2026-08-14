@@ -1,0 +1,412 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/mohit-sharma-7822766",
+  "row_key": "id:003Uk00000xr8wvIAA",
+  "person": "Mohit Sharma",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:46:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAEbW9IB8WKw9aPu1hP5RiTt0-MnwLV_8Rk",
+      "firstName": "Mohit",
+      "lastName": "Sharma",
+      "fullName": "Mohit Sharma",
+      "publicIdentifier": "mohit-sharma-7822766",
+      "headline": "Manager MDM Platform and Development at ICA Gruppen AB",
+      "about": "• 17+ years of Hands-on experience in designing and developing applications involving Java, J2EE, OIC, VBCS, Spring boot, hibernate, Web Services, and related technologies, certified from Oracle on Java and Cloud terminologies.\n• Domain experience in fields of Retail and Logistics, Investment Banking, and Communication Technology.\n• Working as a Lead Software Architect with ICA Sweden, with knowledge of Oracle Cloud Infrastructure, Azure, Java 9, AWS, Spring Boot, drove cloud migration for several in-house applications\n• Significant knowledge of Oracle Infrastructure and Developer Cloud including platforms like SaaS - ERPs, PaaS - VBCS & ICS and IaaS\n• Complete understanding of the different phases of the SDLC and Software Configuration Management.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Stockholm, Stockholm County Sweden",
+      "addressWithoutCountry": "Stockholm, Stockholm County",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQG_H_fpMVFVCQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1635429887262?e=1785369600&v=beta&t=_yDce0woqoaHH2P5ygRHKpUvAahZgBQO_wRE9WNxmYw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG_H_fpMVFVCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1635429887262?e=1785369600&v=beta&t=Vs7niOr_oHXBc-qgXEI45cWo8wpGdX6MIEvRJ4eQHgg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG_H_fpMVFVCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1635429887262?e=1785369600&v=beta&t=lsoY_MFSI8KGNHklhDROj-xlqreGhm212ZQqMY__TG8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG_H_fpMVFVCQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1635429887262?e=1785369600&v=beta&t=p0WumjVwP9-4JCIlrA-SwZGiQuFefFCNP-ncfEP6wus"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG_H_fpMVFVCQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1635429887262?e=1785369600&v=beta&t=_yDce0woqoaHH2P5ygRHKpUvAahZgBQO_wRE9WNxmYw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "ICA Gruppen",
+          "subtitle": "Full-time · 7 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Manager MDM platform and development",
+              "caption": "Jun 2026 - Present · ",
+              "metadata": "Solna",
+              "description": []
+            },
+            {
+              "title": "Manager Development and Platform",
+              "caption": "Dec 2024 - Present · 1 yr 1 mo",
+              "metadata": "Solna, Stockholm County, Sweden",
+              "description": []
+            },
+            {
+              "title": "Lead Software Architect",
+              "caption": "Mar 2023 - Nov 2024 · 1 yr 8 mos",
+              "metadata": "Solna, Stockholm County, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "During my tenure at ICA, I have worked as a tech architect for several projects, designed a number of\nsolutions together with the delivery of many applications, updating and maintained work processes on\nCloud for the design and development teams. Managing workload with Jira, Kanban, and Scrum for\ndifferent teams respectively. Key highlights -\n* Delivered a mobile app that saves a lot of time in goods receiving, setting a benchmark in the Industry\n* Developed a calculation engine and a web interface for deriving landing costs up to a year in advance\n* Led cloud migration for a group of in house application and continuous delivery in ICAs journey to the\ncloud, creating secure, scalable & robust solutions for the business needs.\n* Leading Software Architect Board and Forum at ICA"
+                }
+              ]
+            },
+            {
+              "title": "System Architect",
+              "caption": "Sep 2018 - Mar 2023 · 4 yrs 6 mos",
+              "metadata": "Solna, Stockholm County, Sweden",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3640062",
+          "companyUrn": "urn:li:fsd_company:3640062",
+          "companyLink1": "https://www.linkedin.com/company/leeroy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwOEUIxcBsMw/company-logo_400_400/company-logo_400_400/0/1630616129558/leeroy_logo?e=1785369600&v=beta&t=yvmr62ig3gquhMMDyS-NoMDy-TLeT91cISgR9Son6mo",
+          "title": "Java Architect",
+          "subtitle": "Leeroy . undefined",
+          "caption": "Mar 2018 - Sep 2018 · 6 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working on developing and enhancing POS application which is a turn key product used in food industry."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1283",
+          "companyUrn": "urn:li:fsd_company:1283",
+          "companyLink1": "https://www.linkedin.com/company/infosys/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=1785369600&v=beta&t=wXRFwA1J0ChIKomgw78pxANBndJFiDxiGowP-7KcIos",
+          "title": "Technology Lead",
+          "subtitle": "Infosys . undefined",
+          "caption": "Jan 2015 - Feb 2018 · 3 yrs 1 mo",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Java and Android developer, Team lead & Scrum master."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "Consultant",
+          "subtitle": "ICA Gruppen . undefined",
+          "caption": "2015 - Feb 2018 · 3 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1033",
+          "companyUrn": "urn:li:fsd_company:1033",
+          "companyLink1": "https://www.linkedin.com/company/accenture/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEgtOEcxlXMog/company-logo_400_400/B4DZfqEQWkHAAg-/0/1751978673981/accenture_logo?e=1785369600&v=beta&t=ZlLVUNSvG5btIHNoXi_46VtOW4dm-uNZJDxBEBFgwUI",
+          "title": "Team Lead",
+          "subtitle": "Accenture . undefined",
+          "caption": "Jul 2009 - Dec 2014 · 5 yrs 5 mos",
+          "metadata": "Hyderabad",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Analysis, Design and Build the software component, Hands-on experience of designing and developing SOA based applications involving Web Services and related technologies, Domain experience in field of Investment Banking and Communications Technology."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Lecturer",
+          "subtitle": "Rajasthan College of Engineering for Women . undefined",
+          "caption": "Dec 2008 - Jul 2009 · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Roles and Responsibilities: \nWorked as a Lecturer, Subjects - Design & Analysis of Algorithm, Object Oriented Programming Language"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1028",
+          "companyUrn": "urn:li:fsd_company:1028",
+          "companyLink1": "https://www.linkedin.com/company/oracle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1785369600&v=beta&t=-2jXKAmeScrST660DEvhikbsU_jlaW2xSt2n4cFthv0",
+          "title": "Oracle Cloud Infrastructure Foundations 2020 Certified Associate",
+          "subtitle": "Oracle",
+          "issued": "Issued Oct 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1028",
+          "companyUrn": "urn:li:fsd_company:1028",
+          "companyLink1": "https://www.linkedin.com/company/oracle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1785369600&v=beta&t=-2jXKAmeScrST660DEvhikbsU_jlaW2xSt2n4cFthv0",
+          "title": "SCJP",
+          "subtitle": "Oracle",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Microsoft Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OIC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vbcs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sun Certified Java Programmer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle Cloud",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure Infrastructure as a Service (IaaS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JDBC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OOP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PL/SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Enterprise Edition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDLC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8618362",
+          "companyUrn": "urn:li:fsd_company:8618362",
+          "companyLink1": "https://www.linkedin.com/school/university-of-rajasthan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFiJfi4y77ylA/company-logo_400_400/company-logo_400_400/0/1631342155240?e=1785369600&v=beta&t=Xa5VlOht1hthimPTTGOo3x554-fdkTGS1t43uNnLY9U",
+          "title": "University of Rajasthan",
+          "subtitle": "Bachelor of Engineering (B.E.), Computer Science",
+          "caption": "2004 - 2008",
+          "subComponents": []
+        },
+        {
+          "title": "Rajasthan State Board\tCentral Academy School",
+          "subtitle": "Sr. Secondary [12th], null",
+          "caption": "1988 - 2003",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

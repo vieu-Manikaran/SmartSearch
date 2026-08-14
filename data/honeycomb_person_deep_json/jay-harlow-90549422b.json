@@ -1,0 +1,91 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jay-harlow-90549422b",
+  "row_key": "id:003Uk00000x1oGwIAI",
+  "person": "Jay Harlow",
+  "account": "Werner Enterprises, Inc.",
+  "fetched_at": "2026-07-14T10:47:31Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADmO2RUBXsawLhTbuuZwbKLHkOK7RBfkfww",
+      "firstName": "Jay",
+      "lastName": "Harlow",
+      "fullName": "Jay Harlow",
+      "publicIdentifier": "jay-harlow-90549422b",
+      "headline": "Application Architect at Werner Enterprises",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Omaha, Nebraska United States",
+      "addressWithoutCountry": "Omaha, Nebraska",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFacRwZk0Z5pA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1642206269933?e=1785369600&v=beta&t=vlsWIX98Nv-1KjiW2ZKtHUZPr7ejorUlX2cJffSN-4s",
+      "profilePicAllDimensions": [
+        {
+          "width": 96,
+          "height": 96,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFacRwZk0Z5pA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1642206269933?e=1785369600&v=beta&t=S3a-WE_krxcEdj3teFCz8Etjrsc1rJU0svkitPTaeeM"
+        },
+        {
+          "width": 96,
+          "height": 96,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFacRwZk0Z5pA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1642206269933?e=1785369600&v=beta&t=XdAKh4zHlVtybAQjgjaxwDTisD_UY8pvy6QDtYQkD0g"
+        },
+        {
+          "width": 96,
+          "height": 96,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFacRwZk0Z5pA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1642206269933?e=1785369600&v=beta&t=TMFjrCOanYHA7r5LUo-uSUTB423txqS3JIMM2qzDE6o"
+        },
+        {
+          "width": 96,
+          "height": 96,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFacRwZk0Z5pA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1642206269933?e=1785369600&v=beta&t=vlsWIX98Nv-1KjiW2ZKtHUZPr7ejorUlX2cJffSN-4s"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "12586",
+          "companyUrn": "urn:li:fsd_company:12586",
+          "companyLink1": "https://www.linkedin.com/company/werner-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAK3LmTyMsrA/company-logo_400_400/company-logo_400_400/0/1737154595689/werner_enterprises_logo?e=1785369600&v=beta&t=20ZSiGgtgVf7Ay72nPY2zknfCOtqd4PtVORDmNYfGew",
+          "title": "Application Architect",
+          "subtitle": "Werner Enterprises . Full-time",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

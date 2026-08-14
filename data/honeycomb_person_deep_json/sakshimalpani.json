@@ -1,0 +1,400 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sakshimalpani",
+  "row_key": "id:003Uk00000yfZ6YIAU",
+  "person": "Sakshi Malpani",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:50Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAzOdQgBCAk89jADi2KIhkosbyCk-CQeazI",
+      "firstName": "Sakshi",
+      "lastName": "Malpani",
+      "fullName": "Sakshi Malpani",
+      "publicIdentifier": "sakshimalpani",
+      "headline": "Senior Software Engineer at Yelp",
+      "about": "Backend Software developer with over 4+ years of experience in designing, developing and testing user efficient products and services. Experience in Analysis, Design and Implementing Object-Oriented Programming Concepts. Proficient with Data Structures & Algorithms.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Dallas, Texas United States",
+      "addressWithoutCountry": "Dallas, Texas",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQHih5iIWn8m3g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1573848189645?e=1785369600&v=beta&t=f_fT7g3NNvHw8pFbc-Y6QqSHtvwSFGrsC0ITkkflvJs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQHih5iIWn8m3g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1573848189579?e=1785369600&v=beta&t=1iVIcrnhIRZBLglJPnq9Yx4ZiS4cx8rYIQ-wIaUHAP4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQHih5iIWn8m3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1573848189546?e=1785369600&v=beta&t=QmMUqMHAQZXrCr7_DcRkAovW4gsn4pCK5ekn4clbjGk"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQHih5iIWn8m3g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1573848189612?e=1785369600&v=beta&t=XgdH8hIHYjsemgUFxOdknUHbFaBygnU-ZuiSDn759Vo"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQHih5iIWn8m3g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1573848189645?e=1785369600&v=beta&t=f_fT7g3NNvHw8pFbc-Y6QqSHtvwSFGrsC0ITkkflvJs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 4 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Nov 2023 - Present · 2 yrs 2 mos",
+              "metadata": "Dallas, Texas, United States",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Apr 2021 - Nov 2023 · 2 yrs 7 mos",
+              "metadata": "Dallas, Texas, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "6439479",
+          "companyUrn": "urn:li:fsd_company:6439479",
+          "companyLink1": "https://www.linkedin.com/company/nference/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFxEobik8MOPg/company-logo_400_400/company-logo_400_400/0/1688214180265/nference_logo?e=1785369600&v=beta&t=IAyjcxuxw4ffqVCyO5qrfmzMcTFwlnH68Q9OqVqHgqA",
+          "title": "Senior Software Engineer",
+          "subtitle": "nference . Full-time",
+          "caption": "Nov 2019 - Feb 2021 · 1 yr 3 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Software Developer II",
+          "subtitle": "Microsoft . undefined",
+          "caption": "Jan 2016 - Dec 2018 · 2 yrs 11 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Samsung R&D . undefined",
+          "caption": "Jun 2014 - Nov 2015 · 1 yr 5 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Code Review",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure Cosmos DB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Github",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Word",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LaTeX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "548882",
+          "companyUrn": "urn:li:fsd_company:548882",
+          "companyLink1": "https://www.linkedin.com/school/mnitjaipur/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH5jRckiy49sA/company-logo_400_400/company-logo_400_400/0/1721905547445/mnitjaipur_logo?e=1785369600&v=beta&t=0kIjr2ArvQO6TgbFI7fdkIb6OKx-EBwDgq-kVC0X-jc",
+          "title": "Malaviya National Institute of Technology Jaipur",
+          "subtitle": "Bachelor of Technology - BTech, Computer Engineering",
+          "caption": "2010 - 2014",
+          "subComponents": []
+        },
+        {
+          "companyId": "18144614",
+          "companyUrn": "urn:li:fsd_company:18144614",
+          "companyLink1": "https://www.linkedin.com/school/maharani-gayatri-devi-girl-s-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHI-XbcPrv6Kw/company-logo_400_400/company-logo_400_400/0/1631330899915?e=1785369600&v=beta&t=WtCLQx69Dztvfqwrowcen5VmZ01KcSyrF4nVCJb2g88",
+          "title": "Maharani Gayatri Devi Girls'​ School",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "QoS-Aware Routing in MANETs",
+          "subtitle": "Jan 2014 - May 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Malaviya National Institute of Technology Jaipur"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Study of the quality analysis of real-time video streaming in MANETs.\nProposed a multi-parameter based link stability estimation method for enhancing the QoE(Quality-\nof-Experience) for perceived video quality in MANETs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Detection and Counter Measures against JellyFish Attacks on MANETs",
+          "subtitle": "Jul 2013 - Dec 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Malaviya National Institute of Technology Jaipur"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Using the Simualtion Study performed in the earlier project, this project includes various detection techniques and meaures that can be taken to make Wireless Networks resilient against DoS(Denial of Service) attacks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Impact of JellyFish Attacks on Ad-hoc Networks",
+          "subtitle": "May 2013 - Jul 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Malaviya National Institute of Technology Jaipur"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Successfully performed research on the behavior of JF vulnerable networks under different variants of TCP and the drop in the performance of wireless network, using EXata/Cyber as the Simualtion Tool."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

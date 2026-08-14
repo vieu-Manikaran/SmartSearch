@@ -1,0 +1,506 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jesseroper",
+  "row_key": "id:003Uk00000yfW2pIAE",
+  "person": "Jesse Roper",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAL8OrUBVOGuPKE2nTHstb2WnLSeCi6jnmw",
+      "firstName": "Jesse",
+      "lastName": "Roper",
+      "fullName": "Jesse Roper",
+      "publicIdentifier": "jesseroper",
+      "headline": "Principal Software Engineer at Medtronic",
+      "about": "I am an experienced software engineer and people leader with a wide range of technical skills and experience on a variety of platforms.  I am always looking to learn new technologies and work with people who will grow me as a professional.\n\nSpecialties: C++, Qt/QML, Python, C#, WPF, Java, VB, jQuery, Javascript, HTML, XML, XSLT, Microsoft Dynamics CRM 2011, Sage SalesLogix, ExtJS, Microsoft Sharepoint, Sage Act!, Microsoft Active Directory,  C, C++, Norton Security Suite, SQL queries, functions, stored procedures, JBuilder, Microsoft VIsual Studio 2008/2010/2012, Mathematics, Microsoft Access, Microsoft Excel",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Peabody, Massachusetts United States",
+      "addressWithoutCountry": "Peabody, Massachusetts",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQF-hGNUoG8OXw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711634998072?e=1785369600&v=beta&t=kzyfNsF08CtAxVzVCdIZ5sHzsAijSrPBYD29s1A7M_s",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQEVhWSsoCM7xg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688053181305?e=1785369600&v=beta&t=D1MPELh8P7Znc-IT0aWlfAf_7GuO0sIvh_MawCzKtpA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQF-hGNUoG8OXw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711634998072?e=1785369600&v=beta&t=VsGMo3GbgCEAdwumuh1DERfvb6rPMFA0GpyPd47pPMs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQF-hGNUoG8OXw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711634998072?e=1785369600&v=beta&t=aULm1Qu7j3Q4VaKEB7EUs1HMw3GRt6c_oDDTcHnLPU8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQF-hGNUoG8OXw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711634998072?e=1785369600&v=beta&t=XdmbJDuX5nFe1rc9yYWr4ch_8UKP-dtaCi9Yk3_KjYE"
+        },
+        {
+          "width": 506,
+          "height": 506,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQF-hGNUoG8OXw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711634998072?e=1785369600&v=beta&t=kzyfNsF08CtAxVzVCdIZ5sHzsAijSrPBYD29s1A7M_s"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEVhWSsoCM7xg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1688053181305?e=1785369600&v=beta&t=V8515U4rKnWH3RJW0UgzUPnpHIaihOif13LTOyXkcBE"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEVhWSsoCM7xg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688053181305?e=1785369600&v=beta&t=D1MPELh8P7Znc-IT0aWlfAf_7GuO0sIvh_MawCzKtpA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal Software Engineer - Surgical Robotics",
+          "subtitle": "Medtronic . undefined",
+          "caption": "Jan 2022 - Present · 4 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Work across large-scale organization with the GUI team on various needs for several user interfaces for the HUGO surgical robotics system"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "9414573",
+          "companyUrn": "urn:li:fsd_company:9414573",
+          "companyLink1": "https://www.linkedin.com/company/sea-machines/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFM0FPqGYFD-A/company-logo_400_400/company-logo_400_400/0/1682319419436/sea_machines_logo?e=1785369600&v=beta&t=wFDvKSW60l8QDSZU7nt-9G1iPQPFax9Kc6CYwnxzffg",
+          "title": "User Interface Team Lead",
+          "subtitle": "Sea Machines Robotics . Full-time",
+          "caption": "Jul 2018 - Jan 2022 · 3 yrs 6 mos",
+          "metadata": "Greater Boston",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead of User Interface team.  Manage laptops and UI software bugs and features for deployment on vessels.  Work closely with MEs/EEs and Autonomy/Machine Learning engineers to develop solutions to complex problems."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "subtitle": "Neurologica | makes brains in balance . undefined",
+          "caption": "Jun 2017 - Jun 2018 · 1 yr",
+          "metadata": "Danvers, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Implement and maintain middle-tier and front-end code for the software running on scanners being deployed to hospitals and clinics worldwide.  Work in both Windows and Ubuntu environments and coordinate closely with mechanical and electrical engineers. \n•\tDesigned PostgreSQL database schema and maintain it with all business logic between the middleware and the front end UI\n•\tWork closely with other software engineers in the group to implement features and fix bugs ranging from database layer to business layer to front end UI code\n•\tDisect and send DICOM image data streams and header data in the form of byte arrays coming from software subsystems and analyze image quality, manipulation algorithms and translations\n•\tAdeptly juggle tight deadlines and keep other engineering and quality assurance members unblocked while continuing to implement deliverables"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2467378",
+          "companyUrn": "urn:li:fsd_company:2467378",
+          "companyLink1": "https://www.linkedin.com/company/symbotic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF90D4kGLUUUg/company-logo_200_200/B4EZ67zjUgHoAE-/0/1781267314187?e=1785369600&v=beta&t=o4Ncv8lQmUPjt-B2PNf05RSd9l1j1XkyvIybSDTbZGQ",
+          "title": "Symbotic",
+          "subtitle": "undefined · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Escalation Manager",
+              "caption": "Oct 2016 - Jun 2017 · 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Code new features and fix bugs in large code base across several software groups currently in use across our test structure and several large production sites across the country\n\tCoordinate development effort of Software Support group working on internal tools that streamline code deployment, support and on-site operations working with WPF/C#/SQL\n\tDevelop and fix bugs in emulators that simulate hardware components for use by development teams and SQA \n\tOwn and manage all software delivery to customers, including documentation for management and customer sign-off\n\tDeploy internal and production SQL scripts, DB backups, replication and DACPACs to update large production databases"
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jun 2014 - Oct 2016 · 2 yrs 4 mos",
+              "metadata": "Wilmington, Massachusetts",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Maintain, design and extend existing support and simulation tools within and outside of the main code base for the automated warehouse utilization system.  Lead and coordinate software installs, upgrades and issue resolution, working closely with customers around the country and improving the robustness of the processes for future events.  Develop and implement new documentation, resource management, scheduling and ramp-up optimization processes in favor of growing the Software Support team as our customer-base grows increasingly larger."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "17516",
+          "companyUrn": "urn:li:fsd_company:17516",
+          "companyLink1": "https://www.linkedin.com/company/public-consulting-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHbfiWr4LHVJA/company-logo_400_400/company-logo_400_400/0/1630602491796/public_consulting_group_logo?e=1785369600&v=beta&t=Dvuy8alXy0XyXQVB9MdjZGkEn0VixQjAKyiGI1l0KUA",
+          "title": "Senior Software Engineer",
+          "subtitle": "Public Consulting Group . undefined",
+          "caption": "Jun 2013 - Jun 2014 · 1 yr",
+          "metadata": "Boston, Massachusetts",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Implement medical insurance web portals based on requirements from state government agencies.  Led effort of maintaining automated file processing software for insurance authorization files, including downloading/uploading, parsing, translating and manipulating database records accordingly."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "164812",
+          "companyUrn": "urn:li:fsd_company:164812",
+          "companyLink1": "https://www.linkedin.com/company/magenic/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEY8C7TL4bZFQ/company-logo_400_400/company-logo_400_400/0/1630612383880/magenic_logo?e=1785369600&v=beta&t=dOHh7-jRYHjxBXLTmdEuLwUZ2qn7SuDtHv6Goxzi_AY",
+          "title": "Consultant",
+          "subtitle": "Magenic . undefined",
+          "caption": "Dec 2012 - Jun 2013 · 6 mos",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software architect and consultant for various .NET technologies, including Sharepoint 2010"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Solutions Architect",
+          "subtitle": "Medical Sales CRM by Infinity Info Systems . undefined",
+          "caption": "Jun 2011 - Dec 2012 · 1 yr 6 mos",
+          "metadata": "New York, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Design and develop a variety of solutions on both the Sage SalesLogix and Microsoft Dynamics CRM platforms for a variety of clients across different business types\n \nIntegrate SalesLogix into Windows desktop applications, such as Microsoft Outlook and integrate Kanban boards with Team Foundation Server via a windows service\n\nUtilize technologies such as Javascript, JQuery and Ext JS to implement a solutions on the Microsoft Dynamics CRM 2011 platform\n\nWork with Leankit Kanban board and Microsoft Team Foundation Server and create integration between the two so their data becomes automatically-synchronized"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "9221",
+          "companyUrn": "urn:li:fsd_company:9221",
+          "companyLink1": "https://www.linkedin.com/company/ropes-&-gray-llp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFANMyUbe9Z2g/company-logo_200_200/B4EZag1DXAHMAI-/0/1746454984471/ropes__gray_llp_logo?e=1785369600&v=beta&t=cM_FYpmO_5o0zpIfae5COoQ3eMvhS1azEsl3IBWTvsU",
+          "title": "Web Specialist",
+          "subtitle": "Ropes & Gray LLP . undefined",
+          "caption": "Sep 2009 - Jun 2011 · 1 yr 9 mos",
+          "metadata": "New York, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked in a fast-paced environment, fulfilling various web solution needs directly under the Manager of the Knowledge Management team of a large, international corporate law firm.  \n\nWas responsible for documentation and scripts used to streamline the installation of my software and presenting in front of the teams and partners.\n\nWrote and maintained web applications as well as a variety of Microsoft Sharepoint 2007 solutions including Pages, Lists and Document Libraries\n\nDesigned SQL database structure and created stored procedures and functions as necessary for the implementation of web-application and Sharepoint requirements\n\nTransformed XML data with advanced XSL stylesheets and used JQuery, CSS and  Sharepoint web parts, which combined data from multiple lists, Document Libraries and SQL tables to create useful and dynamic pages for use by the partners\n\nDesigned, implemented and maintained large-scale ASP.NET web applications for use by partners and Content Coordinators using SQL and LINQ and which utilized Microsoft WCF technology to obscure the service implementations from the client interfaces"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "946010",
+          "companyUrn": "urn:li:fsd_company:946010",
+          "companyLink1": "https://www.linkedin.com/company/fragrance.com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEKn9VOiIiAiQ/company-logo_400_400/company-logo_400_400/0/1630574401442/fragrancecom_logo?e=1785369600&v=beta&t=lIReyLS4OZ83A-gDa6WUhz1JYRmyi5MmIL37JMjlf2g",
+          "title": "Software Developer",
+          "subtitle": "Fragrance.com . undefined",
+          "caption": "Jan 2007 - Jul 2009 · 2 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Dramatically increased productivity of purchasing department and inventory system with more efficient and easy to use programs\n\nDesigned and controlled full life-cycle of a variety of C#/VB .NET applications using elaborate SQL queries and utilizing code stream-lining technology such as LINQ-to-SQL\n\nCreated and maintained SQL Server tables, triggers, foreign keys, constraints, stored procedures and functions and performed general database maintenance\n\nWorked closely with Vice-President / Purchasing Director gathering specifications as Project Manager for all given projects and headed a team on a large-scale project\n\nOptimized and maintained Microsoft Access and .NET programs and created more efficient versions that utilize modern technologies such as utilizing multi-threading to load portions of large data while showing the user the bulk of the data\n\nProgram functions include: \nShowing purchasing history and monthly sales numbers to help buyers make educated purchasing decisions\nManipulating Excel spreadsheets and importing data into database or creating a new spreadsheet with desired results and formatting\nCreating, editing, printing of purchase orders, invoices, reports and bar code labels"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "A+",
+          "subtitle": null,
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Dynamics CRM 2011",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SharePoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sage Saleslogix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ext JS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Basic",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XSLT",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stored Procedures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Active Directory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8447",
+          "companyUrn": "urn:li:fsd_company:8447",
+          "companyLink1": "https://www.linkedin.com/school/university-at-albany/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH6U_t5yk6mSw/company-logo_400_400/B4EZsPQ6oyHUAc-/0/1765487651688/university_at_albany_logo?e=1785369600&v=beta&t=n1C74FyRr3gkFvSzff5q_YDM12sZY7BbgSsmHmRTL6M",
+          "title": null,
+          "subtitle": "Bachelor of Science, Intramurals basketball, Roper rock band, independent IT consulting",
+          "caption": "1998 - 2004",
+          "subComponents": []
+        },
+        {
+          "companyId": "7201",
+          "companyUrn": "urn:li:fsd_company:7201",
+          "companyLink1": "https://www.linkedin.com/school/stonybrookuniversity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHOeNb0KmKXYQ/company-logo_400_400/company-logo_400_400/0/1630647027307/stony_brook_university_logo?e=1785369600&v=beta&t=kNo0pbs_5wgLp0J4t79wJqp7xabC_nYRW32MnQf1eQc",
+          "title": "Stony Brook University",
+          "subtitle": "Bachelor of Science, Computer Science",
+          "caption": "2003 - 2003",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Studied Mathematics and Computer Science, focusing on discrete theory, MATLAB, Java development and search algorithms, earning credits towards my degree from SUNY Albany."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "401936",
+          "companyUrn": "urn:li:fsd_company:401936",
+          "companyLink1": "https://www.linkedin.com/company/lgrforcollege/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFNaCEUhNF4MQ/company-logo_400_400/company-logo_400_400/0/1660247994223/lgrforcollege_logo?e=1785369600&v=beta&t=uXuevbhutC9AesNu5SVGFFNzKgzxapiBOVsgamUM6FU",
+          "title": "Technology mentor and speaker",
+          "subtitle": "Let's Get Ready",
+          "caption": "May 2009 - May 2010 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "11142055",
+          "companyUrn": "urn:li:fsd_company:11142055",
+          "companyLink1": "https://www.linkedin.com/company/newroadscatholic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQED4uRkTPlgCA/company-logo_400_400/company-logo_400_400/0/1721697890901/newroadscatholic_logo?e=1785369600&v=beta&t=b6oii80AqcTQPDTga19fLl5-QTZYO4GN3L0UsYqBWIo",
+          "title": "Ministry Assistant",
+          "subtitle": "New Roads Catholic Community",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Worship Team band member",
+          "subtitle": "Great Rock Church",
+          "caption": "Mar 2020 - Present · 5 yrs 10 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

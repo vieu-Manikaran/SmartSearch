@@ -1,0 +1,670 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/terrylauprofile",
+  "row_key": "id:003Uk00000ww7XgIAI",
+  "person": "Terry Lau",
+  "account": "RapidAI",
+  "fetched_at": "2026-07-14T10:37:47Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAWc7a0BoexdHf_eRqpFJuu6MW7EyPHpaCo",
+      "firstName": "Terry",
+      "lastName": "Lau",
+      "fullName": "Terry Lau",
+      "publicIdentifier": "terrylauprofile",
+      "headline": "Director of Engineering (AI Strategy & Enablement | ex-Google)",
+      "about": "• 21 years in software engineering, 11 in leadership at Google, Intuit, GoDaddy, and Xperi.• Engineering leadership in AI, platforms, and fintech — leading AI enablement at RapidAI.• Scaled YouTube infrastructure to 1.7B daily users and payment platforms to 50K+ terminals.• Proven cross-functional leader, aligning engineering strategy with business objectives.• Certificates in Machine Learning (Stanford) and Data Science (University of Michigan).",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQESmjlyjXaOLg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517459072638?e=1785369600&v=beta&t=nwHh4Jszv_gBvCvV1878EhAt9OphXNF399x-r4YaJpk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQESmjlyjXaOLg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517459072308?e=1785369600&v=beta&t=vRNtq2SAtsMBf59rW2Tjhywqedk91vflz7MVBZov1v0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQESmjlyjXaOLg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517459072316?e=1785369600&v=beta&t=xUDqDEiUjXbosNQ-BPhB-B7Zj5aK-SdnEDQDJNaW8zU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQESmjlyjXaOLg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517459072719?e=1785369600&v=beta&t=dpFl3wCcerjJmbHH8DhsNtmXEpp9WzMna187wgB2izA"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQESmjlyjXaOLg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517459072638?e=1785369600&v=beta&t=nwHh4Jszv_gBvCvV1878EhAt9OphXNF399x-r4YaJpk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "37506734",
+          "companyUrn": "urn:li:fsd_company:37506734",
+          "companyLink1": "https://www.linkedin.com/company/rapid-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF2Zh-M7Q7Yiw/company-logo_100_100/B56ZaCvMpJGoAQ-/0/1745950133104/rapid_ai_logo?e=1785369600&v=beta&t=TrViROLQ1OoUHAzRCKS_0RZSNlh9Km-rXoeyRN74xTw",
+          "title": "RapidAI",
+          "subtitle": "Full-time · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering - AI Platforms",
+              "caption": "Apr 2026 - Present · ",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Own RapidAI's company-wide AI strategy and enablement, building the AI tooling, infrastructure, and standards that let every engineering team adopt AI effectively and efficiently\n\n• Built an AI-powered data intelligence platform that gives business leaders a precise, narrative view of the\nbusiness for faster decisions — hands-on with RAG, LLM orchestration, and AI agents (Node/Express, React, Prisma, Snowflake, ClickHouse)\n\n• Led development of AI ToolKit, a company-wide library of 40+ developer-focused AI skills spanning every stage of the software lifecycle — requirements, design, coding, debugging, testing, and customer-issue triage — with built-in connectivity to core engineering systems including AWS, GitHub, Jenkins, Apple Xcode, Jira and Confluence, Jama, Okta, Amplitude, and Asana\n\n• Built tooling to measure engineering productivity gains before and after AI adoption\n\n• Set company-wide best practices and standards for AI coding tools (GitHub Copilot, Claude Code, Google Gemini), authoring the AGENTS.md single source of truth that governs how AI assistants operate across the codebase to keep AI-generated code consistent, reviewable, and maintainable\n\n• Building coding agents and an AI-powered internal development platform to advance the organization from AI-assisted coding toward higher-leverage agentic workflows"
+                }
+              ]
+            },
+            {
+              "title": "Director of Engineering - Applications",
+              "caption": "Aug 2023 - Jun 2026 · 2 yrs 10 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Owned engineering for the Rapid app (iOS, Android, web) — RapidAI's clinician-facing app delivering AI imaging analysis to physicians and stroke/trauma teams across 2,500+ hospitals in 100+ countries\n\n• Quadrupled engineering productivity by restructuring the team — reducing headcount by 50% while doubling output through process optimization and focused execution\n\n• Compressed release cycles by 66%, moving from a quarterly to a monthly delivery cadence, accelerating time-to-market and tightening customer feedback loops\n\n• Reduced operating expenditure by 50% by strategically relocating engineering teams from a high-cost to a lower-cost geography while preserving delivery quality and velocity\n\n• Elevated talent density by recruiting senior engineers from leading technology companies including Google and Amazon, raising the engineering bar and reinforcing a culture of technical excellence\n\n• Surfaced AI-analyzed CT/MR results to clinicians within ~90 seconds of a scan, speeding triage and treatment for time-critical conditions like ischemic stroke, intracranial hemorrhage, and pulmonary embolism\n\n• Improved app performance 5x on key operations (login, patient browsing, navigation) through a major refactor, while driving multi-year gains in crash rate and stability\n\n• Built secure, HIPAA- and GDPR-compliant care coordination — real-time case alerts, in-app messaging, one-tap calling, and EMR-linked case summaries — replacing fragmented phone-and-pager workflows\n\n• Stood up the engineering operating model from the ground up — defining team structure, hiring standards, and delivery cadence to scale the organization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "7846",
+          "companyUrn": "urn:li:fsd_company:7846",
+          "companyLink1": "https://www.linkedin.com/company/godaddy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFBubd4youVzg/company-logo_400_400/company-logo_400_400/0/1636569873716/godaddy_logo?e=1785369600&v=beta&t=snqyKs1auEPKRWkOxEul2sAYUMPN9eXm54CPVrw7uxQ",
+          "title": "Director of Engineering - Payment Terminals",
+          "subtitle": "GoDaddy . Full-time",
+          "caption": "Jul 2021 - Aug 2023 · 2 yrs 1 mo",
+          "metadata": "Santa Clara, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Owner of the GoDaddy Payments smart payment terminal software teams, responsible for the development of\npayment SDKs (Java, Kotlin), Android OS and apps (Java, Kotlin), and credit card reader firmware (C, C++)\n\n• Delivered high-performance payment software solutions supporting 50K+ terminals globally\n\n• Drove launch of new payment terminal resulting in 30K units shipment in first year\n\n• Delivered best-in-class terminals by aligning banking partners and internal/external teams\n\n• Secured critical L1, L2, L3 payment and security certifications from key partners enabling market expansion•"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1666",
+          "companyUrn": "urn:li:fsd_company:1666",
+          "companyLink1": "https://www.linkedin.com/company/intuit/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_400_400/company-logo_400_400/0/1661446146222/intuit_logo?e=1785369600&v=beta&t=y493o31ubjS_z2XfMXaxYA-Hym-A8e6EClK1BlvGWNw",
+          "title": "Senior Engineering Manager",
+          "subtitle": "Intuit . Full-time",
+          "caption": "Oct 2019 - Jul 2021 · 1 yr 9 mos",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Led engineering teams for a top 10 financial app, Credit Karma, acquired by Intuit for US$7 billion\n\n• Managed engineering managers and full-stack engineers using Objective-C, Java, Kotlin, and TypeScript, on\niOS, Android and Web platforms\n\n• Increased revenue by prioritizing and launching key new features with the product team\n\n• Improved core metric Transactions per Daily Active User (TpDAU) through data-driven product optimization"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Engineering Manager",
+          "subtitle": "Google . Full-time",
+          "caption": "Apr 2018 - Oct 2019 · 1 yr 6 mos",
+          "metadata": "Mountain View, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Managed and led YouTube Infrastructure Engineering team impacting 1.7 billion daily users\n\n• Drove infrastructure projects enhancing scalability, reliability, efficiency, performance for a top 3 global website\n\n• Massively reduced infrastructure costs by driving migration from monolith to micro-services architecture\n\n• Massively enhanced performance and scalability by driving 2-year transition from Python to C++ backend\n\n• Accelerated developer velocity by building Python tools used by 4,000+ engineers\n\n• Led development of Fixture Framework for unified data seeding used across functional, integration and E2E testing\n\n• Owned Sherlog, a widely used YouTube debugging tool, and other test frameworks\nAuthored comprehensive YouTube Testing Manual handbook guiding over 2,000 engineers"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "17962490",
+          "companyUrn": "urn:li:fsd_company:17962490",
+          "companyLink1": "https://www.linkedin.com/company/xperi-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGaeweWTOeAvg/company-logo_400_400/company-logo_400_400/0/1689185917515/xperi_inc_logo?e=1785369600&v=beta&t=k32NOn19527E0ewg51otOkSacRXetUJHFYQzVTKypXI",
+          "title": "Xperi Corporation",
+          "subtitle": "Full-time · 3 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director, Engineering",
+              "caption": "Apr 2016 - Apr 2018 · 2 yrs",
+              "metadata": "Los Gatos, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Mobile owner driving 10x market growth of DTS Headphone:X across iOS, Android, Windows\n\n• Delivered immersive audio to tens of millions by integrating into Qualcomm, Huawei, Asus, Tencent, and KKBOX\n\n• Reduced engineering cost by 20% by building global engineering teams\n\n• Enabled 10x revenue growth through accelerated time-to-market and continuous delivery\n\n• Reduced release overhead 90% via CI/CD automation of packaging and distribution\n\n• Increased code quality 80% through automated testing and static analysis in CI\n\n• Coached and mentored team members through best practices and hands-on collaboration\n\n• Key developer of DTS Headphone:X v1.0 launched with Huawei, providing onsite support in Shanghai\n\n• Drove mobile strategy and execution for a core audio technology across devices and apps globally"
+                }
+              ]
+            },
+            {
+              "title": "Manager, Mobile Platforms",
+              "caption": "Feb 2015 - Apr 2016 · 1 yr 2 mos",
+              "metadata": "Los Gatos, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led mobile team expansion while decreasing time-to-market for new capabilities\n\n• Significantly reduced critical app crashes by instituting stability monitoring and analytics across mobile products\n\n• Accelerated junior engineer proficiency through hands-on mentoring and coaching in best practices\n\n• Mentored engineers through weekly one-on-ones, lifting team expertise and reducing knowledge silos\n\n• Earned Scrum Master certification and led Agile practice adoption improving team velocity and workflow"
+                }
+              ]
+            },
+            {
+              "title": "Lead Engineer, Android Applications",
+              "caption": "Jun 2014 - Feb 2015 · 8 mos",
+              "metadata": "Los Gatos, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led core development of DTS Headphone:X v1.0 launched globally in partnership with Huawei, delivering hands-on technical guidance in Shanghai.\n\n• Deep Android development skills encompassing SDK, UI, build tools, native interfaces, data persistence, cloud, and concurrency."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "166454",
+          "companyUrn": "urn:li:fsd_company:166454",
+          "companyLink1": "https://www.linkedin.com/company/tivo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFRnlvNoMT2sw/company-logo_400_400/company-logo_400_400/0/1630668100826/tivo_logo?e=1785369600&v=beta&t=XGwJqjW_qdPEAKAfPxIE3QB_CKVBFhNLHn5OVPvDmUQ",
+          "title": "Senior Software Engineer",
+          "subtitle": "TiVo . Full-time",
+          "caption": "Jun 2013 - Jun 2014 · 1 yr",
+          "metadata": "San Mateo, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Led development of innovative Android-based set-top box offering transformative smart TV experience\n\n• Engineered Java platform enabling proprietary UI, DRM for protected media, and resilience via error handling"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2612",
+          "companyUrn": "urn:li:fsd_company:2612",
+          "companyLink1": "https://www.linkedin.com/company/panasonic-avionics-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH6FJnQF9_Rug/company-logo_100_100/B56ZnkPmKkHIAQ-/0/1760470918074/panasonic_avionics_corporation_logo?e=1785369600&v=beta&t=Edt5BmVgaFmhXLhSdyEfdroCQ3JtDqcOApRh4iMUolQ",
+          "title": "Senior Software Engineer",
+          "subtitle": "Panasonic Avionics Corporation . Full-time",
+          "caption": "Jun 2011 - Jun 2013 · 2 yrs",
+          "metadata": "Lake Forest, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Pioneered development of first Android in-flight entertainment system, capturing 85% market share\n\n• Created Java SDK for airlines to build engaging custom infotainment applications\n\n• Developed testing application for Boeing to validate infotainment functionality during aircraft assembly"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19538",
+          "companyUrn": "urn:li:fsd_company:19538",
+          "companyLink1": "https://www.linkedin.com/company/extron-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGaYchNNoNedQ/company-logo_400_400/company-logo_400_400/0/1630595808145/extron__logo?e=1785369600&v=beta&t=BRo4aofL6JbzHIzfzL-0zSHTyDEbwxsQEknGMuCkl1E",
+          "title": "Senior Software Engineer",
+          "subtitle": "Extron Electronics . Full-time",
+          "caption": "Jun 2006 - Jun 2011 · 5 yrs",
+          "metadata": "Burbank, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed embedded video playback systems leveraging Android, C++, Qt, Python, and leading compression technologies including MPEG-2, MPEG-4, H.264, and JPEG2000\n\n• Experienced in boot loaders (u-boot), OS kernel, file systems, and cross-compiling tool chains"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "SDI Media . Full-time",
+          "caption": "Jun 2005 - Jun 2006 · 1 yr",
+          "metadata": "Los Angeles, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Designed and developed solutions utilizing key multimedia formats including MPEG, AVI, TIFF, JPEG, bitmaps"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2516",
+          "companyUrn": "urn:li:fsd_company:2516",
+          "companyLink1": "https://www.linkedin.com/school/university-of-michigan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1785369600&v=beta&t=nuxmfWV_vBohDgi2Ge0IWqDQm-fM-C4bOVcsr3ZPVGA",
+          "title": " Applied Plotting, Charting & Data Representation in Python",
+          "subtitle": "University of Michigan",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2516",
+          "companyUrn": "urn:li:fsd_company:2516",
+          "companyLink1": "https://www.linkedin.com/school/university-of-michigan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1785369600&v=beta&t=nuxmfWV_vBohDgi2Ge0IWqDQm-fM-C4bOVcsr3ZPVGA",
+          "title": "Applied Machine Learning in Python",
+          "subtitle": "University of Michigan",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2516",
+          "companyUrn": "urn:li:fsd_company:2516",
+          "companyLink1": "https://www.linkedin.com/school/university-of-michigan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1785369600&v=beta&t=nuxmfWV_vBohDgi2Ge0IWqDQm-fM-C4bOVcsr3ZPVGA",
+          "title": "Applied Social Network Analysis in Python",
+          "subtitle": "University of Michigan",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2516",
+          "companyUrn": "urn:li:fsd_company:2516",
+          "companyLink1": "https://www.linkedin.com/school/university-of-michigan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1785369600&v=beta&t=nuxmfWV_vBohDgi2Ge0IWqDQm-fM-C4bOVcsr3ZPVGA",
+          "title": "Applied Text Mining in Python",
+          "subtitle": "University of Michigan",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2516",
+          "companyUrn": "urn:li:fsd_company:2516",
+          "companyLink1": "https://www.linkedin.com/school/university-of-michigan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1785369600&v=beta&t=nuxmfWV_vBohDgi2Ge0IWqDQm-fM-C4bOVcsr3ZPVGA",
+          "title": "Introduction to Data Science in Python",
+          "subtitle": "University of Michigan",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Fundamentals: Building Serverless Applications",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jun 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Introduction to Machine Learning on AWS",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jun 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "37792439",
+          "companyUrn": "urn:li:fsd_company:37792439",
+          "companyLink1": "https://www.linkedin.com/company/stanford-online/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEd670c2b8VOQ/company-logo_400_400/B56Z2S6TZbGwAg-/0/1776286250926/stanford_online_logo?e=1785369600&v=beta&t=4nmK2NMljuYC7sugym0UeOC4nOxvm5g0BN16Ps2T4yY",
+          "title": "Advanced Learning Algorithms",
+          "subtitle": "Stanford Online",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "37792439",
+          "companyUrn": "urn:li:fsd_company:37792439",
+          "companyLink1": "https://www.linkedin.com/company/stanford-online/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEd670c2b8VOQ/company-logo_400_400/B56Z2S6TZbGwAg-/0/1776286250926/stanford_online_logo?e=1785369600&v=beta&t=4nmK2NMljuYC7sugym0UeOC4nOxvm5g0BN16Ps2T4yY",
+          "title": "Supervised Machine Learning: Regression and Classification",
+          "subtitle": "Stanford Online",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "37792439",
+          "companyUrn": "urn:li:fsd_company:37792439",
+          "companyLink1": "https://www.linkedin.com/company/stanford-online/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEd670c2b8VOQ/company-logo_400_400/B56Z2S6TZbGwAg-/0/1776286250926/stanford_online_logo?e=1785369600&v=beta&t=4nmK2NMljuYC7sugym0UeOC4nOxvm5g0BN16Ps2T4yY",
+          "title": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+          "subtitle": "Stanford Online",
+          "issued": "Issued Feb 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "871226",
+          "companyUrn": "urn:li:fsd_company:871226",
+          "companyLink1": "https://www.linkedin.com/company/scrum-alliance/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1785369600&v=beta&t=qBtgg53rCKw2oOgOBvhjCNHdXc-pOCqxkZXmd518BUs",
+          "title": "Certified Scrum Master",
+          "subtitle": "Scrum Alliance",
+          "issued": "Issued undefined 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Live Video Streaming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Streaming Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DRM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Codec",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Qt",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Audio Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Signal Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tools & Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FinTech",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data-Driven Product Growth",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Payment Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AI Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3084",
+          "companyUrn": "urn:li:fsd_company:3084",
+          "companyLink1": "https://www.linkedin.com/school/university-of-southern-california/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_400_400/company-logo_400_400/0/1631312619853?e=1785369600&v=beta&t=zWfJ1v58TQvOjm199T1kdVgqH2jWvaJddCDQum_HpjY",
+          "title": "University of Southern California",
+          "subtitle": "Bachelor of Science (BS), Computer Science",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "1792",
+          "companyUrn": "urn:li:fsd_company:1792",
+          "companyLink1": "https://www.linkedin.com/school/stanford-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1785369600&v=beta&t=OsBN9FrVCpDu_BVZJvZLFMsYbTThUz3NdZ15YeHkrrE",
+          "title": "Stanford University",
+          "subtitle": "Certificate, Machine Learning Specialization",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Course 1: Supervised Machine Learning: Regression and Classification\nCourse 2: Advanced Learning Algorithms\nCourse 3: Unsupervised Learning, Recommenders, Reinforcement Learning\n\nCredential ID: WGTPQYL3KVQD\nCredential URL: https://www.coursera.org/account/accomplishments/specialization/certificate/WGTPQYL3KVQD\n\nStudied modern machine learning concepts, including supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning (clustering, anomaly detection), recommender systems, and reinforcement learning. Learned some of the best practices for building machine learning models. Also gained practical skills to apply machine learning techniques to challenging real-world problems."
+            }
+          ]
+        },
+        {
+          "companyId": "2516",
+          "companyUrn": "urn:li:fsd_company:2516",
+          "companyLink1": "https://www.linkedin.com/school/university-of-michigan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1785369600&v=beta&t=nuxmfWV_vBohDgi2Ge0IWqDQm-fM-C4bOVcsr3ZPVGA",
+          "title": "University of Michigan",
+          "subtitle": "Certificate, Applied Data Science with Python Specialization",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Course 1: Introduction to Data Science in Python\nCourse 2: Applied Plotting, Charting & Data Representation in Python\nCourse 3: Applied Machine Learning in Python\nCourse 4: Applied Text Mining in Python\nCourse 5: Applied Social Network Analysis in Python\n\nCredential ID: 3LKRLKH3PSFM\nCredential URL: https://www.coursera.org/account/accomplishments/specialization/certificate/3LKRLKH3PSFM\n\nThe 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, and text analysis techniques to gain new insight into their data. In the final course, students will work on real-world data analysis projects, building a portfolio which showcases their work while at the same time helping real clients gain a better understanding of their data."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

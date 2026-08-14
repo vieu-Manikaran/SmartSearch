@@ -1,0 +1,510 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/allen-tan",
+  "row_key": "id:003Uk00000yfUAIIA2",
+  "person": "Allen Tan",
+  "account": "Lytx",
+  "fetched_at": "2026-07-14T10:21:43Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAaeyakBhLoZD-tZwRMc-xZU2YkfHh1IlfE",
+      "firstName": "Allen",
+      "lastName": "T.",
+      "fullName": "Allen T.",
+      "publicIdentifier": "allen-tan",
+      "headline": "Software Engineer | Full-Stack Developer | SanDiego.JS Organizer",
+      "about": "Software engineer backed by 6+ years of experience in the field of engineering.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Diego, California United States",
+      "addressWithoutCountry": "San Diego, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEyWvKUXMwW4A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1562011746223?e=1785369600&v=beta&t=2fycqmuzmbN-o5SS4KIyKcmaXBSNvGCzC8L1s02gPmQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEyWvKUXMwW4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1562011746088?e=1785369600&v=beta&t=hmOKm0qcOkACzM2bYKB3o3vlfuJmvFD0PDfuOVAIarw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEyWvKUXMwW4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1562011746104?e=1785369600&v=beta&t=MT9g_QjKLdIH6csIE57TZJFDW7vqIrp-B722Kz5lioc"
+        },
+        {
+          "width": 214,
+          "height": 214,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEyWvKUXMwW4A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1562011746141?e=1785369600&v=beta&t=5RWZ_GfCWw4nx6Ya7UibKHXa3ueYjXcItsst-sRa6E4"
+        },
+        {
+          "width": 214,
+          "height": 214,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEyWvKUXMwW4A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1562011746223?e=1785369600&v=beta&t=2fycqmuzmbN-o5SS4KIyKcmaXBSNvGCzC8L1s02gPmQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "26167",
+          "companyUrn": "urn:li:fsd_company:26167",
+          "companyLink1": "https://www.linkedin.com/company/lytxinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZaBN0JHGmXA/company-logo_100_100/B4DZgJvZmdHAAQ-/0/1752510077843/lytxinc_logo?e=1785369600&v=beta&t=NfCL0oX6Zf4HwhrxEfAz-XBdQJZc0H-cdd0QkKfBThk",
+          "title": "Lytx, Inc.",
+          "subtitle": "Full-time · 4 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer II",
+              "caption": "Jul 2023 - Present · 2 yrs 6 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer I",
+              "caption": "Oct 2021 - Jul 2023 · 1 yr 9 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3609678",
+          "companyUrn": "urn:li:fsd_company:3609678",
+          "companyLink1": "https://www.linkedin.com/company/edgeapp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEiuZPn6eInCw/company-logo_400_400/company-logo_400_400/0/1707163109626/edgeapp_logo?e=1785369600&v=beta&t=uJ0aeBsg7xIfByABiAGZZ1DHv8hrfoqWMWeJoWOYmNY",
+          "title": "Software Engineer Intern",
+          "subtitle": "Edge . Internship",
+          "caption": "May 2021 - Oct 2021 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Built the backend of a server that maintains information on the minimum amount required for a cryptocurrency swap, using Node, Express, and CouchDB (noSQL)\n• Developed a snack bar web application in React that fetches cryptocurrency exchange rates using promises, and shows a QR code for payment when the user selects a currency\n• Reviewed code on PRs (pull requests) for Edge’s fee tracker and theme server\n• Maintained clean Git commit history for contributions to open-source codebase by utilizing rebase and cherry-pick\n• Fixed bugs and added functionality to existing internal tools, including the reports server and logs server\n• Created unit tests using Chai and Mocha for utility functions that helped retrieve and insert swap provider information into a CouchDB database"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4839250",
+          "companyUrn": "urn:li:fsd_company:4839250",
+          "companyLink1": "https://www.linkedin.com/school/sd-learn/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHf2YrnDEnITQ/company-logo_400_400/company-logo_400_400/0/1657213870215/sd_learn_logo?e=1785369600&v=beta&t=ovrJPRUj37-R6lb9lQdyCLrMlbbYBN8mC5uPtyYXDtA",
+          "title": "Full-Stack Developer (Student)",
+          "subtitle": "LEARN Academy . Full-time",
+          "caption": "Feb 2021 - May 2021 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Built responsive portfolio site from scratch using JavaScript, React, and Bootstrap\n• Utilized version control with Git when collaborating remotely on coding challenges\n• Employed test-driven development (TDD) with Jest to complete weekly JavaScript assessments\n• Created a RESTful API in Ruby on Rails with unit testing in RSpec for a Pokemon tracker\n• Developed full-stack apartment application with CRUD functionality using React and Ruby on Rails\n• Incorporated pair programming and mob programming to complete projects, including a superhero version of Tinder and a text-based adventure game"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "9158",
+          "companyUrn": "urn:li:fsd_company:9158",
+          "companyLink1": "https://www.linkedin.com/company/solarturbines/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDM-lSVJSKLQ/company-logo_400_400/company-logo_400_400/0/1706122036394/solarturbines_logo?e=1785369600&v=beta&t=NWmkUSzIksTHKzF2aILsSYSfYvSg68pE1PrHy2bjmjQ",
+          "title": "Senior Engineer (NPI Combustion Mechanical Design)",
+          "subtitle": "Solar Turbines . Contract",
+          "caption": "Jan 2017 - Dec 2020 · 3 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Led design reviews with 10+ cross-functional team members to verify design changes\n• Developed dozens of new combustion components, including fuel injectors, liners, and fuel systems, using computer-aided design (CAD) software PTC Creo\n• Verified design changes by conducting elastic and modal analyses using ANSYS Workbench\n• Authored 10+ engineering documents, including Engineering Design Memos (EDMs), which are technical reports that capture the process, progress, and results of the design work\n• Applied GD&T per ASME Y14.5 to describe the engineering intent of parts and assemblies\n• Prepared design layouts and tolerance studies to support the processing of design changes and new product releases for gas turbine engine components\n• Managed CAD files and released drawings using product lifecycle management (PLM) software PTC Windchill\n• Utilized the agile methodology through Azure DevOps to track work in two-week sprints"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2281607",
+          "companyUrn": "urn:li:fsd_company:2281607",
+          "companyLink1": "https://www.linkedin.com/company/mikroscan-technologies-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEVx0QH9KeBTw/company-logo_400_400/company-logo_400_400/0/1631338943039?e=1785369600&v=beta&t=SqWLGFRHdJzUniISlQbQjH45YIMieXppOUgv1RaeKV0",
+          "title": "Mechanical Design Engineer",
+          "subtitle": "Mikroscan Technologies, Inc. . undefined",
+          "caption": "Jan 2015 - Jan 2017 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Headed design review of the Mikroscan SL5 to verify hardware specifications met design requirements\n• Communicated with suppliers as the lead liaison for purchasing, quality, and design changes\n• Lead discussions on hardware changes as part of the Change Control Board (CCB) meetings\n• Revamped the design of the illumination assembly for the Mikroscan SL5 to be compatible with a 2x objective using SolidWorks\n• Redesigned the slide securing mechanism of the Mikroscan D2 slide holder to reduce the probability of slides falling out\n• Eliminated need for $3000 enclosure redesign work by reverse engineering vendor's CAD files to understand design intent and appropriately make changes to meet new mechanical requirements\n• Created and maintained detailed drawings of components used in the D2 and the SL5\n• Oversaw configuration management of hardware changes through engineering change requests (ECR) and engineering change notices (ECN) for hardware changes\n• Maintained an up-to-date bill of materials (BOM) of approximately 200 individual parts for the SL5 in Excel\n• Performed Failure Mode Effects Analysis (FMEA) for the Mikroscan SL5 to identify any potential hardware issues before release to market\n• Managed supply chain by coordinating when to order components based on lead time\n• Created vendor purchase orders (PO) and managed Mikroscan inventory through Intuit QuickBooks"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6207",
+          "companyUrn": "urn:li:fsd_company:6207",
+          "companyLink1": "https://www.linkedin.com/company/sdsu-research-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFZwAgueEkQQA/company-logo_400_400/company-logo_400_400/0/1670026201250/sdsu_research_foundation_logo?e=1785369600&v=beta&t=d6gjbLyJHE5nBNOX6gKwRaDMhotH8yeoymFt8_mk5R8",
+          "title": "Graduate Research Assistant",
+          "subtitle": "SDSU Research Foundation . undefined",
+          "caption": "Mar 2013 - Jun 2015 · 2 yrs 3 mos",
+          "metadata": "San Diego, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Designed 3 degree of freedom (DOF) robotic arm in SolidWorks\n• Derived equations of motion for entire system by hand using the Lagrangian\n• Created kinematic and dynamic models of robotic arm using Excel and MATLAB\n• Wrote control logic of assistive robotic arm in MATLAB\n• Linearized non-linear system and tuned PID controller for each individual motor in Simulink"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2669459",
+          "companyUrn": "urn:li:fsd_company:2669459",
+          "companyLink1": "https://www.linkedin.com/company/utc_aerospace_systems/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF99JvqhniCjw/company-logo_400_400/company-logo_400_400/0/1631349429719?e=1785369600&v=beta&t=0Em6jQWh5SrWEDP_JI4S1X25aRweC7qb1xORMRuRoDc",
+          "title": "Manufacturing Engineer Intern",
+          "subtitle": "UTC Aerospace Systems . Internship",
+          "caption": "Mar 2012 - Jan 2015 · 2 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "(As of 2018, the company has merged with Rockwell Collins to form Collins Aerospace)\n• Cleared two-year stockpile of customer return material (CRM)\n• Cleared backlog of incomplete job instruction documentation\n• Collaborated with tool designers to create new tooling to prevent production turnbacks\n• Generated monthly reports in Excel outlining test yield success to highlight problem product lines and outline progress over a 12 month interval\n• Reviewed assembly instructions and manufacturing processes for First Article Inspections (FAI)"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "4273",
+          "companyUrn": "urn:li:fsd_company:4273",
+          "companyLink1": "https://www.linkedin.com/school/university-of-helsinki/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZQ2B3IQO9xg/company-logo_400_400/company-logo_400_400/0/1631300517673?e=1785369600&v=beta&t=8ObwGTo4VuuGwSmv05mrbrL1cB-03TSJN_f01dTvk3A",
+          "title": "Java Programming I",
+          "subtitle": "University of Helsinki",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10604885",
+          "companyUrn": "urn:li:fsd_company:10604885",
+          "companyLink1": "https://www.linkedin.com/school/cs50/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGYjmmBCvqLmg/company-logo_400_400/company-logo_400_400/0/1631309789389?e=1785369600&v=beta&t=YOx6_H_vnyJKLN9DsZg2fvspKaOc5u5i6ZHgrQueIEY",
+          "title": "Completion of CS50x",
+          "subtitle": "CS50",
+          "issued": "Issued May 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Competent Communicator",
+          "subtitle": "Issued by Toastmasters International",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Full-Stack Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mechanical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CAD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer-Aided Design (CAD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GD&T",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Finite Element Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Geometric Dimensioning & Tolerancing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Version Control",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Front-end Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design for Manufacturing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "6206",
+          "companyUrn": "urn:li:fsd_company:6206",
+          "companyLink1": "https://www.linkedin.com/school/san-diego-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFcwgUDxDXz3Q/company-logo_400_400/company-logo_400_400/0/1666719462484/san_diego_state_university_logo?e=1785369600&v=beta&t=QORgZ35zEcfh0XUxQX1M5rbJqKK8Q3oAX6NTGqPXJd8",
+          "title": "San Diego State University-California State University",
+          "subtitle": "Master of Science (M.S.), Mechanical Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "3382",
+          "companyUrn": "urn:li:fsd_company:3382",
+          "companyLink1": "https://www.linkedin.com/school/ucsandiego/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_400_400/company-logo_400_400/0/1630633790917/university_of_california_at_san_diego_logo?e=1785369600&v=beta&t=SMiGVb22-AkVsmqYino5QayctY1-jKO-anY8Rkjz6nk",
+          "title": null,
+          "subtitle": "Bachelor of Science (B.S.), Mechanical Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "4839250",
+          "companyUrn": "urn:li:fsd_company:4839250",
+          "companyLink1": "https://www.linkedin.com/school/sd-learn/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHf2YrnDEnITQ/company-logo_400_400/company-logo_400_400/0/1657213870215/sd_learn_logo?e=1785369600&v=beta&t=ovrJPRUj37-R6lb9lQdyCLrMlbbYBN8mC5uPtyYXDtA",
+          "title": "LEARN Academy",
+          "subtitle": "null, null",
+          "caption": "2021 - 2021",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "18941762",
+          "companyUrn": "urn:li:fsd_company:18941762",
+          "companyLink1": "https://www.linkedin.com/company/san-diego-javascript-community/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHnPqFgqOzDcQ/company-logo_400_400/company-logo_400_400/0/1630660413677/san_diego_javascript_community_logo?e=1785369600&v=beta&t=G5bHIImttD4yKqMnUGCHPCraPlD31erySWcde6FAblk",
+          "title": "Organizer",
+          "subtitle": "San Diego JavaScript Community, Inc.",
+          "caption": "Aug 2021 - Dec 2025 · 4 yrs 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4839250",
+          "companyUrn": "urn:li:fsd_company:4839250",
+          "companyLink1": "https://www.linkedin.com/school/sd-learn/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHf2YrnDEnITQ/company-logo_400_400/company-logo_400_400/0/1657213870215/sd_learn_logo?e=1785369600&v=beta&t=ovrJPRUj37-R6lb9lQdyCLrMlbbYBN8mC5uPtyYXDtA",
+          "title": "Teaching Assistant",
+          "subtitle": "LEARN Academy",
+          "caption": "Apr 2021 - Jan 2022 · 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "3DOF Wheelchair Mounted Robotic Arm Exoskeleton",
+          "subtitle": "Jun 2015 - Jun 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Successfully defended master’s thesis on a robotic arm exoskeleton whose purpose is to amplify upper-limb movements of wheelchair users who have lost functionality in their right arm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "iHand",
+          "subtitle": "Oct 2014 - Oct 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Won 1st place in the Center for Sensorimotor Neural Engineering (CSNE) 2014 Hackathon, a 48-hour competition, for a hand exoskeleton nicknamed the \"iHand.\" The device allows for articulation of index and middle fingers, and is controlled by EMG signals detected with an Emotiv headset.\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

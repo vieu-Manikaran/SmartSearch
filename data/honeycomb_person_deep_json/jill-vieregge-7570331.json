@@ -1,0 +1,494 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jill-vieregge-7570331",
+  "row_key": "id:003Uk000013xNCrIAM",
+  "person": "Jill Vieregge",
+  "account": "AlayaCare",
+  "fetched_at": "2026-07-14T10:47:24Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAum3MBxyEXpgDHiU0nnjntueeQ_QWM_Yk",
+      "firstName": "Jill",
+      "lastName": "Vieregge",
+      "fullName": "Jill Vieregge",
+      "publicIdentifier": "jill-vieregge-7570331",
+      "headline": "Agilist",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Ottawa, Ontario Canada",
+      "addressWithoutCountry": "Ottawa, Ontario",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "5191283",
+          "companyUrn": "urn:li:fsd_company:5191283",
+          "companyLink1": "https://www.linkedin.com/company/alayacare-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEAJy5rfZoO0g/company-logo_400_400/company-logo_400_400/0/1645022956117/alayacare_inc_logo?e=1785369600&v=beta&t=j8XNqnEsVEzcHsM_v3tVk3qowS2Kj-uZCDy7OK4DSKc",
+          "title": "Scrum Master / Jira Admin",
+          "subtitle": "AlayaCare . Permanent Full-time",
+          "caption": "Aug 2021 - Present · 4 yrs 5 mos",
+          "metadata": "Montreal, Quebec, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1060",
+          "companyUrn": "urn:li:fsd_company:1060",
+          "companyLink1": "https://www.linkedin.com/company/ericsson/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE4si5Pr9mLOw/company-logo_200_200/B4DZ1CtTDxJQAI-/0/1774940664616/ericsson_logo?e=1785369600&v=beta&t=ZjsnBrkkiimqIJju4IF1k6PWz1-Wv4OY_SyBXQ0daCU",
+          "title": "Scrum Master",
+          "subtitle": "Ericsson . Full-time",
+          "caption": "Mar 2020 - Aug 2021 · 1 yr 5 mos",
+          "metadata": "Kanata South Ward, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10433",
+          "companyUrn": "urn:li:fsd_company:10433",
+          "companyLink1": "https://www.linkedin.com/company/innovapost/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF4aBbsttawpQ/company-logo_400_400/company-logo_400_400/0/1688147617625/innovapost_logo?e=1785369600&v=beta&t=SQ0bSF3-04PyLlWbUSl3-C-WP26oSgfzDKlcG3giWsA",
+          "title": "Development Manager",
+          "subtitle": "Innovapost . Contract",
+          "caption": "Jul 2018 - Feb 2020 · 1 yr 7 mos",
+          "metadata": "425 Legget Drive, Kanata",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My role is a combination of Project Manager and Scrum Master in the Digital Shipping Tools area of Innovapost. Currently managing a core scrum team of 7; with some part-time staff (e.g. Business and software architects, content design)."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1044",
+          "companyUrn": "urn:li:fsd_company:1044",
+          "companyLink1": "https://www.linkedin.com/company/pwc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=1785369600&v=beta&t=7BD9Id14fDdTuceDb8vFSWlANrjlMUvKIWzWESy7ZYg",
+          "title": "Senior Manager",
+          "subtitle": "PricewaterhouseCoopers LLP . undefined",
+          "caption": "Oct 2013 - Jun 2018 · 4 yrs 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Senior Technical Advisor",
+          "subtitle": "Macalis Inc. . undefined",
+          "caption": "Oct 2009 - Sep 2013 · 3 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Macalis Inc. offers various levels of consultation services to private companies in the area of government incentive programs (such as SR&ED, IRAP, CDAE and OIDMTC)."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "223042",
+          "companyUrn": "urn:li:fsd_company:223042",
+          "companyLink1": "https://www.linkedin.com/company/telepin-software/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHK3dOacrWjPg/company-logo_400_400/company-logo_400_400/0/1631365640321/telepin_software_logo?e=1785369600&v=beta&t=Ew-fKjkyHo_R7dtLWa2b3fsyhs4jIioxR6zJM0_XGdE",
+          "title": "Management",
+          "subtitle": "Telepin Software . undefined",
+          "caption": "Jul 2008 - Oct 2009 · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "16541",
+          "companyUrn": "urn:li:fsd_company:16541",
+          "companyLink1": "https://www.linkedin.com/company/espial/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGecRm41snZfw/company-logo_400_400/company-logo_400_400/0/1630604749963/espial_logo?e=1785369600&v=beta&t=Fc4o7QOoYHfLwxUcAR9oSzDKawqbX0tEcFsP_u5JFJE",
+          "title": "Project Manager - IPTV",
+          "subtitle": "Espial . undefined",
+          "caption": "Jun 2007 - Dec 2007 · 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Six-month project management contract for delivery of hybrid IPTV/DVB-C client/server system to a major customer. First phase of the project was delivered December 14th."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Development Manager",
+          "subtitle": "Airwide Solutions . undefined",
+          "caption": "Aug 2005 - Feb 2007 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "17905",
+          "companyUrn": "urn:li:fsd_company:17905",
+          "companyLink1": "https://www.linkedin.com/company/perforce-klocwork/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHeS28BHCi2IQ/company-logo_100_100/B56ZVDFoMiGsAU-/0/1740587304072/klocwork_logo?e=1785369600&v=beta&t=aX5MH1_OTo0JcAFytnhpoo6dUZjtVYpZHvJAZKST6iA",
+          "title": "Verification Director",
+          "subtitle": "Klocwork . undefined",
+          "caption": "Feb 2003 - Apr 2005 · 2 yrs 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Senior Tax Manager",
+          "subtitle": "Deloitte and Touche . undefined",
+          "caption": "2001 - 2002 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "22688",
+          "companyUrn": "urn:li:fsd_company:22688",
+          "companyLink1": "https://www.linkedin.com/company/atlassian/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGeyLL6crkJKg/company-logo_400_400/company-logo_400_400/0/1735593604612/atlassian_logo?e=1785369600&v=beta&t=yc96-54WeibpcMstCKB7E6wDoBzGYUT1t-Tjm17og_M",
+          "title": "Confluence Fundamentals Badge",
+          "subtitle": "Atlassian",
+          "issued": "Issued Nov 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "22688",
+          "companyUrn": "urn:li:fsd_company:22688",
+          "companyLink1": "https://www.linkedin.com/company/atlassian/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGeyLL6crkJKg/company-logo_400_400/company-logo_400_400/0/1735593604612/atlassian_logo?e=1785369600&v=beta&t=yc96-54WeibpcMstCKB7E6wDoBzGYUT1t-Tjm17og_M",
+          "title": "Jira Fundamentals Badge",
+          "subtitle": "Atlassian",
+          "issued": "Issued Nov 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2051258",
+          "companyUrn": "urn:li:fsd_company:2051258",
+          "companyLink1": "https://www.linkedin.com/company/management-and-strategy-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG_4eYfYfbWqw/company-logo_400_400/company-logo_400_400/0/1630612013213/management_and_strategy_institute_logo?e=1785369600&v=beta&t=wlN8LC4xGy_GxEs6jGTGQ5GUXLJA9PIyGzXrFA2jwUM",
+          "title": "Six Sigma Lean Professional",
+          "subtitle": "Management & Strategy Institute",
+          "issued": "Issued Jul 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "871226",
+          "companyUrn": "urn:li:fsd_company:871226",
+          "companyLink1": "https://www.linkedin.com/company/scrum-alliance/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1785369600&v=beta&t=qBtgg53rCKw2oOgOBvhjCNHdXc-pOCqxkZXmd518BUs",
+          "title": "Advanced Certified ScrumMaster (A-CSM)",
+          "subtitle": "Scrum Alliance",
+          "issued": "Issued Dec 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "871226",
+          "companyUrn": "urn:li:fsd_company:871226",
+          "companyLink1": "https://www.linkedin.com/company/scrum-alliance/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1785369600&v=beta&t=qBtgg53rCKw2oOgOBvhjCNHdXc-pOCqxkZXmd518BUs",
+          "title": "Scrum Master Certified (SMC)",
+          "subtitle": "Scrum Alliance",
+          "issued": "Issued Jul 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "11352",
+          "companyUrn": "urn:li:fsd_company:11352",
+          "companyLink1": "https://www.linkedin.com/company/projectmanagementinstitute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGgLkWpwuuQ7Q/company-logo_200_200/B4EZvc7d6xHEAI-/0/1768938135534/projectmanagementinstitute_logo?e=1785369600&v=beta&t=MQZ8EasUbEdWrdsyPvhGnDb1PoKY83yG5ZPblCuUEqM",
+          "title": "Project Management Professional (PMP)®",
+          "subtitle": "Project Management Institute",
+          "issued": "Issued Mar 2008",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "Certified SAFe 5 Release Train Engineer",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Jan 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "Certified SAFe® 5 Scrum Master",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Mar 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telecommunications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "UML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Program Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": "University of Waterloo",
+          "subtitle": "BMath, Co-Op Computer Science",
+          "caption": "1980 - 1985",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

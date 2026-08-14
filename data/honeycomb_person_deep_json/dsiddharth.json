@@ -1,0 +1,453 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/dsiddharth",
+  "row_key": "id:003Uk00000X5JNIIA3",
+  "person": "Siddharth Dhulipalla",
+  "account": "Fireworks AI",
+  "fetched_at": "2026-07-14T10:36:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAISnfEBT6iPOGD8AP6Yeq09v2ItRN8-qRY",
+      "firstName": "Siddharth",
+      "lastName": "Dhulipalla",
+      "fullName": "Siddharth Dhulipalla",
+      "publicIdentifier": "dsiddharth",
+      "headline": "Building things @ Fireworks.ai",
+      "about": "I'm the founder and CEO of Hathora, a real-time compute platform originally built to power large-scale multiplayer games, and now expanding into latency-critical AI workloads like real-time inference.\n\nSince launching Hathora in 2022, I’ve been focused on helping developers deploy and scale dedicated servers with minimal cold starts, high regional coverage, and deeply optimized network performance. Under the hood, we’ve built proprietary hybrid cloud technology, what we call Elastic Metal, that gives teams the flexibility to scale across both bare metal and cloud infrastructure without sacrificing latency or cost efficiency.\n\nBefore Hathora, I led infrastructure teams at Databricks, scaling systems across major cloud providers, and before that, I was at Palantir, where I helped build their internal cloud hosting platform. I studied computer science at Carnegie Mellon, and like many engineers, got my start as an intern at Google and Microsoft, and by building random side projects that probably shouldn't have worked, but did.\n\nAt Hathora, we’re building for the developers who need performance and predictability - because every millisecond matters.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEh4nvt0RTcGA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1638310999349?e=1785369600&v=beta&t=2zbu-h_R8d5rC35ndnlp-X6B2hjlfg0H8h47-QnYN-s",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEh4nvt0RTcGA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1638310999349?e=1785369600&v=beta&t=rFLWFCOQk333ygHfYPmAZy1tJ-sDEJ526ObviLNEm1U"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEh4nvt0RTcGA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1638310999349?e=1785369600&v=beta&t=0ZjSouqNL51kfY_bL_gowGunyJDfohlFjM_8vDhunM8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEh4nvt0RTcGA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1638310999349?e=1785369600&v=beta&t=Wi0ah9GknqpBJt0DK9Zvby0-S_JnbKaFXZYbWtLXhtU"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEh4nvt0RTcGA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1638310999349?e=1785369600&v=beta&t=2zbu-h_R8d5rC35ndnlp-X6B2hjlfg0H8h47-QnYN-s"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "91174981",
+          "companyUrn": "urn:li:fsd_company:91174981",
+          "companyLink1": "https://www.linkedin.com/company/fireworks-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBD0h39SCyLw/company-logo_400_400/company-logo_400_400/0/1711133682942/fireworks_ai_logo?e=1785369600&v=beta&t=CThoZGybDlkdOYbemJ_CeRFc5lBpwo5JuLmMa0DIY4M",
+          "title": "Field CTO",
+          "subtitle": "Fireworks AI . Full-time",
+          "caption": "Mar 2026 - Present · ",
+          "metadata": "New York, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "107522822",
+          "companyUrn": "urn:li:fsd_company:107522822",
+          "companyLink1": "https://www.linkedin.com/company/wafer-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFDsyvCvMbElQ/company-logo_200_200/B56ZqVqUPkI4AI-/0/1763447489813/wafer_ai_logo?e=1785369600&v=beta&t=efjcrHA6gln_KDP_O5zLwtwRU9ARl_ceflmrlowqIN8",
+          "title": "Investor",
+          "subtitle": "Wafer . undefined",
+          "caption": "2025 - Present · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "88960939",
+          "companyUrn": "urn:li:fsd_company:88960939",
+          "companyLink1": "https://www.linkedin.com/company/depot-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEuBalYfN4TUA/company-logo_400_400/company-logo_400_400/0/1694081569875/depot_technologies_logo?e=1785369600&v=beta&t=pShCGUOHGR9xXaaZAjC3J3byxyMbFANKuLfB-UVNYlM",
+          "title": "Investor",
+          "subtitle": "Depot . undefined",
+          "caption": "2023 - Present · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "80803488",
+          "companyUrn": "urn:li:fsd_company:80803488",
+          "companyLink1": "https://www.linkedin.com/company/hathora/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFbhU2Voh1PcA/company-logo_400_400/company-logo_400_400/0/1666026714169/hathora_logo?e=1785369600&v=beta&t=TGPkdj9Gxk1BrgW1sABgq9CD_Pukcz_SUSTnOMJL14E",
+          "title": "Founder & CEO",
+          "subtitle": "Hathora . Full-time",
+          "caption": "2022 - 2026 · 4 yrs",
+          "metadata": "New York, NY",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Acquired by Fireworks AI in March 2026: https://fireworks.ai/blog/fireworks-acquires-hathora\n\nWe founded Hathora after realizing there was no compute platform that was high-performance, cost-effective, and developer-friendly - especially for real-time workloads like multiplayer games. Since then, we’ve expanded to support both CPU and GPU workloads across strategic global regions, helping teams efficiently run everything from games to AI inference. \n\nOur hybrid infrastructure layer, Elastic Metal, combines the performance and price of bare metal with the flexibility of the cloud—making it possible for teams of any size to integrate bare metal into their compute stack without the traditional overhead."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3477522",
+          "companyUrn": "urn:li:fsd_company:3477522",
+          "companyLink1": "https://www.linkedin.com/company/databricks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFPIRKiPVETuw/company-logo_400_400/company-logo_400_400/0/1697215766274?e=1785369600&v=beta&t=66vzbW3J-qByYdRVBB0FUe4aea8OBePluLLisb71FfU",
+          "title": "Engineering Manager",
+          "subtitle": "Databricks . Full-time",
+          "caption": "2020 - 2022 · 2 yrs",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Leading Databricks' efforts to scale across cloud providers and regions. If you are a software engineer interested in defining the next generation multi-cloud SaaS architecture for Databricks, get in touch with me! I'm actively hiring for my team in San Francisco.\n\nDatabricks brings together data engineering, science and analytics on an open, unified platform so data teams can collaborate and innovate faster. With over 5000 customers, Databricks is one of the fastest growing SaaS businesses in the Data Analytics industry."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "20708",
+          "companyUrn": "urn:li:fsd_company:20708",
+          "companyLink1": "https://www.linkedin.com/company/palantir-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFj435hYi7p1A/company-logo_100_100/B4EZXS7uMcHcAQ-/0/1743000626250/palantir_technologies_logo?e=1785369600&v=beta&t=AZJW4oJKHitC1dWmbooVlnvlZjaaJ8HjEXfWEVg5ScA",
+          "title": "Palantir Technologies",
+          "subtitle": "undefined · 6 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Development Team Lead",
+              "caption": "2017 - 2020 · 3 yrs",
+              "metadata": "Palo Alto, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leading a team of 20 analysts, engineers and managers to develop Palantir’s cloud (AWS and Azure) hosting platform. Responsible for team vision, execution, hiring, cross company collaborations and more while remaining hands on technically – focused on AWS, Azure, Go, Terraform, Puppet, Ansible, Security & Linux Systems. Platform currently powers over $750mm/yr of business.\n\nIn 2019, led the company's #1 infrastructure priority of becoming a FedRAMP moderate authorized vendor. Significantly rearchitected the technical infrastructure, wrote control response, participated in the external audit and built an operations team. Successfully achieved FedRAMP authorization in Dec 2019, which is expected to unlock $1B+ in revenue in the next 5 years."
+                }
+              ]
+            },
+            {
+              "title": "Full Stack Engineer",
+              "caption": "2015 - 2017 · 2 yrs",
+              "metadata": "Palo Alto, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Researched, designed and built features on Palantir’s primary data platform (Foundry) using React, Redux, TypeScript, Webpack, LESS, Java Spring and Dropwizard on a micro-service architecture. Mentored members on the team and worked with users to design and prioritize features."
+                }
+              ]
+            },
+            {
+              "title": "Forward Deployed Engineer",
+              "caption": "2014 - 2015 · 1 yr",
+              "metadata": "Palo Alto, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked with Government & Commercial clients to develop and integrate Palantir's products to solve the customer's business problems. Successfully helped close a $12mm/yr deal after a deeply technical pilot."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Program Manager Intern",
+          "subtitle": "Microsoft . undefined",
+          "caption": "2013 - 2013 · ",
+          "metadata": "Redmond, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Improved analytics and reporting pipeline for service reliability on the SQL Azure team. Designed UI and wrote functional specifications for point-in-time-restore."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Software Engineering Intern",
+          "subtitle": "Google . undefined",
+          "caption": "2012 - 2012 · ",
+          "metadata": "Mountain View, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed and implemented performance  regression test infrastructure for cluster management software, which schedules and maintains production jobs, and other confidential, proprietary work."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3147",
+          "companyUrn": "urn:li:fsd_company:3147",
+          "companyLink1": "https://www.linkedin.com/school/carnegie-mellon-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1785369600&v=beta&t=m0gp2lBZW9QiBhJboIWoJYBdZo3jFSQRmeXckBLarXo",
+          "title": "Teaching Assistant",
+          "subtitle": "Carnegie Mellon University . undefined",
+          "caption": "2012 - 2012 · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "15-213: Introduction to Computer Systems\nTaught recitation, held office hours and graded."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "x86 Assembly",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Backbone.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LaTeX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3147",
+          "companyUrn": "urn:li:fsd_company:3147",
+          "companyLink1": "https://www.linkedin.com/school/carnegie-mellon-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1785369600&v=beta&t=m0gp2lBZW9QiBhJboIWoJYBdZo3jFSQRmeXckBLarXo",
+          "title": "Carnegie Mellon University",
+          "subtitle": "BS, Computer Science",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Minor in Business Administration"
+            }
+          ]
+        },
+        {
+          "companyId": "157313",
+          "companyUrn": "urn:li:fsd_company:157313",
+          "companyLink1": "https://www.linkedin.com/school/princeton-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_400_400/company-logo_400_400/0/1630648147093/princeton_university_logo?e=1785369600&v=beta&t=0CuBDwMAib-FDwdNbMTqJvMDCwNLl_mzBod4NwZSB-w",
+          "title": "Princeton University",
+          "subtitle": "null, Computer Science",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Took COS217 and COS333 in high school."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

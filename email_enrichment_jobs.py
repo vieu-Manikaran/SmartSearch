@@ -29,9 +29,11 @@ from email_enrichment_store import (
     save_results_state,
     write_results_csv,
 )
-from fullenrich_client import BATCH_SIZE, FullEnrichError, enrich_batch, sanitize_error_message
+from email_provider import EmailEnrichmentError, take_enrichment_step
+from fullenrich_client import FullEnrichError, sanitize_error_message
 from linkedin_jobs import _email_job, _state_lock, _update_progress, _worker_lock
 from mailer import send_results_email
+from molster_client import MolsterError
 from seeqe_email_callback import sync_rows_to_seeqe
 
 logger = logging.getLogger(__name__)
@@ -197,95 +199,128 @@ def _process_job(job_id: str) -> None:
     )
 
     pending_enrichment_id = (checkpoint.get("pending_enrichment_id") or "").strip()
-    pending_batch_start = int(checkpoint.get("pending_batch_start") or -1)
+    pending_fullenrich_indexes = [
+        int(i) for i in (checkpoint.get("pending_fullenrich_indexes") or [])
+    ]
+    if pending_enrichment_id and not pending_fullenrich_indexes:
+        start = int(checkpoint.get("pending_batch_start") or -1)
+        if start >= 0:
+            pending_fullenrich_indexes = list(range(start, min(start + 50, total)))
 
     def _save_checkpoint(
         *,
-        batches_done: int,
         rows_processed: int,
         pending_id: str = "",
-        pending_start: int = -1,
+        pending_indexes: list[int] | None = None,
     ) -> None:
         save_checkpoint(
             job_id,
             {
-                "batches_completed": batches_done,
+                "batches_completed": int(rows_processed // 100),
                 "rows_processed": rows_processed,
                 "pending_enrichment_id": pending_id,
-                "pending_batch_start": pending_start,
+                "pending_batch_start": pending_indexes[0] if pending_indexes else -1,
+                "pending_fullenrich_indexes": pending_indexes or [],
             },
         )
 
     try:
-        for batch_start in range(batches_completed * BATCH_SIZE, total, BATCH_SIZE):
-            batch = input_rows[batch_start : batch_start + BATCH_SIZE]
-            batch_num = batch_start // BATCH_SIZE + 1
-            label = f"Job {job_id} batch {batch_num}"
-
-            resume_id = None
-            if pending_enrichment_id and pending_batch_start == batch_start:
-                resume_id = pending_enrichment_id
-                logger.info("Job %s resuming FullEnrich batch %s (%s)", job_id, batch_num, resume_id)
+        safety = 0
+        max_steps = max(16, total * 3)
+        while safety < max_steps:
+            safety += 1
 
             def on_progress(current: int, tot: int, item: str) -> None:
-                _update_progress(
-                    "email",
-                    min(batch_start + current, total),
-                    total,
-                    item or f"Batch {batch_num}",
-                )
+                _update_progress("email", min(current, total), total, item or "Enriching")
 
-            def on_enrichment_started(enrichment_id: str) -> None:
+            def on_fullenrich_started(enrichment_id: str, indexes: list[int]) -> None:
+                nonlocal pending_enrichment_id, pending_fullenrich_indexes
+                pending_enrichment_id = enrichment_id
+                pending_fullenrich_indexes = list(indexes)
+                rows_now = sum(
+                    1
+                    for row in results
+                    if (row.get("status") or "") in {"found", "no_email_found"}
+                )
                 _save_checkpoint(
-                    batches_done=batches_completed,
-                    rows_processed=int(checkpoint.get("rows_processed") or 0),
+                    rows_processed=rows_now,
                     pending_id=enrichment_id,
-                    pending_start=batch_start,
+                    pending_indexes=indexes,
                 )
-                logger.info("Job %s saved pending enrichment %s for batch %s", job_id, enrichment_id, batch_num)
+                logger.info(
+                    "Job %s saved pending FullEnrich %s (%s contacts)",
+                    job_id,
+                    enrichment_id,
+                    len(indexes),
+                )
 
-            enriched = enrich_batch(
-                batch,
-                batch_label=label,
+            step = take_enrichment_step(
+                input_rows,
+                results,
+                wait_for_molster_quota=True,
+                existing_enrichment_id=pending_enrichment_id or None,
+                pending_fullenrich_indexes=pending_fullenrich_indexes,
                 on_progress=on_progress,
+                on_fullenrich_started=on_fullenrich_started,
                 expected_total=total,
-                existing_enrichment_id=resume_id,
-                on_enrichment_started=on_enrichment_started if not resume_id else None,
             )
 
-            for offset, row in enumerate(enriched):
-                results[batch_start + offset] = row
-
-            posted, callback_failed = sync_rows_to_seeqe(enriched)
-            if posted or callback_failed:
-                logger.info(
-                    "Job %s Seeqe callbacks: %s posted, %s failed",
-                    job_id,
-                    posted,
-                    callback_failed,
-                )
-
-            rows_processed = batch_start + len(batch)
-            batches_completed = batch_num
             pending_enrichment_id = ""
-            pending_batch_start = -1
+            pending_fullenrich_indexes = []
+            if step.newly_finished:
+                posted, callback_failed = sync_rows_to_seeqe(step.newly_finished)
+                if posted or callback_failed:
+                    logger.info(
+                        "Job %s Seeqe callbacks: %s posted, %s failed",
+                        job_id,
+                        posted,
+                        callback_failed,
+                    )
+
+            rows_processed = sum(
+                1
+                for row in results
+                if (row.get("status") or "") in {"found", "no_email_found"}
+            )
             save_results_state(job_id, results)
             write_results_csv(results_path(job_id), results)
-            _save_checkpoint(
-                batches_done=batches_completed,
-                rows_processed=rows_processed,
-            )
+            _save_checkpoint(rows_processed=rows_processed)
 
             meta = load_meta(job_id) or meta
             meta["processed"] = rows_processed
-            meta["batches_completed"] = batches_completed
+            meta["batches_completed"] = int(rows_processed // 100)
             save_meta(job_id, meta)
-            _update_progress("email", rows_processed, total, f"Saved checkpoint ({rows_processed}/{total})")
-            logger.info("Job %s checkpoint: %s/%s rows", job_id, rows_processed, total)
+            _update_progress(
+                "email",
+                rows_processed,
+                total,
+                step.progress_item or f"Saved checkpoint ({rows_processed}/{total})",
+            )
+            logger.info(
+                "Job %s checkpoint: %s/%s rows (%s)",
+                job_id,
+                rows_processed,
+                total,
+                step.progress_item,
+            )
 
+            if step.done:
+                break
+        else:
+            raise EmailEnrichmentError(
+                "Email enrichment stopped before all rows finished.",
+                transient=True,
+            )
+
+        molster_ct = sum(1 for r in results if r.get("email_source") == "molster")
+        fullenrich_ct = sum(1 for r in results if r.get("email_source") == "fullenrich")
         found_ct = sum(1 for r in results if r.get("work_email"))
+        for row in results:
+            if (row.get("status") or "") == "molster_miss":
+                row["status"] = "no_email_found"
         summary = (
-            f"Processed {len(results)} contacts; {found_ct} verified work emails found via FullEnrich."
+            f"Processed {len(results)} contacts; {found_ct} work emails found "
+            f"({molster_ct} via Molster, {fullenrich_ct} via FullEnrich fallback)."
         )
         final_path = results_path(job_id)
         write_results_csv(final_path, results)
@@ -331,22 +366,35 @@ def _process_job(job_id: str) -> None:
             logger.error("Job %s completed but email failed: %s", job_id, err)
 
     except Exception as exc:
-        logger.exception("Job %s failed at batch %s", job_id, batches_completed + 1)
+        logger.exception("Job %s failed after %s/%s contacts", job_id, meta.get("processed") or 0, total)
         meta = load_meta(job_id) or meta
-        retry_count = int(meta.get("retry_count") or 0) + 1
-        meta["retry_count"] = retry_count
-        transient = isinstance(exc, FullEnrichError) and exc.transient
-        backoff_sec = min(300, 30 * (2 ** min(retry_count - 1, 4)))
-        if retry_count > 20 and not transient:
-            meta["status"] = STATUS_FAILED
-            meta["summary"] = f"Job stopped after {retry_count} errors."
-        else:
+        retry_after_ts = float(getattr(exc, "retry_after_ts", 0) or 0)
+        transient = bool(getattr(exc, "transient", False))
+        if isinstance(exc, (EmailEnrichmentError, FullEnrichError, MolsterError)):
+            transient = transient or bool(getattr(exc, "transient", False))
+
+        if retry_after_ts > time.time():
+            wait_sec = int(retry_after_ts - time.time())
             meta["status"] = STATUS_INTERRUPTED
-            meta["retry_after_ts"] = time.time() + backoff_sec
+            meta["retry_after_ts"] = retry_after_ts
             meta["summary"] = (
                 f"Paused after {meta.get('processed', 0)}/{total} contacts; "
-                f"retrying in ~{backoff_sec // 60 or 1} min."
+                f"Molster window resets in ~{max(1, wait_sec // 60)} min."
             )
+        else:
+            retry_count = int(meta.get("retry_count") or 0) + 1
+            meta["retry_count"] = retry_count
+            backoff_sec = min(300, 30 * (2 ** min(retry_count - 1, 4)))
+            if retry_count > 20 and not transient:
+                meta["status"] = STATUS_FAILED
+                meta["summary"] = f"Job stopped after {retry_count} errors."
+            else:
+                meta["status"] = STATUS_INTERRUPTED
+                meta["retry_after_ts"] = time.time() + backoff_sec
+                meta["summary"] = (
+                    f"Paused after {meta.get('processed', 0)}/{total} contacts; "
+                    f"retrying in ~{backoff_sec // 60 or 1} min."
+                )
         meta["error"] = sanitize_error_message(str(exc))
         save_meta(job_id, meta)
         save_results_state(job_id, results)

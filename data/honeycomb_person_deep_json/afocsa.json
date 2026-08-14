@@ -1,0 +1,469 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/afocsa",
+  "row_key": "id:003Uk00000gyGxGIAU",
+  "person": "Andrada Cornegruta",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:29Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAYKjy4BPU4EJrbXflP8HKJVFIBMWblHROw",
+      "firstName": "Andrada",
+      "lastName": "Cornegruta",
+      "fullName": "Andrada Cornegruta",
+      "publicIdentifier": "afocsa",
+      "headline": "Senior Data Engineer at Medtronic",
+      "about": "Experienced Data Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Python, Spark, AWS, Databases and Big Data Analytics. Designed and built scalable data ingestion pipelines making use of tools like Kafka and FastAPI. Strong information technology professional with a Master's Degree focused in Web Science & Big Data Analytics from UCL. Has a particular interest in Data as a Product approach.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Cambridge, England United Kingdom",
+      "addressWithoutCountry": "Cambridge, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQF2NBz_aeYCmg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658500508727?e=1785369600&v=beta&t=-GUL4DyUXSKwR3wlebCt2bs7QwuB5NRRiSdxH3WTZbk",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQEV8tLgy9uOcg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517575575442?e=1785369600&v=beta&t=Zd8-RWOqm5hPRO5r2NUd-3ZxPJ9fhNJu2OaeKxdLbQ8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF2NBz_aeYCmg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1658500508727?e=1785369600&v=beta&t=5FWhFGXkSryXC3OS-2Gx36nP--Ujj2SCjVEhYGe_xwo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF2NBz_aeYCmg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1658500508727?e=1785369600&v=beta&t=dWxItCvCak4XlXhseOMi4voQGFONndHqBS9LTR7n5Vo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF2NBz_aeYCmg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658500508727?e=1785369600&v=beta&t=M6-6t_NLq_nYnKOL8qZJHuQWPjuGdeG85OqSNbEvROs"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF2NBz_aeYCmg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658500508727?e=1785369600&v=beta&t=-GUL4DyUXSKwR3wlebCt2bs7QwuB5NRRiSdxH3WTZbk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQEV8tLgy9uOcg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517575575573?e=1785369600&v=beta&t=p0EdrG76QdHsirUiYUX5fcybScLchHBfcLYEcPjr_DU"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQEV8tLgy9uOcg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517575575442?e=1785369600&v=beta&t=Zd8-RWOqm5hPRO5r2NUd-3ZxPJ9fhNJu2OaeKxdLbQ8"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Senior Data Engineer",
+          "subtitle": "Medtronic Digital Surgery . Full-time",
+          "caption": "May 2023 - Present · 2 yrs 8 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "41780",
+          "companyUrn": "urn:li:fsd_company:41780",
+          "companyLink1": "https://www.linkedin.com/company/abcam/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH4s0MTGA_7fg/company-logo_400_400/B4EZlXPY_CKcAc-/0/1758105276820/abcam_logo?e=1785369600&v=beta&t=PdemiHzbKY-1xDgwrDokd1gaj6ZIgiIxlubgyL3gyp0",
+          "title": "Senior Data Engineer",
+          "subtitle": "Abcam . undefined",
+          "caption": "Sep 2019 - May 2023 · 3 yrs 8 mos",
+          "metadata": "Cambridge, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "900243",
+          "companyUrn": "urn:li:fsd_company:900243",
+          "companyLink1": "https://www.linkedin.com/company/quantumblack/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG12pQe_GvUbQ/company-logo_400_400/company-logo_400_400/0/1651050740774/quantumblack_logo?e=1785369600&v=beta&t=cwZDdnlUICNl-mIDh7r6hU_bjNwQUI8ybm075ezZQgk",
+          "title": "Data Engineer",
+          "subtitle": "QuantumBlack . undefined",
+          "caption": "Jun 2016 - Sep 2019 · 3 yrs 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9305686",
+          "companyUrn": "urn:li:fsd_company:9305686",
+          "companyLink1": "https://www.linkedin.com/company/ampere-analysis/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFm489qwakHyg/company-logo_400_400/company-logo_400_400/0/1705332639150/ampere_analysis_logo?e=1785369600&v=beta&t=IRzawR0fSyYq3OzyRhs8ztz6TUYQzQT33euKpUpSXW0",
+          "title": "Analyst",
+          "subtitle": "Ampere Analysis . undefined",
+          "caption": "Oct 2015 - Jun 2016 · 8 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Maintain and develop mechanisms to obtain and manage large and complex datasets. Carry on data analysis tasks. Main developing language: Python."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "880521",
+          "companyUrn": "urn:li:fsd_company:880521",
+          "companyLink1": "https://www.linkedin.com/company/create.net/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvBRURNpd1hA/company-logo_100_100/B4EZlNAYbDGUAQ-/0/1757933570159/createnet_logo?e=1785369600&v=beta&t=gVgIGQN7Y8N3vOo1eoTltQCmKutEuWiSaOKgIXwlbTc",
+          "title": "Create.net",
+          "subtitle": "undefined · 2 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Junior Web Developer",
+              "caption": "Sep 2013 - Sep 2015 · 2 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsibilities included making improvements to the platform, building new features, issue fixing and management, querying the database and building reports."
+                }
+              ]
+            },
+            {
+              "title": "Junior Web Developer Internship",
+              "caption": "Jun 2013 - Sep 2013 · 3 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3534",
+          "companyUrn": "urn:li:fsd_company:3534",
+          "companyLink1": "https://www.linkedin.com/company/continental/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFYrK_MuDgrbg/company-logo_400_400/company-logo_400_400/0/1631328590640?e=1785369600&v=beta&t=r0cw1cB5JB5Vj4QTdmA7Pkd02OqAZfY0_ywxgU27A3M",
+          "title": "Software Developer Internship",
+          "subtitle": "Continental Automotive Romania SRL . undefined",
+          "caption": "Jul 2012 - Aug 2012 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Building a mid layer interface from scratch in C# that was later to be used by the other teams."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Big Data Analysis with Scala and Spark",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Apr 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Parallel programming",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Dec 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Functional Program Design in Scala",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Nov 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Functional Programming Principles in Scala",
+          "subtitle": "Coursera Course Certificates",
+          "issued": "Issued Jul 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Romanian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "FastAPI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Airflow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Big Data Analytics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mulesoft",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Human Computer Interaction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Photography",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chemistry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PySpark",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "UCL",
+          "subtitle": "Master's Degree, Web Science & Big Data Analytics",
+          "caption": "2014 - 2015",
+          "subComponents": []
+        },
+        {
+          "companyId": "9521",
+          "companyUrn": "urn:li:fsd_company:9521",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sussex/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHrCxtttNNW1g/company-logo_400_400/company-logo_400_400/0/1630565246057/university_of_sussex_logo?e=1785369600&v=beta&t=WGEBek1yOnOCHH4k-zs38JdAZtRU3x6Leunely2_FUg",
+          "title": "University of Sussex",
+          "subtitle": "Bachelor of Science (BSc), PhotoSoc(photography), Swimming, The Badger Newspaper(photographer)",
+          "caption": "2011 - 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "web designer",
+          "subtitle": "I.T. Skills 4 Rural Kenya",
+          "caption": "Mar 2012 - Jun 2012 · 3 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

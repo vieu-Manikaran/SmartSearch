@@ -1,0 +1,394 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/paulmckeown",
+  "row_key": "id:003Uk00000Pb7VxIAJ",
+  "person": "Paul McKeown",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:16:47Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAWstbsBQN71vknY_QflBCkl77q0ie8UMjM",
+      "firstName": "Paul",
+      "lastName": "McKeown",
+      "fullName": "Paul McKeown",
+      "publicIdentifier": "paulmckeown",
+      "headline": "Head of Product",
+      "about": "Passionate product leader with a track record of taking industry-disruptive concepts and making them a reality. Experienced building and growing cross-functional teams - taking projects from ideation through to commercially successful products.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Burgess Hill, England United Kingdom",
+      "addressWithoutCountry": "Burgess Hill, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQE3_dJZ5jm3lQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712730617765?e=1785369600&v=beta&t=UqByVJrWPRkJEmGJK3vz71eUrCCTTsG99Mj1HwoEFnc",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQFi5lyQpVmFIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726842209453?e=1785369600&v=beta&t=XUeZnLTm3iUf0somHIR9_kRYH3Kf2aFGEoVwlEokjt0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQE3_dJZ5jm3lQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1712730617765?e=1785369600&v=beta&t=4a3Lekt6cK1GXpK8_NmJPOx1Y3deUG4t1x0rWAUjB1o"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQE3_dJZ5jm3lQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712730617765?e=1785369600&v=beta&t=xbjzsOL0jhjcvEU0zi3OYPn7avf6Ctw-LSDtM_pi8Yk"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQE3_dJZ5jm3lQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712730617765?e=1785369600&v=beta&t=qpBCWt7L-EKXjCz0r6pxubpP-dBPdFNn6QBOkzD5A3U"
+        },
+        {
+          "width": 578,
+          "height": 578,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQE3_dJZ5jm3lQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712730617765?e=1785369600&v=beta&t=UqByVJrWPRkJEmGJK3vz71eUrCCTTsG99Mj1HwoEFnc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQFi5lyQpVmFIQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1726842209453?e=1785369600&v=beta&t=ou_mI9IGyBtz7ySEKY-SiaFn3K0e7sVGC3PQYulFVzk"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQFi5lyQpVmFIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726842209453?e=1785369600&v=beta&t=XUeZnLTm3iUf0somHIR9_kRYH3Kf2aFGEoVwlEokjt0"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "68530605",
+          "companyUrn": "urn:li:fsd_company:68530605",
+          "companyLink1": "https://www.linkedin.com/company/necsws/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGWcS0e6gvYEg/company-logo_400_400/company-logo_400_400/0/1719826005164/necsws_logo?e=1785369600&v=beta&t=zBCjg4bJiNzyS5SzM3d1mEMfmHMWsWiSliQBG24-voA",
+          "title": "Head of Product - Health",
+          "subtitle": "NEC Software Solutions . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "129833971",
+          "companyUrn": "urn:li:fsd_company:129833971",
+          "companyLink1": "https://www.linkedin.com/company/thrive4network/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFssQus8ygRXA/company-logo_200_200/B4EZ8XiKXnIAAE-/0/1782806259465/thrive4network_logo?e=1785369600&v=beta&t=sJJh5da3ST538giJeEPM8CVgMqefW_QzjseHgjhEoD0",
+          "title": "Senior Product Manager",
+          "subtitle": "Thrive4 . Full-time",
+          "caption": "Aug 2025 - Dec 2025 · 4 mos",
+          "metadata": "Brighton",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Senior Product Specialist",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jan 2025 - Jul 2025 · 6 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "21259",
+          "companyUrn": "urn:li:fsd_company:21259",
+          "companyLink1": "https://www.linkedin.com/company/nuffield-health/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBcoBxopiakw/company-logo_400_400/company-logo_400_400/0/1728574290166/nuffield_health_logo?e=1785369600&v=beta&t=URHokgBNH2NYPdhgmF4ejc6BlxVsmnd2vDcbGW-b2fg",
+          "title": "Nuffield Health",
+          "subtitle": "Full-time · 3 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Product Owner",
+              "caption": "Jan 2023 - Dec 2024 · 1 yr 11 mos",
+              "metadata": "Epsom, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Head of Digital Innovation",
+              "caption": "Oct 2021 - Jan 2023 · 1 yr 3 mos",
+              "metadata": "Epsom, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Strategic Business Development Manager",
+              "caption": "May 2021 - Oct 2021 · 5 mos",
+              "metadata": "Epsom, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Proposition design and business development for Nuffield's physiotherapy and emotional wellbeing services."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "10560697",
+          "companyUrn": "urn:li:fsd_company:10560697",
+          "companyLink1": "https://www.linkedin.com/company/nxtgen-innovative-technology-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEsHl6il8s0dw/company-logo_400_400/company-logo_400_400/0/1706890597740/nxtgen_innovative_technology_solutions_logo?e=1785369600&v=beta&t=MVnYeakaFRq9rOKnMU_aGda8NjRXfAFxWd28R0qY3iM",
+          "title": "Product Lead",
+          "subtitle": "Amplify Life Ltd . Full-time",
+          "caption": "Oct 2019 - May 2021 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Founder & MD",
+          "subtitle": "WellBee Ltd. . undefined",
+          "caption": "Jan 2008 - Oct 2019 · 11 yrs 9 mos",
+          "metadata": "Brighton, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Online wellness solutions."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "D2C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "B2C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business-to-Business (B2B)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software as a Service (SaaS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Launch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Thinking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Voice of the Customer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "E-Commerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Global Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Road Mapping",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Life Cycle",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User-centered Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stakeholder Engagement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "9126",
+          "companyUrn": "urn:li:fsd_company:9126",
+          "companyLink1": "https://www.linkedin.com/school/cardiff-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYHzdGEWWaYw/company-logo_400_400/company-logo_400_400/0/1739182157644/cardiff_university_logo?e=1785369600&v=beta&t=_KGYzxtUzSTry7EU16_1LbAzFGvvhpUmE0nZqGRrHeA",
+          "title": "Cardiff University / Prifysgol Caerdydd",
+          "subtitle": "BA (Hons), History & Economics",
+          "caption": "2002 - 2005",
+          "subComponents": []
+        },
+        {
+          "companyId": "53534",
+          "companyUrn": "urn:li:fsd_company:53534",
+          "companyLink1": "https://www.linkedin.com/school/st-mary%27s-university-twickenham/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH2rDRKC-C2Yw/company-logo_400_400/company-logo_400_400/0/1631310608001?e=1785369600&v=beta&t=0rbFH_X5IYp8p1kOOR0BahyhUIOXzE3iuAQIqoKxSmk",
+          "title": "St Mary’s University, Twickenham",
+          "subtitle": "MSC (Distinction), Strength and Conditioning",
+          "caption": "2015 - 2019",
+          "subComponents": []
+        },
+        {
+          "companyId": "38685",
+          "companyUrn": "urn:li:fsd_company:38685",
+          "companyLink1": "https://www.linkedin.com/school/charteredmanagementinstitute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEAr05laaIwFg/company-logo_100_100/B4EZqyQ3MDIUAQ-/0/1763927356539/charteredmanagementinstitute_logo?e=1785369600&v=beta&t=U1oU7tMEYZVZT7ddtbE_hGtSamSZdL1aiyK1Zhd7x-0",
+          "title": "Chartered Management Institute",
+          "subtitle": "Level 5 in Management and Leadership, Organizational Leadership",
+          "caption": "Sep 2022 - Oct 2023",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

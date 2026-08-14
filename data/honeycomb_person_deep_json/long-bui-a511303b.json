@@ -1,0 +1,360 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/long-bui-a511303b",
+  "row_key": "id:003Uk00000Pb94TIAR",
+  "person": "Long Bui",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:43Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAhiNN0BDbJVIaaRt2gviOYxUMO7INzXjpg",
+      "firstName": "Long",
+      "lastName": "Bui",
+      "fullName": "Long Bui",
+      "publicIdentifier": "long-bui-a511303b",
+      "headline": "Senior Full Stack Software Engineer at Lyka",
+      "about": "As an IT enthusiast who believes that technology can improve people's lives. I love the challenges of working with highly creative IT professionals in a dynamic environment. The knowledge gained from my Computing Degree and work experienced has shaped my ability to adapt quickly, think logically and work efficiently and effectively as part of a team or on my own.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Melbourne, Victoria Australia",
+      "addressWithoutCountry": "Melbourne, Victoria",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHjytIFSyAMXg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683344932250?e=1785369600&v=beta&t=5ifvjbBAg-hZwv0QylB81DPUOTuG-XsnKXip2ugqYAA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHjytIFSyAMXg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1683344932250?e=1785369600&v=beta&t=6JKbRFIzWJfWVEECfnCpCVahWPZ7JcqT2Ix3xjpjpac"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHjytIFSyAMXg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683344932250?e=1785369600&v=beta&t=Z--PZAeN49Ks75xUmqq_flH0IzheDI8LMZ8qcpGn5NI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHjytIFSyAMXg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1683344932250?e=1785369600&v=beta&t=g9LGDPGzshrwzpBbV-IgOLu2BUGb2Px4H_RxWZCcbKc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHjytIFSyAMXg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683344932250?e=1785369600&v=beta&t=5ifvjbBAg-hZwv0QylB81DPUOTuG-XsnKXip2ugqYAA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Jul 2024 - Present · 1 yr 6 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1636",
+          "companyUrn": "urn:li:fsd_company:1636",
+          "companyLink1": "https://www.linkedin.com/company/telstra/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGNrMi-laFnUw/company-logo_400_400/company-logo_400_400/0/1684822727411/telstra_logo?e=1785369600&v=beta&t=7HrWHLznIS4ZFlgSEFJAqzwQBhtRJ7eQ1i4_YYr7pOw",
+          "title": "Senior Full Stack Engineer",
+          "subtitle": "Telstra . Contract",
+          "caption": "Jun 2021 - Jun 2024 · 3 yrs",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1283",
+          "companyUrn": "urn:li:fsd_company:1283",
+          "companyLink1": "https://www.linkedin.com/company/infosys/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=1785369600&v=beta&t=wXRFwA1J0ChIKomgw78pxANBndJFiDxiGowP-7KcIos",
+          "title": "Senior Software Engineer",
+          "subtitle": "Infosys . Full-time",
+          "caption": "Mar 2021 - Jun 2022 · 1 yr 3 mos",
+          "metadata": "Melbourne, VIC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2770153",
+          "companyUrn": "urn:li:fsd_company:2770153",
+          "companyLink1": "https://www.linkedin.com/company/speedshield-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFocmX7mrmN2g/company-logo_400_400/company-logo_400_400/0/1707713304065/speedshield_technologies_logo?e=1785369600&v=beta&t=-9vCUNys89GTUT36gPxaPC7jhcLtp7CJWSE4mti3yJ0",
+          "title": "Software Engineer",
+          "subtitle": "Speedshield Technologies . Full-time",
+          "caption": "Apr 2017 - Mar 2021 · 3 yrs 11 mos",
+          "metadata": "Melbourne, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1294496",
+          "companyUrn": "urn:li:fsd_company:1294496",
+          "companyLink1": "https://www.linkedin.com/company/adaptalift-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQERO2PZUBkNNg/company-logo_400_400/company-logo_400_400/0/1732158558462/adaptalift_group_logo?e=1785369600&v=beta&t=lHvIKayvtUC5A-M4dTAd4fnpvRQWgyCtM1XHTwBbaKA",
+          "title": "Web Developer",
+          "subtitle": "Adaptalift Group . Full-time",
+          "caption": "Aug 2016 - Apr 2017 · 8 mos",
+          "metadata": "Melbourne, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Information Technology Specialist",
+          "subtitle": "Australia PAK . undefined",
+          "caption": "Nov 2012 - Jul 2016 · 3 yrs 8 mos",
+          "metadata": "West Footscray",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vietnamese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Persistence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gitlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redux.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "New Relic",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "E-Commerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WordPress",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Search Engine Optimization (SEO)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Atlassian Bamboo",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microfrontend",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8987",
+          "companyUrn": "urn:li:fsd_company:8987",
+          "companyLink1": "https://www.linkedin.com/school/swinburne-university-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGDauPopGFBCg/company-logo_400_400/company-logo_400_400/0/1631329617302?e=1785369600&v=beta&t=7thUQqDwHl3JFZ3KQ4TydEujYkb0TyGw7Bag6DMiy28",
+          "title": "Swinburne University of Technology",
+          "subtitle": "Bachelor's Degree, Software Technology",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

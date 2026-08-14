@@ -1,0 +1,368 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/david-therriault-3730ba10",
+  "row_key": "id:003Uk00000ylkTWIAY",
+  "person": "David Therriault",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:45Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAImgIcBZUunZsI3bw_9YkC9WBGGQOSctUs",
+      "firstName": "David",
+      "lastName": "Therriault",
+      "fullName": "David Therriault",
+      "publicIdentifier": "david-therriault-3730ba10",
+      "headline": "Engineering Director at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Montreal, Quebec Canada",
+      "addressWithoutCountry": "Montreal, Quebec",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFwQlkuEpvHBQ/profile-displayphoto-scale_400_400/B4DZg9BgwJHsAw-/0/1753370463768?e=1785369600&v=beta&t=1MVfoeENzirUTOaWOKyYe-JNVlX1pOJOIFOwb-5J4R4",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQGzDZMucpa3tA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1644264069566?e=1785369600&v=beta&t=o0FSBVYKtwtpVWkk-FgNU44M-9ekLGfkOxhYGvav16w",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFwQlkuEpvHBQ/profile-displayphoto-scale_100_100/B4DZg9BgwJHsAs-/0/1753370463768?e=1785369600&v=beta&t=63x5iMfRQJUIhpgK2NqE3m5nXvA0cNhPL1RMOtTQCWg"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFwQlkuEpvHBQ/profile-displayphoto-crop_800_800/B4DZg9BgwJHsAY-/0/1753370463655?e=1785369600&v=beta&t=vniQYtJrKh3ISSEe1Ezrbutwtwzyug-qC9C4g6A1bNQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFwQlkuEpvHBQ/profile-displayphoto-scale_200_200/B4DZg9BgwJHsAo-/0/1753370463768?e=1785369600&v=beta&t=Kl9aKFC95xV9b1jphATQtCGZDTpH-1SF5bPdk7XGlRc"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFwQlkuEpvHBQ/profile-displayphoto-scale_400_400/B4DZg9BgwJHsAw-/0/1753370463768?e=1785369600&v=beta&t=1MVfoeENzirUTOaWOKyYe-JNVlX1pOJOIFOwb-5J4R4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQGzDZMucpa3tA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1644264069566?e=1785369600&v=beta&t=BbL3dSrVMjWe0K2IaLOx5IYLIRKaveXpa7TuWTf0heg"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQGzDZMucpa3tA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1644264069566?e=1785369600&v=beta&t=o0FSBVYKtwtpVWkk-FgNU44M-9ekLGfkOxhYGvav16w"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "undefined · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Director",
+              "caption": "Jun 2025 - Present · 7 mos",
+              "metadata": "Montreal, Quebec, Canada",
+              "description": []
+            },
+            {
+              "title": "Lead Programmer - Ai & Gameplay ",
+              "caption": "Feb 2022 - Jun 2025 · 3 yrs 4 mos",
+              "metadata": "Montreal, Quebec, Canada",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2528",
+          "companyUrn": "urn:li:fsd_company:2528",
+          "companyLink1": "https://www.linkedin.com/company/ubisoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGSZPfgPIjI2A/company-logo_200_200/B4EZbzmJ1kHcAY-/0/1747843587931/ubisoft_logo?e=1785369600&v=beta&t=2ePML91LAJZXWgsLXhKLjewrqsegkYtJaftspJA5jEM",
+          "title": "Ubisoft",
+          "subtitle": "undefined · 15 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Programmer - Ai & Gameplay (Undisclosed Project)",
+              "caption": "Dec 2019 - Jan 2022 · 2 yrs 1 mo",
+              "metadata": "Montreal, Quebec, Canada",
+              "description": []
+            },
+            {
+              "title": "Lead Programmer - Artificial Intelligence (Undisclosed Project)",
+              "caption": "Mar 2017 - Dec 2019 · 2 yrs 9 mos",
+              "metadata": "Montreal, Canada Area",
+              "description": []
+            },
+            {
+              "title": "Team Lead Programmer - Player Mechanics & Ai Character Behaviours  (Watch Dogs 2)",
+              "caption": "May 2014 - Mar 2017 · 2 yrs 10 mos",
+              "metadata": "Montreal, Canada Area",
+              "description": []
+            },
+            {
+              "title": "Team Lead Programmer - Main Character, Camera & Ai Character Behaviours  (Watch Dogs)",
+              "caption": "Apr 2010 - May 2014 · 4 yrs 1 mo",
+              "metadata": "Montreal, Canada Area",
+              "description": []
+            },
+            {
+              "title": "Gameplay Programmer - Main Character Navigation & Camera (Splinter Cell Conviction)",
+              "caption": "Sep 2006 - Apr 2010 · 3 yrs 7 mos",
+              "metadata": "Montreal, Canada Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "15091620",
+          "companyUrn": "urn:li:fsd_company:15091620",
+          "companyLink1": "https://www.linkedin.com/school/polytechnique-montreal/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFX62gnYeN6Dg/company-logo_100_100/B4EZ54cm32HUAI-/0/1780137225973?e=1785369600&v=beta&t=7X2QD6y77qfqdO0MDygs7Qmq0vI4rbhtF9LCbXsyacU",
+          "title": "Part-Time Lecturer - LOG8235 (Intelligent agents for video games)",
+          "subtitle": "Polytechnique Montréal . undefined",
+          "caption": "Aug 2018 - Dec 2021 · 3 yrs 4 mos",
+          "metadata": "Montreal, Quebec, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "164875",
+          "companyUrn": "urn:li:fsd_company:164875",
+          "companyLink1": "https://www.linkedin.com/company/matroxvideo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGkZz-KpTKMsg/company-logo_200_200/B4EZgU6InOGYAQ-/0/1752697440982/matroxvideo_logo?e=1785369600&v=beta&t=Xji6DXuBH8lzbFeCtizCJLyqvJTr8KCYIBqJ4h5uGGo",
+          "title": "Imaging Software Developper",
+          "subtitle": "Matrox . undefined",
+          "caption": "May 2005 - Aug 2006 · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Analyst Programmer",
+          "subtitle": "Centre de Productique Intégrée . undefined",
+          "caption": "May 2003 - May 2005 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Generalist Programmer",
+          "subtitle": "Arcon Canada . undefined",
+          "caption": "Jan 2003 - May 2003 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Game Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox 360",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "3D Studio Max",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gameplay",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Animation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lua",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gameplay Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Graphics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Character Animation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Mechanics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166701",
+          "companyUrn": "urn:li:fsd_company:166701",
+          "companyLink1": "https://www.linkedin.com/school/universite-de-sherbrooke/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHPmp1zHRMp8Q/company-logo_400_400/company-logo_400_400/0/1633543567623/universite_de_sherbrooke_logo?e=1785369600&v=beta&t=izHfJrMYVQoDdtJg80N446kOjPqNPpCnNZwoCuEBUfg",
+          "title": null,
+          "subtitle": "B. ing, Computer Engineering - Robotics and Artificial Intelligence",
+          "caption": "2003 - 2007",
+          "subComponents": []
+        },
+        {
+          "title": "CEGEP Sherbrooke",
+          "subtitle": "DEC, Computer Science",
+          "caption": "1999 - 2002",
+          "subComponents": []
+        },
+        {
+          "title": "Du Phare",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

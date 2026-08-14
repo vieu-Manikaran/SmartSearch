@@ -1,0 +1,312 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/manjiri-parab-0b447a137",
+  "row_key": "id:003Uk00000yfTjrIAE",
+  "person": "Manjiri Parab",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACFZ2wgB_U24l1nA52W5mifFbnoYAcfr1QQ",
+      "firstName": "Manjiri",
+      "lastName": "Parab",
+      "fullName": "Manjiri Parab",
+      "publicIdentifier": "manjiri-parab-0b447a137",
+      "headline": "Senior Software Engineer at MiniMed",
+      "about": "SKILLS\nProgramming Language: Java, JavaScript, C++\nWeb Technologies: NodeJS, AngularJS, EJS, Restful Web Services, Bootstrap, jQuery, Ajax, HTML5, CSS3, JSON,React.js.\nDatabases: MySQL, MongoDB, Elasticsearch, Cassandra, Graphite.\nCloud Technologies: Amazon Web Services, Azure.\nTools, IDE, Servers: Eclipse, IntelliJ, WebStorm, Chrome Developer Tools, JIRA, Git, Maven, Grafana.\nOperating Systems: Windows, Linux, macOS.\nNetworking: TCP/IP, UDP, HTTP, HTTPS, DNS, DHCP, Linux networking tools.\nSoft Skills: Technical documentation, Verbal Communication, Analytical and Problem-solving work approach, open-mindedness.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United States",
+      "addressWithoutCountry": "United States",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQF-lCjGxB9Pmw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1624175476426?e=1785369600&v=beta&t=Jujdphx4vbu-IHKiIB9Icvm_DiAehKgPRq1_ge0-BdI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF-lCjGxB9Pmw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1624175476426?e=1785369600&v=beta&t=CySBUXdDT_TeQ2BS-6NO7uKzR--C_nNJzs1aVIJfuMA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF-lCjGxB9Pmw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1624175476426?e=1785369600&v=beta&t=5InjJVuURqOZOhWuVVEqvaiwBEEc8hlcsy8wv9ZFYhU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF-lCjGxB9Pmw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1624175476426?e=1785369600&v=beta&t=q31d5ALIhtQCZK2WnJNdrZ06TF_7sh-vOsNY5QDaHus"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF-lCjGxB9Pmw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1624175476426?e=1785369600&v=beta&t=Jujdphx4vbu-IHKiIB9Icvm_DiAehKgPRq1_ge0-BdI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "3713354",
+          "companyUrn": "urn:li:fsd_company:3713354",
+          "companyLink1": "https://www.linkedin.com/company/minimed-diabetes/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFcqXOEzP5Jxw/company-logo_100_100/B56ZzDg2BRIkAQ-/0/1772806693293/minimed_diabetes_logo?e=1785369600&v=beta&t=PSAKpIrnYaI4SQExByvPOOjXHocc6uEwE37gXwqwd6U",
+          "title": "Senior Software Engineer in Test",
+          "subtitle": "MiniMed . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "metadata": "California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 4 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Development Engineer in test",
+              "caption": "Jan 2025 - May 2026 · 1 yr 4 mos",
+              "description": []
+            },
+            {
+              "title": "Software Development Engineer In Test",
+              "caption": "Sep 2021 - May 2025 · 3 yrs 8 mos",
+              "metadata": "California, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "19148886",
+          "companyUrn": "urn:li:fsd_company:19148886",
+          "companyLink1": "https://www.linkedin.com/company/frugal-innovation-hub/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGDxB72ieAc7A/company-logo_400_400/company-logo_400_400/0/1630623521087/frugal_innovation_hub_logo?e=1785369600&v=beta&t=CBw_dUHk7WKRt2XCDdqOwvpIoBQKxSvwIw8w93lTn5o",
+          "title": "Software Engineer",
+          "subtitle": "SCU Frugal Innovation Hub . Part-time",
+          "caption": "Jan 2021 - Jun 2021 · 5 mos",
+          "metadata": "California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "operat",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Verification and Validation (V&V)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing Practices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analysis Reports",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Stories",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Smoke Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pivotal",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "QA Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Root Cause Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Root Cause",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation Tools",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "165847",
+          "companyUrn": "urn:li:fsd_company:165847",
+          "companyLink1": "https://www.linkedin.com/school/santa-clara-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEiJuZw0yQVmQ/company-logo_400_400/company-logo_400_400/0/1730236540145/santa_clara_university_logo?e=1785369600&v=beta&t=ubZql4BgWqrdyGbb5s1mo9o2FP2hgre4NkSQbYC86t4",
+          "title": "Santa Clara University",
+          "subtitle": "Master's degree, Computer Science",
+          "caption": "2019 - 2021",
+          "subComponents": []
+        },
+        {
+          "companyId": "8442691",
+          "companyUrn": "urn:li:fsd_company:8442691",
+          "companyLink1": "https://www.linkedin.com/school/thadomal-shahani-engineering-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG4sYsX-0yuMQ/company-logo_400_400/company-logo_400_400/0/1630614192236/thadomal_shahani_engineering_college_logo?e=1785369600&v=beta&t=--R1Um0gjmEuuFxeCEOdIQO8W9ciGRAyg5xpOnPy1g4",
+          "title": "Thadomal Shahani Engineering College",
+          "subtitle": "Bachelor of Engineering, Computer Engineering",
+          "caption": "2014 - 2017",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

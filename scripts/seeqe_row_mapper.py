@@ -31,13 +31,37 @@ STATUS_COLUMNS = (
     "Email Status",
     "Row Status (FullEnrich)",
     "fe_row_status",
+)
+
+BOUNCE_STATUS_COLUMNS = (
     "Bounce Status (FullEnrich)",
+    "Email Bounce Status",
+)
+
+COMPANY_COLUMNS = (
+    "Company Name",
+    "Company",
+    "companyName",
+    "Account Name",
+    "Account",
+    "Company Name (Linkedin)",
 )
 
 CREATED_AT_COLUMNS = (
     "Clay Enrich Time",
     "Clay Create Time",
 )
+
+# Prefer highest deliverability when deduping the same LinkedIn profile.
+_STATUS_RANK = {
+    "success": 100,
+    "valid & safe to send email": 100,
+    "partial success": 50,
+    "probably valid email": 40,
+    "catch-all": 20,
+    "catch all": 20,
+    "not found": 0,
+}
 
 
 def _first_value(row: dict[str, Any], columns: tuple[str, ...]) -> str:
@@ -66,6 +90,10 @@ def linkedin_key(url: str) -> str:
     return m.group(1).lower() if m else u
 
 
+def status_rank(status: str) -> int:
+    return _STATUS_RANK.get((status or "").strip().lower(), 10 if (status or "").strip() else 0)
+
+
 def csv_row_to_seeqe(row: dict[str, Any], *, source_file: str = "") -> dict[str, str] | None:
     email = _first_value(row, EMAIL_COLUMNS)
     linkedin_url = normalize_linkedin_url(_first_value(row, LINKEDIN_COLUMNS))
@@ -77,6 +105,8 @@ def csv_row_to_seeqe(row: dict[str, Any], *, source_file: str = "") -> dict[str,
         "linkedin_url": linkedin_url,
         "work_email": email,
         "email_status": _first_value(row, STATUS_COLUMNS),
+        "bounce_status": _first_value(row, BOUNCE_STATUS_COLUMNS),
+        "company_name": _first_value(row, COMPANY_COLUMNS),
         "created_at": created_at,
     }
     if source_file:
@@ -84,10 +114,13 @@ def csv_row_to_seeqe(row: dict[str, Any], *, source_file: str = "") -> dict[str,
     return out
 
 
-def row_priority(row: dict[str, str]) -> tuple[int, str]:
-    """Prefer rows with created_at, then email_status, then email."""
+def row_priority(row: dict[str, str]) -> tuple[int, int, int, str]:
+    """Prefer Success / Valid&safe, then bounce quality, then created_at, then email."""
+    status = row.get("email_status") or ""
+    bounce = row.get("bounce_status") or ""
     return (
+        status_rank(status),
+        status_rank(bounce),
         1 if row.get("created_at") else 0,
-        1 if row.get("email_status") else 0,
         row.get("work_email") or "",
     )

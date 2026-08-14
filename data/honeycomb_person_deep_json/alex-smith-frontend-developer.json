@@ -1,0 +1,554 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/alex-smith-frontend-developer",
+  "row_key": "id:0036O00004CRbWiQAL",
+  "person": "Alex Smith",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:38:00Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAi7VssB4is6yXG2YMNHQpP81dAzyOzpYWI",
+      "firstName": "Alex",
+      "lastName": "Smith ☕",
+      "fullName": "Alex Smith ☕",
+      "publicIdentifier": "alex-smith-frontend-developer",
+      "headline": "Frontend Engineer · UI Architecture · Design Systems",
+      "about": "Hi, I'm Alex — a frontend engineer with over 18 years of experience building and scaling high-quality, accessible web interfaces. I care deeply about clean, maintainable code and strong fundamentals, from pixel-perfect UI and accessibility through to performance and long-term maintainability.\n\nMy background is heavily rooted in design systems, component libraries, and frontend architecture, where I've helped teams ship consistently high-quality UI at scale. I've worked across startups and scale-ups, often operating at a platform level — defining standards, improving developer experience, and making it easier for teams to move fast without compromising quality.\n\nI specialise in modern frontend technologies including JavaScript, TypeScript, Vue, React, and CSS, and I've spent much of my career working closely with design and product to turn complex requirements into simple, usable interfaces. I'm also comfortable mentoring engineers, reviewing code, and contributing to technical direction, even when I'm not in a formal leadership role.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEFwS0iLhqjwA/profile-displayphoto-scale_400_400/B4EZ4ywgPXJoAg-/0/1778968037563?e=1785369600&v=beta&t=6EJFOsQ2UhA3zPEjph91oUB25ghiS0W4CNzGVBgxbqM",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQHNTFtDQEuuLQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736719314465?e=1785369600&v=beta&t=zGVfvxvVz3K9z1a-lQ_afLoFncYlTM-yILMh2G5nJJs",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEFwS0iLhqjwA/profile-displayphoto-scale_200_200/B4EZ4ywgPXJoAc-/0/1778968037564?e=1785369600&v=beta&t=LMx6gA3K6pZxe3wb_AEfBkd82bkgzdwAgQShkbKZnco"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEFwS0iLhqjwA/profile-displayphoto-scale_100_100/B4EZ4ywgPXJoAY-/0/1778968037563?e=1785369600&v=beta&t=W89aJngk5Vs0JYZSNp_8ArC2VxpOJKlhyF4MPrTvVgQ"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEFwS0iLhqjwA/profile-displayphoto-crop_800_800/B4EZ4ywgPXJoAI-/0/1778968037563?e=1785369600&v=beta&t=mtQLHD2mJ6WxWxct0l4P86WbfqZz0Pjiz_6sA48VzXg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEFwS0iLhqjwA/profile-displayphoto-scale_400_400/B4EZ4ywgPXJoAg-/0/1778968037563?e=1785369600&v=beta&t=6EJFOsQ2UhA3zPEjph91oUB25ghiS0W4CNzGVBgxbqM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHNTFtDQEuuLQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1736719314465?e=1785369600&v=beta&t=ITemCSMA1D3t9RroRiaOADcWcpDnVeAKldZTBy0hB6Y"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHNTFtDQEuuLQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736719314465?e=1785369600&v=beta&t=zGVfvxvVz3K9z1a-lQ_afLoFncYlTM-yILMh2G5nJJs"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "10587124",
+          "companyUrn": "urn:li:fsd_company:10587124",
+          "companyLink1": "https://www.linkedin.com/company/butternut-box/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHtmTS8xuz05g/company-logo_400_400/B4EZvawtDQHwAc-/0/1768901759786/butternut_box_logo?e=1785369600&v=beta&t=oJWmW4TUeF0QMIxCKS1-9GDE3aFpSah7SDIwK6eS-Ag",
+          "title": "Senior Software Engineer",
+          "subtitle": "Butternut Box | B Corp . Full-time",
+          "caption": "Aug 2025 - Present · 5 mos",
+          "metadata": "United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As a Senior Frontend Engineer at Butternut Box, I work on rebuilding the main customer-facing website using React and Next.js, alongside a modern CMS setup with Storyblok. The focus of my role is delivering robust, scalable frontend solutions while improving performance, maintainability, and overall developer experience.\n\nWhile this is an individual contributor role, I regularly draw on my broader experience to help shape architecture decisions, identify potential issues early, and solve complex frontend problems pragmatically. I work closely with designers, product, and backend engineers to ensure the implementation aligns with both user needs and long-term technical goals.\n\nAI tooling (primarily Claude) is used day-to-day to support development, speed up iteration, and reduce cognitive load, while maintaining a strong focus on code quality and clarity."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Lyka",
+          "subtitle": "Full-time · 2 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Software Engineer (UI)",
+              "caption": "Apr 2024 - May 2025 · 1 yr 1 mo",
+              "metadata": "Australia",
+              "description": []
+            },
+            {
+              "title": "Lead Frontend Engineer",
+              "caption": "Jan 2023 - Apr 2024 · 1 yr 3 mos",
+              "metadata": "Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a Staff / Lead Frontend Engineer at Lyka, I led the development of a company-wide design system and component library in close collaboration with the Design Lead. The goal was to create a single, scalable foundation for all frontend work, ensuring consistency, accessibility, performance, and ease of use across teams.\n\nI built the component library from the ground up as a private NPM package, defining standards around responsiveness, theming, accessibility, testing, versioning, and contribution workflows. This significantly improved developer experience and enabled teams to move faster without sacrificing quality.\n\nAlongside the technical work, I supported and mentored frontend engineers across multiple squads through regular guidance, PR reviews, and an open-door approach to problem solving. I also set up and ran a Design System / Component Library guild to encourage adoption, shared ownership, and cross-team collaboration.\n\nAt a leadership level, I worked closely with engineering leadership and stakeholders to help shape frontend direction, improve processes, and align technical decisions with broader business goals."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "69237018",
+          "companyUrn": "urn:li:fsd_company:69237018",
+          "companyLink1": "https://www.linkedin.com/company/gathertown/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHGULe0A_1mHg/company-logo_400_400/company-logo_400_400/0/1630662342584/gathertown_logo?e=1785369600&v=beta&t=TiN7_S97eWQZFubyZrJNwG6jnUfyEDDBdjFASjYnTuA",
+          "title": "Map maker",
+          "subtitle": "Gather . Freelance",
+          "caption": "May 2024 - Apr 2025 · 11 mos",
+          "metadata": "Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked as a freelance contributor creating bespoke virtual maps for global clients using Tiled and the Gather platform. Responsible for designing, building, and furnishing interactive environments tailored to client needs, handling feedback, and iterating on delivered work. Collaborated with distributed teams across time zones, primarily with US-based colleagues, to align on requirements and delivery."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "14463481",
+          "companyUrn": "urn:li:fsd_company:14463481",
+          "companyLink1": "https://www.linkedin.com/company/modiohq/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHGHT_cPZPGsQ/company-logo_100_100/B4EZVg9mOLGYAQ-/0/1741088515593/modiohq_logo?e=1785369600&v=beta&t=3jm8Z4dsWEZfF6DYgDDKm4tvEP2ZBLxwzRkfNkdL3LM",
+          "title": "Senior Front End Developer",
+          "subtitle": "mod.io . Full-time",
+          "caption": "Feb 2021 - Jan 2023 · 1 yr 11 mos",
+          "metadata": "Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As part of a fully remote, globally distributed team, I led frontend development across large parts of the mod.io platform, working closely with backend engineers and designers to deliver a responsive, accessible product used across web and embedded surfaces.\n\nI built the frontend architecture from the ground up, including an internal component library that enabled consistency, accessibility, and faster development across the team. A significant focus of my work was leading the frontend development of the monetisation area, coordinating with product and backend teams to deliver complex, state-heavy UI with a strong focus on performance and usability.\n\nAlongside hands-on development, I supported the wider frontend team through mentoring, PR reviews, and regular guild meetings, helping to maintain shared standards and improve overall code quality. I worked primarily on the Vue 3 and Tailwind-based v2 rebuild, contributing both to day-to-day delivery and longer-term frontend direction"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1057309",
+          "companyUrn": "urn:li:fsd_company:1057309",
+          "companyLink1": "https://www.linkedin.com/company/iconagency/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHSfvr9ElmBJw/company-logo_400_400/company-logo_400_400/0/1720566237824/iconagency_logo?e=1785369600&v=beta&t=1LW-zN6lsLleaDWJlN5RZxC6clsAHQEcAZND0t3pYrw",
+          "title": "Senior Front End Developer",
+          "subtitle": "Icon Agency . undefined",
+          "caption": "Dec 2016 - Feb 2021 · 4 yrs 2 mos",
+          "metadata": "Cremorne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked as a senior frontend engineer on large-scale, long-running client projects, with a strong focus on component reuse, consistency, and maintainability across teams and codebases.\n\nLed frontend development on a Vue.js-based component library for the Australian Department of Defence, used to rebuild and standardise over 150 websites. This involved defining component patterns, maintaining shared styles and behaviours, and supporting other developers adopting the library across multiple projects.\n\nRegularly collaborated with backend engineers, designers, and account managers to deliver complex client work, balancing technical constraints with design and delivery timelines. Took responsibility for code quality through pull request reviews, frontend guidance, and day-to-day technical decision-making.\n\nDelivered work for high-profile clients including the Australian Air Force and Maurice Blackburn, adapting frontend approaches and tooling depending on project needs while maintaining a consistent level of quality and accessibility."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "473873",
+          "companyUrn": "urn:li:fsd_company:473873",
+          "companyLink1": "https://www.linkedin.com/company/io-studios-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0dQj3ZIIw6Q/company-logo_400_400/company-logo_400_400/0/1652450258857/io_studios_ltd_logo?e=1785369600&v=beta&t=geiMeqBSe2ABLmmCV_B9Eg8XmIwslqKqhqRZVtGR1_M",
+          "title": "Front End Web Developer",
+          "subtitle": "IO Studios LTD . undefined",
+          "caption": "Jun 2013 - Oct 2016 · 3 yrs 4 mos",
+          "metadata": "Redditch, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Frontend Developer | Small Team of 7 Devs, 2 Designers, 2 Frontend, 3 Backend | Website & Mobile App Specialist  \n\nI helped transform Web Designers' visions into seamless websites, ensuring consistency in look, feel, and functionality across major web and mobile browsers. Expertise in responsive web design & bespoke software."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "165190",
+          "companyUrn": "urn:li:fsd_company:165190",
+          "companyLink1": "https://www.linkedin.com/company/nfu-mutual/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHLoIq27Bn9MQ/company-logo_100_100/B4EZfVbJd4GcAQ-/0/1751632354016/nfu_mutual_logo?e=1785369600&v=beta&t=uKaKTsISwjIqJ5AmRbGJ87nx1jxPm2euhB2NCl5bOSk",
+          "title": "NFU Mutual",
+          "subtitle": "undefined · 5 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Web  Developer",
+              "caption": "Sep 2011 - Jun 2013 · 1 yr 9 mos",
+              "metadata": "Stratford-Upon-Avon, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Junior Frontend Developer | NFU (National Farmers' Union)  \n\nPart of a 7-member team, crafting bespoke web apps for internal NFU clients. Developed diverse sites and animations using HTML, CSS, JavaScript, and Flash, ranging from basic forms to SQL-backed full-fledged applications. Improved internal processes with efficient solutions."
+                }
+              ]
+            },
+            {
+              "title": "Intranet Developer",
+              "caption": "Sep 2007 - Sep 2011 · 4 yrs",
+              "metadata": "Stratford-Upon-Avon, England, United Kingdom",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "ACS Developer Programmer",
+          "subtitle": "Australian Computer Society",
+          "issued": "Issued May 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ACS Web Developer",
+          "subtitle": "Australian Computer Society",
+          "issued": "Issued Apr 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Design system ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Responsiveness",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gather",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tiled",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Front-end Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Responsive Web Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Front-end",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Stratford Upon Avon College",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "National Diploma Media Studies (Advanced)"
+            }
+          ]
+        },
+        {
+          "title": "Bridley Moor High School",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Pitman Business Course"
+            }
+          ]
+        },
+        {
+          "title": "Sandwell College",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Higher National Diploma in Sound Engineering"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "VS Code Themes",
+          "subtitle": "Jun 2022 - Jun 2022",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Themes for VS Code, subtle background with pink / blue / green accent colours.\n\nPink:\nhttps://marketplace.visualstudio.com/items?itemName=eyebonk.subtle-pink\n\nBlue:\nhttps://marketplace.visualstudio.com/items?itemName=eyebonk.subtle-blue\n\nGreen:\nhttps://marketplace.visualstudio.com/items?itemName=eyebonk.subtle-green"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "devcalledalex.com",
+          "subtitle": "Jan 2022 - Jan 2022",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The source code for my public portfolio site devcalledalex.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Defence Design System",
+          "subtitle": "Jun 2019 - Feb 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "For the past 12+ months I have worked as Lead Developer building and delivering a bespoke component library built using Vue.js for the Australian Defence Department.\n\n\"The Defence Design System is a component library for building websites. It provides a User Interface framework consisting of working code and design resources to help designers and developers efficiently build Defence websites that are consistent, semantic and accessible.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bike Vault",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Frontend Build\n\nRegister and report your stolen property to PropertyVAULT for FREE and help us end the theft and black market trade."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deviant Distillery",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Wordpress / Woocommerce / Frontend build \n\nDeviant Distillery is Australia's first green tech distillery, founded by a passionate Tasmanian entrepreneur with a desire to innovate the whisky industry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Flix Slider (npm package)",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Downloadable NPM package. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

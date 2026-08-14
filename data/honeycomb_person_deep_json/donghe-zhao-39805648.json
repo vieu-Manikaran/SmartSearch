@@ -1,0 +1,432 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/donghe-zhao-39805648",
+  "row_key": "id:003Uk00000yfVKLIA2",
+  "person": "Donghe Zhao",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:33Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAn5P6QBzyo4LRdSULwu2mS2tRVui_h-XnA",
+      "firstName": "Donghe",
+      "lastName": "Zhao",
+      "fullName": "Donghe Zhao",
+      "publicIdentifier": "donghe-zhao-39805648",
+      "headline": "Senior Engineering Manager, IAM & AI Security at Coinbase | ex-Googler | ex-Microsoft",
+      "about": "15 years experience of Identity &amp; Access Management (IAM)",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Bellevue, Washington United States",
+      "addressWithoutCountry": "Bellevue, Washington",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGX56pvDK1cWg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730007586747?e=1785369600&v=beta&t=es1NWJtXM84oZN7GKbwjUW7j_PiofvhSwMqDMUDXT78",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGX56pvDK1cWg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730007586748?e=1785369600&v=beta&t=qk4lkrU_nS7wna8Gv3cIGT5sAF8QE_FuYYmYPcDGVig"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGX56pvDK1cWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730007586748?e=1785369600&v=beta&t=_ZiW37S7QBjXdTp_awSJe7M0xAqxe3jepv846eim8NY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGX56pvDK1cWg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730007586748?e=1785369600&v=beta&t=3kVW1uEg2u8mDInTu5kh9-6I2UBq3E1ZuoAWgeDZWu8"
+        },
+        {
+          "width": 708,
+          "height": 708,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGX56pvDK1cWg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730007586747?e=1785369600&v=beta&t=es1NWJtXM84oZN7GKbwjUW7j_PiofvhSwMqDMUDXT78"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Engineering Manager",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Jan 2022 - Present · 4 yrs",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Architected and led the engineering teams of Coinbase's comprehensive Workforce Identity & Access Management platform, enabling secure and efficient access management of 1000+ systems (production access, corporate access, internal tools access, SaaS access), while strengthening security oversight and compliance.\n* directory service\n* user management\n* group management (regular group, dynamic group)\n* Authentication (SSO, MFA, CAA)\n* access control (RBAC, ABAC, PBAC, JIT)\n* access intelligence, review and monitoring\n* Internal Tools privilege governance\n* SaaS privilege governance \n* Service-to-Service AuthZ\n* consensus policy engine"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Software Engineer",
+          "subtitle": "Google . Full-time",
+          "caption": "Nov 2017 - Jan 2022 · 4 yrs 2 mos",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "April 2019 - Jan 2022: IAM Policy Analyzer\n• Built v1 from scratch to Alpha, Beta and GA\n• https://cloud.google.com/asset-inventory/docs/analyzing-iam-policy\n• https://youtu.be/c0LVkrTLmVY?t=278\n\nNov 2017 - April 2019: Google Cloud Identity \n• Built v1 of Secure LDAP interface to GA for Cloud Directory\n• https://cloud.google.com/blog/products/identity-security/cloud-identity-now-provides-access-to-traditional-apps-with-secure-ldap"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Software Engineer",
+          "subtitle": "Microsoft . Full-time",
+          "caption": "Jun 2013 - Nov 2017 · 4 yrs 5 mos",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Nov 2015 - Nov 2017\nAzure Active Directory - Microsoft Online Directory Service\n•\tDeveloped Group-Base Licensing component and launched it to public preview stage.\n•\tParticipated in Data residency and go-local support starting with BlackForest in Germany.\n\nSept 2014 - Nov 2015\nWindows - Connected Device Platform\n•\tDeveloped cross platform (Windows Desktop/Store/Phone, iOS and Android) SmartGlass Platform instrumentation and data visualization.\n•\tDrove SmartGlass monthly SDK release.\n\nJun 2013 - Sept 2014\nInternet Explorer - Networking team"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3356",
+          "companyUrn": "urn:li:fsd_company:3356",
+          "companyLink1": "https://www.linkedin.com/school/duke-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_200_200/B56ZbZv8i_H4AI-/0/1747409948261?e=1785369600&v=beta&t=v1t5eI_X6vKEc6gdGgGn1aNJdgscytTc794p22rfIgg",
+          "title": "iOS Developer at Data & GIS Lab",
+          "subtitle": "Duke University . undefined",
+          "caption": "Feb 2013 - May 2013 · 3 mos",
+          "metadata": "Durham, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "iOS Developer Internship",
+          "subtitle": "Point Blank Group . undefined",
+          "caption": "May 2012 - Aug 2012 · 3 mos",
+          "metadata": "Chapel Hill, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xcode",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Patterns",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pig",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cocoa",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Verilog",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xilinx",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3356",
+          "companyUrn": "urn:li:fsd_company:3356",
+          "companyLink1": "https://www.linkedin.com/school/duke-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_200_200/B56ZbZv8i_H4AI-/0/1747409948261?e=1785369600&v=beta&t=v1t5eI_X6vKEc6gdGgGn1aNJdgscytTc794p22rfIgg",
+          "title": "Duke University",
+          "subtitle": "Master of Science (MS), Electrical & Computer Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "24531",
+          "companyUrn": "urn:li:fsd_company:24531",
+          "companyLink1": "https://www.linkedin.com/school/zhejiang-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFqHuGrMlNcfg/company-logo_400_400/company-logo_400_400/0/1631311270979?e=1785369600&v=beta&t=U-Omkt4r0lKYPMlUSCmvIxy6Qjtk3rXejNfgyH1OheE",
+          "title": "Zhejiang University",
+          "subtitle": "Bachelor of Science (BS), Electrical Engineering/ Power Electronics",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Analysis and Research on Different Algorithms of Hadoop Schedulers",
+          "subtitle": "Oct 2012 - Present",
+          "subComponenets": []
+        },
+        {
+          "title": "Property Manager",
+          "subtitle": "Jul 2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed an iPhone app (will be released in Apple Store by the end of 2012) that helps people to keep track of the properties they manage by using Core Data, Modal View Controller, ImagePicker and View Animation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Huffman Tree Compress Program in Java",
+          "subtitle": "Nov 2011 - Nov 2011",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tImplemented a java program to compress file using Huffman coding algorithm. Achieved compression ratio of 1:2 for K.J.Bible.txt\n•\tEclipse, Java\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tivoo",
+          "subtitle": "Jan 2012 - May 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Duke University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Parsed several different XML formats that are based on schedule data to output the results in HTML by using GUI and Java HTML Generator"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vooga",
+          "subtitle": "Jan 2012 - May 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Duke University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Designed and implemented a game engine that helps to develop any kind of fighting games by using Golden T Game Framework, Stratery Pattern, State Pattern and Composite Pattern"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Led Lighting Communication Transreceiver Circuit",
+          "subtitle": "Aug 2010 - Jun 2011",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Zhejiang University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Designed circuits to turn LED lighting into device that has both communication and lighting functions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

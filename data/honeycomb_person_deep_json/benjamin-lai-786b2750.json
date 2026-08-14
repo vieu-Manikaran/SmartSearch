@@ -1,0 +1,373 @@
+{
+  "linkedin_url": "https://sg.linkedin.com/in/benjamin-lai-786b2750",
+  "row_key": "id:003Uk00000Pb6rdIAB",
+  "person": "Benjamin Lai",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:41Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAArYWZYBI23y_kBdTybdTrQlGcMIU35Qhoc",
+      "firstName": "Benjamin",
+      "lastName": "Lai",
+      "fullName": "Benjamin Lai",
+      "publicIdentifier": "benjamin-lai-786b2750",
+      "headline": "Director - Technical Strategy and Innovations at Kaer",
+      "about": "Currently Working at Kaer, Asia's largest air-conditioning as a service provider.\nKaer owns and operates Cooling As A Service assets across Asia to deliver precise conditions to data centres, commercial properties and campuses on a pay-as-you-use basis.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Real Estate",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressWithCountry": "Singapore",
+      "addressWithoutCountry": "Singapore",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQF6243bFm_LqQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1621246941750?e=1785369600&v=beta&t=ErHH7hMpA2k_z1NK1eiJv8xfdInttjOa6RFaDUDw4Qc",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5116AQE-ObdWJUP01g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1569408126558?e=1785369600&v=beta&t=Udpe37muibOm4AD14yoqdqhb5mePMOaDIf-7fkP9MXY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF6243bFm_LqQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1621246941750?e=1785369600&v=beta&t=6Jn-SdV5wAPO2HbqHlne_Yg_XTP2Y980WQjYyn-Vyls"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF6243bFm_LqQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1621246941750?e=1785369600&v=beta&t=K6j_Tzq4MWyRmS-EsuqSq9IdUMbw0HXsFOz-X49Bv_4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF6243bFm_LqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621246941750?e=1785369600&v=beta&t=j23qkfIUL3PKFLvbkDD9pcTgFNAcB5JrIsOrkg3Wv5I"
+        },
+        {
+          "width": 763,
+          "height": 763,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF6243bFm_LqQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1621246941750?e=1785369600&v=beta&t=ErHH7hMpA2k_z1NK1eiJv8xfdInttjOa6RFaDUDw4Qc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5116AQE-ObdWJUP01g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1569408126519?e=1785369600&v=beta&t=JgA3hyPc8LmDsDNXg1Bmbf_Uza_J3vKqizpfDw5YV70"
+        },
+        {
+          "width": 850,
+          "height": 212,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5116AQE-ObdWJUP01g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1569408126558?e=1785369600&v=beta&t=Udpe37muibOm4AD14yoqdqhb5mePMOaDIf-7fkP9MXY"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2354399",
+          "companyUrn": "urn:li:fsd_company:2354399",
+          "companyLink1": "https://www.linkedin.com/company/kaer-pte-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH6xev0UGwryA/company-logo_100_100/B56ZrsMeSyMEAQ-/0/1764899284590/kaer_pte_ltd_logo?e=1785369600&v=beta&t=uYwZF_4yA8FrSMUwSB9IGu_jQaPcmaxTM-GWNhs7Cus",
+          "title": "Kaer",
+          "subtitle": "Full-time · 6 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director - Technical Strategy and Innovations",
+              "caption": "Jan 2025 - Present · 1 yr",
+              "metadata": "Singapore",
+              "description": []
+            },
+            {
+              "title": "Director - Strategy and Transformation",
+              "caption": "Mar 2019 - Feb 2025 · 5 yrs 11 mos",
+              "metadata": "Singapore",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "QuESS, BCA Registered Energy Auditor, SCEM, GMAAP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2354399",
+          "companyUrn": "urn:li:fsd_company:2354399",
+          "companyLink1": "https://www.linkedin.com/company/kaer-pte-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH6xev0UGwryA/company-logo_100_100/B56ZrsMeSyMEAQ-/0/1764899284590/kaer_pte_ltd_logo?e=1785369600&v=beta&t=uYwZF_4yA8FrSMUwSB9IGu_jQaPcmaxTM-GWNhs7Cus",
+          "title": "Kaer Pte Ltd",
+          "subtitle": "undefined · 7 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director - Asset Development (Design)",
+              "caption": "Mar 2018 - Feb 2020 · 1 yr 11 mos",
+              "metadata": "Singapore",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "QuESS, BCA Registered Energy Auditor, SCEM"
+                }
+              ]
+            },
+            {
+              "title": "General Manager",
+              "caption": "May 2012 - Feb 2018 · 5 yrs 9 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "QuESS, SCEM, BCA-Registered Energy Auditor, Green Mark Professional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Business Development Director",
+          "subtitle": "Cofely South East Asia Pte Lt . undefined",
+          "caption": "Jun 2010 - Apr 2012 · 1 yr 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2354399",
+          "companyUrn": "urn:li:fsd_company:2354399",
+          "companyLink1": "https://www.linkedin.com/company/kaer-pte-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH6xev0UGwryA/company-logo_100_100/B56ZrsMeSyMEAQ-/0/1764899284590/kaer_pte_ltd_logo?e=1785369600&v=beta&t=uYwZF_4yA8FrSMUwSB9IGu_jQaPcmaxTM-GWNhs7Cus",
+          "title": "Kaer Pte Ltd",
+          "subtitle": "undefined · 4 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director - Engineering Solutions",
+              "caption": "Aug 2008 - May 2010 · 1 yr 9 mos",
+              "description": []
+            },
+            {
+              "title": "Director - Sales & Marketing",
+              "caption": "Mar 2006 - Jul 2008 · 2 yrs 4 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2429",
+          "companyUrn": "urn:li:fsd_company:2429",
+          "companyLink1": "https://www.linkedin.com/company/carrierhvac/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF__a4pMZNM7w/company-logo_400_400/company-logo_400_400/0/1630541562429/carrier_corporation_logo?e=1785369600&v=beta&t=mMGjbr50SbX2eIJHUvKOPNISn2Z_qf1vcKZ4aLtmAiY",
+          "title": "Product Manager - Commercial Applied System (Asia Pacific)",
+          "subtitle": "Carrier HVAC . undefined",
+          "caption": "Aug 2004 - Mar 2006 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "13284712",
+          "companyUrn": "urn:li:fsd_company:13284712",
+          "companyLink1": "https://www.linkedin.com/company/engineerssg/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHfs_7c5LCkiA/company-logo_400_400/company-logo_400_400/0/1631322252979?e=1785369600&v=beta&t=_-y_mihl_S157IUlL0J5oyDz2al5jrvCly9aHFdTneY",
+          "title": "Chartered Engineer",
+          "subtitle": "The Institution of Engineers, Singapore (IES)",
+          "issued": "Issued Nov 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "37723",
+          "companyUrn": "urn:li:fsd_company:37723",
+          "companyLink1": "https://www.linkedin.com/company/national-environment-agency/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRehHvh13gzQ/company-logo_100_100/B56ZyeLDjfHQAQ-/0/1772180225036/national_environment_agency_logo?e=1785369600&v=beta&t=SQPvGJDsXNnzlMjYGN7XoJYnt8sTFJtmvomH4XrFNFg",
+          "title": "Energy Efficiency Opportunities Assessor (EEOA)",
+          "subtitle": "National Environment Agency",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "6592602",
+          "companyUrn": "urn:li:fsd_company:6592602",
+          "companyLink1": "https://www.linkedin.com/company/singapore-green-building-council/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGmTUtpUOrGhQ/company-logo_400_400/company-logo_400_400/0/1630635262613/singapore_green_building_council_logo?e=1785369600&v=beta&t=3IN2r97cjtO0T7twSm4VkZL4G_9QgJaVcSgpL5XoocA",
+          "title": "Green Mark Advanced Accredited Professional (GMAAP) ",
+          "subtitle": "Singapore Green Building Council",
+          "issued": "Issued Jul 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "111503",
+          "companyUrn": "urn:li:fsd_company:111503",
+          "companyLink1": "https://www.linkedin.com/company/bcasingapore/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqs4pM_xQYQA/company-logo_100_100/B56Zhi76CdHQAQ-/0/1754006529190?e=1785369600&v=beta&t=AX8cVDGQmyQ_fYFqS2dV0Q7k735cST3n_owbgGrmdxI",
+          "title": "BCA Registered Energy Auditor",
+          "subtitle": "Building and Construction Authority",
+          "issued": "Issued Oct 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "37723",
+          "companyUrn": "urn:li:fsd_company:37723",
+          "companyLink1": "https://www.linkedin.com/company/national-environment-agency/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRehHvh13gzQ/company-logo_100_100/B56ZyeLDjfHQAQ-/0/1772180225036/national_environment_agency_logo?e=1785369600&v=beta&t=SQPvGJDsXNnzlMjYGN7XoJYnt8sTFJtmvomH4XrFNFg",
+          "title": "Singapore Certified Energy Manager",
+          "subtitle": "National Environment Agency",
+          "issued": "Issued Oct 2009",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Project Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Renewable Energy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Energy Efficiency",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Energy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HVAC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Contract Negotiation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Energy Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "436072",
+          "companyUrn": "urn:li:fsd_company:436072",
+          "companyLink1": "https://www.linkedin.com/school/unimalaya/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHhz0ZrUuViTA/company-logo_400_400/company-logo_400_400/0/1664604109224/university_of_malaya_logo?e=1785369600&v=beta&t=TdSqtonon2Qj4YjKofIHhdidXwKWQUC3SteZBqoferQ",
+          "title": "University of Malaya",
+          "subtitle": "Bachelor’s Degree, Electrical Engineering",
+          "caption": "1989 - 1993",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

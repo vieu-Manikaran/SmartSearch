@@ -1,0 +1,164 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ajay-bhagat-34979b3b1",
+  "row_key": "id:003Uk00000yfR9MIAU",
+  "person": "Ajay Bhagat",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:31:47Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAGSsiSkBKjjOA5IpGFRSfWSAWaP0nU5x5Bg",
+      "firstName": "Ajay",
+      "lastName": "Bhagat",
+      "fullName": "Ajay Bhagat",
+      "publicIdentifier": "ajay-bhagat-34979b3b1",
+      "headline": "Datacenter Technician at Meta",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Reno Area United States",
+      "addressWithoutCountry": "Greater Reno Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Data center operation Tech",
+          "subtitle": "Amazon Web Services (AWS) . Full-time",
+          "caption": "Jul 2026 - Present · ",
+          "metadata": "Nevada, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Datacenter Technician",
+          "subtitle": "Meta . Full-time",
+          "caption": "May 2025 - Jun 2026 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Experienced Data Center Technician with hands-on expertise in deploying and maintaining enterprise server hardware, Linux/UNIX systems, and high‑density cabling infrastructures. Adept at diagnosing hardware faults, performing OS installations, supporting SAN/NAS environments, and ensuring reliable operations in 24/7 production settings. Strong in incident response, preventive maintenance, safety compliance, and cross‑team collaboration, consistently maintaining uptime and meeting SLA commitments."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Information Technology Infrastructure Engineer",
+          "subtitle": "Wipro . Full-time",
+          "caption": "Dec 2018 - Oct 2022 · 3 yrs 10 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Experienced Data Center Technician skilled in enterprise server hardware, Linux/UNIX administration, structured cabling, and mission‑critical infrastructure support. Strong in troubleshooting, preventive maintenance, storage systems, and 24/7 operations with proven reliability in high‑pressure environments."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Network Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Safety and compliance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Infrastructure Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15114269",
+          "companyUrn": "urn:li:fsd_company:15114269",
+          "companyLink1": "https://www.linkedin.com/school/people%27s-college-nanded/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE-R2hgiaV-4w/company-logo_400_400/company-logo_400_400/0/1698941509821?e=1785369600&v=beta&t=koI9w0vo-JP66mgykywpKII721utP4PVO9iDLvqPRik",
+          "title": "Swami Ramanand Teerth Marathwada University (SRTMU), Nanded",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

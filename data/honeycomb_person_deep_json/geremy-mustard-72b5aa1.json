@@ -1,0 +1,111 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/geremy-mustard-72b5aa1",
+  "row_key": "id:0033l00002ssqrCAAQ",
+  "person": "Geremy Mustard",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:23:08Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABD_ZMBCsQGkMLdev9IBtXp3hcI35eBZOc",
+      "firstName": "Geremy",
+      "lastName": "Mustard",
+      "fullName": "Geremy Mustard",
+      "publicIdentifier": "geremy-mustard-72b5aa1",
+      "headline": "Fortnite | Infinity Blade | Unreal Engine",
+      "about": "Fortnite, Infinity Blade, Shadow Complex, Undertow, Advent Rising\nUnreal Engine\n\nCo-founder of Chair Entertainment (Acquired by Epic Games)\nCreator, Executive Director, Technical Director, Programmer, Game Designer, Virtual Economist\n\nCurrently: Retired, Advising/Board 12 companies in Games, AI, Med-tech, Bio-materials, Photonic Chips, and Investment Funds",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Midway, Utah United States",
+      "addressWithoutCountry": "Midway, Utah",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 18 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Epic Emeritus",
+              "caption": "Jul 2020 - Present · 5 yrs 6 mos",
+              "description": []
+            },
+            {
+              "title": "Executive Director",
+              "caption": "May 2016 - Jul 2020 · 4 yrs 2 mos",
+              "metadata": "North Carolina, United States",
+              "description": []
+            },
+            {
+              "title": "Technical Director",
+              "caption": "2008 - May 2016 · 8 yrs 4 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder and Technical Director",
+          "subtitle": "ChAIR Entertainment Group . undefined",
+          "caption": "May 2005 - 2016 · 10 yrs 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Technical Director",
+          "subtitle": "Glyphx Games . undefined",
+          "caption": "2000 - 2005 · 5 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "4035",
+          "companyUrn": "urn:li:fsd_company:4035",
+          "companyLink1": "https://www.linkedin.com/school/brigham-young-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFRMyoXTVO86A/company-logo_400_400/company-logo_400_400/0/1646864910688/brigham_young_university_logo?e=1785369600&v=beta&t=EyxjhsY3t4b2wt13kSDfYHCn_Z_V8GzD2aX4OQTkims",
+          "title": null,
+          "subtitle": "null, Computer Science",
+          "caption": "1997 - 2002",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

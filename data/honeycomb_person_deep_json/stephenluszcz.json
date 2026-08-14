@@ -1,0 +1,395 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/stephenluszcz",
+  "row_key": "id:0033l00002hezfHAAQ",
+  "person": "Stephen Luszcz",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T09:56:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADOIYEBUVfVzrDdfytTpKsIVsceWLbGbSk",
+      "firstName": "🔧Stephen",
+      "lastName": "Luszcz🔧",
+      "fullName": "🔧Stephen Luszcz🔧",
+      "publicIdentifier": "stephenluszcz",
+      "headline": "Software Manager, DevOps",
+      "about": "Professional software leader with over 20 years experience in all types of ​application development ​​and infrastructure deployment, most recently leading DevOps teams.  High adaptability with various cultures from startup to corporate environments.  Can work both independently and within defined environments.  Results oriented professional who can balance processes that provides structure without bureaucracy or burden.  Passion for collaboration that builds strong teams and creative solutions.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Medford, Massachusetts United States",
+      "addressWithoutCountry": "Medford, Massachusetts",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHtxHjfCD7jtw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1584503748270?e=1785369600&v=beta&t=0xI0o6ky5wk3vXqBL91r36AZvniEImphdhdLasvw7f4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHtxHjfCD7jtw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1584503748196?e=1785369600&v=beta&t=yps8rYLkPh0jyOc9GC5-KLFPzuo8EFE2XKOM1dpTGzY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHtxHjfCD7jtw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1584503748150?e=1785369600&v=beta&t=bQ_LDazNKloxQb_fdXdHgnUGSQkK62VnmOX2M90bTA0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHtxHjfCD7jtw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1584503748240?e=1785369600&v=beta&t=wgd1vAix35ZM-5_-yshp0pVf9TebdrB_RoWEfzhykmc"
+        },
+        {
+          "width": 417,
+          "height": 417,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHtxHjfCD7jtw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1584503748270?e=1785369600&v=beta&t=0xI0o6ky5wk3vXqBL91r36AZvniEImphdhdLasvw7f4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Software Manager, DevOps",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Oct 2019 - Present · 6 yrs 3 mos",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software Manager, DevOps | R&D\nSurgical Robotics \n\nI am currently managing a DevOps group within a global software organization. This team consists of 15 members who support a software organization of nearly 300 team members.  Our primary responsibility is to oversee a CI/CD pipeline capable of building production code, deployment, and running automated tests on a multi-node embedded robotic product.  \n\n+ To enhance our infrastructure, we converted our CI/CD pipelines to Infrastructure as Code (IaC), transitioning from gui-based build plans to a combination of YAML, Ansible, Python, and shell scripts.  \n+ Introduced the use of Docker containers in our pipelines, promoting modernization and adherence to industry best practices. \n+ Continuously monitor, maintain, deploy, and execute tests on over 35 surgical robotics systems. Software deployments and tests are run 24/7 across global locations powered by our CI/CD pipelines and automations.\n+ Establish and communicate expectations for best practices while automating checks/gates and utilizing tools to guide code delivery.\n+ Maintain regular cross-team communication with our product management group to align resources and timelines with various software teams.  \n+ As a facilitator, conduct presentation sessions on a range of topics for the software organization, including technical sessions, updates on upcoming changes, roadmap updates, and tool updates.\n+ During the COVID pandemic, successfully connected a gateway device to our robotics systems to allow CI/CD automations.\n+ Expanded team size by more than 100%\n+ Instituted several organization-wide communication channels not present before such as live/hosted tech sessions, regular FAQ posts, Wiki style information to keep the software group continually informed.  \n+ Conduct manager training sessions, developed software team-specific onboarding guides, and advocated for onboarding partners, resulting in a more streamlined and efficient onboarding experience."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11007367",
+          "companyUrn": "urn:li:fsd_company:11007367",
+          "companyLink1": "https://www.linkedin.com/company/herecast/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHBsxT63o8bzw/company-logo_400_400/company-logo_400_400/0/1630477776930/subtext_media_llc_logo?e=1785369600&v=beta&t=GXKjTFHthXnfJYvFGywmRn2AlMFZ50VhV7rpiZEUDaM",
+          "title": "Software Technical Lead",
+          "subtitle": "Subtext Media Ltd. . undefined",
+          "caption": "Sep 2018 - Mar 2019 · 6 mos",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Subtext Media runs a content, publishing, and advertising platform called dailyuv.com.  Startup since 2014 with 10 employees.  Technologies used included Ruby on Rails, Ember.js, and Postgres for implementation and GitHub, CircleCI, Docker, EC2/ECS, RDS, and S3 to build and deploy.  \n\n+ Leading a group of 4 remote engineers.\n+ Responsible for talent acquisition from end-to-end, creating job descriptions, engaging recruiting agencies, phone screens, and interview process.\n+ Improved and implemented practical software processes aligning with best practices.\n+ Update to DevOps infrastructure which reduced operational overhead and improved scalability.\n+ Evaluated and chose replacement javascript framework to modernize front end technology stack."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2487521",
+          "companyUrn": "urn:li:fsd_company:2487521",
+          "companyLink1": "https://www.linkedin.com/company/corista/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG3-fEl9DrFJw/company-logo_400_400/company-logo_400_400/0/1630583931633/corista_logo?e=1785369600&v=beta&t=KQJclcFePoHL7-RjZErLO0kMjJ1u8bzsNxA0XlkAxd8",
+          "title": "Corista",
+          "subtitle": "undefined · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Team Lead",
+              "caption": "Oct 2015 - Aug 2018 · 2 yrs 10 mos",
+              "metadata": "Greater Boston Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Corista implements a Digital Pathology Platform that runs as distributed services over RESTful interfaces.  Technologies such as Ruby, Rails, Node.js, MySQL, and Java were used for implementation.  We leveraged tools and services such as GitHub, Rake, RSpec, Maven, Chef, and Codeship.  Engineering team expanded from 4 in 2013 to over 15 by 2017.\n\n+ Team lead of 4-8 member software group responsible for Backend and DevOps services. \n+ Architected and led successful effort to launch first ever HIPAA compliant cloud deployment of web application in addition to automating deployment via Chef.\n+ Close collaboration with CTO and CEO to create product roadmap, collect and document customer requirements, development of user stores, estimates and work plans.\n+ Championed the utilization of external remote QA testers which increased test coverage and bug discovery.\n+ Responsible for site selection analysis and hiring impacts which resulted in adding an urban engineering office closer to public transportation to attract talent.  \n+ Responsible for hiring engineering staff including attending Boston area college and university career fairs."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer / Solutions Architect",
+              "caption": "Oct 2013 - Oct 2015 · 2 yrs",
+              "metadata": "Greater Boston Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "+ Designed and implemented CI/CD pipeline using GitHub, Codeship, Jenkins, Chef and AWS for all stages of deployment.  \n+ Collaborate with software developers, business analysts and sales to plan, design, develop, test, and maintain web based applications.\n+ Primary customer interface post sales addressing customer and technical applications providing immediate resolution.\n+ Package and support deployment of releases including reports, manuals and release documentation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Software Development Engineer (EC2)",
+          "subtitle": "Amazon . undefined",
+          "caption": "Jul 2012 - Jun 2013 · 11 mos",
+          "metadata": "Seattle, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Founding team member of new service named Amazon Workspaces.  The new business initiative delivered a high tier service value for both small scale and large enterprise customers.  Technologies used to build the service included Java, Spring, Python, .NET/C#.  Team grew to 15 by June 2013.  \n\n+ Early work involved several proof-of-concept iterations utilizing a combination of existing AWS services as well as 3rd party solutions.\n+ Implemented Microsoft Server 2012 Session Host and Gateway RDP Proof-of-Concept pilot for usability testing.\n+ Implemented Citrix XenDesktop and XenApp Proof-of-Concept pilot for usability testing.\n+ Collaborated with technology partners to evaluate possible partnerships for product development."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1066",
+          "companyUrn": "urn:li:fsd_company:1066",
+          "companyLink1": "https://www.linkedin.com/company/motorola-mobility/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG13yNjqbMXvw/img-crop_100/B56Zy4yYDpGQAM-/0/1772626748792?e=1785369600&v=beta&t=lLjXiW3_Y4_bWYZoxrDpCFceVYwjY7ilidojJ8NWSXw",
+          "title": "Senior Staff Software Engineer",
+          "subtitle": "Motorola . undefined",
+          "caption": "Sep 2005 - Jun 2012 · 6 yrs 9 mos",
+          "metadata": "Marlboro, MA and Lowell, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Team lead of small highly efficient Software Platform group responsible for all phases of the software life cycle from architecture, design, implementation and support of platform features in current and future products.  Design, implement, and test C/C++ code, write and update specification and requirement documents for a High Availability (99.999%), Fully redundant Real-time Embedded Cable Router Termination System (CMTS) compliant to industry standards, DOCSIS 3.0 RFI specifications.  Business Unit revenue was ~$250 million.\n\n+ Key role in rapid development of firmware for board initialization for all prototype board phases.  Accelerated development of firmware using evaluation/development system vendor boards.  This resulted in fully tested and verified software functionality within 24 hours of first pass beta prototype hardware.  \n+ Implemented highly scalable and reusable cross-platform application libraries for common user utilities, transparent application methods for users to access devices.\n+ Experience with all stages of platform software from custom firmware (early board initialization), middleware (Boot ROM) to custom device drivers and integrating vendor provided device drivers/SDK.  \n+ Created software high and low level design documents, code implementation, perform unit and feature integration testing, doxygen documentation, and user how-to guides all conforming to TL 9000 specifications.  \n+ Wrote detailed How-To Wiki style guides for 150 members of software development organization.  Extensive and detailed assistance to SW developers for a wide range of issues from how-to debug application code, unit testing, firmware updates, tips for rapid debugging, best practice questions, image loading, core dump debugging, resource allocation and analysis, access to various hardware devices, etc."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "103802",
+          "companyUrn": "urn:li:fsd_company:103802",
+          "companyLink1": "https://www.linkedin.com/company/in-control-advanced-driver-training/",
+          "title": "Instructor",
+          "subtitle": "In Control Advanced Driver Training . undefined",
+          "caption": "Feb 2004 - Dec 2010 · 6 yrs 10 mos",
+          "metadata": "Weymouth, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Teaching Crash Prevention Training to drivers of motor vehicles.\n\n•\tProvide classroom and in-vehicle advanced driver training techniques to Teens, Municipalities, State and Local police, EMT and Emergency Responders, Corporate, and Race Car drivers.\n•\tConduct and coordinate training programs at both on-site and off-site training facilities.\n•\tCertified by the State of Massachusetts as a \"Qualified Driver Skills Development Program Instructor\" in the operation of motor vehicles.\n•       This is NOT a driver's ed course, it is considerably more hands-on training and is conducted on a closed course."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1066",
+          "companyUrn": "urn:li:fsd_company:1066",
+          "companyLink1": "https://www.linkedin.com/company/motorola-mobility/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG13yNjqbMXvw/img-crop_100/B56Zy4yYDpGQAM-/0/1772626748792?e=1785369600&v=beta&t=lLjXiW3_Y4_bWYZoxrDpCFceVYwjY7ilidojJ8NWSXw",
+          "title": "Software Engineer",
+          "subtitle": "Motorola . undefined",
+          "caption": "Jul 2000 - Feb 2002 · 1 yr 7 mos",
+          "metadata": "Mansfield, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Group:  Broadband Communications Sector\n\nDesigned, implemented, and whitebox/blackbox tested real-time embedded C, C++ code, updated and wrote specification and requirement documents for the DCM2000 Docsis certified CMTS product.  \n\n• Design, implement, test and debug C code for middleware and application level software running pSOS on a PowerPC 750. \n• Implemented CMTS commands that deliver statistical information pertaining to the High Availability feature to the user via CLI.\n• Involved in the detailed requirement revisions of the High Availability feature.\n• Implemented and completed the requirements for a hardware switch.\n• Conduct and participate in cross-functional peer code review sessions.\n• Debug and test utilizing Hardware JTAG debugging using SingleStep debugger."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DOCSIS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Device Drivers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VxWorks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Freescale PowerPC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "U-Boot",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JTAG",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ClearCase",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "INTEGRITY Operating System",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DDR3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4508",
+          "companyUrn": "urn:li:fsd_company:4508",
+          "companyLink1": "https://www.linkedin.com/school/umassamherst/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_400_400/company-logo_400_400/0/1680271203107/umassamherst_logo?e=1785369600&v=beta&t=4GnXieYx0ivNzGf4FrjSHfUJ5mgb7tm2MLVYYr0ejzA",
+          "title": "University of Massachusetts, Amherst",
+          "subtitle": "Bachelor of Science (B.S.), Computer Systems Engineering",
+          "caption": "1995 - 2000",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "linkedin_url": "https://dk.linkedin.com/in/predoiuandrei",
+  "row_key": "id:003Uk00000rSfrcIAC",
+  "person": "Andrei Predoiu",
+  "account": "BESTSELLER",
+  "fetched_at": "2026-07-14T10:37:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAe5ID4B7VQ8q9UNv36XsH0k1x4FnyhjWo8",
+      "firstName": "Andrei",
+      "lastName": "Predoiu",
+      "fullName": "Andrei Predoiu",
+      "publicIdentifier": "predoiuandrei",
+      "headline": "DevOps Engineer at BESTSELLER",
+      "about": "I started as a full stack engineer at one of the leading software companies in Denmark and developed a passion for SRE, DevOps and cloud technologies. I love new technologies and tinkering, especially when making other developer's lives easier.\n\nIn my current job i helped move Bestseller from an old-school on-premise, mostly Oracle and Windows IIS operation, to a modern, highly automated, multi cloud, Kubernetes and Cloud-Native centered setup.\n\nI have a flexible and pragmatic mindset with hands-on experience in may areas of the Cloud Enterprise space. \n\nAmong many others, I have strong experience with Cloud setup and automation, Kubernetes, Observability, CI-CD, Infrastructure as code, IAM, Identity federation and Security",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Denmark",
+      "addressWithCountry": "Copenhagen Metropolitan Area Denmark",
+      "addressWithoutCountry": "Copenhagen Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQE3lYJfTVXqcw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1534423396143?e=1785369600&v=beta&t=s7kQzUHUe-mXu4_FoRmwC_0D-vIFxtcZJYvDICgHtSQ",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQEkZLoCMgcjTA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728847988986?e=1785369600&v=beta&t=RZIbgFEI1oUCZOW7PtPwUjirEptJrwCEQUZ3DstP5K4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQE3lYJfTVXqcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1534423396091?e=1785369600&v=beta&t=JGtQhA6B-i4gPAKElCwzN8k3jMAFF94EwF6eeBGGC8A"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQE3lYJfTVXqcw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534423396084?e=1785369600&v=beta&t=IfwrFIftE-ik3OedFKFgnQl-4D95WWVsozqipKEJcDo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQE3lYJfTVXqcw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1534423396383?e=1785369600&v=beta&t=bt3iYJDF9iuK68r4L8wksUXOH1-6uBXYqH8QQJ1bhz8"
+        },
+        {
+          "width": 600,
+          "height": 600,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQE3lYJfTVXqcw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1534423396143?e=1785369600&v=beta&t=s7kQzUHUe-mXu4_FoRmwC_0D-vIFxtcZJYvDICgHtSQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQEkZLoCMgcjTA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1728847988986?e=1785369600&v=beta&t=LfWygjeWBsRtbyPAoSsmkHL_W-g3haZXmm5kmgQZLMo"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQEkZLoCMgcjTA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728847988986?e=1785369600&v=beta&t=RZIbgFEI1oUCZOW7PtPwUjirEptJrwCEQUZ3DstP5K4"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "7132",
+          "companyUrn": "urn:li:fsd_company:7132",
+          "companyLink1": "https://www.linkedin.com/company/bestseller/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKY5WMEUbf1A/company-logo_200_200/B4EZuSiRYmGoAI-/0/1767690017006/bestseller_logo?e=1785369600&v=beta&t=8VEnkZEIPjIxlWvnLY4ZV6PwBNRbIytqeHpBtmZXues",
+          "title": "DevOps Engineer",
+          "subtitle": "BESTSELLER . undefined",
+          "caption": "Feb 2018 - Present · 7 yrs 11 mos",
+          "metadata": "Aarhus C, Central Region, Denmark",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My main projects:\nMulti-cloud platform development - Azure + GCP\nKubernetes platform Design and engineering\nCloud Security/IAM Engineering\nEnterprise Cloud Observability\nDeveloper automation engineer(CI-CD, access automation, on-boarding etc)\nAPI management - api.bestseller.com"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "166233",
+          "companyUrn": "urn:li:fsd_company:166233",
+          "companyLink1": "https://www.linkedin.com/company/systematic/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZc_zCCLKSZw/company-logo_400_400/company-logo_400_400/0/1647847465113/systematic_logo?e=1785369600&v=beta&t=He-QjRMLimcq5Amz4P61FPLLr2aYCbT8Kv--fnpNXg0",
+          "title": "Software Developer",
+          "subtitle": "Systematic . undefined",
+          "caption": "May 2015 - Jan 2018 · 2 yrs 8 mos",
+          "metadata": "Aarhus",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Full stack developer for de danish central library management system (Library ERP) - Fælles bibliotekssystem/Cicero"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "453415",
+          "companyUrn": "urn:li:fsd_company:453415",
+          "companyLink1": "https://www.linkedin.com/school/via-university-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEjJW_wMuzRKQ/company-logo_400_400/company-logo_400_400/0/1630650984605/via_university_college_logo?e=1785369600&v=beta&t=86CAIxv1GynQS36fEm4mWEzfLhDcMsN82z3oLSTzZ6c",
+          "title": "Networking Student Instructor at VIA University College",
+          "subtitle": "VIA University College . undefined",
+          "caption": "Feb 2014 - Jan 2015 · 11 mos",
+          "metadata": "Horsens Denmark",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Preparing presentations and exercises.\n- Organize and host computer network workshops."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "166287",
+          "companyUrn": "urn:li:fsd_company:166287",
+          "companyLink1": "https://www.linkedin.com/company/stefanini-emea/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGjv1pQWIx1SA/company-logo_400_400/company-logo_400_400/0/1630655735664/stefanini_emea_logo?e=1785369600&v=beta&t=GRUDmSkVpzDrbm2UJSIKNAS5FB5-x85l7EmAeidl2GA",
+          "title": "Junior developer",
+          "subtitle": "Stefanini EMEA . undefined",
+          "caption": "Aug 2013 - Jan 2014 · 5 mos",
+          "metadata": "Bucharest, Romania",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Business intelligence solution developer\n- Built in co-operation with, and for KDS Systems\n- RESTful web services, Oracle, Java, JavaScript"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1066442",
+          "companyUrn": "urn:li:fsd_company:1066442",
+          "companyLink1": "https://www.linkedin.com/company/datadog/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFLwWfI6v1OPA/company-logo_400_400/company-logo_400_400/0/1657564322231/datadog_logo?e=1785369600&v=beta&t=HZ8l26HSK4jMLtDK_ZCkZvJFeJcHl4QMgyQ2rBQtiho",
+          "title": "DataDog Platform Specialist",
+          "subtitle": "Datadog",
+          "issued": "Issued Jun 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1153894",
+          "companyUrn": "urn:li:fsd_company:1153894",
+          "companyLink1": "https://www.linkedin.com/company/scrum-org/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFzF6WZjNSHkQ/company-logo_400_400/company-logo_400_400/0/1631433558836?e=1785369600&v=beta&t=dHPCYwHmdLBdS_mR4voeGYuTnTO-4BcTHjXe9TQgH3g",
+          "title": "PSM1",
+          "subtitle": "Scrum.org",
+          "issued": "Issued Aug 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ECDL",
+          "subtitle": "http://www.ecdl.com/",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Danish",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Romanian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "IDA",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Powershell",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Containerization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "General Data Protection Regulation (GDPR)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ERP Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Facilitation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Standards Compliance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure API Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure Key Vault",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business-to-Business (B2B)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "B2B Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "kyverno",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "backstage.io",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Enabled Business Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Editing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "VIA University College",
+          "subtitle": "Bachelor's degree, JAVA, JAVAEE, JNI\nMySQL, ORACLE,MSSQL\n.net, C#, C\nEmbedded systems in  Micro C",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Training in various areas of it, from JAVA, MySql,C# to C, embedded systems and electronics.\nDevelopment with focus on teamwork"
+            }
+          ]
+        },
+        {
+          "title": "National College Alexandru Ioan Cuza Focsani",
+          "subtitle": "High School, IT/Mathematics",
+          "caption": "2007 - 2011",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Enterprise Observability strategy",
+          "subtitle": "Jun 2024 - Jun 2024",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Observability lead. Tasked with designing and implementing the observability strategy for BESTSELLER's ERP system.\nFacilitating work between developer, architects and stakeholders as part of a central component team.\n\nHighly experienced with Datadog, Prometheus, OpenTelemetry, statsD and many other observability tools."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cloud Security/IAM Engineering",
+          "subtitle": "Apr 2020 - Apr 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managing and designing multiple aspects of Bestseller's access and security setup, especially as to how it relates to cloud resources.\n\n* Deploying and managing Hashicorp Vault, basic to most advanced scenarios.\n* Managing our B2B Collaboration IAM design and setup for enabling customer and vendor self service capabilities\n* oAuth, Oidc, SSO expertise - Mainly AzureAD(EntraAD), also Okta and KeyCloak\n* Application RBAC, app access management\n* Security policy management.\n* Workload identity, managed identity workloads\n* Kubernetes hardening(OpenPolicy Agent/kyverno)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Developer automation engineer",
+          "subtitle": "Apr 2020 - Apr 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Developer automation and tool access management +(Git, CI, DataDog, Other cloud\nresources like managed sql etc)\n* Developer self service via ServiceNow or Teams integrations(bots, self service forms\netc)\n* Ci-Cd (CircleCi + Github Workflows)\n* Developer security policies and secret + vulnerability scanning\n* Developer productivity, enablement and support\n* Developer education and guides\n* Backstage management and development"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BESTSELLER's API portal - api.bestseller.com",
+          "subtitle": "Aug 2018 - Aug 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Design and develop BESTSELLER's api portal - api.bestseller.com. \nThe main goals are:\n* Provide a stable, automated and easy to use API interface for externals.\n* Reduce business partner on-boarding cost and lead time.\n* Fulfill critical integration needs of B22 Customers and Vendors"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes platform Design and engineering",
+          "subtitle": "Jun 2018 - Jun 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Kubernetes platform design, development, operation etc\n* Managed Kubernetes Azure + Google. Cloud platform migration.\n* Managing and operating 20+ clusters in varying configurations.\n* Tooling: DNS, certificates, observability, logging, backup and\nrestore etc\n* Ingress: Nginx, Ambassador/Emissary API Gateway, K8s Gateway API\n* Kubernetes security hardening: Gatekeeper/OpenPolicy Agent/Kyverno\n* Kubernetes development, developing Admission webhooks, custom resources etc\n* Helm chart development\n* Developer training and consultancy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fælles bibliotekssystem/Cicero",
+          "subtitle": "Jun 2015 - Jan 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Full stack System Engineer helping develop Denmark's Library management system. The system is a SaaS platform used by all public libraries in Denmark as well as many educational institutions in Denmark and neighboring countries.\n\nI worked as part of a team that had responsibility for technical design and development of several key features such as: GDPR compliant data anonymization, remote loan management(fjernlån), Customer notifications..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/davide-volpi-01",
+  "row_key": "id:0036O00003zPH2tQAG",
+  "person": "Davide Volpi",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:23Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAWKaXIBE3qE5BS7gWsIo8mjDHpnw11hN3k",
+      "firstName": "Davide",
+      "lastName": "Volpi, PhD",
+      "fullName": "Davide Volpi, PhD",
+      "publicIdentifier": "davide-volpi-01",
+      "headline": "Principal Product Manager at Medtronic Digital Technologies",
+      "about": "Experienced Product Leader passionate about addressing critical needs in healthcare. Quick to grasp new ideas and concepts and turn them into working solutions. Obsessed about leading and inspiring teams to solve customers’ problems and achieve business objectives. Led by empathy and clarity.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater Oxford Area United Kingdom",
+      "addressWithoutCountry": "Greater Oxford Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGL1sFx0_Y_8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1588322997269?e=1785369600&v=beta&t=W2mY7V_yBe_KrTNtHDACIhophOjn6-kngcI5IQxA5gU",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQFcXLepvvnemA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517439782062?e=1785369600&v=beta&t=GqTn0hSl_t3S5L9std98xxszL2Ad9Vx071EEGrqq65E",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGL1sFx0_Y_8w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1588322997225?e=1785369600&v=beta&t=wXkBXBtkC9kXGC7qlrgaOnQ2nSTm5N2VzSqLbbT7k-k"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGL1sFx0_Y_8w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1588322997202?e=1785369600&v=beta&t=sakIW7Kqg66egTRaq-R09Xrkdbd6VX4KliohiKYoMqY"
+        },
+        {
+          "width": 359,
+          "height": 359,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGL1sFx0_Y_8w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1588322997247?e=1785369600&v=beta&t=nWnTVNmQ_DfWwFnuBvyuwOWYaXYAryKYmqrjqj8niL4"
+        },
+        {
+          "width": 359,
+          "height": 359,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGL1sFx0_Y_8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1588322997269?e=1785369600&v=beta&t=W2mY7V_yBe_KrTNtHDACIhophOjn6-kngcI5IQxA5gU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFcXLepvvnemA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517439781970?e=1785369600&v=beta&t=vp-5ymbQDBR8ObNTlmP2WsDxpH683JgPLekJLAGZmyI"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFcXLepvvnemA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517439782062?e=1785369600&v=beta&t=GqTn0hSl_t3S5L9std98xxszL2Ad9Vx071EEGrqq65E"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sr. Principal Product Manager",
+              "caption": "Jun 2025 - Dec 2025 · 6 mos",
+              "description": []
+            },
+            {
+              "title": "Principal Product Manager",
+              "caption": "Mar 2022 - Jun 2025 · 3 yrs 3 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "288857",
+          "companyUrn": "urn:li:fsd_company:288857",
+          "companyLink1": "https://www.linkedin.com/company/mirada-medical/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF8UJvn_dnmFg/company-logo_400_400/company-logo_400_400/0/1630649647445/mirada_medical_logo?e=1785369600&v=beta&t=4P4Z0aCA3crsSPXqYw9EtS1M79oaaoaxjteV3Hyolv4",
+          "title": "Mirada Medical",
+          "subtitle": "Full-time · 4 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Product Manager",
+              "caption": "Mar 2020 - Mar 2022 · 2 yrs",
+              "metadata": "Oxford, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Oversee the company's interventional medicine and diagnostics imaging portfolios"
+                }
+              ]
+            },
+            {
+              "title": "Product Manager",
+              "caption": "Dec 2017 - Mar 2020 · 2 yrs 3 mos",
+              "metadata": "Oxford, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managing the company's Yttrium-90 dosimetry software (from concept through launch) designed for facilitating dosimetry planning and assessing treatment efficacy in Selective Internal Radiation Therapy (SIRT).\n\nMain duties and responsibilities include:\n- Define and own the product vision and roadmap\n- Translate user requirements into product features\n- Manage the product life-cycle using agile methodologies\n- Establish ongoing scientific communication with external stakeholders, including medical leaders, academics and corporate partners\n- Liase with medical device regulatory authorities for product registration\n- Contribute to and lead development projects within Mirada Medical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "4477",
+          "companyUrn": "urn:li:fsd_company:4477",
+          "companyLink1": "https://www.linkedin.com/school/oxforduni/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1785369600&v=beta&t=YWZ_dcWkHXOGDiT8--gbh6rFHaRC3LwtP7-KaBVekrM",
+          "title": "Postdoctoral Research Scientist",
+          "subtitle": "University of Oxford . undefined",
+          "caption": "Jan 2015 - Dec 2017 · 2 yrs 11 mos",
+          "metadata": "Oxford, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was part of a research group deeply engaged with clinical translation of novel medical imaging technologies. I was involved in designing and developing fluorescence imaging devices for open and keyhole surgery. These systems were successfully piloted in 3 different clinical trials and several ex vivo studies.\n\nMain duties and responsibilities included:\n- Design and development of optical systems using state-of-the-art opto-electronic devices, laser and LED light sources, optical fibres and image sensors.\n- Use of design and modelling software (SolidWorks/Zemax) for optical systems prototyping\n- Write simulation and device control software using a variety of programming languages including Python, C and C++\n- Develop the imaging device control interface using touchscreen technology\n- Train surgeons on the use of our devices\n- Publish the work on peer-reviewed journals (7 publications, 4 first authorships)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "94307",
+          "companyUrn": "urn:li:fsd_company:94307",
+          "companyLink1": "https://www.linkedin.com/company/oxbridge-academic-programs/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFZdoay5Vgf8g/company-logo_400_400/company-logo_400_400/0/1630524027456/oxbridge_academic_programs_logo?e=1785369600&v=beta&t=JoNTbYjyTAN9Ko7EcMVDdvSg8AHYhEB-rv4zzMEhOGg",
+          "title": "Science Teacher",
+          "subtitle": "Oxbridge Academic Programs . undefined",
+          "caption": "Aug 2015 - Aug 2015 · ",
+          "metadata": "Oxford, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Italian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Hertford College",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Best oral presentation at the 2016 Postdoc Away Day",
+          "subtitle": "Issued by Department of Oncology Postdoc Network",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Best poster prize at Oxford Cancer Research Centre Symposium",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hertford College Travel Grant",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Best oral presentation at Gray Institute Student Symposium",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hertford College Travel Grant",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cancer Research UK Studentship",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Cell Culture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Molecular Biology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Optical Imaging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Zemax",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fluorescence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LED Lighting Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SolidWorks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Surgical Navigation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Qt",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4477",
+          "companyUrn": "urn:li:fsd_company:4477",
+          "companyLink1": "https://www.linkedin.com/school/oxforduni/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1785369600&v=beta&t=YWZ_dcWkHXOGDiT8--gbh6rFHaRC3LwtP7-KaBVekrM",
+          "title": "University of Oxford",
+          "subtitle": "DPhil, Hertford College MCR",
+          "caption": "2010 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Dissertation title: \"New Technologies for Fluorescence Image-Guided Surgery\".\nURL: https://ora.ox.ac.uk/objects/uuid:33c1c1cd-af55-46be-acbe-1181848a799b"
+            }
+          ]
+        },
+        {
+          "companyId": "166686",
+          "companyUrn": "urn:li:fsd_company:166686",
+          "companyLink1": "https://www.linkedin.com/school/university-of-twente/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/company-logo_400_400/0/1631378064785/university_of_twente_logo?e=1785369600&v=beta&t=9Bfk9GmxjhAFoiNaBhIFlvo0T_sqWrF8RVWwRGtRpWs",
+          "title": "Twente University",
+          "subtitle": "Master's Degree, Physics/Biomedical Engineering",
+          "caption": "2009 - 2010",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Visiting student"
+            }
+          ]
+        },
+        {
+          "companyId": "14882",
+          "companyUrn": "urn:li:fsd_company:14882",
+          "companyLink1": "https://www.linkedin.com/school/university-of-pavia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGHoE3_271oTg/company-logo_200_200/B4DZ1IULErIwAI-/0/1775034741615/university_of_pavia_logo?e=1785369600&v=beta&t=wrArCXgAkW0eCOM3hgerxV7P8MaYR7NbCK_eK79bqRQ",
+          "title": "Università degli Studi di Pavia",
+          "subtitle": "Master's Degree, Physics",
+          "caption": "2008 - 2010",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "110/110 cum laude"
+            }
+          ]
+        },
+        {
+          "companyId": "14882",
+          "companyUrn": "urn:li:fsd_company:14882",
+          "companyLink1": "https://www.linkedin.com/school/university-of-pavia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGHoE3_271oTg/company-logo_200_200/B4DZ1IULErIwAI-/0/1775034741615/university_of_pavia_logo?e=1785369600&v=beta&t=wrArCXgAkW0eCOM3hgerxV7P8MaYR7NbCK_eK79bqRQ",
+          "title": "Università degli Studi di Pavia",
+          "subtitle": "Bachelor’s Degree, Physics",
+          "caption": "2005 - 2008",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

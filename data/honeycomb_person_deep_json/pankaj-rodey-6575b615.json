@@ -1,0 +1,422 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/pankaj-rodey-6575b615",
+  "row_key": "id:003Uk0000090wbWIAQ",
+  "person": "Pankaj Rodey",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:52:52Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAMdMyMBC664I8QorwyNbGXNAn0TWEChX9E",
+      "firstName": "Pankaj",
+      "lastName": "Rodey",
+      "fullName": "Pankaj Rodey",
+      "publicIdentifier": "pankaj-rodey-6575b615",
+      "headline": "Senior Principal Software Engineer and Technical Fellow at Medtronic",
+      "about": "I am a hands-on engineering technologist with in-depth knowledge and expertise in Embedded software / firmware design.\n\nExpertise in RTOS and interrupt-driven embedded software design in C++, C and inline assembly.\nExperience in all levels of software life cycle including architecture, design, coding, refactoring, build management (with DevOps CI/CD).\nExpertise in design of complex middleware and embedded application software with C++ data structures / design patterns and also in low level device drivers for various processor peripherals under intricate multi-threaded embedded environments.\n\nExtensive experience on 'from the ground up' design and architecture of embedded electronics in products involving Microcontroller / DSP with intricate analog and digital electronics, with experience on electronics circuit design and High Frequency Power Conversion.\n\nExpertise in DSP algorithms and model based development with Matlab Simulink (Hardware in the loop) for DSP and PLC based systems.\n\nA propensity for engineering and mathematical mindset in design and analysis, having effectively applied in several aspects of product development like embedded closed loop control, analog and digital signal processing, first principles modelling, statistical methods for system verification, Predictive modelling, Monte Carlo analysis, Hypothesis testing etc. with a focus on product development with Six Sigma (DFSS) rigor.\n\nExperience on medical device NPI programs for Class C products from concept through qualification (510K) of devices with focus on Software and Systems Engineering aspects of USFDA Design Controls (IEC62304, IEC80601, IEC60601).\n\nI have authored a book on Control systems in Power Electronics published by Springer Publications (ISBN: 978-81-322-2327-6).",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQG6DAUU2QbrPw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516564280663?e=1785369600&v=beta&t=khuibabnni8_L_KESZp_Qqa5g81e-iCxtrnH0b7aSnY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG6DAUU2QbrPw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516564288071?e=1785369600&v=beta&t=BXJ12axUgL0wT_IPRxXoJLK9lbFRRdpfLgbG-NqUclg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG6DAUU2QbrPw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516564280809?e=1785369600&v=beta&t=SeP4xHXLex3bsQA6vOrrtL6pkEthZ1GeNd56ZoKgGHQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG6DAUU2QbrPw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516564280611?e=1785369600&v=beta&t=YyvfbVvncoC7_Pt_AkINXUY5udu8i0japsk1PBBJPw8"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG6DAUU2QbrPw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516564280663?e=1785369600&v=beta&t=khuibabnni8_L_KESZp_Qqa5g81e-iCxtrnH0b7aSnY"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 11 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Principal Software Engineer and Technical Fellow",
+              "caption": "Jul 2024 - Present · 1 yr 6 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a part of global product development team at Medtronic R&D captive center, I work in the role of Software and Firmware architect and Systems Engineer for a New Product Development (NPD) program involving a complex electro-mechanical Class C surgical device. (Software architecture, C, React, Rust, System Test architecture)."
+                }
+              ]
+            },
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Jun 2021 - Jul 2024 · 3 yrs 1 mo",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": []
+            },
+            {
+              "title": "Team Lead (Senior Engineering Supervisor)",
+              "caption": "Jan 2017 - Jun 2021 · 4 yrs 5 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a part of Respiratory Monitoring business unit, I led the software and firmware development and verification activities for Medtronic's new pulse oximetry patient monitoring platform called Nellcor™ OxiCable.\nMy role was as a hands-on software Engineering lead ensuring planning, execution and release of all software development and verification activities, driving software design, code reviews, design verification, software reliability and ensuring all software design inputs and design outputs for the product DHF are released in time.\n\nI also led sustenance engineering projects on Medtronic released products, primarily Warmtouch and Multiparameter Bedside monitor (BRPMS).\nThe sustenance activities involved engineering work on:\n•\tDevelopment of WinCE and Linux device drivers,\n•\tTuning boot sequence of single board computer (SBC),\n•\tDevelopment and analysis of audio codec used for SPO2 alarms,\n•\tMigration of embedded platform involving drivers and application software for BLE, accelerometer, analog processing etc.\n•\tDefining and implementation of application layer protocols for mobile apps for patient monitoring platform\n•\tGuiding the team on regression assessment and ensuring release of all updates to DHF artefacts with quality and in time.\n\nDriving operational excellence and technical rigor in the team through several POCs and rapid prototyping.\n\nPresentation at several global Science and Technology conferences and forums at Medtronic.\n\nThis role as a hands-on Engineering Manager has involved significant level of People Management, People Development, hiring the right talent, Performance assessment, Mentoring, planning for financials and AOP and a holistic contribution to tactical as well as strategic aspects of the business to ensure inception, sustenance and growth of top performing Engineering teams."
+                }
+              ]
+            },
+            {
+              "title": "Technical Lead",
+              "caption": "May 2014 - Dec 2016 · 2 yrs 7 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1015",
+          "companyUrn": "urn:li:fsd_company:1015",
+          "companyLink1": "https://www.linkedin.com/company/ge/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHNSdSY_UJ_rg/company-logo_400_400/company-logo_400_400/0/1688184041602/ge_logo?e=1785369600&v=beta&t=J-okjZGecb1VPhmKptsEneigNQ-DAYUXt-KBuopqF7k",
+          "title": "GE",
+          "subtitle": "undefined · 7 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Lead",
+              "caption": "Apr 2013 - May 2014 · 1 yr 1 mo",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working as a part of a global team with some of the finest Engineering research talent in GE, I worked on programs for GE Jenbacher gas engines. My role:\n• Development of advanced embedded control algorithms (Pressure-based control) for GE gas engines. \n• A complete model-based development using Simulink to develop and optimize the embedded control system.\n• Implementation of several low level optimizations in signal processing and control algorithms to operate the system under severe resource constraints.\n• Consistently lead and drive Six Sigma rigor with application of statistical tools for test engineering and systems engineering.\n• Consistently exhibited engineering expertise at local and global technical forums at GE.\n• Consistently drove innovation and generation of IP (the deep technical nature of these ideas meant that they were classified as trade secrets rather than Patents)."
+                }
+              ]
+            },
+            {
+              "title": "Lead Engineer",
+              "caption": "Nov 2006 - Mar 2013 · 6 yrs 4 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked on GE Mark VIe turbine control data acquisition (IOPack) systems, a complex product that is the heart of one of the 'core' businesses of General Electric. My role:\n• Firmware application development for turbine control iopacks based on C++ and QNX\n• Refactoring of legacy code (migration to new embedded platform and migration from C to C++).\n• Development of embedded software applications for Turbine controller on PowerPC and ARM platforms. Developed drivers and applications for Analog I/O and digital I/O signal interface and communication systems (TCP/UDP, SPI, I2C etc.)\n• Drive continuous development, integration and deployment, working closely with global hardware and test engineering teams."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2229436",
+          "companyUrn": "urn:li:fsd_company:2229436",
+          "companyLink1": "https://www.linkedin.com/company/igate-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGhqirWXYV_lQ/company-logo_400_400/company-logo_400_400/0/1631390179765?e=1785369600&v=beta&t=aU1KbAOpO-rsGYG5qAho2cfR7ufqGmICgId1ML7tm7A",
+          "title": "Senior Software Engineer",
+          "subtitle": "IGATE . undefined",
+          "caption": "Nov 2005 - Nov 2006 · 1 yr",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "A relatively short stint that involved the re-design of a microcontroller board used in HVAC system. \nAn obsolete Microcontroller and a somewhat archaic coding required the complete re-design of the firmware along with the re-designed PCB."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2761",
+          "companyUrn": "urn:li:fsd_company:2761",
+          "companyLink1": "https://www.linkedin.com/company/vertiv-emerson-network-power/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHJb02Bu6O2hg/company-logo_100_100/B4EZkKSQxjHoAQ-/0/1756814183918/vertiv_emerson_network_power_logo?e=1785369600&v=beta&t=nT1unqkc95RYWdggOD3Zr5B3oib86rOZ434Fr7gBLvw",
+          "title": "Design Engineer",
+          "subtitle": "Emerson Network Power . undefined",
+          "caption": "Aug 2002 - Nov 2005 · 3 yrs 3 mos",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working with some of the big doyens in the Power Electronics industry, I was part of R&D team that designed DC-DC and AC-DC converters used in Emerson UPS systems. My role involved:\n• Design and testing of control electronics for Emerson 6KVA UPS\n• Work with system designers for simulation (Matlab / Spice) of Power and Control systems for UPS. Analysis and application of simulation results for optimization of the firmware control code for transient response, steady state errors etc.\n• Firmware development for PWM control and communication systems internal to the UPS. A significant focus on microcontroller internals for an efficient embedded system.\n• Digital design: Design of glue logic with CPLD in Verilog\n• Worked on several engineering aspects of Power Electronics including Power component selection, digital and analog closed-loop control, heat dissipation, magnetics design, Switchmode converter topologies etc.\n• Extensive first principles modelling of Power electronics systems in Matlab/Simulink.\n• Use of Matlab for design and analysis of signal processing algorithms."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Black Belt Certification (BB) DRM (Six Sigma)",
+          "subtitle": "Medtronic",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Green Belt Software DRM (Design, Reliability, Manufacturability) [Reliability in Software Engineering]",
+          "subtitle": "Medtronic",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1015",
+          "companyUrn": "urn:li:fsd_company:1015",
+          "companyLink1": "https://www.linkedin.com/company/ge/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHNSdSY_UJ_rg/company-logo_400_400/company-logo_400_400/0/1688184041602/ge_logo?e=1785369600&v=beta&t=J-okjZGecb1VPhmKptsEneigNQ-DAYUXt-KBuopqF7k",
+          "title": "Lean Six Sigma Green Belt (DFSS / D.M.A.D.O.V)",
+          "subtitle": "GE",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Power Electronics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Signal Processors",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microcontrollers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electrical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electronics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firmware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hardware Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Power Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PCB design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Simulink",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RTOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Device Drivers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PCB Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Real-Time Operating Systems (RTOS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15093735",
+          "companyUrn": "urn:li:fsd_company:15093735",
+          "companyLink1": "https://www.linkedin.com/school/visvesvaraya-national-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGwYLJToplqoA/company-logo_400_400/company-logo_400_400/0/1631347800484?e=1785369600&v=beta&t=NIBqhoKXFBAzdnMkM3znNoWDkt4Die3Sda5rYSyCRs0",
+          "title": null,
+          "subtitle": "Bachelor of Engineering - BE, Electrical and Electronics Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "739903",
+          "companyUrn": "urn:li:fsd_company:739903",
+          "companyLink1": "https://www.linkedin.com/school/birla-institute-of-technology-and-science-pilani/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHJcHjUCqWVbA/company-logo_400_400/company-logo_400_400/0/1695033146996/birla_institute_of_technology_and_science_pilani_logo?e=1785369600&v=beta&t=AshfEVyfk1xiK7wvJ6wubqsdeP160DBqbO00zrcypnI",
+          "title": "Birla Institute of Technology and Science, Pilani",
+          "subtitle": "Master of Technology - MTech, null",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "CGPA  9.58 (Batch topper)"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Major in Probabilistic modelling, Reliability Engineering, Advanced Statistics, Quantitative Methods.\nMinor in Software Quality Management, Project management, Statistical Quality Control."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

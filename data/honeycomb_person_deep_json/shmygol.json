@@ -1,0 +1,679 @@
+{
+  "linkedin_url": "https://de.linkedin.com/in/shmygol",
+  "row_key": "id:0036O00003vjsoDQAQ",
+  "person": "Ilya Shmygol",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:01Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAY1GGQBbMu1RBHte-4d1z8Z87xTP10zjco",
+      "firstName": "Ilya",
+      "lastName": "Shmygol",
+      "fullName": "Ilya Shmygol",
+      "publicIdentifier": "shmygol",
+      "headline": "Engineer, Lead, Mentor",
+      "about": "I’m a software engineer with broad technical expertise, leadership experience, and a passion for helping others grow. I specialize in building distributed, cloud-based solutions and enjoy tackling complex engineering challenges at scale.\n\nBeyond coding, I mentor and tutor engineers—from fundamentals to advanced concepts. This includes software design consulting, code reviews, and career coaching for those looking to level up in their engineering journey.\n\nI also love languages (both human and programming):\n• Native: Russian, Python\n• Fluent: English, German, Ruby, TypeScript, Java, Kotlin\n• Learning: Swedish, Haskell, PureScript, Elixir, F#, Roc\n\nI enjoy experimenting with a wide variety of programming languages and paradigms.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "Germany",
+      "addressWithoutCountry": "Germany",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFPlAPyCWdE3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1550502805413?e=1785369600&v=beta&t=15Rizu42nAo1lMLgNK3tjcOj0E2uBmiCH6mZhOWgJ-I",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQFihthAnRfgCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517618602978?e=1785369600&v=beta&t=YQH9hHOEkwc92YznODPgg6GC8SMegGDM3X_-gOB_wzA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFPlAPyCWdE3Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1550502805400?e=1785369600&v=beta&t=kBWSKzj7ZNrDOFl0eOGHKfd83jDno5s9XEjhxQ_Y0uE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFPlAPyCWdE3Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1550502805477?e=1785369600&v=beta&t=3wd7cTJ3kZ3BZ2CeD5mbz4gbucET5v6b2Wpz6ffysag"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFPlAPyCWdE3Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1550502805430?e=1785369600&v=beta&t=2x_7Sg_-WNR2GtUnDd0iBFzATXx_2uudZRpeF-mQbMY"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQFPlAPyCWdE3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1550502805413?e=1785369600&v=beta&t=15Rizu42nAo1lMLgNK3tjcOj0E2uBmiCH6mZhOWgJ-I"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFihthAnRfgCw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517618602968?e=1785369600&v=beta&t=962Aw5oan45Fv3U0wHViEUlzRreghAKOI4t_lJ3mUbw"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFihthAnRfgCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517618602978?e=1785369600&v=beta&t=YQH9hHOEkwc92YznODPgg6GC8SMegGDM3X_-gOB_wzA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Engineering Manager",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jan 2023 - Present · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "389273",
+          "companyUrn": "urn:li:fsd_company:389273",
+          "companyLink1": "https://www.linkedin.com/company/sevenone-entertainment/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFl05G5LFzsMg/company-logo_400_400/company-logo_400_400/0/1630530796112/sevenonemedia_logo?e=1785369600&v=beta&t=5GSBTeDH6yteVYEPFo8cy6mXzCmexQxbDIPM-vdgl0c",
+          "title": "Lead Software Engineer",
+          "subtitle": "Seven.One Entertainment Group . Full-time",
+          "caption": "Jun 2021 - Dec 2022 · 1 yr 6 mos",
+          "metadata": "Greater Munich Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "27130",
+          "companyUrn": "urn:li:fsd_company:27130",
+          "companyLink1": "https://www.linkedin.com/company/prosiebensat1-media-se/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGvag6lD-QpFw/company-logo_200_200/B4DZruU3ibH4AU-/0/1764935039479/prosiebensat1_media_se_logo?e=1785369600&v=beta&t=X_6pTO-L4Wmm7bJkLZHGpOKPK2WWbXiyevsrqpGzjPE",
+          "title": "Senior Software Engineer",
+          "subtitle": "ProSiebenSat.1 Digital GmbH . undefined",
+          "caption": "Jan 2019 - May 2021 · 2 yrs 4 mos",
+          "metadata": "Munich Area, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2601816",
+          "companyUrn": "urn:li:fsd_company:2601816",
+          "companyLink1": "https://www.linkedin.com/company/yourfirm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG13SzU3BSNxg/company-logo_400_400/company-logo_400_400/0/1719828559401/yourfirm_logo?e=1785369600&v=beta&t=i7dFbv1zfS_NI7DHYpAGmd6izkYHizmEbg4KxA9hLIw",
+          "title": "yourfirm GmbH",
+          "subtitle": "undefined · 2 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Team Lead",
+              "caption": "Jan 2018 - Dec 2018 · 11 mos",
+              "metadata": "Munich Area, Germany",
+              "description": []
+            },
+            {
+              "title": "Software Developer",
+              "caption": "Oct 2016 - Dec 2017 · 1 yr 2 mos",
+              "metadata": "Munich Area, Germany",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5350891",
+          "companyUrn": "urn:li:fsd_company:5350891",
+          "companyLink1": "https://www.linkedin.com/school/code-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH85wN8cwUKsQ/company-logo_400_400/company-logo_400_400/0/1688459250135/code_institute_logo?e=1785369600&v=beta&t=2zE7wEfmaD5p8hWxhDx1g_VbUYe-ConilfbhNthqe5o",
+          "title": "Mentor",
+          "subtitle": "Code Institute . undefined",
+          "caption": "Mar 2017 - Dec 2017 · 9 mos",
+          "metadata": "County Dublin, Ireland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "(Part-Time)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2585506",
+          "companyUrn": "urn:li:fsd_company:2585506",
+          "companyLink1": "https://www.linkedin.com/company/techdivision-gmbh/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGzoGaRrtZ4mw/company-logo_400_400/company-logo_400_400/0/1636558830778/techdivision_gmbh_logo?e=1785369600&v=beta&t=_bnx12Ayw4v6rWfKEmQXDxZ3JoGA_YIyvDbHQ9In7ZQ",
+          "title": "Software Developer",
+          "subtitle": "TechDivision GmbH . undefined",
+          "caption": "Oct 2015 - Sep 2016 · 11 mos",
+          "metadata": "Munich Area, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4827017",
+          "companyUrn": "urn:li:fsd_company:4827017",
+          "companyLink1": "https://www.linkedin.com/company/upwork/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFHVb6ZSCipCw/company-logo_400_400/company-logo_400_400/0/1727104517379/upwork_logo?e=1785369600&v=beta&t=ttCPWQw-s09wvi35eSGOpawTHqtw5Ud9e12C3YcAeSM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Upwork . undefined",
+          "caption": "Jul 2013 - Feb 2015 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was a member of the Upwork (former Odesk) team, which is responsible for the Workdiary and then new version of Desktop Tracker application."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "Freelance Developer . undefined",
+          "caption": "Feb 2011 - Feb 2015 · 4 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I have several constant clients from the US, UK and Russia. I very appreciate long-term business relationship."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1001517",
+          "companyUrn": "urn:li:fsd_company:1001517",
+          "companyLink1": "https://www.linkedin.com/company/iss-art-llc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFO0uUSSEOe8Q/company-logo_400_400/company-logo_400_400/0/1631345659895?e=1785369600&v=beta&t=qIMdUu5blhf03JtwWTna6PK_CJl0IIAYZSSUQ-HnSVc",
+          "title": "Software Engineer",
+          "subtitle": "ISS Art Ltd . undefined",
+          "caption": "Jun 2010 - Jun 2013 · 3 yrs",
+          "metadata": "Omsk Region, Russian Federation",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Infomsk . undefined",
+          "caption": "Oct 2009 - Sep 2010 · 11 mos",
+          "metadata": "Omsk Region, Russian Federation",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate: 8 Databases",
+          "subtitle": "LinkedIn",
+          "issued": "Issued May 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Gamification of Learning",
+          "subtitle": "LinkedIn",
+          "issued": "Issued May 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Microservices: Asynchronous Messaging",
+          "subtitle": "LinkedIn",
+          "issued": "Issued May 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Prepare for AWS Solutions Architect (Associate) Certification",
+          "subtitle": "LinkedIn",
+          "issued": "Issued May 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Instructional Design: Adult Learners",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Nov 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning to Teach Online",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Nov 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Creating Screen Capture Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Oct 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning to Write a Syllabus",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Sep 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Teaching Techniques: Creating Effective Learning Assessments",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Sep 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "How to Design and Deliver Training Programs",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Mentoring Others",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Programming Foundations: Programming for Kids",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Teaching Techniques: Developing Curriculum",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Teaching Techniques: Project-Based Learning",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Teaching Techniques: Writing Effective Learning Objectives",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swedish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Recruiting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Serverless Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NoSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Dynamodb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

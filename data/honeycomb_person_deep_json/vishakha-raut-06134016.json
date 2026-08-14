@@ -1,0 +1,471 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/vishakha-raut-06134016",
+  "row_key": "id:0033l00002z0SdiAAE",
+  "person": "Vishakha Raut",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:20Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAANAyEkBeojx2xugSGENcKEH0D65Bd2hqvw",
+      "firstName": "Vishakha",
+      "lastName": "Raut",
+      "fullName": "Vishakha Raut",
+      "publicIdentifier": "vishakha-raut-06134016",
+      "headline": "Engineering Manager",
+      "about": "I have a Bachelor of technology degree in Electronics and Communication and more than 18 years of professional IT experience in various technologies.\nI enjoy working in a high energy and high performance work environment. My experience covers various roles ranging from Senior Lead Software Test Engineer to Consultant/Senior SDET/Software Developer.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQGqBWqd3v95OQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516585199857?e=1785369600&v=beta&t=d4_qoRt6vKGsvIcoFOg7VLFpuk282BArXNdxZ7lipIM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGqBWqd3v95OQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516585199575?e=1785369600&v=beta&t=RN3ADX2d4vDy5zuH5HmOnwnfaziA3i-uH8JVMTciBos"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGqBWqd3v95OQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516585199575?e=1785369600&v=beta&t=jr8qFNg030TInlqDIFY0058SEsiOapT8pDYrcAeF5Qw"
+        },
+        {
+          "width": 343,
+          "height": 343,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGqBWqd3v95OQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516585199605?e=1785369600&v=beta&t=9TWRbv9gotO54Wx9Iuw7sgB3XtvZSsOCKR7x7S6hR5w"
+        },
+        {
+          "width": 343,
+          "height": 343,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGqBWqd3v95OQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516585199857?e=1785369600&v=beta&t=d4_qoRt6vKGsvIcoFOg7VLFpuk282BArXNdxZ7lipIM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Manager",
+              "caption": "Jan 2023 - Present · 3 yrs",
+              "metadata": "Greater London",
+              "description": []
+            },
+            {
+              "title": "Senior Test Engineer",
+              "caption": "Feb 2022 - Dec 2022 · 10 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "12076",
+          "companyUrn": "urn:li:fsd_company:12076",
+          "companyLink1": "https://www.linkedin.com/company/medidata-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE5bl92zzzw9w/company-logo_200_200/B4EZ0lTFFMG0AI-/0/1774447254111/medidata_solutions_logo?e=1785369600&v=beta&t=3OeOUTFxphv6lAG8WcnEd8fHhtW0who68mYIx7ehq_0",
+          "title": "Medidata Solutions",
+          "subtitle": "undefined · 10 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Lead Test Engineer (STEII)",
+              "caption": "Nov 2015 - Feb 2022 · 6 yrs 3 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Applications Engineer",
+              "caption": "May 2014 - Oct 2015 · 1 yr 5 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Software Development Engineer in Testing (SDET)",
+              "caption": "Feb 2014 - May 2014 · 3 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Software Development Engineer in Testing (SDET)",
+              "caption": "Feb 2012 - Jan 2014 · 1 yr 11 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "145362",
+          "companyUrn": "urn:li:fsd_company:145362",
+          "companyLink1": "https://www.linkedin.com/company/minesoft-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFXpIaH3PHHQQ/company-logo_400_400/company-logo_400_400/0/1679992213540/minesoft_ltd_logo?e=1785369600&v=beta&t=MKWsWqe0pfz6Xo1nuwH6nXbEWqlIVfh3by8JfUupTRs",
+          "title": "Software Developer",
+          "subtitle": "Minesoft Ltd . undefined",
+          "caption": "May 2010 - Dec 2011 · 1 yr 7 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Minesoft develops patent information services and solutions, linking technical, legal, bibliographic and full text patent information for patent professionals and research specialists."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "157240",
+          "companyUrn": "urn:li:fsd_company:157240",
+          "companyLink1": "https://www.linkedin.com/company/capgemini/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_200_200/B4EZokv7VQIUAI-/0/1761553135376/capgemini_logo?e=1785369600&v=beta&t=LYoEE0H7mVjOA0mBKeh2h96bocnQfAdq5DaE5R0PB60",
+          "title": "Consultant",
+          "subtitle": "Capgemini . undefined",
+          "caption": "Oct 2008 - Dec 2009 · 1 yr 2 mos",
+          "metadata": "Mumbai, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Matalan Retail is a leading clothing and home wares firm having 200+ stores across United Kingdom. Project involves Application Management of critical Retail Microsoft Applications. The applications are supported on a 24*7, 365 days."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Module Lead and Developer",
+          "subtitle": "Inter@ct Consultants . undefined",
+          "caption": "May 2006 - Oct 2008 · 2 yrs 5 mos",
+          "metadata": "Mumbai, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "This project has been developed for Tlg India Pvt. Ltd. TLG is leading Asian group of companies dealing with advertisement and media business. TLG is the top most media agency in India. It handles Media operations, Production and Accounts. Starscape is the project in Indian Media operations which gives spot wise detail information for Finance reconciliation. This project is designed and implemented for functioning of five different locations performing different business strategies and functioning."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "Indbazaar.com Ltd. . undefined",
+          "caption": "Nov 2004 - Apr 2006 · 1 yr 5 mos",
+          "metadata": "Mumbai, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "This project has been developed for SSKI Securities Pvt. Ltd. Projects designed for,\n- Market, off market transactions \n- Account opening for NSDL (National Stock Depository limited)\n- Stationary (slip book maintenance) \n- Billing Process and Accounts (JV entries)\n- Reports for various market transactions"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Generative AI in Software Testing Training",
+          "subtitle": "Coursera",
+          "issued": "Issued Jul 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Introduction to Software Quality Assurance",
+          "subtitle": "Coursera",
+          "issued": "Issued Feb 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Global DRM - Green Belt Software Certification",
+          "subtitle": "Medtronic Digital Technologies",
+          "issued": "Issued Jan 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Elevate: Medtronic Global Learning And Leadership Development",
+          "subtitle": "Medtronic Digital Technologies",
+          "issued": "Issued Jan 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Enrich: Medtronic Global Learning And Leadership Development",
+          "subtitle": "Medtronic Digital Technologies",
+          "issued": "Issued May 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "357877",
+          "companyUrn": "urn:li:fsd_company:357877",
+          "companyLink1": "https://www.linkedin.com/company/istqb/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG7zZ1EpfH22A/company-logo_400_400/company-logo_400_400/0/1630628473590/istqb_logo?e=1785369600&v=beta&t=KhoTpaGbyTRoiLy0fgKNATwQwmrHwJrPVp-nKuU4nZs",
+          "title": "ISTQB® Foundation Level",
+          "subtitle": "ISTQB® - International Software Testing Qualifications Board",
+          "issued": "Issued Jul 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Testing Tools",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AI Literacy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI for Software Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing Types",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Testing Life Cycle (STLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "STLC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automated Software Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Inclusive Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Diversity and Inclusion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Motivation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Emotional Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Growth Mindset",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Communications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Inclusive Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Gathering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Robust Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15144814",
+          "companyUrn": "urn:li:fsd_company:15144814",
+          "companyLink1": "https://www.linkedin.com/school/sndtwu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEkhr1tpbpNKQ/company-logo_400_400/company-logo_400_400/0/1631396722698?e=1785369600&v=beta&t=KGIMORavwz76TKebVGXgHMdlr3zNJEZSb1Oww0oi-ow",
+          "title": "Shreemati Nathibai Damodar Thackersey Women's University",
+          "subtitle": "Bachelor of Technology - BTech, Electronics and telecommunication",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "title": "R. B. Shirke Highschool",
+          "subtitle": "SSC, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/yaling-lee-33ab0219",
+  "row_key": "id:0036O00003riSWEQA2",
+  "person": "Yaling Lee",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAPmo14BmnHvgjrb4DinnqIZEMhLx1d5VSo",
+      "firstName": "Yaling",
+      "lastName": "Lee",
+      "fullName": "Yaling Lee",
+      "publicIdentifier": "yaling-lee-33ab0219",
+      "headline": "Site Reliability Engineer at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Los Angeles, California United States",
+      "addressWithoutCountry": "Los Angeles, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Site Reliability Engineer",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Mar 2021 - Present · 4 yrs 10 mos",
+          "metadata": "Los Angeles Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "53499064",
+          "companyUrn": "urn:li:fsd_company:53499064",
+          "companyLink1": "https://www.linkedin.com/company/shopbehold/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH2OXqcM05lXw/company-logo_400_400/company-logo_400_400/0/1630665384258?e=1785369600&v=beta&t=bEMyxmX3tb0OCq41Gnyc8upbvBgcaZh6NAiIZLv_LYg",
+          "title": "Sr Software Engineer",
+          "subtitle": "Behold . Full-time",
+          "caption": "Feb 2020 - Feb 2021 · 1 yr",
+          "metadata": "Los Angeles Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- managed infrastructure in GCP using Terraform\n- implemented alerting policies and monitoring dashboards with Google Stackdriver\n- deployed Data Science applications to Google App Engine and Cloud Run\n- improved CI/CD pipelines in GitLab by introducing concurrency\n- automated reports using Cloud Function and Cloud Scheduler\n- established replication of a PostgreSQL database into BigQuery using Stitch Data\n- designed and implemented load testing for API endpoints using JMeter and Artillery\n- implemented backend logic for order/shipment management in TypeScript"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3379",
+          "companyUrn": "urn:li:fsd_company:3379",
+          "companyLink1": "https://www.linkedin.com/company/nordstrom/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFmI0mWPUJdw/company-logo_400_400/company-logo_400_400/0/1666026884352/nordstrom_logo?e=1785369600&v=beta&t=_DSWFRUsPuykGsoT46Ef668fxf9bfJsOm-zxMX8YibI",
+          "title": "Nordstromrack.com | HauteLook, a Nordstrom Company",
+          "subtitle": "Full-time · 5 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Platform Engineer",
+              "caption": "Jan 2017 - Feb 2020 · 3 yrs 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I moved to a team responsible for platform infrastructure and systems. Some projects I worked on included:\n- managed infrastructure in AWS using Terraform and Ansible\n- dockerized legacy PHP applications and migrated them from datacenter to AWS ECS\n- developed a Chef cookbook to provision and upgrade RabbitMQ servers\n- mentored team members on Chef testing and best practices\n- built testable tooling in Python to manage RabbitMQ users, queues, and other resources\n- built testable tooling in Python for MySQL user management\n- migrated monitoring and alerting from Nagios to Datadog\n- implemented auto-remediation for Datadog alerts using AWS SNS and Lambda\n- helped developers migrate CI/CD pipelines from Jenkins to CircleCI\n- developed tooling using Celery and RabbitMQ to facilitate scheduling and performing bulk database updates safely\n- created tooling using docker-compose that allows developers to run integration tests across different applications"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jan 2015 - Jan 2017 · 2 yrs",
+              "metadata": "Los Angeles",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I was on a team that developed and maintained an internal application used for both managing inventory and preparing flash sales events on hautelook.com and NordstromRack.com. Some of the work I did include converting legacy PHP Gearman workers to RabbitMQ/Celery workers and building a React event calendar application to help teams visualize and plan flash sales events."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1609458",
+          "companyUrn": "urn:li:fsd_company:1609458",
+          "companyLink1": "https://www.linkedin.com/company/whowhatwear/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEvJCSGV2XqOA/company-logo_400_400/company-logo_400_400/0/1687474870642/clique_logo?e=1785369600&v=beta&t=e4MW89sHul6nEx3g4T4B1mOxFKOPJgJNpCX-3vYf8Ms",
+          "title": "Web Developer",
+          "subtitle": "Clique Media / Who What Wear . Full-time",
+          "caption": "Apr 2013 - Jan 2015 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- implemented new features for the company's custom CMS, which powers its three editorial sites: WhoWhatWear.com, Byrdie.com, and DomaineHome.com\n- implemented fluid/responsive desktop and mobile redesign for all three sites, both backend and frontend\n- Technologies/tools: PHP (Zend Framework), MySql, JavaScript, HTML5, CSS3 (LESS), JSON, Ajax, Grunt, Jenkins, Git"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "230096",
+          "companyUrn": "urn:li:fsd_company:230096",
+          "companyLink1": "https://www.linkedin.com/company/siltanenla/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFQ9Q9C2vfQ8w/company-logo_400_400/company-logo_400_400/0/1631371389494?e=1785369600&v=beta&t=y06-P4aFOjZVjKTXy91DAZSe4i0W_hoULzvCyshxT4g",
+          "title": "Web Developer",
+          "subtitle": "Siltanen + Partners . undefined",
+          "caption": "Sep 2011 - Apr 2013 · 1 yr 7 mos",
+          "metadata": "El Segundo, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "S&P is an advertising agency in El Segundo. My work at S&P consisted of:\n- building microsites for the agency and its clients, such as Suzuki and Skechers. Technologies: HTML5, JavaScript, PHP, MySql, CSS(3), WordPress, Drupal, Linux and IIS, Git\n- developing Facebook apps for Panda Express and Coldwell Banker. Technologies: MySql, PHP, HTML5, JavaScript, Ajax, JSON, CSS, Facebook API, Git  \n- maintaining and adding new functionality to MitsubishiCars.com for Mitsubishi Motors North America. Technologies: JSP, JavaScript (JQuery), JSON, Ajax, Omniture, Google Analytics, SVN, Eclipse"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Web Programmer",
+          "subtitle": "Freelance . undefined",
+          "caption": "2010 - Nov 2011 · 1 yr 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My skill sets include ActionScript 3.0, PHP, ASP.NET, JavaScript and JQeury. I'm also well versed in OOP, social media APIs, SEO, and CMS platforms such as Drupal and WordPress."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Canon Communications",
+          "subtitle": "undefined · 4 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Managing Editor",
+              "caption": "Sep 2008 - 2010 · 1 yr 4 mos",
+              "description": []
+            },
+            {
+              "title": "Editor",
+              "caption": "Jul 2005 - 2010 · 4 yrs 6 mos",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GCP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "165849",
+          "companyUrn": "urn:li:fsd_company:165849",
+          "companyLink1": "https://www.linkedin.com/school/santamonicacollege/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEiJNL1oWf50g/company-logo_400_400/company-logo_400_400/0/1631394144823?e=1785369600&v=beta&t=fB1H-01_rShi_Y1WVYPx0os4MTnvQ1s16He3Joh5TqE",
+          "title": "Santa Monica College",
+          "subtitle": "Certificate, Web Programming",
+          "caption": "2009 - 2011",
+          "subComponents": []
+        },
+        {
+          "companyId": "2477",
+          "companyUrn": "urn:li:fsd_company:2477",
+          "companyLink1": "https://www.linkedin.com/school/ucla/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_400_400/company-logo_400_400/0/1688403831517/ucla_logo?e=1785369600&v=beta&t=eO48i8BZgBYJFpWw7MmmXXYelh_XRtu9tuM2AXP3rX8",
+          "title": null,
+          "subtitle": "Certificate, Journalism",
+          "caption": "2004 - 2005",
+          "subComponents": []
+        },
+        {
+          "companyId": "15100166",
+          "companyUrn": "urn:li:fsd_company:15100166",
+          "companyLink1": "https://www.linkedin.com/school/national-taiwan-normal-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGxBDMkTXV4tg/company-logo_400_400/company-logo_400_400/0/1701052824489/_logo?e=1785369600&v=beta&t=WKfnXl1EC8xO2mJggjst3BpK_SkbLfvY_30G5iCCgc8",
+          "title": null,
+          "subtitle": "MA, English",
+          "caption": "2002 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

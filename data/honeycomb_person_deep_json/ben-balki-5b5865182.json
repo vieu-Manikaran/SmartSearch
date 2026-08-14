@@ -1,0 +1,195 @@
+{
+  "linkedin_url": "https://il.linkedin.com/in/ben-balki-5b5865182",
+  "row_key": "id:0033l00002hezfJAAQ",
+  "person": "Ben Balki",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T09:57:03Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACsyixkB3nJ5WTSU6yG7m_4xH5w4uZCpq1A",
+      "firstName": "Ben",
+      "lastName": "Balki",
+      "fullName": "Ben Balki",
+      "publicIdentifier": "ben-balki-5b5865182",
+      "headline": "SW DevOps Manager at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "Israel",
+      "addressWithoutCountry": "Israel",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Part-time · 12 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "DevOps Manager",
+              "caption": "Sep 2019 - Present · 6 yrs 4 mos",
+              "metadata": "Yokneam, Northern, Israel",
+              "description": []
+            },
+            {
+              "title": "DevOps Specialist",
+              "caption": "Jan 2016 - Aug 2019 · 3 yrs 7 mos",
+              "metadata": "Yokneam, Northern, Israel",
+              "description": []
+            },
+            {
+              "title": "DevOps Developer",
+              "caption": "Dec 2013 - Dec 2015 · 2 yrs",
+              "metadata": "Yokneam, Northern, Israel",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3155",
+          "companyUrn": "urn:li:fsd_company:3155",
+          "companyLink1": "https://www.linkedin.com/school/technion/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG12formuFdJg/company-logo_400_400/company-logo_400_400/0/1630469288270/technion_logo?e=1785369600&v=beta&t=stC5EXYQn0cK5A-UDMxdjNIoZrx6q5Rl3KA6BYJjw1s",
+          "title": "Information Technology Administrator",
+          "subtitle": "Technion - Israel Institute of Technology . Part-time",
+          "caption": "Jan 2011 - Dec 2013 · 2 yrs 11 mos",
+          "metadata": "Haifa, Israel",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hebrew",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Azure DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VSTS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Foundation Server (TFS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TeamCity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Powershell",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hebrew",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

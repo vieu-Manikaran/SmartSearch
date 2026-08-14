@@ -1,0 +1,895 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sidharth-ramanan",
+  "row_key": "id:003Uk00000ydIljIAE",
+  "person": "Sidharth Ramanan",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:14Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACGfEjQBr4WgBywKAJB1JazNYvE9TUMHKzI",
+      "firstName": "Sidharth",
+      "lastName": "R.",
+      "fullName": "Sidharth R.",
+      "publicIdentifier": "sidharth-ramanan",
+      "headline": "Senior Software Engineer | AI Agents, LLM Applications, Python, Data Infrastructure",
+      "about": "Software engineer at Coinbase focused on production AI systems, analytics agents, and data infrastructure. I like working on hard technical problems that have clear business impact. Recently, that has meant leading work on JARVIS, Coinbase’s internal AI analytics agent for natural-language querying, domain-aware SQL generation, and MCP-driven analytics workflows. JARVIS has grown to 500+ weekly active users and 20,000+ self-served questions in 2025. I’m especially interested in the intersection of LLM systems, data platforms, retrieval, internal tooling, and developer experience — the kinds of systems that make complex workflows faster, more reliable, and easier for people across an organization to use. I also genuinely enjoy meeting people. Feel free to reach out if you want to chat about software engineering, AI, math, computer science, or anything interesting you’re building or learning.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGpNB54nLqs9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714643650718?e=1785369600&v=beta&t=a170SpF5-5oYMzD-uGf9hj0lVh7gYisilfQEW-fib9Q",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEFQp2rw2Mm_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711504382330?e=1785369600&v=beta&t=WldjV_jl9Uyg_gf9CNeouekDMStdW2nZ4hMfzMyP-Lk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGpNB54nLqs9A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1714643650718?e=1785369600&v=beta&t=hd6Q5nUJrRfxf6z-G_i1b20Gow-q2NwzZNgjZuXdl10"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGpNB54nLqs9A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714643650718?e=1785369600&v=beta&t=txFTbBRF6kl_YlYsgCGoCMOwoPr9tShlVJZEZl7S0LQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGpNB54nLqs9A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714643650718?e=1785369600&v=beta&t=eAnXEv_njzqM8OBOlpY9A-wDkLT2dnvk7I65CaA0iRY"
+        },
+        {
+          "width": 432,
+          "height": 432,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGpNB54nLqs9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714643650718?e=1785369600&v=beta&t=a170SpF5-5oYMzD-uGf9hj0lVh7gYisilfQEW-fib9Q"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEFQp2rw2Mm_Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1711504382330?e=1785369600&v=beta&t=YcQZ_eppnvPFVzP9ZGwyEXUtFGui6fl242OTXkUbO6w"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEFQp2rw2Mm_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711504382330?e=1785369600&v=beta&t=WldjV_jl9Uyg_gf9CNeouekDMStdW2nZ4hMfzMyP-Lk"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 3 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2026 - Present · ",
+              "metadata": "New York City Metropolitan Area",
+              "description": []
+            },
+            {
+              "title": "Software Engineer (L4)",
+              "caption": "Aug 2023 - Feb 2026 · 2 yrs 6 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer (L3)",
+              "caption": "Sep 2022 - Aug 2023 · 11 mos",
+              "metadata": "Sunnyvale, California, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Founding Engineer",
+          "subtitle": "FWAYGO . Part-time",
+          "caption": "Apr 2021 - Aug 2022 · 1 yr 4 mos",
+          "metadata": "Los Angeles, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Built and scaled an end-end recommendation engine for songs (modeled after various collaborative filtering techniques)\n\nEngineered key services for the React Native front-end app such as song feeds, 3rd party authentication, native library integrations, and other complex UI flows"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "69766560",
+          "companyUrn": "urn:li:fsd_company:69766560",
+          "companyLink1": "https://www.linkedin.com/company/ucla-computer-science/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHI-8dfn5WOiA/company-logo_400_400/company-logo_400_400/0/1630573968506?e=1785369600&v=beta&t=H5__zOA6MqyjplcJyJuOt3blXkYfwgyLWdqwuNlxsbY",
+          "title": "Machine Learning Instructor",
+          "subtitle": "UCLA Computer Science . Seasonal",
+          "caption": "Sep 2021 - Jun 2022 · 9 mos",
+          "metadata": "Los Angeles, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed a Machine Learning Seminar (CS88SA) as part of USIE, a program in UCLA Honors, to educate non-technical audiences about various topics and applications in the field, with ample programming exercises. I instructed the course in Spring 2022."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Software Engineer Intern",
+          "subtitle": "Coinbase . Internship",
+          "caption": "Jun 2021 - Sep 2021 · 3 mos",
+          "metadata": "Los Angeles, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Machine Learning, Data Science, and Software Engineering to derive insight about cryptocurrency assets and to build customer prioritization models"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18275032",
+          "companyUrn": "urn:li:fsd_company:18275032",
+          "companyLink1": "https://www.linkedin.com/company/creativelabs-la/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFBp4ddfYYD2Q/company-logo_400_400/company-logo_400_400/0/1719271703785/creativelabs_la_logo?e=1785369600&v=beta&t=XfN3ifvPfCJDKMg1oJPP7FMvrav3s9uS8ZbjBxyu0x0",
+          "title": "App Developer",
+          "subtitle": "Creative Labs . Part-time",
+          "caption": "Apr 2019 - Sep 2020 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "[Creative Labs is a club at UCLA that's enthusiastic about innovating creative, technological solutions to issues on campus]\n\nApp development using React Native and Node.js on a delivery-assistant app called Saiyle"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2477",
+          "companyUrn": "urn:li:fsd_company:2477",
+          "companyLink1": "https://www.linkedin.com/school/ucla/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_400_400/company-logo_400_400/0/1688403831517/ucla_logo?e=1785369600&v=beta&t=eO48i8BZgBYJFpWw7MmmXXYelh_XRtu9tuM2AXP3rX8",
+          "title": "University of California, Los Angeles",
+          "subtitle": "Part-time · 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Head Learning Assistant",
+              "caption": "Apr 2020 - Jun 2020 · 2 mos",
+              "metadata": "Los Angeles, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As Head Learning Assistant for CS33 - Introduction to Computer Organization, I was responsible for  conducting weekly meetings with the Professor, TA's, and LA's, reviewing content material with the LA's, organizing reflection sessions, creating worksheets and workshops for the class, and my usual duties as an LA, such as assisting the TA with weekly discussion sections and holding office hours."
+                }
+              ]
+            },
+            {
+              "title": "Learning Assistant",
+              "caption": "Jan 2020 - Mar 2020 · 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As Learning Assistant for CS32 - Data Structures and Algorithms, I was responsible for designing worksheets, conducting workshops, holding office hours, and assisting the TA to foster learning during discussion sections."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "18123767",
+          "companyUrn": "urn:li:fsd_company:18123767",
+          "companyLink1": "https://www.linkedin.com/company/ucla-devx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFWjkPNPokcTA/company-logo_400_400/company-logo_400_400/0/1683056539298/ucla_devx_logo?e=1785369600&v=beta&t=zvHjL979CUvwTdiKhdWt-oocj_YVf6cXDJz8ZYCn2_g",
+          "title": "Web Developer",
+          "subtitle": "UCLA DevX . Part-time",
+          "caption": "Sep 2019 - Dec 2019 · 3 mos",
+          "metadata": "Greater Los Angeles Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "[UCLA DevX is a computer science organization that develops technology-based solutions to real-world problems]\n\nWeb development work on a project called Quickey, a chrome extension for keyboard shortcuts."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "17987909",
+          "companyUrn": "urn:li:fsd_company:17987909",
+          "companyLink1": "https://www.linkedin.com/company/covalent-capital/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF3xC9GhVrMuA/company-logo_400_400/company-logo_400_400/0/1631328382403?e=1785369600&v=beta&t=p4-elFTPutFWd61GzsG6SbDa1nD1BGxBvTV4YU3SI68",
+          "title": "Software Development Intern",
+          "subtitle": "Covalent Capital . undefined",
+          "caption": "Jul 2019 - Sep 2019 · 2 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Surfaced key data aggregations on Covalent's rich dataset as interactive visualizations for the web app\nAdded features such as Push Notifications and Biometric Authentication to the mobile app"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3615985",
+          "companyUrn": "urn:li:fsd_company:3615985",
+          "companyLink1": "https://www.linkedin.com/company/appzoy-technologies-pvt-ltd-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGwdpHYhvYe5A/company-logo_400_400/company-logo_400_400/0/1631408968373/appzoy_technologies_pvt_ltd__logo?e=1785369600&v=beta&t=6W7BKzukBoXZQG9BerJeGsUxk4FXwD_pfV_5wTx50Fs",
+          "title": "Software Development Intern",
+          "subtitle": "AppZoy Technologies Pvt. Ltd. . undefined",
+          "caption": "Jun 2018 - Aug 2018 · 2 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Singlehandedly prototyped an entire mobile app called Servz using React-Native and Node.js to connect service providers and consumers in an efficient manner, with various auxiliary features to accentuate user experiences surrounding this"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "10357467",
+          "companyUrn": "urn:li:fsd_company:10357467",
+          "companyLink1": "https://www.linkedin.com/school/springboard/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHxYk4lU8FLrw/company-logo_400_400/company-logo_400_400/0/1689192496648/springboard_logo?e=1785369600&v=beta&t=1X_Q55dNswuIn1CYSdk5I3--ckGDzKoBAQhhAQNcI7Q",
+          "title": "Data Science Career Track",
+          "subtitle": "Springboard",
+          "issued": "Issued Jun 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Extreme Gradient Boosting with XGBoost",
+          "subtitle": "DataCamp",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Feature Engineering for Machine Learning in Python",
+          "subtitle": "DataCamp",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Unsupervised Learning in Python",
+          "subtitle": "DataCamp",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Cleaning Data in Python",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Intermediate Importing Data in Python",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Intermediate SQL",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Introduction to Data Visualization in Pythonn",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Introduction to Importing Data in Python",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Introduction to SQL",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Joining Data in SQL",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Python Data Science Toolbox (Part 2)",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Python Statistics Essential Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Statistical Thinking in Python (Part 1)",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Statistical Thinking in Python (Part 2)",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Supervised Learning with scikit-learn",
+          "subtitle": "DataCamp",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Manipulating DataFrames with pandas",
+          "subtitle": "DataCamp",
+          "issued": "Issued Nov 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "Merging DataFrames with pandas",
+          "subtitle": "DataCamp",
+          "issued": "Issued Nov 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3227175",
+          "companyUrn": "urn:li:fsd_company:3227175",
+          "companyLink1": "https://www.linkedin.com/school/datacampinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/company-logo_400_400/0/1630577190840/datacampinc_logo?e=1785369600&v=beta&t=VbRAUylmCzO0zxUjJ2BONYOj4sB1kOI58KdOJM8jfHA",
+          "title": "pandas Foundations",
+          "subtitle": "DataCamp",
+          "issued": "Issued Nov 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Blockchain Development: Learn to build a dApp with Solidity",
+          "subtitle": "Udemy",
+          "issued": "Issued Oct 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Eagle Award",
+          "subtitle": "Issued by Indus International School",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Eagle Award is an honor bestowed to a student that demonstrates academic excellence and community-impact during high-school. It is the highest honor given to the graduating class."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "AI Agents",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pedagogy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Elasticsearch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MLops",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lecturing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Cloud Platform (GCP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Deep Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Front-End Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cybersecurity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile App Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2477",
+          "companyUrn": "urn:li:fsd_company:2477",
+          "companyLink1": "https://www.linkedin.com/school/ucla/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_400_400/company-logo_400_400/0/1688403831517/ucla_logo?e=1785369600&v=beta&t=eO48i8BZgBYJFpWw7MmmXXYelh_XRtu9tuM2AXP3rX8",
+          "title": "University of California, Los Angeles",
+          "subtitle": "Bachelor's degree, Computer Science and Engineering",
+          "caption": "2018 - 2022",
+          "subComponents": []
+        },
+        {
+          "title": "Indus International School Bangalore",
+          "subtitle": "International Baccalaureate Diploma , Academic Captain\n",
+          "caption": "2016 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "12"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "React Native Awesome Chat",
+          "subtitle": "Jul 2020 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "React Native Awesome Chat is a customizable, easy-to-integrate chat UI library for React Native \nmobile applications. It offers useful features for creating chat interfaces, such as image backgrounds, tapping to resend a message, auto-scroll animation as more messages are sent, and several more."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Panda Escape",
+          "subtitle": "Aug 2017 - Aug 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Panda Escape was a Ionic Mobile App (adapted into a Progressive Web App as well) developed in a couple of days for a high-school hackathon. The app placed 3rd in the competition.\n\n(The app is best viewed on a mobile phone since it was designed for mobile phones)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Saiyle",
+          "subtitle": "Apr 2019 - Sep 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with UCLA"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "'Saiyle' is a mobile app that acts as a delivery assistant - the app allows users to acquire various items in an efficient and cost-friendly manner and also perform deliveries for other users on the app. The project is affiliated with Creative Labs, UCLA.\n\nI work as a front-end React-Native developer and back-end Node.js developer for the app."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Quickey",
+          "subtitle": "Sep 2019 - Dec 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with UCLA"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Quickey is a chrome extension built using React that allows a user to add custom keyboard shortcuts to manage tabs in a browsing window. The extension also offers other unique features such as tab-decluttering, custom workspaces, etc to ameliorate the browsing experience."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Servz",
+          "subtitle": "Jul 2018 - Sep 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Servz is a React-Native and Node.js based mobile app that aims to provide a range of features to enhance the interactions between consumers and service-providers, including attendance management and payment-tracking.\n\nA minimum viable prototype (MVP) of the front-end and back-end has been completed, and is currently under evaluation for commercial deployment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Indian Food Classification",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leveraged Tensorflow and transfer learning to build a VGG-16 based neural network that classified a dataset of 4000 images of 80 classes of Indian foods to an accuracy of more than 50%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Valentine's Matchmaker",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Designed and built a Valentine's Day matchmaking app on a spontaneous last minute whim with over 50 participants"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

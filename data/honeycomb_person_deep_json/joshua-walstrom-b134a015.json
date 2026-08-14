@@ -1,0 +1,360 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/joshua-walstrom-b134a015",
+  "row_key": "id:003Uk00000v7dS2IAI",
+  "person": "Joshua Walstrom",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:41Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAMY8D8BprbsVoDxMB2hJl1f011TcjzMV0U",
+      "firstName": "Joshua",
+      "lastName": "Walstrom",
+      "fullName": "Joshua Walstrom",
+      "publicIdentifier": "joshua-walstrom-b134a015",
+      "headline": "Software Engineer at Yelp",
+      "about": "Software developer with extensive knowledge of computer architecture, modern programming languages, and software development best practices.   \n\nProven track record in architecting, implementing, and supporting complex software systems.   \n\nExcellent communication skills and positive, can-do attitude.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHDohN73mpa4Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516561662405?e=1785369600&v=beta&t=aZj2_puzvMsxqDsfHlAoGnk2ExBGN5tQghBjZ__-EBY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHDohN73mpa4Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516561663165?e=1785369600&v=beta&t=HHU2JJJUnNHKrPRqcwHQUjEnqP-qU2VG-RQbtFpp4xo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHDohN73mpa4Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516561662429?e=1785369600&v=beta&t=W7Y1RTRi0iTtjjRYIq5mYP1YgWRZLjXM6j-uA6GLw-0"
+        },
+        {
+          "width": 399,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHDohN73mpa4Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516561663735?e=1785369600&v=beta&t=FKIm5yvpxYnR1YDSaGBEFF3pp7_AW_plAJWivjthN9o"
+        },
+        {
+          "width": 449,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHDohN73mpa4Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516561662405?e=1785369600&v=beta&t=aZj2_puzvMsxqDsfHlAoGnk2ExBGN5tQghBjZ__-EBY"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "undefined · 11 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer Team Lead",
+              "caption": "Jul 2016 - Present · 9 yrs 6 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Technical lead for a cross-functional team attempting to grow local business transactions.\n\nPersonally involved in planning, implementing, and evaluating new iOS and web features."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Aug 2014 - Present · 11 yrs 5 mos",
+              "metadata": "San Francisco, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Frontend and backend development of the Yelp Platform, which enables Yelp users to conduct transactions with local businesses in a variety of verticals, e.g., ordering food, booking appointments, making reservations, getting in line."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Altera",
+          "subtitle": "undefined · 4 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Member of Technical Staff, Software Department",
+              "caption": "Aug 2013 - Aug 2014 · 1 yr",
+              "metadata": "San Jose, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Technical lead in core software infrastructure and design flows, working on  \n\n* Building software features to support project archiving, logic synthesis, proprietary hardware debugging, hierarchical design, and database management\n* Handling critical customer bug fixes and enhancement requests"
+                }
+              ]
+            },
+            {
+              "title": "Manager, Software Department",
+              "caption": "Sep 2009 - Aug 2013 · 3 yrs 11 mos",
+              "metadata": "San Jose, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Technical manager for logic synthesis, timing analysis, and FPGA design flows\n\n* Managed team responsible for creating and enhancing core software features based on marketing request or the internal needs of future hardware or software products. \n* Provided customer support for design flows, incremental compilation, and project management\n* Helped architect and implement software flow and UX for partial reconfiguration of FPGAs, a challenging new feature in both hardware and software\n* Hired and managed engineering talent at all levels, junior to principal engineer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Member of the Technical Staff",
+          "subtitle": "Altera . undefined",
+          "caption": "Jul 2005 - Jul 2009 · 4 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Technical lead on language extraction and logic synthesis front-end.  \n\n* Improved state machine processing \n* Improved code to infer RAMs directly from HDL, e.g., multi-ported RAMs, byte enables\n* Implemented synthesis support for SystemVerilog, including support for interfaces\n* Supervised a team of engineers working on incremental compilation, parallel synthesis, and in-system debugging flows"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Verilog",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VHDL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SystemVerilog",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FPGA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Static Timing Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Logic Synthesis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TCL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Parallel Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generic Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Logic Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tcl-Tk",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architectural Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bootstrap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2650",
+          "companyUrn": "urn:li:fsd_company:2650",
+          "companyLink1": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_400_400/company-logo_400_400/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=1785369600&v=beta&t=Mo8LI_V0m0dYe8fxWm1laOv4DgPkb2O28hKEmPB6TmQ",
+          "title": "University of Illinois at Urbana-Champaign",
+          "subtitle": "MS, Electrical Engineering",
+          "caption": "2000 - 2002",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Thesis on \"Amalgam\" coarse-grained reconfigurable system architecture,  with the external interface of a register file and a ring-based reconfigurable fabric modeled as 4-input LUTs and registers, organized into rows."
+            }
+          ]
+        },
+        {
+          "companyId": "3147",
+          "companyUrn": "urn:li:fsd_company:3147",
+          "companyLink1": "https://www.linkedin.com/school/carnegie-mellon-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1785369600&v=beta&t=m0gp2lBZW9QiBhJboIWoJYBdZo3jFSQRmeXckBLarXo",
+          "title": "Carnegie Mellon University",
+          "subtitle": "BS, Electrical & Computer Engineering",
+          "caption": "1996 - 2000",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Studied algorithms, software development, network architecture, analog and digital design.   As a student, participated each summer in technical internships at IBM, Motorola, and Altera."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Demos",
+          "subtitle": "Nov 2013 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Various technology demos with HTML5 and JavaScript"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

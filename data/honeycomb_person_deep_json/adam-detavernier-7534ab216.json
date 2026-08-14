@@ -1,0 +1,281 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/adam-detavernier-7534ab216",
+  "row_key": "id:003Uk00000x1ZQ2IAM",
+  "person": "Adam Detavernier",
+  "account": "Werner Enterprises, Inc.",
+  "fetched_at": "2026-07-14T10:47:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADaIyG8BvqrbNWr5BdrtnrbC6SfgfH_8Tak",
+      "firstName": "Adam",
+      "lastName": "DeTavernier",
+      "fullName": "Adam DeTavernier",
+      "publicIdentifier": "adam-detavernier-7534ab216",
+      "headline": "Computer Technical Specialist",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Omaha, Nebraska United States",
+      "addressWithoutCountry": "Omaha, Nebraska",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQEAQSHP1xm3EA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1657054117174?e=1785369600&v=beta&t=8Hq5aPKNqOw7E62xl_qGIqkPqAiCkOK-gpx2FYk46EE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEAQSHP1xm3EA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1657054117174?e=1785369600&v=beta&t=ITw19_dUk7lxz0v8U4njsdo3qoKlsoE1bIQGOI54jl0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEAQSHP1xm3EA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1657054117174?e=1785369600&v=beta&t=WP_78tUhlWQT8C-RXxl45ODfWa-lI9PYSg5nJ89lx0g"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEAQSHP1xm3EA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1657054117174?e=1785369600&v=beta&t=vKuKxhPsE8Ax4pc9NO6PjcOqRgKQ-TaPgfinU3L_7Bc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEAQSHP1xm3EA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1657054117174?e=1785369600&v=beta&t=8Hq5aPKNqOw7E62xl_qGIqkPqAiCkOK-gpx2FYk46EE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "12586",
+          "companyUrn": "urn:li:fsd_company:12586",
+          "companyLink1": "https://www.linkedin.com/company/werner-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAK3LmTyMsrA/company-logo_400_400/company-logo_400_400/0/1737154595689/werner_enterprises_logo?e=1785369600&v=beta&t=20ZSiGgtgVf7Ay72nPY2zknfCOtqd4PtVORDmNYfGew",
+          "title": "IT Strategy",
+          "subtitle": "Werner Enterprises . Contract",
+          "caption": "Sep 2025 - Present · 4 mos",
+          "metadata": "Omaha, Nebraska, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "12586",
+          "companyUrn": "urn:li:fsd_company:12586",
+          "companyLink1": "https://www.linkedin.com/company/werner-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAK3LmTyMsrA/company-logo_400_400/company-logo_400_400/0/1737154595689/werner_enterprises_logo?e=1785369600&v=beta&t=20ZSiGgtgVf7Ay72nPY2zknfCOtqd4PtVORDmNYfGew",
+          "title": "Service Delivery Engineer",
+          "subtitle": "Werner Enterprises . Contract",
+          "caption": "Jun 2022 - Jun 2025 · 3 yrs",
+          "metadata": "Omaha, Nebraska, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "IT Service Delivery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Satisfaction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Positive Work Environment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Report Preparation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Exceeding Customer Expectations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Service Delivery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integrated Development Environments",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kali Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Repair",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Requirements",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ticketing Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming Languages",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Literacy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Systems Maintenance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Maintenance and Repair",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5923",
+          "companyUrn": "urn:li:fsd_company:5923",
+          "companyLink1": "https://www.linkedin.com/school/unomaha/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMpeANJEpzNQ/company-logo_400_400/company-logo_400_400/0/1665876889721/unomaha_logo?e=1785369600&v=beta&t=qwwh47v96ecZWx5sWriG_hip0_HIHr3hTXYBdzLfmw8",
+          "title": "University of Nebraska at Omaha",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "2018 - 2022",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

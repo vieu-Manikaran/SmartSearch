@@ -1,0 +1,243 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/prichodko",
+  "row_key": "id:003Uk00000uO2PlIAK",
+  "person": "Pavel Prichodko",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:37:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA355CQBQW6YRsTHhc0j0s6OjqKEcaTwaQI",
+      "firstName": "Pavel",
+      "lastName": "Prichodko",
+      "fullName": "Pavel Prichodko",
+      "publicIdentifier": "prichodko",
+      "headline": "exploring frontier & software work at Entire",
+      "about": "Hard working individual willing to improve this world.\n",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Czechia",
+      "addressWithCountry": "Prague Czechia",
+      "addressWithoutCountry": "Prague",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQFbbanxXqs-KQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1588956850424?e=1785369600&v=beta&t=YQL0DetZ85lvySYpAee7H2zXk6rIn_192cCuPGiJfDk",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFbbanxXqs-KQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1588956850424?e=1785369600&v=beta&t=R7N0m_ygRN5LLJFrfYcoZmkQKDrYaiLzkTSyxI9m1xo"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFbbanxXqs-KQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1588956850424?e=1785369600&v=beta&t=YQL0DetZ85lvySYpAee7H2zXk6rIn_192cCuPGiJfDk"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "111845019",
+          "companyUrn": "urn:li:fsd_company:111845019",
+          "companyLink1": "https://www.linkedin.com/company/entireio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG3TYtfL6EQnA/company-logo_200_200/B56ZxEh405HoAI-/0/1770676260471/entireio_logo?e=1785369600&v=beta&t=TtFpavpfHdUcYjkyg5UwzSiWCmFxDNxagQV4KeLLEv4",
+          "title": "Staff Software Engineer",
+          "subtitle": "Entire . Full-time",
+          "caption": "Mar 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1418841",
+          "companyUrn": "urn:li:fsd_company:1418841",
+          "companyLink1": "https://www.linkedin.com/company/github/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGxQRyEwD643g/company-logo_200_200/B56Z3045ErGgAI-/0/1777930048179/github_logo?e=1785369600&v=beta&t=kQKCcJHJeMUXWX7sxU6ieuARVCiI6xgxiu7REOeLl_E",
+          "title": "Staff Design Engineer",
+          "subtitle": "GitHub . Full-time",
+          "caption": "Jan 2025 - Feb 2026 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "15174105",
+          "companyUrn": "urn:li:fsd_company:15174105",
+          "companyLink1": "https://www.linkedin.com/company/status.im/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXDZHvG-Wpvg/company-logo_400_400/company-logo_400_400/0/1699457379936/statusim_logo?e=1785369600&v=beta&t=zUzfza6jqdx4CVqNnsBGC3OzcVpkhoAGC0TjaRb7VAg",
+          "title": "Web Team Lead",
+          "subtitle": "Status . Full-time",
+          "caption": "Feb 2022 - Jan 2025 · 2 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18774031",
+          "companyUrn": "urn:li:fsd_company:18774031",
+          "companyLink1": "https://www.linkedin.com/company/kindest/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH6lwzpNZ8pMg/company-logo_400_400/company-logo_400_400/0/1680203520946/kindest_logo?e=1785369600&v=beta&t=-4ngiWM5PUEue3o99wdIkNhhKkS8rfxGTm_S-U-anp0",
+          "title": "Founding Engineer",
+          "subtitle": "Kindest . Full-time",
+          "caption": "Jan 2019 - Jan 2022 · 3 yrs",
+          "metadata": "Los Angeles, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "638464",
+          "companyUrn": "urn:li:fsd_company:638464",
+          "companyLink1": "https://www.linkedin.com/company/strvcom/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGRe0mQQS4uQQ/company-logo_400_400/company-logo_400_400/0/1642697941481/strvcom_logo?e=1785369600&v=beta&t=5NIuFH57_Fuiy4gKYD6O85Wr5J4-5yMhp4ihGdZ3Erw",
+          "title": "STRV",
+          "subtitle": "Full-time · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Frontend Developer",
+              "caption": "Oct 2018 - Dec 2018 · 2 mos",
+              "metadata": "Prague, Czech Republic",
+              "description": []
+            },
+            {
+              "title": "Frontend Developer ",
+              "caption": "Oct 2016 - Oct 2018 · 2 yrs",
+              "metadata": "Prague, The Capital, Czech Republic",
+              "description": []
+            },
+            {
+              "title": "STRV Academy 2016 Winner",
+              "caption": "Jul 2016 - Sep 2016 · 2 mos",
+              "metadata": "Prague",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Czech",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "15091777",
+          "companyUrn": "urn:li:fsd_company:15091777",
+          "companyLink1": "https://www.linkedin.com/school/cvutpraha/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHyHKqqDwHsZQ/company-logo_400_400/company-logo_400_400/0/1706192513532?e=1785369600&v=beta&t=C0LWP09sb4oG2G1i8eZjHNcKgaGaaEGAJ1y4eKF_tAQ",
+          "title": "Czech Technical University in Prague",
+          "subtitle": "null, Information Technology",
+          "caption": "2015 - 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "15092563",
+          "companyUrn": "urn:li:fsd_company:15092563",
+          "companyLink1": "https://www.linkedin.com/school/vysok%C3%A1-%C5%A1kola-ekonomick%C3%A1-v-praze/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHE-jzxC2opVw/company-logo_400_400/company-logo_400_400/0/1707591918486/vysok_kola_ekonomick_v_praze_logo?e=1785369600&v=beta&t=QP3dV8JDLkXEIoCJxVw9p_gCLbzTR4NX6E63OqGgjV4",
+          "title": "University of Economics, Prague",
+          "subtitle": "null, International Business/Trade/Commerce",
+          "caption": "2014 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "1st"
+            }
+          ]
+        },
+        {
+          "title": "Secondary School for Administration of the European Union",
+          "subtitle": "null, Representative role on various school culture events.",
+          "caption": "2010 - 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Swipest - Make Up Your Mind Fast",
+          "subtitle": "May 2015 - May 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Prague University of Economics and Business"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "iOS game - little project, big change."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

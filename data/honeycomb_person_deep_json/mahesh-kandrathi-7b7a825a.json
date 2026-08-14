@@ -1,0 +1,478 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/mahesh-kandrathi-7b7a825a",
+  "row_key": "id:003Uk0000091AJVIA2",
+  "person": "Mahesh Kandrathi",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:03Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAyd8fsByhbU4bs_wAR3YFgpvgaAuwYVNz0",
+      "firstName": "Mahesh",
+      "lastName": "Kandrathi",
+      "fullName": "Mahesh Kandrathi",
+      "publicIdentifier": "mahesh-kandrathi-7b7a825a",
+      "headline": "Principal Software Engineer at Medtronic India pvt ltd",
+      "about": "passionate about programming",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQE-zkF3uUZkNQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704984185926?e=1785369600&v=beta&t=vMg61CGaVR_l5CdNZeoU3rSHIXu-bUXPNoOhIrBEN2E",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE-zkF3uUZkNQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704984185926?e=1785369600&v=beta&t=HQNNns-qg_3adtdT2l4oR9peDU3z9xwVb4nFRPQ5ZXc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE-zkF3uUZkNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704984185926?e=1785369600&v=beta&t=dIq7vo-rFvEX2mx7jgvitJM8ggQcW3idjsmfz5onLGc"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE-zkF3uUZkNQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704984185926?e=1785369600&v=beta&t=WZPE20jcz8aeGNjkVbw93faQT4f_owuv-Qzkj-iX12c"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE-zkF3uUZkNQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704984185926?e=1785369600&v=beta&t=vMg61CGaVR_l5CdNZeoU3rSHIXu-bUXPNoOhIrBEN2E"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 8 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Jul 2025 - Present · 6 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": []
+            },
+            {
+              "title": "Lead Software Engineer",
+              "caption": "Jan 2023 - Jul 2025 · 2 yrs 6 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jul 2019 - Jan 2023 · 3 yrs 6 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developing and Maintaining Stealth station application on Linux platform using C++11/14/17 with QT and QML\nDevelop user interface using qml\nWorked with high professional technical team for analyzing and fixing software issues/cases raised by customer.\nWorked on Image Processing tools,  DICOM and 3D model Using Insight Segmentation Tool and experienced in openGL programming.\nAnalyzed complex registration algorithms and worked on legacy software versions of navigation product."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jun 2017 - Jul 2019 · 2 yrs 1 mo",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked on software development for legacy stealthstation products using C++ and QT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1103",
+          "companyUrn": "urn:li:fsd_company:1103",
+          "companyLink1": "https://www.linkedin.com/company/verizon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFcVBjsbfJrBQ/company-logo_400_400/company-logo_400_400/0/1719399854965/verizon_logo?e=1785369600&v=beta&t=JNYrzG14n1Gf4zDcc3UHjRPhX6BDgu9D4Z-FvQZmHGI",
+          "title": "System Analyst",
+          "subtitle": "Verizon . undefined",
+          "caption": "May 2016 - Jun 2017 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tImplemented and experienced in SOAP webservices communication for sharing data(xml) to other subsystems.\n\n•\tExperienced as a DevOps engineer and  learnt DevOps tools and Agile methodologies.\n\n•\tBecome expert in using of Bug Tracking JIRA tool , STASH web interface and confluence tool for team collaboration. \n\n•\tExperienced in Git Version control system tools for maintaining product source code.\n\n•\tWritten Code coverage test cases for every product feature using Google Mock, Google Test Frameworks. \n\n•\tDeveloped Product features GUI using html and handled the User request in backend server."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "549863",
+          "companyUrn": "urn:li:fsd_company:549863",
+          "companyLink1": "https://www.linkedin.com/company/gegridsolutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH3W3CGhxwuaA/company-logo_400_400/company-logo_400_400/0/1674660150220/gegridsolutions_logo?e=1785369600&v=beta&t=MRVK-YR7GNnLX7JFwgYKYnZjVA-5IZgW9PDb_vL6RDA",
+          "title": "Software Engineer",
+          "subtitle": "GE Energy Management . undefined",
+          "caption": "Nov 2014 - Apr 2016 · 1 yr 5 mos",
+          "metadata": "Hyderabad Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developing & Supporting Energy Management software. \n\n•\tCustomizing Old product by fixing bugs in java and experienced in JAVA SWINGS.\n\n•\tExperienced in Agile Product Development for GE-Energy Product\n\n•\tDeveloped User Interface for displaying data reports of Energy Mangement using HTML5 and twitter bootstrap\n\n•      Worked on GNU/Linux tools for debugging the product code."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1016",
+          "companyUrn": "urn:li:fsd_company:1016",
+          "companyLink1": "https://www.linkedin.com/company/gehealthcare/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_200_200/B56ZlzFxy6I0AI-/0/1758572519588/gehealthcare_logo?e=1785369600&v=beta&t=0Qq-tPGf__00iPexTRbyqumtqKObfvCS6RP_OxF7COI",
+          "title": "GE Healthcare",
+          "subtitle": "undefined · 2 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Design Engineer",
+              "caption": "Jul 2012 - Oct 2014 · 2 yrs 3 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tWorked on C++, C, DS, Matlab for implementing high quality image processing Algorithms for X-ray software on Linux platform. \n\n•\tExperienced in X-ray domain by developing software product to get the image from the detector and gained knowledge in processing the image to improving X-ray Image quality.\n\n•\tDeveloped Bad pixel Correction Algorithm in c++ by working in MATLAB Image Processing Tool to remove bad pixel from the image and Implemented electromagnetic interference (EMI), Manual Badpixel algorithms.\n\n•\tExperienced in static analysis verification Engine COVERITY and Valgrind tools to find the defect in the product code. \n\n•\tProvided Graphical User Interface for Image correction and worked on gtk library to develop GUI for X-ray Imaging subsystem.\n\n•\tWorked on Intel IPP tool and got experienced on Image Processing API's of INTEL for fast image processing with high Quality. \n\n•\tAs a Design Engineer, travelled to CHINA for Coordinating the Auto sensing Detector program to support for imaging platform.\n\n•\tWorked on Corba communication, IPC mechanism, C++ design patterns for Subsystems communication."
+                }
+              ]
+            },
+            {
+              "title": "Trainee",
+              "caption": "Feb 2012 - Jun 2012 · 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tStarted Career with GE Healthcare in MR Subsystem as a Trainee.\n\n•\tDeveloped shell scripts to validate tools and big data sets.\n\n•       Worked on Born Shell, Ksh scripting for implementing MR console protocol selection and UI features."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Engineering Excellence Award",
+          "subtitle": null,
+          "issued": "Issued Jun 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "871226",
+          "companyUrn": "urn:li:fsd_company:871226",
+          "companyLink1": "https://www.linkedin.com/company/scrum-alliance/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1785369600&v=beta&t=qBtgg53rCKw2oOgOBvhjCNHdXc-pOCqxkZXmd518BUs",
+          "title": "Scrum Master Certified (SMC)",
+          "subtitle": "Scrum Alliance",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telugu",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Medtronic",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Imaging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Image Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ClearCase",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DBMS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JDBC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JIRA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Confluence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SoapUI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOAP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "JNTU College Of Engineering Hyderabad",
+          "subtitle": "Master of Computer Applications (MCA), snooker, Playing Cricket, Chess, Bowling",
+          "caption": "2009 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A"
+            },
+            {
+              "type": "insightComponent",
+              "text": "learnt programming languages and developed web based project on my own. "
+            }
+          ]
+        },
+        {
+          "title": "RKLK Degree College",
+          "subtitle": "Bachelor's degree, Playing snoocker,cricket and browsing",
+          "caption": "2006 - 2009",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Maths,chemistry,computer science"
+            }
+          ]
+        },
+        {
+          "title": "APSEB Govt College",
+          "subtitle": "Intermediate, Playing Cricket",
+          "caption": "2004 - 2006",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "My Intermediate graduation was done in APSED 2004 to 2006 at APSEB Palvoncha"
+            }
+          ]
+        },
+        {
+          "title": "ZPSS Palvoncha",
+          "subtitle": "SSC, Playing cricket.",
+          "caption": "1994 - 2004",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "I was a student in ZPSS Palvoncha from 2000 to 2004"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Volunteer for team activities and cultural activities.",
+          "subtitle": "GE Energy Connections",
+          "caption": "May 2015 - Mar 2016 · 10 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Virtual Class Room Project",
+          "subtitle": "Nov 2011 - Jun 2012",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

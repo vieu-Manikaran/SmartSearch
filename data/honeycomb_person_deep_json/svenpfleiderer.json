@@ -1,0 +1,463 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/svenpfleiderer",
+  "row_key": "id:003Uk000010Q5gIIAS",
+  "person": "Sven Pfleiderer",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:37:29Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABJ7fXABXKrTz-w01oLgVCav8-z1NAijVJw",
+      "firstName": "Sven",
+      "lastName": "Pfleiderer",
+      "fullName": "Sven Pfleiderer",
+      "publicIdentifier": "svenpfleiderer",
+      "headline": "Staff Engineer @ Entire",
+      "about": "I'm an experienced Software Engineer who enjoys working on products which make hard things easy to use. I enjoy working on distributed systems in a highly collaborative environment.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "111845019",
+          "companyUrn": "urn:li:fsd_company:111845019",
+          "companyLink1": "https://www.linkedin.com/company/entireio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG3TYtfL6EQnA/company-logo_200_200/B56ZxEh405HoAI-/0/1770676260471/entireio_logo?e=1785369600&v=beta&t=TtFpavpfHdUcYjkyg5UwzSiWCmFxDNxagQV4KeLLEv4",
+          "title": "Staff Software Engineer",
+          "subtitle": "Entire . Full-time",
+          "caption": "Feb 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1418841",
+          "companyUrn": "urn:li:fsd_company:1418841",
+          "companyLink1": "https://www.linkedin.com/company/github/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGxQRyEwD643g/company-logo_200_200/B56Z3045ErGgAI-/0/1777930048179/github_logo?e=1785369600&v=beta&t=kQKCcJHJeMUXWX7sxU6ieuARVCiI6xgxiu7REOeLl_E",
+          "title": "Senior Software Engineer",
+          "subtitle": "GitHub . Full-time",
+          "caption": "Jul 2020 - Feb 2026 · 5 yrs 7 mos",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft",
+          "subtitle": "Full-time · 5 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Mar 2020 - Jul 2020 · 4 mos",
+              "metadata": "Greater Seattle Area",
+              "description": []
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Sep 2016 - Mar 2020 · 3 yrs 6 mos",
+              "metadata": "Greater Seattle Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I work on mission critical parts parts of the App Center product. Noteworthy features: App Center Organizations, Teams, Diagnostics and CodePush. To accomplish my tasks, I used TypeScript, Node.js, Docker, Kubernetes, SQL Server and related technologies."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Jan 2015 - Aug 2016 · 1 yr 7 mos",
+              "metadata": "Frankfurt Am Main Area, Germany",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I helped to extend the HockeyApp product by implementing new features and maintaining the existing Ruby (on Rails) codebase and Node.js services."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Full Stack Engineer",
+          "subtitle": "Bit Stadium GmbH (HockeyApp) . undefined",
+          "caption": "Jan 2014 - Dec 2014 · 11 mos",
+          "metadata": "Stuttgart Area, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I worked on the HockeyApp Ruby on Rails application as well as other service written in Node.js."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "167056",
+          "companyUrn": "urn:li:fsd_company:167056",
+          "companyLink1": "https://www.linkedin.com/company/acquia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGuK8EOQfx4uA/company-logo_400_400/company-logo_400_400/0/1719839383975/acquia_logo?e=1785369600&v=beta&t=ydoAYi2SWSYYo2ofQwI47-2Ah0fTvifDtpdSiSHStsk",
+          "title": "Acquia",
+          "subtitle": "undefined · 2 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Intern",
+              "caption": "Feb 2013 - Dec 2013 · 10 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Implementing a scalable search API using Ruby and ElasticSearch."
+                }
+              ]
+            },
+            {
+              "title": "Working Student",
+              "caption": "Sep 2011 - Feb 2013 · 1 yr 5 mos",
+              "metadata": "Remote",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "QA Engineer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Working Student",
+          "subtitle": "HIVE01 GmbH . undefined",
+          "caption": "Jun 2011 - Sep 2011 · 3 mos",
+          "metadata": "Stuttgart Area, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Backend web development using PHP."
+              }
+            }
+          ]
+        },
+        {
+          "title": "M-Way Solutions GmbH",
+          "subtitle": "undefined · 1 yr 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Working Student",
+              "caption": "Mar 2010 - May 2011 · 1 yr 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Java/JavaScript development. Working with GWT, Node.js, Appcelerator Titanium and Phonegap (Apache Cordova)."
+                }
+              ]
+            },
+            {
+              "title": "Intern",
+              "caption": "Sep 2009 - Feb 2010 · 5 mos",
+              "metadata": "Stuttgart Area, Germany",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Java/JavaScript development. Working on a cross platform mobile web framework using Google Web Toolkit (GWT)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "9129156",
+          "companyUrn": "urn:li:fsd_company:9129156",
+          "companyLink1": "https://www.linkedin.com/company/html-design/",
+          "title": "Linux System Administrator",
+          "subtitle": "HTML Design . undefined",
+          "caption": "Jul 2007 - Sep 2007 · 2 mos",
+          "metadata": "Stuttgart Area, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Administration of Linux server infrastructure. Mostly web- and game-servers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1592",
+          "companyUrn": "urn:li:fsd_company:1592",
+          "companyLink1": "https://www.linkedin.com/company/t-systems/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH3_3-20Fa0wQ/company-logo_200_200/B4EZfEjOFRHYAU-/0/1751349257322/t_systems_logo?e=1785369600&v=beta&t=DPzXcdnvVgGt2p7J_rErM131gbUn5TEJ_KLKDavxXaU",
+          "title": "Apprentice",
+          "subtitle": "T-Systems International GmbH . undefined",
+          "caption": "Sep 2004 - Jun 2007 · 2 yrs 9 mos",
+          "metadata": "Karlsruhe Area, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "IT specialist for system integration. Focus on UNIX administration and monitoring."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NoSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTTP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ElasticSearch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Realtime Web",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kuberenetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby On Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "7148280",
+          "companyUrn": "urn:li:fsd_company:7148280",
+          "companyLink1": "https://www.linkedin.com/school/hochschule-der-medien-stuttgart/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH-Vd7vYj1aVw/company-logo_400_400/company-logo_400_400/0/1631341127128?e=1785369600&v=beta&t=O41dGRfblSK5CGz0e_EmEhlE7R3jQ6zA4i4BMfCnkJc",
+          "title": "Fachhochschule Stuttgart - Hochschule der Medien",
+          "subtitle": "Master of Science (M.Sc.), Computer Science and Media",
+          "caption": "2011 - 2013",
+          "subComponents": []
+        },
+        {
+          "companyId": "7148280",
+          "companyUrn": "urn:li:fsd_company:7148280",
+          "companyLink1": "https://www.linkedin.com/school/hochschule-der-medien-stuttgart/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH-Vd7vYj1aVw/company-logo_400_400/company-logo_400_400/0/1631341127128?e=1785369600&v=beta&t=O41dGRfblSK5CGz0e_EmEhlE7R3jQ6zA4i4BMfCnkJc",
+          "title": "Fachhochschule Stuttgart - Hochschule der Medien",
+          "subtitle": "Bachelor of Science (B.Sc.), Computer Science and Media",
+          "caption": "2007 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "1.5"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

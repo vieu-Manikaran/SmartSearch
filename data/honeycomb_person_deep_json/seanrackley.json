@@ -1,0 +1,421 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/seanrackley",
+  "row_key": "id:0033l00002jfxRcAAI",
+  "person": "Sean Rackley",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:10Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAEZT9ABPYm15KwtQgubA_qwFeMvdBGpCjw",
+      "firstName": "Sean",
+      "lastName": "R.",
+      "fullName": "Sean R.",
+      "publicIdentifier": "seanrackley",
+      "headline": "Sr. Database Reliability Engineer at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Glendale, California United States",
+      "addressWithoutCountry": "Glendale, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQG91lO5MduNnw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517674106362?e=1785369600&v=beta&t=VQCxNVjZGt2iYhkmXli6xbnYoDikcRTEXPVh0od1WwA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQG91lO5MduNnw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517674106345?e=1785369600&v=beta&t=JhXMkIdmn8TqonA3UVmOduqOjtAOo9lszxHfboK5VXc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQG91lO5MduNnw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517674106717?e=1785369600&v=beta&t=jTXNrgTQl2hYmU8IsoM3D50RLwxdjftJLjx5To9TRr0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQG91lO5MduNnw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517674106586?e=1785369600&v=beta&t=-imqryekzRl1fqt_sU1aocwDHWV_5YJMXIctuPTrzhc"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQG91lO5MduNnw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517674106362?e=1785369600&v=beta&t=VQCxNVjZGt2iYhkmXli6xbnYoDikcRTEXPVh0od1WwA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Senior Database Reliability Engineer",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "May 2022 - Present · 3 yrs 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "33883",
+          "companyUrn": "urn:li:fsd_company:33883",
+          "companyLink1": "https://www.linkedin.com/company/everbridge/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGi9QfUBFB7tg/company-logo_400_400/company-logo_400_400/0/1679314797694/everbridge_logo?e=1785369600&v=beta&t=1bs5qFaNcKWglNEX5L_UEk-retjjJH6WkmqcoArnAls",
+          "title": "Senior Site Reliability Engineer",
+          "subtitle": "Everbridge . Full-time",
+          "caption": "Dec 2012 - May 2022 · 9 yrs 5 mos",
+          "metadata": "Glendale, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Involved in all aspects of building and maintaining the production infrastructure and services\n• Ensure proper security, monitoring, alerting and reporting for the infrastructure and operational environment\n• Troubleshoot and resolve production issues as they occur\n• Help develop and maintain processes, tools, and documentation in support of the production infrastructure\n• Collaborate with Architects, Developers, DBA, Application, Security and NOC teams on designing scalable and highly available SaaS infrastructure platforms\n• Test all changes to networks, hardware, and software prior to production deployment\n• Participate in the evaluation of new software, hardware and infrastructure solutions\n• Maintain good working relationships with all service providers and vendor to ensure that services received meet expected requirements of contract\n• Participation in on‐call rotation and non‐traditional work hours as needed"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "30977",
+          "companyUrn": "urn:li:fsd_company:30977",
+          "companyLink1": "https://www.linkedin.com/company/wonderful-pistachios-and-almonds/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGrNeVPow_5dA/company-logo_400_400/company-logo_400_400/0/1631300444223?e=1785369600&v=beta&t=2Wrv20Te5hl9ERhq1FnjZVEEQJgYU-hpc0Y2rXsIS98",
+          "title": "Quality Assurance Supervisor",
+          "subtitle": "Paramount Farms . undefined",
+          "caption": "Feb 2011 - Dec 2012 · 1 yr 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Managed and delegated a staff of ten full‐time employees\n• Created multiple standard operating and development procedures and re‐developed company‐wide reports\n• Worked and coordinated with third party microbiological testing facilities to improve the microbial testing program\n• Used continuous improvement methodologies and projects to improve and streamline quality processes while being responsible for safety, quality and compliance to customer specification\n• Educated (trained) unit staff and managers in quality related issues  \n• Responsible for the maintenance of key performance metrics\n• Managed and trained employees on company and industry standards, and ensured food safety initiatives were being followed such as good hygiene practices, good manufacturing practices (GMP's), HACCP and Critical Control Points, plant wide\n• Responsible for performance evaluation, coaching, counseling and preparing corrective action for employees and liaised appropriately with HR and other support functions"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "29052",
+          "companyUrn": "urn:li:fsd_company:29052",
+          "companyLink1": "https://www.linkedin.com/company/charles-dunn-company/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFnkVKytZsgqQ/company-logo_400_400/company-logo_400_400/0/1651086242725/charles_dunn_company_logo?e=1785369600&v=beta&t=Zb2G8Q6vZCXKPzUy-Md2sQg_yJOyB8IB_TRD-oz18xg",
+          "title": "Computer Specialist",
+          "subtitle": "Charles Dunn Company . undefined",
+          "caption": "Aug 2008 - Feb 2010 · 1 yr 6 mos",
+          "metadata": "Greater Los Angeles Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Provided end‐user support via email, phone, RSAT, and in‐person to offices throughout California and Arizona\n• Supported printers and imaging devices from OCE, HP, and Kyocera\n• Provided networking connectivity support which included Cisco routers and switches\n• Created and maintained user accounts via Microsoft Active Directory hosted on Windows Enterprise Server 2003\n• Deployed and administered the Microsoft Exchange 2003 email system\n• Administered the system wide Anti‐Virus solution (Avira Antivirus for Endpoint)\n• Responsible for corporate training against the following software: Microsoft Office 2003, including Outlook, Yardi, Cisco IP telephony, and ADP Paychex\n• Maintained companywide Anti‐Spam solution from MXLogic\n• Support all network attached storage and print servers\n• Effectively documented, tracked and monitored issues to ensure a timely resolution"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "50454",
+          "companyUrn": "urn:li:fsd_company:50454",
+          "companyLink1": "https://www.linkedin.com/company/triumph-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEiIWiYALKfag/company-logo_400_400/company-logo_400_400/0/1650405969642/triumph_group_logo?e=1785369600&v=beta&t=3iUbs5DBQHqYaMdTD6-vd76xrm60hdWIM-fP-UQKUNo",
+          "title": "Technical Support",
+          "subtitle": "Triumph Instruments and Avionics . undefined",
+          "caption": "Sep 2004 - Mar 2006 · 1 yr 6 mos",
+          "metadata": "Glendale, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Performed corporate desktop and laptop deployment projects\n• Provided end‐user support companywide using remote system administration tools (RSAT) such as LogMeIn, VNC, GoToMeeting, Join.me, and Microsoft Remote Desktop Connection\n• Managed the technical support ticket status’ and ensured a timely resolution\n• Maintained printers and other shared office equipment"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "16529",
+          "companyUrn": "urn:li:fsd_company:16529",
+          "companyLink1": "https://www.linkedin.com/company/comptia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvewdxT9h_6Q/company-logo_100_100/B4EZuQYLnGHIAQ-/0/1767653817239/comptia_logo?e=1785369600&v=beta&t=gyPY7qgKVAf_-Y65x5QITqRrO9EmzwlpbS3ZPA6Z7RA",
+          "title": "Network+",
+          "subtitle": "CompTIA",
+          "issued": "Issued Apr 2008",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "16529",
+          "companyUrn": "urn:li:fsd_company:16529",
+          "companyLink1": "https://www.linkedin.com/company/comptia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvewdxT9h_6Q/company-logo_100_100/B4EZuQYLnGHIAQ-/0/1767653817239/comptia_logo?e=1785369600&v=beta&t=gyPY7qgKVAf_-Y65x5QITqRrO9EmzwlpbS3ZPA6Z7RA",
+          "title": "A+",
+          "subtitle": "CompTIA",
+          "issued": "Issued Jun 2007",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco Systems Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "F5 BigIP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Juniper Networks Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vyatta",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firewalls",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Routers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nagios",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Monitoring Tools",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Active Directory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hardware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4427",
+          "companyUrn": "urn:li:fsd_company:4427",
+          "companyLink1": "https://www.linkedin.com/school/devry-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEV2FP_AW0TqQ/company-logo_100_100/B56ZhgxePCHkAY-/0/1753970238707/devry_university_logo?e=1785369600&v=beta&t=RIuzKjgUGLqySWK-e-2piAXPpscorGkLc2hepm9Au4k",
+          "title": "DeVry University",
+          "subtitle": "B.S., Network Communications Management",
+          "caption": "2006 - 2008",
+          "subComponents": []
+        },
+        {
+          "companyId": "164503",
+          "companyUrn": "urn:li:fsd_company:164503",
+          "companyLink1": "https://www.linkedin.com/school/itt-technical-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFLEQiNMkjW_A/company-logo_400_400/company-logo_400_400/0/1631324758283?e=1785369600&v=beta&t=ebmhOHBD1go1I7y1jN3iAJ2MfC5y6py2HDgJ5c2sow0",
+          "title": "ITT Technical Institute",
+          "subtitle": "A.S., Information Technology",
+          "caption": "2003 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "44810",
+          "companyUrn": "urn:li:fsd_company:44810",
+          "companyLink1": "https://www.linkedin.com/company/weathertech-raceway-laguna-seca/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEnyRtjFXNFLQ/company-logo_400_400/company-logo_400_400/0/1673290623442/weathertech_raceway_laguna_seca_logo?e=1785369600&v=beta&t=ACcbg4euLSgzD6lnnho0GFDNEuQMp2EsR1W2p93du80",
+          "title": "Assistant Director, IT",
+          "subtitle": "Mazda Raceway Laguna Seca",
+          "caption": "May 2014 - Present · 11 yrs 8 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Hiked the Pacific Crest Trail (PCT)",
+          "subtitle": "Apr 2010 - Nov 2010",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Hiked the PCT from Campo, CA to Ashland, OR."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

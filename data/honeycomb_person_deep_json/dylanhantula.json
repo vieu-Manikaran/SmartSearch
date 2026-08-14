@@ -1,0 +1,227 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/dylanhantula",
+  "row_key": "id:003Uk00000ydJDvIAM",
+  "person": "Dylan Hantula",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:21Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAwYAT0Bu28tXegY8SI1Drp8FIMbvlzqdkM",
+      "firstName": "Dylan",
+      "lastName": "Hantula",
+      "fullName": "Dylan Hantula",
+      "publicIdentifier": "dylanhantula",
+      "headline": "Engineering Manager at Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEB-aEajPld2w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1592965282747?e=1785369600&v=beta&t=oSBCSrdFraXaHD4GfrU02y4m1fnx-igClFuMzOowxXA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEB-aEajPld2w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1592965282747?e=1785369600&v=beta&t=qig_9Q5ivRhPirjSuqA59CDVruoPWkOCat6ljSkSI8E"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEB-aEajPld2w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1592965282747?e=1785369600&v=beta&t=SAnJJJXFMZgAfNBzDC-7urMCo_PDDW0EoQVZqwX2nNg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEB-aEajPld2w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1592965282747?e=1785369600&v=beta&t=7ByzhUy394WgzyzeVTYxCjIDz8594CjvqQz8QRS4q8A"
+        },
+        {
+          "width": 532,
+          "height": 532,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEB-aEajPld2w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1592965282747?e=1785369600&v=beta&t=oSBCSrdFraXaHD4GfrU02y4m1fnx-igClFuMzOowxXA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "undefined · 5 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Manager",
+              "caption": "Jun 2025 - Present · 7 mos",
+              "description": []
+            },
+            {
+              "title": "Staff Software Engineer / Tech Lead Manager",
+              "caption": "Feb 2024 - Jun 2025 · 1 yr 4 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2022 - Feb 2024 · 2 yrs",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "May 2020 - Feb 2022 · 1 yr 9 mos",
+              "metadata": "San Francisco, California, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "11257500",
+          "companyUrn": "urn:li:fsd_company:11257500",
+          "companyLink1": "https://www.linkedin.com/company/hitachi-vantara/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFigwPi_6m_8g/company-logo_200_200/B4EZYBScsiHYAI-/0/1743778336351/hitachi_vantara_logo?e=1785369600&v=beta&t=l8cCmiCQCKpzW_nKqKF81ClrwpE3J6NvvpAz2jmdbt0",
+          "title": "Senior Software Engineer",
+          "subtitle": "Hitachi Vantara . undefined",
+          "caption": "Mar 2018 - May 2020 · 2 yrs 2 mos",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "82315716",
+          "companyUrn": "urn:li:fsd_company:82315716",
+          "companyLink1": "https://www.linkedin.com/company/gevernova/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3fXAI-jYu5A/company-logo_400_400/company-logo_400_400/0/1681910638687/gevernova_logo?e=1785369600&v=beta&t=8pAbL22_1bm0N7_evyhZQ6Kc-AYiUKw5Ub4rIWBT0x0",
+          "title": "Software Engineer - Digital Technology Leadership Program (DTLP)",
+          "subtitle": "GE Digital . undefined",
+          "caption": "Jul 2016 - Mar 2018 · 1 yr 8 mos",
+          "metadata": "San Ramon, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Golang",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3558",
+          "companyUrn": "urn:li:fsd_company:3558",
+          "companyLink1": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1785369600&v=beta&t=v2DbUxdBk6bM0VWV94bC3Cy2jYJdLswUCGoHxnMX358",
+          "title": "Georgia Institute of Technology",
+          "subtitle": "M.S., Computer Science",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "166228",
+          "companyUrn": "urn:li:fsd_company:166228",
+          "companyLink1": "https://www.linkedin.com/school/syracuse-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFAyZ5pXkHL9Q/company-logo_400_400/company-logo_400_400/0/1630671468743/syracuse_university_logo?e=1785369600&v=beta&t=x-b1LWQBKAWOEz_eW7EX1mhBvWAK55a9MenvPqlFH1Q",
+          "title": "Syracuse University",
+          "subtitle": "B.S., Renée Crown University Honors Program",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

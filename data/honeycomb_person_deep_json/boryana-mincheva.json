@@ -1,0 +1,603 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/boryana-mincheva",
+  "row_key": "id:003Uk00000Pb6iFIAR",
+  "person": "Boryana Mincheva",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:16:31Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADW2P0QBUw2pZO3hoTBhU7qyy24zuSQ1NfI",
+      "firstName": "Boryana",
+      "lastName": "Mincheva",
+      "fullName": "Boryana Mincheva",
+      "publicIdentifier": "boryana-mincheva",
+      "headline": "Software Engineer I at Medtronic Digital Surgery",
+      "about": "As a full-stack developer, I am driven by the belief that well-documented, readable, and maintainable code with comprehensive testing is the cornerstone of a successful project.\nI bring a strong foundation in both front-end and back-end development, with experience in:\n\nFront-End: React, Angular, jQuery, HTML, CSS\nBack-End: Node.js (Express, Koa), Flask\nLanguages: JavaScript, TypeScript, Python\nDatabases: MongoDB, MySQL, PostgreSQL, ORMs (Sequelize, Mongoose)\nOps: Linux, Git (Github), Docker, Postman\nProject Management: Agile methodologies (Scrum, Kanban)",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEJ_a5m9N0Udw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1680388319565?e=1785369600&v=beta&t=EM-pSkrzON4ynE12D7-XmxJAO3J6oZ-_NWDZ5ahc2gA",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQHIWMt3Yc2Sbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1680449471202?e=1785369600&v=beta&t=RDN5aF39AL2o-FqxoywCK8xY_c07FUVx9IjobMrIt30",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEJ_a5m9N0Udw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1680388319565?e=1785369600&v=beta&t=Tj86gudOXIP4Ph0RS6V79J0hZnuOkeDo4A4ZQpXgT8Q"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEJ_a5m9N0Udw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1680388319565?e=1785369600&v=beta&t=3hRvlZRVznyg6WuzQ6MFUAkmCd9wVc_vQBCGEDU61cs"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEJ_a5m9N0Udw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1680388319565?e=1785369600&v=beta&t=53HTmwVW0kJGnHckQ-PKcizW_7V_JSNAXvNp_p_wYsI"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEJ_a5m9N0Udw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1680388319565?e=1785369600&v=beta&t=EM-pSkrzON4ynE12D7-XmxJAO3J6oZ-_NWDZ5ahc2gA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQHIWMt3Yc2Sbw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1680449471201?e=1785369600&v=beta&t=EWB5wBg1vdA-PneuGkA3waDahZcnD_lJH5eSuPyC6Vg"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQHIWMt3Yc2Sbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1680449471202?e=1785369600&v=beta&t=RDN5aF39AL2o-FqxoywCK8xY_c07FUVx9IjobMrIt30"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Software Engineer I",
+          "subtitle": "Medtronic Digital Surgery . undefined",
+          "caption": "Oct 2024 - Present · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Back End Developer",
+          "subtitle": "Prep'd  . undefined",
+          "caption": "2023 - 2023 · ",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Prep'd is an AI-powered web application that provides job seekers with a comprehensive suite of resources to help them prepare for job interviews. It provides a 3D assistant that talks the user through behavioural interviews preparation, a code editor to tackle coding challenges, as well as a cover letter generator and enhancer tool. Users can track their progress over time, and read feedback provided by the AI to further improve.\n - Led data architecture, database design and endpoint implementation in a team of six\n - Collaborated on unit tests implementation using Supertest and Jest\n - Generated comprehensive endpoint documentation using Postman automation"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "subtitle": "Bob  . undefined",
+          "caption": "2023 - 2023 · ",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Bob is a web application designed to assist managers in scheduling employee shifts over a 28-day period. It allows users to customise the number of employees, shift types, and required shifts for each day. Bob then generates a schedule that ensures all shifts are covered, taking into account employees' well-being.\n - Designed and implemented a database using Postgres and Sequelize\n - Delivered responsive application using React, React Router and consistent custom CSS styling"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "subtitle": "Cafftime  . undefined",
+          "caption": "2023 - 2023 · ",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Cafftime is an app for anyone who loves coffee, tea, or other caffeinated beverages. With this app, you can track your caffeine intake and levels throughout the day using the built-in database of caffeinated drinks. \n\n - Refactored application from JavaScript to TypeScript\n - Implemented unit testing using Jest and SuperTest"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "481710",
+          "companyUrn": "urn:li:fsd_company:481710",
+          "companyLink1": "https://www.linkedin.com/company/st-georges-healthcare-nhs-trust/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFNqLcuHPxhzw/company-logo_400_400/company-logo_400_400/0/1663665565277/st_georges_healthcare_nhs_trust_logo?e=1785369600&v=beta&t=Fi6tLuNTcPNHgR9Kh4FVBjWLHM8fGo5TQsk8BZl-5DY",
+          "title": "St George's University Hospitals NHS Foundation Trust",
+          "subtitle": "Full-time · 6 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Anaesthetic Nurse",
+              "caption": "2019 - 2022 · 3 yrs",
+              "description": []
+            },
+            {
+              "title": "Theatre Nurse",
+              "caption": "2016 - 2019 · 3 yrs",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "React Testing Library and Jest",
+          "subtitle": "Udemy",
+          "issued": "Issued Jun 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "28602935",
+          "companyUrn": "urn:li:fsd_company:28602935",
+          "companyLink1": "https://www.linkedin.com/company/apollo-graphql/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG-VPku03PxCg/company-logo_200_200/B4EZoO1xPJJ0AI-/0/1761185567982/apollo_graphql_logo?e=1785369600&v=beta&t=UIbpVLg6C-WqGp_DWHy2tblnWBgw3HoiYoRu3XA_d-M",
+          "title": " Apollo Graph Associate Developer Certification",
+          "subtitle": "Apollo GraphQL",
+          "issued": "Issued Apr 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "81623052",
+          "companyUrn": "urn:li:fsd_company:81623052",
+          "companyLink1": "https://www.linkedin.com/company/codecademyschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG1D7t7RbfvBQ/company-logo_400_400/company-logo_400_400/0/1651731267365?e=1785369600&v=beta&t=-Tg1GwmiXL1yksQzTguyfIjjwjSh_nObQSKSUyWyfCI",
+          "title": "CSS: Accessibility Course",
+          "subtitle": "Codecademy",
+          "issued": "Issued Jan 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2696602",
+          "companyUrn": "urn:li:fsd_company:2696602",
+          "companyLink1": "https://www.linkedin.com/school/codecademy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH81kKlXtE0og/company-logo_400_400/company-logo_400_400/0/1720724787444/codecademy_logo?e=1785369600&v=beta&t=Fn7X8yAdAZPu1bIOUEeCU6NlXVJW1HQk2krwAddj-PE",
+          "title": "Learn CSS: Accessibility Course",
+          "subtitle": "Codecademy",
+          "issued": "Issued Jan 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "React - The Complete Guide 2024",
+          "subtitle": "Udemy",
+          "issued": "Issued Jan 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "The Complete Python Bootcamp",
+          "subtitle": "Udemy",
+          "issued": "Issued Jan 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "81623052",
+          "companyUrn": "urn:li:fsd_company:81623052",
+          "companyLink1": "https://www.linkedin.com/company/codecademyschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG1D7t7RbfvBQ/company-logo_400_400/company-logo_400_400/0/1651731267365?e=1785369600&v=beta&t=-Tg1GwmiXL1yksQzTguyfIjjwjSh_nObQSKSUyWyfCI",
+          "title": "Express Course",
+          "subtitle": "Codecademy",
+          "issued": "Issued Sep 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Typescript: The Complete Developer's Guide",
+          "subtitle": "Udemy",
+          "issued": "Issued Sep 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "81623052",
+          "companyUrn": "urn:li:fsd_company:81623052",
+          "companyLink1": "https://www.linkedin.com/company/codecademyschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG1D7t7RbfvBQ/company-logo_400_400/company-logo_400_400/0/1651731267365?e=1785369600&v=beta&t=-Tg1GwmiXL1yksQzTguyfIjjwjSh_nObQSKSUyWyfCI",
+          "title": "User Authentication & Authorization in Express",
+          "subtitle": "Codecademy",
+          "issued": "Issued Sep 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "81623052",
+          "companyUrn": "urn:li:fsd_company:81623052",
+          "companyLink1": "https://www.linkedin.com/company/codecademyschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG1D7t7RbfvBQ/company-logo_400_400/company-logo_400_400/0/1651731267365?e=1785369600&v=beta&t=-Tg1GwmiXL1yksQzTguyfIjjwjSh_nObQSKSUyWyfCI",
+          "title": "jQuery Course",
+          "subtitle": "Codecademy",
+          "issued": "Issued Jul 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "81623052",
+          "companyUrn": "urn:li:fsd_company:81623052",
+          "companyLink1": "https://www.linkedin.com/company/codecademyschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG1D7t7RbfvBQ/company-logo_400_400/company-logo_400_400/0/1651731267365?e=1785369600&v=beta&t=-Tg1GwmiXL1yksQzTguyfIjjwjSh_nObQSKSUyWyfCI",
+          "title": "CSS Course",
+          "subtitle": "Codecademy",
+          "issued": "Issued Jun 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "81623052",
+          "companyUrn": "urn:li:fsd_company:81623052",
+          "companyLink1": "https://www.linkedin.com/company/codecademyschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG1D7t7RbfvBQ/company-logo_400_400/company-logo_400_400/0/1651731267365?e=1785369600&v=beta&t=-Tg1GwmiXL1yksQzTguyfIjjwjSh_nObQSKSUyWyfCI",
+          "title": "HTML Course",
+          "subtitle": "Codecademy",
+          "issued": "Issued Jun 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "81623052",
+          "companyUrn": "urn:li:fsd_company:81623052",
+          "companyLink1": "https://www.linkedin.com/company/codecademyschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG1D7t7RbfvBQ/company-logo_400_400/company-logo_400_400/0/1651731267365?e=1785369600&v=beta&t=-Tg1GwmiXL1yksQzTguyfIjjwjSh_nObQSKSUyWyfCI",
+          "title": "JavaScript Course",
+          "subtitle": "Codecademy",
+          "issued": "Issued Apr 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "LFS101x: Introduction to Linux",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued May 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Bulgarian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Italian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Apollo GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Version Control",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Front-End Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Responsive Web Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Postman",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenAI API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tailwind CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Koa.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mongoose ODM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "10828054",
+          "companyUrn": "urn:li:fsd_company:10828054",
+          "companyLink1": "https://www.linkedin.com/school/codeworks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEeqwOfBzgWmg/company-logo_400_400/company-logo_400_400/0/1707845371229/codeworks_logo?e=1785369600&v=beta&t=YyQgkuPlvGWRmQfZltruHn93obTQOFVShc0JzBwS80M",
+          "title": "Codeworks",
+          "subtitle": "null, Immersive Software Engineering",
+          "caption": "2022 - 2023",
+          "subComponents": []
+        },
+        {
+          "companyId": "15093535",
+          "companyUrn": "urn:li:fsd_company:15093535",
+          "companyLink1": "https://www.linkedin.com/school/stgeorgesalumni/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN4l0LWyC3A/company-logo_100_100/B4EZVh9F53GYAQ-/0/1741105160852/stgeorgesalumni_logo?e=1785369600&v=beta&t=yN4BnhFaJNkuSvG2Nn_FlW_Ds1eUS-1bF4uddlAtTis",
+          "title": "Kingston University and St George's University of London",
+          "subtitle": " Anaesthetic Practice (Undergraduate module), Nursing Science",
+          "caption": "2019 - 2020",
+          "subComponents": []
+        },
+        {
+          "companyId": "15094447",
+          "companyUrn": "urn:li:fsd_company:15094447",
+          "companyLink1": "https://www.linkedin.com/school/seconda-universit%C3%A0-degli-studi-di-napoli/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGSB1bgR_R0ag/company-logo_400_400/company-logo_400_400/0/1631437984693/seconda_universit_degli_studi_di_napoli_logo?e=1785369600&v=beta&t=KZyUCbFY1Ab0wkLMGiBQe6REBCBSueWiaGLrrhyeTMc",
+          "title": "Seconda Università degli Studi di Napoli",
+          "subtitle": "Bachelor Of Science in Nursing, Nursing Science",
+          "caption": "2012 - 2015",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

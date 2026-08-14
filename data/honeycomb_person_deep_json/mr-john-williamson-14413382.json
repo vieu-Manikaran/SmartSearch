@@ -1,0 +1,128 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mr-john-williamson-14413382",
+  "row_key": "id:003Uk00000Pb9iJIAR",
+  "person": "John Williamson",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:09Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABF19AQBZPSUY1Dj-HN3ZNfeEW4xH3Y1CUw",
+      "firstName": "Mr. John",
+      "lastName": "Williamson",
+      "fullName": "Mr. John Williamson",
+      "publicIdentifier": "mr-john-williamson-14413382",
+      "headline": "retired",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Holmdel, New Jersey United States",
+      "addressWithoutCountry": "Holmdel, New Jersey",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQGtz224wE1nyQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1648557253613?e=1785369600&v=beta&t=HyXFJj-g9dNEq8o6jpNHOCxyx_xTaKfFYkPIpJnO-oM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGtz224wE1nyQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648557253613?e=1785369600&v=beta&t=5T6uHo-0iuyGDYwYr3X3_GhrJvsc0m9CB0gNAt7m-dA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGtz224wE1nyQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1648557253613?e=1785369600&v=beta&t=pCeYywLy4XpV88UFUcfvfZSxGXufHktGb8ZJsZo6W7g"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGtz224wE1nyQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1648557253613?e=1785369600&v=beta&t=gYWqLfyEpQFaU42xUnnzLymhE8gm5uhU8bGB4dH8Wso"
+        },
+        {
+          "width": 560,
+          "height": 560,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGtz224wE1nyQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1648557253613?e=1785369600&v=beta&t=HyXFJj-g9dNEq8o6jpNHOCxyx_xTaKfFYkPIpJnO-oM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "title": "retired",
+          "subtitle": "undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "253150",
+          "companyUrn": "urn:li:fsd_company:253150",
+          "companyLink1": "https://www.linkedin.com/company/saunatec-inc/",
+          "title": "Sales Specialist",
+          "subtitle": "Retired . undefined",
+          "caption": "2013 - Present · 13 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Sales Specialist",
+          "subtitle": "Medtronic . undefined",
+          "caption": "Jan 1985 - May 2013 · 28 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "52443",
+          "companyUrn": "urn:li:fsd_company:52443",
+          "companyLink1": "https://www.linkedin.com/school/monmouth-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGgL_t_3B9nww/company-logo_400_400/company-logo_400_400/0/1631313517833?e=1785369600&v=beta&t=OddGVPbivol9UgaJuvio08Fj3_NoitzJoQjYsvHYaFE",
+          "title": "Monmouth College",
+          "subtitle": "Bachelor of Science - BS, Business, Management, Marketing, and Related Support Services",
+          "caption": "1967 - 1971",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

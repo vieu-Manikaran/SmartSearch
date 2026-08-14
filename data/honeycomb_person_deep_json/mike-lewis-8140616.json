@@ -1,0 +1,86 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mike-lewis-8140616",
+  "row_key": "id:003Uk00000x1tDUIAY",
+  "person": "Mike Lewis",
+  "account": "Werner Enterprises, Inc.",
+  "fetched_at": "2026-07-14T10:47:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAETUVABMFtDUUTKk2JscEy3ULL0UatloYM",
+      "firstName": "Mike",
+      "lastName": "Lewis",
+      "fullName": "Mike Lewis",
+      "publicIdentifier": "mike-lewis-8140616",
+      "headline": "Asst Dir App Dev at Werner Enterprises",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Transportation/Trucking/Railroad",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Omaha, Nebraska United States",
+      "addressWithoutCountry": "Omaha, Nebraska",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "12586",
+          "companyUrn": "urn:li:fsd_company:12586",
+          "companyLink1": "https://www.linkedin.com/company/werner-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAK3LmTyMsrA/company-logo_400_400/company-logo_400_400/0/1737154595689/werner_enterprises_logo?e=1785369600&v=beta&t=20ZSiGgtgVf7Ay72nPY2zknfCOtqd4PtVORDmNYfGew",
+          "title": "Associate Director of Application Development",
+          "subtitle": "Werner Enterprises . undefined",
+          "caption": "Jan 1987 - Present · 39 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Transportation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "19471",
+          "companyUrn": "urn:li:fsd_company:19471",
+          "companyLink1": "https://www.linkedin.com/school/bellevue-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHZi3IMto8mRg/company-logo_400_400/company-logo_400_400/0/1720554526292/bellevue_university_logo?e=1785369600&v=beta&t=pIttvL8HGnG-5NtH-KGI8_TZEiZYe-yEsXio3ESfCGk",
+          "title": null,
+          "subtitle": "null, null",
+          "caption": "1988 - 1990",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

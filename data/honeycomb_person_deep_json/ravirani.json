@@ -1,0 +1,485 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ravirani",
+  "row_key": "id:0033l00002heMgvAAE",
+  "person": "Ravi Rani",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T10:52:04Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAChEygBOeZxK6z7s32_fGURttq2hr1ToL8",
+      "firstName": "Ravi",
+      "lastName": "Rani",
+      "fullName": "Ravi Rani",
+      "publicIdentifier": "ravirani",
+      "headline": "Engineering Leader @ Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQG7_bNbQjcVJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1548461165645?e=1785369600&v=beta&t=OBtBsmGx4Gc0RHmtJVTBzzxg-tCn1N-Fojp0DX9lfJo",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQG7_bNbQjcVJA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1548461165688?e=1785369600&v=beta&t=Q6xqv3vwv0Mm0RcX2Qj02iLEsUbjEuloEAF_ap2WEc0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQG7_bNbQjcVJA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1548461165662?e=1785369600&v=beta&t=96HZm3Lxouj0Dx1uMJmu1Q2gIDTTHKEmZJsPULEa0jE"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQG7_bNbQjcVJA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1548461166046?e=1785369600&v=beta&t=V9NLXoO3Jj-Mru-kmR288Fvs8lXdzaAi3pyt2Km4ww8"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQG7_bNbQjcVJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1548461165645?e=1785369600&v=beta&t=OBtBsmGx4Gc0RHmtJVTBzzxg-tCn1N-Fojp0DX9lfJo"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Head of Engineering, Financial Services & Loyalty",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Jun 2022 - Present · 3 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Engineering lead for Financial Services & Loyalty, which includes some of our fastest growing businesses driving crypto utility including Coinbase One subscription, Retail USDC, Staking, Borrow, Credit Card."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2320329",
+          "companyUrn": "urn:li:fsd_company:2320329",
+          "companyLink1": "https://www.linkedin.com/company/twitch-tv/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHbYCvrNGC17g/company-logo_400_400/company-logo_400_400/0/1695062101897/twitch_tv_logo?e=1785369600&v=beta&t=cKAE8tDxNimo8YCYByo7rh4z4ffRCxHa0HuJh77Y-74",
+          "title": "Twitch",
+          "subtitle": "Full-time · 5 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "VP of Engineering, Community Experiences",
+              "caption": "Jun 2021 - Jun 2022 · 1 yr",
+              "metadata": "San Francisco, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Led a full-stack org of 140+ to drive growth at Twitch. Responsible for end-to-end development of Creator, Viewer and Community features on our desktop, web and mobile clients."
+                }
+              ]
+            },
+            {
+              "title": "Co-Lead Mobile Gaming / Director of Engineering, Mobile Apps",
+              "caption": "Jun 2020 - Jun 2021 · 1 yr",
+              "metadata": "San Francisco, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Led product and engineering for a strategic strike team formed to build a mobile gaming community on Twitch. Partnered closely with go-to-market lead and local content teams in Brazil and Mexico to build a holistic roadmap. Regularly worked with the executive team to share our learnings and help shape our strategy.\n\n- Launched Twitch’s Mobile Game Broadcasting solution\n- Ran various experiments to help localize the experience (International pricing, content recommendations, partner apps)\n- Influenced video infra investments and their Emerging Markets strategy."
+                }
+              ]
+            },
+            {
+              "title": "Director of Engineering, Mobile & Living Room Apps",
+              "caption": "Feb 2019 - Jun 2020 · 1 yr 4 mos",
+              "metadata": "San Francisco, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Expanded scope to drive our Living Room strategy and led the teams responsible for building 10ft viewing experiences on consoles (Xbox, PS4, PS5), set-top boxes (Apple TV, Fire TV, Android TV) and smart TVs."
+                }
+              ]
+            },
+            {
+              "title": "Director of Engineering, Mobile Clients",
+              "caption": "Nov 2016 - Feb 2019 · 2 yrs 3 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Built from ground up (5 -> 55+) and led a centralized mobile group responsible for bringing the Twitch viewing experience to millions of users on iOS and Android devices.\n\nLed all the product verticals teams (Creator, Ads, Commerce, Viewer, Community) and the core team building the underlying mobile platform."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder & CEO",
+          "subtitle": "Luno Inc . Full-time",
+          "caption": "Jan 2015 - May 2016 · 1 yr 4 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Revolutionizing how employees find and access institutional knowledge.\n\nRaised funding from top tier investors, built a small team, and got various pilot customers onboard including companies like Lookout, Thumbtack, Airbnb, etc."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "167280",
+          "companyUrn": "urn:li:fsd_company:167280",
+          "companyLink1": "https://www.linkedin.com/company/eventbrite/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEFBnI1AAKzng/company-logo_100_100/B4EZVhFrV6G0AQ-/0/1741090633448/eventbrite_logo?e=1785369600&v=beta&t=DofPjeZ3yXNysSe3NBwr8Q418RFAW8BAP0JMhHDR2N4",
+          "title": "Eventbrite",
+          "subtitle": "undefined · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Manager",
+              "caption": "Nov 2013 - Dec 2014 · 1 yr 1 mo",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Led development of the Eventbrite iOS and Android apps. Was responsible for growing and scaling the mobile core team and training other engineers to do mobile development in the organization.\n\n- Laid out our mobile strategy and defined the product roadmap\n- Defined and implemented a plan to train engineers to be mobile devs\n- Worked closely with marketing team on user acquisition initiatives\n- Worked and managed remote team members.\n- Championed OKRs as a framework for goal setting."
+                }
+              ]
+            },
+            {
+              "title": "Principal Software Engineer (iOS)",
+              "caption": "Jul 2012 - Nov 2013 · 1 yr 4 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead engineer for Eventbrite’s consumer mobile apps.\n\n- Added search, recommendations, and other event discovery features \n- Designed and implemented push notifications support end to end\n- Significantly improved crash rates and regressions by adding UI automation and unit tests \n- Reduced development and ship cycle by implementing continuous integration\n- Mentored junior engineers and interns\n- Improved code quality by adding coding guidelines and review processes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "162479",
+          "companyUrn": "urn:li:fsd_company:162479",
+          "companyLink1": "https://www.linkedin.com/company/apple/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1785369600&v=beta&t=xz8wYn_JGZUgL6PQtn6EX3lObYNFAaPGx6TQOE92Wn0",
+          "title": "Apple Inc.",
+          "subtitle": "undefined · 5 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Tech Lead",
+              "caption": "Jan 2010 - Jul 2012 · 2 yrs 6 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Web Developer",
+              "caption": "Oct 2008 - Jan 2010 · 1 yr 3 mos",
+              "metadata": "Cupertino, CA",
+              "description": []
+            },
+            {
+              "title": "Web Developer",
+              "caption": "Jan 2007 - Oct 2008 · 1 yr 9 mos",
+              "metadata": "Cupertino, CA",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Developer Intern",
+          "subtitle": "Apple, Inc. . undefined",
+          "caption": "2005 - 2006 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marathi",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sindhi",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Swift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Designs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Start-ups",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Accessibility, ARIA tags",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C/C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cocoa",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3084",
+          "companyUrn": "urn:li:fsd_company:3084",
+          "companyLink1": "https://www.linkedin.com/school/university-of-southern-california/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_400_400/company-logo_400_400/0/1631312619853?e=1785369600&v=beta&t=zWfJ1v58TQvOjm199T1kdVgqH2jWvaJddCDQum_HpjY",
+          "title": "University of Southern California",
+          "subtitle": "MS, Computer Science",
+          "caption": "2005 - 2006",
+          "subComponents": []
+        },
+        {
+          "companyId": "2445691",
+          "companyUrn": "urn:li:fsd_company:2445691",
+          "companyLink1": "https://www.linkedin.com/school/pune-institute-of-computer-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFMx5qjAC9X-w/company-logo_400_400/company-logo_400_400/0/1661593836468/pune_institute_of_computer_technology_logo?e=1785369600&v=beta&t=M0sfNx_nupmVNGsyqyVIl7-QtQ-8PHEUnMGbi9dGWM0",
+          "title": null,
+          "subtitle": "B.E, Computer Engineering",
+          "caption": "2001 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Eventbrite app",
+          "subtitle": "Jan 2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Find local events, get tickets, and quickly access all of your Eventbrite tickets and event information from your iPhone. Discover music events, food and wine events, classes, conferences, free events and more. The world of events - right in the palm of your hand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Passbook Integration",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Added support for Eventbrite event tickets to be added in iOS 6 Passbook."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

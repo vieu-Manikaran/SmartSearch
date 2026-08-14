@@ -1,0 +1,367 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/matserlandsson",
+  "row_key": "id:003Uk00000zTpnKIAS",
+  "person": "Mats Erlandsson",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:47:07Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAOSlcBwwPWFVOCzPgb4myJ-fgxYvazkJA",
+      "firstName": "Mats",
+      "lastName": "Erlandsson",
+      "fullName": "Mats Erlandsson",
+      "publicIdentifier": "matserlandsson",
+      "headline": "Director Tech Delivery på ICA Sverige",
+      "about": "I have an IT background from many different positions and assignments, both as leader and in more operative positions.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Täby, Stockholm County Sweden",
+      "addressWithoutCountry": "Täby, Stockholm County",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQEn2NDkADIjZg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697441880593?e=1785369600&v=beta&t=vXOCZz39scwVxsKJrnaUDkmg88CUf7HAsJQba9kEzxU",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQGjmO2_Q7adfA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708074428198?e=1785369600&v=beta&t=QvqalnkjnwqY7XSHntxuDRMVSAakeo071U_yfc5z6Ts",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEn2NDkADIjZg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697441880593?e=1785369600&v=beta&t=FP-NjWXlT-kY6Ehx7Z2KHxgfUVnrUqAQbpkdWvOm9Yc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEn2NDkADIjZg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697441880593?e=1785369600&v=beta&t=29FPPi0nEDBsZb4RAvILC6TGPKJD7JKA85x1JGRggWE"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEn2NDkADIjZg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1697441880593?e=1785369600&v=beta&t=oyJ8Q8afKU7jMz8LX9v4W3Y7EUdRyuuIdmHYvcnHHPo"
+        },
+        {
+          "width": 444,
+          "height": 444,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEn2NDkADIjZg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697441880593?e=1785369600&v=beta&t=vXOCZz39scwVxsKJrnaUDkmg88CUf7HAsJQba9kEzxU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQGjmO2_Q7adfA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1708074428198?e=1785369600&v=beta&t=zJU3l-hoXoolAYL1FsDRCjjzk7sbF-2MtS_njLuCOns"
+        },
+        {
+          "width": 1372,
+          "height": 343,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQGjmO2_Q7adfA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708074428198?e=1785369600&v=beta&t=QvqalnkjnwqY7XSHntxuDRMVSAakeo071U_yfc5z6Ts"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "ICA Gruppen",
+          "subtitle": "Full-time · 12 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director Tech Delivery",
+              "caption": "Jun 2024 - Present · 1 yr 7 mos",
+              "metadata": "Solna, Stockholms län, Sverige",
+              "description": []
+            },
+            {
+              "title": "Head of Cross Functional Services",
+              "caption": "May 2018 - Jun 2024 · 6 yrs 1 mo",
+              "metadata": "Solna, Stockholms län, Sverige",
+              "description": []
+            },
+            {
+              "title": "Head of Infrastructure Services at ICA",
+              "caption": "Jan 2014 - May 2018 · 4 yrs 4 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Head of Tech Platforms",
+          "subtitle": "ICA Sverige . undefined",
+          "caption": "Jan 2024 - Jun 2024 · 5 mos",
+          "metadata": "Solan, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "ICA AB",
+          "subtitle": "undefined · 6 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Manager Integration & Mainframe Services",
+              "caption": "Jun 2012 - Jan 2014 · 1 yr 7 mos",
+              "metadata": "Sundbyberg",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In charge of the system integration at ICA IT Services"
+                }
+              ]
+            },
+            {
+              "title": "Integration Architect",
+              "caption": "Jan 2008 - Jun 2012 · 4 yrs 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for the integration architecture at ICA IT Services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "163195",
+          "companyUrn": "urn:li:fsd_company:163195",
+          "companyLink1": "https://www.linkedin.com/company/connecta/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFQ7kikt3ZC_w/company-logo_400_400/company-logo_400_400/0/1631361042236?e=1785369600&v=beta&t=gfPFX5z_M06flkO4r3CQT5qPB6487aPp7YQHv9nsfS4",
+          "title": "Consultant",
+          "subtitle": "Connecta . undefined",
+          "caption": "2004 - 2008 · 4 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Integration Architect and developer"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "20303",
+          "companyUrn": "urn:li:fsd_company:20303",
+          "companyLink1": "https://www.linkedin.com/company/magellogroup/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGaESy53P-4Sg/company-logo_100_100/B4DZm4sBbkGgAQ-/0/1759740172378/magellogroup_logo?e=1785369600&v=beta&t=Dj1zR9GYll6x0aYqWvPw8My2L8_i-fzHsUY3N81LAto",
+          "title": "Consultant",
+          "subtitle": "R2M . undefined",
+          "caption": "2001 - 2004 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developer"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Strategiska partnerskap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategi",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teknikhantering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Drift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital omvandling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lagledarskap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agila metoder",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tjänsteleverans",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kommunikation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Förändringsledning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Retail",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lecturing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WebSphere Application Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Enterprise Edition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "KTH/Nada Stockholm unv",
+          "subtitle": "Master, Mathematic and computer",
+          "caption": "Jan 1997 - Jan 2001",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

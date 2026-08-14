@@ -1,0 +1,487 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/seanhussey",
+  "row_key": "id:003Uk00000sgvSbIAI",
+  "person": "Sean Hussey",
+  "account": "Tripleseat",
+  "fetched_at": "2026-07-14T10:36:52Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAD-ZCoBRhiyPVKvFAEtKNs_hlmDhy1h8VQ",
+      "firstName": "Sean",
+      "lastName": "Hussey",
+      "fullName": "Sean Hussey",
+      "publicIdentifier": "seanhussey",
+      "headline": "Experienced Engineering Leader",
+      "about": "I'm an experienced software engineering leader with a background in systems architecture and web application development, specializing in Ruby on Rails. I strive to make my team happy and efficient while helping them to grow their careers.\n\nI've been a major co-organizer for 3 Boston-area technology conferences thus far: Wicked Good Ruby 2013 (https://tinyurl.com/wgr2013) and Constant Contact's second and third annual Engineers4Engineers conferences in 2014 (https://tinyurl.com/e4e2014) and 2015 (https://tinyurl.com/e4e2015). I also co-organize the Boston Ruby Group (https://www.meetup.com/bostonrb/).",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Automotive",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Medford, Massachusetts United States",
+      "addressWithoutCountry": "Medford, Massachusetts",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQHAtMQXCW0uJw/profile-displayphoto-crop_800_800/B4EZ6J_jzkKIAQ-/0/1780431602139?e=1785369600&v=beta&t=S64XJy1R-qvpEoi2MBwo6zB0UHFhxIzx-9PnhtI7B8A",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQHrYxdIHqUwgg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731595582197?e=1785369600&v=beta&t=wPB_FW08ZPIGktGpRYdwla6JzkRiyI_uG_tUSmQkgxg",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHAtMQXCW0uJw/profile-displayphoto-scale_200_200/B4EZ6J_jzkKIAk-/0/1780431602139?e=1785369600&v=beta&t=XkF06Iy2mhEpQQ4mSZ1B1TAsJ62jTJxHwjP_2-OwgY8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHAtMQXCW0uJw/profile-displayphoto-scale_400_400/B4EZ6J_jzkKIAo-/0/1780431602139?e=1785369600&v=beta&t=j4rzD_RbpWS2aKcL40Ag73l-L92JxiqCT91me_4XnJQ"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHAtMQXCW0uJw/profile-displayphoto-scale_100_100/B4EZ6J_jzkKIAg-/0/1780431602139?e=1785369600&v=beta&t=qZLHdq1L9WyJvApo8bcRaldeF3s11ACE9nmqGzf8yyA"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHAtMQXCW0uJw/profile-displayphoto-crop_800_800/B4EZ6J_jzkKIAQ-/0/1780431602139?e=1785369600&v=beta&t=S64XJy1R-qvpEoi2MBwo6zB0UHFhxIzx-9PnhtI7B8A"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQHrYxdIHqUwgg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1731595582197?e=1785369600&v=beta&t=l8fQSKkqLxnazsK3OOEPswFPOqyhnlk16TgovpMSsrA"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQHrYxdIHqUwgg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731595582197?e=1785369600&v=beta&t=wPB_FW08ZPIGktGpRYdwla6JzkRiyI_uG_tUSmQkgxg"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "222116",
+          "companyUrn": "urn:li:fsd_company:222116",
+          "companyLink1": "https://www.linkedin.com/company/tripleseat-software/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGNtUyDJWzg6A/company-logo_100_100/B56Z6Y3gqzKsAI-/0/1780681149317/tripleseat_software_logo?e=1785369600&v=beta&t=HlA0nz3oqE1zjLdhJb2rmx6Z-3rjYvSp6Xt6mR70R2I",
+          "title": "Tripleseat",
+          "subtitle": "Full-time · 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Director of Engineering",
+              "caption": "Jun 2026 - Present · ",
+              "metadata": "Concord, MA",
+              "description": []
+            },
+            {
+              "title": "Director of Engineering",
+              "caption": "Apr 2025 - Jun 2026 · 1 yr 2 mos",
+              "metadata": "Concord, MA",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Owner",
+          "subtitle": "SH Consulting . Full-time",
+          "caption": "Aug 2024 - Apr 2025 · 8 mos",
+          "metadata": "Greater Boston",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9477",
+          "companyUrn": "urn:li:fsd_company:9477",
+          "companyLink1": "https://www.linkedin.com/company/agero-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXoUn1WdPJOg/company-logo_200_200/B56Z882RabG4AE-/0/1783432288130/agero_inc__logo?e=1785369600&v=beta&t=Fvdec0wAz7eZ9Rzy_ebA5g7AFm6d1-HCOvbLxTkMsnc",
+          "title": "Agero, Inc.",
+          "subtitle": "Full-time · 4 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineering Manager",
+              "caption": "Mar 2023 - Aug 2024 · 1 yr 5 mos",
+              "metadata": "Greater Boston Area",
+              "description": []
+            },
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Jan 2020 - Apr 2023 · 3 yrs 3 mos",
+              "metadata": "Greater Boston Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5383",
+          "companyUrn": "urn:li:fsd_company:5383",
+          "companyLink1": "https://www.linkedin.com/company/skillsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEEQZ51JSF9Hg/company-logo_200_200/B56Zwjho9QJEAI-/0/1770122547348/skillsoft_logo?e=1785369600&v=beta&t=QbD-21RWwUiegqgr2GQnkFcxpwwgdPkd45waGs_KwkY",
+          "title": "Architect",
+          "subtitle": "Skillsoft . undefined",
+          "caption": "Apr 2018 - Jan 2020 · 1 yr 9 mos",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10927696",
+          "companyUrn": "urn:li:fsd_company:10927696",
+          "companyLink1": "https://www.linkedin.com/company/ampion-pbc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGI6FPrKgsZNg/company-logo_400_400/company-logo_400_400/0/1631041242970/ampion_llc_logo?e=1785369600&v=beta&t=5AlS4meG25ew3BSimcbTyEyo3ASAgE5sd0TdoZor9eg",
+          "title": "Principal Software Engineer",
+          "subtitle": "Ampion, Inc. . undefined",
+          "caption": "Sep 2017 - Apr 2018 · 7 mos",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1245865",
+          "companyUrn": "urn:li:fsd_company:1245865",
+          "companyLink1": "https://www.linkedin.com/company/fariaedu/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGM06dHRjPLlg/company-logo_400_400/B4EZmeu375IUAc-/0/1759304712317/fariaedu_logo?e=1785369600&v=beta&t=qyFDVXoE-dy4iO_jQGT14syaC13CqnQq-M7c9j-5k8U",
+          "title": "Principal Engineer and Software Engineering Manager",
+          "subtitle": "Faria Education Group . undefined",
+          "caption": "Apr 2017 - Aug 2017 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "60645",
+          "companyUrn": "urn:li:fsd_company:60645",
+          "companyLink1": "https://www.linkedin.com/company/one-door/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEE9vZCaElnHQ/company-logo_400_400/company-logo_400_400/0/1657028458661/one_door_logo?e=1785369600&v=beta&t=8KN6uSH1-4Eau60S6b-Opc9EQ5kkKMhUwm1N5Ccm79E",
+          "title": "RBM Technologies",
+          "subtitle": "undefined · 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Jan 2016 - Sep 2016 · 8 mos",
+              "metadata": "Greater Boston Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Directly managed 6 high-performing engineers, including performance reviews and career plans. Due to the matrix-model of management, each engineer was on a different project, requiring me to understand aspects of nearly every engineering effort in the company.\n\nLead developer on high-profile feature development and integration projects for clients such as AT&T,  T-Mobile, Optus Communications, and Cricket Wireless.\n\nCo-leader of our biweekly Engineering Improvement Day events with guided activities, knowledge sharing, presentations"
+                }
+              ]
+            },
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Nov 2015 - Jan 2016 · 2 mos",
+              "metadata": "Greater Boston Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "13156",
+          "companyUrn": "urn:li:fsd_company:13156",
+          "companyLink1": "https://www.linkedin.com/company/constant-contact/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGloQyc8grAog/company-logo_200_200/B4EZfGRUrJHcAQ-/0/1751378120452/constant_contact_logo?e=1785369600&v=beta&t=lwti5QVc1rXq_iLf_55vZ5T55RgmgYQddjgFsjWpicA",
+          "title": "Senior Software Engineer II",
+          "subtitle": "Constant Contact . undefined",
+          "caption": "Jul 2013 - Sep 2015 · 2 yrs 2 mos",
+          "metadata": "Waltham, Massachusetts",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As a member of the Galileo team, I developed the backend infrastructure and server applications that drive the development of Constant Contact's next generation editor.\n\nAs a member of the Contacts team, I led the team to reduce application response time, reduce CI run time, migrate the codebase from CyberArk to LDAP for service authentication, and adopt Scrum practices.\n\nAs a member of the Agile Working Group, I helped to guide the Product division's implementation of Scrum. This included choosing curriculum for training sessions, Scrum Master Community of Practice, and individual coaching."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Architect",
+          "subtitle": "Independent Consultant . undefined",
+          "caption": "Jan 1997 - Oct 2013 · 16 yrs 9 mos",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Feature development, review of legacy codebases, and efficiency improvements and upgrades for Constant Contact, Liveset.com, Tapology.com, FreeCause.com, and TakeTheInterview.com.\n\nDeveloped the first business-to-consumer Facebook application, Win A Prize, for IncFuel Corporation (now Wildfire Interactive, purchased by Google).\n\nProduced static and dynamic sites on a freelance and contract basis for clients such as Eastern Research Group, the CDC, The Annie E. Casey Foundation, Public Arts Resource & Research Scotland, ScottishPower Brand, Moe’s Southwest Grill, Liberty Mutual Insurance Group, GlobaLearn, GlobalWare Solutions, and SmarterLiving.com"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Architect, API and App Integrations",
+          "subtitle": "OfficeDrop . undefined",
+          "caption": "Mar 2012 - Oct 2012 · 7 mos",
+          "metadata": "Cambridge, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Reviewed API strategy and led team to develop a new web app designed to be a first-class consumer of the API. This allowed us to focus on the API as a single point of entry for all client applications (web, mobile, desktop) and third-party integrations."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "The OWASP API Security Top 10: An Overview",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Oct 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "11129112",
+          "companyUrn": "urn:li:fsd_company:11129112",
+          "companyLink1": "https://www.linkedin.com/company/thepeoplestack/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGzMqnPci36yQ/company-logo_400_400/company-logo_400_400/0/1631345467424?e=1785369600&v=beta&t=X5cEavF04jvBamqNh9-yH0tfa5cPJUKMap9csOLrIzM",
+          "title": "Leadership Academy",
+          "subtitle": "The People Stack",
+          "issued": "Issued Nov 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [
+        {
+          "title": "Boston Ruby Group",
+          "subtitle": "Co-organizer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Twilio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Direction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Back-End Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TDD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RSpec",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Backbone.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [
+        {
+          "title": "Volunteer",
+          "subtitle": "Friends of the Medford Family Network",
+          "caption": "Jun 2011 - May 2015 · 3 yrs 11 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/kolanupaka-siddardha",
+  "row_key": "id:003Uk00000Pb4YmIAJ",
+  "person": "Siddardha Kolanupaka",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABUh980Bcfgr0nUHMKs-kEv8DQkoUQiS0Ds",
+      "firstName": "Siddardha",
+      "lastName": "Kolanupaka",
+      "fullName": "Siddardha Kolanupaka",
+      "publicIdentifier": "kolanupaka-siddardha",
+      "headline": "AWS Enthusiast | React | Next | Node.js | Python | Following DevOps Principles | Memories | Lyka",
+      "about": "Software Engineer with more than 5 years experience in JavaScript / Typescript (React, Next,  Node.js and React Native), Flutter, Python, HTML/HTML5, CSS/SCSS, MySQL, MongoDB, Firebase, Postgres and AWS.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Melbourne, Victoria Australia",
+      "addressWithoutCountry": "Melbourne, Victoria",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQH8IbpI4xsXmw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1684238716210?e=1785369600&v=beta&t=YmArL2SC1YQiy2TeqrqAQ2fk9W59AT63Cn9avQXakgA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH8IbpI4xsXmw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684238716210?e=1785369600&v=beta&t=0sUVpiEawnN67-Nv6RjsPiXYzqe4F0vxzoDOlrkn8hE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH8IbpI4xsXmw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684238716210?e=1785369600&v=beta&t=kqmPNvDiB3cC7VCj8x_lSVMidTVOH-hZXDktajU5jhg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH8IbpI4xsXmw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1684238716210?e=1785369600&v=beta&t=ecw8RNa6x78dD2A7ZyNjM2nNIAPYi62z9_26dJHkoIE"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH8IbpI4xsXmw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1684238716210?e=1785369600&v=beta&t=YmArL2SC1YQiy2TeqrqAQ2fk9W59AT63Cn9avQXakgA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Feb 2024 - Present · 1 yr 11 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "31487214",
+          "companyUrn": "urn:li:fsd_company:31487214",
+          "companyLink1": "https://www.linkedin.com/company/memorieslabs/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGGrT4jDQ9A_w/company-logo_200_200/B56ZzuasIZJYAI-/0/1773526500909/memorieslabs_logo?e=1785369600&v=beta&t=oP8i5bp-_6f2PJqV_6IBZDleQc9hLkfdDwNXvWFS2QA",
+          "title": "Full Stack Engineer",
+          "subtitle": "Memories Group Limited . Full-time",
+          "caption": "Aug 2022 - Feb 2024 · 1 yr 6 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4326",
+          "companyUrn": "urn:li:fsd_company:4326",
+          "companyLink1": "https://www.linkedin.com/company/hertz/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGvW4NK0NkD8Q/company-logo_100_100/B56ZWV_LpGHoAQ-/0/1741978123215/hertz_logo?e=1785369600&v=beta&t=SBY03Wyzshm-dmURXCkws8VC4n4r1Zp6DIioZNZ4s5M",
+          "title": "Software Engineer",
+          "subtitle": "Hertz . Full-time",
+          "caption": "Jun 2019 - Aug 2022 · 3 yrs 2 mos",
+          "metadata": "Melbourne, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Front-end: React, Redux, Material UI\nBack-end: Node.JS, Python\nMobile: Flutter"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3067",
+          "companyUrn": "urn:li:fsd_company:3067",
+          "companyLink1": "https://www.linkedin.com/company/tech-mahindra/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMdgkjmsLgLw/company-logo_100_100/B56ZoVGk2tHIAQ-/0/1761290641122/tech_mahindra_logo?e=1785369600&v=beta&t=D3f_miaPUqfOyUXn9KZoXsTIeiXktRb54pXEaFm-ZFg",
+          "title": "Software Developer",
+          "subtitle": "Tech Mahindra . Contract",
+          "caption": "May 2021 - Sep 2021 · 4 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Gada Technology Pty Ltd . Full-time",
+          "caption": "Jan 2019 - Jun 2019 · 5 mos",
+          "metadata": "Greater Melbourne Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Writing Automation Test Scripts in Puppeteer \nInvolved in developing framework (Gennyteer) using Puppeteer \nInvolved in improving the Front-End using React.\nMaintained Test Cases using Jenkins.\nConfigured Jenkins to the existing product.\nWritten Dockerfiles for the existing applications."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "97929507",
+          "companyUrn": "urn:li:fsd_company:97929507",
+          "companyLink1": "https://www.linkedin.com/company/robomindstem/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF2BBXxREIjsA/company-logo_400_400/company-logo_400_400/0/1697787475294/robomindstem_logo?e=1785369600&v=beta&t=WO39XKBHdS9KeJM3xZr28CUnvfpsSjHNcrocrjXlfeQ",
+          "title": "Software Engineer",
+          "subtitle": "RoboMinds . Full-time",
+          "caption": "Apr 2017 - Dec 2017 · 8 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Involved in Development Robominds web application using React and Node.js\nEstablished code pipeline using Jenkins.\nAutomating tasks using Automation Anywhere"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1025",
+          "companyUrn": "urn:li:fsd_company:1025",
+          "companyLink1": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_200_200/B4EZdkxlEZH0AM-/0/1749742408362/hewlett_packard_enterprise_logo?e=1785369600&v=beta&t=F33cZtdJfo2M1gOUbcpsI66QY4mJ16GyH5FTtiKT0wI",
+          "title": "Junior Developer",
+          "subtitle": "Hewlett Packard Enterprise . Part-time",
+          "caption": "Apr 2016 - Jun 2016 · 2 mos",
+          "metadata": "Hyderabad Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": " Docker for the Absolute Beginner - Hands On - DevOps",
+          "subtitle": "Udemy",
+          "issued": "Issued Sep 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1706756",
+          "companyUrn": "urn:li:fsd_company:1706756",
+          "companyLink1": "https://www.linkedin.com/company/internshala/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFi4GG2XwFHqQ/company-logo_400_400/company-logo_400_400/0/1630487078763/internshala_logo?e=1785369600&v=beta&t=ogE80psX3LPxycd3dOc3n2_4wFBTs9apjUgkKqeTRos",
+          "title": "VTC Online Training on Web Development",
+          "subtitle": "Internshala",
+          "issued": "Issued Jun 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "MCPS: Microsoft Certified Professional",
+          "subtitle": "Microsoft",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Honor Code Certificate for  Introduction to Programming with Java - Part 1: Starting to Code with Java.",
+          "subtitle": "edX",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telugu",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Aws cdk",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Serverless Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "auth0",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apollo GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Next.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Technologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "11710",
+          "companyUrn": "urn:li:fsd_company:11710",
+          "companyLink1": "https://www.linkedin.com/school/deakin-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQF6gLLzLAOGoA/company-logo_400_400/company-logo_400_400/0/1631343032488?e=1785369600&v=beta&t=xGotY-K1Tcwr4bAT76YqL-l5agN2fMBJeUM5gSa9Da8",
+          "title": "Deakin University",
+          "subtitle": "masters, Information Technology",
+          "caption": "2017 - 2019",
+          "subComponents": []
+        },
+        {
+          "companyId": "689467",
+          "companyUrn": "urn:li:fsd_company:689467",
+          "companyLink1": "https://www.linkedin.com/school/gitam-deemed-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzPn443KHOew/company-logo_400_400/company-logo_400_400/0/1729839969977/gitam_deemed_university_logo?e=1785369600&v=beta&t=K3ekHoZSGXdKRwP44gQYr478hpT1eWbmKEYDLuKG-B0",
+          "title": "Gandhi Institute of Technology & Management (GITAM) University, Visakhapatnam",
+          "subtitle": "Bachelor of Technology (B.Tech.), Member of Computer Society of India (CSI)",
+          "caption": "2013 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "CGPA-9.06"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Bachelor of Technology (B.Tech.), Computer Science Engineering.\n"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "MobileStore",
+          "subtitle": "May 2016 - May 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "E-commerce Website Mobile Store using HTML/Bootstrap, CSS, PHP, Database-MySql"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "COVID19 React Dashboard",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "React Project displays COVID19 world data"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

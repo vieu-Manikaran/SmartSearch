@@ -1,0 +1,442 @@
+{
+  "linkedin_url": "https://pl.linkedin.com/in/wmalinowski",
+  "row_key": "id:003Uk00000ypyixIAA",
+  "person": "Wojciech Malinowski",
+  "account": "Midjourney",
+  "fetched_at": "2026-07-14T10:21:27Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADUhOkBTOSaaUMxIroQr34EIcye7o_r-_4",
+      "firstName": "Wojciech",
+      "lastName": "Malinowski",
+      "fullName": "Wojciech Malinowski",
+      "publicIdentifier": "wmalinowski",
+      "headline": "I lead engineering teams that deliver",
+      "about": "I lead engineering teams that deliver.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Poland",
+      "addressWithCountry": "Cracow, Małopolskie Poland",
+      "addressWithoutCountry": "Cracow, Małopolskie",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGfDe0nRlrHBw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679585287402?e=1785369600&v=beta&t=OpoJ0sxO7J84oRSE4tJVQvBERcbLDqI9sEl8wbpKH-k",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQEBlTGrq_Zv3Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727718664612?e=1785369600&v=beta&t=7P8cV-DEQ-JKvOrW-Wv65WU9ed8l0o1z4mngUZVc8dI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGfDe0nRlrHBw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1679585287402?e=1785369600&v=beta&t=l6bMmx6NQfWWhvMoCCT--l_1GAZdmpIpONlGPKtgi4U"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGfDe0nRlrHBw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1679585287402?e=1785369600&v=beta&t=kHOQehQSZMGBjsREcsS0igq2ZrSB8tV2AejJ3dRzECs"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGfDe0nRlrHBw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1679585287402?e=1785369600&v=beta&t=mM6ZvxbiDlkt0EmlygBcS7CIPq7AycITiu7ligzY1bs"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGfDe0nRlrHBw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679585287402?e=1785369600&v=beta&t=OpoJ0sxO7J84oRSE4tJVQvBERcbLDqI9sEl8wbpKH-k"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQEBlTGrq_Zv3Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727718664612?e=1785369600&v=beta&t=pAQ6E8QLLVz8Slk2qBO4UPRvY6Kfi0-g1gVnihxGL2A"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQEBlTGrq_Zv3Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727718664612?e=1785369600&v=beta&t=7P8cV-DEQ-JKvOrW-Wv65WU9ed8l0o1z4mngUZVc8dI"
+        }
+      ],
+      "experiences": [
+        {
+          "title": "Independent Consultant / Lead Engineer",
+          "subtitle": "Self-employed",
+          "caption": "Feb 2023 - Present · 2 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- long-term front-end development for a large US e-commerce retailer, focusing on web performance, accessibility, and conversion rate improvements across the store\n- designed and implemented early versions of an automation solution in the education space to reduce manual, creative work\n- consultant for a small iGaming technology company: took over day-to-day organisational responsibilities from the founder (communicating with clients, coordinating developers, structuring work and priorities)\n- ongoing work on own product ideas and prototypes, and active learning in modern AI, MLOps and video communication technologies"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "27060401",
+          "companyUrn": "urn:li:fsd_company:27060401",
+          "companyLink1": "https://www.linkedin.com/company/kevin2018/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHd2VpMmd0FXw/company-logo_200_200/B4DZ5FaXv2JYAE-/0/1779281001729?e=1785369600&v=beta&t=Se2B_XQT8O4Hbjg7AmSscE5cti--BfWqiUsNUdm4wwk",
+          "title": "Engineering Team Lead",
+          "subtitle": "kevin. . Full-time",
+          "caption": "Jun 2022 - Jan 2023 · 7 mos",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- led the engineering Open Banking team, helped scaling it to 4 separate teams and made plans of scaling it to a significantly bigger organization\n- improved the clarity of priorities inside the team\n- started managing the tech debt and improving engineering practices\n- shared knowledge with engineers and other engineering leads\n- my team got an annual award for best performance"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1309698",
+          "companyUrn": "urn:li:fsd_company:1309698",
+          "companyLink1": "https://www.linkedin.com/company/shoprunner/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEFJuuPtWio9Q/company-logo_400_400/company-logo_400_400/0/1666111427872/shoprunner_logo?e=1785369600&v=beta&t=Me0grbXUWMAVNrzyRZe9HRSsdaljV5xYTdmL3F-PxX0",
+          "title": "ShopRunner",
+          "subtitle": "undefined · 3 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director Of Engineering, Kraków Site Lead",
+              "caption": "May 2021 - May 2022 · 1 yr",
+              "metadata": "Cracow, Małopolskie, Poland",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- ownership of all technological aspects of an eCommerce marketplace solution\n- leading a group of 3-4 Engineering Managers and their teams\n- managing in an environment with a high level of volatility, uncertainty and ambiguity resulting from the company acquisition"
+                }
+              ]
+            },
+            {
+              "title": "Senior Engineering Manager",
+              "caption": "Apr 2019 - May 2021 · 2 yrs 1 mo",
+              "metadata": "Cracow, Małopolskie, Poland",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- building and leading a new team of 8 Software Engineers\n- building a new eCommerce SaaS solution from the ideation to the first customers stage using lean and agile concepts\n- facilitating the tech decisions to optimise both time-to-market and the scalability of solutions\n- mentoring a number of people through an internal mentoring program"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "228364",
+          "companyUrn": "urn:li:fsd_company:228364",
+          "companyLink1": "https://www.linkedin.com/company/dreamlab-pl/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEfUk2tld2Xyw/company-logo_400_400/company-logo_400_400/0/1630603062398/dreamlab_pl_logo?e=1785369600&v=beta&t=t3452Xgf44f-_pIO9HfxBv7_EtEHSaF4KN_8nR4csMo",
+          "title": "DreamLab",
+          "subtitle": "undefined · 4 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Development Manager",
+              "caption": "Apr 2016 - Dec 2018 · 2 yrs 8 mos",
+              "metadata": "Cracow, Lesser Poland District, Poland",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- leading 3-4 teams of software developers and administrators (13 to 25 people)\n- building an engaging environment based on authonomy, mastery & purpose\n- coaching and mentoring the engineers on their career paths\n- providing them with a timely feedback and encouraging a feedback culture\n- teaching how to bring more value to business through lean methods\n- experimenting with Management 3.0 techniques"
+                }
+              ]
+            },
+            {
+              "title": "Senior Developer",
+              "caption": "Apr 2014 - Mar 2016 · 1 yr 11 mos",
+              "metadata": "Cracow, Lesser Poland District, Poland",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- developing various elements of the internal CMS system (Python & Node.js microservices, Postgres, Cassandra, Redis, RabbitMQ, SOLR, Qt, Angular)\n- active participation in a program of replacing SVN with git and introducing a modern Continuous Integration system and workflow\n- greatly lowered the technical debt of all components I worked on\n- representing the company on conferences and other events"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CTO, VP",
+          "subtitle": "Weblink Software Sp. z o.o. . undefined",
+          "caption": "Jun 2007 - Mar 2014 · 6 yrs 9 mos",
+          "metadata": "Sosnowiec, Silesian District, Poland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- managing all the operations since the company creation (from 3 to almost 30 employees)\n- business development\n- hiring of both technical and non-technical staff\n- leading all technical efforts and internal improvement initiatives\n- created a vision for an internal software framework and technical excellence standards for creating it\n- writing technical and functional specifications\n- hands-on experience in delivering a variety of software products: management systems, educational systems, social networks, e-commerce, etc (technologies: Python 2&3, Postgres, JavaScript, C++, Qt, AWS, iOS, Android and countless other)\n- server administration (Linux, WHM & cPanel, DNS & mail)"
+              }
+            }
+          ]
+        },
+        {
+          "title": "CTO",
+          "subtitle": "Weblink Software Ltd . undefined",
+          "caption": "Apr 2006 - May 2008 · 2 yrs 1 mo",
+          "metadata": "Dublin, Leinster, Ireland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Started as a developer, quickly became a development lead and after some time the CTO.\nResponsibilities:\n- leading a team of 3-6 on-site developers (hiring, technical guidance, creating a meritocratic environment)\n- selecting and cooperating with remote freelancers\n- developing management systems in Oracle APEX, PL\\SQL, Python, Java, PHP\n- server administration (Linux, Apache, Oracle)\n- attending sales meetings"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "23399",
+          "companyUrn": "urn:li:fsd_company:23399",
+          "companyLink1": "https://www.linkedin.com/company/kamsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGIY4HJSWPvoA/company-logo_400_400/B4DZWPSH4IHkAc-/0/1741865647999/kamsoft_logo?e=1785369600&v=beta&t=vA5sz4hQGIMsN3Wvx_QRLGqBMFB_rMPhEmC9OJgC874",
+          "title": "Software Developer & Tester",
+          "subtitle": "KAMSOFT . undefined",
+          "caption": "Feb 2005 - Oct 2005 · 8 mos",
+          "metadata": "Katowice, Silesian District, Poland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Testing and later also developing ERP and CRM systems (Oracle PL\\SQL, Java, Delphi)"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Establishing Processes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Requirements",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mentoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lean Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15098232",
+          "companyUrn": "urn:li:fsd_company:15098232",
+          "companyLink1": "https://www.linkedin.com/school/uniwersytet-%C5%9Bl%C4%85ski-w-katowicach/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHzXErWcjh77Q/company-logo_400_400/company-logo_400_400/0/1630640767574/uniwersytet_lski_w_katowicach_logo?e=1785369600&v=beta&t=nSpCh6hz7UCCD7ZZAnG5e61nA1aTC0EKd89FDgRWkmM",
+          "title": null,
+          "subtitle": "null, Information Technology",
+          "caption": "2001 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "17969601",
+          "companyUrn": "urn:li:fsd_company:17969601",
+          "companyLink1": "https://www.linkedin.com/company/tech-leaders/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGOAPzvWm40bA/company-logo_400_400/company-logo_400_400/0/1736243116295/tech_leaders_logo?e=1785369600&v=beta&t=NXuvSlJvhhEQ8qrRv7lZm6XEEvF7Jlb6PnJohfWxglQ",
+          "title": "Mentor",
+          "subtitle": "Tech Leaders",
+          "caption": "Jan 2020 - May 2021 · 1 yr 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10479079",
+          "companyUrn": "urn:li:fsd_company:10479079",
+          "companyLink1": "https://www.linkedin.com/company/un2020/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE63qr8FcivEQ/company-logo_400_400/company-logo_400_400/0/1630499432304/unconf_logo?e=1785369600&v=beta&t=iN8hxHxVCLco6PU9WDu1m27RjIMVnmRUzu3GoPKBiTI",
+          "title": "Co Organizer",
+          "subtitle": "Unconf",
+          "caption": "Jan 2017 - Jun 2018 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

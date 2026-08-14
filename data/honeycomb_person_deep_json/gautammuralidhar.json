@@ -1,0 +1,406 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/gautammuralidhar",
+  "row_key": "id:003Uk000003kf03IAA",
+  "person": "Gautam Muralidhar",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:15Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADF-0EBSLtMScXeqmK8lPNX89HpwWiqzB0",
+      "firstName": "Gautam",
+      "lastName": "Muralidhar",
+      "fullName": "Gautam Muralidhar",
+      "publicIdentifier": "gautammuralidhar",
+      "headline": "Director of Engineering at Epic Games",
+      "about": "I'm a passionate gamer who lives to create games that leave players happy, and I also love to solve problems. The goal is to build meaningful products with a focus on user experience, and strive to be an asset to any team. My work in the video game industry has spanned across different platforms (PC, Mobile) and all parts of the development pipeline from inception to production",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Entertainment",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Coppell, Texas United States",
+      "addressWithoutCountry": "Coppell, Texas",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHJ6UvppgiiiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651785966514?e=1785369600&v=beta&t=LaVVitGyC71zLP-dnZWoUboZkn1tVwPu87UC3gyWXHs",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQEaqtp3xHWNrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1651785747066?e=1785369600&v=beta&t=MxegXCUL4sBKGzlgml46nQhBOy0BEFNXgpWcuY0tdeE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHJ6UvppgiiiA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1651785966514?e=1785369600&v=beta&t=klh4a3Lui_8eCakN7iRCJH83IWnTWMUCkHQkBs8Rrs8"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHJ6UvppgiiiA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1651785966514?e=1785369600&v=beta&t=jY-iZQ7VBswR04qcl0lUSpNh50VQoTW2R0BxRveRMdY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHJ6UvppgiiiA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1651785966514?e=1785369600&v=beta&t=smYDsaAAaJMaHlo0b5tpIuu2ltg2UtgJcWwoPK1cNC4"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHJ6UvppgiiiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651785966514?e=1785369600&v=beta&t=LaVVitGyC71zLP-dnZWoUboZkn1tVwPu87UC3gyWXHs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQEaqtp3xHWNrw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1651785747066?e=1785369600&v=beta&t=G07khvRQQGSLK4fGnN6GZp1e2ppfvRHVYtEvvsecyFI"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQEaqtp3xHWNrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1651785747066?e=1785369600&v=beta&t=MxegXCUL4sBKGzlgml46nQhBOy0BEFNXgpWcuY0tdeE"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering",
+              "caption": "Nov 2025 - Present · 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Director of Engineering focusing Fortnite's Core Tech Pillars\nPerfMem - Performance and Memory for Fortnite's Live Service for our internal 1st party games\nPlatforms - Supporting deployment on all supported platforms Fortnite ships on (PC, Console, Mobile, Handhelds and Pixel Streaming)\nBuild Operations - Holistic oversight of Fortnite's overall build systems, CI/CD, artifact generation, build health.\nGame Foundation - Growing our adoption of UEFN technology to service our internal 1st party games."
+                }
+              ]
+            },
+            {
+              "title": "Engineering Director",
+              "caption": "Apr 2022 - Nov 2025 · 3 yrs 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead the world building and persistence engineering teams and helped ship Lego: Odyssey in the Fortnite Ecosystem \nLead the overall engineering crew responsible for Lego: Brick Life in Fortnite, bringing social role play as a genre into the ecosystem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1449",
+          "companyUrn": "urn:li:fsd_company:1449",
+          "companyLink1": "https://www.linkedin.com/company/electronic-arts/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGQxdnYoe0DZQ/company-logo_400_400/B4EZVJmsPmGgAc-/0/1740696634652/electronic_arts_logo?e=1785369600&v=beta&t=Vysjki7_yjnxMxWsodLVvbpGjQ0REdhOpa_7Nbcc8CI",
+          "title": "Electronic Arts (EA)",
+          "subtitle": "Full-time · 10 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Director",
+              "caption": "Jun 2020 - Apr 2022 · 1 yr 10 mos",
+              "description": []
+            },
+            {
+              "title": "Lead Gameplay Engineer",
+              "caption": "Nov 2017 - Jun 2020 · 2 yrs 7 mos",
+              "metadata": "Redwood City, California",
+              "description": []
+            },
+            {
+              "title": "Sr. Software Engineer",
+              "caption": "Jun 2017 - Nov 2017 · 5 mos",
+              "metadata": "Redwood Shores. California",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked on AI behaviors and Locomotion on cancelled Star Wars project"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer III",
+              "caption": "May 2013 - Jun 2017 · 4 yrs 1 mo",
+              "metadata": "Los Angeles, California",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Shipped Games\n1. Battlefield 4 and several expansion packs\n2. Battlefield 1"
+                }
+              ]
+            },
+            {
+              "title": "Gameplay / AI Engineer",
+              "caption": "Jun 2011 - May 2013 · 1 yr 11 mos",
+              "metadata": "Los Angeles",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Shipped Games:\nMedal Of Honor: Warfighter (October 2012)\nArmy of Two: Devils Cartel (March 2013)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "620857",
+          "companyUrn": "urn:li:fsd_company:620857",
+          "companyLink1": "https://www.linkedin.com/company/code-particle-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFtJM8bw_-0ew/company-logo_400_400/company-logo_400_400/0/1630565850581/code_particle_inc_logo?e=1785369600&v=beta&t=YMJGDTJT9RzUfSJ9ciI1RMheITmioqaopz6feERVfxs",
+          "title": "Senior Developer",
+          "subtitle": "Code Particle Inc . undefined",
+          "caption": "Oct 2010 - Jun 2011 · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Games Programmer Level 2",
+          "subtitle": "Blind Wink Games . undefined",
+          "caption": "Aug 2009 - Jan 2011 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Prototyping new concepts designed in-house. Responsibilities\nincluded implementation of new systems and evaluating new techniques to\nachieve designers requirements. Work very closely with designers and artists\nto implement gameplay features. Writing technical design documents for\ngameplay features. Evaluating new middle-ware and engines. Rapid\nprototyping of concepts."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "12306",
+          "companyUrn": "urn:li:fsd_company:12306",
+          "companyLink1": "https://www.linkedin.com/company/point-of-view/",
+          "title": "Programmer",
+          "subtitle": "Point of View . undefined",
+          "caption": "Dec 2007 - Aug 2009 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on a multiplatform next-gen game.\nShipped Damnation (Codemasters) for the PS3, Xbox360 and PC\nExperience includes working on multiple systems for the title. Core exposure includes Unreal Engine 3, Kynapse AI, Gamespy and the PS3 tool chain."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4842",
+          "companyUrn": "urn:li:fsd_company:4842",
+          "companyLink1": "https://www.linkedin.com/company/thq/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEQJwhLoFoIpw/company-logo_400_400/company-logo_400_400/0/1631305881995?e=1785369600&v=beta&t=b12LdkagdypxmWupr9zJYbS8TZe-w23dDpqOfzhFxJU",
+          "title": "Games Programmer",
+          "subtitle": "THQ Inc . undefined",
+          "caption": "Nov 2006 - Dec 2007 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on port titles from the Xbox-360 to the PS3.\nWorked on multiple title ports.\n1. Saints Row port from XBOX 360 to PS3.\n    This project was then canceled\n2. Stunt Man Ignition from XBOX 360 to PS3.\n    This product shipped September 2007.\n3. Saints Row 2 port from XBOX 360 to PS3.\n    Uncredited on this project.\n\nShipped Titles @ THQ Inc.\nStuntman Ignition for the PS3."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "NDS . undefined",
+          "caption": "May 2006 - Oct 2006 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on deploying games on low profile hardware like set top boxes. Wrote a efficient raycaster engine to make games similar to Doom and Wolf 3D. Came up with various game designs for the set-top box environment."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "VBeing India Ltd . undefined",
+          "caption": "Dec 2005 - May 2006 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked at Vbeing as a games programmer. At VBeing we were in the process of building a platform independent game engine. I worked on the sound engine and created platform independent sound interfaces for the engine. The in-house engine had the capability to use these interfaces to latch onto a variety of sounds libraries including OpenAl and direct sound."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Game Tester",
+          "subtitle": "RelQ . undefined",
+          "caption": "Apr 2003 - Oct 2003 · 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Gameplay Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox 360",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unreal Engine 3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gameplay",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Online Gaming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "3D",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Engines",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-platform Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166641",
+          "companyUrn": "urn:li:fsd_company:166641",
+          "companyLink1": "https://www.linkedin.com/school/university-of-hull/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGLfMu3QRtXEQ/company-logo_200_200/B4EZfE9_5CHwAM-/0/1751356277030/university_of_hull_logo?e=1785369600&v=beta&t=thRkkx1zilMmkiMULyJnbLK5KnLxG9PvZddbis-K3zA",
+          "title": "The University of Hull",
+          "subtitle": "Masters, Computer Game Programming",
+          "caption": "2004 - 2005",
+          "subComponents": []
+        },
+        {
+          "companyId": "15115108",
+          "companyUrn": "urn:li:fsd_company:15115108",
+          "companyLink1": "https://www.linkedin.com/school/christ-university-bangalore/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQENS8jNjdELYQ/company-logo_400_400/company-logo_400_400/0/1657915737039?e=1785369600&v=beta&t=RsPNIt8JbTIuO9TbcwDUGNlhetMwJPZq2VedOMsTSSk",
+          "title": null,
+          "subtitle": "BCA, Represented the college during the three years of my course in the following competitions.\nMAD-Ads, Quizes, Programming, Debates, Presentations and various other co-curricular activites.",
+          "caption": "2000 - 2003",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

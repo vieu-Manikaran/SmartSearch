@@ -1,0 +1,208 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/chenyuzhao",
+  "row_key": "id:003Uk000012USTRIA4",
+  "person": "Chenyu Zhao",
+  "account": "Fireworks AI",
+  "fetched_at": "2026-07-14T10:36:15Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAcOKcwB6Yl6feTG_6LSTrDL1YOutdZMIqU",
+      "firstName": "Chenyu",
+      "lastName": "Zhao",
+      "fullName": "Chenyu Zhao",
+      "publicIdentifier": "chenyuzhao",
+      "headline": "doing interesting things",
+      "about": "@recruiters/HMs: if the person on camera doesn't look like a hamster, it's not me!",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United States",
+      "addressWithoutCountry": "United States",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEzUighOFGVMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678387080591?e=1785369600&v=beta&t=TrxaP2IQgdebqdtcggPkMbOeo6bXwqxK86OaDfi44AY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEzUighOFGVMg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678387080591?e=1785369600&v=beta&t=WuHDeucP5lytdWzgSCsu5dEtT1tSGry4wr5jFQkk9YU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEzUighOFGVMg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1678387080591?e=1785369600&v=beta&t=RwlG6_VJAtGEc4XfNkXMsYbP-4aENxRYxMGUZIT63JI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEzUighOFGVMg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678387080591?e=1785369600&v=beta&t=Jw_xL9UoAbN_YaWajI_bkQSZ4LHI37g1KVPO9rfkMfo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEzUighOFGVMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678387080591?e=1785369600&v=beta&t=TrxaP2IQgdebqdtcggPkMbOeo6bXwqxK86OaDfi44AY"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "91174981",
+          "companyUrn": "urn:li:fsd_company:91174981",
+          "companyLink1": "https://www.linkedin.com/company/fireworks-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBD0h39SCyLw/company-logo_400_400/company-logo_400_400/0/1711133682942/fireworks_ai_logo?e=1785369600&v=beta&t=CThoZGybDlkdOYbemJ_CeRFc5lBpwo5JuLmMa0DIY4M",
+          "title": "Co-Founder; Engineer",
+          "subtitle": "Fireworks AI . Full-time",
+          "caption": "2022 - Present · 4 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Senior Staff Software Engineer",
+          "subtitle": "Google . Full-time",
+          "caption": "2013 - 2022 · 9 yrs",
+          "metadata": "Mountain View, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Tech lead/manager of ~50 person eng team on Google Cloud Vertex AI. Scope includes\n- State-of-the-art algorithms such as AutoML\n- MLOps (e.g. pipelines, metadata, experiments)\n- Explainable AI\n- Developer SDK\n- Growth team\n\nModeling and bidding lead on Universal App Campaigns, growing the business from 0 to a $XXB ARR product\n- led ML modeling for click-through rate, conversion rate, and LTV models.\n- led the development of novel cross-network ad auction bidding algorithms across Search, Display, Mobile, and YouTube.  US-11711424-B2\n- trained global sales and technical support teams\n- contributed to the development of Google's large-scale ML infrastructure (Sibyl, TFX)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "UC Berkeley",
+          "subtitle": "undefined · 2 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Student Instructor",
+              "caption": "2013 - 2013 · ",
+              "metadata": "Berkeley, CA",
+              "description": []
+            },
+            {
+              "title": "Researcher",
+              "caption": "2011 - 2013 · 2 yrs",
+              "metadata": "Berkeley, CA",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3608",
+          "companyUrn": "urn:li:fsd_company:3608",
+          "companyLink1": "https://www.linkedin.com/company/nvidia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_400_400/company-logo_400_400/0/1724881581208/nvidia_logo?e=1785369600&v=beta&t=Dc6be-MR3MnZN9ix99n55hjTShJi5ZAiwUSZrSE9NCw",
+          "title": "Software Engineering Intern",
+          "subtitle": "NVIDIA . undefined",
+          "caption": "2012 - 2012 · ",
+          "metadata": "Santa Clara, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2785",
+          "companyUrn": "urn:li:fsd_company:2785",
+          "companyLink1": "https://www.linkedin.com/company/federal-reserve-board/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHN3Lge0yKzUg/company-logo_400_400/company-logo_400_400/0/1631300911407?e=1785369600&v=beta&t=E2sY8hhYPasPbLYJvE_ZKrUk1EGgNUkUQK1zLj6PlOE",
+          "title": "Software Engineering Intern",
+          "subtitle": "Federal Reserve Board . undefined",
+          "caption": "2011 - 2011 · ",
+          "metadata": "Washington D.C. Metro Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3638",
+          "companyUrn": "urn:li:fsd_company:3638",
+          "companyLink1": "https://www.linkedin.com/school/university-of-maryland/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHrhLnmmZTGjQ/company-logo_400_400/company-logo_400_400/0/1631303360671?e=1785369600&v=beta&t=yX7V4eW01H4y7nA3JkP5tRoDl0yktZDYBCXlXY419PM",
+          "title": "Researcher",
+          "subtitle": "University of Maryland, College Park . undefined",
+          "caption": "2009 - 2010 · 1 yr",
+          "metadata": "College Park, MD",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6357",
+          "companyUrn": "urn:li:fsd_company:6357",
+          "companyLink1": "https://www.linkedin.com/company/nist/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFoqF4hVw8g0Q/company-logo_400_400/company-logo_400_400/0/1630531707341/nist_logo?e=1785369600&v=beta&t=L9_18aU2u2nmjlL_pJfsryuAdnqjzPYIgqvFhtm3nE4",
+          "title": "Research Intern",
+          "subtitle": "National Institute of Standards and Technology . undefined",
+          "caption": "2009 - 2009 · ",
+          "metadata": "Gaithersburg, MD",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "University of California, Berkeley",
+          "subtitle": "B.S., Electrical Engineering and Computer Science; Engineering Math and Statistics",
+          "caption": "2010 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

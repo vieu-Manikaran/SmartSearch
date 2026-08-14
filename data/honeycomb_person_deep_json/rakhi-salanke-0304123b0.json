@@ -1,0 +1,91 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/rakhi-salanke-0304123b0",
+  "row_key": "id:003Uk00000xio8pIAA",
+  "person": "Rakhi Salanke",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:51Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAGRwzqQB56kJkAwd6w5NJOtsrT9Pt9Y0JQo",
+      "firstName": "Rakhi",
+      "lastName": "Salanke",
+      "fullName": "Rakhi Salanke",
+      "publicIdentifier": "rakhi-salanke-0304123b0",
+      "headline": "Engineering Manager at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Pleasanton, California United States",
+      "addressWithoutCountry": "Pleasanton, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFBdIuNNVw2rQ/profile-displayphoto-shrink_100_100/B4DZxJgKB6GgAU-/0/1770759692676?e=1785369600&v=beta&t=zHCNU5tZZkXJFzSm9JzVdr46m5eOVCE1IfTwz0GB2yU",
+      "profilePicAllDimensions": [
+        {
+          "width": 96,
+          "height": 96,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFBdIuNNVw2rQ/profile-displayphoto-shrink_800_800/B4DZxJgKB6GgAc-/0/1770759692668?e=1785369600&v=beta&t=8O5yPSi9h__yelbZqCWn0q6JUXuZjNF1Tcsi-8Rxa1w"
+        },
+        {
+          "width": 96,
+          "height": 96,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFBdIuNNVw2rQ/profile-displayphoto-shrink_200_200/B4DZxJgKB6GgAY-/0/1770759692668?e=1785369600&v=beta&t=ah9nA6hch2eTeWrukJGDwbpfXn-psfKCDSJ1ONJpi1I"
+        },
+        {
+          "width": 96,
+          "height": 96,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFBdIuNNVw2rQ/profile-displayphoto-shrink_400_400/B4DZxJgKB6GgAg-/0/1770759692668?e=1785369600&v=beta&t=fyRHeO21Wo1g5rrNEU6mtvOv9mAPpLOR3YDTKxMijdE"
+        },
+        {
+          "width": 96,
+          "height": 96,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFBdIuNNVw2rQ/profile-displayphoto-shrink_100_100/B4DZxJgKB6GgAU-/0/1770759692676?e=1785369600&v=beta&t=zHCNU5tZZkXJFzSm9JzVdr46m5eOVCE1IfTwz0GB2yU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Engineering Manager",
+          "subtitle": "Yelp . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

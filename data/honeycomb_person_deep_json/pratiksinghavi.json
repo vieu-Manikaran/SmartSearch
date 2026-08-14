@@ -1,0 +1,502 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/pratiksinghavi",
+  "row_key": "id:003Uk00000yfG6AIAU",
+  "person": "Pratik Singhavi",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACPA2RYBQD8lIpF36unmNyrS2h8RB-W1Xfo",
+      "firstName": "Pratik",
+      "lastName": "Singhavi",
+      "fullName": "Pratik Singhavi",
+      "publicIdentifier": "pratiksinghavi",
+      "headline": "Senior Software Engineer at Coinbase",
+      "about": "I am a passionate, driven and creative software engineer with experience in programming on everything from a microcontroller to a complex backend application. Looking for exciting opportunities in software development and design.\n\nSkills: python, golang, Machine Learning, Data Mining, Business Intelligence",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGnJ4s9-0rCmw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719019154670?e=1785369600&v=beta&t=Sq4GxwwA7cCozRVzKiIxVsKfaYZV6EtBzVnbZbqlQDs",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQFNWDiOZ4n8WA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1612548285388?e=1785369600&v=beta&t=_XPuE7j4zqBoH-EnlzwXX8lg3pnqmRSxEdLJ1KgZ53w",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGnJ4s9-0rCmw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718305093256?e=1785369600&v=beta&t=_FQoW3Xp_BTUfXr5548mp2rz9N5vfkdCBoZS2zuv7b0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGnJ4s9-0rCmw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719025315581?e=1785369600&v=beta&t=BRtN2nsxn61EZeekPm3V1alLxJTykyln9G0ht00gJBs"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGnJ4s9-0rCmw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718316980639?e=1785369600&v=beta&t=1zxnBjTF6fNDErKFu1QcazTu52bT-F7P6bqtpor01fE"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQGnJ4s9-0rCmw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719019154670?e=1785369600&v=beta&t=Sq4GxwwA7cCozRVzKiIxVsKfaYZV6EtBzVnbZbqlQDs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 704,
+          "height": 176,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFNWDiOZ4n8WA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1612548285388?e=1785369600&v=beta&t=PSWAKPl_1wXsi8VQdB02CwnoYTsgtbAFzbxp0x5GUqA"
+        },
+        {
+          "width": 704,
+          "height": 176,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFNWDiOZ4n8WA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1612548285388?e=1785369600&v=beta&t=_XPuE7j4zqBoH-EnlzwXX8lg3pnqmRSxEdLJ1KgZ53w"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "undefined · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2025 - Present · 5 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Feb 2022 - Aug 2025 · 3 yrs 6 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3608",
+          "companyUrn": "urn:li:fsd_company:3608",
+          "companyLink1": "https://www.linkedin.com/company/nvidia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_400_400/company-logo_400_400/0/1724881581208/nvidia_logo?e=1785369600&v=beta&t=Dc6be-MR3MnZN9ix99n55hjTShJi5ZAiwUSZrSE9NCw",
+          "title": "Software Engineer Intern",
+          "subtitle": "NVIDIA . undefined",
+          "caption": "Aug 2021 - Dec 2021 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3084",
+          "companyUrn": "urn:li:fsd_company:3084",
+          "companyLink1": "https://www.linkedin.com/school/university-of-southern-california/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_400_400/company-logo_400_400/0/1631312619853?e=1785369600&v=beta&t=zWfJ1v58TQvOjm199T1kdVgqH2jWvaJddCDQum_HpjY",
+          "title": "University of Southern California",
+          "subtitle": "undefined · 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Course Producer | DSCI 552 Machine Learning",
+              "caption": "Jan 2021 - Dec 2021 · 11 mos",
+              "description": []
+            },
+            {
+              "title": "Course Producer | CSCI 467 Introduction to Machine learning",
+              "caption": "Jan 2021 - May 2021 · 4 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2017",
+          "companyUrn": "urn:li:fsd_company:2017",
+          "companyLink1": "https://www.linkedin.com/company/qualcomm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFOe36gT9mXIQ/company-logo_400_400/company-logo_400_400/0/1709233599959/qualcomm_logo?e=1785369600&v=beta&t=6cdwctfej1bR4MvFWYUFdBmlpucgwEXgZxQC-lBO54A",
+          "title": "5G Software Engineering Intern (WRD)",
+          "subtitle": "Qualcomm . Internship",
+          "caption": "May 2021 - Aug 2021 · 3 mos",
+          "metadata": "San Diego, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "15092",
+          "companyUrn": "urn:li:fsd_company:15092",
+          "companyLink1": "https://www.linkedin.com/company/information-sciences-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYTeFo9SN7Ig/company-logo_400_400/company-logo_400_400/0/1694027982155/information_sciences_institute_logo?e=1785369600&v=beta&t=WqpAQhbFNyIlBrX-FQRzyu_ndZUgLkkaIqQWpoTK-Wc",
+          "title": "Graduate Student Researcher",
+          "subtitle": "Information Sciences Institute . undefined",
+          "caption": "May 2020 - Nov 2020 · 6 mos",
+          "metadata": "Los Angeles, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19102459",
+          "companyUrn": "urn:li:fsd_company:19102459",
+          "companyLink1": "https://www.linkedin.com/company/uscbisc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEO4OnDD2j93Q/company-logo_400_400/company-logo_400_400/0/1630595491603?e=1785369600&v=beta&t=rKpV0euiM5BiXZFRiR8Hcjk22uMZ4f4qYi7Bn2sca0g",
+          "title": "Graduate Student Assistant",
+          "subtitle": "USC Department of Biological Sciences . undefined",
+          "caption": "Mar 2020 - May 2020 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1038",
+          "companyUrn": "urn:li:fsd_company:1038",
+          "companyLink1": "https://www.linkedin.com/company/deloitte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_400_400/company-logo_400_400/0/1662120928214/deloitte_logo?e=1785369600&v=beta&t=E8rhU-gBYLtcE3GtRZ0Rx34ZDxDIurbNncqZj9sHyA8",
+          "title": "Business Technology Analyst",
+          "subtitle": "Deloitte India (Offices of the US) . undefined",
+          "caption": "Jan 2018 - Dec 2019 · 1 yr 11 mos",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Applied Machine Learning: Algorithms",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Tableau 10 for Data Scientists",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Tableau Essential Training (2020.1)",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jun 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "6847745",
+          "companyUrn": "urn:li:fsd_company:6847745",
+          "companyLink1": "https://www.linkedin.com/company/blue-ocean-learning/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGJmu1scgKuHg/company-logo_400_400/company-logo_400_400/0/1631353250434?e=1785369600&v=beta&t=r9Cq8LEbMhl_9sidTTP1z3VBZR1WqimEFeiu_L44f2E",
+          "title": "Hadoop Developer",
+          "subtitle": "Blue Ocean Learning",
+          "issued": "Issued Apr 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Deloitte Analytics Summit Crackathon",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Winner"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Director's Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "for securing 2nd Rank in Senior Year of Undergraduate studies"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence (BI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tableau",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3084",
+          "companyUrn": "urn:li:fsd_company:3084",
+          "companyLink1": "https://www.linkedin.com/school/university-of-southern-california/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_400_400/company-logo_400_400/0/1631312619853?e=1785369600&v=beta&t=zWfJ1v58TQvOjm199T1kdVgqH2jWvaJddCDQum_HpjY",
+          "title": "University of Southern California",
+          "subtitle": "Master of Science - MS, Computer Science",
+          "caption": "2020 - 2022",
+          "subComponents": []
+        },
+        {
+          "companyId": "15112808",
+          "companyUrn": "urn:li:fsd_company:15112808",
+          "companyLink1": "https://www.linkedin.com/school/maharashtra-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGZtKuW-zcig/company-logo_400_400/company-logo_400_400/0/1519908530481?e=1785369600&v=beta&t=66oFtF2XkNNlMFPGCmXMMKB1iy_foG30fm0wA2v8jcI",
+          "title": "Maharashtra Institute of Technology",
+          "subtitle": "Bachelor of Engineering, Computer Science",
+          "caption": "2013 - 2017",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Electronic Surgical Unit",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "∙ Developed a touchscreen GUI for an Electronic Surgical Unit used in medical procedure using Python and kivy framework.\n∙ Redesigned the communication protocol between the motherboard and the Single Board Computer used for the touchscreen interface.\n∙ Implemented multithreading to obtain an 15% faster instrument response time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gesture controlled Robotic Arm",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Implemented a gesture recognition system with Microsoft Kinect and constructed a robotic arm prototype.\n• Interfaced with HC-05 module for sending commands from the recognition system to the robotic arm using bluetooth.\n• Equipped the Robotic arm prototype with servo motors for precise control for holding/picking and releasing cylindrical objects."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Handwritten Digit Recognition ",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "∙ Programmed a neural network model for identifying handwritten digits in images using python.\n∙ Optimized the model using stochastic gradient descent and achieved an accuracy of 97% on the MNIST dataset."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MOGLIE (Movie Offer Getter & Limber Information Emailer)",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "∙ MOGLIE stands for Movie Offer Getter & Limber Information Emailer\n∙ The project is aimed at getting movie offers from movie booking websites such as 'bookmyshow' using python bindings for selenium and webdriver\n∙ The application gathers customized deals for the user filtered by city and eligibility for the offer \n∙ The script then prepares an HTML content from this and places it into a neat email and sends the mail to the user\n∙ Mail received has hyperlinks embedded so that the user can directly access the offer and book tickets."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Smart IoT Network",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "∙ Developed an autonomous network system using Arduino sensor nodes with Raspberry Pi as a gateway. Demonstrated it’s application as a waste management system collecting real-time data.\n∙ Generated statistical graphs and dashboard to drive business decisions through Python libraries."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

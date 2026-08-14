@@ -1,0 +1,410 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/chris-fan-19055a83",
+  "row_key": "id:003Uk000001qjIJIAY",
+  "person": "Chris Fan",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:38:11Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABGzhXwBQm-hGt138FoUtrgWeCJuWH1wTbc",
+      "firstName": "Chris",
+      "lastName": "Fan",
+      "fullName": "Chris Fan",
+      "publicIdentifier": "chris-fan-19055a83",
+      "headline": "Engineering Team Lead at CreditorWatch",
+      "about": "Experienced Team Lead with a demonstrated history of working in the internet industry. Skilled in PHP, Javascript, Scrum, Web Applications, and Data Analysis. Strong information technology professional with a Master’s Degree focused in Computer Engineering from University of New South Wales. ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Sydney Area Australia",
+      "addressWithoutCountry": "Greater Sydney Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGsCeHcElNAfg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608023627585?e=1785369600&v=beta&t=OOLWr4FPzyduBmaqNX9oAb0VCX-wHOLRLSfpBTywbhc",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGsCeHcElNAfg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1608023627585?e=1785369600&v=beta&t=fkOet5mshrfGpzQExPCuT8B-1Mke9cd7YXAyM99ubtc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGsCeHcElNAfg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608023627585?e=1785369600&v=beta&t=7bscW35x0q5ajZp_Sr3FD6hLW2YOYSP9Cc3H1kgGhKA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGsCeHcElNAfg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1608023627585?e=1785369600&v=beta&t=J4cMWPGaQ8AE0Ak9Kizj9bTW71qJ7UKa3UMMAvfUO-o"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGsCeHcElNAfg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608023627585?e=1785369600&v=beta&t=OOLWr4FPzyduBmaqNX9oAb0VCX-wHOLRLSfpBTywbhc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1240696",
+          "companyUrn": "urn:li:fsd_company:1240696",
+          "companyLink1": "https://www.linkedin.com/company/creditorwatch/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0CPCv__D8nQ/company-logo_400_400/company-logo_400_400/0/1652928553868/creditor_watch_logo?e=1785369600&v=beta&t=vf5N6QJJYVb7Xm0uBtTqeZiOPHCpozcaN4J-dUqi1j8",
+          "title": "Engineering Team Lead",
+          "subtitle": "CreditorWatch . Full-time",
+          "caption": "Mar 2024 - Present · 1 yr 10 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Jul 2022 - Mar 2024 · 1 yr 8 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Project of transferring Backend monolith from Cake to Laravel 9 \n• Project of adding a new product line \"Supplements\" (Vue2 + Laravel)\n• Project of revamping Customer Portal (20% involvement, Vue3, Typescript)\n• Project of creating Partnership Portal from scratch (currently ongoing, micro-services architecture)\n• Main interviewer for Backend developers"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10052012",
+          "companyUrn": "urn:li:fsd_company:10052012",
+          "companyLink1": "https://www.linkedin.com/company/rightcapital/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH5ilz1TkEzlQ/company-logo_100_100/B4EZeDMcCEHcAQ-/0/1750252766121/rightcapital_logo?e=1785369600&v=beta&t=ooiwktgtWxe-ZG0WH097jlQSvhVLlfnnxkwX8h7ql0E",
+          "title": "Integration Team Lead",
+          "subtitle": "RightCapital . Full-time",
+          "caption": "Jun 2020 - Jun 2022 · 2 yrs",
+          "metadata": "Beijing, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Works closely with Product Manager to nail down project/feature specifications and provides technical solutions accordingly. \n• Works closely with Backend Team Manager and CTO to discuss technology stack for new projects and potential improvements for the current systems. \n• Hands-on development works on the core code of each project and code reviewer.\n• Works closely with Vendor side developers, finds and implements integration solutions, investigates and resolves issues between partner platforms.\n• Provides technical guidance, training and support to team members.\n• Main interviewer for Backend developers"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7577900",
+          "companyUrn": "urn:li:fsd_company:7577900",
+          "companyLink1": "https://www.linkedin.com/company/brighte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEP_jAlzz9Z2Q/company-logo_400_400/company-logo_400_400/0/1635981530769/brighte_logo?e=1785369600&v=beta&t=preQtdb5YOX3O68dOUh_EMtXD2ZlM_9Kfbt4ChMucuM",
+          "title": "Brighte",
+          "subtitle": "Full-time · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Backend Chapter Lead & Vendor Team Lead",
+              "caption": "May 2018 - Apr 2020 · 1 yr 11 mos",
+              "metadata": "Sydney, Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•  Worked closely with Product Manager to nail down project/feature specifications and provided technical solutions accordingly. \n•  Worked closely with Architect and Head of Tech to discuss technology stack for new projects and possible improvements for the current systems. \n•  Led the team on planning for each development circle \n•  Kept tracking the progress of each project owned by the team and pushing forward\n•  Provided technical guidance, training and support to team members\n•  Hands-on development works on the core code of each project\n•  Designed and overviewed knowledge sharing and career improving processes for the team\n\nPHP, MySQL, AWS suite like Beanstalk, SQS, SNS, EC2, ECS, Elastic Search, Jira, Bitbucket & Confluence, Git, CI/CD tools like Codeship, CircleCI, log related tools like logstash and Kibana"
+                }
+              ]
+            },
+            {
+              "title": "Full Stack Senior Developer",
+              "caption": "Nov 2017 - May 2018 · 6 mos",
+              "metadata": "Sydney, Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Designed and developed Small and Medium Employer module payment plan （PHP + jquery +MySQL）\n• Responsible for Brighte Vendor app (Phonegap + Cordova)\n• Responsible for maintainace and developing new features for Brighte Portal （AWS beanstalk + Elastic Search + SQS）"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1362741",
+          "companyUrn": "urn:li:fsd_company:1362741",
+          "companyLink1": "https://www.linkedin.com/company/babytree-inc/",
+          "title": "Senior PHP Developer (Backend API Team)",
+          "subtitle": "Babytree Inc . undefined",
+          "caption": "Jul 2016 - Nov 2017 · 1 yr 4 mos",
+          "metadata": "Beijing City, China",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•  Designed and built mobile push notification system for Babytree's three main apps.\n•  Analyzed delivery and arrival rate of Mobile Push on various phone models, improved Push efficiency and eventually raised up DAU.\n•  Worked on API's version iteration for Babytree Apps.\n•  Designed and developed Babytree Apps' campaign models for high con-current cases.\n•  Worked as Scrum Master of the team, co-ordinated iOS team, Android team, API team and BI team during version iteration.\n• trained junior developers.\n\nPHP, MySQL, Redis, memcache, RabbitMQ, Jira & Confluence, Git, Agile development, Scrum Master"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior Developer",
+          "subtitle": "Onthehouse Holdings . undefined",
+          "caption": "Dec 2012 - May 2016 · 3 yrs 5 mos",
+          "metadata": "Sydney Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tBoth Frontend and Backend work on a Commercial Website, previous www.onthehouse.com.au, which was the main revenue source of the company. Now it works as Agent Centre module of the new generation onthehouse.com.au.  (PHP + MySQL)\n•\tFront end work on new generation onthehouse.com.au (AngularJS)\n•\tBuilt Automation Tests & Reports (ruby + selenium grid)\n•\tRecruited and trained junior developers and testers\n•\tBuilt consumer product RE:search from scratch. (http://research.othsolutions.com.au/ built by PHP + MySQL)\n•\tResponsive layouts and mobile first design\n\nPHP, MySQL, Redis, HTML5, CSS, JavaScript, AngularJS, JQuery, AWS, Google Maps, GTM, Bootstrap, Jenkins, CI, Less, Jira, Git, Agile development, Scrum Master"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Programmer and Statistician",
+          "subtitle": "Residex Pty Ltd . undefined",
+          "caption": "Sep 2010 - Dec 2012 · 2 yrs 3 mos",
+          "metadata": "North Sydney Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manderin",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "PHP 8.1",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Laravel 9",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gitlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHPStan",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "codesniffer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "notion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Confluence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP 8.2",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Laravel 10",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "6096",
+          "companyUrn": "urn:li:fsd_company:6096",
+          "companyLink1": "https://www.linkedin.com/school/unsw/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGIlGcJynP5Dg/company-logo_400_400/company-logo_400_400/0/1709503417850/unsw_logo?e=1785369600&v=beta&t=8i4BdWf81cligLDIlxb7M7nwaRJ0um58g_zGefPubOc",
+          "title": "University of New South Wales",
+          "subtitle": "Master’s Degree, Computer Engineering",
+          "caption": "2008 - 2010",
+          "subComponents": []
+        },
+        {
+          "companyId": "507720",
+          "companyUrn": "urn:li:fsd_company:507720",
+          "companyLink1": "https://www.linkedin.com/school/beijing-jiaotong-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF2fx8yRMuy2A/company-logo_400_400/company-logo_400_400/0/1631377029588?e=1785369600&v=beta&t=hKMA7Py65lWNb6Nl0ogxGrrDVKoiGESMBht41ef3mEw",
+          "title": "Beijing Jiaotong University",
+          "subtitle": "Bachelor of Engineering Science, Foreign Language Association, Campus Forum Admin, Basketball team member of BJTU, China Central TV English Speech Contest, China Central TV English Debate Competition,",
+          "caption": "2003 - 2007",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

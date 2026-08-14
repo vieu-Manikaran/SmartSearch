@@ -1,0 +1,486 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sam-van-oort-7487145a",
+  "row_key": "id:003Uk00000znixeIAA",
+  "person": "Samuel Van Oort",
+  "account": "AlayaCare",
+  "fetched_at": "2026-07-14T10:47:17Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAyQZCgBPB55WTQOjVizCHibZ3Fq000NxFA",
+      "firstName": "Sam",
+      "lastName": "Van Oort",
+      "fullName": "Sam Van Oort",
+      "publicIdentifier": "sam-van-oort-7487145a",
+      "headline": "Principal Developer",
+      "about": "Principal full-stack software engineer.  I'm comfortable working anywhere from the frontend/backend to the DevOps and system level (including Jenkins, linux, AWS, Docker, etc).  Proven history of delivering value. \n\nI prefer initial recruiter contacts to include some information upfront. \n\nCore languages: Python, SQL, Javascript, shell scripting (plus Java experience)\nCore skillset: REST services & web applications (a bit stronger on backend than frontend), SQL databases, git, Linux, Docker, Jenkins CI, exposure to K8S\n\nSpecialization in scalability/performance and robust systems design. \nMy professional contacts will often have similar backgrounds to the above.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Toronto, Ontario Canada",
+      "addressWithoutCountry": "Toronto, Ontario",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQG9jLZ1X66TbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1618489694652?e=1785369600&v=beta&t=YATFcfqnNKzBNwIq5mblExBNCM3lfgn5L9DOL8Ccie8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG9jLZ1X66TbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1618489694652?e=1785369600&v=beta&t=VO8Bub9-PfeW8izzAQOPP5bLK2OsIeVDe5ZgoZ9XH5E"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG9jLZ1X66TbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1618489694652?e=1785369600&v=beta&t=HWyKsRjj8nG6uWJayTghKInUkcreYZqB86x9bUCHC0c"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG9jLZ1X66TbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1618489694652?e=1785369600&v=beta&t=7jTcx56s6jKB-13O41-N4z5tdKULOG2Mny8Z7MESivo"
+        },
+        {
+          "width": 756,
+          "height": 756,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG9jLZ1X66TbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1618489694652?e=1785369600&v=beta&t=YATFcfqnNKzBNwIq5mblExBNCM3lfgn5L9DOL8Ccie8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "5191283",
+          "companyUrn": "urn:li:fsd_company:5191283",
+          "companyLink1": "https://www.linkedin.com/company/alayacare-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEAJy5rfZoO0g/company-logo_400_400/company-logo_400_400/0/1645022956117/alayacare_inc_logo?e=1785369600&v=beta&t=j8XNqnEsVEzcHsM_v3tVk3qowS2Kj-uZCDy7OK4DSKc",
+          "title": "Principal Developer",
+          "subtitle": "AlayaCare . Permanent Full-time",
+          "caption": "Apr 2023 - Present · 2 yrs 9 mos",
+          "metadata": "Toronto, ON",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Principal Developer for Performance & Scalability"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "116468",
+          "companyUrn": "urn:li:fsd_company:116468",
+          "companyLink1": "https://www.linkedin.com/company/freshbooks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGKyZ7mdU__sQ/company-logo_400_400/B4EZW5FQFqHcAc-/0/1742566916818/freshbooks_logo?e=1785369600&v=beta&t=u0hSM5DYD2_FLpbB3lp8pUwSfB05sy9tpUjCpn9jNJw",
+          "title": "Principal Engineer",
+          "subtitle": "FreshBooks . Permanent Full-time",
+          "caption": "Nov 2022 - Mar 2023 · 4 mos",
+          "metadata": "Toronto, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Contributed to developing API standards and project to roll out protobufs/gRPC for APIs\n\nImpact: helped address a bad-actor problem that endangered email deliverability. Personally thanked by CTO for contribution\n\nTech stack: Python (Flask & SqlAlchemy), gRPC/protobufs, MySQL & BigQuery, GCP, DataDog, exposure to Ruby/Rails, CI/CD work with JenkinsX\n\n(Departure due to being impacted by a layoff, along with a large fraction of my department.)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5191283",
+          "companyUrn": "urn:li:fsd_company:5191283",
+          "companyLink1": "https://www.linkedin.com/company/alayacare-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEAJy5rfZoO0g/company-logo_400_400/company-logo_400_400/0/1645022956117/alayacare_inc_logo?e=1785369600&v=beta&t=j8XNqnEsVEzcHsM_v3tVk3qowS2Kj-uZCDy7OK4DSKc",
+          "title": "Principal Developer",
+          "subtitle": "AlayaCare . Permanent Full-time",
+          "caption": "Apr 2021 - Nov 2022 · 1 yr 7 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Technical leader for a group of 5-7 teams, defining our technical and architecture strategy and driving roadmap for improving our tech base & engineering culture\n* Supported numerous teams and individuals to help overcome technical or execution obstacles\n* Collaborated with other principal developers to define standards & framework choices\n* Scalability and performance expert: prioritised, led, and helped execute initiatives that cut API response time in half while also improving system resilience and scalability. Focus areas: DB query design, API design, system & infrastructure bottlenecks, Python service configuration tuning\n    * My scalability work directly enabled the growth of large enterprise customers\n* Interviewing: built a robust developer hiring process to enable us to identify and hire top talent, both handling interviews myself and training interviewers\n* Mentored technical staff to build excellence & help achieve career goals\n* Handled numerous business-critical production issues, providing long-term solutions to prevent them\n* Provided technical-focused input to strategic decision-making for our highest-selling product\n\nTech stack: Python (Flask, uWSGI, SQL Alchemy), Redis, Postgres & MariaDB, AWS services, Docker + Kubernetes, New Relic & Kibana"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Moved to Canada",
+          "subtitle": "Vacation . undefined",
+          "caption": "Jan 2021 - Apr 2021 · 3 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Took time off for moving to Toronto, Canada from the USA and settling into the new country"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "50446",
+          "companyUrn": "urn:li:fsd_company:50446",
+          "companyLink1": "https://www.linkedin.com/company/soundexchange/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGqvujXiQJwkA/company-logo_400_400/company-logo_400_400/0/1663090982192/soundexchange_logo?e=1785369600&v=beta&t=q4Y8DLd2IKNgEdARMUErkNmFI469NL5tilPY_6-5_lo",
+          "title": "Senior Software Engineer",
+          "subtitle": "SoundExchange . Permanent Full-time",
+          "caption": "Jan 2019 - Dec 2020 · 1 yr 11 mos",
+          "metadata": "Washington D.C. Metro Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developer on a serverless application used by our business - Python backend on AWS Lambda, Vue.js frontend, Serverless Framework, CloudFormation, Jenkins deployments to AWS, DynamoDB,  PostgreSQL (RDS) with SQL Alchemy,  various AWS services (S3, API gateway etc), plus a bit of Docker\n\n* Went beyond the call of duty to ensure we were able meet a critical deadline for payment distributions despite a data handling vendor failing to deliver on contract -- thanks to putting in crunch hours and some clever scripting we were able to carefully and cleanly process thousands of files in a fraction of the usual time\n* Key part of automating the business process that was previously contracted out, including reliably and mostly automatically processing many highly non-standard Excel and delimited customer files\n* Added AWS X-Ray performance tracing and used it to identify and mitigate a critical performance issue that degraded or broke user experience\n* Added lambda prewarming and external-service data caching, improving app responsiveness 10x and increasing business user productivity \n\nDeveloper on a Django application -- Docker, Python,  PostgreSQL, Django, EC2 and the usual AWS stack, legacy Angular, Jenkins Deployment\n\nWorked on a Java stack application: Java backend (Spring), persistence to PostgreSQL, legacy Angular frontend, deployed on AWS via Jenkins\n\nDevOps: Advised company on further developing Jenkins CI/CD processes and helped with modernization, did some of the AWS work, did production troubleshooting and performance tuning as needed"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1189836",
+          "companyUrn": "urn:li:fsd_company:1189836",
+          "companyLink1": "https://www.linkedin.com/company/cloudbees/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEkkF_yttW9g/company-logo_400_400/company-logo_400_400/0/1724333589895/cloudbees_logo?e=1785369600&v=beta&t=2WMvw6u3OJxIP20lErj1S67gcA_xfc27i3wUnCpLvHA",
+          "title": "Senior Software Engineer",
+          "subtitle": "CloudBees . undefined",
+          "caption": "May 2015 - Jan 2019 · 3 yrs 8 mos",
+          "metadata": "Remote (most recent) + Raleigh-Durham (previous), North Carolina Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Delivered multiple scalability wins for Jenkins Pipeline, by delivering Java optimizations, streamlining persistence, and using a self-created Dockerized performance testing framework\n* Led investigation when one of our largest customers hit scalability challenges, culminating in an onsite visit that tapped expertise in both our Java codebase and Linux systems.  Authored solutions and best practices that saved our relationship with the customer and was praised by executives up to the CEO. \n* Solved scalability challenges for our largest customers (multiple Global 100 customers) with a thorough performance analysis.  Resulted in multiple blog posts, code changes, and best practices that enable our largest customers to continue growing their use of CloudBees Jenkins offerings.\n*Took initiative to launch a new analysis/reporting library now being incorporated into multiple strategic projects\n* Responsible for Jenkins pipeline stage view plugin since it has been open-sourced\n  - Currently installed and used on 70,000+ active Jenkins servers\n  - Optimizations to REST API improving performance over 100-fold with complex pipelines\n  - Implemented small frontend enhancements & bugfixes from community & customers (Javascript, Java, HTML/CSS, and JQuery) \n* Upgraded Jenkins plugins to consume new workflow features, working with complex back-compatibility requirements (Java, JUnit)\n* In depth work with Jenkins continuous integration jobs running in AWS infrastructure (and locally)\n* Constructed a multi-container  Docker demonstration to showcase Jenkins Workflow in integration with Gerrit\n   - Presented at local Java user group, and Google’s Gerrit User Summit 2015\n   - Technologies: Java, Docker, Shell Script, Git, Jenkins, and Groovy\n* Enhancements to cross-platform release packaging (Jenkins, shell script, makefiles, python, RPM & DEB packaging)\n* Created new Dockerized continuous integration to enable testing linux packages"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3545",
+          "companyUrn": "urn:li:fsd_company:3545",
+          "companyLink1": "https://www.linkedin.com/company/red-hat/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEto-TydTTIfQ/company-logo_400_400/company-logo_400_400/0/1630583759577/red_hat_logo?e=1785369600&v=beta&t=kKg3jsg6shbh8_i1cmLREpECMcvUM9mVdoiiKfVyy9o",
+          "title": "Software Application Engineer",
+          "subtitle": "Red Hat . undefined",
+          "caption": "Mar 2013 - May 2015 · 2 yrs 2 mos",
+          "metadata": "Red Hat",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Programmed business-critical RESTful Java web services and web applications running on JBoss/RHEL VMs, eventually rising to SME for this business system\n* Added and extended APIs covering a suite of 30+ middleware services, including one that delivered a 10x performance improvement for managing subscriptions for Red Hat's largest customers.\n* Administered and solved issues with production & development JBoss servers\n* Major contributor in large project upgrading all SOA services to latest version of JBoss. \n* Implemented a complex data migration of all product DB data in SQL & PL/SQL, safely handling numerous, convoluted edge cases.  Reduced migration time from weeks to under an hour.\n* Added reporting to a large business-critical and performance-critical Python application. \n* Created a smoke testing tool for REST services, now in use by other teams and a core component of  release and maintenance processes. \n* Lead for a greenfield project providing an application for monitoring and viewing DB health & statistics\n\nMain languages/skills used: Java (extensive use), Git (extensive use), Java EE, REST, Spring, Angular, JSP, JBoss, Python, Bash, Linux administration, SQL. \n\nBegan as contractor via Resolvit: March 2013-October 2013, under the Jr Java Developer title, then converted to permanent Red Hat employee with the current title."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1756",
+          "companyUrn": "urn:li:fsd_company:1756",
+          "companyLink1": "https://www.linkedin.com/company/hcltech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_400_400/company-logo_400_400/0/1664197008220/hcltech_logo?e=1785369600&v=beta&t=dwz9JqWaaaU9k2Z0ZsatF50OZfVGGUJYNoAu0xrodkM",
+          "title": "Service Desk Analyst",
+          "subtitle": "HCL Technologies . undefined",
+          "caption": "Nov 2012 - Mar 2013 · 4 mos",
+          "metadata": "Cary, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Supported diverse application ecosystem.  Wrote knowledge base articles and training documentation.  Trained and assisted with setting up systems for new hires."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "404019",
+          "companyUrn": "urn:li:fsd_company:404019",
+          "companyLink1": "https://www.linkedin.com/company/teavana/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGKeJQ4veULKQ/company-logo_400_400/company-logo_400_400/0/1631341827206?e=1785369600&v=beta&t=ZeM0fgBtQDWEzjvsBt2prKJvu-pcqxYYkisSFQpTXAM",
+          "title": "Assistant General Manager",
+          "subtitle": "Teavana . undefined",
+          "caption": "Oct 2011 - Oct 2012 · 1 yr",
+          "metadata": "Durham, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Hired as a team lead, promoted to assistant manager in under a year after strong performance."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Pastry Cook/Prep Cook/Dishwasher",
+          "subtitle": "Bin 54 LLC . undefined",
+          "caption": "Apr 2010 - Oct 2011 · 1 yr 6 mos",
+          "metadata": "Chapel Hill, NC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "3545",
+          "companyUrn": "urn:li:fsd_company:3545",
+          "companyLink1": "https://www.linkedin.com/company/red-hat/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEto-TydTTIfQ/company-logo_400_400/company-logo_400_400/0/1630583759577/red_hat_logo?e=1785369600&v=beta&t=kKg3jsg6shbh8_i1cmLREpECMcvUM9mVdoiiKfVyy9o",
+          "title": "Red Hat Certified System Administrator",
+          "subtitle": "Red Hat",
+          "issued": "Issued Jan 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network+",
+          "subtitle": "CompTIA",
+          "issued": "Issued undefined 2002",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Shell Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Red Hat Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RESTful WebServices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hibernate",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3757",
+          "companyUrn": "urn:li:fsd_company:3757",
+          "companyLink1": "https://www.linkedin.com/school/university-of-north-carolina-at-chapel-hill/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHim3Hq1GIZjw/company-logo_200_200/B4EZpKJMS1GYAI-/0/1762180515404/university_of_north_carolina_at_chapel_hill_logo?e=1785369600&v=beta&t=6usm_oMJEO79pfqbk1fdMMLAjN74Uve3s2fdz2gccss",
+          "title": "University of North Carolina at Chapel Hill",
+          "subtitle": "null, Chemistry",
+          "caption": "2004 - 2007",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Junior"
+            }
+          ]
+        },
+        {
+          "title": "NC School of Science and Mathematics",
+          "subtitle": "High School, Student research, Junior Science and Humanities Symposium, NC Student Academy of Sciences",
+          "caption": "2000 - 2004",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "High School"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "PyRestTest: HTTP Testing & Benchmarking Framework (Open source)",
+          "subtitle": "Apr 2014 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* New python framework for testing & benchmarking RESTful web services, using YAML and PyCurl.\n* Created extensible generate / validate / extract features to enable complex test scenarios, and custom extension loading mechanism\n* CI using a personal Jenkins server in AWS, with Github integration and unit, functional, and installation testing in custom Docker environments (using the Jenkins workflow DSL)\n* Minimal dependencies to enable easy deployment, but also supports optional extensions for more complex functionality (including JSON schema validation)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jennifer-pinto-17353735",
+  "row_key": "id:003Uk00000iQ5dXIAS",
+  "person": "jen pinto",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:57Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAdgLycBhgiwSWahXPj8lOn_q40UbLSdcHA",
+      "firstName": "Jennifer",
+      "lastName": "Pinto",
+      "fullName": "Jennifer Pinto",
+      "publicIdentifier": "jennifer-pinto-17353735",
+      "headline": "Software Engineering Manager",
+      "about": "A passionate leader who loves to see teams deliver experiences that users absolutely love and enjoy. This translates to a working environment where the team thrives.\n\nI am a big believer of fostering a team culture where people are the best version of themselves and hence productive.A team can achieve great goals when the purpose of what we are achieving together is clear and there is mutual trust.\n\nResilient and empathetic are the two key values I exude and non negotiable.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Online Media",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Melbourne, Victoria Australia",
+      "addressWithoutCountry": "Melbourne, Victoria",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQGrgWVna3S5tw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1686040787617?e=1785369600&v=beta&t=pPzuMmpumpVrJNm7sWX-JbesEYY4Mg-fdbDcaUVpyqI",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQGrgWVna3S5tw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1686040787617?e=1785369600&v=beta&t=KHDOwWZ9x-G8-4IWOazcdyQme7wNIgo7AlrpYeCXvhg"
+        },
+        {
+          "width": 828,
+          "height": 207,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQGrgWVna3S5tw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1686040787617?e=1785369600&v=beta&t=pPzuMmpumpVrJNm7sWX-JbesEYY4Mg-fdbDcaUVpyqI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Engineering Manager",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Oct 2025 - Present · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2850862",
+          "companyUrn": "urn:li:fsd_company:2850862",
+          "companyLink1": "https://www.linkedin.com/company/canva/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGO1uzGzmVB-A/company-logo_400_400/company-logo_400_400/0/1656630679668/canva_logo?e=1785369600&v=beta&t=Wvl5ruEjlWe56aXnILPDy8jKoPoHGMEXDyAsJ2ohpo0",
+          "title": "Engineering Manager",
+          "subtitle": "Canva . undefined",
+          "caption": "Sep 2023 - Oct 2025 · 2 yrs 1 mo",
+          "metadata": "Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1508717",
+          "companyUrn": "urn:li:fsd_company:1508717",
+          "companyLink1": "https://www.linkedin.com/company/rea-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEA8N_DSsRn0Q/company-logo_400_400/company-logo_400_400/0/1636331627220/rea_group_logo?e=1785369600&v=beta&t=ptf_MEfcJiivpNVujU7ddxwQAzecnGABem1NdSBOjxk",
+          "title": "REA Group",
+          "subtitle": "Full-time · 5 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Developer",
+              "caption": "Oct 2021 - Sep 2023 · 1 yr 11 mos",
+              "description": []
+            },
+            {
+              "title": "Mobile Developer",
+              "caption": "Oct 2019 - Jan 2022 · 2 yrs 3 mos",
+              "metadata": "Melbourne, Australia",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2018 - Sep 2021 · 3 yrs 7 mos",
+              "metadata": "Richmond East, Victoria, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "320621",
+          "companyUrn": "urn:li:fsd_company:320621",
+          "companyLink1": "https://www.linkedin.com/company/odecee/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGApkwmdxFYEw/company-logo_400_400/company-logo_400_400/0/1631345182908?e=1785369600&v=beta&t=1RBMDrzuDIjNiQFEgprIPQKuvJUiwdtKReeL589RBa8",
+          "title": "Software developer",
+          "subtitle": "Odecee, A Cognizant Digital Business . undefined",
+          "caption": "Apr 2017 - Feb 2018 · 10 mos",
+          "metadata": "Melbourne, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3184",
+          "companyUrn": "urn:li:fsd_company:3184",
+          "companyLink1": "https://www.linkedin.com/company/vanguard/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF_RLzpaBBg5Q/company-logo_400_400/B4EZsOYkN3HoAc-/0/1765472885963/vanguard_logo?e=1785369600&v=beta&t=BVQoXfhwTeaopKMs1GvPXRsjol_1jul4qID0cRoPP3A",
+          "title": "Solutions Developer",
+          "subtitle": "Vanguard . undefined",
+          "caption": "Sep 2015 - Mar 2017 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1067",
+          "companyUrn": "urn:li:fsd_company:1067",
+          "companyLink1": "https://www.linkedin.com/company/jpmorgan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEVXhQs3mC56Q/company-logo_400_400/company-logo_400_400/0/1630646116001/jpmorgan_logo?e=1785369600&v=beta&t=8xkSZMA0FCJr7zjzmvvW16Qo7OUDsX_uJfc7joari5I",
+          "title": "J.P. Morgan",
+          "subtitle": "undefined · 5 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Developer",
+              "caption": "Feb 2012 - Jul 2015 · 3 yrs 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsibilities\n- Understand and discuss the client's requirements to design a technical Java solution keeping in mind scalability , maintainability and security.\n- Effort estimation , break down and prioritization of JIRA tasks\n- Implementing efficient solutions, unit testing to ensure code quality\n- Continuous integration and testing along with simultaneous defect fixing\n- Monitoring and maintenance of stable UAT and production environment\n\n"
+                }
+              ]
+            },
+            {
+              "title": "Application Developer",
+              "caption": "May 2010 - Jan 2012 · 1 yr 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsibilities\n-Collect,discuss and freeze the business requirement with end users\n- Development of critical, real time processing applications\n- Participation in peer code reviews, UAT + QA testing and support to ensure customer satisfaction"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [
+        {
+          "title": "JPMorgan Chase",
+          "subtitle": "Application Developer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infosys Technologies",
+          "subtitle": "Software Engineer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Sun Certified Java Programmer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Struts",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle 11g",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Concurrency",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google web toolkit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Autosys",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JIRA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iReport",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jasper Reports",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tomcat",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RESTful WebServices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AJAX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOAP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [
+        {
+          "companyId": "1067",
+          "companyUrn": "urn:li:fsd_company:1067",
+          "companyLink1": "https://www.linkedin.com/company/jpmorgan/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEVXhQs3mC56Q/company-logo_400_400/company-logo_400_400/0/1630646116001/jpmorgan_logo?e=1785369600&v=beta&t=8xkSZMA0FCJr7zjzmvvW16Qo7OUDsX_uJfc7joari5I",
+          "title": "Team mentor",
+          "subtitle": "J.P. Morgan",
+          "caption": "Aug 2014 - Aug 2014 · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

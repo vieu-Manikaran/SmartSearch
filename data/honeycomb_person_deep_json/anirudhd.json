@@ -1,0 +1,466 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/anirudhd",
+  "row_key": "id:003Uk00000yfTBFIA2",
+  "person": "Anirudh Donthireddy",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:54Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAkjx2gBR_0AoAP-QW4u-Q0YWkZYWsyEr20",
+      "firstName": "Anirudh",
+      "lastName": "Donthireddy",
+      "fullName": "Anirudh Donthireddy",
+      "publicIdentifier": "anirudhd",
+      "headline": "Staff Software Engineer (GenAI) at Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEXWV-dWn7IRg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1614440626918?e=1785369600&v=beta&t=bdajsSZGV7UWMn8X9CeVMS-87ihs3wN53Mf6HliWaWA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEXWV-dWn7IRg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1614440626918?e=1785369600&v=beta&t=8HCIgs3jDFs-ej7pZXyjgcMBZlUPRD8Su_nei4hU00A"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEXWV-dWn7IRg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1614440626918?e=1785369600&v=beta&t=kNxcEhCUY-ZiLztAlW_-nlQZ7x9WKjm-LK3sYSADDyA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEXWV-dWn7IRg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1614440626918?e=1785369600&v=beta&t=0790Xof-UvSRrLFffER340NCLa6v-sDgBaT9cSnMwB8"
+        },
+        {
+          "width": 750,
+          "height": 750,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEXWV-dWn7IRg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1614440626918?e=1785369600&v=beta&t=bdajsSZGV7UWMn8X9CeVMS-87ihs3wN53Mf6HliWaWA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Staff Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Nov 2024 - Present · 1 yr 2 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer - Founding team",
+          "subtitle": "Webb.ai . Full-time",
+          "caption": "Mar 2023 - Nov 2024 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Built an automated SRE using GenAI"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "20277077",
+          "companyUrn": "urn:li:fsd_company:20277077",
+          "companyLink1": "https://www.linkedin.com/company/coefficient-live-data-in-google-sheets-excel/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE1mLaLZ-iKDw/company-logo_400_400/company-logo_400_400/0/1689118438462/coefficientworks_logo?e=1785369600&v=beta&t=sd-vmwNsSHsA2GJ2DQBmts672q6FXgli65XgBh-Ekbw",
+          "title": "Software Engineer",
+          "subtitle": "Coefficient (hiring!) . Full-time",
+          "caption": "Oct 2022 - Feb 2023 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder",
+          "subtitle": "Revvi . Full-time",
+          "caption": "Jan 2021 - Oct 2022 · 1 yr 9 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2337411",
+          "companyUrn": "urn:li:fsd_company:2337411",
+          "companyLink1": "https://www.linkedin.com/company/mindtickle/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG7o9wZ-RRJPg/company-logo_400_400/company-logo_400_400/0/1657141649356/mindtickle_logo?e=1785369600&v=beta&t=i6PJg8mQyyZxnNkV6GNArZQqj8pih0_g8En-8PSjXtc",
+          "title": "SDE 3",
+          "subtitle": "MindTickle . undefined",
+          "caption": "Sep 2015 - Jan 2021 · 5 yrs 4 mos",
+          "metadata": "Pune Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "632644",
+          "companyUrn": "urn:li:fsd_company:632644",
+          "companyLink1": "https://www.linkedin.com/company/chronussoftware/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHLbbEcrX4O4A/company-logo_200_200/B56ZyLowRpGwAI-/0/1771869242747/chronussoftware_logo?e=1785369600&v=beta&t=eqYAHls6k-GGPKDfclTADChOII8OzxFE_TkJ_Nmj_vk",
+          "title": "Software Development Engineer",
+          "subtitle": "Chronus - Mentoring & Talent Development Solutions . undefined",
+          "caption": "Jul 2014 - Aug 2015 · 1 yr 1 mo",
+          "metadata": "Chennai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Software Developer Internship",
+          "subtitle": "Microsoft India . undefined",
+          "caption": "May 2013 - Jul 2013 · 2 mos",
+          "metadata": "Hyderabad Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "157266",
+          "companyUrn": "urn:li:fsd_company:157266",
+          "companyLink1": "https://www.linkedin.com/school/indian-institute-of-technology-bombay/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGmDoDCx_FYpA/company-logo_400_400/company-logo_400_400/0/1660636307357/indian_institute_of_technology_bombay_logo?e=1785369600&v=beta&t=nDuMkKXvq5ZWdDwSHJSPTkNoAEvTg7SQ9Rz2S6OTgHc",
+          "title": "Indian Institute of Technology, Bombay",
+          "subtitle": "undefined · 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Coordinator, SARC",
+              "caption": "Aug 2011 - Mar 2012 · 7 mos",
+              "metadata": "Mumbai Area, India",
+              "description": []
+            },
+            {
+              "title": "Alumni Secretary, Hostel 4",
+              "caption": "Jul 2011 - Mar 2012 · 8 mos",
+              "metadata": "Mumbai Area, India",
+              "description": []
+            },
+            {
+              "title": "Coordinator, Techfest",
+              "caption": "Jul 2011 - Jan 2012 · 6 mos",
+              "metadata": "Mumbai Area, India",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telugu",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "157266",
+          "companyUrn": "urn:li:fsd_company:157266",
+          "companyLink1": "https://www.linkedin.com/school/indian-institute-of-technology-bombay/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGmDoDCx_FYpA/company-logo_400_400/company-logo_400_400/0/1660636307357/indian_institute_of_technology_bombay_logo?e=1785369600&v=beta&t=nDuMkKXvq5ZWdDwSHJSPTkNoAEvTg7SQ9Rz2S6OTgHc",
+          "title": "Indian Institute of Technology, Bombay",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "2010 - 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Short Messaging Service using WiFi in smartphones",
+          "subtitle": "Aug 2013 - May 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Hacked the opensource MadWiFi driver to enable sending of data using management frames of WiFi\nPorted the changed driver to android devices and make a WiFi data service possible\nEach phone behaves like a client listening to messages and sending its own as a dummy access point"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Automated Driving Bot",
+          "subtitle": "Feb 2014 - Mar 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Indian Institute of Technology, Bombay"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Embedded Systems Lab Project\nGuide: Prof Kavi Arya\n• Developed an automated Mapper-cum-Mover robot on FireBird V as an Embedded Systems Project\n• Implemented mapping algorithm & shortest path finding algorithms avoiding collisions using distances \n• Integrated features like, low battery events, dynamic road blocks, avoiding collision to moving bots\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Exploring options to improve performance of CRM web application",
+          "subtitle": "May 2013 - Jun 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Statistically evaluated the javascript performance of CRM forms using various performance tools like DynaTrace, JSFiddle, JavaScript CPU profile in google chrome. Identified various javascript heavy parts such as data binding, inline edit controls etc. and investigated into various methods which can be implemented to improve performance.\nAchieved a performance gain of 550ms in warm load time by replacing the client side templating\nlibrary with two other logic less template libraries"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Compiler C++",
+          "subtitle": "Jan 2013 - Apr 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Indian Institute of Technology, Bombay"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Extended the basic compiler-interpreter cfglp for CFG dumps that GCC produces for C/C++ code. Implemented floating point numbers, arithmetic operators, control structures and function calls"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Game - Pocket Tanks",
+          "subtitle": "Aug 2010 - Sep 2010",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a game similar to pocket tanks in C++. Developed very modular code using object oriented design extensively. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

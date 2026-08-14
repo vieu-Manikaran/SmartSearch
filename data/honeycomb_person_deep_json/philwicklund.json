@@ -1,0 +1,561 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/philwicklund",
+  "row_key": "id:0036O000047nh68QAA",
+  "person": "Phil Wicklund",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADCDF8Bn76INxGKHThQEfZjmPiXU2USHFw",
+      "firstName": "Phil",
+      "lastName": "Wicklund",
+      "fullName": "Phil Wicklund",
+      "publicIdentifier": "philwicklund",
+      "headline": "Cloud leader, engineer, and product manager",
+      "about": "I'm equally comfortable on a high-pressure sales pitch as I am coding a serverless node.js app. Even while not \"working\" I engineer cloud apps or spend time learning new digital marketing strategies, simply because it's fun and I'm insatiably curious. \n\nWhat's my \"why?\" Answer: I love leading organizations, teams, and customers through transformation. I love discovering that shared future within us, evangelizing it, and rallying teams and culture in support of the cause. In one word... my \"why\" is: Transformation.\n\nBottom line, if you need someone at the intersection of business development, product, and technology, contact me!\n\nHighlights:\n- 15+ years of B2B/B2C/B2E eCommerce & web consulting & sales leadership experience\n- 4x time author around cloud, workflow, portal and web strategy, design and development\n- Sitecore Digital Strategy MVP - 2017/2018\n- Frequent speaker/presenter at large, global conferences",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Minneapolis, Minnesota United States",
+      "addressWithoutCountry": "Minneapolis, Minnesota",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQErSWlRiosGyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1611945601098?e=1785369600&v=beta&t=TOK7kfTSQ2gU3_fsXeFZkIBwjCf8lGio6uoiZE8btJg",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQErSWlRiosGyA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1611945601098?e=1785369600&v=beta&t=yklQp9xRaC9eXxM_oP1jnTET_fjRNOM_h2Q2ZusrERc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQErSWlRiosGyA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1611945601098?e=1785369600&v=beta&t=eKqPVDFiXxnbyG8kJkmIYu9mB-wlVV6aTboh0IMKNLM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQErSWlRiosGyA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1611945601098?e=1785369600&v=beta&t=vJlCNq_Is3sr60y5PAEoEDGwSHLfZch4Yg6eNFIyNJY"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQErSWlRiosGyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1611945601098?e=1785369600&v=beta&t=TOK7kfTSQ2gU3_fsXeFZkIBwjCf8lGio6uoiZE8btJg"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Product Manager - Google Kubernetes Engine",
+          "subtitle": "Google . Full-time",
+          "caption": "May 2022 - Present · 3 yrs 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Helping make it easier for developers to build secure apps that scale in GKE."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4795824",
+          "companyUrn": "urn:li:fsd_company:4795824",
+          "companyLink1": "https://www.linkedin.com/company/total-expert/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHE88aSUFtgKQ/company-logo_400_400/company-logo_400_400/0/1737486114858/total_expert_logo?e=1785369600&v=beta&t=32EBAbZ5tbsRu8akgFweV2G3xnjj0JZrZUxwAWhg_R8",
+          "title": "Director of Product Management - Platform",
+          "subtitle": "Total Expert . Full-time",
+          "caption": "Aug 2021 - May 2022 · 9 mos",
+          "metadata": "Minneapolis, Minnesota, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal Software Product Owner - DevOps & Cloud Shared Services",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jun 2020 - Aug 2021 · 1 yr 2 mos",
+          "metadata": "Minneapolis, MN, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My vision: delivery of value faster on a tech stack that can match the agility demands of our business.\n\nMy how: driving the internal productization of DevOps-as-a-service, as well as the rollout of key strategic cloud shared services (productizing the adoption of AWS Cloud, Kubernetes, ELK Stack, and Hortonworks/Big-Data stack)."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2925058",
+          "companyUrn": "urn:li:fsd_company:2925058",
+          "companyLink1": "https://www.linkedin.com/company/toppan-merrill/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRZAOxowBNxQ/company-logo_400_400/company-logo_400_400/0/1690336238146/toppan_merrill_logo?e=1785369600&v=beta&t=4ErtEw27qWVJhQ0qPw7nDjOG6wZADIse0JVSdXE4MK0",
+          "title": "Principal Product Manager",
+          "subtitle": "Toppan Merrill . Full-time",
+          "caption": "Apr 2017 - Jun 2020 · 3 yrs 2 mos",
+          "metadata": "Greater Minneapolis-St. Paul Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I helped transform a print company into a software company by bringing to market a portfolio of products, ranging from our eCommerce storefront for agent/broker material ordering, a data analytics product to drive customer insights and decision support, and a backend SaaS-based Workflow Orchestration product used to deliver omnichannel regulated communications to our customers.\n\nResults:\n- Championed data-driven decisions and launched a research program, leveraging qualitative and quantitative data to influence product decisions and strategy \n- Launched two brand new market-facing products from conception through customer onboarding\n- Onboarded 30+ Enterprise customers onto my product in the first year after its launch\n- Increased brand differentiation, impacting the average deal size and deal velocity"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "25089",
+          "companyUrn": "urn:li:fsd_company:25089",
+          "companyLink1": "https://www.linkedin.com/company/rba-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBKO5EsODsZg/company-logo_400_400/company-logo_400_400/0/1701788355772/rba_inc__logo?e=1785369600&v=beta&t=0wCU01GsCFgpN-IkMdIh8oLGCRNxugIVLEv0kMPzJSQ",
+          "title": "RBA, Inc.",
+          "subtitle": "undefined · 8 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Discipline Manager, Digital Experience Technology",
+              "caption": "Mar 2015 - 2017 · 1 yr 10 mos",
+              "metadata": "Wayzata, MN",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I managed the Digital Experience Technology team at RBA, Inc. From my team RBA delivered innovative experience marketing solutions across many digital channels, namely web, mobile, apps, commerce and email. These experiences are driven primarily out of Sitecore (and to a lesser extent, Umbraco), and my core focus was to develop best practices and strategies for the Marketer, End User, Developer and Administrator perspectives to ensure the highest value possible is being provided to my customers.\n\nI also performed many activities beyond a typical technologist, such as ownership of a great employee experience, ensuring unparalleled customer satisfaction, pre-sales solution alignment with customers, account strategies, go-to market strategies, marketing/promotion strategies, and fiscal budgetary responsibilities. Additionally, I owned delivery excellence across my portfolio of projects. I worked through my project managers and other staff members to capture lessons learned, best practices, and evolve current processes to continually improve engagement delivery and customer satisfaction.\n\nRBA accomplishments:\n- Introduced Agile/SCRUM methodologies into a traditionally waterfall team\n- I revamped our Quality Assurance processes by rolling out agile testing and test automation"
+                }
+              ]
+            },
+            {
+              "title": "Regional Practice Manager",
+              "caption": "Jan 2014 - Mar 2015 · 1 yr 2 mos",
+              "metadata": "Wayzata, MN",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Phil provided managerial, operational, and Profit/Loss oversight across RBA's Portals, Business Intelligence, Enterprise Social, Collaboration, and Managed Services teams within RBA's North region.\n\nAs a Regional Practice Manager Phil owned the Profit/Loss for his practice which had him performing many activities beyond a typical technologist, such as ownership of a great employee experience, ensuring unparalleled customer satisfaction, opportunity tracking/planning in CRM, pre-sales solution alignment with customers, account strategies, go-to market strategies, marketing/promotion strategies, and fiscal budgetary responsibilities. \n\nAdditionally, Phil owned delivery excellence across his portfolio of projects. He worked through his project managers and other staff members to capture lessons learned, best practices, and evolve current processes to continually improve engagement delivery and customer satisfaction."
+                }
+              ]
+            },
+            {
+              "title": "Team Manager, SharePoint & Office 365 Services",
+              "caption": "Jan 2012 - Dec 2013 · 1 yr 11 mos",
+              "metadata": "Wayzata, MN",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Phil provided managerial, operational, and Profit/Loss oversight to RBA Consulting's Services Center. This includes managing a team of technical professionals across SharePoint Administration, Office 365 deployments, SQL Administration, Windows Server Administration, Networking, Authentication systems such as ADFS, Systems Center and custom .NET development disciplines. RBA continues to provide SharePoint & Office 365 managed services as well as remote custom development for its clients under Phil's supervision and leadership.\n\nPhil also managed RBA's application managed services for customers who need RBA to provide their ongoing support. He has experience managing SLAs, accountability for disaster recovery RPO/RTO objectives, and other operational metrics you’d expect from a managed services provider. \n\nRBA accomplishments:\n- Launched remote services venture in 2012, achieving >100% budget first 6 out of 8 quarters\n- President's Club recipient"
+                }
+              ]
+            },
+            {
+              "title": "Senior Consultant",
+              "caption": "Apr 2008 - Dec 2011 · 3 yrs 8 mos",
+              "metadata": "Wayzata, MN",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a Senior Consultant for RBA, Phil was responsible to estimate, architect, and design the SharePoint solutions for RBA’s largest, most critical clients. The role was structured such that Phil was usually the first to hit the ground, in that he interpreted the requirements, architected a solution, validated high risk proof of concepts, and thereafter transitioned the work to other RBA resources and mentored them through the engagement. Phil was usually providing architectural oversight and delivery assurance across 3-5 clients at a time. \n\nAdditionally, Phil spent considerable time researching, blogging, speaking, writing, and mentoring other RBA resources. Phil also spent time helping the sales engine at RBA. He frequently assessed enterprise requests for proposals and participated in pre-sales calls and meetings. In his role he supported the sales staff from a technical perspective to help estimate and win new engagements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering Manager / Instructor",
+          "subtitle": "Mindsharp . undefined",
+          "caption": "Jun 2007 - Apr 2008 · 10 mos",
+          "metadata": "St. Louis Park, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Phil worked for both Barracuda and Mindsharp, two companies owned by English, Bleeker, & Associates. At Barracuda, Phil was the manager of the Technical Group where he provided leadership and supervision over the project management, business analysis, engineering, quality assurance, and product support efforts for Barracuda’s DeliverPoint product line. At Mindsharp, he was a SharePoint Instructor, teaching the 2007 developer course, typically one week per month."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3743",
+          "companyUrn": "urn:li:fsd_company:3743",
+          "companyLink1": "https://www.linkedin.com/company/rsm-us-llp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGaX4sIuJaZuw/company-logo_400_400/B4EZ72qbMuJEAc-/0/1782254777377/rsm_us_llp_logo?e=1785369600&v=beta&t=JyUgtB-H0S5A9s8ao9yz-5YiBpKjqFszm0EUVtL7r9E",
+          "title": "Architect",
+          "subtitle": "McGladrey . undefined",
+          "caption": "Nov 2005 - Jun 2007 · 1 yr 7 mos",
+          "metadata": "Bloomington, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Phil was an Architect at McGladrey where he led a team to design and build SharePoint solutions that met unique business needs around a complex taxonomy. He was also responsible for maintaining clear and articulate technical design documents, disaster recovery documentation, and implementation plans. In his team lead role, he was also held accountable for maintaining framework best practices including deployment procedures, security, and coding / development standards."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Instructor / WebMaster",
+          "subtitle": "Mindsharp . undefined",
+          "caption": "Oct 2004 - Nov 2005 · 1 yr 1 mo",
+          "metadata": "Maple Grove, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Phil first started with Mindsharp in 2004 where he organized and implemented all the updates to Mindsharp public web internet site. Additionally, he taught Mindsharp’s 2003 SharePoint Developer course on a regular basis."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "871226",
+          "companyUrn": "urn:li:fsd_company:871226",
+          "companyLink1": "https://www.linkedin.com/company/scrum-alliance/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1785369600&v=beta&t=qBtgg53rCKw2oOgOBvhjCNHdXc-pOCqxkZXmd518BUs",
+          "title": "Certified SCRUM Product Owner",
+          "subtitle": "Scrum Alliance",
+          "issued": "Issued Apr 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management Professional (PMP)",
+          "subtitle": "Project Management Institute",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sitecore Certified Commerce Developer",
+          "subtitle": "Sitecore",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "39750",
+          "companyUrn": "urn:li:fsd_company:39750",
+          "companyLink1": "https://www.linkedin.com/company/sitecore/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEuc-Uj3PcXAA/company-logo_200_200/B4EZ3PzuI2IoAI-/0/1777307935693/sitecore_logo?e=1785369600&v=beta&t=4lchGHx9sgdt5T5IkdCSTM1nlGnq3tz2cPPCEJkmrPU",
+          "title": "Sitecore Certified Developer",
+          "subtitle": "Sitecore",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "39750",
+          "companyUrn": "urn:li:fsd_company:39750",
+          "companyLink1": "https://www.linkedin.com/company/sitecore/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEuc-Uj3PcXAA/company-logo_200_200/B4EZ3PzuI2IoAI-/0/1777307935693/sitecore_logo?e=1785369600&v=beta&t=4lchGHx9sgdt5T5IkdCSTM1nlGnq3tz2cPPCEJkmrPU",
+          "title": "Sitecore Certified System Administrator",
+          "subtitle": "Sitecore",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Sitecore MVP, 2017 & 2018 - Digital Strategist",
+          "subtitle": "Issued by Sitecore",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I was awarded Sitecore MVP, Digital Strategist, for years 2017 and 2018 for my work, writing, and presenting around digital marketing strategy actualized through the Sitecore platform. Learn more: http://www.sitecore.net/mvp."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "President's Club, 2012",
+          "subtitle": "Issued by RBA, Inc.",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Phil achieved President's Club status for achieving 120% of revenue/EBIT quota for his practice in 2012."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "President's Club, 2009",
+          "subtitle": "Issued by RBA, Inc.",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Phil achieved President's Club status because of revenue generated from hours billed for the company in 2009."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "P&L Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go-to-market Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Professional Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CRM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Warehousing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Gathering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pre-sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5609",
+          "companyUrn": "urn:li:fsd_company:5609",
+          "companyLink1": "https://www.linkedin.com/school/capella-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG2UdixLmBhbQ/company-logo_100_100/B56ZwqqY6wI8AQ-/0/1770242281945/capella_university_logo?e=1785369600&v=beta&t=u0EwQafhsn0AxEH3WCAZxr3k2owcEX7m7V9vI0Pa3dw",
+          "title": "Capella University",
+          "subtitle": "Master of Business Administration (MBA), null",
+          "caption": "2011 - 2013",
+          "subComponents": []
+        },
+        {
+          "companyId": "19624",
+          "companyUrn": "urn:li:fsd_company:19624",
+          "companyLink1": "https://www.linkedin.com/school/bethel-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGvjQXl7P4iSQ/company-logo_400_400/company-logo_400_400/0/1631325699217?e=1785369600&v=beta&t=9ixidP8J8_fiugVw4dPt-iKSArzbK212vmeJcsXkOlU",
+          "title": "Bethel University",
+          "subtitle": "Bachelors, Computer Science",
+          "caption": "2001 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

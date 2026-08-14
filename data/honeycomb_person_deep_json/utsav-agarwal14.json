@@ -1,0 +1,422 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/utsav-agarwal14",
+  "row_key": "id:003Uk00000ydKldIAE",
+  "person": "Utsav Agarwal",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:25Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABFrsysB48KPJ4CmV8Shh0ye-trVsNTIy0g",
+      "firstName": "Utsav",
+      "lastName": "Agarwal",
+      "fullName": "Utsav Agarwal",
+      "publicIdentifier": "utsav-agarwal14",
+      "headline": "Seasoned Software Development Professional | Backend & Fullstack Specialist | Generative AI Enthusiast | Proficient in Golang, Node.js, Python, React, JavaScript, PHP, MySQL, PostgreSQL, MongoDB, Kafka, and Gearman",
+      "about": "Over 11 years, I've worked across backend and data engineering: designing distributed services in Go and Node.js, building large-scale ETL/ELT pipelines in Python and SQL, and running cloud data platforms on Snowflake, BigQuery, Airflow, and Kafka. My work has spanned fintech, compliance, and consumer tech — from transaction-monitoring pipelines to internal data platforms used by hundreds of engineers. Currently, I'm a contractor with Coinbase, building compliance data pipelines and integrating AI agent tooling (MCP, Claude Code) directly into production monitoring systems — one of the earlier hands-on applications of agentic AI in a live compliance workflow. Before that, I built data platforms and a GenAI/RAG-based query assistant at Gojek (GoTo Financial), and shipped full-stack products earlier in my career.Always glad to connect with fellow engineers, and open to conversations about backend/data engineering roles — full-time or contract — where I can own systems end-to-end.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Gurgaon, Haryana India",
+      "addressWithoutCountry": "Gurgaon, Haryana",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Software Engineer",
+          "subtitle": "Coinbase . Part-time",
+          "caption": "Jan 2025 - Present · 1 yr",
+          "metadata": "Gurugram, Haryana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "73804997",
+          "companyUrn": "urn:li:fsd_company:73804997",
+          "companyLink1": "https://www.linkedin.com/company/gotogroup/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHgIVeVdQXzvA/company-logo_400_400/company-logo_400_400/0/1723176835737/gotogroup_logo?e=1785369600&v=beta&t=NEwtTZEWeo3SIfOhKwV9VZls0HR0IzmhQe0QYD-uNDc",
+          "title": "Senior Software Engineer",
+          "subtitle": "Gojek . Full-time",
+          "caption": "May 2022 - Dec 2024 · 2 yrs 7 mos",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Building Data Platform which provide data access to different data management tools , responsible for running & scheduling data pipelines based on user inputs.\n* Building internal IAM tool responsible for Authentication, Authorisation and reverse proxy for different systems based on Access rules.\n* Recommendation engine for the BQ queries asked by Business users using Generative AI RAG pattern (Vertex AI), Text embeddings, similarity algorithms, etc.\n* Daily activities on production bugs and technical design discussions on new feature requests / technical enhancements."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13251676",
+          "companyUrn": "urn:li:fsd_company:13251676",
+          "companyLink1": "https://www.linkedin.com/company/coffeebeans-brewinginnovations/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGsk7G-yPE6_g/company-logo_400_400/company-logo_400_400/0/1719257645783/coffeebeans_brewinginnovations_logo?e=1785369600&v=beta&t=3TSzT__i4mTJK6J50COgUdc67so-U6_w9TmUR9fNqRU",
+          "title": "Senior Software Engineer",
+          "subtitle": "CoffeeBeans Consulting . Full-time",
+          "caption": "Mar 2020 - Apr 2022 · 2 yrs 1 mo",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "13179651",
+          "companyUrn": "urn:li:fsd_company:13179651",
+          "companyLink1": "https://www.linkedin.com/company/paisabazaar/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG5JYRV1HyYrw/company-logo_100_100/B56Z8hylNGGcAI-/0/1782978335759/paisabazaar_logo?e=1785369600&v=beta&t=QCj6wJiu1tABK0TJCTNA_ZsDaHq6pvxDSl_zL4YniR8",
+          "title": "Software Developer",
+          "subtitle": "Paisabazaar . undefined",
+          "caption": "May 2018 - Feb 2020 · 1 yr 9 mos",
+          "metadata": "Gurgaon, Haryana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Notification system using Python scripts with Gearman as the messaging queue and Mongo as the main database.\nFunctionalities for Credit bureau apply using React , Node and Php."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3366835",
+          "companyUrn": "urn:li:fsd_company:3366835",
+          "companyLink1": "https://www.linkedin.com/company/tracxn/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG8QTQUeybruQ/company-logo_400_400/company-logo_400_400/0/1652177251610/tracxn_logo?e=1785369600&v=beta&t=R_v2gp4onK5grqYXxRA36gcFpQUP6o1JzRr_3YgVgQs",
+          "title": "Software Engineer",
+          "subtitle": "Tracxn . undefined",
+          "caption": "Nov 2017 - Apr 2018 · 5 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on the following modules of the app : Tracxn Blogs in wordpress,Crm for the Paid users in React and migration of modules from spring to node."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2512558",
+          "companyUrn": "urn:li:fsd_company:2512558",
+          "companyLink1": "https://www.linkedin.com/company/happily-unmarried-marketing-pvt-ltd-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHmbNIZR4kb2A/company-logo_400_400/company-logo_400_400/0/1630594623093/happily_unmarried_marketing_pvt_ltd__logo?e=1785369600&v=beta&t=RgEST54HQjsBZktBbENHdEJMekBU0o4JfwqHGtIjZsM",
+          "title": "Software Developer",
+          "subtitle": "Happily Unmarried Marketing Pvt. Ltd. . undefined",
+          "caption": "Jul 2016 - Jul 2017 · 1 yr",
+          "metadata": "New Delhi Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked as a Web developer on the live E-commerce website in Php , Magento , Mysql, Mongo, Silex(Micro-framework), Javascripts.\nEnd to end development of the Subscription plan module.\nWorked on the full flow of the e-commerce website from the home page to the Payment success page.  \nRest api's development for Android and Ios."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5355473",
+          "companyUrn": "urn:li:fsd_company:5355473",
+          "companyLink1": "https://www.linkedin.com/company/tolexo-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE-j4DPjNKzjg/company-logo_400_400/company-logo_400_400/0/1631393210045?e=1785369600&v=beta&t=1Oyy8PTdHHELVRpHhW1FjGZVfB-VmOyofWX_IoeeIHE",
+          "title": "Software Developer",
+          "subtitle": "Tolexo.com . undefined",
+          "caption": "Jul 2015 - Jul 2016 · 1 yr",
+          "metadata": "Noida Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "The project is being developed for the organization named Tolexo. The website is E-Commerce which sells Industrial Products Online. The project consist Of Payments part of the Website.\nIntegrated Payu(Credit card, Debit card, Wallet, Net Banking), Paytm Wallet, Mobikwik Wallet On live Website. \nWritten Reconciliation job for Payu,Paytm and Mobikwik in Php using Magento framework.\nDatabase design and implementation for transactional Logging of Payments using Golang, Php, curl.\nDaily automated operational reporting check of the Orders.\nAgile Method Implementaion and Project Tracking in JIRA."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "E-Commerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google BigQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Large Language Models (LLM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OOP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Magento",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Javascr",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servlets",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY ,NOIDA",
+          "subtitle": "Bachelor of Technology (B.Tech.), Information Technology",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "6.7"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Data Platform for Governance, Discovery, and Data Pipeline Management.",
+          "subtitle": "Apr 2022 - Nov 2024",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "1. Building a Data Platform that provides data access to various data management tools, responsible for running and scheduling data pipelines based on user inputs.\n2. Developing an internal IAM tool responsible for Authentication, Authorization, and reverse proxying for different systems based on access rules.\n3. Creating a recommendation engine for BigQuery queries requested by business users, leveraging Generative AI (Vertex AI), text embeddings, similarity algorithms, and the RAG pattern.\n4. Building data lineage to track the source and destination of data, improving transparency for data warehouse and analytics teams."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Credit Bureau Integration and Notification System.",
+          "subtitle": "Jul 2018 - Jan 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "1. This project involves integrating credit bureaus such as CIBIL, Equifax, and Highmark. I developed the end-to-end application process, from frontend to backend, using technology stacks like React.js, Node.js, PHP, Python, MySQL, MongoDB, and more.\n2. This is an event-driven system that subscribes to events from the main application layer and sends notifications based on the current status of the report. It also includes scheduled cron jobs that send notifications regarding the user's monthly report refresh."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Web development in Happilyunmarred online Pvt Ltd",
+          "subtitle": "Jul 2016 - Jul 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Project consist of development of full Backend system from database design to Rest Api’s.\nWorked on the full flow of the website till success page.\nAd-hoc task includes live bugs on checkout and payments etc or working on Angular-js as per the need."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Payment Module on Tolexo Online Pvt Ltd.",
+          "subtitle": "Jul 2015 - Jul 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The project consist of Payments part of the website. Integrated Payu (Credit card, Debit card, Wallet, Net Banking), Paytm Wallet, and Mobikwik Wallet On live Website.\n Written Reconciliation job for Payu, Paytm and Mobikwik in Php using Magneto framework.\nDatabase design and implementation for transactional Logging of Payments using Golang, Php, curl."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Academic Project in Information Systems.",
+          "subtitle": "Jul 2014 - Dec 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Advanced Java (Jsp, servlet, Java beans) project on Cricket Analysis in information systems.\n Applied Machine learning algorithms like Naïve Bayes, K-mean clustering, K nearest neighbour etc.\nThe dataset for project is crawled using PHP from Cricket websites (Cric Info)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

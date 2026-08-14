@@ -1,0 +1,426 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/david-rodriguez-32b18b73",
+  "row_key": "id:003Uk00000Pb5e2IAB",
+  "person": "David Rodriguez",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:51Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA-CkBMB7DlKsxQ25ApuYkxKXiEEak30LqQ",
+      "firstName": "David",
+      "lastName": "Rodriguez",
+      "fullName": "David Rodriguez",
+      "publicIdentifier": "david-rodriguez-32b18b73",
+      "headline": "Principal Post Market Reliability Engineer",
+      "about": "Experienced engineer with a demonstrated history of working in the medical device industry. Skilled in Research, Microsoft Excel, Management, Microsoft Word, and Microsoft PowerPoint. Strong business development professional with a Bachelor of Science (BS) focused in Kinesiology from University of Illinois at Chicago. ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Minneapolis-St. Paul Area United States",
+      "addressWithoutCountry": "Greater Minneapolis-St. Paul Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHFp6Z4-A9Nfw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516486967461?e=1785369600&v=beta&t=S25piGYXkJsITU7QlzXOkdYME72Fb5VRp46Sm4lcexQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHFp6Z4-A9Nfw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516486967733?e=1785369600&v=beta&t=TRHSXL-Hd5HyZnfTwfA_WlFfz6bRBLChKXKZDwuoR7U"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHFp6Z4-A9Nfw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516486967146?e=1785369600&v=beta&t=19MAuN6ZgR4QGpmRAEo8aI8iVhTcRcH6penk0eBtuSA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHFp6Z4-A9Nfw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516486967212?e=1785369600&v=beta&t=rHuTLPRQCSbycepRTtckvuQPopA3tXgIdtMdz9Q-8bg"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHFp6Z4-A9Nfw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516486967461?e=1785369600&v=beta&t=S25piGYXkJsITU7QlzXOkdYME72Fb5VRp46Sm4lcexQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 6 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Reliability Engineer ",
+              "caption": "Jul 2023 - Present · 2 yrs 6 mos",
+              "metadata": "United States",
+              "description": []
+            },
+            {
+              "title": "Senior Reliability Engineer",
+              "caption": "Mar 2019 - Present · 6 yrs 10 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1612",
+          "companyUrn": "urn:li:fsd_company:1612",
+          "companyLink1": "https://www.linkedin.com/company/abbott-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgKiVB5rm6zQ/company-logo_200_200/B56Zi9acl2HMAI-/0/1755524485091/abbott__logo?e=1785369600&v=beta&t=7ix78A8CHrJtCdaUmQHcpuUjLjP1poPvUpaazs0R9s4",
+          "title": "Product Performance Engineer ",
+          "subtitle": "Abbott . undefined",
+          "caption": "Nov 2014 - Feb 2019 · 4 yrs 3 mos",
+          "metadata": "Plymouth, Minnesota",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "(formerly St. Jude Medical, Electrophysiology Device Analyst) In this analyst role, I participated in receiving, processing, and decontaminating devices such as electrophysiology catheters, introducer sets, tubing sets, needles, or packaging complaints, while following proper decontamination procedures and protocol. This consisted of reviewing complaint and device history records (DHR) to determine an appropriate analysis plan to implement, then I systematically investigated each claim by evaluating the product through visual assessments and conduced functional tests, such as electrical testing, torque force testing, ablation simulation, EKG testing, irrigation testing, and other device-specific tests as needed. I wrote thorough evaluation reports to summarize test results and findings, as well as updated and managed the product investigation sections in the product complaint database (EPIQ), including accurate and precise entry of complaint evaluations, findings, and codes for trending issues. In addition to the analysis process, I responded to local and global requests from department directors, managers, or engineers when more information or further analysis was requested, as well as ad hoc requests for information on previous investigations or trends in product complaints. I participated in weekly cross-functional review groups and team meetings to ensure consistency and integrity, collaborate with teams to set metrics and achieve weekly goals and benchmarks, and participated in sharing complaint and report information with various cross-functional teams, collaborating on ideas and solutions such as Corrective and Preventive Actions (CAPAs), Supplier Corrective Action Request (SCARs), or Change Request (CR)."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Medical Examiner Technician",
+          "subtitle": "Hennepin County Medical Examiner . undefined",
+          "caption": "Nov 2012 - Nov 2014 · 2 yrs",
+          "metadata": "Minneapolis, Minnesota",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I performed morgue operational and laboratory duties, including: processing bodies (inventorying personal property and evidence, securing weapons, fingerprinting, and collecting specimens), preparing and maintaining the autopsy suite and supplies, and assisting forensic pathologists with the autopsy procedure. I retrieved, labeled, cataloged, and delivered specimens to various laboratories, while maintaining internal databases and record systems, as well as aggregated findings and communicated regularly to internal and external audiences (including a team of forensic pathologists, investigators, law enforcement, and laboratory staff as well as other professional guests or specialists). When off site, I assisted investigators in consulting the family at the death scene, which included communicating complex policies, procedures, and operations that were conducted, and doing so in a calm, professional manner. Lastly, I served as a team-lead in teaching and training new hires, which consisted of a 6-month job shadow experience, and provided extensive training to a variety of medical and legal professionals, such as: medical students, residents, research fellows, and law enforcement."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1335",
+          "companyUrn": "urn:li:fsd_company:1335",
+          "companyLink1": "https://www.linkedin.com/company/us-navy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH24V4zAnikYg/company-logo_400_400/company-logo_400_400/0/1699469532234/us_navy_logo?e=1785369600&v=beta&t=hcCx8axH8BFbpowu3PhP_5mKshg-9PZ3xeXmZ92ASCg",
+          "title": "Electricans Mate",
+          "subtitle": "US Navy . undefined",
+          "caption": "May 2004 - May 2008 · 4 yrs",
+          "metadata": "Norfolk, Virginia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I served on the nuclear aircraft carrier USS Dwight D. Eisenhower (CVN 69) and worked in the Engineering Department maintaining the ship, restoring various equipment, and conducting electrical tests to assess, isolate, and resolve issues or repair items. I also worked with senior officers of the Engineering Department by facilitating daily office tasks, such as filing and processing paperwork, typing progress reports, managing attendance counts, and taking meeting minutes. In 2006, I deployed to the Persian Gulf for eight months to assist ground troops in Operation Enduring Freedom, where I contributed to earning The Battle Efficiency Ribbon, awarded the ship that demonstrates the highest state of battle readiness."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Global War on Terror Service Medal and Global War on Terror Expeditionary Medal",
+          "subtitle": "Issued by United States Navy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "National Defense Service Medal, Sea Service Deployment Ribbon, and the Meritorious Unit Commendation Medal",
+          "subtitle": "Issued by United States Navy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Good Conduct Medal",
+          "subtitle": "Issued by United States Navy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flag Letter of Commendation",
+          "subtitle": "Issued by USS Dwight D. Eisenhower’s Captain J. D. Cloyd",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Risk Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Report Writing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Reliability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Reporting Requirements",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Device Directive",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Written Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Post Market Surveillance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Investigation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Time Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Complaint Investigations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Word",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Training",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2649",
+          "companyUrn": "urn:li:fsd_company:2649",
+          "companyLink1": "https://www.linkedin.com/school/thisisuic/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBN-jmusbuKg/company-logo_400_400/company-logo_400_400/0/1631324851602?e=1785369600&v=beta&t=p9H15rkqwYBL7H9e-08UXEQpT6Jg2Ch-5ItqTBs4kGg",
+          "title": "University of Illinois at Chicago",
+          "subtitle": "Bachelor of Science (BS), Kinesiology Club",
+          "caption": "2010 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.3 GPA"
+            }
+          ]
+        },
+        {
+          "companyId": "27456",
+          "companyUrn": "urn:li:fsd_company:27456",
+          "companyLink1": "https://www.linkedin.com/school/mchenry-county-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGDsowYTKmMOQ/company-logo_400_400/company-logo_400_400/0/1631313591399?e=1785369600&v=beta&t=3HltWxeAD4PQmtXrX29kKWiM8r_fzvpnZmxtvUmzRQ8",
+          "title": "McHenry County College",
+          "subtitle": "Associate of Science (A.S.), Phi Theta Kappa, International Honors Society. \nStudent Veterans Association. ",
+          "caption": "2008 - 2010",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.9 GPA"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "1612",
+          "companyUrn": "urn:li:fsd_company:1612",
+          "companyLink1": "https://www.linkedin.com/company/abbott-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgKiVB5rm6zQ/company-logo_200_200/B56Zi9acl2HMAI-/0/1755524485091/abbott__logo?e=1785369600&v=beta&t=7ix78A8CHrJtCdaUmQHcpuUjLjP1poPvUpaazs0R9s4",
+          "title": "Veterans Mentor",
+          "subtitle": "Abbott",
+          "caption": "Nov 2016 - Present · 9 yrs 2 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Cardiac Genetic Study",
+          "subtitle": "Nov 2012 - Nov 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked with the forensic pathologists to collect blood specimen, input and track data, and extract data from the database. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sudden Undetermined Infant Death (SUID) Study",
+          "subtitle": "Nov 2013 - Nov 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked with the forensic pathologists to collect specimens and input data into the database. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/azlina-yeo",
+  "row_key": "id:0033l00002wdObeAAE",
+  "person": "Azlina Yeo",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:17Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAC7utT4BapmOAcIRlt0LswtsiV68LZ5fSXo",
+      "firstName": "Azlina",
+      "lastName": "Yeo",
+      "fullName": "Azlina Yeo",
+      "publicIdentifier": "azlina-yeo",
+      "headline": "Software / Platform / AWS Devops Engineer ● BSc Computer Science ● PGCE Secondary Mathematics",
+      "about": "Dynamic Software Engineer with over 2 years of experience in full stack development, adept in cloud security and infrastructure management. Key skills include AWS, Terraform, and Javascript, with demonstrated success in increasing CloudGuard security scores by 30%. Proven ability to enhance application performance and streamline processes through CI/CD practices.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Manchester Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "Manchester Area, United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQGZIcUPbDwheg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1613763652399?e=1785369600&v=beta&t=1mrS972vACIG2Ql9i8h6Ds6x09z1ptWx1-WpDoS4xO0",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQHZS3xug_ICFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642511543503?e=1785369600&v=beta&t=imgi7dofL3zEnNClQpFhUge7Oe-ENz2RoJGL0zc3zNg",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGZIcUPbDwheg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1613763652398?e=1785369600&v=beta&t=J-uqdCNV-M2YwG9pgpNKx2xu1gfP2OkebFcMI6rD6QU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGZIcUPbDwheg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1613763652398?e=1785369600&v=beta&t=WDl8sVZCdWfHhE6-w9hPq7L1yWDAQ7RlYhkWU3mHxS0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGZIcUPbDwheg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1613763652398?e=1785369600&v=beta&t=dPBjjhv2SkDRknqetd_1rGrfucKtvEGMQYSd-U-TL3I"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGZIcUPbDwheg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1613763652399?e=1785369600&v=beta&t=1mrS972vACIG2Ql9i8h6Ds6x09z1ptWx1-WpDoS4xO0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQHZS3xug_ICFQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1642511543503?e=1785369600&v=beta&t=ti7JuoH2762Q_fiU-6RBCQItQ7LBf0pkT0bb-dF0P54"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQHZS3xug_ICFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1642511543503?e=1785369600&v=beta&t=imgi7dofL3zEnNClQpFhUge7Oe-ENz2RoJGL0zc3zNg"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 4 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer II - Core Platform Team",
+              "caption": "Mar 2025 - Present · 10 mos",
+              "metadata": "London Area, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Software Engineer I - Core Platform",
+              "caption": "Jan 2022 - Present · 4 yrs",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I am a member of the Core Platform Team.\n\nMy current and previous works include:\n• Contribute to backend API code using Python and Boto\n• Write tests in Pytest\n• Remediate security issues involving AWS resources, which included:\n   - migrated CloudFront distribution to use OAC instead of OAI to encrypt S3 origins with SSE-KMS (in Ansible)\n   - migrated Redis cluster from an unencrypted cache cluster to an encrypted, at-rest and in-transit, replication group (in Ansible)\n   - migrated Redshift from unencrypted to encrypted with KMS (in Ansible)\n   - enabled WAFs in front of ALBs (in Terraform)\n• Send reports generated from tools or various APIs to Slack with AWS resources i.e. EventBridge, SNS, Lambda, etc., using Terraform and Boto.\n• Set up monitoring tool for Kubernetes cluster using OpenTelemetry Collector and AWS OpenSearch."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1103479",
+          "companyUrn": "urn:li:fsd_company:1103479",
+          "companyLink1": "https://www.linkedin.com/company/missguided-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHSYGTBK6Rmww/company-logo_400_400/company-logo_400_400/0/1684487483198/missguided_ltd_logo?e=1785369600&v=beta&t=qzHYLPUoFwFi_kNvtyDZCp268LDhDwOm-QcRdfNAz8U",
+          "title": "Junior Software Engineer - Checkout & Payments",
+          "subtitle": "Missguided . Full-time",
+          "caption": "Jun 2021 - Jan 2022 · 7 mos",
+          "metadata": "Greater Manchester, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was a member of the Checkout and Payments team. I worked on Missguided's re-platforming project to React.JS. Other previous works include:\n\n•\tCreated React.JS checkout page according to Figma designs.\n•\tContributed to updating and adding additional payment methods for checkout.\n• Update or/and add APIs (REST and GraphQL) for checkout page services.\n•\tFixed bugs in the current Preact checkout app.\n•\tParticipated in researching technologies and creating spikes for the initial design phase of re-platforming to React, in particular,\n       ** created a spike on how to implement Redux Tool Kit for better typed redux code\n       ** researched how best to share components between teams using React Storybook and Bit.dev\n•\tCreated a reusable React form so as to implement the DRY principle.\n•\tFixed errors and updated versions in Missguided’s Local Development Environment, which uses Docker and Kubernetes on AWS."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "276725",
+          "companyUrn": "urn:li:fsd_company:276725",
+          "companyLink1": "https://www.linkedin.com/company/madetech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH90r-H_0W9Mw/company-logo_400_400/company-logo_400_400/0/1634822779749/madetech_logo?e=1785369600&v=beta&t=W-KuhpQ-JOlYgotFSA6exBo6_lNcFk9RXfSaux7bEwc",
+          "title": "Made Tech",
+          "subtitle": "Full-time · 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer 1",
+              "caption": "Mar 2021 - Jun 2021 · 3 mos",
+              "metadata": "Manchester, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Assist with rapid prototyping in order to support the technical recommendations in the Alpha phase of a project\n\n•\tAuthentication and authorisation research and development of working prototypes of AWS Cognito on GovPaaS\n•\tHosting and infrastructure research and development\n•\tSupported the technical lead with creating working prototypes and helped to de-risk the recommendations being taken through to the Alpha Assessment.\n•\tActive contributor to team agile and scrum working"
+                }
+              ]
+            },
+            {
+              "title": "Academy Software Engineer",
+              "caption": "Nov 2020 - Mar 2021 · 4 mos",
+              "metadata": "Greater Manchester, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "NHS virtual visits enables the ability for patients to receive visits during C-19. This was a crucial project during the height of the pandemic that received critical acclaim. Worked on migrating the project from a per install software for each Trust in the NHS to a more sustainable SaaS platform.\n\n•\t Fully responsible for implementing the managers account feature for a single trust.\n•\t Refactored the Trust Manager ﬂow for managing hospitals and wards.\n•\t Contributed to using Terraform to provision infrastructure to Azure.\n•\t Facilitated agile team working including the creation of user journeys in the initial phase and created user stories in backlog.\n\nThe technologies used\n•\tJavascript / Node / Next.JS\n•\tCypress / Jest (TDD)\n•\tPostgresQL to MS Azure SQL database\n•\tTerraform\n•\tDataDog\n•\tGitHub Actions / Docker (CI /CD)"
+                }
+              ]
+            },
+            {
+              "title": "Academy Software Engineer",
+              "caption": "Sep 2020 - Nov 2020 · 2 mos",
+              "metadata": "Manchester, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Participated in Made Tech's academy training programme for twelve weeks. These were some of the technologies and principles we learnt:\n•\tAgile Methodologies\n•\tSOLID Principles\n•\tClean Architecture\n•\tTDD\n•\tGit Version Control\n\nIn this training programme, we completed two projects which incorporated the principles and technologies that we have learnt in the programme:\n\n1. Tic Tac Toe project\n•\tThe project was coded in Ruby.\n•\tIt was implemented through pair-programming.\n•\tThe Minimax algorithm was implemented as the computer AI.\n\n2. HR Project\n•\tThis was a team project\n•\tThe front-end was coded using React.\n•\tThe back-end was coded using ASP.NET Core.\n•\tDocker and CircleCI were used for CI/CD."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "10349442",
+          "companyUrn": "urn:li:fsd_company:10349442",
+          "companyLink1": "https://www.linkedin.com/school/northcoders/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH4_2mgA2y6uA/company-logo_400_400/B4EZerMzk8HcAk-/0/1750923950763/northcoders_logo?e=1785369600&v=beta&t=LMzhhQ0nVEdw-Ge4jNoErquF4aInBEz2DSZPZfyyisQ",
+          "title": "Trainee Full Stack Developer",
+          "subtitle": "Northcoders . undefined",
+          "caption": "Mar 2020 - Jun 2020 · 3 mos",
+          "metadata": "Manchester, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Attended a coding bootcamp where I learnt about the technology and methodologies used in the software industry. I completed two projects:\n \n 📰 Northcoders News(Reddit style news board)\n•\tBack-end RESTful API was built using Node.js, Express.js, PostgresQL.\n•\tFront-end was built with React.js and Bootstrap CSS Framework.\n•\tTDD was done with Mocha, Chai and Supertest\n \n🌏 Tap That Map \n•\tA world-map game built as a progressive web app to challenge a player’s geographical knowledge.\n•\tIt is playable as a single-player or multiplayer.\n•\tThis game was built in two weeks, where our MVP was a single-player game.\n•\tAgile programming practices such as pair-programming, daily stand-ups, Kanban board were used throughout the process.\n•\tFront-end was built with React.js, Google Maps API, Howler.js and Material UI.\n•\tBack-end was built with Firebase Realtime Database, Firebase Authentication and Firebase Cloud Storage."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Secondary Mathematics Teacher",
+          "subtitle": "Dean Trust Ardwick . Full-time",
+          "caption": "Sep 2019 - Mar 2020 · 6 mos",
+          "metadata": "Manchester, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tEncouraged and fostered curiosity in the field of Mathematics.\n•\tEnsured that all work in the Maths department reflects the distinctive ethos of the school.\n•\tOrganised the transfer of information from teachers to pupils.\n•\tMarked and graded the work of pupils.\n•\tMaintained appropriate school attainment records.\n•\tUndertook a designated programme of teaching across across all Key Stages.\n•\tPromoted the learning of Mathematics through out of school activities.\n•\tMaintained school-wide culture of respect and actively used positive behavioural interventions and supports disciplinary methods.\n•\tAttended all staff meeting and contribute positively to any discussions.\n•\tAttended parent-teacher meetings to discuss pupils' attainment and behaviour.\n•\tKept classrooms safe, well-organised and tidy."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Teaching Assistant Volunteer",
+          "subtitle": "Ashbury Meadow Primary School . Part-time",
+          "caption": "Sep 2011 - Jul 2012 · 10 mos",
+          "metadata": "Manchester Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tMade sure that the classroom was ready for lessons.\n•\tListened to children read, read to them or tell them stories.\n•\tSupported children to complete their task.\n•\tAssisted teachers in planning activities and completing records.\n•\tSupervised group activities.\n•\tLooked after children who were upset or who had accidents.\n•\tClearing away materials and equipment after lessons.\n•\tCarried out administrative task."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Customer Service Representative",
+          "subtitle": "Teletech Customer Service Management PTE LTD . Contract",
+          "caption": "Sep 2006 - Jan 2007 · 4 mos",
+          "metadata": "Singapore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tProvided advice, information and assistance to caller, attempting to resolve all queries on first contact with caller.\n•\tUnderwent training to use Singapore airlines, redemption booking system, in order to book and find optimised routes in accordance to customer's request.\n•\tEnsured that customer's queries, requests and complaints were resolved in line with key targets and company's procedures.\n•\tUtilised available resources to research required information for callers.\n•\tTook ownership of calls and queries, following up with customers and returning telephone calls when required.\n•\tApplied a professional and courteous manner at all times, especially when identifying and escalating priority issues, or customer complaints."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "8006436",
+          "companyUrn": "urn:li:fsd_company:8006436",
+          "companyLink1": "https://www.linkedin.com/company/gap-international-sourcing-limited/",
+          "title": "Merchandise Associate",
+          "subtitle": "Gap International Sourcing Limited PTE LTD . Contract",
+          "caption": "Feb 2006 - Jun 2006 · 4 mos",
+          "metadata": "Singapore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tHandled buyer queries from price quotations , order fulfilment, cancellation, confirmation to shipments.\n•\tManaged the requests samples.\n•\tMonitored fitting and styling of garments to ensure they were as required.\n•\tLiaised with quality assurance and buyers in order to inspect garments and provide timely feedback to vendors.\n•\tEnsured that all testing and documentation were complete.\n•\tMonitored the garment production process to ensure it was on schedule.\n•\tAnticipated potential problems before they happen to avoid delays in the production process.\n•\tCreated solutions when unexpected problems arose in the production process."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15249534",
+          "companyUrn": "urn:li:fsd_company:15249534",
+          "companyLink1": "https://www.linkedin.com/school/rafflesgirlsschool/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQED4d97Jb_42w/company-logo_400_400/company-logo_400_400/0/1631333033792?e=1785369600&v=beta&t=Ruyre_3O5cN1sq7pM7Fb9PgjJ8REx8cvNlWiFwpe9R4",
+          "title": "Teacher for ICT (Cover)",
+          "subtitle": "Raffles Girls'​ School . Contract",
+          "caption": "Feb 2006 - Mar 2006 · 1 mo",
+          "metadata": "Singapore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tPlanned ICT lessons according to school's curriculum.\n•\tPrepared materials for classes and lab work.\n•\tTaught lessons and facilitate group discussion around ICT topics.\n•\tMarked pupils work and gave feedback.\n•\tProvided assistance to pupils when required.\n•\tSoftware covered: Macromedia Fireworks and Macromedia Director.\n•\tICT skills covered: Web design and storyboarding."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Assistant Marker",
+          "subtitle": "KUMON Singapore - SAFRA Tampines . Part-time",
+          "caption": "Nov 2005 - Feb 2006 · 3 mos",
+          "metadata": "Singapore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tMarked and recorded pupils work according to the company's guidelines.\n•\tPrepared weekly worksheets for pupils to take home.\n•\tProvided pupils with explanations when questions were answered incorrectly.\n•\tListened to nursery children read, and corrected their pronunciation when necessary.\n•\tPerformed observations of pupils and provided concise feedback to Kumon Instructor.\n•\tPerformed general duties as and when requested by line manager."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "11426337",
+          "companyUrn": "urn:li:fsd_company:11426337",
+          "companyLink1": "https://www.linkedin.com/company/learnkube/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHm-nI4hYv4hg/company-logo_100_100/B56ZelBx9DHUAU-/0/1750820397268/learnk8s_logo?e=1785369600&v=beta&t=28inNfvIG0TNiUnBKr3qQJcjyzG-NN0n_chxvD9uwvg",
+          "title": "Advanced Kubernetes Course",
+          "subtitle": "Learnk8s",
+          "issued": "Issued Mar 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Introduction to Microsoft Azure Cloud Services",
+          "subtitle": "Coursera",
+          "issued": "Issued Oct 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "19180711",
+          "companyUrn": "urn:li:fsd_company:19180711",
+          "companyLink1": "https://www.linkedin.com/company/python-dev/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE2cylFXUf5Gw/company-logo_400_400/company-logo_400_400/0/1687269732756/python_dev_logo?e=1785369600&v=beta&t=c29dUrnKfmnZe5-e8IZoV-BgrBG-7BfWv8cLNyDZMU0",
+          "title": "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer",
+          "subtitle": "Python Institute",
+          "issued": "Issued May 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "26606976",
+          "companyUrn": "urn:li:fsd_company:26606976",
+          "companyLink1": "https://www.linkedin.com/company/kodekloud/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFUctPVNz4kJQ/company-logo_400_400/company-logo_400_400/0/1660624612113/kodekloud_logo?e=1785369600&v=beta&t=-tZs_Yy7ZR6rAThmVVMVbfuZ_GC2Weg7olucScp51BQ",
+          "title": "Docker For Beginners",
+          "subtitle": "KodeKloud",
+          "issued": "Issued Mar 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Mathematics Teacher Training Scholarship for the 2018/19 academic year",
+          "subtitle": "Issued by Department for Education",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Back-End Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React Testing Library",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "pytest",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bitbucket",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GitHub",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jest",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React Hooks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Preact",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Lambda",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ansible",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "28172194",
+          "companyUrn": "urn:li:fsd_company:28172194",
+          "companyLink1": "https://www.linkedin.com/school/cmuscs/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGMNW-foa0zIg/company-logo_400_400/company-logo_400_400/0/1630472413403/cmuscs_logo?e=1785369600&v=beta&t=Fj5WZXBccUiR5y2YrNVfwE97C79HU0KNiyw0jvKDzBk",
+          "title": "Carnegie Mellon University School of Computer Science",
+          "subtitle": "Bachelor of Science - BS, Computer Science",
+          "caption": "1999 - 2003",
+          "subComponents": []
+        },
+        {
+          "title": "Northcoders LTD",
+          "subtitle": "Web Development Bootcamp, Computer Programming",
+          "caption": "2020 - 2020",
+          "subComponents": []
+        },
+        {
+          "companyId": "166652",
+          "companyUrn": "urn:li:fsd_company:166652",
+          "companyLink1": "https://www.linkedin.com/school/university-of-manchester/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEYpS-SHXO1Mg/company-logo_400_400/company-logo_400_400/0/1631386008712?e=1785369600&v=beta&t=2wrCQkirJHw5EkDF8ATVS7sCMIjqqb5QK_hxTK_N7-g",
+          "title": "The University of Manchester",
+          "subtitle": "PGCE in Secondary Mathematics Education, Secondary Education and Teaching",
+          "caption": "2018 - 2019",
+          "subComponents": []
+        },
+        {
+          "companyId": "355164",
+          "companyUrn": "urn:li:fsd_company:355164",
+          "companyLink1": "https://www.linkedin.com/school/the-manchester-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH9plPUGTQyJw/company-logo_400_400/company-logo_400_400/0/1724748024588/the_manchester_college_logo?e=1785369600&v=beta&t=91xDxvEHTYm0dBOeCB9Bp_VsJTKdZ4tifOsRnbJJKh4",
+          "title": "The Manchester College",
+          "subtitle": "NVQ Level 2 CACHE, Support Teaching and Learning in Schools",
+          "caption": "2011 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Pass"
+            }
+          ]
+        },
+        {
+          "companyId": "14453257",
+          "companyUrn": "urn:li:fsd_company:14453257",
+          "companyLink1": "https://www.linkedin.com/school/victoria-junior-college-vjc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQEMgtZJAHI5tw/company-logo_400_400/company-logo_400_400/0/1630632042330/victoria_junior_college_vjc_logo?e=1785369600&v=beta&t=vALBCpM-v1wqw9FBOJtcInIZiTM54n42yNDUlGdjdmE",
+          "title": "Victoria Junior College",
+          "subtitle": "GCE A Levels, null",
+          "caption": "1997 - 1998",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Mathematics C - A, Pure Physics - A, Pure Chemistry - B"
+            }
+          ]
+        },
+        {
+          "companyId": "14702820",
+          "companyUrn": "urn:li:fsd_company:14702820",
+          "companyLink1": "https://www.linkedin.com/school/tanjong-katong-girls-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGmuPHfXsBCmg/company-logo_400_400/company-logo_400_400/0/1630620663624?e=1785369600&v=beta&t=ANsNbz22PihZ3UP1rqYO0wEivUO5Wer7sR3A8Xp7HVs",
+          "title": "Tanjong Katong Girls'​ School",
+          "subtitle": "GCSE O Levels, null",
+          "caption": "1993 - 1996",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "E Mathematics: A1, A Maths: A1, Physics: A1, Chemistry:A1, Geography:A2"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

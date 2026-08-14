@@ -1,0 +1,462 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/kris-a-peterson",
+  "row_key": "id:0033l00002sspPXAAY",
+  "person": "Kris Peterson",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T10:52:16Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAANElscBlFC8uZvjjQhtrTLnePaq9Msr_dI",
+      "firstName": "Kris",
+      "lastName": "Peterson",
+      "fullName": "Kris Peterson",
+      "publicIdentifier": "kris-a-peterson",
+      "headline": "Cloud Networking & Distributed Systems",
+      "about": "Experienced and passionate about  Network Engineering, Systems Engineering, Automation, and Cloud Computing.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Telecommunications",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Dallas-Fort Worth Metroplex United States",
+      "addressWithoutCountry": "Dallas-Fort Worth Metroplex",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 4 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Site Reliability Engineer",
+              "caption": "Aug 2022 - Present · 3 yrs 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "DevOps, Automation, Cloud Computing (AWS & GCP), Cloud & IP Networking. Implement solutions in Go, Python, Ruby, and Terraform."
+                }
+              ]
+            },
+            {
+              "title": "Senior Systems Engineer",
+              "caption": "Jul 2021 - Oct 2022 · 1 yr 3 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3185",
+          "companyUrn": "urn:li:fsd_company:3185",
+          "companyLink1": "https://www.linkedin.com/company/salesforce/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFuQMSI3zgmRw/company-logo_100_100/B56Z3aploQGoAQ-/0/1777489828808/salesforce_logo?e=1785369600&v=beta&t=Gnuo0ouQhGzyy5QRnWSEFz8AnMpJCNllTYgrBjVeb2I",
+          "title": "Senior Network Engineer",
+          "subtitle": "Salesforce . Full-time",
+          "caption": "Apr 2019 - Jul 2021 · 2 yrs 3 mos",
+          "metadata": "Dallas/Fort Worth Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "IP Routing and Switching, SD-WAN, Security, Cloud Computing and Networking (AWS),  and Automation"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1052",
+          "companyUrn": "urn:li:fsd_company:1052",
+          "companyLink1": "https://www.linkedin.com/company/att/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQETZPIp_rERFA/company-logo_400_400/company-logo_400_400/0/1736396366556/att_logo?e=1785369600&v=beta&t=1SkZKIwOyXqsNUxy7wjBSxVaEtiIyTM08PMUC-5GNs8",
+          "title": "AT&T",
+          "subtitle": "undefined · 7 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Member Of Technical Staff - Network Applications",
+              "caption": "Mar 2017 - Mar 2019 · 2 yrs",
+              "metadata": "Dallas",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "SDN, Automation, API implementation, Microservice design & implementation"
+                }
+              ]
+            },
+            {
+              "title": "Principal Member Of Technical Staff - IPTV",
+              "caption": "Nov 2014 - Mar 2017 · 2 yrs 4 mos",
+              "metadata": "DFW",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Network Engineering, automation, and support for AT&T UVERSE and DIRECTV IP Networks.  Alcatel-Lucent, Nokia, and Cisco Routers."
+                }
+              ]
+            },
+            {
+              "title": "Senior Member Of Technical Staff - IPTV",
+              "caption": "Jun 2011 - Nov 2014 · 3 yrs 5 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Volunteer Open Source Contributor",
+          "subtitle": "Star Wars Galaxies Emulator swgemu.com . undefined",
+          "caption": "Aug 2012 - Jan 2014 · 1 yr 5 mos",
+          "metadata": "swgemu.com",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "C++ developer for Open Source Massive Multiplayer Online Role Playing Game."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1070",
+          "companyUrn": "urn:li:fsd_company:1070",
+          "companyLink1": "https://www.linkedin.com/company/nokia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_200_200/B4EZqby_U_HgAI-/0/1763550426950/nokia_logo?e=1785369600&v=beta&t=eU3_QFPPw3oQif0XRhay3rgeOZNZ0Ke75J0oD6x56GQ",
+          "title": "TAC Engineer",
+          "subtitle": "Nokia . undefined",
+          "caption": "Jan 2005 - Jun 2011 · 6 yrs 5 mos",
+          "metadata": "Plano, TX",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "IP Routing and Switching support for end to end IPTV and Data network serving over 15 million customers - AT&T UVERSE Internet & TV."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Verizon",
+          "subtitle": "Full-time · 5 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Automation Engineer",
+              "caption": "Jan 2002 - Jan 2005 · 3 yrs",
+              "metadata": "Richardson, TX",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Automate tests for network equipment in a Lab environment"
+                }
+              ]
+            },
+            {
+              "title": "Network Test Engineer",
+              "caption": "Jan 2001 - Jan 2002 · 1 yr",
+              "metadata": "Richardson, TX",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Configure and test network equipment (routers and switches) and network services in proof of concept lab."
+                }
+              ]
+            },
+            {
+              "title": "Network Implementation Engineer",
+              "caption": "Jan 2000 - Jan 2001 · 1 yr",
+              "metadata": "Richardson, TX",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "7234",
+          "companyUrn": "urn:li:fsd_company:7234",
+          "companyLink1": "https://www.linkedin.com/company/usgs/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFkpycSdKyG3g/company-logo_400_400/company-logo_400_400/0/1718306329610/usgs_logo?e=1785369600&v=beta&t=8DzchgggprvAxCxUiIviLxoFMys4zzpH_AaLcdxaVZw",
+          "title": "Intern Software Developer",
+          "subtitle": "U.S. Geological Survey (USGS) . undefined",
+          "caption": "Jan 1999 - Dec 1999 · 11 mos",
+          "metadata": "Lafayette, Louisiana Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Amazon Web Services Cloud Practitioner",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Apr 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2830763",
+          "companyUrn": "urn:li:fsd_company:2830763",
+          "companyLink1": "https://www.linkedin.com/company/hashicorp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFBoGhgrPpY9g/company-logo_200_200/B56ZVHpOInHsAI-/0/1740663743267/hashicorp_logo?e=1785369600&v=beta&t=qp5rkjHKsmXtgxTxgxDuU2Nrs9wIkRrKM9VYh3iyxpo",
+          "title": "Hashicorp Certified Terraform Associate",
+          "subtitle": "HashiCorp",
+          "issued": "Issued Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "30086",
+          "companyUrn": "urn:li:fsd_company:30086",
+          "companyLink1": "https://www.linkedin.com/company/palo-alto-networks/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFZg72Sfni4SA/company-logo_400_400/company-logo_400_400/0/1657225156841/palo_alto_networks_logo?e=1785369600&v=beta&t=yjDRC14q5Ge2K01Y3lZ7kks7Dca9GECqK_R1eFyfvCo",
+          "title": "Palo Alto Networks Certified Cybersecurity Associate",
+          "subtitle": "Palo Alto Networks",
+          "issued": "Issued Jul 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Cisco Certified Network Professional (CCNP)",
+          "subtitle": "Cisco",
+          "issued": "Issued May 2004",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Infrastructure Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IPv4",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco Routers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Alcatel-Lucent Service Routers (7x50)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CCNA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CCNP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Alcatel NRS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solutions Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OSPF",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "BGP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PIM-SM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PIM-DM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MPLS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IP Multicast",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3558",
+          "companyUrn": "urn:li:fsd_company:3558",
+          "companyLink1": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1785369600&v=beta&t=v2DbUxdBk6bM0VWV94bC3Cy2jYJdLswUCGoHxnMX358",
+          "title": "Georgia Institute of Technology",
+          "subtitle": "Master's degree, Computer Science",
+          "caption": "2014 - 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "15681",
+          "companyUrn": "urn:li:fsd_company:15681",
+          "companyLink1": "https://www.linkedin.com/school/ullafayette/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGChZGoLwOLeA/company-logo_400_400/company-logo_400_400/0/1631318969229?e=1785369600&v=beta&t=CNySV7OrdFu-fEvb9NLeNP7PpzP4C3blCgovtUyRROE",
+          "title": "University of Louisiana at Lafayette",
+          "subtitle": "Bachelor's degree, Electrical and Electronics Engineering",
+          "caption": "1994 - 1999",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

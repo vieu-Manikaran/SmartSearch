@@ -1,0 +1,474 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/anupama-sharma-44761520",
+  "row_key": "id:003Uk00000xNyeUIAS",
+  "person": "Anupama Sharma",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:46:54Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAARcvTcBgOGr9-oJNjizNQ__WVTFEaIA1ok",
+      "firstName": "Anupama",
+      "lastName": "Sharma",
+      "fullName": "Anupama Sharma",
+      "publicIdentifier": "anupama-sharma-44761520",
+      "headline": "API Management | Azure Cloud Solutions| Kubernetes | Devops",
+      "about": "Myself is highly professional and DevOps culture minded person , I have experience of working on API's, microservices, backend applications which I enhance by gaining experience in IAAS. Also proficient in writing well written codes. I have good understanding of domain like Retail & Banking. Working at ICA's challenging assignments while adding value to organization growth",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Greater Stockholm Metropolitan Area Sweden",
+      "addressWithoutCountry": "Greater Stockholm Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQF3hEVG4FcbKg/profile-displayphoto-scale_400_400/B4DZqxnwLhIgAg-/0/1763916581704?e=1785369600&v=beta&t=JK2bXW51ebPtCBdrKAzgOTKcTzGZmcKNqhMUA8VMmPw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQF3hEVG4FcbKg/profile-displayphoto-scale_100_100/B4DZqxnwLhIgAc-/0/1763916581704?e=1785369600&v=beta&t=lMr9bn-21hmm35A-q3AHZtgzbGVlT-Co_XOZOn09b4o"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQF3hEVG4FcbKg/profile-displayphoto-scale_200_200/B4DZqxnwLhIgAY-/0/1763916581704?e=1785369600&v=beta&t=auVm00QFM7kknILUh9kG2Eg46Is53n2KUxpXCcuo92M"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQF3hEVG4FcbKg/profile-displayphoto-crop_800_800/B4DZqxnwLhIgAI-/0/1763916581518?e=1785369600&v=beta&t=zbU5gd3n-SjYUeyy6_XK-Az7UXjvp6Z61t2SYf2P20k"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQF3hEVG4FcbKg/profile-displayphoto-scale_400_400/B4DZqxnwLhIgAg-/0/1763916581704?e=1785369600&v=beta&t=JK2bXW51ebPtCBdrKAzgOTKcTzGZmcKNqhMUA8VMmPw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "Platform Engineer",
+          "subtitle": "ICA Gruppen . Full-time",
+          "caption": "Dec 2022 - Present · 3 yrs 1 mo",
+          "metadata": "Solna, Stockholm County, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1353",
+          "companyUrn": "urn:li:fsd_company:1353",
+          "companyLink1": "https://www.linkedin.com/company/tata-consultancy-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_400_400/company-logo_400_400/0/1708946550425/tata_consultancy_services_logo?e=1785369600&v=beta&t=argHyOHxOL8b_6ayqv8Ix2k-fvrql9BXSBmDI9iR4jw",
+          "title": "Tata Consultancy Services",
+          "subtitle": "Full-time · 10 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Solutions Consultant",
+              "caption": "Oct 2018 - Dec 2022 · 4 yrs 2 mos",
+              "metadata": "Stockholm County, Sweden",
+              "description": []
+            },
+            {
+              "title": "System Engineer",
+              "caption": "Dec 2012 - Dec 2022 · 10 yrs",
+              "description": []
+            },
+            {
+              "title": "IT Analyst",
+              "caption": "Jan 2017 - Oct 2018 · 1 yr 9 mos",
+              "metadata": "New Delhi Area, India",
+              "description": []
+            },
+            {
+              "title": "System Engineer",
+              "caption": "Dec 2012 - Oct 2018 · 5 yrs 10 mos",
+              "metadata": "Noida",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Product Management: Foundations & Stakeholder Collaboration",
+          "subtitle": "Coursera",
+          "issued": "Issued Jun 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Management: An Introduction",
+          "subtitle": "IBM",
+          "issued": "Issued Mar 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Security on Google Cloud's Apigee API Platform",
+          "subtitle": "Google Cloud",
+          "issued": "Issued Aug 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure AI Fundamentals",
+          "subtitle": "Microsoft",
+          "issued": "Issued Dec 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure AI Fundamentals",
+          "subtitle": "Microsoft",
+          "issued": "Issued Dec 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure Fundamentals",
+          "subtitle": "Microsoft",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Advanced Design Patterns: Design Principles",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "GraphQL Essential Training",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Enterprise Design Thinking Practitioner",
+          "subtitle": "IBM",
+          "issued": "Issued Dec 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "39939",
+          "companyUrn": "urn:li:fsd_company:39939",
+          "companyLink1": "https://www.linkedin.com/company/lynda-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFfDMello2Gtg/company-logo_400_400/company-logo_400_400/0/1631320875045?e=1785369600&v=beta&t=8pLYYLyrXFybfuUl3KyM6yrdtM-GUQwEo2RgkxxDvh8",
+          "title": "Learning Cloud Computing: The Cloud and DevOps",
+          "subtitle": "Lynda.com",
+          "issued": "Issued Jul 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "39939",
+          "companyUrn": "urn:li:fsd_company:39939",
+          "companyLink1": "https://www.linkedin.com/company/lynda-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFfDMello2Gtg/company-logo_400_400/company-logo_400_400/0/1631320875045?e=1785369600&v=beta&t=8pLYYLyrXFybfuUl3KyM6yrdtM-GUQwEo2RgkxxDvh8",
+          "title": "JavaScript Essential Training",
+          "subtitle": "Lynda.com",
+          "issued": "Issued Jun 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2776611",
+          "companyUrn": "urn:li:fsd_company:2776611",
+          "companyLink1": "https://www.linkedin.com/company/edureka/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHIXUJjedkclA/company-logo_400_400/company-logo_400_400/0/1645442188611/edureka_logo?e=1785369600&v=beta&t=saf8CGnVz_EbL3Ukry0WB_OoRwsRhgyy9G72uwtOBls",
+          "title": "DevOps Practitioner",
+          "subtitle": "Edureka",
+          "issued": "Issued May 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oral Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Project Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Requirements",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Initiative",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Code Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Gateways",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Decision-Making",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Sri Ram Murti Smarak College of Engineering & Technology",
+          "subtitle": "Bachelor of Engineering (B.Eng.), Electrical and Electronics Engineering",
+          "caption": "2008 - 2012",
+          "subComponents": []
+        },
+        {
+          "title": "Edureka",
+          "subtitle": "Devops Certification, Git,Jenkins,Chef",
+          "caption": "2017 - 2017",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

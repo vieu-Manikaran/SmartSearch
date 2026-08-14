@@ -1,0 +1,379 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sofya-t-irwin",
+  "row_key": "id:003Uk00000qPxmvIAC",
+  "person": "Sofya T. Irwin",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:38Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAACv-bcByHDPZh_hvou1U5FIzCn-smDfI-M",
+      "firstName": "Sofya",
+      "lastName": "T. Irwin",
+      "fullName": "Sofya T. Irwin",
+      "publicIdentifier": "sofya-t-irwin",
+      "headline": "Software Engineer at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQECNZRB3IUdUA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731361982890?e=1785369600&v=beta&t=zKPCou5_jR0TlvHVUUtahNcBnyqsFOOSfx71ajhca7o",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQFvwlpo2K5YtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736456454125?e=1785369600&v=beta&t=BdfHjVQM2_AEszGe2PafhSETK86nD6exYDBogCbQOYk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECNZRB3IUdUA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731361982861?e=1785369600&v=beta&t=gUw_7nWayo5tgpQSqY26hYlDkUkubGjW90FwvoqvWdk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECNZRB3IUdUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731361982861?e=1785369600&v=beta&t=WCW38cmP71XlvkoITenCQ8doOWovCGpyaSZjeSKPBGo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECNZRB3IUdUA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731361982861?e=1785369600&v=beta&t=JPcJ5ZMHNzRFezBQeTekGUT16jxfmUZ4gEMCNfWfOd8"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECNZRB3IUdUA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731361982890?e=1785369600&v=beta&t=zKPCou5_jR0TlvHVUUtahNcBnyqsFOOSfx71ajhca7o"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 757,
+          "height": 189,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQFvwlpo2K5YtQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1736456454125?e=1785369600&v=beta&t=uOUabqp6SSq5fOK4ACX25ZA1pgaGUwMOvhh9oLCnZeA"
+        },
+        {
+          "width": 757,
+          "height": 189,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQFvwlpo2K5YtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736456454125?e=1785369600&v=beta&t=BdfHjVQM2_AEszGe2PafhSETK86nD6exYDBogCbQOYk"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Software Engineer",
+          "subtitle": "Yelp . undefined",
+          "caption": "Feb 2017 - Present · 8 yrs 11 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software Engineer for data infrastructure"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3925",
+          "companyUrn": "urn:li:fsd_company:3925",
+          "companyLink1": "https://www.linkedin.com/company/akamai-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpsdQkVIn86g/company-logo_100_100/B4EZiajPQ8GUAY-/0/1754939585924/akamai_technologies_logo?e=1785369600&v=beta&t=zg0dUvwGHkpix0vw8dd33cCFX9Tw_2pD8I5r23Gbyto",
+          "title": "Akamai Technologies",
+          "subtitle": "undefined · 8 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jul 2009 - Feb 2017 · 7 yrs 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The team I work with at Akamai is responsible for handling the processing of large volumes of data that the Akamai Edge Servers generate. I have worked on various features for the system, including changes to parsers to support custom fields, custom field extraction, and the development of new data parsers;  the update of most internal code to handle IPV6, which I lead the design effort for; the effort for integration of checksums, which I assisted; updates to the load balancing code for data analysis servers, which is ongoing; effort for integration of an internally distributed database as a pipeline data sink, which is ongoing;"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jul 2008 - Jul 2009 · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I joined a team at Akamai tasked with processing the large volumes of data that Akamai Edge Servers generate. The first few projects I worked on were related to setting up a data stream for the Advertising Decisions Business unit and supporting that data stream with various enhancements.  The data stream differed from other data streams in that it had a requirement for decreased latency as compared to other pipelines. I was promoted to Senior Software Engineer after one year."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "18022",
+          "companyUrn": "urn:li:fsd_company:18022",
+          "companyLink1": "https://www.linkedin.com/company/charles-river-analytics/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFoWswmral5zA/company-logo_400_400/company-logo_400_400/0/1665153185347/charles_river_analytics_logo?e=1785369600&v=beta&t=1p77cWAq6jDMmIRd-osIo6zbNzwulZYDBlB3asdi7kw",
+          "title": "Software Engineer",
+          "subtitle": "Charles River Analytics . undefined",
+          "caption": "Nov 2006 - Jul 2008 · 1 yr 8 mos",
+          "metadata": "Cambridge, MA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At Charles River, I got a chance to create Java-based tools for mapping social network relationships\nI also worked on a project to route constellations of UAV's on a network grid."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1053",
+          "companyUrn": "urn:li:fsd_company:1053",
+          "companyLink1": "https://www.linkedin.com/company/intel-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_400_400/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1785369600&v=beta&t=g-_No6rKYnzuUy2iHAD1a3o5iamiG5a0tDnDBHfNVqE",
+          "title": "Software Engineer",
+          "subtitle": "Intel . undefined",
+          "caption": "Feb 2005 - Nov 2006 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I spent almost two years with the Intel Compiler Development Team in Nashua, NH. I got to work on the Code Generator for the Itanium processor, as well as on some parts of the optimizer for the IL. I was able to complete a project related to improvements in switch statement lowering using profile guided feedback that decreased executing time by 85% as measured for a customer test case."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3523",
+          "companyUrn": "urn:li:fsd_company:3523",
+          "companyLink1": "https://www.linkedin.com/school/cornell-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE8SOXGRyv7LA/company-logo_400_400/company-logo_400_400/0/1631339899678?e=1785369600&v=beta&t=xSPvA9akKVBLrXrq7f2ZnhzvQzdgr9bwph2eTE8eJ6A",
+          "title": null,
+          "subtitle": "MEng, Computer Science",
+          "caption": "2004 - 2005",
+          "subComponents": []
+        },
+        {
+          "companyId": "3523",
+          "companyUrn": "urn:li:fsd_company:3523",
+          "companyLink1": "https://www.linkedin.com/school/cornell-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE8SOXGRyv7LA/company-logo_400_400/company-logo_400_400/0/1631339899678?e=1785369600&v=beta&t=xSPvA9akKVBLrXrq7f2ZnhzvQzdgr9bwph2eTE8eJ6A",
+          "title": "Cornell University",
+          "subtitle": "Bachelor of Arts (BA), Computer Science",
+          "caption": "2001 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

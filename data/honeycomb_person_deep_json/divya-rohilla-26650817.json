@@ -1,0 +1,340 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/divya-rohilla-26650817",
+  "row_key": "id:003Uk00000ydEyCIAU",
+  "person": "Divya Rohilla",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:50:16Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAN0424Be9RrFtn6TSOw5psZ5MuZ2y60t8g",
+      "firstName": "divya",
+      "lastName": "rohilla",
+      "fullName": "divya rohilla",
+      "publicIdentifier": "divya-rohilla-26650817",
+      "headline": "Senior Software Engineer",
+      "about": "Experienced Senior Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Oracle Database, Java, HTML, Team Management, and Requirements Analysis. Strong engineering professional graduated from dav school. ",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Pune Division, Maharashtra India",
+      "addressWithoutCountry": "Pune Division, Maharashtra",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEX_EHqDUslhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714400583211?e=1785369600&v=beta&t=CzIoWZmtnfNRLmPt4jaqkrFxDIYvhECdZqTAlCIe0L0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEX_EHqDUslhA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1714400583211?e=1785369600&v=beta&t=FJJcuHBGUB13G15xmexwlISZ0AxykSDWStNvqiR2CaY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEX_EHqDUslhA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714400583211?e=1785369600&v=beta&t=lFFLPMz171tp58ttuCdgyS2aQf0J_tjRXtYXers1ons"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEX_EHqDUslhA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714400583211?e=1785369600&v=beta&t=jcwty3jskT1wHMAZgcEQh7LHqLx1xvmR9u4RAlMQocA"
+        },
+        {
+          "width": 531,
+          "height": 531,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEX_EHqDUslhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714400583211?e=1785369600&v=beta&t=CzIoWZmtnfNRLmPt4jaqkrFxDIYvhECdZqTAlCIe0L0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Senior Software Enginer",
+          "subtitle": "Wipro Infotech Ltd . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3015",
+          "companyUrn": "urn:li:fsd_company:3015",
+          "companyLink1": "https://www.linkedin.com/company/mastercard/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGOW4NIyYRRqQ/company-logo_400_400/company-logo_400_400/0/1631340300330?e=1785369600&v=beta&t=YwBISTpWhRqUU87sj9_1BoNlVkxt2kJYsRkvVnVt3i4",
+          "title": "Relauncher",
+          "subtitle": "Mastercard . Full-time",
+          "caption": "Sep 2019 - Jan 2020 · 4 mos",
+          "metadata": "Pune Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Java and Springboot Developer"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS re/Start Graduate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Oct 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Big Data Foundations - Level 1",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Basic Principles of Design",
+          "subtitle": "IBM",
+          "issued": "Issued Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Oct 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "aws",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Struts",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Enterprise Edition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PL/SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "J2EE Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hibernate",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaServer Pages (JSP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "dav school",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

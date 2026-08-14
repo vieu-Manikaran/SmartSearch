@@ -1,0 +1,282 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/isaac-johnson-02b78a285",
+  "row_key": "id:0036O00003rh4R8QAI",
+  "person": "Isaac Johnson",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAEVZL6MBK0pXDrtM-NhK9MDSY-H78r313F4",
+      "firstName": "Isaac",
+      "lastName": "Johnson",
+      "fullName": "Isaac Johnson",
+      "publicIdentifier": "isaac-johnson-02b78a285",
+      "headline": "Mechanical Engineering Intern at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Non-profit Organization Management",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Minneapolis-St. Paul Area United States",
+      "addressWithoutCountry": "Greater Minneapolis-St. Paul Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHY4XEyO74xvg/profile-displayphoto-shrink_800_800/B56ZRC5pYzGoAc-/0/1736289195942?e=1785369600&v=beta&t=vCZIOnew6v0X-R4sC0wXi-zZnfzMTAfTYEMrc8SfRYY",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEprkcnAUuhJw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722400694464?e=1785369600&v=beta&t=y8MOfTWjwobdEp9QseCMCfzjLGKfvVA1vhQlLho99Ik",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHY4XEyO74xvg/profile-displayphoto-shrink_200_200/B56ZRC5pYzGoAY-/0/1736289195919?e=1785369600&v=beta&t=iJK3AaV-v5Cj0ObcehJ2iAQ6n2tpM7PGbDFEPPTP-qc"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHY4XEyO74xvg/profile-displayphoto-shrink_400_400/B56ZRC5pYzGoAg-/0/1736289195919?e=1785369600&v=beta&t=JaB02hEOX4NXfm938dBMYhK5fwRn8zQuq2IcZ7RkBjU"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHY4XEyO74xvg/profile-displayphoto-shrink_100_100/B56ZRC5pYzGoAU-/0/1736289195919?e=1785369600&v=beta&t=RUSFPM1ZVlSCmmqaUqp6ymAknKCn88HnZbce61bZn6A"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHY4XEyO74xvg/profile-displayphoto-shrink_800_800/B56ZRC5pYzGoAc-/0/1736289195942?e=1785369600&v=beta&t=vCZIOnew6v0X-R4sC0wXi-zZnfzMTAfTYEMrc8SfRYY"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEprkcnAUuhJw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1722400694464?e=1785369600&v=beta&t=C6ERlK7DEtRvhx-aAkH26cKOmg3nqRl-x1-mpZmYjMU"
+        },
+        {
+          "width": 1080,
+          "height": 270,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEprkcnAUuhJw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722400694464?e=1785369600&v=beta&t=y8MOfTWjwobdEp9QseCMCfzjLGKfvVA1vhQlLho99Ik"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Mechanical Engineering Intern",
+          "subtitle": "Medtronic . Internship",
+          "caption": "Jun 2026 - Present · ",
+          "metadata": "Mounds View, MN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4099",
+          "companyUrn": "urn:li:fsd_company:4099",
+          "companyLink1": "https://www.linkedin.com/school/uwmadison/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFyYW54n5mwAw/company-logo_400_400/company-logo_400_400/0/1630601304331/university_of_wisconsin_madison_logo?e=1785369600&v=beta&t=EU7hYX_QMOoqKgW0dkHMm3cl70cOZ4VKnVv4I8-rPB4",
+          "title": "MechE Student",
+          "subtitle": "University of Wisconsin-Madison . Full-time",
+          "caption": "Sep 2025 - Present · 4 mos",
+          "metadata": "Madison, Wisconsin, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "413017",
+          "companyUrn": "urn:li:fsd_company:413017",
+          "companyLink1": "https://www.linkedin.com/company/fedtech-inc./",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWzEpBd8AXgw/company-logo_400_400/company-logo_400_400/0/1631314348792?e=1785369600&v=beta&t=uYYoFbwxiVMn_-9mPaskzTwCGnzZ5rnoSIABvmrBiu0",
+          "title": "Shop Hand",
+          "subtitle": "Fedtech, Inc. . Full-time",
+          "caption": "Jun 2025 - Aug 2025 · 2 mos",
+          "metadata": "Mounds View, Minnesota, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6415499",
+          "companyUrn": "urn:li:fsd_company:6415499",
+          "companyLink1": "https://www.linkedin.com/company/frc-team-2052-knightkrawler/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEdjaNoNHYPqA/company-logo_400_400/company-logo_400_400/0/1631350150988?e=1785369600&v=beta&t=ATyM9mlWwagHyW4CzBRF_Ah6a9pedhBvljT2djtThHA",
+          "title": "CAD/CAM Specialist",
+          "subtitle": "FRC Team 2052, KnightKrawler Robotics- FIRST Robotics Competition . Seasonal",
+          "caption": "Sep 2021 - May 2025 · 3 yrs 8 mos",
+          "metadata": "New Brighton, Minnesota, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "811777",
+          "companyUrn": "urn:li:fsd_company:811777",
+          "companyLink1": "https://www.linkedin.com/company/mvpschools/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHC28KVy_tw5w/company-logo_400_400/company-logo_400_400/0/1630617728585/mounds_view_public_schools_logo?e=1785369600&v=beta&t=u1tDS83hfLLR6UhqzjAgNUlCKtbnvIQReINTbnlk9RI",
+          "title": "Orchestra Intern",
+          "subtitle": "Mounds View Public Schools . Internship",
+          "caption": "Jul 2024 - Jul 2024 · ",
+          "metadata": "Mounds View, Minnesota, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "MRCA 2025 All State Design Award",
+          "subtitle": "Issued by Minnesota Robotics Coaches Association",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "2025 National Merit Scholarship Commendation",
+          "subtitle": "Issued by National Merit Scholarship Corporation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Engineering Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mechanical Work",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CNC Manufacturing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design process",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Autodesk Fusion 360",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Onshape",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CAD/CAM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Building",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4099",
+          "companyUrn": "urn:li:fsd_company:4099",
+          "companyLink1": "https://www.linkedin.com/school/uwmadison/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFyYW54n5mwAw/company-logo_400_400/company-logo_400_400/0/1630601304331/university_of_wisconsin_madison_logo?e=1785369600&v=beta&t=EU7hYX_QMOoqKgW0dkHMm3cl70cOZ4VKnVv4I8-rPB4",
+          "title": "University of Wisconsin-Madison",
+          "subtitle": "Bachelor of Engineering - BE, Mechanical Engineering",
+          "caption": "Sep 2025 - May 2029",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

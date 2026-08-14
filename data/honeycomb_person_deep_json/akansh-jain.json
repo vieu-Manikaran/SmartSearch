@@ -1,0 +1,406 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/akansh-jain",
+  "row_key": "id:003Uk00000ya6E1IAI",
+  "person": "Akansh Jain",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACJbcr8BMKJzcPjpFqq8rz0vNdMdtttQ0V4",
+      "firstName": "Akansh",
+      "lastName": "J.",
+      "fullName": "Akansh J.",
+      "publicIdentifier": "akansh-jain",
+      "headline": "Senior Software Engineer at Yelp London",
+      "about": "Have Backend development Experience in Finance and E-commerce Domain. Proficient in Java, Java, Microservices, Data Structures, Algorithms, Mysql, MongoDB, Event-Driven Systems, Linux, Docker,\nMachine learning . Computer and its power has always grasped my attention. The power of computer merely lies in a piece of code and hence I love to code. I am looking for an opportunity in a firm where I can show my development skills and be a part of success story.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQE1Wo3PFkGvOg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728339637140?e=1785369600&v=beta&t=0RHMP3BBuKsr2F4XiTeOTIETt52ux59TPoBg7Lz_Lqw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE1Wo3PFkGvOg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728339637113?e=1785369600&v=beta&t=EH_zghTLBAVaDVBgl0IS9fooGgroMHSBahZgDxteQmw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE1Wo3PFkGvOg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728339637113?e=1785369600&v=beta&t=-ldJOd4ZL9YXgzmHqjp4NO9GFt3VSKfOElyyKFt4J9I"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE1Wo3PFkGvOg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728339637113?e=1785369600&v=beta&t=2CRY5QxjySl-DsvPye-cg2H-R628Bbv42O4EkQ7ibWo"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQE1Wo3PFkGvOg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728339637140?e=1785369600&v=beta&t=0RHMP3BBuKsr2F4XiTeOTIETt52ux59TPoBg7Lz_Lqw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Senior Product Engineer",
+          "subtitle": "Yelp . undefined",
+          "caption": "Aug 2021 - Present · 4 yrs 5 mos",
+          "metadata": "United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As a member of the Purchase Infrastructure Team at Yelp, I specialize in overseeing the entire lifecycle of Ads purchases for businesses that partner with us. Our team ensures advertiser onboarding, subscription management, supporting businesses in maximizing their presence and success on the Yelp platform."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19177826",
+          "companyUrn": "urn:li:fsd_company:19177826",
+          "companyLink1": "https://www.linkedin.com/company/carbon13/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFGspgmmpQo1w/company-logo_400_400/company-logo_400_400/0/1630618916817/carbon13_logo?e=1785369600&v=beta&t=CxbwS2PZzVIyVrdezerhGKqStXW5Wv9EkjWVwxe-sj8",
+          "title": "Tech Co-Founder",
+          "subtitle": "Carbon13 . Part-time",
+          "caption": "Sep 2025 - Jan 2026 · 4 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Architected and designed a scalable data engineering solution to solve the data bottleneck for financial institutions and address the industry-wide ESG capability gap, leveraging expertise in AI (LLMs, RAG, and Graph RAG architectures) and experience scaling systems .\n\n- Conducted 20+ customer interviews, including financial heads and directors of investment portfolios, to understand the skill gap and market needs, incorporating findings from sustainable finance conferences."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "321062",
+          "companyUrn": "urn:li:fsd_company:321062",
+          "companyLink1": "https://www.linkedin.com/company/flipkart/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtneRyv-iofA/company-logo_400_400/B56Za6BjbWHgAc-/0/1746877692629/flipkart_logo?e=1785369600&v=beta&t=Avatc5dUpe5KYRK8d1jhUmR281d-ciWYOerBK-2jXvM",
+          "title": "Software Development Engineer",
+          "subtitle": "Flipkart . Full-time",
+          "caption": "Nov 2019 - Jul 2021 · 1 yr 8 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Handling backend part of Core Transport Services.\n- Working in Payouts Team which provides a system for operations to pay and manage payouts for different types of business models such as vendors, ad-hoc delivery agents, service agents etc.\n- Introduced docker integration testing and github hooks through jenkins\n- Using Spring data flow server to schedule batch jobs that gather daily delivery data and calculate amount to be paid by using different kinds of model.\n- Working on refactoring and platformization the system for quick onboarding of new tenants with different kind of models and improved visibility.\n-Implementation of Hyperlocal Payment Model which includes payment on basis of distance travelled and weight carried.\n- Elimination of manual billing resulting in delay and saving manpower."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "497017",
+          "companyUrn": "urn:li:fsd_company:497017",
+          "companyLink1": "https://www.linkedin.com/company/morgan-stanley/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1785369600&v=beta&t=haisD3iMtkENINSxItcYggvnb6KpwXMbGYlEGy4i9TY",
+          "title": "Morgan Stanley",
+          "subtitle": "Full-time · 1 yr 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technology Associate - Software Developer",
+              "caption": "Aug 2018 - Nov 2019 · 1 yr 3 mos",
+              "metadata": "Bengaluru Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Tools/Tech Used : Java, Python, Angular, Machine learning, Tensorflow, Linux, Treadmill( In-house Cloud Server), Spring, JIRA, SQL, Git,\n- Part of Fund Services Team which manages the product for better administration of Investors data and investments.\n- Worked on Machine learning Project which classifies the email into certain categories and trigger workflow\n- Applied different methodologies such as Supervised Learning and Deep learning to achieve better results\n- Introduced Behaviour driven development that keeps everyone including the product managers and developers all in sync.\n- Implemented Workflow Data leveraging feature in which data from one workflow can be leveraged in another."
+                }
+              ]
+            },
+            {
+              "title": "Technology Associate Intern",
+              "caption": "Feb 2018 - Jul 2018 · 5 mos",
+              "metadata": "Mumbai Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Document and Email classification:\n-Task Goal : Emails and documents need to be tagged on the basis of Funds and Investors. \n-Task Impact : Automation of workflow trigger using the data present in emails.\n\nEnhancements : \n          Incremental training on the basis of new documents.\n          To further improve accuracy implemented Deep learning methods such as Word2Vec.\n\nFrameworks used : \n          Python libraries such as Tensorflow and Scikit-learn for prediction and training models. \n          Nltk and Spacy for NLP tasks such as parsing and formatting text to numeric format."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "7240",
+          "companyUrn": "urn:li:fsd_company:7240",
+          "companyLink1": "https://www.linkedin.com/company/hcl-infosystems-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFHDAoZPC-f5A/company-logo_400_400/company-logo_400_400/0/1631317983793?e=1785369600&v=beta&t=bRpX9JB5nSD_81DJYZITd_5NoGXk818gzkZTWHYcBGs",
+          "title": "Intern",
+          "subtitle": "HCL Infosystems Ltd. . undefined",
+          "caption": "Jun 2017 - Jul 2017 · 1 mo",
+          "metadata": "Noida Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "70983712",
+          "companyUrn": "urn:li:fsd_company:70983712",
+          "companyLink1": "https://www.linkedin.com/company/the-school-of-ai-bangalore/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFa0v7RjwADIA/company-logo_400_400/company-logo_400_400/0/1630671832326?e=1785369600&v=beta&t=pqaHjHRC_DDjZvgkGDT8PQ61RCfMax5IooAWX6S9g-s",
+          "title": "Extensive AI Agents Program",
+          "subtitle": "The School of AI",
+          "issued": "Issued Apr 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9220773",
+          "companyUrn": "urn:li:fsd_company:9220773",
+          "companyLink1": "https://www.linkedin.com/school/onlinehbs/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSIL8O8qpfVw/company-logo_400_400/company-logo_400_400/0/1640264247543/onlinehbs_logo?e=1785369600&v=beta&t=HxqpwrkTsqdk9qitQC2m_BhAbZkYQrBOwE4I6m9y0Ls",
+          "title": "Leadership principles ",
+          "subtitle": "Harvard Business School Online",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3496630",
+          "companyUrn": "urn:li:fsd_company:3496630",
+          "companyLink1": "https://www.linkedin.com/school/brainstation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEIJpSk2gyHRA/company-logo_400_400/company-logo_400_400/0/1630609822856/brainstation_logo?e=1785369600&v=beta&t=7ceN21IrfKEUn1DT1OBMoVvBgYsD9ro4Omz1c9Crra8",
+          "title": "Product management certification",
+          "subtitle": "BrainStation",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Discovery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stakeholder Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "A2A",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Multi-Agent Browser",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Model Context Protocol (MCP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Large Language Models (LLM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Organizational Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "809155",
+          "companyUrn": "urn:li:fsd_company:809155",
+          "companyLink1": "https://www.linkedin.com/school/jiitofficial/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFr6NVI7DcDtg/company-logo_400_400/company-logo_400_400/0/1630556410107/jaypee_institute_of_inormation_technology_logo?e=1785369600&v=beta&t=aFh6KUzjYeGuKhfNbUJ7ccqCgN622iZ8qAL1SGFpt4k",
+          "title": "Jaypee Institute of Information Technology",
+          "subtitle": "Bachelor of Technology - BTech, Computer Science",
+          "caption": "2014 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "8.2"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

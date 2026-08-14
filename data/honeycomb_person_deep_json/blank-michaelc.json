@@ -1,0 +1,420 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/blank-michaelc",
+  "row_key": "id:003Uk00000zouLfIAI",
+  "person": "Michael Blank",
+  "account": "Insight Partners",
+  "fetched_at": "2026-07-14T10:47:55Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABGoqSIBGyFlhvGfX7udhC-tfH5XJZ0WbNo",
+      "firstName": "Michael",
+      "lastName": "Blank",
+      "fullName": "Michael Blank",
+      "publicIdentifier": "blank-michaelc",
+      "headline": "Information Technology",
+      "about": "Experienced Information Technology Professional, passionate about design and construction.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "21064",
+          "companyUrn": "urn:li:fsd_company:21064",
+          "companyLink1": "https://www.linkedin.com/company/insight--partners/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFO5_Woqs6X1w/company-logo_200_200/B4EZ5Bz2a6HcAE-/0/1779220572117/insight__partners_logo?e=1785369600&v=beta&t=jOi-p3PSaAWKSZwFAgPgJneGU7OEXky8_MiQj7hare0",
+          "title": "Insight Partners",
+          "subtitle": "Full-time · 2 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director, IT Systems Engineering",
+              "caption": "Sep 2025 - Present · 4 mos",
+              "description": []
+            },
+            {
+              "title": "Director, Project Management",
+              "caption": "Jan 2025 - Sep 2025 · 8 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Information Technology Project Manager",
+              "caption": "May 2023 - Jan 2025 · 1 yr 8 mos",
+              "metadata": "New York, New York, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1953412",
+          "companyUrn": "urn:li:fsd_company:1953412",
+          "companyLink1": "https://www.linkedin.com/company/wework/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGvcgAszRyYNg/company-logo_400_400/company-logo_400_400/0/1686147967889/wework_logo?e=1785369600&v=beta&t=idDDQBRJZB0OSotfVlnMm9Yo3odB-ZiYlFn_FtcUnMI",
+          "title": "Member Technology Solutions, Senior Manager",
+          "subtitle": "WeWork . Full-time",
+          "caption": "Apr 2022 - Jul 2023 · 1 yr 3 mos",
+          "metadata": "New York City Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2658876",
+          "companyUrn": "urn:li:fsd_company:2658876",
+          "companyLink1": "https://www.linkedin.com/company/peloton-interactive-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAseGAIUjHRg/company-logo_400_400/company-logo_400_400/0/1684850953591/peloton_interactive__logo?e=1785369600&v=beta&t=8kfaG9FPWr5g5aB0jmW1lOqvTt9-emcTGXR1JlRGG1I",
+          "title": "IT Facilities",
+          "subtitle": "Peloton Interactive . Contract",
+          "caption": "Feb 2021 - Jun 2022 · 1 yr 4 mos",
+          "metadata": "New York City Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1684122",
+          "companyUrn": "urn:li:fsd_company:1684122",
+          "companyLink1": "https://www.linkedin.com/company/lucidmotors/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH7XEcX6E4M7w/company-logo_400_400/company-logo_400_400/0/1630642979756/lucidmotors_logo?e=1785369600&v=beta&t=pxWXcwpQy8zriMCkVSSlk-1knFef0VZohpajpEWxzUU",
+          "title": "Senior IT Infrastructure Project Manager",
+          "subtitle": "Lucid Motors . Full-time",
+          "caption": "Sep 2020 - Feb 2021 · 5 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1953412",
+          "companyUrn": "urn:li:fsd_company:1953412",
+          "companyLink1": "https://www.linkedin.com/company/wework/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGvcgAszRyYNg/company-logo_400_400/company-logo_400_400/0/1686147967889/wework_logo?e=1785369600&v=beta&t=idDDQBRJZB0OSotfVlnMm9Yo3odB-ZiYlFn_FtcUnMI",
+          "title": "WeWork",
+          "subtitle": "Full-time · 4 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Technical Program Manager",
+              "caption": "Sep 2019 - Sep 2020 · 1 yr",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Senior Manager - Technical Program Manager within the Building Technology org specializing in projects related to infrastructure refreshes, data centers, and wireless."
+                }
+              ]
+            },
+            {
+              "title": "ICT US West Manager",
+              "caption": "Dec 2017 - Dec 2019 · 2 yrs",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "West Coast Regional Team Manager supporting growth and development of ICT team & all US west regional openings from a technology infrastructure perspective"
+                }
+              ]
+            },
+            {
+              "title": "Information Technology Project Manager",
+              "caption": "Oct 2015 - Dec 2017 · 2 yrs 2 mos",
+              "metadata": "New York, NY",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Project Manager",
+          "subtitle": "Labrador Technology, Inc. . undefined",
+          "caption": "May 2012 - Oct 2015 · 3 yrs 5 mos",
+          "metadata": "Manhattan",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Telecommunications infrastructure design and implementation management.  \nOversight of infrastructure draft and design work\nRoutine field visits and inspections\nStakeholder engagement in regards to project information and expectations"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "16686",
+          "companyUrn": "urn:li:fsd_company:16686",
+          "companyLink1": "https://www.linkedin.com/company/syska-hennessy-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGSyi4oSfaQMw/company-logo_400_400/B4EZuANq.mJ4Ac-/0/1767382626538/syska_hennessy_group_logo?e=1785369600&v=beta&t=sjmCz-hEiT-7cYr8zk9wZDSGvhK-_18H8I_7YqoDJOM",
+          "title": "ICT Engineer",
+          "subtitle": "Syska Hennessy Group . undefined",
+          "caption": "May 2011 - Aug 2011 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "HVAC AutoCAD drafting and project assistance\nCoordinate with Project management team for goals and responsibilities.\nPreparation of specifications and design work"
+              }
+            }
+          ]
+        },
+        {
+          "title": "MEP Supply Chain",
+          "subtitle": "Turner Logistics . undefined",
+          "caption": "May 2010 - Aug 2010 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Assisting to Project Management team\nOrganization of procurement douments\nVarious Autocad and Excel work."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Agile Foundations",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Apr 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "IT Infrastructure Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Infrastructure Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telecommunications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AutoCAD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Budgets",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Negotiation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "19522",
+          "companyUrn": "urn:li:fsd_company:19522",
+          "companyLink1": "https://www.linkedin.com/school/manhattan-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFu6F5UNtjLxg/company-logo_400_400/company-logo_400_400/0/1724337903164/manhattan_college_logo?e=1785369600&v=beta&t=Ieq9x9XPJ0CqRlnfL3CVgO6T5kpAOJx92Os_7SCNdXU",
+          "title": "Manhattan College",
+          "subtitle": "null, Mechanical Engineering",
+          "caption": "2010 - 2012",
+          "subComponents": []
+        },
+        {
+          "companyId": "29918",
+          "companyUrn": "urn:li:fsd_company:29918",
+          "companyLink1": "https://www.linkedin.com/school/suny-westchester-community-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEjPGQcX1bHew/company-logo_400_400/company-logo_400_400/0/1651176132820/westchester_community_college_logo?e=1785369600&v=beta&t=jMrHmaj9bFiFOjW7RfbLVdUB0nIA6Oq_-pTgHj-_OkU",
+          "title": "Westchester Community College",
+          "subtitle": "Associate of Arts and Sciences (AAS), Mechanical Engineering",
+          "caption": "2008 - 2010",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/callumsong",
+  "row_key": "id:0033l00002lPtouAAC",
+  "person": "Callum Song",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:04Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAQNLQwBG3tMAtVJDaztMzHvgPEwwOz8Rbw",
+      "firstName": "Callum",
+      "lastName": "Song",
+      "fullName": "Callum Song",
+      "publicIdentifier": "callumsong",
+      "headline": "Sr Software Platform Engineering Manager",
+      "about": "Software Engineer with diverse background in marketing, sales, and most recently in product management. I love solving difficult problems and have learnt to accept uncertainty, and embrace experimentation.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater London, England United Kingdom",
+      "addressWithoutCountry": "Greater London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQHeVUUzjHopKA/profile-displayphoto-shrink_100_100/B4EZSKdKBTGwAY-/0/1737489687235?e=1785369600&v=beta&t=OVfnQ_DPR1rFZinOzuD2JFfeJuusutuwovgOiFuEFa8",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHeVUUzjHopKA/profile-displayphoto-shrink_200_200/B4EZSKdKBTGwAc-/0/1737489687256?e=1785369600&v=beta&t=hHf9-AKguhSPfjdqv-_rmDKPlPMkaWSx3bToWRU3CfE"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHeVUUzjHopKA/profile-displayphoto-shrink_400_400/B4EZSKdKBTGwAk-/0/1737489687256?e=1785369600&v=beta&t=jWnK61MO7iDPOPMMz8fbuG7jAi5RNnX6yFa7yQHHVhk"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHeVUUzjHopKA/profile-displayphoto-shrink_800_800/B4EZSKdKBTGwAg-/0/1737489687256?e=1785369600&v=beta&t=mpGY_u1HZX5nUurciM8fj0sw92BOJZeMFNGWpALBuKQ"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHeVUUzjHopKA/profile-displayphoto-shrink_100_100/B4EZSKdKBTGwAY-/0/1737489687235?e=1785369600&v=beta&t=OVfnQ_DPR1rFZinOzuD2JFfeJuusutuwovgOiFuEFa8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Senior Software Engineering Manager",
+          "subtitle": "Medtronic Digital Technologies . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 5 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Manager",
+              "caption": "Jul 2024 - Jan 2026 · 1 yr 6 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Platform Engineer",
+              "caption": "Jul 2023 - Jul 2024 · 1 yr",
+              "description": []
+            },
+            {
+              "title": "Platform Engineer",
+              "caption": "Oct 2021 - Jul 2023 · 1 yr 9 mos",
+              "description": []
+            },
+            {
+              "title": "Principal Product Specialist - Digital Surgery",
+              "caption": "Feb 2020 - Oct 2021 · 1 yr 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working with Software, Hardware, Machine Learning Engineers to drive user value for a B2B solution in the medical technology industry. Collaborating with Design, Data Science to find usage insights as well as clearly visualise the data for customers.\n\nWorking with marketing to make sure the right messages are being shown to the market and working alongside the executive team to drive the Go-To-Market strategy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Senior Product Owner",
+          "subtitle": "Touch Surgery . Full-time",
+          "caption": "May 2019 - Feb 2020 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "96955",
+          "companyUrn": "urn:li:fsd_company:96955",
+          "companyLink1": "https://www.linkedin.com/company/trainline/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYaFAEwJLiIg/company-logo_400_400/B4EZfFbNX0GwAg-/0/1751363934324/trainline_logo?e=1785369600&v=beta&t=dlWIXOzt2zccGwTeKFnbEepE5mT7gvM5RjUj_j69FX0",
+          "title": "Web Engineer",
+          "subtitle": "Trainline . undefined",
+          "caption": "Mar 2019 - May 2019 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Touch Surgery",
+          "subtitle": "undefined · 1 yr 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Product Owner",
+              "caption": "May 2018 - Mar 2019 · 10 mos",
+              "description": []
+            },
+            {
+              "title": "Front End Engineer",
+              "caption": "Nov 2017 - May 2018 · 6 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "165344",
+          "companyUrn": "urn:li:fsd_company:165344",
+          "companyLink1": "https://www.linkedin.com/company/orion-health/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE8L38mxdTOAA/company-logo_100_100/B56ZdRQWCZGsAQ-/0/1749414928963/orion_health_logo?e=1785369600&v=beta&t=dJihrnssiClomSNqjrz7pb8Ef8kDQ8cfV1rAcwY1owE",
+          "title": "Front End Developer",
+          "subtitle": "Orion Health . undefined",
+          "caption": "Jan 2017 - Oct 2017 · 9 mos",
+          "metadata": "Auckland, New Zealand",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Front-End Engineer",
+          "subtitle": "vVoosh . undefined",
+          "caption": "Jun 2016 - Dec 2016 · 6 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "154855",
+          "companyUrn": "urn:li:fsd_company:154855",
+          "companyLink1": "https://www.linkedin.com/company/oddschecker/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGV320n_2Pv7Q/company-logo_400_400-alternative/company-logo_400_400-alternative/0/1630656154858/oddschecker_logo?e=1785369600&v=beta&t=c3e7J7i7ZQofB-Pbd8PUZSQSNaIe2IlZeNmAR4ABXUU",
+          "title": "Front-End Web Developer",
+          "subtitle": "Oddschecker . undefined",
+          "caption": "Jul 2015 - Jun 2016 · 11 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3637438",
+          "companyUrn": "urn:li:fsd_company:3637438",
+          "companyLink1": "https://www.linkedin.com/company/working-style/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQERx6j4ySpEHA/company-logo_400_400/company-logo_400_400/0/1728527212537/working_style_logo?e=1785369600&v=beta&t=wqIY_j83axeBpvyIwd7GWWdK5X5pa-p__eIZwjpX88o",
+          "title": "Working Style",
+          "subtitle": "undefined · 2 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Marketing Manager",
+              "caption": "May 2014 - Jan 2015 · 8 mos",
+              "metadata": "Auckland, New Zealand",
+              "description": []
+            },
+            {
+              "title": "Tailoring Consultant",
+              "caption": "Oct 2012 - May 2014 · 1 yr 7 mos",
+              "metadata": "Auckland, New Zealand",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2754803",
+          "companyUrn": "urn:li:fsd_company:2754803",
+          "companyLink1": "https://www.linkedin.com/company/aye-nz-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHM_CN9tzRb-A/company-logo_400_400/company-logo_400_400/0/1631386537501?e=1785369600&v=beta&t=DlWa8yKuUpS-WCcN1IzMcUx29FJZ8aTTT_COqaG46E4",
+          "title": "Marketing Manager",
+          "subtitle": "AYE NZ Ltd . undefined",
+          "caption": "Jan 2012 - Oct 2012 · 9 mos",
+          "metadata": "Auckland, New Zealand",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "CKA: Certified Kubernetes Administrator",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Apr 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Korean",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketing Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Market Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redux.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Github",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3691",
+          "companyUrn": "urn:li:fsd_company:3691",
+          "companyLink1": "https://www.linkedin.com/school/university-of-auckland/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH3ZvEbE3_Ghw/company-logo_200_200/B56ZcKNJjEHwAI-/0/1748222909136/the_university_of_auckland_logo?e=1785369600&v=beta&t=t4WfnxbhlS8xkTyB-HlnFHWbYMOcrz92LJjYHntTG0c",
+          "title": "University of Auckland",
+          "subtitle": "BComm(Hons), AIESEC Auckland,\nDeloitte Mangement Consulting Club",
+          "caption": "2005 - 2010",
+          "subComponents": []
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Udacity",
+          "subtitle": "AI Product Manager Nanodegree Program, Artificial Intelligence",
+          "caption": "2020 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Learnt how to evaluate the business value of an AI product. Built familiarity and fluency with common AI concepts. Learnt how to scope and build a data set, train a model, and evaluate its business impact. Learnt how to ensure a product is successful by focusing on scalability, potential biases, and compliance. Reviewed case studies and examples to help focus on how to define metrics to measure the business value for a proposed product."
+            }
+          ]
+        },
+        {
+          "companyId": "2877757",
+          "companyUrn": "urn:li:fsd_company:2877757",
+          "companyLink1": "https://www.linkedin.com/school/code-fellows/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEaU8fGjV7bgg/company-logo_400_400/company-logo_400_400/0/1631314234287?e=1785369600&v=beta&t=IU75jS_g-Ty7ESVA77P157BrQe-QpYb5G4PxvXDoyDA",
+          "title": "Code Fellows",
+          "subtitle": "JavaScript Development, Establishing skills in HTML5, CSS3 and Full-Stack JavaScript using Node.js, Angular.js, React.js",
+          "caption": "2015 - 2015",
+          "subComponents": []
+        },
+        {
+          "title": "Senior College of New Zealand",
+          "subtitle": "null, Debate Team,\nBasketball A team",
+          "caption": "2003 - 2005",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First in New Zealand for IGCSE Additional Mathematics"
+            }
+          ]
+        },
+        {
+          "companyId": "1330244",
+          "companyUrn": "urn:li:fsd_company:1330244",
+          "companyLink1": "https://www.linkedin.com/school/westlake-boys-high-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFG5A8Siv_Pwg/company-logo_400_400/company-logo_400_400/0/1630468480913/westlake_boys_high_school_logo?e=1785369600&v=beta&t=xL_oKUizFJHJIDUA9ysSE5dqU4gJW6_GxIMtZqxzK2s",
+          "title": "Westlake Boys High School",
+          "subtitle": "null, Basketball U-13 B team",
+          "caption": "2001 - 2003",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "6757515",
+          "companyUrn": "urn:li:fsd_company:6757515",
+          "companyLink1": "https://www.linkedin.com/company/2011-rugby-world-cup/",
+          "title": "Festival Host",
+          "subtitle": "2011 Rugby World Cup",
+          "caption": "Sep 2011 - Oct 2011 · 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "6456526",
+          "companyUrn": "urn:li:fsd_company:6456526",
+          "companyLink1": "https://www.linkedin.com/company/greater-new-orleans-sports-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGBToQUVFhOwA/company-logo_400_400/company-logo_400_400/0/1652810112047/greater_new_orleans_sports_foundation_logo?e=1785369600&v=beta&t=IB4zio_iSG7amXHK0GLPNnbI7tAarCPPieR0FHLBjoo",
+          "title": "Operational Support",
+          "subtitle": "Greater New Orleans Sports Foundation",
+          "caption": "Mar 2012 - Apr 2012 · 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "15224414",
+          "companyUrn": "urn:li:fsd_company:15224414",
+          "companyLink1": "https://www.linkedin.com/company/codeyourfuture/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHtdsIatNl3Lg/company-logo_400_400/company-logo_400_400/0/1630578374027/codeyourfuture_logo?e=1785369600&v=beta&t=tDJSO8lxZ3r0oaRHSEzlqqX58hmsIduGRnnq2u994pY",
+          "title": "Tech Lead",
+          "subtitle": "CodeYourFuture",
+          "caption": "Dec 2020 - Jul 2021 · 7 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Cinefy",
+          "subtitle": "Mar 2015 - Mar 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Code Fellows"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Cinefy is a web application that allows movie watchers to get more out of their viewing experience by providing users with an opportunity to like and later re-visit products, songs, and other fun facts from their favorite films.\n\nCinefy was created with an AngularJS front-end, a Node.js back-end that utilizes a RESTful Express API to route user requests, and a MongoDB persistence layer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Zooty",
+          "subtitle": "Feb 2015 - Feb 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Code Fellows"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "This application was developed with an iOS team consisting of Patrick Landin, Ryan Christensen, and Daniel Hour. Allows users to take and upload images as well as vote on other entries. Worked along side Ryan Raeburn to create Express API and MongoDB persistence layer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cool Running",
+          "subtitle": "Jan 2015 - Jan 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Code Fellows"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Cool Running is a web application that allows runners in Seattle to find an appropriate run route based on a distance and difficulty level. The track is shown on Google Maps, and the user data is temporarily stored on the browser's local storage.\n\nThe app was created using native JavaScript, as well as using semantic HTML and CSS styling."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

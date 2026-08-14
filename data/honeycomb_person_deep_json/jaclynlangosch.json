@@ -1,0 +1,397 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jaclynlangosch",
+  "row_key": "id:003Uk00000Pb6RCIAZ",
+  "person": "Jaclyn Langosch",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:16:27Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAApGkvgBJ7Zh40Op0OWAij8VvQXg0G5z_mU",
+      "firstName": "Jaclyn",
+      "lastName": "Koceski (Langosch)",
+      "fullName": "Jaclyn Koceski (Langosch)",
+      "publicIdentifier": "jaclynlangosch",
+      "headline": "Customer Success & Implementation Leader | MedTech Innovator with AI & Data Analytics | Successful Startup Exit with Explorer Surgical",
+      "about": "I build healthcare solutions that deliver the right care, to the right place, at the right time—removing barriers, improving outcomes, and driving measurable impact. From guiding surgeons in the OR as a clinical spine specialist, to scaling healthtech ventures like Explorer Surgical (acquired by GHX), I combine clinical understanding with operational and technology leadership to transform care delivery. I’m on a mission to empower providers, elevate patient care, and advance health equity at scale.\n\nCustomer Success • Business Development • Process Improvement • Leadership & Team Building •Strategic Account Management • Problem Solving • Customer Relationship Management • Customer Journey Mapping • Transformation and Operational Stability • Cross-functional KPI & OKR Alignment • Project Management",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Chicago Area United States",
+      "addressWithoutCountry": "Greater Chicago Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHEbl1Qoa7IhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678999229322?e=1785369600&v=beta&t=ek-fRI9MX3URGfZmFgZrNwY2A8k3Pm4AiyGnE9E1c2s",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQHzD-hFQ4ssaQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692642520774?e=1785369600&v=beta&t=p-rG4GlDW4nJ7MdLu8pIvu9HuSzw0-_jghhuCFkZoxs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHEbl1Qoa7IhA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678999229322?e=1785369600&v=beta&t=SPSECYJLEMqdwlxf6BZ-W-ftSFjG1hVq28jtuJmAhP4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHEbl1Qoa7IhA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1678999229322?e=1785369600&v=beta&t=iQSogBI10RfTs56Rymcj1tjObOsr_cakaRcpU6FgXYo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHEbl1Qoa7IhA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678999229322?e=1785369600&v=beta&t=BXkqFG6vt5txUy2mQIJ1NO0KXPp1DyNH_bMSZRImQP8"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHEbl1Qoa7IhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678999229322?e=1785369600&v=beta&t=ek-fRI9MX3URGfZmFgZrNwY2A8k3Pm4AiyGnE9E1c2s"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHzD-hFQ4ssaQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1692642520774?e=1785369600&v=beta&t=2h9qzgbc4TZoegt1b3JYGAAL-2irhcvzjFvV53yM7hg"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHzD-hFQ4ssaQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692642520774?e=1785369600&v=beta&t=p-rG4GlDW4nJ7MdLu8pIvu9HuSzw0-_jghhuCFkZoxs"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 2 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Manager, U.S. Customer Success || Digital Technologies",
+              "caption": "Feb 2025 - Present · 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Recruited to empower surgical teams and robotic surgery programs with next-generation computing, visualization, and artificial intelligence.\n\nPromoted to lead team development, strategy, and outcomes for Implementation and Customer Engagement functions in the U.S., reporting directly to the Sr. Global Director of Customer Success."
+                }
+              ]
+            },
+            {
+              "title": "Principal Implementation & Customer Success Specialist || Digital Technologies",
+              "caption": "Nov 2023 - Feb 2025 · 1 yr 3 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "66938931",
+          "companyUrn": "urn:li:fsd_company:66938931",
+          "companyLink1": "https://www.linkedin.com/company/charlie-health/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEbgV51WD3iQQ/company-logo_400_400/company-logo_400_400/0/1719256146541/charlie_health_logo?e=1785369600&v=beta&t=Ew-Bd-qAtg5UdaRooNbsfDHnFdEg8OLHiczoiFmWifk",
+          "title": "Regional Director",
+          "subtitle": "Charlie Health . Full-time",
+          "caption": "Feb 2023 - Aug 2023 · 6 mos",
+          "metadata": "Chicago, IL",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Recruited by Growth Strategy as the first Regional Director of Clinical Outreach in the Midwest to develop and execute go-to-market strategy for virtual intensive outpatient (vIOP) mental health services. Built and led team of outreach managers and directors across seven states, driving new business development and existing provider success within independent practices and major hospital systems across emergency medicine, primary care, OB/GYN, gastroenterology, pediatrics, psychiatry, and other mental health providers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10048090",
+          "companyUrn": "urn:li:fsd_company:10048090",
+          "companyLink1": "https://www.linkedin.com/company/explorer-ghx/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFsYY6L6FEgtA/company-logo_400_400/company-logo_400_400/0/1669735759099/explorer_surgical_logo?e=1785369600&v=beta&t=KC_9l2B4HxRlOq1eQb3SzIe3qlnjR6FzqI_GNurETsU",
+          "title": "Explorer, a GHX company",
+          "subtitle": "Full-time · 4 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Head of Customer Success",
+              "caption": "Jan 2021 - Feb 2023 · 2 yrs 1 mo",
+              "metadata": "Chicago, Illinois, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Recruited by the CEO to be the venture-backed digital surgery start-up’s first Customer Success Manager to lead CS strategy and build CS and clinical operations teams dedicated to implementing and driving virtual surgical workflow, video, and live streaming technology adoption. Promoted to senior leadership position and played an instrumental role in scaling global SaaS customer success operations and strategy from Series A to a successful exit with our acquisition by GHX in October 2021.  Roles & responsibilites as Director of Customer Success at Explorer Surgical pre-aquisition, were consistent with GHX role post-aquisition. \n\n> Recipient of 2022 GHX-Explorer Lifesaver Award"
+                }
+              ]
+            },
+            {
+              "title": "Sr. Customer Success Manager",
+              "caption": "Jan 2020 - Jan 2021 · 1 yr",
+              "description": []
+            },
+            {
+              "title": "Customer Success Manager",
+              "caption": "Jan 2019 - Jan 2020 · 1 yr",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1908895",
+          "companyUrn": "urn:li:fsd_company:1908895",
+          "companyLink1": "https://www.linkedin.com/company/flarehealth/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGbfPhKPDNP4w/company-logo_400_400/company-logo_400_400/0/1630551550905/humanpractice_logo?e=1785369600&v=beta&t=c1MPwaoGiK_Qc0kmqQ1Kn25r8JQk1F7vNnPPugQVKUM",
+          "title": "Implementation Consultant",
+          "subtitle": "Flare Health . Full-time",
+          "caption": "Mar 2018 - Jan 2019 · 10 mos",
+          "metadata": "Chicago, IL",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Formerly, Human Practice\nHybrid role leading business development, SaaS implementations, and customer success for mobile physician referral management programs within leading Academic Medical Centers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1811492",
+          "companyUrn": "urn:li:fsd_company:1811492",
+          "companyLink1": "https://www.linkedin.com/company/dod-technologies-inc./",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFKSjE9DAhPkg/company-logo_400_400/company-logo_400_400/0/1630635628976/dod_technologies_inc_logo?e=1785369600&v=beta&t=DIgIhrOazIxeh_AjMsOyTIS6V_5HfaTZqWPvDC6bpLo",
+          "title": "Regional Sales Manager",
+          "subtitle": "DOD Technologies Inc. . Full-time",
+          "caption": "Jan 2015 - Feb 2018 · 3 yrs 1 mo",
+          "metadata": "Greater Chicago Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "High-volume sales, implementation, and customer success lead representing digital life safety systems, including  high-tech electrochemical, colorimetric, and FTIR technology product lines from $500 consumable items to $150k+ capital equipment and custom PLC systems. Consistently exceeded sales quota; met all monthly goals and represented a $2.4M territory by the end of 2017. Utilized a consultative approach to cultivate long term relationships with health and safety professionals within manufacturing facilities, including: Medical Device, Pharmaceutical, Specialty Chemical, University Nanotechnology Centers, Semiconductor, Aerospace, Defense, and Automotive industries throughout 16 states defined as the Midwest territory."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Clinical Sales Representative || Spine",
+          "subtitle": "Grafton Medical Alliance . Full-time",
+          "caption": "Dec 2013 - Dec 2014 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Targeted and built relationships with Orthopedic Surgeons, Neurosurgeons, Otolaryngologists, operating room staff, and hospital administrators in the Midwest.  Supported spinal fusion cases intraoperatively, including ALIF, TLIF, XLIF, ACDF, PCF, Open and MIS procedures.  Scheduled, lead, and closed in-service meetings to onboard new surgeons discussing benefits of unique spinal fusion devices and microsurgical instrumentation for cranial neurosurgery."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Customer Success",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Healthcare",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Public Speaking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Account Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Clinical Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Event Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nutrition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HIPAA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Health Education",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hospitals",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Orthopedic",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Room",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2649",
+          "companyUrn": "urn:li:fsd_company:2649",
+          "companyLink1": "https://www.linkedin.com/school/thisisuic/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBN-jmusbuKg/company-logo_400_400/company-logo_400_400/0/1631324851602?e=1785369600&v=beta&t=p9H15rkqwYBL7H9e-08UXEQpT6Jg2Ch-5ItqTBs4kGg",
+          "title": "University of Illinois at Chicago",
+          "subtitle": "Bachelor of Science (B.S.), Division I National Competitive Cheerleading, Student Trustee Assistant",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Representative Courses: KN 472—Movement Neuroscience, KN 465—Biomechanics of the Neuromusculoskeletal Systems, CHEM 232—Organic Chemistry, KN 200 —Statistical Methods, KN 251/252—Human Physiological Anatomy I/II, BIOS 220—Mendelian and Molecular Genetics, MATH 180—Calculus, PHYS 141—General Physics"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

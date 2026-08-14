@@ -1,0 +1,357 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/travis-redman-b28b7a78",
+  "row_key": "id:0033l00002o5JXdAAM",
+  "person": "Travis Redman",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:21Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABCMBNABqq9ZJehJ0FcbMsW1iAnY-BUOBlE",
+      "firstName": "Travis",
+      "lastName": "Redman",
+      "fullName": "Travis Redman",
+      "publicIdentifier": "travis-redman-b28b7a78",
+      "headline": "Systems/Ops Guy + Accidental Software Engineer. Principal Engineer at Epic Games.",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "South Lake Tahoe, California United States",
+      "addressWithoutCountry": "South Lake Tahoe, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQEveAmjyB-ZKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516667108197?e=1785369600&v=beta&t=rj2dS8GuHfCsNv7xzr1HYCy-G-txkr-siLH1yaWaGfM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEveAmjyB-ZKw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516667108086?e=1785369600&v=beta&t=EG5DExEqOEdaFHN_L4CHVOPYBgIG24HtFst-TEC84BM"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEveAmjyB-ZKw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516667108413?e=1785369600&v=beta&t=ODry_H3L_ki8xAhTNFJ3_t6lMnhX7a7AbnS4VtvX66c"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEveAmjyB-ZKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516667108049?e=1785369600&v=beta&t=DyYa7JYZWKaiPSXueuekwso2G0omLQnChdSKoEkcntI"
+        },
+        {
+          "width": 426,
+          "height": 426,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEveAmjyB-ZKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516667108197?e=1785369600&v=beta&t=rj2dS8GuHfCsNv7xzr1HYCy-G-txkr-siLH1yaWaGfM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "undefined · 5 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Engineer",
+              "caption": "Jun 2022 - Present · 3 yrs 7 mos",
+              "description": []
+            },
+            {
+              "title": "Senior DevOps Engineer",
+              "caption": "Dec 2020 - Present · 5 yrs 1 mo",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "12957659",
+          "companyUrn": "urn:li:fsd_company:12957659",
+          "companyLink1": "https://www.linkedin.com/company/honeycomb.io/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFDmwXNFcV1YQ/company-logo_400_400/company-logo_400_400/0/1630627097994/honeycombio_logo?e=1785369600&v=beta&t=eaIORtgKi7dwfYDcC9SnPdsrDk6gstuMEGVEV4epD8g",
+          "title": "Staff Engineer",
+          "subtitle": "Honeycomb.io . undefined",
+          "caption": "Jan 2018 - Jul 2020 · 2 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Was the first dedicated \"ops\" hire at the company, so I spent a fair amount of time on the usual stuff: AWS infra, terraform, chef, automation, internal tool creation and other various bits of glue. We dabbled with k8s but decided not to take it to prod. As operations were generally stable, I spent more and more time (80% or so) with my SWE hat on, diving into our backend systems and customer integrations/SDKs. Here are some highlights of things I had a hand in:\n\n- SOC2 Type 1 project lead. This involved a lot of engineering work to build the architecture/monitoring/auditing/disaster recovery solutions needed to have a foundation for good security practices. I also set up many recurring processes (such as security reviews) to enable the consistency needed to complete our SOC2 Type 2 the following year.\n\n- Storage engine backup system. Replaced our problematic mirrored pair/rsync solution by writing a new incremental backup system for our proprietary storage/query engine. This gave us a real disaster recovery option for customer data in the event of a total failure of the fleet, and improved replacement time of individual nodes something like 90%.\n\n- Integrations and SDKs. There are too many contributions to various OSS integrations to remember, but some major work for me included: co-authoring a new Python SDK with tracing support, creating a suite of AWS Lambda integrations, and significant contributions (such as new sampling implementation) to our sampling proxy.\n\n- Sampling service project lead. Architected and implemented a new backend service and product feature to aggregate and analyze customer telemetry in real-time, looking for \"interesting\" data points and traces before committing them to storage."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "76987811",
+          "companyUrn": "urn:li:fsd_company:76987811",
+          "companyLink1": "https://www.linkedin.com/company/facebook/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/company-logo_400_400/0/1635988509331/facebook__logo?e=1785369600&v=beta&t=uJYvhIATYKQViQjAD05UxjI88yF88yJPJnX249iiaLY",
+          "title": "Facebook",
+          "subtitle": "undefined · 3 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Production Engineer, MySQL Infrastructure",
+              "caption": "Aug 2016 - Apr 2017 · 8 mos",
+              "metadata": "Menlo Park, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "My team was responsible for day-to-day operations of Facebook’s MySQL infrastructure. Facebook has one of the largest and most complicated MySQL installations in the world, which is driven by automation that does thousands of manhours of work each day: failover, instance replacement, upgrades, backups, moving and copying data, remediation of common issues, etc. My team developed and maintained all of this automation. Our work supported the MySQL databases that power the social network site, as well as a generic MySQL platform used internally by teams all over Facebook."
+                }
+              ]
+            },
+            {
+              "title": "Production Engineer, Parse",
+              "caption": "Jan 2014 - Aug 2016 · 2 yrs 7 mos",
+              "metadata": "Menlo Park, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I was a Production Systems Engineer on Parse, a mobile backend-as-a-service provider acquired by Facebook in 2013 that powered 100,000 active apps. I worked on all aspects of the infrastructure but focused heavily on running what was then one of the largest and more complicated MongoDB shops. I worked closely with other systems and backend engineers to scale our core data service API and improve performance and reliability. I worked heavily in python, go, and chef. Some highlights from my time here include:\n\n- Wrote a suite of CLI tools to manage our MongoDB infrastructure, eliminating the manual work involved in provisioning and configuration\n- Built log analysis tools for MongoDB to feed realtime query information into our operations tools to enable better debugging and better indexing of customer apps\n- Lead multiple successful database upgrades of the entire MongoDB fleet. Developed a test procedure to evaluate production workloads on new versions, allowing us to discover and fix bugs before rolling versions out fleetwide.\n- Drove testing and rollout of MongoDB on RocksDB (AKA MongoRocks) for our entire fleet\n- Designed and helped to implement a new incremental backup solution for MongoRocks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "165888",
+          "companyUrn": "urn:li:fsd_company:165888",
+          "companyLink1": "https://www.linkedin.com/company/scripps-networks-interactive-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsZHfc_LNKXw/company-logo_400_400/company-logo_400_400/0/1631346532223?e=1785369600&v=beta&t=SZPkGS6W6zq7YP36WadHAXs0qUXS9DbH_Y613Nhukpw",
+          "title": "Scripps Networks Interactive",
+          "subtitle": "undefined · 3 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Systems Engineer II",
+              "caption": "Apr 2012 - Jan 2014 · 1 yr 9 mos",
+              "metadata": "Knoxville, TN",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a member of the Scripps Digital Engineering team, I worked directly with web development teams to support delivery of community-oriented content and features to the company’s customer-facing brand websites. The applications were mostly java-based, and we were working heavily on migrating new and existing products into Amazon’s AWS cloud platform. My key activities included design and delivery of multi-tiered linux-based platforms, application deployment and configuration, load testing and tuning, documentation, and the day-to-day support as well as continuous improvement of our platforms. Automation was a core requirement for my team, and I was regularly creating and maintaining automation processes with combinations of shell scripting, PHP, git/svn, and the AWS platform. Some significant milestones from my time in this role are:\n\n- Successful migration of multiple product environments from on-premise Solaris-based platforms to RHEL/CentOS-based platforms at AWS\n- Multiple successful product launches using new platforms built on Amazon’s EC2, Elastic Beanstalk, RDS, SQS, and CloudFormation services\n- Total automation of product platform delivery, including infrastructure provisioning, application build pipeline, and blue/green application deployment using Jenkins, Maven, and the AWS API\n- Complete configuration automation using Puppet for several multi-tiered applications"
+                }
+              ]
+            },
+            {
+              "title": "Systems Administrator II",
+              "caption": "Nov 2010 - Apr 2012 · 1 yr 5 mos",
+              "metadata": "Knoxville, TN",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "While a member of the Scripps OCC/Service Desk, I was focused on the day-to-day operations of the IT organization. The OCC was a second-tier service desk group that works primarily with developers, business users, and other IT professionals in the organization. We supported both the Digital group’s customer-facing brand websites as well as the company’s in-house enterprise applications. In this role I had three major categories of responsibilities:\n\n1. Perform the core duties of the IT Operations service desk, including:\n- Receive, manage, and escalate incidents via phone, e-mail, and support desk ticketing system.\n- Facilitate communications between business customers and IT service and development groups\n- Lead operations call bridges during serious outages or other complex issues\n- Provide 24/7 on-call support in a weekly rotation\n2. First and second-tier system administration, including:\n- Respond to, resolve, and/or escalate events from enterprise monitoring tools\n- Correlate monitoring event and systems data in support of root-cause analysis and problem management efforts\n- Perform basic and advanced administrative tasks on Unix and Windows systems to resolve incidents and complete service requests\n- Other responsibilities held by the OCC (DNS, SSL certificate management, Akamai support, and some user management)\n3. Administer and enhance enterprise monitoring tools.\n- Configure monitoring for thousands of servers and dozens of applications in cooperation with operations, engineering, and development teams\n- Implement systems and application monitoring solutions via SSH (command parsing and analysis), WMI, SNMP, HTTP/SOAP/REST transactions, log analysis, java, synthetic transactions, and other methods\n- Extend monitoring tool capabilities to support  monitoring of new applications as needed\n- Plan and implement upgrades and improvements to enterprise monitoring software and supporting infrastructure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "5023808",
+          "companyUrn": "urn:li:fsd_company:5023808",
+          "companyLink1": "https://www.linkedin.com/company/maryvillecity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHpl-3ggxg2fA/company-logo_400_400/company-logo_400_400/0/1630572643233/maryvillecity_logo?e=1785369600&v=beta&t=ZT08h3lP9WJKkhg9E2wRQ-pxqkNhmhVYuItEKijpClc",
+          "title": "Network Technician",
+          "subtitle": "City of Maryville Government . undefined",
+          "caption": "Jun 2007 - Nov 2010 · 3 yrs 5 mos",
+          "metadata": "Maryville, TN",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At the City of Maryville I was part of a small team of 6 that supported the city’s departments - such as its finance, human resources, police, fire, and utility departments - and the 7 city schools. We provided a wide array of services to each group, including infrastructure, systems, application, and desktop support. In total, we were responsible for nearly 1,000 users. Some highlights from my responsibilities during this time are:\n\n- Day-to-day systems administration of dozens of servers running Windows, SUSE SLES, NetWare, and Novell Linux OES\n- Configuration and maintenance of server applications including Apache and IIS,  Tomcat,  Novell Groupwise (email), Microsoft Active Directory and Novell eDirectory, file shares, and numerous departmental applications, such as Finance and HR systems, utility billing, police , and school administration .\n- Install, configure, and monitor systems, network, and storage infrastructure in a small data center of over 30 physical servers and over 40 virtual servers (VMware ESX).\n- Configure, schedule, monitor, and test backup solutions – including file-based backups, complete server snapshots, virtual machine images, and database backups totaling over 8TB of data.\n- Configure and maintain SQL Server, Oracle, and MySQL databases.\n- Prepare and test disaster recovery plans\n- Automate desktop imaging and application deployment"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chef",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure as code (IaC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CircleCI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Travis CI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "30145",
+          "companyUrn": "urn:li:fsd_company:30145",
+          "companyLink1": "https://www.linkedin.com/school/maryville-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHT8CS4QjhjUw/company-logo_400_400/company-logo_400_400/0/1630581613493/maryville_college_logo?e=1785369600&v=beta&t=nayTCMSgE7YwpjzoN3FPCekY0Qk4Iiw4ySVkQFuFqvs",
+          "title": "Maryville College",
+          "subtitle": "Bachelor of Arts (B.A.), Mathematics and Computer Science",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

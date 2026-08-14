@@ -1,0 +1,191 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/imabhinavsrivastava",
+  "row_key": "id:003Uk00000yd6PNIAY",
+  "person": "Abhinav Srivastava",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:49:52Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAC4vfgMBj93m0QGopD97fhBuV-QwKZuD_Pg",
+      "firstName": "Abhinav",
+      "lastName": "Srivastava",
+      "fullName": "Abhinav Srivastava",
+      "publicIdentifier": "imabhinavsrivastava",
+      "headline": "PMP Trained | Scrum | Agile | Program Manager | AI | DevOps |AWS | Linux",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Bengaluru, Karnataka India",
+      "addressWithoutCountry": "Bengaluru, Karnataka",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGWspp-mhvJLQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658729053134?e=1785369600&v=beta&t=htA2fZjv0xJfpBf85PJcZtEj1BBd5bSVc38NVlXrOiw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGWspp-mhvJLQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1658729053134?e=1785369600&v=beta&t=SSeIAWqOKTLD8apJ210V3-KfvCAHhcxrcjJEGQB29OU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGWspp-mhvJLQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1658729053134?e=1785369600&v=beta&t=QUq0Tcgq022rOBs_xZ1F-TIYc0vcSQPl0w1Le2hMKcw"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGWspp-mhvJLQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658729053134?e=1785369600&v=beta&t=1eEIaR1p7b9qtC5CnU3aAH2tUrSrfBTsBdGM_KVwGNM"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGWspp-mhvJLQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658729053134?e=1785369600&v=beta&t=htA2fZjv0xJfpBf85PJcZtEj1BBd5bSVc38NVlXrOiw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1283",
+          "companyUrn": "urn:li:fsd_company:1283",
+          "companyLink1": "https://www.linkedin.com/company/infosys/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=1785369600&v=beta&t=wXRFwA1J0ChIKomgw78pxANBndJFiDxiGowP-7KcIos",
+          "title": "Senior Software Engineer",
+          "subtitle": "Infosys . Full-time",
+          "caption": "Jan 2025 - Present · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Wipro",
+          "subtitle": "Full-time · 3 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Oct 2021 - Jan 2025 · 3 yrs 3 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Oct 2021 - Jan 2025 · 3 yrs 3 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2580522",
+          "companyUrn": "urn:li:fsd_company:2580522",
+          "companyLink1": "https://www.linkedin.com/company/olacabs-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH4Gvn_WgIVcg/company-logo_400_400/company-logo_400_400/0/1723189459485/olacabs_com_logo?e=1785369600&v=beta&t=Z95UIlRnLNZqiLowi7lS7CFjqr6tF2mVHD2SRMwY0Kc",
+          "title": "Senior Executive IT Products",
+          "subtitle": "Ola (ANI Technologies Pvt. Ltd) . Full-time",
+          "caption": "Dec 2017 - Oct 2021 · 3 yrs 10 mos",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "353182",
+          "companyUrn": "urn:li:fsd_company:353182",
+          "companyLink1": "https://www.linkedin.com/company/towards-vision-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHfAU6IaakSJA/company-logo_400_400/company-logo_400_400/0/1631313695339?e=1785369600&v=beta&t=uiP4xvVf3KSRjSGlCNGseD1M94bekWrBO2xdiGfHHsQ",
+          "title": "Product Engineer",
+          "subtitle": "C-Zentrix . Full-time",
+          "caption": "Dec 2016 - Dec 2017 · 1 yr",
+          "metadata": "Gurugram, Haryana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Was a part of design and implementation team for setting up call center infra-stature and handled deployment for orgnisations like ICICI Lombard, Voonik, Earth Yatra, Dnata etc."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Excellence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

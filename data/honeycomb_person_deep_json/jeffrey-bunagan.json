@@ -1,0 +1,471 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jeffrey-bunagan",
+  "row_key": "id:003Uk000011j3bmIAA",
+  "person": "Jeff Bunagan",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAzSbQsB8kdOj2QY__VK4H-gEgarR9xd6Us",
+      "firstName": "Jeffrey",
+      "lastName": "Bunagan",
+      "fullName": "Jeffrey Bunagan",
+      "publicIdentifier": "jeffrey-bunagan",
+      "headline": "Developer. Salsa Lover. Cook.",
+      "about": "A Senior Developer with 10+ years’ experience in finance, defence and varying sectors. A developer with a strong commitment to delivering workable solutions with a high level of customer satisfaction while using the latest cutting edge technologies. A professional who is comfortable engaging clients and team members of all levels, keen to understanding technical/non-technical requirements and provide innovative solutions. Utilises extensive experience of software development lifecycles to support new builds, aligned with Agile best practice methodology. Possesses knowledge and understanding of application architecture, system integration, API ecosystem, operating from proof of concept through to release and warranty period.\n\nCore Technologies: Java8/7, J2EE, JavaScript, Groovy\nFrameworks: Spring, Springboot, Hibernate, OpenJPA\nApplication Servers: Tomcat/Jetty, Wildfly/JBoss EAP, Weblogic, Liberty WAS\nCloud Technologies: AWS (EC2, S3, RDS, EBS), IBM SmartCloud\nArchitecture Patterns and Frameworks: Restful API, SOAP, SOA (ETL, EAI/ESB), Microservices Development/Test/Delivery/Monitoring Tools: Gradle, Maven, Ant, Git, Jenkins, UrbanCode (IBM), JUnit, TestNG, Cucumber, SonarQube, Docker, Rancher, VirtualBox, AppDynamics, Splunk, OKLog Methodologies: Agile (Scrum, Kanban), TDD, BDD, Waterfall\nDatabases SQL/Queues: Oracle, MySQL, SQL Server, JMS, Kafka",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater London, England United Kingdom",
+      "addressWithoutCountry": "Greater London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQGgiiwDux65sQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1569403756872?e=1785369600&v=beta&t=us1iWwuNaKU6ebeeVJ2CzyNUCw0mtlQFVC7ZFHz4jrU",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGgiiwDux65sQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1569403756800?e=1785369600&v=beta&t=B053LxxQMLIv6NcUXZ3CgwBEUWtJU3IY3h45lInmAw8"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGgiiwDux65sQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1569403756761?e=1785369600&v=beta&t=tTeb1qG9nYGgoYwC3bX_1UGfFux3tDhtpnXQiOijeyI"
+        },
+        {
+          "width": 354,
+          "height": 354,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGgiiwDux65sQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1569403756841?e=1785369600&v=beta&t=TdUcyhD0iNt3i5k3OI2CMhyyyFRNx7MUzW-eV_1vEqM"
+        },
+        {
+          "width": 354,
+          "height": 354,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGgiiwDux65sQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1569403756872?e=1785369600&v=beta&t=us1iWwuNaKU6ebeeVJ2CzyNUCw0mtlQFVC7ZFHz4jrU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Software Engineer",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Sep 2022 - Present · 3 yrs 4 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1756",
+          "companyUrn": "urn:li:fsd_company:1756",
+          "companyLink1": "https://www.linkedin.com/company/hcltech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_400_400/company-logo_400_400/0/1664197008220/hcltech_logo?e=1785369600&v=beta&t=dwz9JqWaaaU9k2Z0ZsatF50OZfVGGUJYNoAu0xrodkM",
+          "title": "Cloud Architect",
+          "subtitle": "HCL Technologies . undefined",
+          "caption": "Jan 2019 - Jul 2021 · 2 yrs 6 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "417361",
+          "companyUrn": "urn:li:fsd_company:417361",
+          "companyLink1": "https://www.linkedin.com/company/lloyds-banking-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGkhcpv2Zr_fg/company-logo_200_200/B4EZp3cgAqKYAI-/0/1762940551787/lloyds_banking_group_logo?e=1785369600&v=beta&t=XxrFwL0X4yK0Bh3n8h8qxMp1eJeJEIquE04OeYmvrYI",
+          "title": "Lead Java Developer",
+          "subtitle": "Lloyds Banking Group . undefined",
+          "caption": "Sep 2017 - Dec 2018 · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for developing and delivering microservices solutions for digital fraud prevention.\n- Design and implementation of features as well as its CI/CD pipelines, incorporating containerized automated build, test, and deployment.\n- In collaboration with DevOps Engineering, created Primer, a self-service platform for creating and deploying microservices.\n\nTechnical Details: Agile-Scrum, Java8, Springboot, Liberty WAS, JUnit, Mockito, Cucumber, Maven, Git, Jenkins, SonarQube, Docker, Rancher, Splunk, AppDynamics, Kafka"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5470",
+          "companyUrn": "urn:li:fsd_company:5470",
+          "companyLink1": "https://www.linkedin.com/company/capco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFVit2NSNt1Fg/company-logo_100_100/B4EZ6yBRRFKoAM-/0/1781103138079/capco_logo?e=1785369600&v=beta&t=xEKhgzsPZGaWMbnj2-kDR9tjN_Y7qqGtqXSc_zHgAVw",
+          "title": "Senior Consultant",
+          "subtitle": "Capco . undefined",
+          "caption": "Sep 2015 - Aug 2017 · 1 yr 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Key member of a multinational (London, Toronto, NY, Sao Paulo), digital transformation project for Bradesco, one of Brazil’s largest banks.\n- Designed, implemented, and delivered Restful API platform as well as provided on-site client support in Brazil during key milestone deliveries.\n\nTechnical Details: Agile-Scrum, Restful API’s, Swagger, Java8, Spring, JDBC Template, Oracle, TestNG, Mockito, Gradle, Git, Bamboo/Pipelines, JBoss"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1646",
+          "companyUrn": "urn:li:fsd_company:1646",
+          "companyLink1": "https://www.linkedin.com/school/harvard-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1785369600&v=beta&t=6UPT13bAXUu-uQx_8cGFJw9Nt7RqPUoqd11BgbPysyI",
+          "title": "Senior Software Engineer",
+          "subtitle": "Harvard University . undefined",
+          "caption": "Mar 2013 - Aug 2015 · 2 yrs 5 mos",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead in developing and maintaining web-based applications that span a variety of fields including human resources, financials, and academic and research administration.\n\nTechnical Details: Agile-Kanban, Java, Spring MVC, Oracle, Junit, Ant, SVN, AWS, Tomcat"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "41987",
+          "companyUrn": "urn:li:fsd_company:41987",
+          "companyLink1": "https://www.linkedin.com/company/apptricity/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHzAdsyyqjLqQ/company-logo_100_100/B56ZhmcynKHQAQ-/0/1754065480454/apptricity_logo?e=1785369600&v=beta&t=N9qwCxzqV-NiQr0bV1SNbMeLLAV3Av9vILwcYUHkd94",
+          "title": "Software Engineer",
+          "subtitle": "Apptricity . undefined",
+          "caption": "Jan 2012 - Sep 2012 · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Handle the end-to-end solution design and development of an expense management system.\n\nTechnical Details: Agile-Kanban, Java, Spring MVC, SQL Server, Junit, Maven, SVN, Tomcat"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1319",
+          "companyUrn": "urn:li:fsd_company:1319",
+          "companyLink1": "https://www.linkedin.com/company/lockheed-martin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHF1YKEZdN4LA/company-logo_400_400/company-logo_400_400/0/1668532986109/lockheed_martin_logo?e=1785369600&v=beta&t=V1Ol6nRbCWgH3rk7O-Unqfv9GU1zYINFRBM9WSHuwng",
+          "title": "Software Engineer",
+          "subtitle": "Lockheed Martin Aeronautics . undefined",
+          "caption": "Apr 2008 - Jan 2012 · 3 yrs 9 mos",
+          "metadata": "Dallas/Fort Worth Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Appointed initially as an Associate Software Engineer and then rapidly progressed into a mid-level position as a Software Engineer, working extensively on varying projects for the United States Department of Defense.\n\nTechnical Details: Agile-Scrum, SOAP, Ajax, Java, OpenJPA, JAXB, Oracle, Junit, Ant, Dimensions, Weblogic"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "164566",
+          "companyUrn": "urn:li:fsd_company:164566",
+          "companyLink1": "https://www.linkedin.com/company/jvc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHe-xJoFuJ4yQ/company-logo_400_400/company-logo_400_400/0/1733246116364/jvc_logo?e=1785369600&v=beta&t=lRCbZv9zdXdsIwpaIJj2QSQnGq6rKX-F-jNC5is5sg8",
+          "title": "Web Developer/Intern",
+          "subtitle": "JVC . undefined",
+          "caption": "Jun 2007 - Feb 2008 · 8 mos",
+          "metadata": "McAllen, Texas Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Develop a product knowledge-base system using PHP and MySQL."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "CFCD: Cloud Foundry Certified Developer",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "CKA: Certified Kubernetes Administrator",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "CKAD: Certified Kubernetes Application Developer",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM Cloud Private - Continuous Integration/Continuous Delivery Pipelines",
+          "subtitle": "IBM",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM Cloud Private - Expert Professional",
+          "subtitle": "IBM",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM Cloud Private - Technical Bootcamp",
+          "subtitle": "IBM",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM Cloud Private Infrastructure and Architecture",
+          "subtitle": "IBM",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tagalog",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tomcat",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "UML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Subversion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Enterprise Edition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5515",
+          "companyUrn": "urn:li:fsd_company:5515",
+          "companyLink1": "https://www.linkedin.com/school/smudallas/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEEtZebsFPhA/company-logo_400_400/company-logo_400_400/0/1735922305631/smudallas_logo?e=1785369600&v=beta&t=jPnpMi96I_ixpOEQLuFQGmA4FhCWtvoCUVV0TV-yiyg",
+          "title": "Southern Methodist University",
+          "subtitle": "Master of Science (M.S.), Computer Software Engineering",
+          "caption": "2008 - 2010",
+          "subComponents": []
+        },
+        {
+          "companyId": "150000",
+          "companyUrn": "urn:li:fsd_company:150000",
+          "companyLink1": "https://www.linkedin.com/school/universityoftexaspanamerican/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFxGoPz_YQ5vA/company-logo_400_400/company-logo_400_400/0/1631352906340?e=1785369600&v=beta&t=myK6N1yRph1u6FCzHqTrSy_XNwUqRMCnxjdFtPEb9Hs",
+          "title": "The University of Texas-Pan American",
+          "subtitle": "Bachelor of Science (B.S.), Computer Science",
+          "caption": "2004 - 2008",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mingshi-wang-1b54784",
+  "row_key": "id:003Uk00000yfcGNIAY",
+  "person": "Mingshi Wang",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:53Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADH3hkBXpliRaUh6X5zQa2zGuDni2eTFOE",
+      "firstName": "Mingshi",
+      "lastName": "Wang",
+      "fullName": "Mingshi Wang",
+      "publicIdentifier": "mingshi-wang-1b54784",
+      "headline": "Sr Staff Software Engineer at Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Seattle Area United States",
+      "addressWithoutCountry": "Greater Seattle Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHmyRsHjQcawg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572630363255?e=1785369600&v=beta&t=EpNzkfteJz5MOIADmBsKcatoVx2olI6O2q-APDDMHDk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHmyRsHjQcawg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1572630363183?e=1785369600&v=beta&t=GTd1t0tK1Py48ZatQ9VUjn-e9O7Dsxxg91RH7EK-0BE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHmyRsHjQcawg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1572630363168?e=1785369600&v=beta&t=ZJabP9ecU2P98hRuMy--cU-UszkHvY2A3SEm1mmrz0I"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHmyRsHjQcawg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1572630363208?e=1785369600&v=beta&t=1jCtbgcAJqYkdb9EjoIM3ACbdE4GSQvsEo10fINYpy8"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHmyRsHjQcawg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572630363255?e=1785369600&v=beta&t=EpNzkfteJz5MOIADmBsKcatoVx2olI6O2q-APDDMHDk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Sr Staff Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Jan 2021 - Present · 5 yrs",
+          "metadata": "Seattle, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Compute platform"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1124131",
+          "companyUrn": "urn:li:fsd_company:1124131",
+          "companyLink1": "https://www.linkedin.com/company/pinterest/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH-RjGJlRrTxw/company-logo_100_100/B4EZ2cmbsqI8AQ-/0/1776448814792/pinterest_logo?e=1785369600&v=beta&t=XWGhgDxca-rCIw9ZFSfKVhKwbSNsHJZXZnuokXHCmko",
+          "title": "Software Engineer",
+          "subtitle": "Pinterest . Full-time",
+          "caption": "Dec 2020 - Feb 2021 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Machine learning platform"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1815218",
+          "companyUrn": "urn:li:fsd_company:1815218",
+          "companyLink1": "https://www.linkedin.com/company/uber-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1785369600&v=beta&t=r9l905urYGR2nLPIAo9IUo1TE7lT_q18b3QvXaHjxb8",
+          "title": "Senior Software Engineer II",
+          "subtitle": "Uber . undefined",
+          "caption": "Nov 2015 - Nov 2020 · 5 yrs",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Building Uber's Machine learning system -  Michelangelo\nhttps://eng.uber.com/michelangelo/"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Software Engineer",
+          "subtitle": "Microsoft . undefined",
+          "caption": "Sep 2008 - Sep 2015 · 7 yrs",
+          "metadata": "redmond",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scala",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Storm",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Natural Language Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "lucene",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "268404",
+          "companyUrn": "urn:li:fsd_company:268404",
+          "companyLink1": "https://www.linkedin.com/school/university-of-science-and-technology-of-china/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHntW5nqVdqDQ/company-logo_400_400/company-logo_400_400/0/1631343239355?e=1785369600&v=beta&t=dYldjWRs0OAi-0J3mFd00omcENm8y173ymQVcoWgDnk",
+          "title": null,
+          "subtitle": "BE, Electrical Engineering",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "2842",
+          "companyUrn": "urn:li:fsd_company:2842",
+          "companyLink1": "https://www.linkedin.com/school/uc-davis/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEoGOIHB7x65w/company-logo_400_400/B56ZnoqcQMKMAg-/0/1760545064338/uc_davis_logo?e=1785369600&v=beta&t=et_2GgXg_X1_1c7DyC7oKuUiqNKnYkju1KXXsZa3iFs",
+          "title": null,
+          "subtitle": "Ph.D., Electrical Engineering",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

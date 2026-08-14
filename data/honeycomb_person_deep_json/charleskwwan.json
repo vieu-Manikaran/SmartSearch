@@ -1,0 +1,303 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/charleskwwan",
+  "row_key": "id:0033l000031Q0gkAAC",
+  "person": "Charles Wan",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABxhbHcB-HfMtjP3x8LpUNETTeW6_fDbyDw",
+      "firstName": "Ka Wai Charles",
+      "lastName": "Wan",
+      "fullName": "Ka Wai Charles Wan",
+      "publicIdentifier": "charleskwwan",
+      "headline": "Senior Software Engineer at CoreWeave",
+      "about": "I am a business-minded engineering leader focused on enabling deep performance insight and optimization through AI assistance and modern observability practices. I am passionate about ensuring that my engineers can confidently execute by providing a clear and well-aligned vision, and grow in both technical and non-technical dimensions via novel opportunities.\n\nCurrently, I am focused on evangelizing and growing AI usage in observability. I believe that AI is \"glue\" that combines the complex practices and tribal knowledge needed to effectively decipher signals about and gain insight into performance in large-scale distributed systems.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "36121341",
+          "companyUrn": "urn:li:fsd_company:36121341",
+          "companyLink1": "https://www.linkedin.com/company/coreweave/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFUx2kll_oE3g/company-logo_100_100/B56Z3aEfQQH4AQ-/0/1777480103293/coreweave_logo?e=1785369600&v=beta&t=p36x-6cLHNPXILTCdWHvBACYXQDzzn7N-8FzADPXr1c",
+          "title": "Senior Software Engineer, Observability",
+          "subtitle": "CoreWeave . Full-time",
+          "caption": "Jun 2026 - Present · ",
+          "metadata": "New York, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 7 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Lead - Application Observability",
+              "caption": "Jul 2023 - Jun 2026 · 2 yrs 11 mos",
+              "metadata": "New York City Metropolitan Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Technical leader of the Application Observability team (5 engineers), which develops tools and guidance to empower engineers to deeply understand inter- and intra-service performance in production.\n\n- Developed Claude skills for regression, root cause, and flow path analyses on OpenTelemetry traces, shortening time-to-insight in performance investigations by ~70% \n- Led migration of  700+ microservices from Zipkin to OpenTelemetry instrumentation with multi-language support, while ensuring zero downtime using custom context propagation\n- Architected cost-neutral consolidation of disjoint distributed tracing infrastructure onto Grafana, Clickhouse, and OpenTelemetry to optimize query efficiency and increase data retention time by 3x\n- Designed and enforced standardized semantic conventions for all internal traces to ensure consistent multi-attribute performance analytics and promote stakeholder confidence in OpenTelemetry transition\n- Introduced tail-sampling to selectively capture regression-relevant hot-stored traces, saving over $880k/year (~93%)  in storage costs"
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer - Observability",
+              "caption": "Apr 2022 - Jul 2023 · 1 yr 3 mos",
+              "metadata": "New York City Metropolitan Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Observability team is responsible for developing and maintaining tools around traces, metrics, and logs to understand performance issues.\n\n- Built a business case to buy an application performance management platform to substantially reduce mean time to repair (MTTR) and cut incident response costs by ~$350k/year, following simultaneous trials with multiple vendors\n- Participated in incident response and oncall rotations as an SRE"
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer - Compute Infrastructure: Platform Experience",
+              "caption": "Dec 2020 - Mar 2022 · 1 yr 3 mos",
+              "metadata": "New York City Metropolitan Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Compute Infrastructure: Platform Experience team owns the internal platform that application developers at Yelp use to deploy and manage their workloads. In addition to maintaining the platform, we extend it to unlock new capabilities for developers, as well as empower other teams to build and integrate their own tools into the platform.\n\n- Drove a team culture shift towards customer focus and product management practices in planning and decision-making processes\n- Led the team's roadmapping process, including defining areas of focus, ensuring alignment with other teams, and integrating team feedback"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer - Compute Infrastructure",
+              "caption": "Sep 2018 - Dec 2020 · 2 yrs 3 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Compute Infrastructure team manages and provides an internal platform to run compute workloads at Yelp. By interacting with a consistent interface across all workloads that abstracts away low-level infrastructure details, developers are empowered to focus solely on their applications.\n\n- Coordinated a large-scale cross-region service migration during a (permanent) region switchover to reduce operational costs\n- Created a state machine for gradually rolling out and testing service configuration changes\n- Helped migrate Yelp's infrastructure off Mesos and onto Kubernetes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "157341",
+          "companyUrn": "urn:li:fsd_company:157341",
+          "companyLink1": "https://www.linkedin.com/school/tufts-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_656Vr-3pxA/company-logo_400_400/company-logo_400_400/0/1631326600842?e=1785369600&v=beta&t=ckFT_UsE-lZ-nNDD_ITJCNVuCq-CNVMllleWdG39U10",
+          "title": "Teaching Assistant",
+          "subtitle": "Tufts University . undefined",
+          "caption": "Jan 2016 - May 2018 · 2 yrs 4 mos",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was a TA for Tufts' programming language course, and my responsibilities included holding office hours and grading assignments for students."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Software Engineering Intern",
+          "subtitle": "Yelp . undefined",
+          "caption": "May 2017 - Aug 2017 · 3 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As a distributed systems intern, I made several contributions to Yelp's next generation task processor running on Mesos, including the addition of GPU support."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese (Traditional)",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Site Reliability Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Developer Tools",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stakeholder Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vendor Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Observability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "157341",
+          "companyUrn": "urn:li:fsd_company:157341",
+          "companyLink1": "https://www.linkedin.com/school/tufts-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_656Vr-3pxA/company-logo_400_400/company-logo_400_400/0/1631326600842?e=1785369600&v=beta&t=ckFT_UsE-lZ-nNDD_ITJCNVuCq-CNVMllleWdG39U10",
+          "title": "Tufts University",
+          "subtitle": "Bachelor's degree, Tufts University Radical Breakdance Organization (TURBO)",
+          "caption": "2014 - 2018",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

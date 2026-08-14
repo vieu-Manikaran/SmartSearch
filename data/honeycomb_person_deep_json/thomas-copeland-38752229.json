@@ -1,0 +1,524 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/thomas-copeland-38752229",
+  "row_key": "id:0033l000031Q0bpAAC",
+  "person": "Thomas Copeland",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:03Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAXzPZcBpul4lJGfHTmcTCFXMU_jZ1EXA7E",
+      "firstName": "Thomas",
+      "lastName": "Copeland",
+      "fullName": "Thomas Copeland",
+      "publicIdentifier": "thomas-copeland-38752229",
+      "headline": "Strategic public affairs and policy leader in corporate, nonprofit, and higher education environments. Expertise in government relations, policy analysis, strategic communications, and organizational leadership.",
+      "about": "Development strategist and nonprofit fundraiser, public policy expert, and passionate teacher of politics, who loves democracy and advocates for individual rights, free markets, national security, and human flourishing.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Government Administration",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Beaver Falls, Pennsylvania United States",
+      "addressWithoutCountry": "Beaver Falls, Pennsylvania",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFi8cO2n8IRBg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722439199731?e=1785369600&v=beta&t=lYfRxmoAcXCw_hzlYNs5rZvv1BR3DGHmakA0gQ41OMc",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQH3drQOtGKnbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1672885433305?e=1785369600&v=beta&t=Por-5FCCLV6mAaW9ZrVmngtF61rJxfcIUjxo6KsJEYE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFi8cO2n8IRBg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722439199712?e=1785369600&v=beta&t=VQYKPcgRyXKXEehXrwYxfCnqZHxODEBXZAfhjwOp6V4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFi8cO2n8IRBg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722439199712?e=1785369600&v=beta&t=xO3WMv7ZyCdM7ofHniLUg8GHC4y1mzBxnwt4uJUVAMM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFi8cO2n8IRBg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722439199712?e=1785369600&v=beta&t=sZhsF60fZkNo5FZaoU393zcATbNiQ4M7yVThp7DIDX8"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFi8cO2n8IRBg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722439199731?e=1785369600&v=beta&t=lYfRxmoAcXCw_hzlYNs5rZvv1BR3DGHmakA0gQ41OMc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQH3drQOtGKnbw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1672885433305?e=1785369600&v=beta&t=wQAevV1TTV7YOb3hjUMbt_Ef6eOFajfjSDI23T7DhHw"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQH3drQOtGKnbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1672885433305?e=1785369600&v=beta&t=Por-5FCCLV6mAaW9ZrVmngtF61rJxfcIUjxo6KsJEYE"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "14517",
+          "companyUrn": "urn:li:fsd_company:14517",
+          "companyLink1": "https://www.linkedin.com/school/regent-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFkRTXSpNtRkw/company-logo_400_400/company-logo_400_400/0/1631307735569?e=1785369600&v=beta&t=ZTx8eIaPOeA3oFBqWoHOR8ETA69znBoebT2IDJ96edc",
+          "title": "Director of Advancement",
+          "subtitle": "Regent University . Full-time",
+          "caption": "Jul 2026 - Present · ",
+          "metadata": "Virginia Beach, VA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Teacher",
+          "subtitle": "Kelly Education Services . undefined",
+          "caption": "Feb 2026 - Jul 2026 · 5 mos",
+          "metadata": "Pittsburgh, PA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Support local educators by substituting for them in grades K-12, all subjects including learning support"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15984099",
+          "companyUrn": "urn:li:fsd_company:15984099",
+          "companyLink1": "https://www.linkedin.com/company/mountain-states-legal-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHaa8XKtTM6dA/company-logo_400_400/company-logo_400_400/0/1630573515757/mountain_states_legal_foundation_logo?e=1785369600&v=beta&t=93n08MAtMGOVS-eJuz0KVC1P6GVsbrYBOmZm4OZ8QfA",
+          "title": "Director of Development Strategy",
+          "subtitle": "Mountain States Legal Foundation . Full-time",
+          "caption": "Jan 2025 - Oct 2025 · 9 mos",
+          "metadata": "Lakewood, Colorado, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led strategic planning to achieve an annual fundraising goal of over $3 million\nDirected all donor acquisition, retention, and reactivation efforts through integrated direct mail and digital campaigns\nSupervised donor communications, appeals, and engagement content across all platforms\nOversaw CRM database management and ensure data integrity for reporting and analytics\nPresented performance reports and ROI analyses to CEO and Board of Directors\nMaintained a portfolio of mid- and higher-level donors across multiple states\nManaged department budget and work across teams, collaborating with Communications, Operations, and Major Gift teams."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4813486",
+          "companyUrn": "urn:li:fsd_company:4813486",
+          "companyLink1": "https://www.linkedin.com/company/centennial-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEbjdlxN1nUqA/company-logo_200_200/B56Zged6T7G4AI-/0/1752857814637/centennial_institute_logo?e=1785369600&v=beta&t=s2HaP0ZJSsZdqZ5BCAU24YNtJYCLwQyEFMLWRojfyp4",
+          "title": "Director of Research",
+          "subtitle": "Centennial Institute . Full-time",
+          "caption": "Jul 2023 - Jan 2025 · 1 yr 6 mos",
+          "metadata": "Lakewood, Colorado, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Conducted policy research on national and state issues; prepared testimony on state legislation\nWrote research-based editorials for national publications; coordinated and edited articles by faculty fellows\nSupported lobbying efforts at the Colorado capitol and in Washington, DC, coordinating with state and federal lobbying contractors, developing strategy\nPromoted coalition relations through conferences and site visits"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "20876",
+          "companyUrn": "urn:li:fsd_company:20876",
+          "companyLink1": "https://www.linkedin.com/school/colorado-christian-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGG3Og0LSJ3kw/company-logo_400_400/company-logo_400_400/0/1631361357495/colorado_christian_university_logo?e=1785369600&v=beta&t=0zFv0dn6ojoD3ZNHiJVNF87-hE8f-KFolAewkJcSjT0",
+          "title": "Colorado Christian University",
+          "subtitle": "Full-time · 6 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Professor of Politics",
+              "caption": "Jul 2017 - Jul 2023 · 6 yrs",
+              "metadata": "Lakewood, CO",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Taught college courses in public policy, international relations, national security, and American government\nBuilt employer relations to enable dozens of student internships with government and non-profits each year, many of which turn into jobs\nLed multiple overseas student trips, including Britain, South Africa, and Washington, DC"
+                }
+              ]
+            },
+            {
+              "title": "Professor",
+              "caption": "Jun 2017 - Jun 2023 · 6 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Taught public policy, international relations, national security, and American government. Built political employer relations to enable dozens of student internships each year. Led students each year on trips to Washington, DC to meet policy makers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "16973",
+          "companyUrn": "urn:li:fsd_company:16973",
+          "companyLink1": "https://www.linkedin.com/school/biola-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGxPD_pPbCzag/company-logo_400_400/company-logo_400_400/0/1662394491715/biola_university_logo?e=1785369600&v=beta&t=yQAAom8wY1Rnna62ATMMEiDSZ7g0mfG5ReU0hD-PBv4",
+          "title": "Associate Professor of Political Science",
+          "subtitle": "Biola University . undefined",
+          "caption": "Jul 2014 - Jun 2017 · 2 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Taught political science, international relations, political economy, and public policy\nServed as a Faculty Assessment Fellow, leading and supporting other academic departments in periodic program reviews with measurable data\nServed on strategic prioritization committee to reassess university spending and investments"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "24322",
+          "companyUrn": "urn:li:fsd_company:24322",
+          "companyLink1": "https://www.linkedin.com/school/genevacollege/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFvoagzZVaLyg/company-logo_400_400/company-logo_400_400/0/1714053538972/genevacollege_logo?e=1785369600&v=beta&t=X8o0cqoz8EgR3TZsDUar1-_8pmiHvu8BoVLkyY3BG-s",
+          "title": "Associate Professor of Political Science",
+          "subtitle": "Geneva College . Full-time",
+          "caption": "Jun 2004 - May 2014 · 9 yrs 11 mos",
+          "metadata": "Beaver Falls, Pennsylvania, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Taught public policy and administration, international relations, and American government to 3,000+ students\nDeveloped strategic plan for the college’s summer school program, coordinating across multiple departments, resulting in increased enrollment by more than 50% the first year\nNominated for both Teacher of the Year and Scholar of the Year\nCoordinator of Geneva Visiting Artist & Lecture Series\nAdvisor to The Geneva Cabinet, student newspaper"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2206",
+          "companyUrn": "urn:li:fsd_company:2206",
+          "companyLink1": "https://www.linkedin.com/company/lexisnexis/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQERmNEI9NOirA/company-logo_400_400/company-logo_400_400/0/1630595702357/lexisnexis_logo?e=1785369600&v=beta&t=zAUwgKQLuxTc-CzplGWaKq1na5IK-mIks2LJWyQKJWU",
+          "title": "LexisNexis",
+          "subtitle": "Full-time · 1 yr",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Chief of Staff, Government Services Division",
+              "caption": "2003 - 2004 · 1 yr",
+              "metadata": "Washington, District of Columbia, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Coordinated internal and external marketing and emergency communications for Government Services Division.  Responsible for business development; strategic planning; proposal and bid preparation.  Coordinated relationship with partner companies in GIS and link analysis."
+                }
+              ]
+            },
+            {
+              "title": "Chief of Staff",
+              "caption": "2003 - 2004 · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed business opportunities with government clients; closed on contracts worth over $12M. Created and coordinated internal communications and crisis response plans."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Manager of Industry Affairs",
+          "subtitle": "LexisNexis Special Services Inc. . Full-time",
+          "caption": "2002 - 2003 · 1 yr",
+          "metadata": "Washington, District of Columbia, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Helped stand up LNSSI as a subdivision of the parent company LexisNexis in response to 9/11\nResponsible for business development, including relationship building, preparing bids for various government customers in classified environments\nServed as subject matter expert on terrorism and intelligence for US government programs\nObtained TS/SCI clearance\n\nNote: LNSSI was created as a subdivision of LexisNexis. I transitioned into LNSSI in the middle of 2002 and back to main LexisNexis mid-2003."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Industry Manager",
+          "subtitle": "LexisNexis Special Services, Inc. . undefined",
+          "caption": "2002 - 2003 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Helped establish LNSSI as a subdivision of LexisNexis to carry out classified homeland security and intelligence work. Conducted business development, relationship building, and bids for government customers. Served as subject matter expert on terrorism and intelligence for US government programs."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "CRM Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Integrity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Initiatives",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Reporting & Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Budget Oversight",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Education Program Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Marketing Analytics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Profit Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Closing Contracts",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research Funding",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "International Public Affairs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Media Relations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Grant Proposals",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Legislative Testimony",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Development & Production of Publications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Political Philosophy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Policy Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management of multi-disciplinary teams",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Organizational Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Policy Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3461",
+          "companyUrn": "urn:li:fsd_company:3461",
+          "companyLink1": "https://www.linkedin.com/school/university-of-pittsburgh/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF-WX00Sjv9Bg/company-logo_400_400/company-logo_400_400/0/1630588088867/university_of_pittsburgh_logo?e=1785369600&v=beta&t=2XmY7tTje8PXdx7f2GG6Mk6beFXq4hD9PfR5iBnY_uY",
+          "title": null,
+          "subtitle": "Ph.D., Public and International Affairs",
+          "caption": "1998 - 2006",
+          "subComponents": []
+        },
+        {
+          "companyId": "3461",
+          "companyUrn": "urn:li:fsd_company:3461",
+          "companyLink1": "https://www.linkedin.com/school/university-of-pittsburgh/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF-WX00Sjv9Bg/company-logo_400_400/company-logo_400_400/0/1630588088867/university_of_pittsburgh_logo?e=1785369600&v=beta&t=2XmY7tTje8PXdx7f2GG6Mk6beFXq4hD9PfR5iBnY_uY",
+          "title": "University of Pittsburgh",
+          "subtitle": "Master of Public and International Affairs, International Relations and National Security Studies",
+          "caption": "1991 - 1992",
+          "subComponents": []
+        },
+        {
+          "companyId": "24322",
+          "companyUrn": "urn:li:fsd_company:24322",
+          "companyLink1": "https://www.linkedin.com/school/genevacollege/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFvoagzZVaLyg/company-logo_400_400/company-logo_400_400/0/1714053538972/genevacollege_logo?e=1785369600&v=beta&t=X8o0cqoz8EgR3TZsDUar1-_8pmiHvu8BoVLkyY3BG-s",
+          "title": null,
+          "subtitle": "B.A., Genevans, Madrigals, Eight Bells, Student Government, Track and Field, Alpha Chi",
+          "caption": "1987 - 1991",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Board Member",
+          "subtitle": "Alliance for Consumer Protection, Beaver County",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2808828",
+          "companyUrn": "urn:li:fsd_company:2808828",
+          "companyLink1": "https://www.linkedin.com/school/beaver-county-christian-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEwssWa0MXnQQ/company-logo_400_400/company-logo_400_400/0/1631388286162?e=1785369600&v=beta&t=0HtSJcK3c4mHZY8L6zLxC9F8RfKLvpUJX2jjSif6SBw",
+          "title": "Board Member",
+          "subtitle": "Beaver County Christian School",
+          "caption": "Jul 2011 - Jun 2013 · 1 yr 11 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "57472",
+          "companyUrn": "urn:li:fsd_company:57472",
+          "companyLink1": "https://www.linkedin.com/company/united-states-soccer-federation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEybKZEESjNFw/company-logo_400_400/company-logo_400_400/0/1631325015425?e=1785369600&v=beta&t=ZWsuzEHvS7Vge4qyZNu3gdXgOqI7bBWwRuKHSLqU5Kc",
+          "title": "Referee",
+          "subtitle": "U.S. Soccer Federation",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

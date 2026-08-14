@@ -1,0 +1,347 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/martinskopstals",
+  "row_key": "id:0033l00002hdmG2AAI",
+  "person": "Martins Kopstals",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T09:56:44Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABAwQaMBgJVy1vihNCt0PTKsqNhBx-ZcluE",
+      "firstName": "Martins",
+      "lastName": "Kopstals",
+      "fullName": "Martins Kopstals",
+      "publicIdentifier": "martinskopstals",
+      "headline": "Principal Software Engineer at Medtronic Digital Surgery",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": null,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "undefined",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFI3DSUKyZJFQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1647367606463?e=1785369600&v=beta&t=e_xkImMrD7-H4TYJPltjXUyJM1jqPqGSQDqHqcWw-RI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFI3DSUKyZJFQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1647367606463?e=1785369600&v=beta&t=shkVk9yGnCMNx0ajBjNTaLUZxBkZAOKmck-z7tJM4Mc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFI3DSUKyZJFQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1647367606463?e=1785369600&v=beta&t=2P9auSUkwKlpI6x475wv_sJ8UXkahV_ZVpdn4kvfzOo"
+        },
+        {
+          "width": 278,
+          "height": 278,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFI3DSUKyZJFQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1647367606463?e=1785369600&v=beta&t=RkLvm1DsDIXaNx5og58XPXBENFDiy0tEDAK-poyn27U"
+        },
+        {
+          "width": 278,
+          "height": 278,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFI3DSUKyZJFQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1647367606463?e=1785369600&v=beta&t=e_xkImMrD7-H4TYJPltjXUyJM1jqPqGSQDqHqcWw-RI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 6 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Feb 2022 - Present · 3 yrs 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Compliance and security engineering\nInternal Platform engineering in regulated environments"
+                }
+              ]
+            },
+            {
+              "title": "Senior Platform Engineer",
+              "caption": "Jul 2019 - Jan 2022 · 2 yrs 6 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Designed and implemented OAUTH2 for all clients as part of upgrading our general security posture as well as streamlining machine user interactions with API.\n- Helped migrating from EC2 to Kubernetes safely and cleanly\n- Led data platform infrastructure revamp to support faster and easier insights generation in collaboration with my data engineering colleagues\n- Optimized and refactored CI/CD pipelines to cut down on build times by 20% and improve reliability\n- Designed and implemented MVP for migrating from largely RBAC based user flows to more ACL/ABAC flavoured permissions in order to support product feature roadmap\n\nRelevant tech stack:\nBitbucket pipelines, Django, Docker, Terraform, Ansible, Kubernetes/EKS, MSK, Kafka connect, Schema registry, KSQL, RDS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "519220",
+          "companyUrn": "urn:li:fsd_company:519220",
+          "companyLink1": "https://www.linkedin.com/company/ostmodern/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEwVqjXJoxTXQ/company-logo_400_400/company-logo_400_400/0/1694529943133/ostmodern_logo?e=1785369600&v=beta&t=lwoQl9f8r3lA7CO71xXmnYkW8yzQ789O4UpsnjMPiDo",
+          "title": "Ostmodern",
+          "subtitle": "undefined · 3 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Backend Engineer",
+              "caption": "Aug 2017 - Mar 2019 · 1 yr 7 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Prototyped and delivered a greenfield data product serving ~30k concurrent users totalling ~150k messages/s during peak time. \n- Designed and maintained a Skylark API gateway used by web and mobile platforms.\n- Redesigned caching and video CDN integrations in Ostmodern headless CMS product.\n\nPertinent tech stacks:  \n- Python, Tornado, Federated and HA RabbitMQ, PostgreSQL, Kafka, Kafka Connect, Zookeeper, Elixir\n- Python, Django, restless, memcached, nginx"
+                }
+              ]
+            },
+            {
+              "title": "Python Engineer",
+              "caption": "Aug 2015 - Aug 2017 · 2 yrs",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Source Elements . undefined",
+          "caption": "2013 - Feb 2018 · 5 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Prototyped a SIP/webRTC conferencing solution using a SIP proxy, sylkserver, node.js and custom JS libraries.\n- Wrote ES6 JS library to mimic a webRTC object interface and sequence API calls to an external webRTC engine."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Latvian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flask",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Angular.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQLite",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "gulp",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GruntJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NoSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WebSockets",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bootstrap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Latvian",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

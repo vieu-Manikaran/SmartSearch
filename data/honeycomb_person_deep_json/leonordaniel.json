@@ -1,0 +1,745 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/leonordaniel/en",
+  "row_key": "id:003Uk00000Pb74yIAB",
+  "person": "Leonor Daniel",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:16:37Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAnQ9y8BJIr4pYB4Mp2vtjhQmUpUBx-rHXk",
+      "firstName": "Leonor",
+      "lastName": "Daniel",
+      "fullName": "Leonor Daniel",
+      "publicIdentifier": "leonordaniel",
+      "headline": "Senior Platform Engineer at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "ES",
+        "language": "es"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Warwick, England United Kingdom",
+      "addressWithoutCountry": "Warwick, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQG8z0QM_lqr0w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1575572838584?e=1785369600&v=beta&t=jFH8mTMSafqFXF6DOEMxzVX1zSNIL-F4rSt80_cfBtI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG8z0QM_lqr0w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1575572838497?e=1785369600&v=beta&t=kHNxkvKZxaYjg47_QRtTEH3zKaNg8E4ZiiHeyr1vWwk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG8z0QM_lqr0w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1575572838389?e=1785369600&v=beta&t=qZOm1EYO6o_YB7T5r91lEWM22VBDxUjBMmBgp_M15PA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG8z0QM_lqr0w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1575572838525?e=1785369600&v=beta&t=r-Xp2G23fdNneHWCdlDpXN1PvQVon-rpMEMAXBFP38o"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQG8z0QM_lqr0w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1575572838584?e=1785369600&v=beta&t=jFH8mTMSafqFXF6DOEMxzVX1zSNIL-F4rSt80_cfBtI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal AI/Data Science Platform Engineer",
+              "caption": "Jan 2026 - Present · ",
+              "description": []
+            },
+            {
+              "title": "Senior Platform Engineer",
+              "caption": "Aug 2023 - Jan 2026 · 2 yrs 5 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Design and maintain cloud-native infrastructure for ML, Data and Software Engineering teams.\n• Operate and manage MLOps services such as MLFlow, Metaflow and related tooling.\n• Take ML models from development through to production deployment.\n• Build and manage CI/CD pipelines.\n• Collaborate with ML engineers to streamline experimentation and production workflows.\n• Kubernetes, EKS, Karpenter, Argo, Terraform/OpenTofu, Terragrunt, Docker, Python."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "18523922",
+          "companyUrn": "urn:li:fsd_company:18523922",
+          "companyLink1": "https://www.linkedin.com/company/zenobe-energy-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHzFhJrw8KFTw/company-logo_400_400/company-logo_400_400/0/1630574744141/zenobe_energy_ltd_logo?e=1785369600&v=beta&t=i3lH7vQ-umV_lS67efYBBEJODOytkfi8AuYmwfuNYyo",
+          "title": "Senior Software Engineer",
+          "subtitle": "Zenobē . Full-time",
+          "caption": "Mar 2023 - Jul 2023 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5097169",
+          "companyUrn": "urn:li:fsd_company:5097169",
+          "companyLink1": "https://www.linkedin.com/company/perspectum-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGWlXdnzuLumA/company-logo_400_400/company-logo_400_400/0/1676564034433/perspectum_ltd_logo?e=1785369600&v=beta&t=Vjcvhdy3AtMVWryZqeN6AyXWZPBQA7rrCp_rQKD7bVM",
+          "title": "Perspectum Ltd",
+          "subtitle": "Full-time · 4 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Software Engineer",
+              "caption": "Mar 2022 - Mar 2023 · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•  Medical and Pharma cloud solutions\n•  Strong focus on testing strategy and implementation, from code design to automated infrastructure tests.\n•  Terraform, Terratest, Docker, AWS\n•  Python, Go"
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2021 - Mar 2022 · 1 yr 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•  Medical devices team\n•  Terraform, Packer, Ansible, Docker, AWS\n•  Jenkins administration\n•  C++, Python"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Mar 2019 - Feb 2021 · 1 yr 11 mos",
+              "metadata": "Oxford, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "269818",
+          "companyUrn": "urn:li:fsd_company:269818",
+          "companyLink1": "https://www.linkedin.com/company/jaguar-land-rover_1/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKUTbFWx_fjg/company-logo_100_100/B4DZsDtZ9dIAAQ-/0/1765293793673/jaguar_land_rover_1_logo?e=1785369600&v=beta&t=Y2YGgHdX1w7X4y3enjNZYVngfMgmB_CX57ps3E3cTBA",
+          "title": "Software Engineer",
+          "subtitle": "Jaguar Land Rover . undefined",
+          "caption": "Apr 2018 - Feb 2019 · 10 mos",
+          "metadata": "Gaydon, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Responsible for the tools and code handling vehicle bus messages within the infotainment system (C, CMake, Java: Eclipse plugins and  C code-generators).\n• Automation of software versions management for delivery over the air (Python, Bash, RedBend APIs, Gitlab pipelines).\n• CI/CD with Gitlab and AWS. Infrastructure as code approach (Ansible, Docker).\n• Linux development environment."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1879",
+          "companyUrn": "urn:li:fsd_company:1879",
+          "companyLink1": "https://www.linkedin.com/company/autodesk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGrSi2UOCdL5g/company-logo_400_400/company-logo_400_400/0/1719952472030/autodesk_logo?e=1785369600&v=beta&t=pa4VdWA2ufbxwah0WqkyMS3FIgR0cF9GYKw7wiYBvvM",
+          "title": "Software Engineer",
+          "subtitle": "Autodesk . undefined",
+          "caption": "Aug 2016 - Mar 2018 · 1 yr 7 mos",
+          "metadata": "Birmingham, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• CAD modelling software for subtractive and additive manufacture. \n• Development of algorithms for automatic repair of meshes. \n• OOP C++, TDD, Git/GitHub, Jira, Visual Studio.\n• Agile (Scrum) development environment."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "28981",
+          "companyUrn": "urn:li:fsd_company:28981",
+          "companyLink1": "https://www.linkedin.com/company/delcam/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGHotYuIRwl0Q/company-logo_400_400/company-logo_400_400/0/1630629847463/delcam_logo?e=1785369600&v=beta&t=ZeGtNbNLzdk14XaTwqTl7TWzfjhNXOPYcu1UXFHCR40",
+          "title": "Graduate Software Engineer",
+          "subtitle": "Delcam . undefined",
+          "caption": "Jul 2015 - Aug 2016 · 1 yr 1 mo",
+          "metadata": "Birmingham, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "(Subsidiary of Autodesk Ltd.)\n• Worked in four different teams as part of the Graduate Programme.\n• Main development work in C++.\n• Some exposure to C# and VB.NET, ASP.NET MVC, MFC, NUnit.\n• Waterfall development environment."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7609",
+          "companyUrn": "urn:li:fsd_company:7609",
+          "companyLink1": "https://www.linkedin.com/school/uniofwarwick/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_200_200/B4EZeDcOnXGcAI-/0/1750256905393/uniofwarwick_logo?e=1785369600&v=beta&t=H_W9eiIIhSUT-UEGyPa3oZ4iGwHzwyH6GwHe8Ssq2JI",
+          "title": "Graduate Teaching Assistant",
+          "subtitle": "Mathematics Institute at the University of Warwick . undefined",
+          "caption": "Oct 2012 - Jun 2015 · 2 yrs 8 mos",
+          "metadata": "Coventry, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1350393",
+          "companyUrn": "urn:li:fsd_company:1350393",
+          "companyLink1": "https://www.linkedin.com/company/actividades-formativas-activa-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHSf0nE1inNUA/company-logo_400_400/company-logo_400_400/0/1730200154044/actividades_formativas_activa__logo?e=1785369600&v=beta&t=q8j3shIndO0V0j_8S_JPixTFMBWjreVcBtNdlblavpE",
+          "title": "English Teacher",
+          "subtitle": "Actividades Formativas (Activa) . undefined",
+          "caption": "Sep 2010 - Jun 2011 · 9 mos",
+          "metadata": "Valladolid Area, Spain",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "346299",
+          "companyUrn": "urn:li:fsd_company:346299",
+          "companyLink1": "https://www.linkedin.com/company/yukawa-institute-for-theoretical-physics/",
+          "title": "Graduate Research Fellow",
+          "subtitle": "Yukawa Institute for Theoretical Physics . undefined",
+          "caption": "Mar 2008 - Mar 2010 · 2 yrs",
+          "metadata": "Kyoto, Kyoto, Japan",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Research Intern",
+          "subtitle": "Institute of Mathematics and Fundamental Physics (C.S.I.C.) . undefined",
+          "caption": "Sep 2007 - Dec 2007 · 3 mos",
+          "metadata": "Madrid Area, Spain",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified CloudOps Engineer - Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jun 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "CKAD: Certified Kubernetes Application Developer",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Nov 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "CKA: Certified Kubernetes Administrator",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Mar 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jun 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Professional",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jun 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "826972",
+          "companyUrn": "urn:li:fsd_company:826972",
+          "companyLink1": "https://www.linkedin.com/company/luma-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH6QVnyGylK-g/company-logo_400_400/company-logo_400_400/0/1663008866956/luma_institute_logo?e=1785369600&v=beta&t=keziFlF8YjXmxX2iAlSeFowk8m2yS_w3TtISBnhCKG4",
+          "title": "LUMA Institute Certified Practitioner",
+          "subtitle": "LUMA Institute",
+          "issued": "Issued Mar 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified DevOps Engineer – Professional",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Developer – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued May 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified SysOps Administrator – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued May 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "546456",
+          "companyUrn": "urn:li:fsd_company:546456",
+          "companyLink1": "https://www.linkedin.com/company/fundlacaixa/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGi2Qpg64rYAg/company-logo_400_400/company-logo_400_400/0/1630650564041/fundlacaixa_logo?e=1785369600&v=beta&t=gbKZv-s6Vnqn14FKDn0auFBAqXmJvgcc91ipIx597bo",
+          "title": "Becarios Fundación ”la Caixa”",
+          "subtitle": "Fundación ”la Caixa”",
+          "issued": "Issued Jan 2010",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Spa Speakers (Toastmasters International club number 654755)",
+          "subtitle": "Vice President of Education",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Carpentry",
+          "subtitle": "Instructor",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spa Speakers (Toastmasters International club number 654755)",
+          "subtitle": "Vice President of Public Relations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Society for Industrial and Applied Mathematics (SIAM) Warwick Student Chapter",
+          "subtitle": "Vice President",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "\"Articulating the Influence of Mathematics\" takeAIM contest winner",
+          "subtitle": "Issued by Industrial Mathematics KTN",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "“La Caixa” Foundation grant for postgraduate studies (MSc)",
+          "subtitle": "Issued by La Caixa",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Excellence Award: \"Premio Extraordinario Fin de Carrera\"",
+          "subtitle": "Issued by University of Valladolid",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Highest mark among all the Physics students graduating that year."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Research Scholarships",
+          "subtitle": "Issued by University of Valladolid (UVA) / Ministry of Science and Education of Spain (MEC)",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "2004-2006 UVA scholarships, 2006-2007 MEC scholarship at the Department of Theoretical Physics, University of Valladolid (Spain), to study classical and quantum dynamics of superintegrable potentials in curved spaces."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Cloud Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Argo",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MLOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon ECS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Kinesis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon EC2",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Step Functions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Lambda",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Dynamodb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure as code (IaC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Line Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CMake",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "7609",
+          "companyUrn": "urn:li:fsd_company:7609",
+          "companyLink1": "https://www.linkedin.com/school/uniofwarwick/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_200_200/B4EZeDcOnXGcAI-/0/1750256905393/uniofwarwick_logo?e=1785369600&v=beta&t=H_W9eiIIhSUT-UEGyPa3oZ4iGwHzwyH6GwHe8Ssq2JI",
+          "title": "University of Warwick",
+          "subtitle": "Postgraduate Award: Teaching and Learning in Higher Education, null",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Commendation"
+            }
+          ]
+        },
+        {
+          "companyId": "7609",
+          "companyUrn": "urn:li:fsd_company:7609",
+          "companyLink1": "https://www.linkedin.com/school/uniofwarwick/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_200_200/B4EZeDcOnXGcAI-/0/1750256905393/uniofwarwick_logo?e=1785369600&v=beta&t=H_W9eiIIhSUT-UEGyPa3oZ4iGwHzwyH6GwHe8Ssq2JI",
+          "title": "University of Warwick",
+          "subtitle": "Master's Degree, Interdisciplinary Mathematics",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Distinction"
+            }
+          ]
+        },
+        {
+          "companyId": "314509",
+          "companyUrn": "urn:li:fsd_company:314509",
+          "companyLink1": "https://www.linkedin.com/school/universidad-de-valladolid/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_400_400/company-logo_400_400/0/1692170343519/universidad_de_valladolid_logo?e=1785369600&v=beta&t=qf8QgO6jYE7UOBl46Qh0exCb10FfzpH02gYA1tCY6ew",
+          "title": "Universidad de Valladolid",
+          "subtitle": "Bachelor's Degree, Physics",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "(Equivalent to) First Class Honours (1st)"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Programming Workshop Helper",
+          "subtitle": "Software Carpentry Foundation",
+          "caption": "Apr 2014 - Apr 2015 · 1 yr",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

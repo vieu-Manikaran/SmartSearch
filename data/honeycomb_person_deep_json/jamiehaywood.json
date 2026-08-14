@@ -1,0 +1,601 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/jamiehaywood",
+  "row_key": "id:003Uk00000hfxUqIAI",
+  "person": "Jamie Haywood",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAy1tRgBekeFiU4rFUkgwNYukK2Xvpoa4kE",
+      "firstName": "Jamie",
+      "lastName": "Haywood",
+      "fullName": "Jamie Haywood",
+      "publicIdentifier": "jamiehaywood",
+      "headline": "Senior Software Engineer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Sydney Area Australia",
+      "addressWithoutCountry": "Greater Sydney Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEOCOhR2MNXJQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1557062547009?e=1785369600&v=beta&t=w3Tu1QlMO2U0vB8QaVvT2ReK-bZ6TjQThzdvxSpRjD8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEOCOhR2MNXJQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1557062547034?e=1785369600&v=beta&t=NUNg1aK3NjGncssS-tlDM7x-O0EDHOoT18b8w71nEBg"
+        },
+        {
+          "width": 176,
+          "height": 176,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEOCOhR2MNXJQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1557062547025?e=1785369600&v=beta&t=iHjRA0CZTXy8QGfV12HaOVeJODLYx24R3bWs9JZkFmA"
+        },
+        {
+          "width": 176,
+          "height": 176,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEOCOhR2MNXJQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1557062546998?e=1785369600&v=beta&t=fjZUmrudHeb8xJcFNTihz00IPT1aGFRR-guYXOj_9p4"
+        },
+        {
+          "width": 176,
+          "height": 176,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEOCOhR2MNXJQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1557062547009?e=1785369600&v=beta&t=w3Tu1QlMO2U0vB8QaVvT2ReK-bZ6TjQThzdvxSpRjD8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Jul 2025 - Present · 6 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "8755517",
+          "companyUrn": "urn:li:fsd_company:8755517",
+          "companyLink1": "https://www.linkedin.com/company/cassini-margin-collateral-analytics/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEInzGdGDe0sA/company-logo_200_200/B4EZwzCN3PJgAI-/0/1770382745490/cassini_margin_collateral_analytics_logo?e=1785369600&v=beta&t=s7gchDfGyPxR3Avyh14m8eft0QtP_W8WH503U36bc0o",
+          "title": "Senior Software Developer",
+          "subtitle": "Cassini . Full-time",
+          "caption": "Jan 2024 - Apr 2025 · 1 yr 3 mos",
+          "metadata": "London",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Built and scaled an AI-powered collateral optimisation platform delivering “smart” trade and collateral insights for hedge funds and asset managers using AWS Bedrock.\n\nIntegrated with enterprise platforms like Aladdin (BlackRock) and Bloomberg Terminal APIs, supporting data-rich environments and large-scale financial workflows.\n\nBuilt high performance visualisations and tables for large datasets using AG Grid, D3, ECharts, and React Query."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1217",
+          "companyUrn": "urn:li:fsd_company:1217",
+          "companyLink1": "https://www.linkedin.com/company/vodafone/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGAjVTnzEmlYQ/company-logo_400_400/company-logo_400_400/0/1630668724567/vodafone_logo?e=1785369600&v=beta&t=0nKHqC8V6xK39nBp-v6pQlrLSwP2nwrnkNn7yOmyA3s",
+          "title": "Senior / Lead Software Developer",
+          "subtitle": "Vodafone . Full-time",
+          "caption": "Aug 2021 - Jan 2024 · 2 yrs 5 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led the frontend architecture and delivery for VOXI (Vodafone’s youth brand), collaborating across product, marketing, and engineering.\n\nDelivered major platform features including an Open Banking integration for a socially impactful tariff offering.\n\nManaged cross-functional teams and supported technical hiring and mentoring processes.\n\nEnhanced Vodafone's internal component library system and microsite delivery by modernising its packaging and bundling approach (ESM, Rollup, caching).\n\nImproved CI/CD reliability and speed through pipeline restructuring in Azure DevOps.\n\nBuilt internal tooling for type-safe API contracts between Java backends and TypeScript frontends."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "28863374",
+          "companyUrn": "urn:li:fsd_company:28863374",
+          "companyLink1": "https://www.linkedin.com/company/captur-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGdw8TR1olmlQ/company-logo_200_200/B4DZ5K7BPwKAAI-/0/1779373446406/captur_ai_logo?e=1785369600&v=beta&t=Z1Q4adXofmjzrK3OlMamAyhf0TO3t_-w1BpDP6VMAoM",
+          "title": "Captur",
+          "subtitle": "Contract · 1 yr 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Lead",
+              "caption": "Oct 2020 - Aug 2021 · 10 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Founding engineer and technical lead at a computer vision startup building a real-time web platform for image and video analysis.\n\nDesigned and implemented a full-stack solution using React, Node.js, and MongoDB.\n\nBuilt a video streaming engine that connected with on-device and cloud-based CV models over WebSockets.\n\nActed as lead developer while managing offshore contractors and guiding MVP iterations based on user feedback and stakeholder needs.\n\nPlayed a key role in early commercial traction and technical investor demos."
+                }
+              ]
+            },
+            {
+              "title": "Technical Co-Founder",
+              "caption": "Nov 2019 - Jun 2021 · 1 yr 7 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5184",
+          "companyUrn": "urn:li:fsd_company:5184",
+          "companyLink1": "https://www.linkedin.com/company/transport-for-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGo7HksrSzYjg/company-logo_400_400/company-logo_400_400/0/1688545708483/transport_for_london_logo?e=1785369600&v=beta&t=lEMLeW85Y7FRHYdMGafgG0zaQezx7603mHGB_xDdCuI",
+          "title": "Software Developer",
+          "subtitle": "Transport for London . Full-time",
+          "caption": "Sep 2018 - Oct 2020 · 2 yrs 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Contributed to major digital platforms including Contactless, Santander Cycles, ULEZ, and TfL Now.\n\nHelped develop and maintain the TfL React Component Library, powering dozens of microsites used internally and by the public.\n\nModernised legacy web systems with accessible, performant React SPAs.\n\nActively involved in accessibility upgrades to meet WCAG AA standards across the suite."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "157318",
+          "companyUrn": "urn:li:fsd_company:157318",
+          "companyLink1": "https://www.linkedin.com/company/network-rail/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGdk_SZHsELBw/company-logo_400_400/B4EZ62DM4cKsAc-/0/1781170753292/network_rail_logo?e=1785369600&v=beta&t=drcS6kjxbgg4qq9qOHG2hWd1w-wey44-Q7UZN4fCu0Y",
+          "title": "Technical Consultant",
+          "subtitle": "Network Rail . Contract",
+          "caption": "May 2019 - May 2019 · ",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Consulting on the production build and deployment of two products:\n∙ A live lift status API for every rail station in the UK - designed for mobility impaired users of the network to be able to plan their rail journey. \n\n∙ Application of computer vision and machine learning to 'see' lift asset usage and carry out proactive maintenance."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "14810776",
+          "companyUrn": "urn:li:fsd_company:14810776",
+          "companyLink1": "https://www.linkedin.com/company/the-computer-support-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE2cUyI2eSrlQ/company-logo_400_400/company-logo_400_400/0/1630486568556?e=1785369600&v=beta&t=nRN7yKvYH345szzj-kdKMrwwaARAtKb9cNMfdN7hoXI",
+          "title": "Founder",
+          "subtitle": "The Computer Support Group . undefined",
+          "caption": "Sep 2007 - Jul 2014 · 6 yrs 10 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Key Skills:\n- Entrepreneurship\n- Self-starter\n- Business Data Analysis\n- Growth Hacking through the referral modal\n\nThe Computer Support Group. was a small computer services company that specialised in home networking solutions, computer repair, and Windows and Apple tutorials for students of all ages. We provided same-day, low-cost and high-quality solutions to customers across London.\nClient list sold in 2014."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "40853579",
+          "companyUrn": "urn:li:fsd_company:40853579",
+          "companyLink1": "https://www.linkedin.com/company/microsoft-openhack/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHC2euq0a_pqQ/company-logo_400_400/company-logo_400_400/0/1630605310582?e=1785369600&v=beta&t=MjQ-YiiSMHN_L_VhOjuRVezdtfw9ZJBbOYYhIPovM30",
+          "title": "OpenHack: DevOps",
+          "subtitle": "Microsoft OpenHack",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Programming in C# Certification",
+          "subtitle": "Microsoft",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "107857",
+          "companyUrn": "urn:li:fsd_company:107857",
+          "companyLink1": "https://www.linkedin.com/company/the-duke-of-edinburgh%27s-award/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQERmHizNbIz9w/company-logo_400_400/company-logo_400_400/0/1673014829047/the_duke_of_edinburghs_award_logo?e=1785369600&v=beta&t=gzq-ya9X143yqubu084UXvS1nS8G4cRsU6wubhoU3bo",
+          "title": "Gold Award",
+          "subtitle": "The Duke of Edinburgh's Award",
+          "issued": "Issued Oct 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "121670",
+          "companyUrn": "urn:li:fsd_company:121670",
+          "companyLink1": "https://www.linkedin.com/company/royal-yachting-association/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFFqPrqmYiAZw/company-logo_100_100/B4EZuSiiK2GkAQ-/0/1767690085545/royal_yachting_association_logo?e=1785369600&v=beta&t=1tDY0OaMSbub2IKzImj80L8aVnhVLgCd75TMrGwcOIE",
+          "title": "RYA Powerboat Level 2",
+          "subtitle": "Royal Yachting Association (RYA)",
+          "issued": "Issued Jul 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1407466",
+          "companyUrn": "urn:li:fsd_company:1407466",
+          "companyLink1": "https://www.linkedin.com/company/trinity-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGBQSFW_T23Uw/company-logo_400_400/company-logo_400_400/0/1685099501709/trinity_college_london_logo?e=1785369600&v=beta&t=fGjCAvOZvbX9psKrEqFfQe1A-zVV6KbAq5JMmBS3CSg",
+          "title": "Grade 7 Percussion",
+          "subtitle": "Trinity College London",
+          "issued": "Issued Jun 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "121670",
+          "companyUrn": "urn:li:fsd_company:121670",
+          "companyLink1": "https://www.linkedin.com/company/royal-yachting-association/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFFqPrqmYiAZw/company-logo_100_100/B4EZuSiiK2GkAQ-/0/1767690085545/royal_yachting_association_logo?e=1785369600&v=beta&t=1tDY0OaMSbub2IKzImj80L8aVnhVLgCd75TMrGwcOIE",
+          "title": "RYA Level 4",
+          "subtitle": "Royal Yachting Association (RYA)",
+          "issued": "Issued Oct 2009",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2826848",
+          "companyUrn": "urn:li:fsd_company:2826848",
+          "companyLink1": "https://www.linkedin.com/company/paddleuk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFGvli0esdVOg/img-crop_100/img-crop_100/0/1721320803739?e=1785369600&v=beta&t=q64oh6XdKryzGQ8DxbhCuYdkbToEtDFKfup7r3ysdjo",
+          "title": "BCU 3* Sea Kayak",
+          "subtitle": "British Canoeing",
+          "issued": "Issued Jul 2008",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Spanish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Make a Difference Award",
+          "subtitle": "Issued by Transport for London",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\"For promoting the use of storybook and typescript in the react component library within the Mario and Batman teams. Facilitating discussions, promoting and actively participating in knowledge sharing which contributed greatly to the successful adoption of these technologies. This has improved the standard of the component library and will therefore make it easier for developers and designers to create new web applications moving forward.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Infrahack 2019 Winner",
+          "subtitle": "Issued by Hack Partners Ltd",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Continuous Integration (CI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET Core",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Express.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Cloud Run",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FastAPI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flask",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "D3.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache ECharts",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Playwright",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vite",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Material UI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Full-Stack Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "10477",
+          "companyUrn": "urn:li:fsd_company:10477",
+          "companyLink1": "https://www.linkedin.com/school/durham-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQETgwS-iaf06Q/company-logo_400_400/company-logo_400_400/0/1704724392953/durham_university_logo?e=1785369600&v=beta&t=dV7Cb8zUfpEolssbPpAYFvSoSIlswX2qRqbt0j6Vwpc",
+          "title": "Durham University",
+          "subtitle": "Bachelor of Science - BSc, Durham Hill Orchestra, Blueprint Enterprise, Durham University Rifle Club, Durham University Jiu Jitsu,",
+          "caption": "2014 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "2i"
+            }
+          ]
+        },
+        {
+          "title": "Emanuel School",
+          "subtitle": "null, - Senior Prefect\n- House Captain\n- Men's 1st VIII\n- Geography Prize 2013\n- Duke of Edinburgh Gold Award\n- School Orchestra",
+          "caption": "2007 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "History, Geography, Economics"
+            }
+          ]
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "STEM World Project, Mechatronics, Robotics, and Automation Engineering",
+          "caption": "2011 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Highly selective program offered to top 0.1% of top school students in the UK."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "English Teacher",
+          "subtitle": "Sri Jayendra School",
+          "caption": "Jul 2013 - Aug 2013 · 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "871685",
+          "companyUrn": "urn:li:fsd_company:871685",
+          "companyLink1": "https://www.linkedin.com/company/foodcycle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH1P59wxiDLzQ/company-logo_200_200/B4EZuUH9eNIoAI-/0/1767716673841/foodcycle_logo?e=1785369600&v=beta&t=ZDhykBW02kzSPMcckwAu-k4ucTQipHxM5wVpdf7uHuE",
+          "title": "Volunteer",
+          "subtitle": "FoodCycle",
+          "caption": "Oct 2016 - Jun 2018 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18319874",
+          "companyUrn": "urn:li:fsd_company:18319874",
+          "companyLink1": "https://www.linkedin.com/company/enactusdurham/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGwQRik7XHkCw/company-logo_400_400/company-logo_400_400/0/1631349789834?e=1785369600&v=beta&t=rWTsL6aeU-hrcKXj57GmOF-K7GdiHPczGH6NI8OHVVM",
+          "title": "Vice President",
+          "subtitle": "Enactus Durham",
+          "caption": "Jun 2017 - Apr 2018 · 10 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

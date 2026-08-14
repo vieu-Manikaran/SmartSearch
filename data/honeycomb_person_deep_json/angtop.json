@@ -1,0 +1,453 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/angtop",
+  "row_key": "id:003Uk00000yfUInIAM",
+  "person": "Angela Top",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:17Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABiPBtkBGbrvBR9AVeWyuD6wb8DZ1Ovqq7U",
+      "firstName": "Angela",
+      "lastName": "T.",
+      "fullName": "Angela T.",
+      "publicIdentifier": "angtop",
+      "headline": "Senior Software Engineer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEkX6HdpddMzw/profile-displayphoto-shrink_400_400/B4EZhiZouuGYAg-/0/1753997544729?e=1785369600&v=beta&t=fTy83vVRT-JMB3UJK4AGmJT0XrYr4M1PKYKczaMlQGs",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQHty2aMPGlvtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1668400197604?e=1785369600&v=beta&t=GslfYcRK51BATDcIXxAy5H4cxNIOtR9wSAN17K-J554",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEkX6HdpddMzw/profile-displayphoto-shrink_200_200/B4EZhiZouuGYAY-/0/1753997544668?e=1785369600&v=beta&t=UXYlGRAj9VWuwlvyKopII8uyi2wnSN7HGKB1ykSmTr0"
+        },
+        {
+          "width": 560,
+          "height": 560,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEkX6HdpddMzw/profile-displayphoto-shrink_800_800/B4EZhiZouuGYAc-/0/1753997544729?e=1785369600&v=beta&t=yrR1v5Me1z92Gf9Z0l4G8iamS5LBt_V5OPh4Llf1znQ"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEkX6HdpddMzw/profile-displayphoto-shrink_100_100/B4EZhiZouuGYAU-/0/1753997544729?e=1785369600&v=beta&t=B4VvTawAH1eBiaM-RGlZek3l4ZceGN0A4tzbPg2Rd7Y"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEkX6HdpddMzw/profile-displayphoto-shrink_400_400/B4EZhiZouuGYAg-/0/1753997544729?e=1785369600&v=beta&t=fTy83vVRT-JMB3UJK4AGmJT0XrYr4M1PKYKczaMlQGs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 799,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQHty2aMPGlvtQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1668400197604?e=1785369600&v=beta&t=mYnT_hDCff-HjzaAk5gN2ipMaIryHng4qJmZx1Zohws"
+        },
+        {
+          "width": 1336,
+          "height": 334,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQHty2aMPGlvtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1668400197604?e=1785369600&v=beta&t=GslfYcRK51BATDcIXxAy5H4cxNIOtR9wSAN17K-J554"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 4 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2025 - Present · 11 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Apr 2021 - Jan 2025 · 3 yrs 9 mos",
+              "metadata": "New York, New York, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3113247",
+          "companyUrn": "urn:li:fsd_company:3113247",
+          "companyLink1": "https://www.linkedin.com/school/app-academy/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGKL_RPA6YaQA/company-logo_400_400/company-logo_400_400/0/1631310751511?e=1785369600&v=beta&t=y-oQkhNLI7Ysh0cj4iorOO0X8QtJpSSnURLXgeyIRGk",
+          "title": "App Academy",
+          "subtitle": "Full-time · 1 yr 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer, Lead Instructor",
+              "caption": "Sep 2019 - Jan 2021 · 1 yr 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Dual role in which I worked as an engineer & lead instructor. \n• Delivered weekly lectures on topics like OOP, Intro Ruby, and other CS fundamentals \n• Mentored 15 students individually out of a 90 person cohort every 3 months on coursework & capstone projects\n• Grew to lead Instructor, managing a team of 4 instructors"
+                }
+              ]
+            },
+            {
+              "title": "Instructor",
+              "caption": "Aug 2019 - Sep 2019 · 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Recruited to work for bootcamp as an instructor based on performance in program"
+                }
+              ]
+            },
+            {
+              "title": "Teaching Assistant",
+              "caption": "May 2019 - Jul 2019 · 2 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Student",
+              "caption": "Mar 2019 - May 2019 · 2 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1151508",
+          "companyUrn": "urn:li:fsd_company:1151508",
+          "companyLink1": "https://www.linkedin.com/company/corelation-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEy-EyBbosVQg/company-logo_400_400/company-logo_400_400/0/1630585922565/corelation_inc__logo?e=1785369600&v=beta&t=T2kYBNJurSYg2BCBQyTxciX_IIASrIQiDacv_XHHb4w",
+          "title": "Software Developer",
+          "subtitle": "Corelation, Inc. . undefined",
+          "caption": "Jul 2017 - Mar 2019 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Wrote custom Java programs to automate financial analysis for bank clients  \n• Wrote complex data queries tailored to client needs"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "36652",
+          "companyUrn": "urn:li:fsd_company:36652",
+          "companyLink1": "https://www.linkedin.com/company/surfrider-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG8kVy_w8bQBA/company-logo_400_400/company-logo_400_400/0/1630568887108/surfrider_foundation_logo?e=1785369600&v=beta&t=usPmSAt11fKxki2mfUnpiDZaPbpNNVqJs7M2p4kq8BE",
+          "title": "Co-Vice President, UC Berkeley Chapter",
+          "subtitle": "The Surfrider Foundation . undefined",
+          "caption": "Jan 2015 - May 2017 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tWinners of \"Surfrider National Creative Community Partnership\" Award (2015) \n•      Collaborated x-functionally with campus organizations (S.E.R.C., B.W.G.) hosting combined events \n•      Fundraising, budgeting, event planning, curating social media campaigns, designing merchandise, operations, etc"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18676863",
+          "companyUrn": "urn:li:fsd_company:18676863",
+          "companyLink1": "https://www.linkedin.com/school/berkeley-letters-science/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG5tKfs-7AJoA/company-logo_400_400/company-logo_400_400/0/1630658954254/berkeley_letters_science_logo?e=1785369600&v=beta&t=QCMm3O-iDr3vLvraPMFjSe_vLVjWbT_EQ17BhukUXB0",
+          "title": "Undergraduate Research Assistant",
+          "subtitle": "UC Berkeley College of Letters & Science . Internship",
+          "caption": "Sep 2016 - Dec 2016 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "UC Berkeley Emotion + Emotion Cognition Lab research associate"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "30637850",
+          "companyUrn": "urn:li:fsd_company:30637850",
+          "companyLink1": "https://www.linkedin.com/company/history-of-art-uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHc-g7-sKIYOg/company-logo_400_400/company-logo_400_400/0/1630602076886?e=1785369600&v=beta&t=nxtkv104CFT6U1nfD-vaEJ7vrAOJ39nMoiX8sG5jsY8",
+          "title": "UX Designer",
+          "subtitle": "History of Art, UC Berkeley . Part-time",
+          "caption": "May 2015 - Aug 2016 · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Strategizing optimal UX + UI based on target user demographic\n• Working cross functionally with engineers, project manager, etc.\n• Presenting mock ups monthly at team meetings\n• Eric E. Monson is a Research Scientist at Duke University's Visualization & Interactive Systems Group. Elizabeth Honig is an Associate Professor in UC Berkeley's History of Art Department. Together, their project serves a test corpus for NSF-funded research in computer vision and machine learning."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Application Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Illustrator",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Photoshop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby On Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redux.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "University of California, Berkeley",
+          "subtitle": "Bachelor’s Degree, Cognitive Science",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "6096",
+          "companyUrn": "urn:li:fsd_company:6096",
+          "companyLink1": "https://www.linkedin.com/school/unsw/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGIlGcJynP5Dg/company-logo_400_400/company-logo_400_400/0/1709503417850/unsw_logo?e=1785369600&v=beta&t=8i4BdWf81cligLDIlxb7M7nwaRJ0um58g_zGefPubOc",
+          "title": "UNSW",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "162418",
+          "companyUrn": "urn:li:fsd_company:162418",
+          "companyLink1": "https://www.linkedin.com/company/american-diabetes-association/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHUa-HDpA0Zbw/company-logo_100_100/B56ZUopEnpGQAQ-/0/1740143611754/american_diabetes_association_logo?e=1785369600&v=beta&t=Hw_7rs4zd7fYokhASjjCSf8VgvqP8n25Wu5UZ1XNgtE",
+          "title": "Counselor",
+          "subtitle": "American Diabetes Association",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "36652",
+          "companyUrn": "urn:li:fsd_company:36652",
+          "companyLink1": "https://www.linkedin.com/company/surfrider-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG8kVy_w8bQBA/company-logo_400_400/company-logo_400_400/0/1630568887108/surfrider_foundation_logo?e=1785369600&v=beta&t=usPmSAt11fKxki2mfUnpiDZaPbpNNVqJs7M2p4kq8BE",
+          "title": "Graphic Design Artist",
+          "subtitle": "The Surfrider Foundation",
+          "caption": "Jan 2018 - Jun 2018 · 5 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "My Housing Pal",
+          "subtitle": "Jan 2017 - Mar 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Created and pitched a mobile housing app. Inspired by the Berkeley off-campus student housing crisis, our app aims to solve issues related to linking students with landlords, previous and current tenants, vacant and non-vacant properties, and serves as a platform to rate and properties, landlords, and other related experiences. Our team followed the Rapid Innovation Cycle (McCoy et. al, 2012). \nPitched to Dr. Chris McCoy himself and the CTO of the University of California, Berkeley. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Boomify",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A clone of Spotify"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

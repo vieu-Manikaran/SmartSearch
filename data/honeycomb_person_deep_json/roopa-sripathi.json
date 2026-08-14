@@ -1,0 +1,472 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/roopa-sripathi",
+  "row_key": "id:003Uk0000090cMhIAI",
+  "person": "Roopa Sripathi",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:52:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAFwCaYB2Si0werhMwoxdlqOfWcG5cAq20A",
+      "firstName": "Roopa",
+      "lastName": "Sripathi",
+      "fullName": "Roopa Sripathi",
+      "publicIdentifier": "roopa-sripathi",
+      "headline": "Engineering Leader with extensive experience in Software Development, Sw Verifications, Automation, DevOps, CI/CD for SaaS/Cloud Native solutions.",
+      "about": "Proven leader in software engineering successfully executing projects to completion, managing teams and projects across different technologies and geographies with a focus on results and quality.\n\nLeading global teams executing projects to completion with collaborative efforts across organization. \nExperience with Jenkins, Kubernetes, Microservices, Rest apis, Java, Perl, C++, Object Oriented Design, AWS migration.\nEnhance development & test processes with Tools, Continuous Integration/Continuous Delivery, Design and Develop Workflow automation, dashboards, telemetry tracking quality, SLAs, productivity to enhance developer experience and facilitate teams to deliver quality product/services to end-users.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Bengaluru, Karnataka India",
+      "addressWithoutCountry": "Bengaluru, Karnataka",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQF9MpvwcTP9DA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516347817104?e=1785369600&v=beta&t=ZBGuNR_cTnfem7Gj5B-mP0sG5DiQr3fwoptEMWzj6OM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF9MpvwcTP9DA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516347839862?e=1785369600&v=beta&t=qZCiUnYhhHWPHZilOgUdwnm2oSz2gjqzva9BOly3yTE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF9MpvwcTP9DA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516347834324?e=1785369600&v=beta&t=l9RiNnnQy9fWKkqxzirarftnzW6pWoUdjITMiDDufVo"
+        },
+        {
+          "width": 250,
+          "height": 250,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF9MpvwcTP9DA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516347865354?e=1785369600&v=beta&t=V4yicL1ki1-etDJzWI6JMOpmON7xKSBpBXDcPC_lMEk"
+        },
+        {
+          "width": 250,
+          "height": 250,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF9MpvwcTP9DA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516347817104?e=1785369600&v=beta&t=ZBGuNR_cTnfem7Gj5B-mP0sG5DiQr3fwoptEMWzj6OM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 1 yr 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Associate Engineering Director",
+              "caption": "Sep 2024 - Present · 1 yr 4 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineering Manager",
+              "caption": "Mar 2024 - Sep 2024 · 6 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2240",
+          "companyUrn": "urn:li:fsd_company:2240",
+          "companyLink1": "https://www.linkedin.com/company/juniper-networks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEHZaYOKgaTw/company-logo_400_400/B4EZigFz1IHIAc-/0/1755032534663/juniper_networks_logo?e=1785369600&v=beta&t=uIfE1a9w5-oyjdyJFIE5hDzw3N0gYXhmq4zIxyNQiJk",
+          "title": "Juniper Networks",
+          "subtitle": "Full-time · 12 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineering Manager",
+              "caption": "Jul 2014 - Nov 2023 · 9 yrs 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead Architecture and Development of Continuous Integration/Continuous Delivery system for software commit and deployment workflows with a goal to deliver high quality software and features. Responsible for development and enhancements of a High Available distributed CI/CD system supporting CI and automated commit workflows and deployments for On-Prem and cloud native products. Define product requirements, working with Dev, QA and Senior Management across products planning to onboard the new CI/CD Infrastructure.\nInspire, motivate, and guide a geographically dispersed team.\nEnabling teams to deliver services that benefit internal and external stakeholders."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Dec 2010 - Jul 2014 · 3 yrs 7 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tLead DevTest/Smoketest Efforts supporting Platforms and PFE Teams\n•\tLead SW Integration and Release Efforts for the entire development teams based in Bangalore and support continuity of activities from requests across the globe (Sunnyvale & Westford Teams)\n•\tGrow the DevTest & Smoketest setups from scratch to cover all the platforms and features supported.\n•\tTeam achieved high number of Quality Defects found during DevTest Early Testing efforts across many Programs which has tremendously helped the development team deliver a good quality software to Systest for further Regressions.\n•\tResponsible in recruitment of the right talent to the organization and building subject matter expertise to accomplish Dev Test/Integration/Test Operations/CICD/Tooling initiatives."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Software Development Manager",
+          "subtitle": "Cisco . undefined",
+          "caption": "Mar 2008 - Dec 2010 · 2 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software Development Manager for OS Infra components, supporting sustenance, feature development and testing. Leading a team of 19 engineers who are responsible for overall sustenance of OS Infra and features."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1070",
+          "companyUrn": "urn:li:fsd_company:1070",
+          "companyLink1": "https://www.linkedin.com/company/nokia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_200_200/B4EZqby_U_HgAI-/0/1763550426950/nokia_logo?e=1785369600&v=beta&t=eU3_QFPPw3oQif0XRhay3rgeOZNZ0Ke75J0oD6x56GQ",
+          "title": "Alcatel-Lucent",
+          "subtitle": "Full-time · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Specialist",
+              "caption": "May 2006 - Mar 2008 · 1 yr 10 mos",
+              "description": []
+            },
+            {
+              "title": "Lead Engineer",
+              "caption": "May 2003 - May 2007 · 4 yrs",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "94015",
+          "companyUrn": "urn:li:fsd_company:94015",
+          "companyLink1": "https://www.linkedin.com/company/opencon-systems/",
+          "title": "Senior Software Engineer",
+          "subtitle": "OpenCon Systems . undefined",
+          "caption": "Nov 2000 - Jan 2002 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3075",
+          "companyUrn": "urn:li:fsd_company:3075",
+          "companyLink1": "https://www.linkedin.com/company/telcordia-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGQWxJbFYErAw/company-logo_400_400/company-logo_400_400/0/1631319169777?e=1785369600&v=beta&t=sgadGhsBRePCSG6AYL2rsEzX5fqEU7lwySgSuQeTW94",
+          "title": "Software Engineer",
+          "subtitle": "Telcordia Technologies . undefined",
+          "caption": "1997 - 2000 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Kubernetes: Monitoring with Prometheus",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Foundations of Project Management",
+          "subtitle": "Google",
+          "issued": "Issued Dec 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "157273",
+          "companyUrn": "urn:li:fsd_company:157273",
+          "companyLink1": "https://www.linkedin.com/school/indian-institute-of-management-bangalore/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHs72ZWWphbEg/company-logo_400_400/company-logo_400_400/0/1712558415762/indian_institute_of_management_bangalore_logo?e=1785369600&v=beta&t=oOI-h0eiGqOmpk39KKEoluPel-FZviESy-9It3w8RDg",
+          "title": "Artificial Intelligence (AI) and Analytics Based Business Strategy, Creating Business Value",
+          "subtitle": "Indian Institute of Management Bangalore",
+          "issued": "Issued Nov 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Artificial Intelligence Foundations: Thinking Machines",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Sep 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Leading with Innovation",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Nov 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Leading with Purpose",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Oct 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Verification and Validation (V&V)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Stories",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Retrospectives",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sprint Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Backlog Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WDL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DNSSEC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration (CI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST APIs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Plans",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Defining Requirements",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "165198",
+          "companyUrn": "urn:li:fsd_company:165198",
+          "companyLink1": "https://www.linkedin.com/school/njit/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGeM2xL_Ibjhw/company-logo_400_400/company-logo_400_400/0/1630582551756/njit_logo?e=1785369600&v=beta&t=qWPrELbv1sncs0l19TBwffRUAFNzWHv_OrugB9yWiYo",
+          "title": null,
+          "subtitle": "M.S, Computer and Information Sciences",
+          "caption": "1995 - 1997",
+          "subComponents": []
+        },
+        {
+          "companyId": "1461117",
+          "companyUrn": "urn:li:fsd_company:1461117",
+          "companyLink1": "https://www.linkedin.com/school/bangalore-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEgvQk6xtCaNg/company-logo_400_400/company-logo_400_400/0/1631329687183?e=1785369600&v=beta&t=YKfRX_NT6hAmBQiws-pomlyTz_ab0e8xihSNeG0p2jc",
+          "title": null,
+          "subtitle": "B.E, Computer Science",
+          "caption": "1990 - 1994",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

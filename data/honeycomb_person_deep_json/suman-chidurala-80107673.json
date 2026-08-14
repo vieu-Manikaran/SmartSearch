@@ -1,0 +1,354 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/suman-chidurala-80107673",
+  "row_key": "id:003Uk0000090vPNIAY",
+  "person": "Suman Chidurala",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:52:48Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA9-VAEBlF2EQ171J-AWqpRwPCwm7kYS7A0",
+      "firstName": "Suman",
+      "lastName": "Chidurala",
+      "fullName": "Suman Chidurala",
+      "publicIdentifier": "suman-chidurala-80107673",
+      "headline": "Senior Enterprise Software Engineer at Medtronic.",
+      "about": "Experienced and result-driven software engineer with over 12+ years of experience in mobile application development and post-market support of regulated software systems. Specialized in designing and developing scalable applications, building automation frameworks, and analyzing field-reported product issues through root cause analysis. Strong expertise in end-to-end software lifecycle processes, including design, development, maintenance, validation, and verification. Proven ability to collaborate with global teams and deliver high-quality solutions that ensure performance, reliability, and regulatory compliance of deployed applications.  • Hands-on experience in Kotlin, Java,Dart, Flutter, RxJava, MVVM, MVP, Dagger/Hilt, Retrofit, Coroutines, Android Framework, Firebase, etc.• Good understanding of Design Patterns, SOLID Principles, Clean code and Clean Architectures.• Solid understanding of agile methodology and application development life cycle.• Passion for product quality and aiming to leverage my skills in the development of top-notch featured  applications.• Experience in different domains like E-commerce, Finance, HealthCare, Auto Mobile, Manufacture etc..Skill/Interest: Kotlin, Java, Dart, JavaScript, etc.IDE/Tools: Android Studio, IntelliJ, Xcode, VSCode, Eclipse, GIT, SVN, Devops etc.Testing: A/B, Firebase - Crashlytics, Espresso, Junit, etc.Other Skills: Design, Documentation (Confluence),  Agile Methodologies, etc.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQGdt2mXAY74cQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568270637916?e=1785369600&v=beta&t=r7FVeAd8b1DJbv1pGEjG2azzD5mIAXJvmuv9yekVvgM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQGdt2mXAY74cQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1568270637830?e=1785369600&v=beta&t=1OleXkl6QeX9uFtG87DBZK207aCcGyhXv1gGYEXWzDY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQGdt2mXAY74cQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1568270637801?e=1785369600&v=beta&t=aC8BsnnjXX0PzWC-gMK_cc9aktDCfx2nO6IoyRUkY3c"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQGdt2mXAY74cQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1568270637865?e=1785369600&v=beta&t=gvwO31aJLA5MWUNPyHhOrI4-ANsQEm_yVzaU3I5m0hk"
+        },
+        {
+          "width": 560,
+          "height": 560,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQGdt2mXAY74cQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568270637916?e=1785369600&v=beta&t=r7FVeAd8b1DJbv1pGEjG2azzD5mIAXJvmuv9yekVvgM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Senior Enterprise Software Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Nov 2022 - Present · 3 yrs 2 mos",
+          "metadata": "Hyderabad",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tProvide post-market support for medical device software applications in a regulated environment\n•\tAnalyze field-reported product issues and perform detailed root cause analysis for complex software defects\n•\tAct as Subject Matter Expert (SME) providing design assessment and technical leadership for complex production issues\n•\tDesign, develop, and implement software enhancements and defect fixes to ensure product quality and compliance\n•\tDesign and develop automation frameworks to support testing, data validation, and issue analysis\n•\tSupport software validation and verification activities including unit, integration, and system-level testing\n•\tEnsure application performance, reliability, and security in real-world usage environments\n•\tCollaborate with cross-functional teams including quality, regulatory, and development teams\n•\tLeverage prior development experience to improve issue resolution efficiency and system understanding"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "372142",
+          "companyUrn": "urn:li:fsd_company:372142",
+          "companyLink1": "https://www.linkedin.com/company/evoke-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHu1uMmqyaJyA/company-logo_400_400/company-logo_400_400/0/1729532466675/evoke_technologies_logo?e=1785369600&v=beta&t=nDpxjGQl9Vti5_wYT9wJxhL5fHleDf-jgIKOXUZwqhc",
+          "title": "Evoke Technologies",
+          "subtitle": "Full-time · 4 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Lead",
+              "caption": "Apr 2022 - Nov 2022 · 7 mos",
+              "metadata": "Hyderabad",
+              "description": []
+            },
+            {
+              "title": "Senior Technical Associate",
+              "caption": "Jul 2018 - Aug 2022 · 4 yrs 1 mo",
+              "metadata": "Hyderabad Area, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4661",
+          "companyUrn": "urn:li:fsd_company:4661",
+          "companyLink1": "https://www.linkedin.com/company/birlasoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_400_400/company-logo_400_400/0/1630606173796/birlasoft_logo?e=1785369600&v=beta&t=WNfBbk45GDM323GkSaCcwoQKgnRRkBGFPkF1V61VsbQ",
+          "title": "Software Engineer",
+          "subtitle": "Birlasoft . undefined",
+          "caption": "Aug 2015 - Jul 2018 · 2 yrs 11 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "7217",
+          "companyUrn": "urn:li:fsd_company:7217",
+          "companyLink1": "https://www.linkedin.com/company/gild4d/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEr9sM6DwdX0Q/company-logo_400_400/company-logo_400_400/0/1631313400240?e=1785369600&v=beta&t=mmxrmRKxPCjLwBmNC1Vjs6TN_-yrb96ipjtC1evRo7c",
+          "title": "Software Engineer",
+          "subtitle": "Integra Micro Software Services . undefined",
+          "caption": "Mar 2014 - Aug 2015 · 1 yr 5 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Design Reliable Manufacturing",
+          "subtitle": "Medtronic",
+          "issued": "Issued Jul 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Concurrent Programming with Android: Threads, Workers, and Kotlin Coroutines",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Aug 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "JUnit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Espresso",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firebase",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Analytics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Push Notification",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jetpack Components",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JetPack Compose",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android SDK",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RxJava",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Retrofit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15117479",
+          "companyUrn": "urn:li:fsd_company:15117479",
+          "companyLink1": "https://www.linkedin.com/school/jntuh-college-of-engineering-hyderabad/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGWJYAwBCYQ3Q/company-logo_400_400/company-logo_400_400/0/1630633466081/jntuh_college_of_engineering_hyderabad_logo?e=1785369600&v=beta&t=Ce9uX0ywEkVUql3pUV6w7PHIgn3U0krVNqEsJANBHtg",
+          "title": "JNTUH College of Engineering Hyderabad",
+          "subtitle": "Bachelor of Technology - BTech, Computer Science",
+          "caption": "Sep 2008 - May 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

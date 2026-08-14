@@ -1,0 +1,401 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/chaoyaji",
+  "row_key": "id:003Uk00000yfSeBIAU",
+  "person": "Chaoya Ji",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:41Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA-AbYoBgOHzrwal4--IZZyYVe-dRl6iyaM",
+      "firstName": "Chaoya",
+      "lastName": "Ji",
+      "fullName": "Chaoya Ji",
+      "publicIdentifier": "chaoyaji",
+      "headline": "Senior Software Engineer at Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Seattle Area United States",
+      "addressWithoutCountry": "Greater Seattle Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQE2i1FmF7-8UA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581545525715?e=1785369600&v=beta&t=XG0aKRsMc6DhkA9vz_wDlXuCws6jMWMc3avbZ5HrjHU",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE2i1FmF7-8UA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1581545525644?e=1785369600&v=beta&t=tbv7SdDGakdjiW6YSX3tVwWZaQviX0fak7z2x-_8nNU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE2i1FmF7-8UA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1581545525608?e=1785369600&v=beta&t=gZ75KTuq-TFZSPJX4tvzoM_oyTE9S0cuzDr3nw63Xig"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE2i1FmF7-8UA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1581545525675?e=1785369600&v=beta&t=PKIwHTzzjquoj1S1hBs2DGw2VDTgqvjNUzY76eWN9MI"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE2i1FmF7-8UA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581545525715?e=1785369600&v=beta&t=XG0aKRsMc6DhkA9vz_wDlXuCws6jMWMc3avbZ5HrjHU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 3 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jan 2026 - Present · ",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Crypto Wallets"
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jun 2022 - Present · 3 yrs 7 mos",
+              "metadata": "Greater Seattle Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Crypto Data Foundation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Software Engineer II",
+          "subtitle": "Microsoft . undefined",
+          "caption": "Feb 2020 - Jun 2022 · 2 yrs 4 mos",
+          "metadata": "Redmond, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working in Azure - Capacity Infrastructure Service team. Design and build resource provisioning ecosystem for 100+ Azure service teams."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2812",
+          "companyUrn": "urn:li:fsd_company:2812",
+          "companyLink1": "https://www.linkedin.com/company/cerner-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGE9flTBMlYvA/company-logo_400_400/company-logo_400_400/0/1654690655851/cerner_corporation_logo?e=1785369600&v=beta&t=75re-0xB9mO250V9qGlS4DEp2CZgcVd5TKnEyMdREdE",
+          "title": "Software Engineer",
+          "subtitle": "Cerner Corporation . undefined",
+          "caption": "Oct 2017 - Feb 2020 · 2 yrs 4 mos",
+          "metadata": "Kansas City, Missouri Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed and developed cloud services and frontend interfaces for a large scaled object-oriented patient/doctors/providers scheduling solution (Java, JavaScript, React.js, Jenkins, Maven, etc.)."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1731936",
+          "companyUrn": "urn:li:fsd_company:1731936",
+          "companyLink1": "https://www.linkedin.com/company/earth-networks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFSU_Jcpq3sfw/company-logo_100_100/B56Zu4xfSRKMAQ-/0/1768331540018/earth_networks_logo?e=1785369600&v=beta&t=MQGkDcWRzg0Fbsi-dXtpcXq9Hk1IDdVipCjUulPeOVQ",
+          "title": "Software Intern",
+          "subtitle": "Earth Networks . undefined",
+          "caption": "May 2016 - Jul 2016 · 2 mos",
+          "metadata": "Germantown, MD",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "temporal",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Keyhole Markup Language (KML)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JUnit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring MVC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RSpec",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Maven",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4556",
+          "companyUrn": "urn:li:fsd_company:4556",
+          "companyLink1": "https://www.linkedin.com/school/texas-a&m-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_400_400/company-logo_400_400/0/1732032436324/texas_am_university_logo?e=1785369600&v=beta&t=5sDOTYXrjfw4-gsvgYqseU0HpCM9O7jpQU6RcORAQoQ",
+          "title": "Texas A&M University",
+          "subtitle": "Master’s Degree, Electrical, Electronics and Communications Engineering",
+          "caption": "2015 - 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "15093926",
+          "companyUrn": "urn:li:fsd_company:15093926",
+          "companyLink1": "https://www.linkedin.com/school/%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFd4CSnKhifyA/company-logo_400_400/company-logo_400_400/0/1631314634125?e=1785369600&v=beta&t=cFZe4vEaObCE7KkImaDrGePk_CyYW2ycKOiTE3Ixju0",
+          "title": "Xidian University",
+          "subtitle": "Bachelor’s Degree, Electrical and Computer Engineering",
+          "caption": "2011 - 2015",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Online Medical Questionaire Website",
+          "subtitle": "Feb 2016 - May 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Texas A&M University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• (Ruby on Rails) Built a database system of medical questionnaire  website which used for department of computer science. This system can store the information of users and get random questions for questionnaire as customer asked\n• (Bootstrap) Designed the interface of website, including log in/ log out, main page and configuration  page"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tiny-SQL Interpreter",
+          "subtitle": "Oct 2015 - Dec 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Texas A&M University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• (Java, SQL) Designed and implemented an interpreter which can decompose basic SQL grammar sentences and also can do small amount of data processing including natural join and cross join."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

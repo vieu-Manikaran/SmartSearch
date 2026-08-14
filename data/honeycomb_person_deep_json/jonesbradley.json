@@ -1,0 +1,401 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jonesbradley",
+  "row_key": "id:003Uk00000xg2BsIAI",
+  "person": "Bradley Jones",
+  "account": "Lenovo Group",
+  "fetched_at": "2026-07-14T10:44:19Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADHXt0BUxQNvWlByA-vNSZLeVRFZA1aiLA",
+      "firstName": "Bradley",
+      "lastName": "Jones",
+      "fullName": "Bradley Jones",
+      "publicIdentifier": "jonesbradley",
+      "headline": "Experienced Engineering Leader | Driving Impact in Full-Stack, Backend, ML, and Front-End | Netflix, Yelp, Amazon Alexa, Facebook Marketplace | Empowering Teams & Fostering Growth",
+      "about": "Innovative Engineering Leader with 10+ years of experience managing high-performing teams across full-stack, backend, ML, and front-end disciplines. Proven track record in launching and scaling products used by millions to billions of users, including Netflix, Yelp, Amazon Alexa, and Facebook Marketplace. Passionate about fostering growth and development for engineers and managers, with a strong focus on collaboration, communication, and goal-driven results.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Jose, California United States",
+      "addressWithoutCountry": "San Jose, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "3653",
+          "companyUrn": "urn:li:fsd_company:3653",
+          "companyLink1": "https://www.linkedin.com/company/lenovo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwodgzuPCrOA/company-logo_400_400/company-logo_400_400/0/1659011656349/lenovo_logo?e=1785369600&v=beta&t=3uKthCYTRw-tNf-xnG4Hrku8C_NMDwkw4GdWbRmxWyQ",
+          "title": "Director, AI Experiences",
+          "subtitle": "Lenovo . Full-time",
+          "caption": "Feb 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Chief Technology Officer",
+          "subtitle": "ReEnvision AI . Full-time",
+          "caption": "Apr 2024 - Present · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Senior Engineering Manager",
+          "subtitle": "Google . Full-time",
+          "caption": "Jul 2023 - Apr 2024 · 9 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10667",
+          "companyUrn": "urn:li:fsd_company:10667",
+          "companyLink1": "https://www.linkedin.com/company/meta/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1785369600&v=beta&t=HPYawjtfGNsYAMn-XMPeJiwVridXE5Zdp3rF-_LgWgc",
+          "title": "Senior Engineering Manager",
+          "subtitle": "Meta . Full-time",
+          "caption": "Feb 2020 - Aug 2023 · 3 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Sr Engineering Manager",
+          "subtitle": "Amazon . undefined",
+          "caption": "2019 - Feb 2020 · 1 yr 1 mo",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Managing the organization handling Local Search for Alexa. Three teams with ~30 engineers working on data collection, search relevance and ranking, as well as voice and UI experience on searching for nearby businesses and points of interests."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Engineering Manager",
+          "subtitle": "Yelp . undefined",
+          "caption": "2015 - Dec 2018 · 3 yrs 11 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led the Home & Local services organization of 6 teams and ~50 engineers on making Yelp not just the place to find a great restaurant but also the go-to place to find home and local pros.\n\nStarting with a small engineering team that created a feature to allow consumers and professionals to communicate via Yelp, grew to an organization that helped consumers reach out to many professionals for quotes and other information on getting home and local service projects completed."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "165158",
+          "companyUrn": "urn:li:fsd_company:165158",
+          "companyLink1": "https://www.linkedin.com/company/netflix/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_400_400/company-logo_400_400/0/1736276678240/netflix_logo?e=1785369600&v=beta&t=hpwLCGp3CK5zCy3Aw8-tRYVeJtE3Xl2am9JACgwINnk",
+          "title": "Manager, UI Engineering - TV Platforms",
+          "subtitle": "Netflix . undefined",
+          "caption": "2014 - 2015 · 1 yr",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Managing the TV UI Device Innovation team. Bringing the Netflix UI to all the latest and greatest smart TVs and tv-connected devices.\n\nThe Device Innovation team is responsible for the Netflix UI on the Apple TV, Chromecast, game consoles, Rokus, Amazon Fire TV, Dish Hoppers and Joeys as well as smart TVs and blu-ray players.\n\nManaging a team of 6 senior software engineers and 3 senior QA engineers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "208137",
+          "companyUrn": "urn:li:fsd_company:208137",
+          "companyLink1": "https://www.linkedin.com/company/lab126/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF42fGVfa1OTg/company-logo_400_400/company-logo_400_400/0/1631351277605?e=1785369600&v=beta&t=hM80k4g1yIl-Xhx9nWlWvf68M_mTpTWSWbOg75LHTMg",
+          "title": "Lab126",
+          "subtitle": "undefined · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Development Manager",
+              "caption": "2012 - 2014 · 2 yrs",
+              "metadata": "Sunnvyale",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managed a team of 8 engineers working on the Android WebView for the next generation Amazon Fire devices. The goal of the team was to enable HTML web applications running on the Fire devices to be first class citizens. This was done by porting the open-source Chromium code into Amazon’s version of AOSP to replace the default Webkit webview. Amazon shipped the first Android devices with Chromium webviews as well as shipping the first webviews that supported WebGL.\n\nBesides the 8 engineers on my team, I worked with another 4 engineers reporting to me for the project I was running. Within the project, I did double duty as a software development manager as well as a technical project manager. I ran the schedule and fit my team’s agile development methodology into the overall program waterfall scope."
+                }
+              ]
+            },
+            {
+              "title": "Software Development Engineer",
+              "caption": "2011 - 2012 · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead engineer for the Java UI framework on the Kindle Touch and Kindle Paperwhite."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "30563",
+          "companyUrn": "urn:li:fsd_company:30563",
+          "companyLink1": "https://www.linkedin.com/company/lookingglass/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFkQ_W6ISySDA/company-logo_400_400/company-logo_400_400/0/1692028074490/lookingglass_logo?e=1785369600&v=beta&t=H-jQzvZKqDoZ1VyANcdEpMua5FcU-ZTSkfOJl2kPnww",
+          "title": "Lead Software Engineer",
+          "subtitle": "CloudShield Technologies . undefined",
+          "caption": "2008 - 2011 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At CloudShield, I led a project with 4 engineers in developing a large-scale cyber security application. The application, used by governments and large telcos, protected DNS servers from attack. \n\nLeading the project meant I had a large range of responsibilities. I worked with the project manager to meet with customers. I wrote the requirements document. I managed the schedule, I architected the system and I designed the UI. I also wrote the front end/UI code."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Safetran Systems . undefined",
+          "caption": "2007 - 2008 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead on an agile project to help with the creation of rules for a rail signal system. The rule creation system was built as an Eclipse RCP application with custom development and compiler tools specific to the hardware of the rail signal system.\n\nI was responsible for all aspects of the project--from visiting users to gather requirements to leading a development team in California and India."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Director level",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Large Language Models (LLM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Experience",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15251132",
+          "companyUrn": "urn:li:fsd_company:15251132",
+          "companyLink1": "https://www.linkedin.com/school/california-polytechnic-state-university-san-luis-o/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_400_400/company-logo_400_400/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1785369600&v=beta&t=2aPbeznmHaG6QxBw4naUO_MbLrzKZTfI3X3GskR-uSE",
+          "title": "California Polytechnic State University-San Luis Obispo",
+          "subtitle": "Bachelor of Science (BS), Computer Science",
+          "caption": "1999 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

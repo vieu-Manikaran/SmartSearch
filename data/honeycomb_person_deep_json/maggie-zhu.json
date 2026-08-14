@@ -1,0 +1,557 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/maggie-zhu",
+  "row_key": "id:003Uk00000ydLFSIA2",
+  "person": "Maggie Zhu",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:07Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACyfxT4BdSnPyNyDffLA_jhKZiwhEMTxcJk",
+      "firstName": "Maggie",
+      "lastName": "Zhu",
+      "fullName": "Maggie Zhu",
+      "publicIdentifier": "maggie-zhu",
+      "headline": "Software Engineer II @ Medtronic | CU Boulder Alumni",
+      "about": "I am currently a Software Engineer II at Medtronic working on a rendering engine for a next generation surgical navigation system.  I am passionate about and highly experienced with developing software for medical devices.\n\nI am also passionate and involved with STEM outreach and working towards ways to broaden opportunities for underrepresented communities in the field of engineering.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Higher Education",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Denver, Colorado United States",
+      "addressWithoutCountry": "Denver, Colorado",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEEPP8rsismIQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719107137580?e=1785369600&v=beta&t=YgWVmUsosPZQ1pBf4L9pnQjihycnDp9zr9AKqJqno_M",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQFlkMXivf8dvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660504968636?e=1785369600&v=beta&t=S2IPIJv00rUtGuq5HDlHHbCl1djsbo4yPMlyi2oq2wY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEEPP8rsismIQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1719107137558?e=1785369600&v=beta&t=WCWCSHHWYTLycqwYMdR1bQh8BwD7YjF5H026MA74uBo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEEPP8rsismIQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719107137558?e=1785369600&v=beta&t=mzcU_vO8tSMjoAvf4kgyd-9aim-akWldh62Ayf7K164"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEEPP8rsismIQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719107137558?e=1785369600&v=beta&t=VhaTZO_VbpmlmM0F4C9qGLGL3Q3LOhqX0wUwMBPpCpM"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEEPP8rsismIQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719107137580?e=1785369600&v=beta&t=YgWVmUsosPZQ1pBf4L9pnQjihycnDp9zr9AKqJqno_M"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFlkMXivf8dvA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1660504968636?e=1785369600&v=beta&t=QeUPWyk4-EmurV5FkwS_q5qozVfzMMCl2cUWbcYZ8QA"
+        },
+        {
+          "width": 828,
+          "height": 207,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFlkMXivf8dvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660504968636?e=1785369600&v=beta&t=S2IPIJv00rUtGuq5HDlHHbCl1djsbo4yPMlyi2oq2wY"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Part-time · 2 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer II",
+              "caption": "Jun 2025 - Present · 7 mos",
+              "metadata": "Lafayette, Colorado, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Rendering and visualization for a next generation surgical navigation system."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer I",
+              "caption": "Jun 2024 - Jun 2025 · 1 yr",
+              "metadata": "Lafayette, Colorado, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Rendering and visualization for a next generation surgical navigation system."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineering Contractor",
+              "caption": "Jan 2024 - May 2024 · 4 mos",
+              "metadata": "Lafayette, Colorado, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Designed an initial system to render 3D Lines, specifically for diffusion MRI, for a next generation surgical navigation system using WebGPU."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3771",
+          "companyUrn": "urn:li:fsd_company:3771",
+          "companyLink1": "https://www.linkedin.com/school/cuboulder/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_400_400/company-logo_400_400/0/1631322902142?e=1785369600&v=beta&t=dFkb9NDzQ3PAOhS_uEDV6-tGgEh0v-RFmQKsTDWkUmk",
+          "title": "University of Colorado Boulder",
+          "subtitle": "Part-time · 3 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lattice Scholarship Mentor",
+              "caption": "Oct 2023 - May 2024 · 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Served as a mentor for first generation engineering students. This included planning and piloting monthly workshops centered around financial wellness and helping students get the academic, financial, and general resources that they need during their first year of college."
+                }
+              ]
+            },
+            {
+              "title": "Pre-College Engineering Education Program Leader",
+              "caption": "Mar 2021 - May 2024 · 3 yrs 2 mos",
+              "metadata": "Boulder, Colorado, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Taught and introduced K-12 students across Colorado to different fields of STEAM by designing and leading a variety of engineering activities that focus on air quality, sustainability, and biomedical applications."
+                }
+              ]
+            },
+            {
+              "title": "Computer Science Front Office Assistant",
+              "caption": "Jan 2023 - May 2023 · 4 mos",
+              "metadata": "Boulder, Colorado, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Performed administrative tasks for the CU Boulder Department of Computer Science."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Software Engineering Intern",
+          "subtitle": "Medtronic . Internship",
+          "caption": "Jun 2023 - Aug 2023 · 2 mos",
+          "metadata": "Lafayette, Colorado, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Wide Line Rendering for a Next Generation Brain/Spine Surgical Navigation Platform      \n\n- Designed and implemented an algorithm to render various wide line segments and polylines in 3D that will represent diffusion MRI white matter tracts in the brain by utilizing the WebGPU API, WebGPU shader language, JavaScript, and React.\n- Developed and integrated an algorithm to implement anti-aliasing for wide lines that was presented to Marketing and the Systems Engineering department to determine whether anti-aliasing was needed on a larger scale for the platform."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Software Engineering Intern",
+          "subtitle": "Medtronic . Internship",
+          "caption": "Jun 2022 - Aug 2022 · 2 mos",
+          "metadata": "Louisville, Colorado, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Fullstack Development for About Screen in a Next Generation Brain/Spine Surgical Navigation Platform   \n                            \n- Designed and implemented six web-based features using a REST-WebAPI framework, created API endpoints and accompanying functionality utilizing C++ and CMake\n- Developed Postman tests for all API endpoints to test the structure and content of the responses.\n- Integrated backend changes into the GUI by utilizing React/Redux and JavaScript to dynamically render the data.\n- Initiated cross functional collaboration with the five other teams, the Frontend team, Quality, Test, Tech Services, and Test Automation to discuss requirements, testing, use in the field, and gained a holistic view of the impact of the About Screen."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Software Engineer in Test WISE Intern",
+          "subtitle": "Medtronic . Internship",
+          "caption": "May 2021 - Aug 2021 · 3 mos",
+          "metadata": "Louisville, Colorado, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Automation of Upgrade Test Procedures for Surgical Navigation Platform\n\n- Developed automated tests utilizing data driven testing, RabbitMQ, and Python to design a software framework for an upgrade test procedure for the StealthStation S8, a surgical navigation system.\n- Saved five hours of manual user time per test suite execution using developed automated tests.\n- Utilized Agile Scrum to plan stories and tasks to meet all project deadlines and goals and participated in all Agile ceremonies\n- Proactively sought exposure of different roles in software, engineering, and marketing at Medtronic."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "23731",
+          "companyUrn": "urn:li:fsd_company:23731",
+          "companyLink1": "https://www.linkedin.com/company/lakewoodcogov/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0dAeZrHEOUQ/company-logo_400_400/company-logo_400_400/0/1630606719204/city_of_lakewood_logo?e=1785369600&v=beta&t=W56AuEdOv0xKmNn-Ikv9PDKBFhWzUlPNO3m83rQ6VxQ",
+          "title": "Summer Camp Counselor",
+          "subtitle": "City of Lakewood . Part-time",
+          "caption": "May 2019 - Apr 2020 · 11 mos",
+          "metadata": "Lakewood, Colorado, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Supervised children ages 5 through 15 and ensured a safe and fun summer camp experience. \n- Led fun and engaging games and art based activities throughout the summer. \n- Assisted art teachers by helping students during class and preparing supplies and materials before class."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "211251",
+          "companyUrn": "urn:li:fsd_company:211251",
+          "companyLink1": "https://www.linkedin.com/company/hcahealthone/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlVNdxjWdA7A/company-logo_400_400/company-logo_400_400/0/1727788781975/healthone_logo?e=1785369600&v=beta&t=vFsAdrt3pZ0MK36vhlFjFBNRW5_5AlAGothkXLL5NEA",
+          "title": "Executive High School Intern",
+          "subtitle": "Swedish Medical Center . Internship",
+          "caption": "May 2019 - Aug 2019 · 3 mos",
+          "metadata": "Littleton Colorado",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Cleaned and prepared patient rooms with proper supplies and materials on the Acute Rehab and Orthopedic Units. \n- Created labor kits and other supply bags for nurses on the Labor and Delivery Unit. \n- Answered patient and visitor questions at the Main Information Desk. \n- Cleaned and prepared pre-admit binders each week for incoming patients."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "President’s Silver Volunteer Service Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Dean's List",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I received this award for all semesters during my time at CU Boulder."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "President’s Gold Volunteer Service Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "President’s Silver Volunteer Service Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "President's Gold Volunteer Service Award",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Microbits",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Version One",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TinkerCad",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Arduino IDE",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mentoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teaching",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Driven Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gitlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ReactJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Postman API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scaled Agile Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GitHub",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bitbucket",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RabbitMQ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3771",
+          "companyUrn": "urn:li:fsd_company:3771",
+          "companyLink1": "https://www.linkedin.com/school/cuboulder/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_400_400/company-logo_400_400/0/1631322902142?e=1785369600&v=beta&t=dFkb9NDzQ3PAOhS_uEDV6-tGgEh0v-RFmQKsTDWkUmk",
+          "title": "University of Colorado Boulder",
+          "subtitle": "Bachelor's of Science, Women of Color in STEM, Tau Beta Pi, Women's Club Soccer, Asian Unity, Engineering Honors Program, Tau Beta Pi",
+          "caption": "2020 - 2024",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.95"
+            }
+          ]
+        },
+        {
+          "companyId": "35490093",
+          "companyUrn": "urn:li:fsd_company:35490093",
+          "companyLink1": "https://www.linkedin.com/school/lakewood-high-school-58/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE1YjmN0nvJrQ/company-logo_400_400/company-logo_400_400/0/1630601671158?e=1785369600&v=beta&t=mOj9YlBMzszPukYtD90rUFKpxGoQ7K4ps18LQZsryx4",
+          "title": "Lakewood High School",
+          "subtitle": "High School Diploma, IB Diploma, International Baccalaureate Program, Varsity Soccer, Key Club, Wind Ensemble",
+          "caption": "2016 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.96"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "15434100",
+          "companyUrn": "urn:li:fsd_company:15434100",
+          "companyLink1": "https://www.linkedin.com/company/great-wall-chinese-academy/",
+          "title": "Origami Teacher",
+          "subtitle": "GREAT WALL CHINESE ACADEMY",
+          "caption": "Aug 2015 - Aug 2020 · 5 yrs",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "28250",
+          "companyUrn": "urn:li:fsd_company:28250",
+          "companyLink1": "https://www.linkedin.com/company/kiwanis-international/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGft1sD8NsH1g/company-logo_400_400/company-logo_400_400/0/1631320683475?e=1785369600&v=beta&t=UbQb0eJosGMKIk3tT32r519G5fCHCxbpUk6GjDwuU58",
+          "title": "Lakewood High School Key Club VP",
+          "subtitle": "Kiwanis International",
+          "caption": "Aug 2019 - May 2020 · 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "President",
+          "subtitle": "CU Women of Color in STEM",
+          "caption": "May 2023 - Present · 2 yrs 8 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

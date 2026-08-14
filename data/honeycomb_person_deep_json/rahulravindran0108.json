@@ -1,0 +1,962 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/rahulravindran0108",
+  "row_key": "id:0031N00001cO7pVQAS",
+  "person": "Rahul Ravindran",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:32:54Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA4xypMBgQt-aFJS_3unJD3Vnvg9WgHHHdc",
+      "firstName": "Rahul",
+      "lastName": "Ravindran",
+      "fullName": "Rahul Ravindran",
+      "publicIdentifier": "rahulravindran0108",
+      "headline": "Engineering at Netflix Inc.",
+      "about": "Infrastructure Engineer.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "165158",
+          "companyUrn": "urn:li:fsd_company:165158",
+          "companyLink1": "https://www.linkedin.com/company/netflix/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_400_400/company-logo_400_400/0/1736276678240/netflix_logo?e=1785369600&v=beta&t=hpwLCGp3CK5zCy3Aw8-tRYVeJtE3Xl2am9JACgwINnk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Netflix . Full-time",
+          "caption": "Jan 2025 - Present · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Ads Platform"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15191764",
+          "companyUrn": "urn:li:fsd_company:15191764",
+          "companyLink1": "https://www.linkedin.com/company/snap-inc-co/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHHusXflSXnCA/company-logo_200_200/B56Zu0Fu2FG0AM-/0/1768252960458?e=1785369600&v=beta&t=EMRN-JDhJRnipvacwfD5PITN8_Oi7koMfuYfhLApk3g",
+          "title": "Software Engineer",
+          "subtitle": "Snap Inc. . Full-time",
+          "caption": "May 2021 - Dec 2024 · 3 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Tech Lead for Snap Audience Match product. Designed and maintained the core retargeting ad pipelines @ Snap."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Software Engineer",
+          "subtitle": "Yelp . undefined",
+          "caption": "Oct 2017 - May 2021 · 3 yrs 7 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on the observability team building metric pipeline and managing Splunk infrastructure. Spoke @ .conf20 about cost management for observability of microservices. Built core observability functionality for the A/B testing libraries used @ Yelp."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Udacity",
+          "subtitle": "undefined · 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Data Engineer",
+              "caption": "May 2017 - Oct 2017 · 5 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Data Engineering Intern",
+              "caption": "Jan 2017 - May 2017 · 4 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Wrote ETL pipelines for gathering analytics data.\n\n- Designed and developed software/plugins for data migration across microservices.\n\n-  Developed and deployed a microservice for accessing high level statistics on business/product metrics."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3084",
+          "companyUrn": "urn:li:fsd_company:3084",
+          "companyLink1": "https://www.linkedin.com/school/university-of-southern-california/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_400_400/company-logo_400_400/0/1631312619853?e=1785369600&v=beta&t=zWfJ1v58TQvOjm199T1kdVgqH2jWvaJddCDQum_HpjY",
+          "title": "Research Assistant (Full Stack Developer)",
+          "subtitle": "University of Southern California . undefined",
+          "caption": "Aug 2016 - Dec 2016 · 4 mos",
+          "metadata": "Greater Los Angeles Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Data Analyst Intern",
+          "subtitle": "Udacity . undefined",
+          "caption": "May 2016 - Aug 2016 · 3 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3084",
+          "companyUrn": "urn:li:fsd_company:3084",
+          "companyLink1": "https://www.linkedin.com/school/university-of-southern-california/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_400_400/company-logo_400_400/0/1631312619853?e=1785369600&v=beta&t=zWfJ1v58TQvOjm199T1kdVgqH2jWvaJddCDQum_HpjY",
+          "title": "Student Web Developer",
+          "subtitle": "University of Southern California, Graduate School . undefined",
+          "caption": "Sep 2015 - May 2016 · 8 mos",
+          "metadata": "Greater Los Angeles Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Worked on developing algorithms to perform random distribution and also provide notification features as an administrative feature for various web applications.\n\n- Wrote several SQL, Python scripts for data cleaning and dumping to MS SQL Server. Deployed and maintained business intelligence reports as SSIS jobs or SSRS reports.\n\n- Developed and maintained applications for the processing of Thesis, Travel Award and Fellowship for graduate students."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Udacity Code Reviewer",
+          "subtitle": "Udacity . undefined",
+          "caption": "Jun 2015 - Aug 2015 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Review code and provide feedback to Udacity students on various Python, R, MongoDB and Javascript projects.\n\n- Check code for function as well as performance as per Udacity's Style Guide\n\n- Provide feedback to Udacity team on student projects which includes clarification and support for student queries.\n\n- Evaluate around 10-20 projects a month with an average rating of 4.83/5."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Managing Committee",
+          "subtitle": "CSI VESIT . undefined",
+          "caption": "Aug 2014 - Apr 2015 · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Managed and organised events for the Computer Society of India student chapter at VESIT.\n\n- Conducted online events like virtual stock market and hidden cipher which was met with great participation.\n\n- Conducted more than 10 workshops over the years in collaboration with Indian Institute of Technology, Bombay. Every event had an average participation of more than 100 members."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2722822",
+          "companyUrn": "urn:li:fsd_company:2722822",
+          "companyLink1": "https://www.linkedin.com/company/mirc-media/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE_ylb-OhDITA/company-logo_400_400/company-logo_400_400/0/1631386215756?e=1785369600&v=beta&t=XOM4pri2KliJMA7tDP-QFwgwcolZKpsQBgxFIihcegU",
+          "title": "Intern",
+          "subtitle": "Mirc Media . undefined",
+          "caption": "Dec 2014 - Feb 2015 · 2 mos",
+          "metadata": "Vile Parle, Mumbai",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Developed an Influencer engagement platform for twitter based marketing.\n\n- Created an automated module for posting tweets with images and other attributes.\n\n- Developed a reminder module to keep evangelists updated on campaigns running on twitter.\n\n- Currently the platform has a member base of more than 1000 evangelists and India's very first twitter based campaign creator platform."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Machine Learning Engineer Nanodegree",
+          "subtitle": "Udacity",
+          "issued": "Issued Sep 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Data Analyst Nanodegree",
+          "subtitle": "Udacity",
+          "issued": "Issued Jun 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Introduction to Data Science",
+          "subtitle": "Coursera",
+          "issued": "Issued Sep 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Developing Data Products",
+          "subtitle": "Coursera",
+          "issued": "Issued Jul 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Practical Machine Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued Jul 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Regression Models",
+          "subtitle": "Coursera",
+          "issued": "Issued Jul 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Exploratory Data Analysis",
+          "subtitle": "Coursera",
+          "issued": "Issued Jun 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Reproducible Research",
+          "subtitle": "Coursera",
+          "issued": "Issued Jun 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Getting and Cleaning Data",
+          "subtitle": "Coursera",
+          "issued": "Issued May 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Machine Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued May 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "R Programming",
+          "subtitle": "Coursera",
+          "issued": "Issued May 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "The Data Scientist’s Toolbox",
+          "subtitle": "Coursera",
+          "issued": "Issued May 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Functional Programming Principles in Scala",
+          "subtitle": "Coursera",
+          "issued": "Issued May 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "Software as a Service",
+          "subtitle": "edX",
+          "issued": "Issued Feb 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Heterogeneous Parallel Programming",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "Software as a Service",
+          "subtitle": "edX",
+          "issued": "Issued Jan 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "Introduction to Computer Science and Programming",
+          "subtitle": "edX",
+          "issued": "Issued Sep 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "Big Data and Social Physics",
+          "subtitle": "edX",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Research Assistant",
+          "subtitle": "Issued by University of Southern California",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Tuition Fees Waiver"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Best Use of Data (Udacity Hackathon Project)",
+          "subtitle": "Issued by Udacity Inc.",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Third Prize",
+          "subtitle": "Issued by J.P Morgan",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Secured Third Prize for developing an Android Application for Yuva Parivarthan as part of J.P Morgan Code for Good Challenge."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Udacity Android Developer Nanodegree program",
+          "subtitle": "Issued by Google India and Tata Trust",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Received full fees waiver for Udacity's Android Nanodegree program. The process involved a complete profile review followed by a tech interview. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scala",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Octave",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3084",
+          "companyUrn": "urn:li:fsd_company:3084",
+          "companyLink1": "https://www.linkedin.com/school/university-of-southern-california/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_400_400/company-logo_400_400/0/1631312619853?e=1785369600&v=beta&t=zWfJ1v58TQvOjm199T1kdVgqH2jWvaJddCDQum_HpjY",
+          "title": "University of Southern California",
+          "subtitle": "Master’s Degree, Computer Science",
+          "caption": "2015 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.78 GPA"
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Udacity",
+          "subtitle": "Data Analyst Nanodegree, Data Science",
+          "caption": "2015 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Built projects leveraging technologies and language like python,R,MongoDB and D3. Reviewed projects and code pertaining to the data analyst nano degree. Resolved student queries to help them complete their projects."
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Udacity",
+          "subtitle": "Machine Learning Engineer, Data Science",
+          "caption": "2015 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "- Analyze the class and complexity of a given problem, and identify an appropriate algorithm and/or tools to apply towards solving it (e.g. gesture recognition, robot control).\n\n- Gather, clean, and process large data sets to prepare them for analysis.\n\n- Develop multiple models to describe the data in those sets, validate those models, and compare those models according to standard metrics.\n\n- Convert the data model into a live system that can process and reach conclusions on real data.\n\n- Optimize the system based on real-world constraints, such as desired accuracy, efficiency, resource availability, and real-time responsiveness.\n\n- Deploy the system in a live environment, such as an autonomous car, a recommender system, or a personal assistant."
+            }
+          ]
+        },
+        {
+          "title": "V.E.S Institute of Technology",
+          "subtitle": "Bachelor’s Degree, Computer Society of India,  Institute of Electrical and Electronics Engineers, Praxis Technical Advisor Committee",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "74.88%"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Developed and built applications for coursework. Managed the Computer Society of India student chapter. Worked and headed the Technical Advisory Committee for annual technical festival. Web developer for technical and cultural festivals held annually."
+            }
+          ]
+        },
+        {
+          "companyId": "2475568",
+          "companyUrn": "urn:li:fsd_company:2475568",
+          "companyLink1": "https://www.linkedin.com/school/udacity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1785369600&v=beta&t=Dn9r4zZYJKI1Nd8YTEwra4xAiejDtdmkqU8MEbLnuoU",
+          "title": "Udacity",
+          "subtitle": "Android Nanodegree, Computer Software and Media Applications",
+          "caption": "2015 - Present",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Currently, learning to develop android applications using Google's coding and design standards."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "File Type Detection using Content-based and ML Technique",
+          "subtitle": "Mar 2016 - Mar 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with University of Southern California"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "- Developed a content-based and machine learning technique that used Byte Frequency Distribution of files for file type detection.\n\n- Worked on developing a deep neural network to provide model files for Apache Tika in order to boost its accuracy in file type detection.\n\n- Provided scaffolding for leveraging other ML techniques for file type detection."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TMDBApi (Android Library)",
+          "subtitle": "Jan 2016 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "- Created an open source android library for ingesting the movies db api. \n\n- Used libraries such as Retrofit, Gson and JavaRx for creating a production level library that helps interact with functionality of TheMoviesDBApi\n\n- Developed Unit test cases for major functionality in the library. Also, handled various exceptions thrown by TMDBApi. Deployed the library to jcenter Repository and awaiting maven central synch.\n\n- Developers can simply build the plugin through gradle command:\n  compile 'com.rahulravindran:tmdbapi:0.1.1'\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Creating Customer Segments",
+          "subtitle": "Dec 2015 - Dec 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "- Explored a dataset that refers to clients of a wholesale distributor. It included the annual spending in monetary units (m.u.) on diverse product categories.\n\n- Analysed the possible outcomes of PCA and ICA on the data and built exploratory graphs to communicate the results.\n\n- Employed PCA to reduce the dimensionality of data and captured almost 88% of the variability in the dataset. Constructed Gaussian Mixture Model and visualised the cluster of customer segments using sklearn and python.\n\n- Successfully employed unsupervised learning algorithms to come up with a decision boundary and build customer segments. The end product provides a basis for segmenting customers and provides a platform to employ A/B tests to enhance profits."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Popular Movies Application",
+          "subtitle": "Dec 2015 - Dec 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Developed an android app that consumes \"TheMoviesDB\" API. Following are some of the features of the application:\n\n-Dicover movies with high popularity, vote count and highest rating.\n- Watch Trailers\n- Read Reviews\n\nThe application makes use of some of the best practices using libraries such as\n- Picasso\n- Dagger\n- Retrofit\n\nSome of the highlights of the application is a feature toggle driven development which lets uses turn on and off some of the important aspects of the application.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Student Intervention System",
+          "subtitle": "Dec 2015 - Dec 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "- The aim of the project was to devise a student intervention system that lets school officials identify students who are likely to not pass the final exam and intervene accordingly to help these students.\n \n- The objective of the school was to achieve a graduation rate of 95% from 67%. I built a supervised prediction model and performed the following activities to help achieve the school objective:\n\n- Identified the class of problem, separated features from target labels, added dummy variables for computation of predictive models and cleaned data.\n\n- Trained various supervised learning models v.i.z decision tree, random forest, SVM and NBC on the data and compared each of the model performance.\n\n- Tuned and increase performance on Support Vector Machine that resulted in a final F1 score of 0.853. Thus, the final model could accurately identify students who needed help for graduation with an accuracy of 85.3%."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CSI VESIT Android Application",
+          "subtitle": "Dec 2013 - Dec 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed an android application for CSI VESIT, features include extensive feed parsing and caching, developed a library to load image faster using cache effectively and also internal sd card storage. \n\nIt is being extensively used by CSI members to get information regarding day to day events. Currently, the application has more than 1000 downloads."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Virtual Stock Market",
+          "subtitle": "Sep 2013 - Sep 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Created and maintained a web application on stock market that simulated an actual online stock trading website, This application was conducted as an event by CSI-VESIT and gained a huge amount of success.\n\nThe event was conducted for a period of 3 days and witnessed more than 400 members playing it. It also had more than 0.2 million page views."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Train a smart cab how to drive",
+          "subtitle": "Dec 2015 - Jan 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Udacity"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "- Using pygame, developed a reinforcement learning agent for a smart cab that needs to drop off its passenger to the goal state in the shortest time possible.\n\n- Came up with two possible agents one being a naive random walk agent and the other implementing the q-leanrning strategy.\n\n- Developed an algorithm to tweak when the agent needs to explore and when it needs to exploit using the q-learning policy it has developed based on the time left to drop off the passenger.\n\n- The agent performed well in most of the trials it was subjected to. Currently it is being tweaked to learn a definite policy by training it for almost 100 trials."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Big Data Analytics For Behaviour Profiling Using Web Usage History",
+          "subtitle": "Jun 2014 - Mar 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Traditional approaches to behavior profiling involves psychometric evaluations. We build on the idea of using web usage history to do the same, as people’s personalities tends to effect the choice of the websites they visit. \n\n- Using psychological models, we provide users constructive insights into their personalities and also provide career choices."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Polar Dataset Explorer",
+          "subtitle": "",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

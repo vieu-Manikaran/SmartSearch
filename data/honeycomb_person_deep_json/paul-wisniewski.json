@@ -1,0 +1,347 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/paul-wisniewski",
+  "row_key": "id:003Uk00000pz8RXIAY",
+  "person": "Paul Wisniewski",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:54Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA5aBfoBNxjL2Cel2ZPn89EBvL2tTOzCwJw",
+      "firstName": "Paul",
+      "lastName": "Wisniewski",
+      "fullName": "Paul Wisniewski",
+      "publicIdentifier": "paul-wisniewski",
+      "headline": "Engineering Manager at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Automotive",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEPxR_mkZsCkw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1564328954099?e=1785369600&v=beta&t=_vxyRM4XUN3pzM6WRr9rVa3QxVDsbX5KvSig1PbMVc8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEPxR_mkZsCkw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1564328954022?e=1785369600&v=beta&t=a8o2uEL4ONZSK2oYoEliQM5SSnl_Y-4Mz63hm4onUow"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEPxR_mkZsCkw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1564328953970?e=1785369600&v=beta&t=d45c9wpPpkIRvu7AXSF5CZ07WaJdTVsnIXRGnpcjN3U"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEPxR_mkZsCkw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1564328954060?e=1785369600&v=beta&t=ib066XcUvR6iCQKhwqufq3PoxyDl3Be6uJMB4UF6wZo"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEPxR_mkZsCkw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1564328954099?e=1785369600&v=beta&t=_vxyRM4XUN3pzM6WRr9rVa3QxVDsbX5KvSig1PbMVc8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Engineering Manager",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Nov 2024 - Present · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "167650",
+          "companyUrn": "urn:li:fsd_company:167650",
+          "companyLink1": "https://www.linkedin.com/company/repairpal/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHcHY6wbQyD3g/company-logo_400_400/company-logo_400_400/0/1719867744774/repairpal_logo?e=1785369600&v=beta&t=_s3NB228VSkr-eXwNmfUeqdBtkMaxc1eyFmTeg9Tb8Y",
+          "title": "RepairPal",
+          "subtitle": "Full-time · 9 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering",
+              "caption": "Jan 2023 - Nov 2024 · 1 yr 10 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Apr 2015 - Feb 2023 · 7 yrs 10 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Apr 2015 - Feb 2023 · 7 yrs 10 mos",
+              "metadata": "New York, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "232612",
+          "companyUrn": "urn:li:fsd_company:232612",
+          "companyLink1": "https://www.linkedin.com/company/bstocksolutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGniaetWq-qjg/company-logo_400_400/company-logo_400_400/0/1631338168694?e=1785369600&v=beta&t=8H_rY57IMYFPP8Nh3VjIhbE_vHkDRMOuRebi7t5Kfi4",
+          "title": "Web Developer",
+          "subtitle": "B-Stock Solutions . undefined",
+          "caption": "May 2013 - Apr 2015 · 1 yr 11 mos",
+          "metadata": "Redwood City",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2250",
+          "companyUrn": "urn:li:fsd_company:2250",
+          "companyLink1": "https://www.linkedin.com/company/lbrands/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHD8okj9rA0EQ/company-logo_400_400/company-logo_400_400/0/1630583085162/limited_brands_logo?e=1785369600&v=beta&t=5cB07txp2ZkG0KW5i1DbGU3CWLYLis4mXNYMhsnL2w0",
+          "title": "Intern",
+          "subtitle": "Limited Brands . undefined",
+          "caption": "Jun 2012 - May 2013 · 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2962608",
+          "companyUrn": "urn:li:fsd_company:2962608",
+          "companyLink1": "https://www.linkedin.com/company/logisync/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGVagANiJxmmg/company-logo_400_400/company-logo_400_400/0/1631326199539?e=1785369600&v=beta&t=d6rDMZkeJMLV88yD1I02mo80PLKJV9WmpW2HmuqS510",
+          "title": "Intern",
+          "subtitle": "LogiSync . undefined",
+          "caption": "2006 - 2010 · 4 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Engineering Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AJAX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3173",
+          "companyUrn": "urn:li:fsd_company:3173",
+          "companyLink1": "https://www.linkedin.com/school/the-ohio-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEw433uw5btkQ/company-logo_400_400/company-logo_400_400/0/1631327096366?e=1785369600&v=beta&t=rnFfOvK6twWS5nt0APwmiuWXa_2x70V8RAYCr95cImQ",
+          "title": "The Ohio State University",
+          "subtitle": "BS, Computer Science and Engineering",
+          "caption": "2010 - 2013",
+          "subComponents": []
+        },
+        {
+          "companyId": "20928",
+          "companyUrn": "urn:li:fsd_company:20928",
+          "companyLink1": "https://www.linkedin.com/school/lorain-county-community-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGdY8eijQxOIw/company-logo_400_400/company-logo_400_400/0/1630584704177/lorain_county_community_college_logo?e=1785369600&v=beta&t=5reFYwJnY0ZZKKqxnhJF2GaaqgBYFe6G1TXSgLUf9_Y",
+          "title": "Lorain County Community College",
+          "subtitle": "Associate of Science (A.S.), Computer Maintenance and Networking",
+          "caption": "2006 - 2010",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

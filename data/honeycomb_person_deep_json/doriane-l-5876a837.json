@@ -1,0 +1,452 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/doriane-l-5876a837",
+  "row_key": "id:003Uk00000Pb4wnIAB",
+  "person": "Doriane Lau",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:45Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAfBWzcBGdl0sinhswoOdUu8mL6ghTWP4jk",
+      "firstName": "Doriane",
+      "lastName": "L.",
+      "fullName": "Doriane L.",
+      "publicIdentifier": "doriane-l-5876a837",
+      "headline": "Software Engineer at Medtronic Digital Surgery",
+      "about": "Human rights researcher turned software engineer. I bring a decade of experience working on high-stakes, high-context problems, from UN submissions and regional advocacy to quantitative research and system design.\n\nMy work spans data, policy, and technology. I’ve led qualitative research with vulnerable communities, built and maintained databases for international campaigns, and now work on backend systems supporting data ingestion and internal tooling as a Software Engineer at a global med-tech company.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 1 yr 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Backend Engineer I",
+              "caption": "Aug 2025 - Present · 5 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer I",
+              "caption": "Oct 2024 - Aug 2025 · 10 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "Survey Manager (Quantitative Social Science)",
+          "subtitle": "UCL . undefined",
+          "caption": "Sep 2023 - Nov 2024 · 1 yr 2 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "162441",
+          "companyUrn": "urn:li:fsd_company:162441",
+          "companyLink1": "https://www.linkedin.com/company/amnesty-international/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGeAFdajBpXbQ/company-logo_400_400/company-logo_400_400/0/1656521036538/amnesty_international_logo?e=1785369600&v=beta&t=1Xc2B1FiX78odWhLQtJiLUIpbDFTlWR_64AzFq1_1V0",
+          "title": "Amnesty International",
+          "subtitle": "undefined · 6 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Researcher",
+              "caption": "Aug 2018 - Jul 2023 · 4 yrs 11 mos",
+              "description": []
+            },
+            {
+              "title": "East Asia Research and Campaigns Assistant",
+              "caption": "Oct 2016 - Aug 2018 · 1 yr 10 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Education Officer",
+          "subtitle": "Amnesty International Hong Kong . undefined",
+          "caption": "Jul 2015 - Oct 2016 · 1 yr 3 mos",
+          "metadata": "Hong Kong",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6544",
+          "companyUrn": "urn:li:fsd_company:6544",
+          "companyLink1": "https://www.linkedin.com/school/london-school-of-economics/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEmNyPMuyVfyQ/company-logo_400_400/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1785369600&v=beta&t=7XyzFYGok82xVZuH7Queq2LGW1mbI4QUoxtoYeyGvAQ",
+          "title": "Researcher, Learning Technology and Innovation",
+          "subtitle": "The London School of Economics and Political Science (LSE) . undefined",
+          "caption": "Feb 2015 - Jul 2015 · 5 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM Full Stack Software Developer",
+          "subtitle": "IBM",
+          "issued": "Issued Jan 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "13357691",
+          "companyUrn": "urn:li:fsd_company:13357691",
+          "companyLink1": "https://www.linkedin.com/company/board-infinity/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF7aI2nEg5f6A/company-logo_400_400/company-logo_400_400/0/1692874661670/board_infinity_logo?e=1785369600&v=beta&t=M5H-BTG20YMXVaAAi7XUDzd2QVON8WxB99TTqx7Gqss",
+          "title": "Java FullStack Developer",
+          "subtitle": "Board Infinity",
+          "issued": "Issued Jun 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Cantonese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chinese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "First Place - Human Rights Watch London Network Moot Competition",
+          "subtitle": "Issued by Human Rights Watch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LSE Human Rights Dissertation Research Grant",
+          "subtitle": "Issued by London School of Economics and Political Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Express.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research Projects",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research Proposals",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research Funding",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flask",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ETL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CI/CD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST API Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Communications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Human Rights Education",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Literature Reviews",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Qualitative & Quantitative Research Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Qualitative Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interviews",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "6544",
+          "companyUrn": "urn:li:fsd_company:6544",
+          "companyLink1": "https://www.linkedin.com/school/london-school-of-economics/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEmNyPMuyVfyQ/company-logo_400_400/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1785369600&v=beta&t=7XyzFYGok82xVZuH7Queq2LGW1mbI4QUoxtoYeyGvAQ",
+          "title": "The London School of Economics and Political Science (LSE)",
+          "subtitle": "Master’s Degree, Human Rights Watch London Network Moot Competition; Voluntary debate coach at Debate Mate (Elmhurst Primary School); Debate Society Postgraduate Representative; Spanish Level 1; Researcher at Learning Technology and Innovation; organised talks with rights lawyers from China",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Merit"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Dissertation: Why do citizens defend rights in state-controlled courts? A case study on litigating rights to housing in China (qualitative - interviews and literature review)\nModules: International Human Rights Monitoring, Research and Advocacy; Approaches to Human Rights (International Human Rights Law); Globalization and Democracy\n"
+            }
+          ]
+        },
+        {
+          "companyId": "937058",
+          "companyUrn": "urn:li:fsd_company:937058",
+          "companyLink1": "https://www.linkedin.com/school/university-college-maastricht/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGrS-IPfDRzeQ/company-logo_400_400/company-logo_400_400/0/1631335709045?e=1785369600&v=beta&t=AruczxG-BK6guqzTXXrNPw3pi6qvFMGyMoqE2Mck5NI",
+          "title": "University College Maastricht (UCM)",
+          "subtitle": "Exchange Programme, Arabic level 1",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Accumulated Grade A"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Modules: Public Policy Evaluation, Atrocities Triangle: Perpetrators, Victims and Bystanders, Conflict Resolution"
+            }
+          ]
+        },
+        {
+          "companyId": "13045",
+          "companyUrn": "urn:li:fsd_company:13045",
+          "companyLink1": "https://www.linkedin.com/school/the-chinese-university-of-hong-kong/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGymgMDXDNXQw/company-logo_400_400/B56ZrxT_n3MIAc-/0/1764985142942/the_chinese_university_of_hong_kong_logo?e=1785369600&v=beta&t=s5QtdS-C-hV6uRWVHrVs3CLDed2HZMfm9iZeJuQ4xTk",
+          "title": "The Chinese University of Hong Kong",
+          "subtitle": "Bachelor's Degree, Captain of English Debating Team; Netball Team; Host of Campus Radio; German level 1 and 2",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Second Class Upper Division"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Dissertation: Role of Christian NGOs in the democratization movement in Hong Kong (qualitative - interviews and literature review)\nModules: Chinese Foreign Policy; Asian Comparative Politics; Global Environmental Politics; Civil Society Organizations; Democratization"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

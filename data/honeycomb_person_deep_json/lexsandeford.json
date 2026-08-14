@@ -1,0 +1,255 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/lexsandeford",
+  "row_key": "id:0033l000032zjGcAAI",
+  "person": "Lex Sandeford",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:35Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB0Y2LQBTZ8G59DcDe2_2jh-aUZPQ1jq1CQ",
+      "firstName": "Lex",
+      "lastName": "Sandeford",
+      "fullName": "Lex Sandeford",
+      "publicIdentifier": "lexsandeford",
+      "headline": "Software Developer at Medtronic",
+      "about": "I'm a Senior Embedded Software Engineer with a talent for working across platforms and with a wide range of technologies. I currently work on a high end industrial video processing platform. My work has been used in some of the worlds best known venues behind the likes of Beyonce and U2 and on the sets of big budget film and television.\n\nFrom before my award of an Awkwright Engineering Scholarship at the age of 16, I have been fascinated by the process of solving design problems. Whether it's designing an API, anticipating all the edge cases a system might encounter, or designing the user interface for a piece of manufacturing software, I love to create work that's clean, effective and watertight. I'm not afraid to ask for outside advice and I greatly enjoy speaking to the users of my work to make sure it's easy to use and meets all of their needs.\n\nIn my personal life, I'm an avid music fan and amateur producer. I love to take my bike out of London and to climb whenever I can. I am also a member of the Burning Man community in London and have helped organise the creation of a theme camp in 2018 and 2019. This has taught me how to manage people remotely and to anticipate delays and setbacks and plan against them. It has also provided me with the opportunity for some personal projects, including a digital synthesiser for the camp music space and an individually addressable LED chandelier.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Consumer Electronics",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQE4EDBr7hgVaQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608655234610?e=1785369600&v=beta&t=0qwMkBQSjl6TIJHjb4VxryqsBmvFAA5z-qAvmZfpgfM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE4EDBr7hgVaQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1608655234610?e=1785369600&v=beta&t=_Z2rX4g0bXQ1cPAFbd6PhgOM89tLqhkQUPcY7kZhoMM"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE4EDBr7hgVaQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608655234610?e=1785369600&v=beta&t=rOBELX0qERnTcihLv9N8c1dBP_-Nu-GDr_pEnapLMg0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE4EDBr7hgVaQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1608655234610?e=1785369600&v=beta&t=FqenwE9Aq4ws3QcV69BBfLkUi3ZQEXjpx1vXb4R5NI4"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE4EDBr7hgVaQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608655234610?e=1785369600&v=beta&t=0qwMkBQSjl6TIJHjb4VxryqsBmvFAA5z-qAvmZfpgfM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 4 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jan 2024 - Present · 2 yrs",
+              "metadata": "London Area, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Software Developer",
+              "caption": "Aug 2021 - Present · 4 yrs 5 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1489808",
+          "companyUrn": "urn:li:fsd_company:1489808",
+          "companyLink1": "https://www.linkedin.com/company/carallon-uk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqB3yjPfO8hg/company-logo_100_100/B4EZxR3JP3IcAQ-/0/1770899936621/carallon_uk_logo?e=1785369600&v=beta&t=wODxEH2TyY_VO3II4dSIoDzIJ5Ge0vipVehi0HgdD1g",
+          "title": "Carallon Ltd",
+          "subtitle": "Full-time · 5 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Embedded Software Engineer",
+              "caption": "Dec 2018 - Sep 2021 · 2 yrs 9 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Embedded Software Developer",
+              "caption": "Sep 2016 - Dec 2018 · 2 yrs 3 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "CUDA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Industry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CMake",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Webrtc",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ARM Cortex-M",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Debugging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQLite",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Joint Test Action Group (JTAG)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "null, null",
+          "caption": "2012 - 2016",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

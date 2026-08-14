@@ -1,0 +1,592 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/dimpal-rawat",
+  "row_key": "id:003Uk00000yaEaRIAU",
+  "person": "Dimpal Rawat",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:50Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABgcI8ABJvjGmOIg0LpC7Uie5jjV1IuC4q4",
+      "firstName": "Dimpal",
+      "lastName": "Rawat",
+      "fullName": "Dimpal Rawat",
+      "publicIdentifier": "dimpal-rawat",
+      "headline": "Lead Software Engineer at JPMorganChase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Online Media",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQGTv4Naf2QPuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1646206466548?e=1785369600&v=beta&t=X0WPDrbCFtQei0-KIeJDALUZlIwRrWjp38-TMSLG7mM",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQEiLqAl8Oburw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1519511906123?e=1785369600&v=beta&t=cQDHHVL5q4-FyhzC1lbf3ex7puXUhc9LxkhTBOkwv94",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGTv4Naf2QPuA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1646206466548?e=1785369600&v=beta&t=NUG4iTEiqB1Vvai1Rn3wvpOFcOfh4lRHT-AZZYzrKmA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGTv4Naf2QPuA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1646206466548?e=1785369600&v=beta&t=zM30PPR1gcvh0ftUDU1KDKzYXgrB4HYBYJKkvASRyCI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGTv4Naf2QPuA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1646206466548?e=1785369600&v=beta&t=e4XovPZUBvjpjArMKVCaT4MFJAUFtv-shxoskotsI2c"
+        },
+        {
+          "width": 474,
+          "height": 474,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGTv4Naf2QPuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1646206466548?e=1785369600&v=beta&t=X0WPDrbCFtQei0-KIeJDALUZlIwRrWjp38-TMSLG7mM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 460,
+          "height": 115,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQEiLqAl8Oburw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1519511905993?e=1785369600&v=beta&t=8cUP7yAYTHoNzQ4xakFtFxpSF_7pqjIZuL51bj9OWSA"
+        },
+        {
+          "width": 460,
+          "height": 115,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQEiLqAl8Oburw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1519511906123?e=1785369600&v=beta&t=cQDHHVL5q4-FyhzC1lbf3ex7puXUhc9LxkhTBOkwv94"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1068",
+          "companyUrn": "urn:li:fsd_company:1068",
+          "companyLink1": "https://www.linkedin.com/company/jpmorganchase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1785369600&v=beta&t=jYOBdiueGs_lhwuITtjYPaz8lhGNeBBj6VIEbg1hxcE",
+          "title": "Lead Software Engineer",
+          "subtitle": "JPMorganChase . Full-time",
+          "caption": "May 2026 - Present · ",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 4 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2022 - Apr 2026 · 3 yrs 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leading the development and rollout of the new checkmark annotations feature across all platforms - Optimizing bounceout logic for search across all platforms - Introducing highlight phrases in business review snippets and scaling from 100k to 12M - Enhancing monitoring and alerting for scheduled jobs to support other tech teams at Yelp - Leading the signals generation and utilization domain within the team - Implemented a standardized platform for Spark-based job execution and facilitated migration from MapReduce (MR) jobs, leading to substantial cost savings - Contributed to backend support for seamless integration of ML models"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jul 2021 - Aug 2022 · 1 yr 1 mo",
+              "metadata": "London Area, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Enhancing monitoring and alerting for scheduled jobs to support tech teams at the organization level\n* Scaling up highlights in business review snippets from 100K to 12M generated via LLMs\n* Implemented a standardized platform for Spark-based job execution and facilitated migration from\nMapReduce jobs, leading to substantial cost savings\n* Improvements in the annotations for different businesses\n* Enhanced client utilization through the modernization of a query understanding service\n* Optimized the ’Request a Quote’ flow by implementing UTS filtering for businesses, leading to\nnotable improvements in conversion rates"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "321062",
+          "companyUrn": "urn:li:fsd_company:321062",
+          "companyLink1": "https://www.linkedin.com/company/flipkart/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtneRyv-iofA/company-logo_400_400/B56Za6BjbWHgAc-/0/1746877692629/flipkart_logo?e=1785369600&v=beta&t=Avatc5dUpe5KYRK8d1jhUmR281d-ciWYOerBK-2jXvM",
+          "title": "Flipkart",
+          "subtitle": "Full-time · 1 yr 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Development Engineer",
+              "caption": "Aug 2019 - May 2021 · 1 yr 9 mos",
+              "metadata": "Bengaluru, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Working with Logistic Insights Team to provide analytical data models that are used across Ekart\n* Working on re-arch of WMS customer outbound flow\n* Working on re-designing packaging system in WMS for customer orders."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Aug 2019 - May 2021 · 1 yr 9 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "BATCH Admin APIs built over yarn exposed APIs and Retriable exception handling to reduce manual overhead during on-calls - ES query optimization using filters - Contribution in re-arch of WMS customer outbound flow which handles customer orders in warehouse - Designing Packaging system in WMS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2583797",
+          "companyUrn": "urn:li:fsd_company:2583797",
+          "companyLink1": "https://www.linkedin.com/company/goibibo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGBCKAGEwJiag/company-logo_400_400/company-logo_400_400/0/1637913563217/goibibo_logo?e=1785369600&v=beta&t=tuy0CRwaOKQarL-pNx9VavaSa5Guks0MyocvwhManSQ",
+          "title": "Software Engineer",
+          "subtitle": "Goibibo . undefined",
+          "caption": "May 2018 - Jul 2019 · 1 yr 2 mos",
+          "metadata": "Bangalore ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Building & Optimizing scalable Payments engine for Goibibo to make payment as seamless as possible for customers\n* Implemented a couple of high impacted backend features to improve payment conversion rates.\n* Worked on optimizing Refunds Sucess Rate, Refund Retries, Saved Card feature, Sending notifications to customers via different modes.\n* Integrated various payment methods like Bajaj Finserv, ICICI PayLater, and few features using PayU, RazorPay, and MMT-Paas exposed functionalities."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2711387",
+          "companyUrn": "urn:li:fsd_company:2711387",
+          "companyLink1": "https://www.linkedin.com/company/decision-point-pvt-ltd-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFq43ntNtPnlQ/company-logo_400_400/company-logo_400_400/0/1657085728589/decision_point_pvt_ltd__logo?e=1785369600&v=beta&t=qNbmI-uIzT7FXzpjMhKTUWEQQr4N8s8OtK9wWuiE1g4",
+          "title": "Software Engineer Internship",
+          "subtitle": "Decision Point Analytics . undefined",
+          "caption": "May 2017 - Aug 2017 · 3 mos",
+          "metadata": "Gurgaon, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Social Media Analytics Tool involving big data and machine learning.\n\nDecision Point has extracted value from big data across industries & business functions through its analytics solutions - be it pricing simulation & what if scenario planning to manage prices of over 100+ SKUs, forecasting models for commercial planning or applied economic modelling to develop market potential index for long term business planning."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Certificate of Merit",
+          "subtitle": "Issued by CBSE Senior School Certificate Examination",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Received certificate of merit for outstanding performance and being among top 0.1 percent of successful candidates to score 100% marks in Chemistry."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "MapReduce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technology Trends",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Experience",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Job Search Strategies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Certified Software Quality Engineer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Encryption",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Technology Training",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Overheads",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Refunds",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Literacy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Query Optimization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Organization Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Control Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Semantic Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Service Optimization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15095081",
+          "companyUrn": "urn:li:fsd_company:15095081",
+          "companyLink1": "https://www.linkedin.com/school/abv-indian-institute-of-information-technology-and-management/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHimxgBVIadgg/company-logo_400_400/company-logo_400_400/0/1631355589135?e=1785369600&v=beta&t=U7XcURkWyoQyoMi9KVI6ULADqfdUW9jguxg9uGC7NOY",
+          "title": "ABV-Indian Institute of Information Technology and Management",
+          "subtitle": "Engineer’s Degree, (1) Student Co-ordinator at Twaran'15 - Annual Sports Fest.\n(2) Robotics Event Head at Infosav'15-Annual Techno-Managerial Fest.\n(3) Event Management Team Head at Infotsav'16-Annual Techno-Managerial Fest.\n(4) Captain for Girls VolleyBall Team at ABV-IIITM Gwalior.",
+          "caption": "2013 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "8.7"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Atal Bihari Vajpayee-Indian Institute of Information Technology and Management (ABV-IIITM), Gwalior is an institute committed to taking academics to unprecedented levels of brilliance and efficiency. Equal stress is put on sports and other recreational activities together with learning and research for all-round growth of character and leadership qualities. The academic curriculum of the program is divided into three and two years each dedicated to courses related to database, algorithms, data structures, management skills, computer networks, operating systems and many others."
+            }
+          ]
+        },
+        {
+          "companyId": "15106896",
+          "companyUrn": "urn:li:fsd_company:15106896",
+          "companyLink1": "https://www.linkedin.com/school/kendriya-vidyalaya/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFiB3Otc6s1Mw/company-logo_400_400/company-logo_400_400/0/1631344654761?e=1785369600&v=beta&t=THT8-qXwz9jiUlKpaGDnOR9sFBMFM2MKQTjV5QRF1v4",
+          "title": null,
+          "subtitle": "High School and Senior Secondary, (1) Cultural Club Head\n(2) Literary Club Member\n(3) School Council Body - House Captain\n",
+          "caption": "2010 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "10th - 9.6 CGPA  12th - 91.4%"
+            },
+            {
+              "type": "insightComponent",
+              "text": "The Kendriya Vidyalayas are a system of central government schools in India that were instituted under the aegis of the Ministry of Human Resource Development.\n(1) Received certificate of merit for outstanding performance and being among top 0.1 percent of successful candidates to score 100% marks in Chemistry.\n(2) Was part of Youth Parliament National Level winning team for the year 2010.\nWith a view to strengthening the roots of democracy, inculcate healthy habits of discipline, tolerance of the views of others and to enable the student community to know something about the working of Parliament,  the Ministry of Parliamentary Affairs decided to conduct this competition.\n(3) Topper in AISSCE (All India Senior School Certificate Examination) 2012 in K.V.No.5 Gwalior. \n AISSCE is an examination conducted every year by the CBSE for class 12.\n(4) Taken part in debates, quizzes, cultural and sports events and represented school at Regional levels. "
+            }
+          ]
+        },
+        {
+          "companyId": "715453",
+          "companyUrn": "urn:li:fsd_company:715453",
+          "companyLink1": "https://www.linkedin.com/school/abv--indian-institute-of-information-technology-and-management-gwalior-india/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFvtajZpYHtCw/company-logo_400_400/company-logo_400_400/0/1636433995640/abv__indian_institute_of_information_technology_and_management_gwalior_india_logo?e=1785369600&v=beta&t=bYrvmdomPpfTYJXsgyKbhGK-gR9ZMWbIk-jCeFSGIWI",
+          "title": "ABV- Indian Institute of Information Technology and Management, Gwalior, India",
+          "subtitle": "Bachelor of Technology, Information Technology",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "CGPA – 8.60/10."
+            }
+          ]
+        },
+        {
+          "companyId": "715453",
+          "companyUrn": "urn:li:fsd_company:715453",
+          "companyLink1": "https://www.linkedin.com/school/abv--indian-institute-of-information-technology-and-management-gwalior-india/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFvtajZpYHtCw/company-logo_400_400/company-logo_400_400/0/1636433995640/abv__indian_institute_of_information_technology_and_management_gwalior_india_logo?e=1785369600&v=beta&t=bYrvmdomPpfTYJXsgyKbhGK-gR9ZMWbIk-jCeFSGIWI",
+          "title": "ABV- Indian Institute of Information Technology and Management, Gwalior, India",
+          "subtitle": "Master of Technology, Information Technology",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "CGPA – 8.45/10."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "15095081",
+          "companyUrn": "urn:li:fsd_company:15095081",
+          "companyLink1": "https://www.linkedin.com/school/abv-indian-institute-of-information-technology-and-management/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHimxgBVIadgg/company-logo_400_400/company-logo_400_400/0/1631355589135?e=1785369600&v=beta&t=U7XcURkWyoQyoMi9KVI6ULADqfdUW9jguxg9uGC7NOY",
+          "title": "Student Coordinator - Twaran'16",
+          "subtitle": "ABV-Indian Institute of Information Technology and Management",
+          "caption": "Nov 2015 - Jan 2016 · 2 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "15095081",
+          "companyUrn": "urn:li:fsd_company:15095081",
+          "companyLink1": "https://www.linkedin.com/school/abv-indian-institute-of-information-technology-and-management/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHimxgBVIadgg/company-logo_400_400/company-logo_400_400/0/1631355589135?e=1785369600&v=beta&t=U7XcURkWyoQyoMi9KVI6ULADqfdUW9jguxg9uGC7NOY",
+          "title": "Event Management Head - Infotsav'17",
+          "subtitle": "ABV-Indian Institute of Information Technology and Management",
+          "caption": "Oct 2016 - Nov 2016 · 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "15106896",
+          "companyUrn": "urn:li:fsd_company:15106896",
+          "companyLink1": "https://www.linkedin.com/school/kendriya-vidyalaya/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFiB3Otc6s1Mw/company-logo_400_400/company-logo_400_400/0/1631344654761?e=1785369600&v=beta&t=THT8-qXwz9jiUlKpaGDnOR9sFBMFM2MKQTjV5QRF1v4",
+          "title": "Member of Youth Parliament",
+          "subtitle": "Kendriya Vidyalaya",
+          "caption": "Jul 2010 - Nov 2010 · 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "M.Tech Thesis Project",
+          "subtitle": "Aug 2017 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with ABV-Indian Institute of Information Technology and Management"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Brand Identification and Classification from Image Data using Deep learning techniques."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Predicting Influential Person In A Social Network ",
+          "subtitle": "Nov 2016 - Dec 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A machine learning project on predicting more influencing person in a social media network using neural\nnetwork and different classifiers and comparing results"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Campaign Manager",
+          "subtitle": "Dec 2015 - Jan 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The project included a simple campaign manager using which a promotional mail can be sent to all\nthe entries present in database along with a name of the user to start with."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TWARAN Website",
+          "subtitle": "Dec 2014 - Jan 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with ABV-Indian Institute of Information Technology and Management"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The official website of TWARAN 2015, NATIONAL LEVEL SPORTS FEST at IIITM GWALIOR."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

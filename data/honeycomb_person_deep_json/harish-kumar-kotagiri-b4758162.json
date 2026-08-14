@@ -1,0 +1,358 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/harish-kumar-kotagiri-b4758162",
+  "row_key": "id:003Uk0000090mh7IAA",
+  "person": "Harish Kotagiri",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:52:37Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA1BMScBsNImKECPuN9mweeCWuGhpRr-r04",
+      "firstName": "Harish Kumar",
+      "lastName": "Kotagiri",
+      "fullName": "Harish Kumar Kotagiri",
+      "publicIdentifier": "harish-kumar-kotagiri-b4758162",
+      "headline": "Senior Software Engineer at Medtronic",
+      "about": "Test Automation Engineer",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFJqydcwh0pNw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697705255866?e=1785369600&v=beta&t=8MpoY0IrVh83d8xhWWFsoaYq9vV8KgP-aQNtM9lmB4k",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFJqydcwh0pNw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697705255866?e=1785369600&v=beta&t=ivVLu3kROKLUp-DINcAZpFfbwpSk1qZzmEMe76Y3ETA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFJqydcwh0pNw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697705255866?e=1785369600&v=beta&t=PlcKV3jGKxR-p3gH6RlgZPCl7OHr_Diw7ZaKVwWg6W8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFJqydcwh0pNw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1697705255866?e=1785369600&v=beta&t=mm6Q8xIQb4VyRXeSxa2oW8uTaoDF7TRgNRBPHt8b2ok"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFJqydcwh0pNw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697705255866?e=1785369600&v=beta&t=8MpoY0IrVh83d8xhWWFsoaYq9vV8KgP-aQNtM9lmB4k"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Senior Software Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Sep 2023 - Present · 2 yrs 4 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "27789902",
+          "companyUrn": "urn:li:fsd_company:27789902",
+          "companyLink1": "https://www.linkedin.com/company/neudesic-technologies-private-limited/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJ4svvFQSZNg/company-logo_400_400/company-logo_400_400/0/1630663411113/neudesic_technologies_private_limited_logo?e=1785369600&v=beta&t=aX3Q7sh2-S955xT32L1VlEa2xOC3kwOzkne4UeenW8M",
+          "title": "Senior Consultant",
+          "subtitle": "Neudesic Technologies Private Limited . Full-time",
+          "caption": "Jan 2020 - Sep 2023 · 3 yrs 8 mos",
+          "metadata": "Hyderabad Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2508619",
+          "companyUrn": "urn:li:fsd_company:2508619",
+          "companyLink1": "https://www.linkedin.com/company/bosch/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHLs2GF62iY4w/company-logo_200_200/B4EZ79njt_KIAE-/0/1782371466530/bosch_logo?e=1785369600&v=beta&t=6Iqw0wEbKTaLE3uUAfOr2EVkJKZoJU682FSFy7E2TGE",
+          "title": "Senior Software Test Engineer",
+          "subtitle": "Bosch . Full-time",
+          "caption": "Feb 2018 - Jan 2020 · 1 yr 11 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1680",
+          "companyUrn": "urn:li:fsd_company:1680",
+          "companyLink1": "https://www.linkedin.com/company/cognizant/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_400_400/B4EZk_EfNgHgAc-/0/1757699778309/cognizant_logo?e=1785369600&v=beta&t=pi9sHAfWWbXmP4R0tbabMh8ynyFz2NJMN23UJgxHEVw",
+          "title": "Test Analyst",
+          "subtitle": "Cognizant . Full-time",
+          "caption": "Jul 2014 - Jan 2018 · 3 yrs 6 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tamil",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telugu",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Appium",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Selenium Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VSTS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manual Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Foundation Server (TFS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JIRA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HP QTP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "selenium grid",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Confluence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Behavior-Driven Development (BDD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "web servive",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "coded ui",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "vijay rural engineering college",
+          "subtitle": "Bachelor of Technology (B.Tech.), college fests and recruitment volunteers",
+          "caption": "2010 - 2014",
+          "subComponents": []
+        },
+        {
+          "title": "Sri Kakatiya Junior college",
+          "subtitle": "Intermediate, MPC",
+          "caption": "2008 - 2010",
+          "subComponents": []
+        },
+        {
+          "title": "St. Alphonse school",
+          "subtitle": "SSC, null",
+          "caption": "2005 - 2008",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

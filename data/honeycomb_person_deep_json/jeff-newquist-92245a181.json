@@ -1,0 +1,249 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jeff-newquist-92245a181",
+  "row_key": "id:0033l00002sspbAAAQ",
+  "person": "Jeff Newquist",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACr1naoBeIwT77GTUqWRKUSmSj815nla4Ng",
+      "firstName": "Jeff",
+      "lastName": "Newquist",
+      "fullName": "Jeff Newquist",
+      "publicIdentifier": "jeff-newquist-92245a181",
+      "headline": "Principal Engineer at Hypnos Entertainment",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Madison Area United States",
+      "addressWithoutCountry": "Greater Madison Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEeObrhcJ35SQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1552339976929?e=1785369600&v=beta&t=GSCEKmTEu0tOswmGVrV-IymW20gRFrxPW5awp1WA_BU",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEeObrhcJ35SQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1552339976838?e=1785369600&v=beta&t=Sty1Z9mB16C_m0qgO0moEqdCesppNYWHrqxPfC-FQzg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEeObrhcJ35SQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1552339976856?e=1785369600&v=beta&t=d-96-x91-MQaCl06gRD0BuowAGzbEXlr_ck5Y_TMXXc"
+        },
+        {
+          "width": 400,
+          "height": 399,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEeObrhcJ35SQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1552339977426?e=1785369600&v=beta&t=Vs7ll0aFjf77BHxF-MNA-bDJ6ngO0mZsxJtxQLGDveA"
+        },
+        {
+          "width": 508,
+          "height": 507,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEeObrhcJ35SQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1552339976929?e=1785369600&v=beta&t=GSCEKmTEu0tOswmGVrV-IymW20gRFrxPW5awp1WA_BU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "305922",
+          "companyUrn": "urn:li:fsd_company:305922",
+          "companyLink1": "https://www.linkedin.com/company/hypnos-entertainment/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFye1ObVLW5tQ/company-logo_400_400/company-logo_400_400/0/1631318672909?e=1785369600&v=beta&t=ccGE_3x9P4AS2CAlPVo-d0nxDtSktND8aXQcyxb0nxY",
+          "title": "Principal Engineer",
+          "subtitle": "Hypnos Entertainment, Inc. . Full-time",
+          "caption": "Oct 2022 - Present · 3 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Senior Engine Programmer",
+          "subtitle": "Epic Games . undefined",
+          "caption": "Apr 2019 - Oct 2022 · 3 yrs 6 mos",
+          "metadata": "Madison, Wisconsin Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11905",
+          "companyUrn": "urn:li:fsd_company:11905",
+          "companyLink1": "https://www.linkedin.com/company/raven-software/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG7F1cLnHgUhQ/company-logo_100_100/B56ZjDmqvHHkAY-/0/1755628350950/raven_software_logo?e=1785369600&v=beta&t=4SJa-BwR72INUJGKS7vmNZDqHSEhC6hbo5XdzoNwP3M",
+          "title": "Senior Lead Software Engineer",
+          "subtitle": "Raven Software . undefined",
+          "caption": "Apr 2004 - Mar 2019 · 14 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Graphics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Optimization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GPU",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox 360",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PS4",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xbox One",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DirectX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2650",
+          "companyUrn": "urn:li:fsd_company:2650",
+          "companyLink1": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_400_400/company-logo_400_400/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=1785369600&v=beta&t=Mo8LI_V0m0dYe8fxWm1laOv4DgPkb2O28hKEmPB6TmQ",
+          "title": "University of Illinois at Urbana-Champaign",
+          "subtitle": "Master's degree, Electrical and Electronics Engineering",
+          "caption": "1995 - 1997",
+          "subComponents": []
+        },
+        {
+          "companyId": "15096831",
+          "companyUrn": "urn:li:fsd_company:15096831",
+          "companyLink1": "https://www.linkedin.com/school/unmengineering/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEVtK4JhNHX_w/company-logo_400_400/company-logo_400_400/0/1738861188013/unmengineering_logo?e=1785369600&v=beta&t=0wQENpA2FFDiUGpS9F-S9u4NePoY7sQmVQCyQOHZRjM",
+          "title": "University of New Mexico School of Engineering",
+          "subtitle": "Bachelor's degree, Computer Engineering",
+          "caption": "1990 - 1995",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

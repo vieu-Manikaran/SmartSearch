@@ -31,7 +31,9 @@ from email_enrichment_jobs import (
     submit_email_enrichment_job,
 )
 from email_enrichment_store import count_pending_jobs, write_results_csv
-from fullenrich_client import FullEnrichError, enrich_contacts, is_valid_linkedin_url
+from email_provider import EmailEnrichmentError, email_providers_configured, enrich_contacts
+from fullenrich_client import FullEnrichError, is_valid_linkedin_url
+from molster_client import MolsterError
 from seeqe_email_callback import post_email_to_seeqe
 from linkedin_jobs import (
     is_email_job_running,
@@ -144,7 +146,7 @@ HTML_TEMPLATE = """
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page.<br>
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.<br>
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
-    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; verified work email via FullEnrich.
+    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; work email via Molster, with FullEnrich fallback.
   </p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
 
@@ -405,7 +407,7 @@ EMAIL_RESULTS_TABLE = """
   <h3>Result</h3>
   <table>
     <thead>
-      <tr><th>Person</th><th>Company</th><th>LinkedIn URL</th><th>Work email</th><th>Email status</th><th>All work emails</th><th>Job title</th><th>Status</th></tr>
+      <tr><th>Person</th><th>Company</th><th>LinkedIn URL</th><th>Work email</th><th>Email status</th><th>Source</th><th>All work emails</th><th>Job title</th><th>Status</th></tr>
     </thead>
     <tbody>
       {% for row in rows %}
@@ -415,6 +417,7 @@ EMAIL_RESULTS_TABLE = """
         <td><a href="{{ row.linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url }}</a></td>
         <td>{{ row.work_email or "—" }}</td>
         <td>{{ row.email_status or "—" }}</td>
+        <td>{{ row.email_source or "—" }}</td>
         <td class="small">{{ row.all_work_emails or "—" }}</td>
         <td>{{ row.job_title or "—" }}</td>
         <td>{{ row.status }}</td>
@@ -626,8 +629,8 @@ EMAIL_FINDER_TEMPLATE = (
     &nbsp;|&nbsp;
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
   </p>
-  <h2>Email finder (FullEnrich)</h2>
-  <p class="small">Find triple-verified work emails using FullEnrich. One person: result on this page (may take 1–3 minutes). CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Large cohorts (1k–10k+) are supported; jobs survive restarts and resume from the last checkpoint.</p>
+  <h2>Email finder (Molster → FullEnrich)</h2>
+  <p class="small">Find work emails from LinkedIn URLs. Each row is looked up in Molster first (batches of 100; ~5k emails / 5 hours), then misses fall back to FullEnrich. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Large cohorts (1k–10k+) are supported; jobs survive restarts and resume from the last checkpoint.</p>
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
@@ -659,7 +662,7 @@ EMAIL_FINDER_TEMPLATE = (
         </tr>
       </tbody>
     </table>
-    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then these appended columns: <code>Work_Email</code>, <code>Email_Status</code>, <code>All_Work_Emails</code>, <code>Job_Title</code>, <code>Enrichment_Status</code>.</p>
+    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then these appended columns: <code>Work_Email</code>, <code>Email_Status</code>, <code>All_Work_Emails</code>, <code>Job_Title</code>, <code>Enrichment_Status</code>, <code>Email_Source</code>, <code>Molster_Risk_Score</code>, <code>Molster_Last_Validated_At</code>.</p>
   </div>
 
   <p class="small"><strong>Example CSV:</strong></p>
@@ -1939,13 +1942,13 @@ def _lookup_single_email(row: dict[str, str]) -> tuple[dict[str, str] | None, st
     if not try_acquire_email_worker():
         return None, "Another email lookup is in progress. Please wait."
     try:
-        results = enrich_contacts([row])
+        results = enrich_contacts([row], wait_for_molster_quota=False)
         if not results:
-            return None, "No result returned from FullEnrich."
+            return None, "No result returned from email enrichment."
         result = results[0]
         post_email_to_seeqe(result)
         return result, None
-    except FullEnrichError as exc:
+    except (EmailEnrichmentError, FullEnrichError, MolsterError) as exc:
         return None, str(exc)
     finally:
         release_email_worker()
@@ -2075,8 +2078,8 @@ def email_finder():
             ctx["message"] = err
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
-        if not settings.fullenrich_api_key:
-            ctx["message"] = "Missing FULLENRICH_API_KEY in environment."
+        if not email_providers_configured():
+            ctx["message"] = "Missing MOLSTER_API_KEY and FULLENRICH_API_KEY in environment."
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
 

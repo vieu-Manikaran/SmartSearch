@@ -1,0 +1,446 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sheldonkhall",
+  "row_key": "id:0033l0000330RwmAAE",
+  "person": "Sheldon Hall",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:37Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA2mb1QBC5rbXPO-jYgqeqNfrAv2f66soA8",
+      "firstName": "Sheldon K.",
+      "lastName": "Hall",
+      "fullName": "Sheldon K. Hall",
+      "publicIdentifier": "sheldonkhall",
+      "headline": "Principal AI/Data Science Engineer at Medtronic",
+      "about": "I am a research scientist / engineer working at Babylon Health where I work on the medical knowledge graph and the ecosystem around it. My current role involves research and development of our knowledge graph creation methodology and usage. I have a strong research background in mathematical modelling and scientific computing applied to multiple fields.  Applying advanced mathematics to real-world problems is increasingly useful today, and something that I really enjoy.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater London, England United Kingdom",
+      "addressWithoutCountry": "Greater London, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Principal AI/Data Science Engineer",
+          "subtitle": "Medtronic Digital Surgery . Full-time",
+          "caption": "Oct 2020 - Present · 5 yrs 3 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3489649",
+          "companyUrn": "urn:li:fsd_company:3489649",
+          "companyLink1": "https://www.linkedin.com/company/emedhealthcareuk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHh5osD3S9-dg/company-logo_400_400/company-logo_400_400/0/1719257925944/emedhealthcareuk_logo?e=1785369600&v=beta&t=n_hQeAUNajbDspRTw1cdPl3Sx-Xmw5jBTvKNVGvDFTA",
+          "title": "Lead Analytic Software Engineer",
+          "subtitle": "babylon health . Full-time",
+          "caption": "Aug 2017 - Aug 2020 · 3 yrs",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "In my role as engineering lead I assembled a team to build an internal tool to streamline the process used to iterate on ML prototypes at the company. Researchers can now get access to data in a day (down from months) and test their algorithms in a compliant and audited cloud environment. This initiative has met all goals related to adoption of the new platform - number of supported projects, newly created datasets, etc. and this is going to be deploy this as the de-facto access pattern for the whole company in multiple regions."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15225686",
+          "companyUrn": "urn:li:fsd_company:15225686",
+          "companyLink1": "https://www.linkedin.com/company/typedb/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQErE9iLpNf5nA/company-logo_400_400/company-logo_400_400/0/1630648764160/graknlabs_logo?e=1785369600&v=beta&t=L6p0snGi1EKh7hGqGN5cAGjeCwtFZeTzI5bRskx8mQ0",
+          "title": "Knowledge Engineer",
+          "subtitle": "Grakn Labs . undefined",
+          "caption": "Oct 2015 - Aug 2017 · 1 yr 10 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Grakn Labs is developing a semantic graph development stack. Adding a semantic layer on top of a graph database and coupling this with an inference engine, analytic tools and intuitive visual interface produces an extremely powerful technology on which to build semantic applications. \n\nResearch and development of knowledge representation system and big data graph analytics.\nDevelopment of the technology stack in Java."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5133902",
+          "companyUrn": "urn:li:fsd_company:5133902",
+          "companyLink1": "https://www.linkedin.com/company/facultyai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHR3OANqT17Xg/company-logo_100_100/B4EZhbuaiXHoAQ-/0/1753885551864/facultyai_logo?e=1785369600&v=beta&t=h8E3g552nKy9FDiRAAPXSEvCU6uDQ2lO199EE0AdwNc",
+          "title": "Data Science Research Fellow",
+          "subtitle": "ASI Data Science . undefined",
+          "caption": "Jul 2015 - Aug 2015 · 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed a prototype system using Cassandra and Spark to aggregate time series data across large datasets and produce dashboard analytics using D3.js. This was a project proposed by a startup company called crowd emotion that collects time series data reflecting peoples emotions while interacting with online media. The requirement was to develop a system that could handle large amounts of data and traffic generated by clients and their users and perform analytics in real-time."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4477",
+          "companyUrn": "urn:li:fsd_company:4477",
+          "companyLink1": "https://www.linkedin.com/school/oxforduni/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1785369600&v=beta&t=YWZ_dcWkHXOGDiT8--gbh6rFHaRC3LwtP7-KaBVekrM",
+          "title": "Postdoctoral Research Assistant",
+          "subtitle": "University of Oxford . undefined",
+          "caption": "May 2013 - Jun 2015 · 2 yrs 1 mo",
+          "metadata": "Institute of Biomedical Engineering",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developing multi-scale finite element models of patient-specific minimally invasive cancer treatments. These treatments involve the heating/freezing of tumour tissue in situ, and the models are validated against clinical data. This is part of a web based framework designed to be used by doctors for treatment planning to improve patient outcome.\n\nImplemented finite element simulations of cancer treatments in Python and MatLab.\nDevelop models and evaluate their performance using regression techniques, model selection\nand experimental design.\nDevelopment of software in collaboration with multiple partners.\nPreparation of technical reports for the EU and journal publications."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Postdoctoral Research Associate",
+          "subtitle": "Imperial College London . undefined",
+          "caption": "Mar 2013 - May 2013 · 2 mos",
+          "metadata": "Mechanical Engineering",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Short term position following PhD with the aim of achieving some knowledge transfer to new students and begin the work of scaling up some of the research from my PhD.\n\nScaling up research from PhD and supervision of 2 PhD students.\nCore implementation in MatLab with an interface to a C++ API for geometry construction and a Fortran code for running simulations."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7480",
+          "companyUrn": "urn:li:fsd_company:7480",
+          "companyLink1": "https://www.linkedin.com/company/edf-energy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHWl63Uzo5rsw/company-logo_100_100/B4EZ8ch6e9HAAM-/0/1782890080466/edf_energy_logo?e=1785369600&v=beta&t=qP_oJ2O2q3lnvZ1AEPhlHMzUEv6wko4YDtC7MNdtFWk",
+          "title": "Secondment to Reactor Physics Group",
+          "subtitle": "EDF Energy . undefined",
+          "caption": "Sep 2010 - May 2011 · 8 mos",
+          "metadata": "Gloucester, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Collaborative work with industrial counterparts to embed new methods into their\ncommercial code."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "International School in Nuclear Awards Engineering Grant",
+          "subtitle": "Issued by Commissariat à l'énergie atomique et aux énergies alternatives (CEA)",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Grant to cover the cost of attendance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Frédéric Joliot / Otto Hahn (FJOH) Summer School Fellowship",
+          "subtitle": "Issued by Commissariat à l'énergie atomique et aux énergies alternatives (CEA) and Karlsruhe Institute of Technology (KIT)",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Grant to cover the cost of attendance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nuclear Institute Grant",
+          "subtitle": "Issued by The Nuclear Institute",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Covered the remaining costs to attend the (FJOH) summer school."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EngD Studentship",
+          "subtitle": "Issued by EPSRC and EDF Energy",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "All costs incurred in completing the Eng.D. and an enhanced maintenance grant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EPSRC funded CTA studentship",
+          "subtitle": "Issued by EPSRC",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "All fees and a maintenance grant to complete the M.Sc. in Oxford."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Mathematical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fortran",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Numerical Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Applied Mathematics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematica",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Biology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nuclear Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mac OS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": null,
+          "subtitle": "Doctor of Engineering (Eng.D.), Nuclear Engineering",
+          "caption": "2008 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Developed novel numerical methods in Fortran and MatLab for predicting the power in nuclear reactors."
+            }
+          ]
+        },
+        {
+          "companyId": "13855",
+          "companyUrn": "urn:li:fsd_company:13855",
+          "companyLink1": "https://www.linkedin.com/school/alliancembs/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH4WzK8Bky_zg/company-logo_400_400/company-logo_400_400/0/1650447156908/alliancembs_logo?e=1785369600&v=beta&t=ZMxjShnVovkNwUYcNczHVBuGfqcpni_2qBFrHLDKaWY",
+          "title": "University of Manchester - Manchester Business School",
+          "subtitle": "Postgraduate Diploma, Enterprise Management",
+          "caption": "2008 - 2010",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Merit"
+            },
+            {
+              "type": "insightComponent",
+              "text": "An overview of practical topics in enterprise management. (New Product Innovation, Marketing, External Opportunities and Threats, Business Operations, Financial Planning and Monitoring, Human Resource Management, Effective Production, Improving Quality)"
+            }
+          ]
+        },
+        {
+          "companyId": "4477",
+          "companyUrn": "urn:li:fsd_company:4477",
+          "companyLink1": "https://www.linkedin.com/school/oxforduni/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1785369600&v=beta&t=YWZ_dcWkHXOGDiT8--gbh6rFHaRC3LwtP7-KaBVekrM",
+          "title": null,
+          "subtitle": "Master of Science (M.Sc.), Mathematical Modelling and Scientific Computing",
+          "caption": "2007 - 2008",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Courses in applied mathematics, linear algebra, C++ and MatLab. Dissertation on modeling the response of submarine sonar domes to acoustic waves."
+            }
+          ]
+        },
+        {
+          "companyId": "9126",
+          "companyUrn": "urn:li:fsd_company:9126",
+          "companyLink1": "https://www.linkedin.com/school/cardiff-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYHzdGEWWaYw/company-logo_400_400/company-logo_400_400/0/1739182157644/cardiff_university_logo?e=1785369600&v=beta&t=_KGYzxtUzSTry7EU16_1LbAzFGvvhpUmE0nZqGRrHeA",
+          "title": null,
+          "subtitle": "Bachelor of Science (B.Sc.), Physics",
+          "caption": "2004 - 2007",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "1st class"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/james-walmsley-8319a015b",
+  "row_key": "id:003Uk00000Pb82cIAB",
+  "person": "James Walmsley",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:16:49Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACZpSqUBTVtlf3V8bsXoa64VzGIuWeW8sVM",
+      "firstName": "James",
+      "lastName": "Walmsley",
+      "fullName": "James Walmsley",
+      "publicIdentifier": "james-walmsley-8319a015b",
+      "headline": "Lead Data Scientist at Medtronic Digital Surgery",
+      "about": "Master’s degree in Finance, Statistics and Pure Mathematics from the University of Birmingham. \nSkilled in a wide range of Machine Learning disciplines including Deep Learning, Time-series Forecasting, Extreme Gradient Boosting, Random Forests, Clustering and Natural Language Processing. Strong background in Python, R and data visualisation. ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater Coventry Area United Kingdom",
+      "addressWithoutCountry": "Greater Coventry Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQH7yeQs7gufGw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1521718573304?e=1785369600&v=beta&t=S30dnh-vkq4BdhYzQPdoShXVp5B1yp767V9eAG8-Z1U",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH7yeQs7gufGw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1521718573391?e=1785369600&v=beta&t=R8zUQsfsoamClRbS2LJNXy8OszMR77JhTCR1WAqLo3U"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH7yeQs7gufGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1521718573379?e=1785369600&v=beta&t=iHtuoZGjbzJjRQq3wzs7Mn_it62uAGeUgtXSSvBumek"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH7yeQs7gufGw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1521718573633?e=1785369600&v=beta&t=Qekxdl7YBJLMTk5zYO597TnGRnJBAEdagfl7fF2Tg1s"
+        },
+        {
+          "width": 600,
+          "height": 600,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQH7yeQs7gufGw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1521718573304?e=1785369600&v=beta&t=S30dnh-vkq4BdhYzQPdoShXVp5B1yp767V9eAG8-Z1U"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Lead Data Scientist",
+          "subtitle": "Medtronic Digital Surgery . Full-time",
+          "caption": "Jun 2022 - Present · 3 yrs 7 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9544",
+          "companyUrn": "urn:li:fsd_company:9544",
+          "companyLink1": "https://www.linkedin.com/company/severn-trent-water/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEOkF8QGjihfA/company-logo_400_400/company-logo_400_400/0/1712660605950/severn_trent_water_logo?e=1785369600&v=beta&t=Z2n7nZmBwdzjZ5CL2DNAQVtaUjWnKh6V_WTHGGoyPms",
+          "title": "Severn Trent",
+          "subtitle": "Full-time · 2 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Data Scientist",
+              "caption": "Oct 2021 - Jun 2022 · 8 mos",
+              "metadata": "Coventry, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Data Scientist",
+              "caption": "Dec 2019 - Oct 2021 · 1 yr 10 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "11477115",
+          "companyUrn": "urn:li:fsd_company:11477115",
+          "companyLink1": "https://www.linkedin.com/company/aieve/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGnI4QRweZBvg/company-logo_400_400/company-logo_400_400/0/1631319673492?e=1785369600&v=beta&t=afFUdivoatcHCQzYZI0zVwBhEKXEbR4iWu0mFaiHH-s",
+          "title": "Data Scientist",
+          "subtitle": "AIEVE . undefined",
+          "caption": "Mar 2018 - Nov 2019 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "379026",
+          "companyUrn": "urn:li:fsd_company:379026",
+          "companyLink1": "https://www.linkedin.com/company/first-utility/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH2cCxpk48rlg/company-logo_400_400/company-logo_400_400/0/1631350331661?e=1785369600&v=beta&t=JxsCqmcQY0THL7BhjEuNesashosW9bgRKYh2KEFSun0",
+          "title": "First Utility",
+          "subtitle": "undefined · 1 yr 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Junior Data Scientist",
+              "caption": "Jul 2017 - Mar 2018 · 8 mos",
+              "description": []
+            },
+            {
+              "title": "Assistant Finance Business Partner",
+              "caption": "Aug 2016 - Jul 2017 · 11 mos",
+              "metadata": "Coventry",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "15492",
+          "companyUrn": "urn:li:fsd_company:15492",
+          "companyLink1": "https://www.linkedin.com/school/coventry-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFpumhep48D1A/company-logo_400_400/company-logo_400_400/0/1688197183058/coventry_university_logo?e=1785369600&v=beta&t=BPtew1P4D6IBDrfHMRkd55BWHl91_ZVSwSkEfpWyCyE",
+          "title": "Finance Assistant/Assistant Accountant",
+          "subtitle": "Coventry University . undefined",
+          "caption": "Aug 2015 - Aug 2016 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Promoted 01/03/2016"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Neural Networks and Deep Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued Oct 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Visualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Big Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Basic for Applications (VBA)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Deep Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Natural Language Processing (NLP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166627",
+          "companyUrn": "urn:li:fsd_company:166627",
+          "companyLink1": "https://www.linkedin.com/school/university-of-birmingham/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF9oXdyp2pkzg/company-logo_400_400/company-logo_400_400/0/1704901473491/university_of_birmingham_logo?e=1785369600&v=beta&t=xgbyJKsd_bbp6CPfq5EXukmwpNHTrw3UphWI1Mvwhh0",
+          "title": "University of Birmingham",
+          "subtitle": "Master of Science - MS, Mathematics",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class with Honours"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

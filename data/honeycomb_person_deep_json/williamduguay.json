@@ -1,0 +1,576 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/williamduguay",
+  "row_key": "id:0033l00002wexKWAAY",
+  "person": "William Duguay",
+  "account": "Fitbod",
+  "fetched_at": "2026-07-14T10:34:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABqGhzcBHWFcv4jLp2PU-zrlnAcjLuf5q0M",
+      "firstName": "William",
+      "lastName": "Duguay",
+      "fullName": "William Duguay",
+      "publicIdentifier": "williamduguay",
+      "headline": "AI and Machine Learning at Fitbod",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Montreal, Quebec Canada",
+      "addressWithoutCountry": "Montreal, Quebec",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQECdj5oqrotVg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1696250654426?e=1785369600&v=beta&t=j0fSHO_AfzDyA1Y0gYhhi2fleqUTodQ3-hU6QDs1U7Y",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECdj5oqrotVg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1696250654426?e=1785369600&v=beta&t=IIga7_iiCGyKwxcugKtPs0JbXSdFP0Qo83ht-4nPqiY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECdj5oqrotVg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696250654426?e=1785369600&v=beta&t=sWSlsM6GeqQUveKZIG5vXVRVgpmeyxcavhOxfUTh9tk"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECdj5oqrotVg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1696250654426?e=1785369600&v=beta&t=slcOKp_Dvf5qqWp4q5FSECSAOGoPoptq8OZjViOBaf0"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQECdj5oqrotVg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1696250654426?e=1785369600&v=beta&t=j0fSHO_AfzDyA1Y0gYhhi2fleqUTodQ3-hU6QDs1U7Y"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "10213159",
+          "companyUrn": "urn:li:fsd_company:10213159",
+          "companyLink1": "https://www.linkedin.com/company/fitbod/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHN9oQ4Gv7qjQ/company-logo_400_400/company-logo_400_400/0/1640626041736/fitbod_llc_logo?e=1785369600&v=beta&t=YA00z866K5DQ9p2KvNJwxZZ5Z3z8vugIPlcEXiyTmko",
+          "title": "Senior Machine Learning Developer",
+          "subtitle": "Fitbod  . Permanent Full-time",
+          "caption": "Mar 2025 - Present · 10 mos",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "74923702",
+          "companyUrn": "urn:li:fsd_company:74923702",
+          "companyLink1": "https://www.linkedin.com/company/pod-workspace/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFk6TUkEvmpEg/company-logo_400_400/company-logo_400_400/0/1696536583934/pod_workspace_logo?e=1785369600&v=beta&t=ZM3TqEpl78_F8OO-wx7Mrokfd2Umy1H_P48IKI0fAxk",
+          "title": "Senior Machine Learning Developer",
+          "subtitle": "Pod . Permanent Full-time",
+          "caption": "Jun 2024 - Mar 2025 · 9 mos",
+          "metadata": "Montreal, Quebec, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Design LLM agents for chatbot. RAG.\n• Recommender systems."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11162717",
+          "companyUrn": "urn:li:fsd_company:11162717",
+          "companyLink1": "https://www.linkedin.com/company/ai-r/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHz2ElAQtMJLA/company-logo_400_400/company-logo_400_400/0/1630671488531/ai_r_logo?e=1785369600&v=beta&t=l9UETk1jryfzFxATCrpT04QBoE4sWh93D8M3h849_NU",
+          "title": "Machine Learning Developer and Tech Lead",
+          "subtitle": "AI Redefined (AIR) . Permanent Full-time",
+          "caption": "Jul 2022 - Jun 2024 · 1 yr 11 mos",
+          "metadata": "Montreal, Quebec, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Specialized in multi-agent reinforcement learning with human-in-the-loop (RLHF).\n• Tech Lead and creator of defense and aerospace simulation platform to train UAV swarms under different scenarios using RLHF methods.\n• Optimize ETL pipeline execution times for a deployed RLHF solution.\n• Maintainer of open source repository for RLHF environments.\n• Participated in efforts for various research publications on RLHF.\n• CI/CD pipelines, frontend features (React, Typescript, Babylonjs) for human interaction with simulations, setup MLOps pipelines (MLFlow, Sagemaker)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "33223",
+          "companyUrn": "urn:li:fsd_company:33223",
+          "companyLink1": "https://www.linkedin.com/company/coveo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHeIXrBdjsGOg/company-logo_400_400/company-logo_400_400/0/1715359145432/coveo_logo?e=1785369600&v=beta&t=zKAVSItrvS-Z6vxgRoK19wqAmKOs-hNiMoypGUUADh8",
+          "title": "Applied Machine Learning Scientist ",
+          "subtitle": "Coveo . Full-time",
+          "caption": "May 2020 - Jul 2022 · 2 yrs 2 mos",
+          "metadata": "Montreal, Quebec, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Recommender systems\n• Question answering"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11409753",
+          "companyUrn": "urn:li:fsd_company:11409753",
+          "companyLink1": "https://www.linkedin.com/school/mila-quebec/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEP8b2_w8o_gA/company-logo_400_400/company-logo_400_400/0/1684269698852/mila_quebec_logo?e=1785369600&v=beta&t=qZJjjMXMO73VGLMHDbQXK_UURSlNCY0xMhjzHu4Z_sc",
+          "title": "Master Student",
+          "subtitle": "Mila - Quebec Artificial Intelligence Institute . undefined",
+          "caption": "Jan 2019 - Dec 2020 · 1 yr 11 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "316525",
+          "companyUrn": "urn:li:fsd_company:316525",
+          "companyLink1": "https://www.linkedin.com/company/intact/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGa4yoMnJYW2Q/company-logo_200_200/B4EZjS4GnEHEAI-/0/1755884579607/intact_logo?e=1785369600&v=beta&t=6G10fzpMFdzt_-gFqk6zKZ5P5VFe1GKEgRFwJY4ARE0",
+          "title": "Data Scientist Intern",
+          "subtitle": "Intact . undefined",
+          "caption": "May 2019 - Aug 2019 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2041",
+          "companyUrn": "urn:li:fsd_company:2041",
+          "companyLink1": "https://www.linkedin.com/company/aon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYChX0uYtyYg/company-logo_100_100/B56Z9c9yagGQAM-/0/1783971129206/aon_logo?e=1785369600&v=beta&t=4iyP7M16QJMGCVhfyVUuTyuWu2Dn4BgufejyVIlyBco",
+          "title": "Actuarial Analyst",
+          "subtitle": "Aon Benfield . undefined",
+          "caption": "May 2018 - Nov 2018 · 6 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2041",
+          "companyUrn": "urn:li:fsd_company:2041",
+          "companyLink1": "https://www.linkedin.com/company/aon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYChX0uYtyYg/company-logo_100_100/B56Z9c9yagGQAM-/0/1783971129206/aon_logo?e=1785369600&v=beta&t=4iyP7M16QJMGCVhfyVUuTyuWu2Dn4BgufejyVIlyBco",
+          "title": "Actuarial Intern - Professional Liability",
+          "subtitle": "Aon Risk Solutions . undefined",
+          "caption": "Jan 2017 - Apr 2017 · 3 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2041",
+          "companyUrn": "urn:li:fsd_company:2041",
+          "companyLink1": "https://www.linkedin.com/company/aon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYChX0uYtyYg/company-logo_100_100/B56Z9c9yagGQAM-/0/1783971129206/aon_logo?e=1785369600&v=beta&t=4iyP7M16QJMGCVhfyVUuTyuWu2Dn4BgufejyVIlyBco",
+          "title": "Reinsurance Intern",
+          "subtitle": "Aon Benfield . undefined",
+          "caption": "May 2016 - Jul 2016 · 2 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "858533",
+          "companyUrn": "urn:li:fsd_company:858533",
+          "companyLink1": "https://www.linkedin.com/company/casualty-actuarial-society/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFXJrFNl4qKmA/company-logo_200_200/B4EZ3z6t8hHMAI-/0/1777913749818/casualty_actuarial_society_logo?e=1785369600&v=beta&t=vySESrUA3BZo_gNYtWFrdCN-vq8uhBqCrQSJ3SnhZak",
+          "title": "Exam 5",
+          "subtitle": "Casualty Actuarial Society",
+          "issued": "Issued May 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "858533",
+          "companyUrn": "urn:li:fsd_company:858533",
+          "companyLink1": "https://www.linkedin.com/company/casualty-actuarial-society/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFXJrFNl4qKmA/company-logo_200_200/B4EZ3z6t8hHMAI-/0/1777913749818/casualty_actuarial_society_logo?e=1785369600&v=beta&t=vySESrUA3BZo_gNYtWFrdCN-vq8uhBqCrQSJ3SnhZak",
+          "title": "CAS Online Course 1",
+          "subtitle": "Casualty Actuarial Society",
+          "issued": "Issued May 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "27203",
+          "companyUrn": "urn:li:fsd_company:27203",
+          "companyLink1": "https://www.linkedin.com/company/society-of-actuaries/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEwUsObDAr68w/company-logo_100_100/B56Z1EOQkkKsAU-/0/1774966082247/society_of_actuaries_logo?e=1785369600&v=beta&t=N97rWiEBUjTMxZfaFFy3pNobmJmfH8TfS31vdSd05Mo",
+          "title": "Exam C/4",
+          "subtitle": "Society of Actuaries",
+          "issued": "Issued Feb 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "858533",
+          "companyUrn": "urn:li:fsd_company:858533",
+          "companyLink1": "https://www.linkedin.com/company/casualty-actuarial-society/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFXJrFNl4qKmA/company-logo_200_200/B4EZ3z6t8hHMAI-/0/1777913749818/casualty_actuarial_society_logo?e=1785369600&v=beta&t=vySESrUA3BZo_gNYtWFrdCN-vq8uhBqCrQSJ3SnhZak",
+          "title": "Exam S",
+          "subtitle": "Casualty Actuarial Society",
+          "issued": "Issued Nov 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "27203",
+          "companyUrn": "urn:li:fsd_company:27203",
+          "companyLink1": "https://www.linkedin.com/company/society-of-actuaries/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEwUsObDAr68w/company-logo_100_100/B56Z1EOQkkKsAU-/0/1774966082247/society_of_actuaries_logo?e=1785369600&v=beta&t=N97rWiEBUjTMxZfaFFy3pNobmJmfH8TfS31vdSd05Mo",
+          "title": "MFE/3 - Models for Financial Economics",
+          "subtitle": "Society of Actuaries",
+          "issued": "Issued Jul 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "27203",
+          "companyUrn": "urn:li:fsd_company:27203",
+          "companyLink1": "https://www.linkedin.com/company/society-of-actuaries/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEwUsObDAr68w/company-logo_100_100/B56Z1EOQkkKsAU-/0/1774966082247/society_of_actuaries_logo?e=1785369600&v=beta&t=N97rWiEBUjTMxZfaFFy3pNobmJmfH8TfS31vdSd05Mo",
+          "title": "Exam P/1 - Probability",
+          "subtitle": "Society of Actuaries",
+          "issued": "Issued May 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "27203",
+          "companyUrn": "urn:li:fsd_company:27203",
+          "companyLink1": "https://www.linkedin.com/company/society-of-actuaries/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEwUsObDAr68w/company-logo_100_100/B56Z1EOQkkKsAU-/0/1774966082247/society_of_actuaries_logo?e=1785369600&v=beta&t=N97rWiEBUjTMxZfaFFy3pNobmJmfH8TfS31vdSd05Mo",
+          "title": "FM/2 - Financial Mathematics",
+          "subtitle": "Society of Actuaries",
+          "issued": "Issued Feb 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "2018 Munich Re Cup winning team",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Munich Re Cup is a Canada-wide actuarial business case competition open to SOA Centre of Excellence universities and is designed to provide students with an opportunity to develop and apply their analytical, presentation and problem solving skills to a real-world business problem."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Retrieval-Augmented Generation (RAG)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LangChain",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FastAPI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Large Language Models (LLM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RLHF",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MLOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Simulations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Golang",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gitlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166700",
+          "companyUrn": "urn:li:fsd_company:166700",
+          "companyLink1": "https://www.linkedin.com/school/universite-de-montreal/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHz5dHOI6B2bg/company-logo_400_400/company-logo_400_400/0/1630696195629/universite_de_montreal_logo?e=1785369600&v=beta&t=RmkYsbAnynis3P_KYTGbpheEs_FDgSG4T8jqulzZmYo",
+          "title": "Université de Montréal",
+          "subtitle": "Professional Master, Machine Learning",
+          "caption": "2019 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "• Part of the Montreal Institute for Learning Algorithms (MILA).\n• Participated on a research project predicting artist sales from social media content and engagement. Prof. Marcelo Nepomuceno (HEC)\n• 2019 National Bank Social Hackathon finalist.\n• Master's project on experimental methods in recommender systems for ecommerce applications."
+            }
+          ]
+        },
+        {
+          "companyId": "163191",
+          "companyUrn": "urn:li:fsd_company:163191",
+          "companyLink1": "https://www.linkedin.com/school/concordia-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEVRyb-pMvVgg/company-logo_200_200/B4EZoxqBdpIwAI-/0/1761769691383/concordia_university_logo?e=1785369600&v=beta&t=y1OwOOezKKiGpP-UUIJUbK1drkg2hz2WqoRojDtnHLk",
+          "title": "Concordia University",
+          "subtitle": "Bachelor’s Degree, Actuarial Mathematics, null",
+          "caption": "2015 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "• Artificial Intelligence Society of Concordia - VP Finance\n• 2018 Munich Re Cup Winning team (National actuarial case competition)\n• Member of Faculty of Arts and Science Dean's List\n• Completed 6 actuarial exams out of 10 from the Casualty Actuarial Society."
+            }
+          ]
+        },
+        {
+          "companyId": "5524",
+          "companyUrn": "urn:li:fsd_company:5524",
+          "companyLink1": "https://www.linkedin.com/school/national-university-of-singapore/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/company-logo_400_400/0/1631313842677?e=1785369600&v=beta&t=BLYq-iBHz_FqaaGXL4bZgxmu66S38NnLFgnox2PnoSI",
+          "title": "National University of Singapore",
+          "subtitle": "null, Mathematics and Statistics",
+          "caption": "2016 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Student exchange - fall 2016"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

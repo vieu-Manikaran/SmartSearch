@@ -1,0 +1,328 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/patrickdinger",
+  "row_key": "id:003Uk00000rMEYwIAO",
+  "person": "Patrick Dinger",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:37:08Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABbWAOUBTkwhv0dcptXIpOmpSq3RFMWM46U",
+      "firstName": "Patrick",
+      "lastName": "Dinger",
+      "fullName": "Patrick Dinger",
+      "publicIdentifier": "patrickdinger",
+      "headline": "Cooking some new AI driven developer workflows",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "DE",
+        "language": "de"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQE1heHNEJtJUw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517496171405?e=1785369600&v=beta&t=W_xIFnkrwrgxOmcYJ7XnDDprN_jGWFqdHkVUGASNvOk",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQE1heHNEJtJUw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517496169019?e=1785369600&v=beta&t=7Vz3nWb7HpUuvZxpxghbh1eXiLDPds1vanzFMvgHsts"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQE1heHNEJtJUw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517496171405?e=1785369600&v=beta&t=W_xIFnkrwrgxOmcYJ7XnDDprN_jGWFqdHkVUGASNvOk"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "111845019",
+          "companyUrn": "urn:li:fsd_company:111845019",
+          "companyLink1": "https://www.linkedin.com/company/entireio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG3TYtfL6EQnA/company-logo_200_200/B56ZxEh405HoAI-/0/1770676260471/entireio_logo?e=1785369600&v=beta&t=TtFpavpfHdUcYjkyg5UwzSiWCmFxDNxagQV4KeLLEv4",
+          "title": "Staff Software Engineer",
+          "subtitle": "Entire . Full-time",
+          "caption": "Feb 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Freelancer",
+          "subtitle": "skyLab . undefined",
+          "caption": "Apr 2009 - Present · 16 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software development for the Mac and the web\n\nCreator of Episodes for macOS\nhttp://the-skylab.de/episodes/"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1418841",
+          "companyUrn": "urn:li:fsd_company:1418841",
+          "companyLink1": "https://www.linkedin.com/company/github/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGxQRyEwD643g/company-logo_200_200/B56Z3045ErGgAI-/0/1777930048179/github_logo?e=1785369600&v=beta&t=kQKCcJHJeMUXWX7sxU6ieuARVCiI6xgxiu7REOeLl_E",
+          "title": "Senior Software Engineer",
+          "subtitle": "GitHub . Full-time",
+          "caption": "Jul 2020 - Feb 2026 · 5 yrs 7 mos",
+          "metadata": "Seattle, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Enabling awesome developers to do even more awesome stuff!"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft",
+          "subtitle": "Full-time · 5 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Mar 2020 - Jul 2020 · 4 mos",
+              "metadata": "Seattle, Washington, United States",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jan 2015 - Jul 2020 · 5 yrs 6 mos",
+              "metadata": "Redmond, WA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Crafting beautiful web interfaces in Typescript and React\nand designing large scale NodeJS backend services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "HockeyApp / BitStadium GmbH . undefined",
+          "caption": "Jul 2014 - Dec 2014 · 5 mos",
+          "metadata": "Stuttgart",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working on HockeyApp; \nback- and front-end using Ruby on Rails."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1212253",
+          "companyUrn": "urn:li:fsd_company:1212253",
+          "companyLink1": "https://www.linkedin.com/company/gittower/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHFYSsgD-otNA/company-logo_400_400/company-logo_400_400/0/1715101292728/gittower_logo?e=1785369600&v=beta&t=hWyWgpWL3gdCy9OL60M4puaDokLTGrsgA-jaa-ITyog",
+          "title": "Software Engineer",
+          "subtitle": "fournova Software GmbH . undefined",
+          "caption": "Sep 2012 - Mar 2013 · 6 mos",
+          "metadata": "Stuttgart",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Objective-C / Cocoa Development for Tower2 (most used macOS GIT client)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1115",
+          "companyUrn": "urn:li:fsd_company:1115",
+          "companyLink1": "https://www.linkedin.com/company/sap/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_400_400/company-logo_400_400/0/1723034255614/sap_logo?e=1785369600&v=beta&t=1psUiMuM9tDkSvOzoCX4mmiazJ-jnYRfmOJi7Pqq3pM",
+          "title": "Intern",
+          "subtitle": "SAP . undefined",
+          "caption": "Mar 2010 - Aug 2010 · 5 mos",
+          "metadata": "Walldorf",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2777008",
+          "companyUrn": "urn:li:fsd_company:2777008",
+          "companyLink1": "https://www.linkedin.com/company/all-for-one-cx-gmbh/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE9JQDsUBXvuw/company-logo_400_400/company-logo_400_400/0/1720007365902/all_for_one_cx_gmbh_logo?e=1785369600&v=beta&t=sBNCOEhxuH9YI6jzSSeYMvU_4pXkGN-NuuL5YzMnVGI",
+          "title": "Ausbildung Fachinformatiker Anwendungsentwicklung",
+          "subtitle": "POET AG . undefined",
+          "caption": "Sep 2004 - Mar 2007 · 2 yrs 6 mos",
+          "metadata": "Karlsruhe",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Cocoa",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mac OS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WordPress",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "crashreporting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "7148280",
+          "companyUrn": "urn:li:fsd_company:7148280",
+          "companyLink1": "https://www.linkedin.com/school/hochschule-der-medien-stuttgart/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH-Vd7vYj1aVw/company-logo_400_400/company-logo_400_400/0/1631341127128?e=1785369600&v=beta&t=O41dGRfblSK5CGz0e_EmEhlE7R3jQ6zA4i4BMfCnkJc",
+          "title": "Fachhochschule Stuttgart - Hochschule der Medien",
+          "subtitle": "Master of Science (M.Sc.), Computer Science and Media",
+          "caption": "2012 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "1,4"
+            }
+          ]
+        },
+        {
+          "companyId": "7148280",
+          "companyUrn": "urn:li:fsd_company:7148280",
+          "companyLink1": "https://www.linkedin.com/school/hochschule-der-medien-stuttgart/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH-Vd7vYj1aVw/company-logo_400_400/company-logo_400_400/0/1631341127128?e=1785369600&v=beta&t=O41dGRfblSK5CGz0e_EmEhlE7R3jQ6zA4i4BMfCnkJc",
+          "title": "Fachhochschule Stuttgart - Hochschule der Medien",
+          "subtitle": "Bachelor of Science (B.Sc.), Medieninformatik",
+          "caption": "2009 - 2012",
+          "subComponents": []
+        },
+        {
+          "title": "POET AG",
+          "subtitle": "Fachinformatiker Anwendungsentwicklung, null",
+          "caption": "2004 - 2007",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

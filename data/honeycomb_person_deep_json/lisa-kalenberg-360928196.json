@@ -1,0 +1,388 @@
+{
+  "linkedin_url": "https://de.linkedin.com/in/lisa-kalenberg-360928196",
+  "row_key": "id:003Uk00000oVumrIAC",
+  "person": "Lisa Kalenberg",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:51Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAC4OJfgBb0f0mJYHbsZhBXcJB3HEbrYAOFI",
+      "firstName": "Lisa",
+      "lastName": "Kalenberg",
+      "fullName": "Lisa Kalenberg",
+      "publicIdentifier": "lisa-kalenberg-360928196",
+      "headline": "Principal Implementation Specialist @Medtronic @Digital Technologies I MedTech & Digital Healthcare",
+      "about": "Enthusiastic about digital technologies, with special focus on e-health. Experienced in start-up and corporate environment. Skills in project management, customer success, medical and technical know-how.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "DE",
+        "language": "de"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Germany",
+      "addressWithCountry": "Essen, North Rhine-Westphalia Germany",
+      "addressWithoutCountry": "Essen, North Rhine-Westphalia",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHI1UC5A8474w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1614368790420?e=1785369600&v=beta&t=6vlvMx0NLy8Ljf5nNmn9StgqNkL8jvW_vPmrhiv9EdQ",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQFgi2b-g_aTwA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1654195487515?e=1785369600&v=beta&t=95ESJhn-gfa6Yzvn1eT_lE26ieeW5yI8yveQtGXrqI8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHI1UC5A8474w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1614368790420?e=1785369600&v=beta&t=zaWQyCyJwct7AamRakfEZHLwT6HH5-X9HL3znMwis4U"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHI1UC5A8474w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1614368790420?e=1785369600&v=beta&t=_cPahlgwe6DR35iZF6IFEeGDdzvf7VSJZ1KCp9HQvcM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHI1UC5A8474w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1614368790420?e=1785369600&v=beta&t=TsFFSrnGD5aMz94yrLR88jHCT5rWVzMIfvzcZ2lxHz0"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHI1UC5A8474w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1614368790420?e=1785369600&v=beta&t=6vlvMx0NLy8Ljf5nNmn9StgqNkL8jvW_vPmrhiv9EdQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQFgi2b-g_aTwA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1654195487515?e=1785369600&v=beta&t=S6cB4etw5pIHD40WThVH2irmvgJvZeAd_rejJgVWJAM"
+        },
+        {
+          "width": 1280,
+          "height": 320,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQFgi2b-g_aTwA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1654195487515?e=1785369600&v=beta&t=95ESJhn-gfa6Yzvn1eT_lE26ieeW5yI8yveQtGXrqI8"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 4 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Implementation Specialist DACH",
+              "caption": "Jul 2024 - Present · 1 yr 6 mos",
+              "metadata": "Essen, Nordrhein-Westfalen, Deutschland",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "» Managing Touch Surgery Ecosystem projects (surgical cloud-based video and analytics software) in hospitals (Europe-wide), including technical implementation of hardware and software in the OR\n\n» Collaborate and coordinate activities with clinical and administrative stakeholders throughout the project lifecycle (including surgeons, theatre nursing, IT, data protection officers, medical engineering)\n\n» Collaborate with internal product and development teams to ensure customer-focused product advancement\n\n» Represent Digital Technologies - Medtronic at trade shows, commercial events and on customer sites"
+                }
+              ]
+            },
+            {
+              "title": "Senior Implementation Specialist DACH & Italy",
+              "caption": "Sep 2021 - Jul 2024 · 2 yrs 10 mos",
+              "metadata": "Essen, Nordrhein-Westfalen, Deutschland",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1207",
+          "companyUrn": "urn:li:fsd_company:1207",
+          "companyLink1": "https://www.linkedin.com/company/johnson-&-johnson/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuqNYNGYIxzg/company-logo_400_400/company-logo_400_400/0/1694701608948/johnson__johnson_logo?e=1785369600&v=beta&t=UdjCRls_JP_Nzz4N3IrHQj-gDeGnlXwIBOtyD1VMIZI",
+          "title": "Johnson & Johnson",
+          "subtitle": "undefined · 3 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead of Surgical Workflow Development",
+              "caption": "Mar 2020 - Aug 2021 · 1 yr 5 mos",
+              "metadata": "Leipzig, Sachsen, Deutschland",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "» Lead the surgical workflow development team of four professionals\n\n» Develop an enterprise-wide framework for digital medical content (e.g., develop workflow templates tailored to specific client objectives)\n\n» Consult with internal and external stakeholders and joint development of digital medical content\n\n» Lead internal strategic projects across franchises within Johnson and Johnson (e.g., a project to create a KPI analysis framework to improve the sales approach)\n\n» Participation in the continuous development of the product portfolio with a focus on customer-oriented feature development"
+                }
+              ]
+            },
+            {
+              "title": "Medical Workflow Consultant",
+              "caption": "Apr 2018 - Mar 2020 · 1 yr 11 mos",
+              "metadata": "Leipzig und Umgebung, Deutschland",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Surgical Process Institute Deutschland GmbH"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "14403219",
+          "companyUrn": "urn:li:fsd_company:14403219",
+          "companyLink1": "https://www.linkedin.com/company/smart-au-pairs-australia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEn8i5eP_Vl3g/company-logo_200_200/B4EZzCoSJGGUAM-/0/1772791866302/smart_au_pairs_australia_logo?e=1785369600&v=beta&t=eUPsBMYln7Bh5Ts8-atkEurFKJT1eVhw-3iqb457_7k",
+          "title": "Au Pair",
+          "subtitle": "Smart Au Pairs | Educational Exchange . undefined",
+          "caption": "Aug 2017 - Feb 2018 · 6 mos",
+          "metadata": "Perth und Umgebung, Australien",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Examinierte Gesundheits- und Krankenpflegerin",
+          "subtitle": "Pegasus Pflege und Hausservice GmbH & Co. KG . Part-time",
+          "caption": "Apr 2017 - Aug 2017 · 4 mos",
+          "metadata": "Leipzig und Umgebung, Deutschland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3850545",
+          "companyUrn": "urn:li:fsd_company:3850545",
+          "companyLink1": "https://www.linkedin.com/company/herzzentrum-leipzig-gmbh/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHP96Nd0N4_Fw/company-logo_400_400/company-logo_400_400/0/1630574213569/herzzentrum_leipzig_gmbh_logo?e=1785369600&v=beta&t=NjqTzirbAbRYEuGgPG5iN6PJnLGzFp8MaFs_UAyVvwI",
+          "title": "Examinierte Kinderkrankenpflegerin Intensivstation",
+          "subtitle": "Herzzentrum Leipzig GmbH . Part-time",
+          "caption": "Oct 2016 - Jan 2017 · 3 mos",
+          "metadata": "Leipzig und Umgebung, Deutschland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Intermediate Care Station (IC)"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Pflegeassistentin",
+          "subtitle": "Haus Am Heiligenweg Betreuungs- und Pflegezentrum . Part-time",
+          "caption": "Oct 2012 - Aug 2013 · 10 mos",
+          "metadata": "Goch, Nordrhein-Westfalen, Deutschland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Psychiatrischer Wohnbereich"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2491343",
+          "companyUrn": "urn:li:fsd_company:2491343",
+          "companyLink1": "https://www.linkedin.com/company/intercom/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHxzX8mZOqVzg/company-logo_400_400/company-logo_400_400/0/1648059752074/intercom_logo?e=1785369600&v=beta&t=xQWzJCSk7zCSMR1mmwxPNeS_Qk730XiDcXYEZvUzHdo",
+          "title": "Delivering a world-class customer support experience",
+          "subtitle": "Intercom",
+          "issued": "Issued Apr 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2525169",
+          "companyUrn": "urn:li:fsd_company:2525169",
+          "companyLink1": "https://www.linkedin.com/company/mondaydotcom/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEIcDQUF_dKuQ/company-logo_100_100/B4EZuY8eu0GoAQ-/0/1767797550455/mondaydotcom_logo?e=1785369600&v=beta&t=BiQcV7XkRtWpKVrDlSDumqgftL9rtl9w_L21PRoBcYg",
+          "title": "monday.com Product Badge",
+          "subtitle": "monday.com",
+          "issued": "Issued Jun 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Deutsch",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Englisch",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Cloud-Anwendungen",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer-Relationship-Management (CRM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gesundheitsmanagement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digitale Strategie",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digitale Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kunden-Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tech Start-Up",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Projektmanagement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medtech",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "eHealth",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "74085",
+          "companyUrn": "urn:li:fsd_company:74085",
+          "companyLink1": "https://www.linkedin.com/school/fernunihagen/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFGq4She2LlYQ/company-logo_100_100/B4EZq1QN8kKUAU-/0/1763977519333/fernunihagen_logo?e=1785369600&v=beta&t=_Fqgqvnytl_S2s8QwWqgM4eDxIo3slmdTiN2I-4-P-M",
+          "title": "FernUniversität in Hagen",
+          "subtitle": "Master of Arts - MA, Digital Transformation",
+          "caption": "Oct 2023 - Nov 2026",
+          "subComponents": []
+        },
+        {
+          "companyId": "15093997",
+          "companyUrn": "urn:li:fsd_company:15093997",
+          "companyLink1": "https://www.linkedin.com/school/fom-hochschule-f%C3%BCr-oekonomie-&-management/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG83D_mOt4sAA/company-logo_400_400/company-logo_400_400/0/1668154311309/fom_hochschule_fr_oekonomie__management_logo?e=1785369600&v=beta&t=yleWHDKZpqDA3-BY0f3HJ2l1Y6bTmXSd-RzOuAdm94M",
+          "title": "FOM Hochschule für Oekonomie & Management",
+          "subtitle": "Bachelor of Arts - BA, Gesundheits- und Sozialmanagement",
+          "caption": "2016 - 2020",
+          "subComponents": []
+        },
+        {
+          "title": "Katholische Karl-Leisner-Trägergesellschaft mbH",
+          "subtitle": "examinierte Gesundheits- und Kinderkrankenpflegerin, Pädiatrische Krankenpflege/-schwester, -pfleger",
+          "caption": "2013 - 2016",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

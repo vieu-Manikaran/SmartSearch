@@ -1,0 +1,443 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/damon-jamora-86b2a83",
+  "row_key": "id:003Uk00000w9kS5IAI",
+  "person": "Damon Jamora",
+  "account": "Lytx",
+  "fetched_at": "2026-07-14T10:21:34Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAACTrNMBbyMQXl1t5PRbBpqPkUFwdMdZnwQ",
+      "firstName": "Damon",
+      "lastName": "Jamora",
+      "fullName": "Damon Jamora",
+      "publicIdentifier": "damon-jamora-86b2a83",
+      "headline": "Sr. Manager DevOps",
+      "about": "Results-driven Information Technology Manager offering over 20+ years of progressive experience of broad-based management in Systems Design and Development, Implementation, and Support. Exhibits natural ability to build and lead highly effective IT teams across multiple technical disciplines.  Strategically and cost-effectively utilize technology in alignment with business requirements. Consistently improve delivery times and service levels while reducing costs.  Excel at strategic planning, high performance team-building, project management, and implementation of best practice methodologies and continuous improvement programs.\n\nAnalytical problem-solver consistently recognized for exceeding performance requirements with proven effectiveness in consensus building, partnering with senior business leaders and working collaboratively at all levels in identifying opportunities, developing new strategies, and implementing frameworks to meet challenging multi-line business needs.\n \nProvide technology vision and direction, evaluate and research technology, and validate technical architecture alternatives.  Furnish high level of service to clients in the delivery of technical architecture and service. Build key vendor relationships to enhance support, influence production direction and exploit functionality.\n\nSpecialties: Service Assurance Expert, Multi Datacenter Management, Budget Mgmt, Strategic/Tactical Planning, Continuious Process Improvement, Implementation Process Modeling, Team Performance Optimization, Organizational Leadership and Development, Leadership / Mentoring, Problem Management, CPI, SOX, PCI, DR, Vendor Management, Customer Relations, Production Controls, IDM, Infrastructure Architecture and Support, PM, Open System Admin Support, VMware, SAN Admin Support",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Diego County, California United States",
+      "addressWithoutCountry": "San Diego County, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHTcqBFUABzIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516298660763?e=1785369600&v=beta&t=dxoJl4jh27OsawG1WspTb7wfZHFCeMGLe7BnKU0pp0k",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHTcqBFUABzIA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516298661877?e=1785369600&v=beta&t=kJi08PA2E8g8DiM8Nmg-zlhtBG_dpmYLrbfOxHGK3sA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHTcqBFUABzIA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516298661241?e=1785369600&v=beta&t=4vpMK-sW-JVNy-DDNGkuS_UfoBOQJtkxBjXRdSu4wBA"
+        },
+        {
+          "width": 336,
+          "height": 336,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHTcqBFUABzIA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516298661688?e=1785369600&v=beta&t=U_9Ud1Gx5uPMOPUgyqt7a5y38PBs93QPW9o11VClsRE"
+        },
+        {
+          "width": 336,
+          "height": 336,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHTcqBFUABzIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516298660763?e=1785369600&v=beta&t=dxoJl4jh27OsawG1WspTb7wfZHFCeMGLe7BnKU0pp0k"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "42221",
+          "companyUrn": "urn:li:fsd_company:42221",
+          "companyLink1": "https://www.linkedin.com/company/dexcom/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE3mpvPlafs2Q/company-logo_400_400/company-logo_400_400/0/1675797236800/dexcom_logo?e=1785369600&v=beta&t=w7_F-iBAn32uEOQJUDDlV-DLodtD5wk3nc6XgNMLrxs",
+          "title": "Dexcom",
+          "subtitle": "Full-time · 5 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sr. Manager SRE",
+              "caption": "May 2023 - Present · 2 yrs 8 mos",
+              "metadata": "San Diego County, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for the development, execution and integration of new SRE team for Dexcom's data streaming service."
+                }
+              ]
+            },
+            {
+              "title": "Sr. Manager DevOps",
+              "caption": "Nov 2020 - May 2023 · 2 yrs 6 mos",
+              "metadata": "San Diego, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managing DevOps team for Dexcom's Continuous Glucose Monitoring product's cloud services responsible for maintaining and executing organizational policies and procedures for change management, configuration management, release and deployment management, service monitoring, support and problem management. Directly overseeing the implementation, deployment, and integration of solutions, taking responsibility for their successful delivery."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "14401",
+          "companyUrn": "urn:li:fsd_company:14401",
+          "companyLink1": "https://www.linkedin.com/school/gia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHI0ApCIMuv6A/company-logo_400_400/B56Zv7PCcPIYAc-/0/1769446582318/gia_logo?e=1785369600&v=beta&t=Agnf7FrBFCdxiI2SfuFyMvNcckaHynbzoRXsaMDWHLY",
+          "title": "Director IT Security Operations",
+          "subtitle": "GIA (Gemological Institute of America) . Full-time",
+          "caption": "Sep 2019 - Oct 2020 · 1 yr 1 mo",
+          "metadata": "Carlsbad, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "The GIA is the world’s foremost authority gemology and gemological education.  Operating in 14 cities across 12 countries we offer 7 educational campuses, 4 research centers and 11 laboratories grading most of the world’s gemstones.\n\nPromoted to Director of IT Security Operations due to continued commitment of continuous vulnerability management and expansion of secure practices.\n\nHired as the Global IT manager responsible for the operations covering the western hemisphere from the front office to DC operations to a worldwide network and telephony systems.  Our technology mix ranges from the obsolete to the latest cutting edge cloud services offered by Amazon, IBM and Microsoft."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "57993393",
+          "companyUrn": "urn:li:fsd_company:57993393",
+          "companyLink1": "https://www.linkedin.com/company/sony-interactive-entertainment-llc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJO00VqEb3Vg/company-logo_400_400/company-logo_400_400/0/1630540194089/sony_interactive_entertainment_llc_logo?e=1785369600&v=beta&t=Mv2uiorlGv_L1JgN0TTbV4cpFgrJR4jyVxtHPCLEzC4",
+          "title": "Sr. Manager Site Reliability Tools",
+          "subtitle": "PlayStation . undefined",
+          "caption": "Nov 2014 - Sep 2019 · 4 yrs 10 mos",
+          "metadata": "Greater San Diego Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead team that builds and operates global monitoring services for Play Station Network both on-prem and in AWS."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1666",
+          "companyUrn": "urn:li:fsd_company:1666",
+          "companyLink1": "https://www.linkedin.com/company/intuit/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_400_400/company-logo_400_400/0/1661446146222/intuit_logo?e=1785369600&v=beta&t=y493o31ubjS_z2XfMXaxYA-Hym-A8e6EClK1BlvGWNw",
+          "title": "Intuit",
+          "subtitle": "undefined · 3 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sr. Manager, Service Delivery",
+              "caption": "Oct 2011 - Nov 2014 · 3 yrs 1 mo",
+              "metadata": "Greater San Diego Area",
+              "description": []
+            },
+            {
+              "title": "Sr. Manager, Platform Operations",
+              "caption": "Apr 2011 - Oct 2011 · 6 mos",
+              "metadata": "Westlake Village, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for 4 functional areas in support of Compliant BU’s:\n- Platform Delivery (VM, RHEL, AIX, Windows)\n- Production Services Monitoring\n- Capacity Management\n- Foundations (Storage and Backup)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sr. Manager, Solutions",
+          "subtitle": "Intuit Financial Services . undefined",
+          "caption": "Jun 2010 - Jun 2011 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for implementing Enterprise Level Service Assurance Solution for Internet Banking products and building a Capacity Management/Planning team.  Recently appointed IFS's ITIL Practice Lead, charged with pulling together key management to work on incorporating ITIL practices into daily process."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "165545",
+          "companyUrn": "urn:li:fsd_company:165545",
+          "companyLink1": "https://www.linkedin.com/company/princess-cruises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE-UkLmi8yCug/company-logo_100_100/B4EZ83mxavJ0AM-/0/1783344338829/princess_cruises_logo?e=1785369600&v=beta&t=vCSPeYKcQvNe0eJiwmDzyww0ON5_7GPTh10gk3bqmq0",
+          "title": "Manager, Open Systems Support",
+          "subtitle": "Princess Cruises . undefined",
+          "caption": "Nov 2009 - Jun 2010 · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Manage Unix Administration Team, Data Protection Services, Infrastructure Application Services."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7657",
+          "companyUrn": "urn:li:fsd_company:7657",
+          "companyLink1": "https://www.linkedin.com/company/21st-century-insurance/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHdLJlD-obwVQ/company-logo_400_400/company-logo_400_400/0/1631325624974?e=1785369600&v=beta&t=5-nLwG7QCtKbPdxJTEJdibpOIZrf7T54LR0QXOOhODQ",
+          "title": "21st Century Insurance, Farmers",
+          "subtitle": "undefined · 2 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director Infrastructure Engineering",
+              "caption": "Jul 2009 - Oct 2009 · 3 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Over see operations for Unix, MS Systems, SAN, Identity Management, Middleware (WebSphere, MQ), Enterprise Monitoring, Problem Management, SDLC Appdev/Ops Integration and various merger activities."
+                }
+              ]
+            },
+            {
+              "title": "Director, Engineering",
+              "caption": "May 2007 - Jul 2009 · 2 yrs 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Over see operations for Unix, MS Systems, SAN, Identity Management, Middleware (WebSphere, MQ), Enterprise Monitoring, Problem Management, SDLC Appdev/Ops Integration and various merger activities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "7657",
+          "companyUrn": "urn:li:fsd_company:7657",
+          "companyLink1": "https://www.linkedin.com/company/21st-century-insurance/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHdLJlD-obwVQ/company-logo_400_400/company-logo_400_400/0/1631325624974?e=1785369600&v=beta&t=5-nLwG7QCtKbPdxJTEJdibpOIZrf7T54LR0QXOOhODQ",
+          "title": "Sr. Manager Midrange Systems",
+          "subtitle": "21st Century Insurance . undefined",
+          "caption": "Oct 2001 - 2007 · 5 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Over see operations for Unix, Identity Management, Middleware (WebSphere, MQ), Enterprise Monitoring, Problem Management and SDLC Appdev/Ops Integration."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure Project Manager",
+          "subtitle": "Health Net . undefined",
+          "caption": "1997 - 2000 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Manage departmental and enterprise level infastructure project ranging from front office technology updates to back end system/application integration projects."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-team Collaboration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Root Cause Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vendor Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDLC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ITIL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Warehousing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Disaster Recovery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sarbanes-Oxley Act",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SaaS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AIX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3050",
+          "companyUrn": "urn:li:fsd_company:3050",
+          "companyLink1": "https://www.linkedin.com/school/university-of-phoenix/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEj01yAkzgxPg/company-logo_200_200/B56Z5Q4AosIQAI-/0/1779473320769/university_of_phoenix_logo?e=1785369600&v=beta&t=CF8RbXgbWJ90b-IWoUR85YN1XpsT6JMmsQNT29HsAyU",
+          "title": "University of Phoenix",
+          "subtitle": "Bachelor's degree, Management Information Systems, General",
+          "caption": "2000 - 2006",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

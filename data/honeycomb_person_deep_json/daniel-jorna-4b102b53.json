@@ -1,0 +1,428 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/daniel-jorna-4b102b53",
+  "row_key": "id:0036O000040i1uFQAQ",
+  "person": "Daniel Jorna",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:23Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAs3XwUBBqDRipUzzSHQUGycVRhX55fmc4c",
+      "firstName": "Daniel",
+      "lastName": "Jorna",
+      "fullName": "Daniel Jorna",
+      "publicIdentifier": "daniel-jorna-4b102b53",
+      "headline": "Principal Project Manager at Medtronic Digital Surgery",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEGrYyBdb9GWQ/profile-displayphoto-scale_100_100/B4EZuAZsZ4J4Ac-/0/1767385779236?e=1785369600&v=beta&t=4oVRhzCt7apOlEcWR8YmREjNGm1U6TxiT8v7Qbirgxs",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEGrYyBdb9GWQ/profile-displayphoto-scale_200_200/B4EZuAZsZ4J4AY-/0/1767385779236?e=1785369600&v=beta&t=3FQI6jFoEhhswfN-8X44-ydyjed3azamF-owhZ3zHQQ"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEGrYyBdb9GWQ/profile-displayphoto-crop_800_800/B4EZuAZsZ4J4AI-/0/1767385779140?e=1785369600&v=beta&t=5-ZvDqlbGDY5iPVZFkqSQvch5VnfAA9fiT7K07-DzzM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEGrYyBdb9GWQ/profile-displayphoto-scale_400_400/B4EZuAZsZ4J4Ag-/0/1767385779236?e=1785369600&v=beta&t=UMEsiHp0UOgnjvVB2iHfn2Y6igPwBL6gPdL4Tw6crlI"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEGrYyBdb9GWQ/profile-displayphoto-scale_100_100/B4EZuAZsZ4J4Ac-/0/1767385779236?e=1785369600&v=beta&t=4oVRhzCt7apOlEcWR8YmREjNGm1U6TxiT8v7Qbirgxs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 3 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Project Manager",
+              "caption": "Jan 2026 - Present · ",
+              "description": []
+            },
+            {
+              "title": "Senior Project Manager",
+              "caption": "Jun 2022 - Present · 3 yrs 7 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4789",
+          "companyUrn": "urn:li:fsd_company:4789",
+          "companyLink1": "https://www.linkedin.com/company/smith-nephew/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF-fX7JjAw1KA/company-logo_100_100/B4EZ8iTyN4HkAI-/0/1782987039823/smith_nephew_logo?e=1785369600&v=beta&t=KCKfiP-xM-pqt29jNL8UjQbvij2d8oN7VoPKX5W1jW0",
+          "title": "Smith+Nephew",
+          "subtitle": "undefined · 5 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior NPI Engineer",
+              "caption": "Jun 2018 - Jun 2022 · 4 yrs",
+              "metadata": "Hull, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "AWD Sustain Engineer",
+              "caption": "Jun 2017 - Jun 2018 · 1 yr",
+              "metadata": "Hull, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Manager",
+          "subtitle": "Air Filtration Solutions . undefined",
+          "caption": "May 2014 - Jun 2017 · 3 yrs 1 mo",
+          "metadata": "Preston, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "148211",
+          "companyUrn": "urn:li:fsd_company:148211",
+          "companyLink1": "https://www.linkedin.com/company/risktec-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH-A1kCQ8xh1w/company-logo_400_400/company-logo_400_400/0/1666687019700/risktec_solutions_logo?e=1785369600&v=beta&t=rNWrQntkxnKAEm77VPtSWV32lteO205xmlZXq3ZB-g0",
+          "title": "Reliability Engineer",
+          "subtitle": "Risktec Solutions Ltd . undefined",
+          "caption": "Oct 2013 - May 2014 · 7 mos",
+          "metadata": "Heysham 1 Nuclear Power Station",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2601516",
+          "companyUrn": "urn:li:fsd_company:2601516",
+          "companyLink1": "https://www.linkedin.com/company/nationwide-filter-company-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGGTGJ4eRZoug/company-logo_400_400/company-logo_400_400/0/1631302090961?e=1785369600&v=beta&t=ZlPyXxI0DWHiMWcxs38jgsZUGxqK0t8Mu03AYdMb8Cs",
+          "title": "Production Engineer",
+          "subtitle": "Nationwide Filter Company Ltd . undefined",
+          "caption": "Jul 2011 - Oct 2013 · 2 yrs 3 mos",
+          "metadata": "Morecambe",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Process improvement, PLC programming, mechanical design, mathematical modelling, work instruction writing and root causing quality issues"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2446579",
+          "companyUrn": "urn:li:fsd_company:2446579",
+          "companyLink1": "https://www.linkedin.com/company/wall-street-institute-ecuador/",
+          "title": "English Teacher",
+          "subtitle": "Wall Street Institute Ecuador . undefined",
+          "caption": "Sep 2009 - Sep 2010 · 1 yr",
+          "metadata": "Cayambe, Ecuador",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Teaching general and business English"
+              }
+            }
+          ]
+        },
+        {
+          "title": "English Teacher",
+          "subtitle": "Wall Street Institute Germany . undefined",
+          "caption": "Jun 2007 - Mar 2009 · 1 yr 9 mos",
+          "metadata": "Munich Area, Germany",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Teaching general and business English"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "IEng IMechE",
+          "subtitle": "Issued by IMechE",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mechanical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electrical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solidworks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Risk Assessment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MathCAD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robot Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Press Brake",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nuclear Power Plants",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IEC 60601",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ISO 13485",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "6128",
+          "companyUrn": "urn:li:fsd_company:6128",
+          "companyLink1": "https://www.linkedin.com/school/theopenuniversity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFJhiQCelJaSA/company-logo_400_400/company-logo_400_400/0/1655713019750/theopenuniversity_logo?e=1785369600&v=beta&t=qBGnyVRL4tYiDy2I1z2eY-i6k1fwzDsMwCqi9-aJmxQ",
+          "title": "The Open University",
+          "subtitle": "Bachelor of Engineering (BEng), Engineering",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "2:1"
+            }
+          ]
+        },
+        {
+          "companyId": "166652",
+          "companyUrn": "urn:li:fsd_company:166652",
+          "companyLink1": "https://www.linkedin.com/school/university-of-manchester/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEYpS-SHXO1Mg/company-logo_400_400/company-logo_400_400/0/1631386008712?e=1785369600&v=beta&t=2wrCQkirJHw5EkDF8ATVS7sCMIjqqb5QK_hxTK_N7-g",
+          "title": "The University of Manchester",
+          "subtitle": "Bachelor of Arts (BA), Modern History and Politics",
+          "caption": "2004 - 2007",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "2:1"
+            }
+          ]
+        },
+        {
+          "title": "Hymers College",
+          "subtitle": "null, null",
+          "caption": "1993 - 2003",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

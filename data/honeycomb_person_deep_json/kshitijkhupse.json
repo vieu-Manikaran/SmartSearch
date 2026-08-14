@@ -1,0 +1,825 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/kshitijkhupse",
+  "row_key": "id:0033l00002wfoSUAAY",
+  "person": "Kshitij Khupse",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:53Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABwOdUBPaF3sFXAmdckQnPqwHP_WIeUDCI",
+      "firstName": "Kshitij",
+      "lastName": "Khupse",
+      "fullName": "Kshitij Khupse",
+      "publicIdentifier": "kshitijkhupse",
+      "headline": "Driving Quality Excellence: Expert Test Automation, TestOps, CI, Python, Pytest, Contract Testing, and other Modern Testing Frameworks",
+      "about": "Experienced Principal Test Engineer with over 20+ years in the software testing industry, specializing in test automation, test ops, and continuous integration. Proficient in Python, Pytest, contract testing, and advanced testing frameworks for both server-side and mobile applications. Led comprehensive testing strategies for cloud-based and client-server applications, implementing robust automation frameworks and streamlining API testing processes. Expertise in consumer-driven contract testing, performance testing, and creating data-driven dashboards for real-time testing visibility. Passionate about driving quality excellence and building scalable test solutions in Agile environments.\n\nI am a ISTQB Foundation Tester, ISTQB Foundation - Agile Tester, ISTQB Advanced level - Agile Technical Tester, ISTQB Advanced level - Test Manager and ISTQB Advanced level - Automation Tester, Professional Scrum Master –1 and ITIL foundation level certified.  \n\nAreas of Expertise: \n \n* Scrum Framework \n* Quality Assurance \n* Software Development Life Cycle (SDLC) \n* Software Testing Life Cycle (STLC) \n* Test Governance \n* Test Strategy \n* Test Estimation \n* Test Planning \n* Test Preparation \n* Test Execution \n* Automation Testing (UI, Mobile/Tablet, Devices, BE & API) \n* Test Closure Reports \n* RTM (Requirement Traceability Matrices) \n* Defect Management \n* Test Tools customisation \n* Systems Integration Testing \n* System Testing \n* End to End Testing \n* Regression Testing \n* UAT Testing \n* Database Testing \n* Business Intelligence \n* ETL Testing \n* Annuities \n* ISA",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater Reading Area United Kingdom",
+      "addressWithoutCountry": "Greater Reading Area",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQFMXxRITC0fgg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1623356555886?e=1785369600&v=beta&t=UYtpF1_iBTbY1IrbpGYD_kwkGVeOS5B7eIbBfEI-rSQ",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFMXxRITC0fgg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1623356555886?e=1785369600&v=beta&t=VWvReZHGDWjHyepd6KAenOB2fvBQBHFJ4YwJNWD5hxM"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQFMXxRITC0fgg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1623356555886?e=1785369600&v=beta&t=UYtpF1_iBTbY1IrbpGYD_kwkGVeOS5B7eIbBfEI-rSQ"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Test Engineer",
+              "caption": "Jan 2023 - Present · 3 yrs",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "🚀 Principal Test Engineer | Principal Test Ops Engineer  | Test Lead\n\n•\tTest Automation Leadership: Led automation for Digital Surgery (DS1) and Livestream products, building Python/Pytest frameworks for server testing and Kotlin-based Espresso and Jetpack Compose frameworks for Android UI, ensuring high-quality delivery.\n•\tContract & API Testing: Improved inter-service reliability with consumer-driven contract testing using Pact Flow and Bitbucket. Streamlined API testing with Postman collections integrated into Bitbucket pipelines, boosting CI/CD efficiency.\n•\tTest Metrics & Reporting: Spearheaded the Test Metrics Nexus project, consolidating data from Jira, Xray, and test frameworks into a central SQL database. Built Grafana dashboards with Docker for real-time insights.\n•\tPerformance & Data Testing: Enhanced performance testing with Locust and conducted knowledge-sharing sessions. Automated test data creation via API calls, covering realistic and edge cases, improving efficiency.\n•\tComprehensive Testing: Led end-to-end testing for DS1 Server (custom Linux OS) and Controller (Android), including release testing for multiple versions. Delivered thorough test plans covering acceptance, system, integration, and regression.\n•\tAgile Collaboration: Worked with cross-functional teams in Agile ceremonies, mitigating quality risks. Contributed to \"3 Amigos\" sessions to refine Epics and User Stories.\n•\tBDD & Exploratory Testing: Created BDD scenarios with Product Managers and Developers, conducted exploratory testing, and managed execution with Xray-Jira.\n•\tDebugging & Issue Resolution: Used SSH, Android logs, and database queries for debugging. Collaborated with developers on defect resolution and built test metrics dashboards.\n•\tTesting & Quality Coaching: Mentored teams on best practices, supported POCs, and drove continuous quality improvements."
+                }
+              ]
+            },
+            {
+              "title": "Senior Test Engineer",
+              "caption": "Feb 2022 - Jan 2023 · 11 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "🚀 Senior Test Engineer | Test Lead\n•\tComprehensive Testing: Led testing for Digital Surgery's DS1 Server (custom Linux OS) and Controller (Android), including release testing for versions. Executed test plans covering acceptance, system, integration, end-to-end, and regression testing.\n•\tTest Automation: Developed Python/Pytest frameworks for server testing and Kotlin-based Espresso and Jetpack Compose frameworks for Android UI, ensuring high-quality software delivery.\n•\tAPI Testing & Automation: Improved API testing efficiency using Postman for test suite management and Python for advanced automation, boosting coverage and issue resolution.\n•\tAgile Collaboration: Participated in Agile ceremonies, collaborating with cross-functional teams to identify and mitigate quality risks during releases and iterations.\n•\tBDD & Exploratory Testing: Worked with Product Managers and Developers to create BDD scenarios with clear acceptance criteria. Conducted exploratory testing throughout sprints and releases.\n•\tDefect Resolution: Debugged issues using SSH, Android logs, and database queries. Collaborated with developers for efficient defect resolution.\n•\tTest Execution & Reporting: Utilized Xray-Jira for test execution and Honeycomb analytics to enhance test scenarios. Created and maintained test metrics dashboards using Confluence and Miro.\n•\tCoaching & POCs: Served as a Quality Coach, mentoring team members and contributing to proof-of-concept initiatives to drive continuous improvements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "8270",
+          "companyUrn": "urn:li:fsd_company:8270",
+          "companyLink1": "https://www.linkedin.com/company/lloyd%27s-register/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHChIJ37UACDQ/company-logo_200_200/B4EZ8eGMPLJYAE-/0/1782916367703/lloyds_register_logo?e=1785369600&v=beta&t=dVxocjNeEMqn2h80gxc3wE9HNHdvjhLbct4jEBClM-k",
+          "title": "Test Lead, Digital and Change Services",
+          "subtitle": "Lloyd's Register . Full-time",
+          "caption": "Aug 2015 - Feb 2022 · 6 yrs 6 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "🚀 Test Lead\n\n•\tComprehensive Testing Strategies: Developed and executed testing strategies for cloud-based and client-server applications, including digital certificate integration. Applied both manual and automated testing across Waterfall and Agile environments in multi-vendor setups.\n•\tTest Governance & Frameworks: Designed and implemented test strategies, governance frameworks, and company-wide templates. Provided oversight as part of the Test Management Authority team, ensuring consistent quality standards.\n•\tAutomation & API Testing: Built and maintained robust test automation suites using Robot Framework, Selenium WebDriver, and UFT. Developed end-to-end API testing flows for RESTful services, integrating Azure Service Bus and Blob Storage for seamless reliability.\n•\tTesting Infrastructure & Execution: Established a scalable testing infrastructure using Azure Cloud and Azure DevTest Labs, implementing continuous testing pipelines. Managed large-scale test executions with 10+ testers and 30+ UAT participants, while providing training and triage support.\n•\tDefect Management & Reporting: Led defect triage processes using Azure DevOps, HP ALM, and JIRA, collaborating with developers for efficient issue resolution. Created detailed test reports and management dashboards with Power BI for real-time insights.\n•\tCoaching & Collaboration: Served as a Testing & Quality Coach, guiding teams on best practices, writing acceptance criteria, and supporting Agile ceremonies, including sprint planning, daily scrums, and retrospectives.\n•\tSpecialized Testing & Coordination: Collaborated with external teams for specialized testing activities, such as security and penetration testing. Ensured quality standards were met across all testing phases through effective coordination with project and third-party teams."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4897",
+          "companyUrn": "urn:li:fsd_company:4897",
+          "companyLink1": "https://www.linkedin.com/company/zensar/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFls229vaDjDg/company-logo_400_400/company-logo_400_400/0/1657181507521/zensar_logo?e=1785369600&v=beta&t=M_Qd4Kc3YJtiJ3Kl6QMLpTAyapPijC11xk-c9se-ivQ",
+          "title": "Senior Test Engineer",
+          "subtitle": "Zensar Technologies . undefined",
+          "caption": "Sep 2010 - Aug 2015 · 4 yrs 11 mos",
+          "metadata": "Reading, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsibilities:\n•Performed functional testing of applications both Web based and non-web based technologies, BI testing and End Customer Outputs.\n•Worked on migration projects of like Sun Migration, Windows 7 Upgrade, Printing Technology Migration and Migration of Vendor and Technology for Outputs printing. \n•Worked on BI Projects and ETL process testing.\n•Worked on both Waterfall and Agile projects \n•Understanding Business Requirements, Functional Specifications, Detail Design documents and ETL Process\n•Prepared Test Plan, Test Estimates, Test Approach, Test Matrix Conditions and Test Data Preparation.\n•Performed System Testing, E2E Testing and UAT Testing.\n•Involved in different stages of ETL/Data warehouse Testing on Extract Files, Staging, EDW and DataMart’s\n•Performed Mapping, Attribute, Re-conciliation, Constraint, Duplicate checks on Staging, EDW and DataMart’s\n•Used XMLSPY to create, amend and verify the structure of the XML and test XML Messages for Customer Outputs via Thunderhead\n•Used in house built tools to push XML to simulate testing between different systems.\n•Identified low & high level test cases using FRS, BRS, Executed Test Cases using Quality Center/ALM.\n•Performed environment setup for System Testing, E2E Testing and UAT Testing\n•Prepared End-to-End Test suites and executing test scripts, logged defects, linked requirements and Defects with the Test Cases and analysed Test Coverage using HP Quality Centre.\n•Raising, Tracking and Analysing Defects using Quality Center ALM including QC Admin tasks. \n•Involved in defect root cause analysis with development teams.\n•Managing Defects both internal and 3rd party defects and preparing daily defect report for E2E test phase.\n•Management of UAT Support and running UAT testing for different projects.\n•Test Co-ordination for different projects and Creating Reports and presentation for Management.\n•Authored Test Completion Reports for the modules owned and participated in lessons learned sessions"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1850",
+          "companyUrn": "urn:li:fsd_company:1850",
+          "companyLink1": "https://www.linkedin.com/company/prudentialuk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH_1nvNtbRTKw/company-logo_400_400/company-logo_400_400/0/1663664263056/prudentialuk_logo?e=1785369600&v=beta&t=4dxjKfINuF5ffDcPTO7kuLbEcG2dvJYk2JXWOpTcCww",
+          "title": "Senior Test Engineer",
+          "subtitle": "Prudential Assurance . undefined",
+          "caption": "Sep 2010 - Aug 2015 · 4 yrs 11 mos",
+          "metadata": "Reading, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked for Client Prudential through company Zensar Technologies"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3067",
+          "companyUrn": "urn:li:fsd_company:3067",
+          "companyLink1": "https://www.linkedin.com/company/tech-mahindra/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMdgkjmsLgLw/company-logo_100_100/B56ZoVGk2tHIAQ-/0/1761290641122/tech_mahindra_logo?e=1785369600&v=beta&t=D3f_miaPUqfOyUXn9KZoXsTIeiXktRb54pXEaFm-ZFg",
+          "title": "Associate Solution Designer",
+          "subtitle": "TechMahindra Ltd . undefined",
+          "caption": "Mar 2010 - Sep 2010 · 6 mos",
+          "metadata": "Pune Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tWas responsible for delivery of designs for London Olympics 2012 and EMEA Projects (3 Months) and R7 & R9 Collocation Planning for design activities and Execution.\n•\tResponsible for leading calls & discussion with various teams for London Olympics 2012 and EMEA Projects.\n•\tResponsible for CA/CFT reports, Collocation Plan Report, LLD Status Report, Issues-Risks (Blockers) Reports.\n•\tResponsible for resolving CA/CFT issues by coordinating with various teams and also presenting inputs during delivery forum calls that involved various stakeholders for process improvement."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1182",
+          "companyUrn": "urn:li:fsd_company:1182",
+          "companyLink1": "https://www.linkedin.com/company/bt/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEABgoerVJL3A/company-logo_100_100/B4EZ6maplTJkAI-/0/1780908464739/bt_logo?e=1785369600&v=beta&t=vIc8gFrtyAxNpfUrgPIocy3PWLBw_ppwS8jD1cibrlY",
+          "title": "BT",
+          "subtitle": "undefined · 5 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Tester and Defects Integrator",
+              "caption": "May 2005 - Sep 2010 · 5 yrs 4 mos",
+              "metadata": "Pune and Watford,UK",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked for Client BT through company Infosys and Tech Mahindra"
+                }
+              ]
+            },
+            {
+              "title": "Integrator",
+              "caption": "Jul 2007 - Jul 2008 · 1 yr",
+              "metadata": "Watford, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tLeading calls, discussion with various teams and customers \n•\tResponsibilities also include getting the RCA from Various component teams, designers.\n•\tCovered 5 big releases to date. Each release has 3-4 warranty drops\n•\tInvolved in defect tracking, defect management and resolution\n•\tInteraction and co-ordination between various component teams to resolve the defects\n•\tSupport for Live Deployment, Business Acceptance Testing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1283",
+          "companyUrn": "urn:li:fsd_company:1283",
+          "companyLink1": "https://www.linkedin.com/company/infosys/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=1785369600&v=beta&t=wXRFwA1J0ChIKomgw78pxANBndJFiDxiGowP-7KcIos",
+          "title": "Infosys Technologies Ltd",
+          "subtitle": "undefined · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technology Analyst",
+              "caption": "Oct 2009 - Mar 2010 · 5 mos",
+              "metadata": "Pune Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a Tester :\n\n•\tResponsible for coordinating with various developments, testing and end users spread across the globe.\n•\tResponsible for executing test cases, tracking and raising defects.\n•\tResponsible for Business Acceptance Testing.\n\nAs a Escalation Manager :\n\n•\tCreating reports, leading calls, discussion with various teams and customers.\n•\tLead & Back-Up Manager of Team.\n•\tPreparing and Presenting Management Reports on Weekly/Monthly basis to the BT Line Manager.\n•\tHandling customer escalations by coordinating with various teams and also presenting inputs during delivery forum calls that involved various stakeholders for process improvement.\n•\tInvolved in Bridge tracking, Bridge ticket management and resolution."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "May 2005 - Sep 2009 · 4 yrs 4 mos",
+              "metadata": "Pune Area, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a Tester :\n\n• Responsible for coordinating with various developments, testing and end users spread across the globe.\n• Responsible for executing test cases, tracking and raising defects.\n• Responsible for Business Acceptance Testing."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Introduction to Model Context Protocol",
+          "subtitle": "Anthropic",
+          "issued": "Issued Mar 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Advanced Learning Algorithms",
+          "subtitle": "DeepLearning.AI",
+          "issued": "Issued Feb 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subtitle": "DeepLearning.AI",
+          "issued": "Issued Feb 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+          "subtitle": "DeepLearning.AI",
+          "issued": "Issued Feb 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Global DRM - Green Belt Software Certification ",
+          "subtitle": "Medtronic Digital Technologies",
+          "issued": "Issued Jan 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Supervised Machine Learning: Regression and Classification ",
+          "subtitle": "DeepLearning.AI",
+          "issued": "Issued Jan 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5223688",
+          "companyUrn": "urn:li:fsd_company:5223688",
+          "companyLink1": "https://www.linkedin.com/company/ukitestingboard/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGLfMPU7ob0xA/company-logo_400_400/company-logo_400_400/0/1630586193440/uk_testing_board_logo?e=1785369600&v=beta&t=cCLZNOXURmYHbL_XjSAeblj01OKxBisI3K8lgdXjJwY",
+          "title": "UK & Ireland Testing Board logo ISTQB Certified Advanced Level - Technical Test Analyst",
+          "subtitle": "UK & Ireland Testing Board",
+          "issued": "Issued Jul 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Agile at Work: Planning with Agile User Stories",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Oct 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "DevOps Foundations",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Oct 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5223688",
+          "companyUrn": "urn:li:fsd_company:5223688",
+          "companyLink1": "https://www.linkedin.com/company/ukitestingboard/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGLfMPU7ob0xA/company-logo_400_400/company-logo_400_400/0/1630586193440/uk_testing_board_logo?e=1785369600&v=beta&t=cCLZNOXURmYHbL_XjSAeblj01OKxBisI3K8lgdXjJwY",
+          "title": "ISTQB Certified Advanced Level - Agile Technical Tester",
+          "subtitle": "UK & Ireland Testing Board",
+          "issued": "Issued Oct 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Cypress V6- UI Automation Testing + API Testing + Frameworks",
+          "subtitle": "Udemy",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5223688",
+          "companyUrn": "urn:li:fsd_company:5223688",
+          "companyLink1": "https://www.linkedin.com/company/ukitestingboard/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGLfMPU7ob0xA/company-logo_400_400/company-logo_400_400/0/1630586193440/uk_testing_board_logo?e=1785369600&v=beta&t=cCLZNOXURmYHbL_XjSAeblj01OKxBisI3K8lgdXjJwY",
+          "title": "ISTQB Certified Tester Foundation Level - Agile Tester",
+          "subtitle": "UK & Ireland Testing Board",
+          "issued": "Issued May 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Learning Python",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Agile Testing",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1153894",
+          "companyUrn": "urn:li:fsd_company:1153894",
+          "companyLink1": "https://www.linkedin.com/company/scrum-org/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFzF6WZjNSHkQ/company-logo_400_400/company-logo_400_400/0/1631433558836?e=1785369600&v=beta&t=dHPCYwHmdLBdS_mR4voeGYuTnTO-4BcTHjXe9TQgH3g",
+          "title": "Professional Scrum Master 1",
+          "subtitle": "Scrum.org",
+          "issued": "Issued Oct 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1153894",
+          "companyUrn": "urn:li:fsd_company:1153894",
+          "companyLink1": "https://www.linkedin.com/company/scrum-org/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFzF6WZjNSHkQ/company-logo_400_400/company-logo_400_400/0/1631433558836?e=1785369600&v=beta&t=dHPCYwHmdLBdS_mR4voeGYuTnTO-4BcTHjXe9TQgH3g",
+          "title": "Professional Scrum Master™ I (PSM I)",
+          "subtitle": "Scrum.org",
+          "issued": "Issued Oct 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5223688",
+          "companyUrn": "urn:li:fsd_company:5223688",
+          "companyLink1": "https://www.linkedin.com/company/ukitestingboard/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGLfMPU7ob0xA/company-logo_400_400/company-logo_400_400/0/1630586193440/uk_testing_board_logo?e=1785369600&v=beta&t=cCLZNOXURmYHbL_XjSAeblj01OKxBisI3K8lgdXjJwY",
+          "title": "ISTQB Certified Advanced Level - Test Automation Engineering ",
+          "subtitle": "UK & Ireland Testing Board",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "203926",
+          "companyUrn": "urn:li:fsd_company:203926",
+          "companyLink1": "https://www.linkedin.com/company/bcs_2/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHHAxScMOjzDw/company-logo_400_400/company-logo_400_400/0/1631341433386?e=1785369600&v=beta&t=ZqT6zTRvb7eUcn1r-3frtMFShTJQxeCkMXWO86bh1aA",
+          "title": "ITIL Foundation Certificate in IT Service Managment",
+          "subtitle": "BCS",
+          "issued": "Issued Apr 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5223688",
+          "companyUrn": "urn:li:fsd_company:5223688",
+          "companyLink1": "https://www.linkedin.com/company/ukitestingboard/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGLfMPU7ob0xA/company-logo_400_400/company-logo_400_400/0/1630586193440/uk_testing_board_logo?e=1785369600&v=beta&t=cCLZNOXURmYHbL_XjSAeblj01OKxBisI3K8lgdXjJwY",
+          "title": "ISTQB Certified Advanced Level - Test Manager",
+          "subtitle": "UK & Ireland Testing Board",
+          "issued": "Issued Apr 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "357877",
+          "companyUrn": "urn:li:fsd_company:357877",
+          "companyLink1": "https://www.linkedin.com/company/istqb/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG7zZ1EpfH22A/company-logo_400_400/company-logo_400_400/0/1630628473590/istqb_logo?e=1785369600&v=beta&t=KhoTpaGbyTRoiLy0fgKNATwQwmrHwJrPVp-nKuU4nZs",
+          "title": "ISQTB Certified Tester Foundation Level",
+          "subtitle": "ISTQB - International Software Testing Qualifications Board",
+          "issued": "Issued Nov 2009",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marathi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Power of Us - Customer Focus",
+          "subtitle": "Issued by Lloyds Register",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spotlight Award",
+          "subtitle": "Issued by Lloyds Register",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Power of Us - Customer Focus",
+          "subtitle": "Issued by Lloyds Register",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PERFORMER OF THE MONTH for Functional testing",
+          "subtitle": "Issued by Prudential",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "STAR PERFORMANCE AWARD for E2E testing service",
+          "subtitle": "Issued by Infosys Technologies Ltd",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "STAR PERFORMANCE AWARD for “Innovation”.",
+          "subtitle": "Issued by Infosys Technologies Ltd",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "VOX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Use Conditions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Interfaces",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Comprehensive Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design for Maintainability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Robust Design ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System optimization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Deployment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Six Sigma Green Belt",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System optimization ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Robust Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Deployment Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps Foundations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15095136",
+          "companyUrn": "urn:li:fsd_company:15095136",
+          "companyLink1": "https://www.linkedin.com/school/symbiosis-international-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGYXzWn4mmtmQ/company-logo_400_400/company-logo_400_400/0/1631358223044?e=1785369600&v=beta&t=cM95cBNazpe4f78UUBKNQUDIokjV_Capc-ZfXgwZRDc",
+          "title": null,
+          "subtitle": "Masters, Information Technology",
+          "caption": "2006 - 2008",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class with Distinction "
+            },
+            {
+              "type": "insightComponent",
+              "text": "Studied Masters in Information Technology"
+            }
+          ]
+        },
+        {
+          "companyId": "15094398",
+          "companyUrn": "urn:li:fsd_company:15094398",
+          "companyLink1": "https://www.linkedin.com/school/university-of-pune/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEFsIyAZyuMwA/company-logo_400_400/company-logo_400_400/0/1631345386058?e=1785369600&v=beta&t=gAIzcv3iKjJGSssNgzHcvlzvp96TdjZolNCAoJeSeNo",
+          "title": "University of Pune",
+          "subtitle": "Bachelors, Computer Science",
+          "caption": "2002 - 2005",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class with Distinction "
+            },
+            {
+              "type": "insightComponent",
+              "text": "Studied Bachelors in Computer Science"
+            }
+          ]
+        },
+        {
+          "title": "Nowrosjee Wadia College",
+          "subtitle": "H.S.C, Computer Science",
+          "caption": "2000 - 2002",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Studied Bachelors of Computer Science "
+            }
+          ]
+        },
+        {
+          "title": "J. N. Petit Technical High School",
+          "subtitle": "S.S.C, Played inter school cricket",
+          "caption": "1988 - 2000",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

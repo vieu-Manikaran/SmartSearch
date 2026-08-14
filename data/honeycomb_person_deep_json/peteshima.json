@@ -1,0 +1,412 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/peteshima",
+  "row_key": "id:0033l000032zhooAAA",
+  "person": "Pete Shima",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:45:53Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAry5IBk-lsctdI9qfhhB-PnbgaoOP5I_U",
+      "firstName": "Pete",
+      "lastName": "Shima",
+      "fullName": "Pete Shima",
+      "publicIdentifier": "peteshima",
+      "headline": "Founder Blinking Lights Technologies - Ex Epic Games, Amazon/AWS, Take2/Rockstar Games",
+      "about": "Engineering leader with over 15 years of experience building and scaling high-impact infrastructure and reliability organizations at Epic Games, AWS, and HashiCorp. Proven expertise in leading global teams, launching mission-critical systems, and managing $100M+ in infrastructure spend. Passionate about sociotechnical systems, service ownership, and engineering excellence. Adept at navigating complex orgs, mentoring leaders, and aligning operations with evolving product needs.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEDoib9na_3GQ/profile-displayphoto-crop_800_800/B56ZwAlM2NHAAI-/0/1769536278203?e=1785369600&v=beta&t=CdaWVOsItxa2g2mUObTVEUSqWKoR6D2LbwD9xcqYTqM",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEDoib9na_3GQ/profile-displayphoto-scale_400_400/B56ZwAlM2NHAAg-/0/1769536278285?e=1785369600&v=beta&t=C3F4xY7vYQBEDrI8T2lUps3E02wacP1suWCDlKoSWfY"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEDoib9na_3GQ/profile-displayphoto-scale_100_100/B56ZwAlM2NHAAc-/0/1769536278285?e=1785369600&v=beta&t=wGUhdzEx4cgFICvfwRfz6UF6BUGdD4AXahmrF6fbBu8"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEDoib9na_3GQ/profile-displayphoto-scale_200_200/B56ZwAlM2NHAAY-/0/1769536278285?e=1785369600&v=beta&t=8l8mapFodNyDZ_vOKyyTiXdgdOXA3zHzGbwbuGUkOa8"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEDoib9na_3GQ/profile-displayphoto-crop_800_800/B56ZwAlM2NHAAI-/0/1769536278203?e=1785369600&v=beta&t=CdaWVOsItxa2g2mUObTVEUSqWKoR6D2LbwD9xcqYTqM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "113335177",
+          "companyUrn": "urn:li:fsd_company:113335177",
+          "companyLink1": "https://www.linkedin.com/company/blinking-lights-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiBzRRucXnSw/company-logo_100_100/B56Z1AwLhkK0AU-/0/1774907865418?e=1785369600&v=beta&t=Q_yg0FNVst_rNoUBWwsB0G5Hmwv6Ac3v5VCJHC8m5SE",
+          "title": "Founder",
+          "subtitle": "Blinking Lights Technologies . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 8 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director, Fortnite Online",
+              "caption": "Sep 2023 - Mar 2025 · 1 yr 6 mos",
+              "metadata": "Greater Seattle Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Built a new online organization from the ground up to own and operate the core backend services behind Fortnite, reporting directly to Fortnite leadership.\n\nCollaborated closely with senior leaders, executives, producers, and engineers across Epic to align service delivery with evolving product needs.\n\nOversaw teams responsible for a broad ecosystem of systems—including client-side online features, Online Subsystem support for Unreal Engine, web-based item shop integrations, asset pipelines, and backend services powering Fortnite, Rocket League, and Fall Guys.\n\nMentored and developed a high-performing group of leads and directors, driving consistent growth and strong performance management.\n\nDefined and communicated the team’s vision, mission, and strategic direction in alignment with company-wide goals.\n\nNavigated a dynamic, fast-paced environment by prioritizing shifting demands from multiple business units across Epic."
+                }
+              ]
+            },
+            {
+              "title": "Engineering Director",
+              "caption": "May 2019 - Sep 2023 · 4 yrs 4 mos",
+              "metadata": "Greater Seattle Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Founded Epic’s Reliability organization from scratch, bringing together Engineering, Program & Product Management, and Risk Analysis into a unified team.\n\nPartnered across teams to deliver resilient, secure services through structured programs, risk reviews, and hands-on collaboration with developers.\n\nModernized Epic’s incident analysis program, applying data-driven techniques to drive learning and improvement across the entire engineering org.\n\nPiloted innovative risk management tools like Risk Radar to surface emerging technical and operational vulnerabilities.\n\nLed deep-dive technical and risk assessments for major product launches, presenting findings and strategic recommendations to senior leadership.\n\nDesigned and implemented scoring systems to prioritize incidents based on user impact and operational urgency, enabling smarter response strategies.\n\nOrchestrated global-scale Fortnite events—such as Travis Scott's Astronomical and Ariana Grande’s Rift Tour—ensuring reliability for millions of concurrent users.\n\nSupported high-stakes releases across the Epic Games Store and Epic Online Services, delivering critical infrastructure and reliability guidance.\n\nDeveloped Epic’s standard Service Readiness Program, now used across product and platform teams to assess and ensure launch preparedness.\n\nChampioned transparency through detailed public postmortems of outages, including the widely-read breakdown of the April 2021 certificate failure.\n\nPlayed a hands-on role in managing and resolving high-impact, business-critical incidents at scale.\n\nBuilt thriving internal engineering communities and launched a company-wide podcast with over 250 regular subscribers.\n\nRecruited top-tier talent and led performance management and career development for a growing technical organization.\n\nAdvocated for engineering excellence and served as a trusted advisor to teams across Epic on architecture, quality, and service ownership."
+                }
+              ]
+            },
+            {
+              "title": "Lead Systems Engineer",
+              "caption": "Sep 2016 - May 2019 · 2 yrs 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Led a 40+ person global infrastructure team across five verticals (producers, developers, infra engineers). Built and mentored a 24/7 follow-the-sun contracting team to supplement FTEs. Known for exceptional hiring velocity—grew headcount faster than any other org at Epic.\n\nEstablished a DBA team managing some of the largest MongoDB clusters on AWS. Scaled backend systems from 0 to 10M+ concurrent users during Fortnite's global growth. Drove operational excellence across dev teams and led planning/roadmapping in a fast-paced environment.\n\nLaunched status.epicgames.com, revamped postmortem processes, and published several major public postmortems. Piloted the move to Kubernetes and ran the company’s embedded SRE program. Owned vendor contracts from POC to rollout, managing $100M+ in infra spend.\n\nLed high-impact incident response, modernized legacy systems, and improved metrics and provisioning platforms. Delivered a Vault-based secrets management system and migrated all configuration secrets. Introduced service discovery and config management with HashiCorp Consul.\n\nDelivered PCI-compliant infrastructure in under 90 days. Migrated Epic’s cloud from a single-account/single-VPC to a multi-account, cross-connected AWS architecture."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2830763",
+          "companyUrn": "urn:li:fsd_company:2830763",
+          "companyLink1": "https://www.linkedin.com/company/hashicorp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFBoGhgrPpY9g/company-logo_200_200/B56ZVHpOInHsAI-/0/1740663743267/hashicorp_logo?e=1785369600&v=beta&t=qp5rkjHKsmXtgxTxgxDuU2Nrs9wIkRrKM9VYh3iyxpo",
+          "title": "Site Reliability Engineer",
+          "subtitle": "HashiCorp . undefined",
+          "caption": "Oct 2015 - Aug 2016 · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "HashiCorp builds tools to power the modern datacenter. HashiCorp's most popular tools are Vagrant (run local virtual machines easily), Packer (build images for distribution) and Terraform (infrastructure as code) which are developer tools used to create and manage infrastructure. HashiCorp also has several runtime tools such as Consul (service discovery and key value store), Vault (secrets management), and Nomad (cluster/container scheduler). I am currently the team lead on the site reliability team at HashiCorp which is responsible for the reliability of the Atlas (software as a service product) and Private Atlas installations.\n\n- Created and built the on-call program spanning multiple development teams with escalation workflows and critical alarming with runbooks.\n\n- Designed and implemented a post mortem process to reduce repeat issues and help with company operational growth.\n\n- Manage and own the infrastructure as code through Terraform across multiple environments.\n\n- Migrated Atlas, the SaaS product, from instances to Nomad, a cluster scheduler for running containerized processes.\n\n- Built, designed, and implemented a process to run the SaaS product on customer premises.\n\n- Work directly on-site with large customers to setup Private Installations.\n\n- Push for operational excellence across all the tools and platform.\n\n- Built staging stacks used for pre-production testing that can be created from scratch in minutes.\n\n- Implemented centralized logging for all production services.\n\n- Built canary systems to help detect and measure faults or unexpected issues.\n\n- Create and manage a roadmap for the reliability team."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Manager, Systems (ELB)",
+          "subtitle": "Amazon Web Services . undefined",
+          "caption": "Aug 2014 - Oct 2015 · 1 yr 2 mos",
+          "metadata": "Seattle",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "In October 2015 I transferred from the Amazon S3 team to the Amazon ELB team as a Systems Engineering manager. I developed and grew a team of System and Support engineers to solve the problems of a massive scale service used in majority of AWS architectures. I met directly with customers and wrote and delivered multiple externally facing post mortems for large scale events. Managed the capacity for the service at scale and created a roadmap and charter to define the team as it grew.\n\n- Manage a team of 4-12 engineers including managing performance.\n\n- Managed capacity for systems measured in hundreds of thousands across 400+ dimensions.\n\n- Piloted and created a customer experience team to engage with customers directly.\n\n- Worked virtually and on-site with multi-million dollar and fortune 500 companies.\n\n- Hiring and recruiting for multiple positions including roles requiring security clearance.\n\n- Piloted a Systems Engineering AWS wide community program.\n\n- Mentored and developed staff inside and outside of direct organization.\n\n- Developed a charter and roadmap for the team creating an identity for Systems Engineering."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Amazon Web Services",
+          "subtitle": "undefined · 1 yr 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Manager, Systems (S3 Operations)",
+              "caption": "Nov 2013 - 2014 · 2 mos",
+              "metadata": "Seattle",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I was a Systems Engineering manager for the team running the S3 indexing and metadata service. The indexing and metadata service is responsible for handling hundreds of thousands of requests per second across a large distributed system. Built and grew a new team of Systems Engineers/Ops/SRE to handle fleet management, administration, scaling, and capacity of the S3 indexing services as well as develop and adopt new programs to improve reliability and performance.\n\n- Manage a team of 3-6 including managing performance.\n\n- Lead and piloted a change management board approving 800+ production changes.\n\n- Managed a project of 10+ engineers to deploy a mission critical time sensitive update across every running production host and service with no outages.\n\n- Developing a team charter and goals.\n\n-Hiring and recruiting.\n\n- Fleet management.\n\n- Capacity management."
+                }
+              ]
+            },
+            {
+              "title": "Systems Engineer (Amazon S3 Operations Team)",
+              "caption": "May 2012 - Nov 2013 · 1 yr 6 mos",
+              "metadata": "Seattle",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a member of the S3 Ops team, we keep S3 running from the front end to the back end.\n\n- Automation.\n- Working at large scale.\n- Solving deep technical problems.\n- Measurement and alarming."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Operations Engineer",
+          "subtitle": "King of the Web . undefined",
+          "caption": "Jul 2011 - May 2012 · 10 mos",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My role at King of the Web is to ensure our architecture is online, secure, and scaled to our needs. Being a viral video site and showing multi million real-time vote counts present interesting challenges. \n\nMajor Goals:\n\nMigration off of Engine Yard PAAS on to private hybrid cloud. Migration completed 5 months after start date.\n\nUse Chef as a configuration management tool to setup end to end infrastructure, ongoing documentation and management.\n\nAuto scale production web site to meet viral video traffic spikes which typically increase site traffic by 500%+ in minutes.\n\nProvide a stable environment that can be handled by a single staff member and limited on-call. High focus on visibility and KISS (keep it simple stupid).\n\nDevelop and see from start to finish projects that span multiple departments.\n\nBe an enabler, not a barrier, for development and business ops. Build tools and write maintainable code to automate whatever possible and keep dev happy.\n\nRelease management and zero downtime deploys to production.\n\nIntegration with multiple APIs and development of tools that create solutions to business challenges."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6684",
+          "companyUrn": "urn:li:fsd_company:6684",
+          "companyLink1": "https://www.linkedin.com/company/rockstar-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGBAhxCc6Og5Q/company-logo_400_400/company-logo_400_400/0/1630456992601/rockstar_games_logo?e=1785369600&v=beta&t=HjGuxfqGIPhjDrVnRE7yoG-MawzwfJabZqTtUawsfT0",
+          "title": "Rockstar Games",
+          "subtitle": "undefined · 7 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "IT Consultant",
+              "caption": "Apr 2011 - Jun 2011 · 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a remote employee in Seattle, Washington my focus is to provide expert advice and resource across the Rockstar Games development process. Using my diverse skillset and newly available technology I help to keep Rockstar on the bleeding edge of modern day development tools. \n\nMajor Goals:\n\nWork with technology directors and executive staff to keep development needs at the forefront of IT focus.\n\nReview existing workflows for data movement and provide recommendations along with end to end completion of agreed solutions.\n\nInvestigate business development ideas and provide advice on 3rd party software including business case scenarios and potential return on investments.\n\nProvide documented architecture design complete with proof of concept or alpha implementations of desired feature sets or tools."
+                }
+              ]
+            },
+            {
+              "title": "Infrastructure Manager",
+              "caption": "Jun 2004 - Apr 2011 · 6 yrs 10 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Take-Two Interactive Software Europe\nInfrastructure Manager (Label Technology), London\n\nIn our centrally located London office I was responsible for designing and implementing solutions with a goal to improve speed of the game development process through technology. Being the sole member of this department I utilized my in-depth experience within the company to identify and implement solutions to help developers. \n\nMajor Accomplishments:\n\nDesigned and implemented a cross studio global file transfer platform with Aspera technology across 20 different studios and many game titles.\n\nDesigned, developed and implemented a custom web portal to securely manage deployment of game builds and common development and publishing functions including SDK upgrades.\n\nDeveloped back end systems for a global video sharing solution integrated into an existing large scale development toolset.\n\nWorked with development staff including producers, programmers, artists, studio heads and more along with internal/external IT teams to define needed tools for the future."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Start-up Ventures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Ownership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iPhone",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mac OS X",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Subversion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OS X",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

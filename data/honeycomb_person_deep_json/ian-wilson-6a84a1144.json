@@ -1,0 +1,333 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ian-wilson-6a84a1144",
+  "row_key": "id:003Uk00000yS0QjIAK",
+  "person": "Ian Wilson",
+  "account": "Fitbod",
+  "fetched_at": "2026-07-14T10:35:02Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACL0pKABI5zz_bFxnsFkNiB05vkFKj2q33U",
+      "firstName": "Ian",
+      "lastName": "Wilson",
+      "fullName": "Ian Wilson",
+      "publicIdentifier": "ian-wilson-6a84a1144",
+      "headline": "Senior Data & Software Engineer at Fitbod",
+      "about": "Data engineer with a passion for making use of real world data, learning, outdoors and sports.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQF-ckhAkRFN1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1599203453294?e=1785369600&v=beta&t=CBiXG_jDh0YrciIxJwnmugRGqJSAnF0z0hxmOEBOQpw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF-ckhAkRFN1g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1599203453294?e=1785369600&v=beta&t=RReKV3Brl_S7JGle6l3qaax8XISYurgDKXaPR9bkh7s"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF-ckhAkRFN1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1599203453294?e=1785369600&v=beta&t=ycb8ogV4NvOdrifr4VmYFx24qBG4UbzqJB3xM8c6aLc"
+        },
+        {
+          "width": 393,
+          "height": 393,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF-ckhAkRFN1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1599203453294?e=1785369600&v=beta&t=SVlfJ9nZfHhX2BWZG-FooPOsRQTUU4EMHpfjfaX3uso"
+        },
+        {
+          "width": 393,
+          "height": 393,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF-ckhAkRFN1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1599203453294?e=1785369600&v=beta&t=CBiXG_jDh0YrciIxJwnmugRGqJSAnF0z0hxmOEBOQpw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "10213159",
+          "companyUrn": "urn:li:fsd_company:10213159",
+          "companyLink1": "https://www.linkedin.com/company/fitbod/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHN9oQ4Gv7qjQ/company-logo_400_400/company-logo_400_400/0/1640626041736/fitbod_llc_logo?e=1785369600&v=beta&t=YA00z866K5DQ9p2KvNJwxZZ5Z3z8vugIPlcEXiyTmko",
+          "title": "Fitbod ",
+          "subtitle": "Full-time · 7 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jul 2024 - Present · 1 yr 6 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Billing and subscription service lead, core squad backend engineer.\n- Workout statistics service\n- Apple, Stripe, Google subscription integrations"
+                }
+              ]
+            },
+            {
+              "title": "Senior Data Engineer",
+              "caption": "Jan 2022 - Present · 4 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Build out and maintain company data warehouse.   2 billion+ datapoints handled daily"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jan 2022 - Jun 2024 · 2 yrs 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I work on the Go team and primarily contribute to our billing/subscription service.  Our service handles subscription access, customer purchases, promo codes and more.  A few contributions include\n- Building admin endpoints for propriety suite of customer success tools\n- Building improved handling of incoming webhook events"
+                }
+              ]
+            },
+            {
+              "title": "Data Engineer",
+              "caption": "Jun 2020 - Jan 2022 · 1 yr 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I build and maintain Fitbod's data warehouse (Google BigQuery), automate models for our data science team and allow teams to easily analyze and fetch data.\nA few contributions...\n- Move all  jobs to Airflow to allow for easy task orchestration and management\n- Sync production service data to BigQuery for engineering analysis and health checks\n- Pub/Sub streaming of AB testing data to BigQuery\n- Efficient data cleaning using dependent query DAG\n- Fetch latest marketing spend information from advertising platforms\n- Automation of models using Airflow to manage Dataproc"
+                }
+              ]
+            },
+            {
+              "title": "Data Analyst",
+              "caption": "Dec 2018 - Jun 2020 · 1 yr 6 mos",
+              "metadata": "San Francisco, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Automated company business analytics, created customer data reports, AB testing analysis, marketing spend optimization and more.\nProjects\n- Create customer Year in Review reports\n- Build company BI dashboards\n- AB Testing design and analysis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Junior Rail and Data Analyst",
+          "subtitle": "Berkeley Simulation Software . undefined",
+          "caption": "Apr 2017 - Dec 2018 · 1 yr 8 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Research and Analyst Assistant ",
+          "subtitle": "Extensible Energy . undefined",
+          "caption": "Jun 2016 - Sep 2016 · 3 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stripe (Software)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Airflow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Streaming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Extract, Transform, Load (ETL)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Airflow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google BigQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pandas (Software)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2841",
+          "companyUrn": "urn:li:fsd_company:2841",
+          "companyLink1": "https://www.linkedin.com/school/ucsc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHmYTRjksZf6w/company-logo_200_200/B56Z5CzyxBHwAE-/0/1779237335003/ucsc_logo?e=1785369600&v=beta&t=MUWZLhvkx2FHMA_-aiW3GWkAvLvUwgTTHLJ6fJqTCxU",
+          "title": "University of California, Santa Cruz",
+          "subtitle": "Economics, null",
+          "caption": "2015 - 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "2584",
+          "companyUrn": "urn:li:fsd_company:2584",
+          "companyLink1": "https://www.linkedin.com/school/university-of-washington/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEYQ5hvFAZ8gQ/company-logo_100_100/B56Z6Q4H2JKMAI-/0/1780547092074?e=1785369600&v=beta&t=G4jao4VWBJPSjflbqz9J5B_KUgYTjiUzm8BUhVaPbzo",
+          "title": "University of Washington",
+          "subtitle": "null, null",
+          "caption": "2012 - 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

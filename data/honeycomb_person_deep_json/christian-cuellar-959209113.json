@@ -1,0 +1,289 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/christian-cuellar-959209113",
+  "row_key": "id:003Uk00000yfT8LIAU",
+  "person": "Christian Cuellar",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:04Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABxUShUB4jShegTjwE2aN1mqpjo59Q0Cp2o",
+      "firstName": "Christian",
+      "lastName": "Cuellar",
+      "fullName": "Christian Cuellar",
+      "publicIdentifier": "christian-cuellar-959209113",
+      "headline": "Staff Engineer at Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEOObofqMRp_A/profile-displayphoto-crop_800_800/B4EZuKXEP9J4AI-/0/1767552861941?e=1785369600&v=beta&t=g_zeEQPE8xE2sn4CLbDYQpI79gN12Xhe4KcYtFbrQac",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQEfWkUmgah0_g/profile-displaybackgroundimage-shrink_350_1400/B4EZuKYXCdKMAY-/0/1767553201087?e=1785369600&v=beta&t=642cX0TcpolCU-EILtytJrzJTKWByOWhsbXOwB4ZPdM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEOObofqMRp_A/profile-displayphoto-scale_100_100/B4EZuKXEP9J4Ac-/0/1767552862028?e=1785369600&v=beta&t=9jcr3ySMcOYTO4xSL5XuKTV9KDjZHf-KbqbDT1jCDyQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEOObofqMRp_A/profile-displayphoto-scale_400_400/B4EZuKXEP9J4Ag-/0/1767552862028?e=1785369600&v=beta&t=4nYXZ6saLIjBJ-f02y-iAulEIx-lxziECxUZ0Su_8Pg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEOObofqMRp_A/profile-displayphoto-scale_200_200/B4EZuKXEP9J4AY-/0/1767552862028?e=1785369600&v=beta&t=AipojpX9gE8sGASwm-jzZv04jVfybkGRifAj1uSrofY"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEOObofqMRp_A/profile-displayphoto-crop_800_800/B4EZuKXEP9J4AI-/0/1767552861941?e=1785369600&v=beta&t=g_zeEQPE8xE2sn4CLbDYQpI79gN12Xhe4KcYtFbrQac"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEfWkUmgah0_g/profile-displaybackgroundimage-shrink_200_800/B4EZuKYXCdKMAU-/0/1767553201087?e=1785369600&v=beta&t=9OJ-PVrwZyDylEXe-whjNsq7J_aF4La6xyMwvYsPgME"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEfWkUmgah0_g/profile-displaybackgroundimage-shrink_350_1400/B4EZuKYXCdKMAY-/0/1767553201087?e=1785369600&v=beta&t=642cX0TcpolCU-EILtytJrzJTKWByOWhsbXOwB4ZPdM"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Staff Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "metadata": "New York, New York, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11780598",
+          "companyUrn": "urn:li:fsd_company:11780598",
+          "companyLink1": "https://www.linkedin.com/company/ridgelineai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEY_o7dZSTmAA/company-logo_400_400/company-logo_400_400/0/1630599419788/ridgelineapps_logo?e=1785369600&v=beta&t=Z_pdi9PVKv_M_C6nfUUvQ-5S9UH84JdcF7MLbwCDomI",
+          "title": "Ridgeline",
+          "subtitle": "undefined · 4 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Engineer",
+              "caption": "Mar 2023 - Jan 2026 · 2 yrs 10 mos",
+              "metadata": "New York, United States",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Dec 2021 - Mar 2023 · 1 yr 3 mos",
+              "metadata": "New York, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18355",
+          "companyUrn": "urn:li:fsd_company:18355",
+          "companyLink1": "https://www.linkedin.com/company/pariveda-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGSCmOAYGczrA/company-logo_400_400/company-logo_400_400/0/1636552778630/pariveda_solutions_logo?e=1785369600&v=beta&t=3hqy1tkx06JnWigeTUQdzX_qSt88GH8WvYCLswOgDms",
+          "title": "Pariveda Solutions",
+          "subtitle": "Full-time · 2 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer and Technical Lead",
+              "caption": "Mar 2021 - Dec 2021 · 9 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Software Consultant II",
+              "caption": "Mar 2020 - Mar 2021 · 1 yr",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Software Consultant",
+              "caption": "Jan 2019 - Mar 2020 · 1 yr 2 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "15142913",
+          "companyUrn": "urn:li:fsd_company:15142913",
+          "companyLink1": "https://www.linkedin.com/school/berkeleyengineering/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE8ypwnesOgsw/company-logo_400_400/B56ZUbNdUHHQAc-/0/1739918267914/berkeleyengineering_logo?e=1785369600&v=beta&t=_aOP-UoSZ49bqNXXad8-Q81gf-1pMsvv2ruRtaurKZE",
+          "title": "Machine Structures Computer Lab Assistant",
+          "subtitle": "UC Berkeley College of Engineering . undefined",
+          "caption": "Aug 2017 - May 2018 · 9 mos",
+          "metadata": "Berkeley, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I helped students complete mandatory assignments and troubleshoot problems with Git for UC Berkeley's course on machine structures. I am well-versed in challenging low-level programming concepts, assembly language, and parallelism (application of Intel’s SSE ￼Intrinsics, OpenMP API, and MapReduce)."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2623606",
+          "companyUrn": "urn:li:fsd_company:2623606",
+          "companyLink1": "https://www.linkedin.com/company/synchr/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEW9abX3blo_w/company-logo_400_400/company-logo_400_400/0/1690984292349/synchr_logo?e=1785369600&v=beta&t=wMrU00rTC-A5WPS754VnJtSCcNU68Ag0YiDFRP21r_M",
+          "title": "Software Engineering Intern",
+          "subtitle": "SyncHR . undefined",
+          "caption": "Sep 2015 - Sep 2016 · 1 yr",
+          "metadata": "Oakland",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I automated the human resource process of reporting new hires to state labor departments. Responsibilities included the retrieval and consolidation of numerous government forms. I created SQL views to return supersets of employee and employer data, and used data integration tools to transform raw data into readable CSV files. I performed unit and batch testing by generating inputs on the website and querying my application, and interacted with development and production repositories. In summary, I internalized industry workflow habits while contributing to a full-stack application."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Spanish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "AP Scholar with Distinction Award",
+          "subtitle": "Issued by CollegeBoard",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In recognition of exemplary college-level achievement on Advanced Placement program examinations."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "University of California, Berkeley",
+          "subtitle": "Bachelor’s Degree, Biochemistry and Molecular Biology & Computer Science",
+          "caption": "2014 - 2018",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/carl-rutherford-b4289a106",
+  "row_key": "id:0036O000049za4FQAQ",
+  "person": "Carl Rutherford",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:13Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABrT4uIBw7jEnFlR4wx18PeovjUksPyQKFs",
+      "firstName": "Carl",
+      "lastName": "Rutherford",
+      "fullName": "Carl Rutherford",
+      "publicIdentifier": "carl-rutherford-b4289a106",
+      "headline": "Senior Security Engineer @ Epic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer & Network Security",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Senior Security Engineer",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Feb 2023 - Present · 2 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Senior Security Researcher",
+          "subtitle": "Microsoft . Full-time",
+          "caption": "Jun 2020 - Feb 2023 · 2 yrs 8 mos",
+          "metadata": "Redmond, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder",
+          "subtitle": "Westward.ai . Self-employed",
+          "caption": "Feb 2019 - Apr 2020 · 1 yr 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "60870",
+          "companyUrn": "urn:li:fsd_company:60870",
+          "companyLink1": "https://www.linkedin.com/company/riot-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGJCu2U_L9CNQ/company-logo_400_400/company-logo_400_400/0/1725898995592/riot_games_logo?e=1785369600&v=beta&t=L5SHtbbq1Nwzynut71uh0PMxf6xEABj3THtweMIcY6g",
+          "title": "Security Engineer",
+          "subtitle": "Riot Games . undefined",
+          "caption": "Apr 2016 - Mar 2019 · 2 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "44195",
+          "companyUrn": "urn:li:fsd_company:44195",
+          "companyLink1": "https://www.linkedin.com/company/fireeye/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEIq9gcQ3Yf4w/company-logo_400_400/company-logo_400_400/0/1630536361908/fireeye_logo?e=1785369600&v=beta&t=7qvRM2bpk1nOINqWZfLuf9qIDZ-_HHyW7_ckphFSyOk",
+          "title": "FireEye, Inc.",
+          "subtitle": "undefined · 1 yr 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Incident Handler",
+              "caption": "Dec 2015 - May 2016 · 5 mos",
+              "description": []
+            },
+            {
+              "title": "Incident Analyst",
+              "caption": "Jun 2014 - Dec 2015 · 1 yr 6 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4285",
+          "companyUrn": "urn:li:fsd_company:4285",
+          "companyLink1": "https://www.linkedin.com/company/defenceaustralia/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFy_xa3xkxOjA/company-logo_400_400/company-logo_400_400/0/1652689429766/defenceaustralia_logo?e=1785369600&v=beta&t=X--cA4s4VmN2e-Zubr8tAAUCAaFoVeEd8EzDpoz6f0U",
+          "title": "Australian Department of Defence",
+          "subtitle": "undefined · 4 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Operations Team Lead",
+              "caption": "Mar 2012 - Jun 2014 · 2 yrs 3 mos",
+              "description": []
+            },
+            {
+              "title": "Security Specialist",
+              "caption": "Jun 2010 - Mar 2012 · 1 yr 9 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "BlueGlue Pty Ltd . undefined",
+          "caption": "Jan 2010 - Jun 2010 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IT Consultant",
+          "subtitle": "IBM . undefined",
+          "caption": "Aug 2007 - Dec 2009 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Computer Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Incident Response",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Forensics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Reverse Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Snort",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Malware Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firewalls",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Security Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "13585",
+          "companyUrn": "urn:li:fsd_company:13585",
+          "companyLink1": "https://www.linkedin.com/school/university-of-newcastle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGMk3PAEh1P_w/company-logo_400_400/company-logo_400_400/0/1736896421562/university_of_newcastle_logo?e=1785369600&v=beta&t=ebcA-vyE3siHTZIUqjI6nEqd-_HqC7MVfDoEMgV_GNY",
+          "title": null,
+          "subtitle": "Bachelor of Engineering (Software), null",
+          "caption": "2001 - 2006",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

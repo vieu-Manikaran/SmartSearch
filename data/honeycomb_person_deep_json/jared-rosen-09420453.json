@@ -1,0 +1,436 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jared-rosen-09420453",
+  "row_key": "id:003Uk00000sfIZmIAM",
+  "person": "Jared Rosen",
+  "account": "Insight Partners",
+  "fetched_at": "2026-07-14T10:47:44Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAs-I3ABng0zbXIVP1H_gnMGo6ugl672AIA",
+      "firstName": "Jared",
+      "lastName": "Rosen",
+      "fullName": "Jared Rosen",
+      "publicIdentifier": "jared-rosen-09420453",
+      "headline": "Managing Partner",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Venture Capital & Private Equity",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Los Angeles Metropolitan Area United States",
+      "addressWithoutCountry": "Los Angeles Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFxBK237SBlEQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728744956846?e=1785369600&v=beta&t=wD-Z3ECkUsDq2U3owH9a7btM-EBGWHbS8KRROWHiNrY",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQEFfBGa3WqkEA/profile-displaybackgroundimage-shrink_350_1400/B4EZ6Pm5gsJAAU-/0/1780525799759?e=1785369600&v=beta&t=QcuR1BaZ8mZvwXt56bdYGLvKzRvI9wtT7f5dg-qlZ-8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFxBK237SBlEQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728744956836?e=1785369600&v=beta&t=lOaE1RbgVwCiawlelDZzsEcHit7JgcJvTflps2sbKcs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFxBK237SBlEQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728744956836?e=1785369600&v=beta&t=2qWefWRxGEJgLXJmFsSafO1ff0BOGNq_5dul5UAWS2k"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFxBK237SBlEQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728744956836?e=1785369600&v=beta&t=V7hTqYopscVXl-cv6TELew5oG_qofnB-L3Oiez3QJs0"
+        },
+        {
+          "width": 663,
+          "height": 663,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFxBK237SBlEQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728744956846?e=1785369600&v=beta&t=wD-Z3ECkUsDq2U3owH9a7btM-EBGWHbS8KRROWHiNrY"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEFfBGa3WqkEA/profile-displaybackgroundimage-shrink_200_800/B4EZ6Pm5gsJAAQ-/0/1780525799759?e=1785369600&v=beta&t=Ewq5ISUMxT7WKu5rj4eybIj60Y5u9qEQx15r-23cy8M"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEFfBGa3WqkEA/profile-displaybackgroundimage-shrink_350_1400/B4EZ6Pm5gsJAAU-/0/1780525799759?e=1785369600&v=beta&t=QcuR1BaZ8mZvwXt56bdYGLvKzRvI9wtT7f5dg-qlZ-8"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "116884093",
+          "companyUrn": "urn:li:fsd_company:116884093",
+          "companyLink1": "https://www.linkedin.com/company/io-cap/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHs2RYRulzOUg/company-logo_400_400/B56Z36UoD5GoAc-/0/1778021204501?e=1785369600&v=beta&t=V2i0nVRqH31QVHiQce6H1Dg2dUOua5qRKAnWZLzVFPw",
+          "title": "Co-founder & Managing Partner",
+          "subtitle": "IO Capital . Full-time",
+          "caption": "Jan 2026 - Present · ",
+          "metadata": "Los Angeles, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "IO Capital is a modern software growth equity firm pursuing investments in use-case-specific software companies. Built on a unique investor+operator partnership and powered by a proprietary agentic platform, the firm is purpose-built to help exceptional and unconventional problem solvers grow into the businesses their products deserve."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "21064",
+          "companyUrn": "urn:li:fsd_company:21064",
+          "companyLink1": "https://www.linkedin.com/company/insight--partners/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFO5_Woqs6X1w/company-logo_200_200/B4EZ5Bz2a6HcAE-/0/1779220572117/insight__partners_logo?e=1785369600&v=beta&t=jOi-p3PSaAWKSZwFAgPgJneGU7OEXky8_MiQj7hare0",
+          "title": "Managing Director",
+          "subtitle": "Insight Partners . undefined",
+          "caption": "Jun 2014 - Mar 2026 · 11 yrs 9 mos",
+          "metadata": "Greater New York City Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Insight Partners is a global software investor partnering with high-growth technology, software, and internet startup and ScaleUp companies that are driving transformative change in their industries. Insight Partners has invested in more than 800 companies worldwide and has seen over 55 portfolio companies achieve an IPO. Headquartered in New York City, Insight has offices in London, Tel Aviv, and the Bay Area. Insight’s mission is to find, fund, and work successfully with visionary executives, providing them with tailored, hands-on software expertise along their growth journey, from their first investment to IPO."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "108066910",
+          "companyUrn": "urn:li:fsd_company:108066910",
+          "companyLink1": "https://www.linkedin.com/company/tera-software-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGMuB1fHnVGVA/company-logo_200_200/B4EZ2WNTF0JwAM-/0/1776341562074/tera_software_group_logo?e=1785369600&v=beta&t=FKFVZr_AXSTtl_QZi_O26PgqVDjadY0oJk35yP7yNcQ",
+          "title": "Board Member",
+          "subtitle": "Tera Software Group . undefined",
+          "caption": "Mar 2025 - 2026 · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "110753288",
+          "companyUrn": "urn:li:fsd_company:110753288",
+          "companyLink1": "https://www.linkedin.com/company/truvio-official/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEFcHdeMlqxtQ/company-logo_400_400/B4DZvgP2AlKUAc-/0/1768993808908/truvio_official_logo?e=1785369600&v=beta&t=4uoBo4e56lgw-SdJWg-_L41xyvqgAcI0X2i4WhqQEyo",
+          "title": "Board Member",
+          "subtitle": "Truvio . undefined",
+          "caption": "May 2023 - 2026 · 2 yrs 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "454163",
+          "companyUrn": "urn:li:fsd_company:454163",
+          "companyLink1": "https://www.linkedin.com/company/ellkay/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFx6MiBJcmuBQ/company-logo_400_400/company-logo_400_400/0/1724094395164/ellkay_logo?e=1785369600&v=beta&t=OPTOjC3LojmMvPpxvmtXVAamXQ9dXQq3Q8WPafSsnG4",
+          "title": "Board Observer",
+          "subtitle": "ELLKAY . undefined",
+          "caption": "Sep 2021 - 2026 · 4 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5016040",
+          "companyUrn": "urn:li:fsd_company:5016040",
+          "companyLink1": "https://www.linkedin.com/company/zoneandco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFd85NNjdXTCQ/company-logo_100_100/B4DZ1yIOt8GUAU-/0/1775736253667/zoneandco_logo?e=1785369600&v=beta&t=_TwzQGij6i1Sq5asPi3i4GYd2-EYNVPPEI6oxjfSj-c",
+          "title": "Board Member",
+          "subtitle": "Zone & Co . undefined",
+          "caption": "Sep 2021 - 2026 · 4 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10358347",
+          "companyUrn": "urn:li:fsd_company:10358347",
+          "companyLink1": "https://www.linkedin.com/company/rewind-io/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEL2rJzIdhvBA/company-logo_400_400/company-logo_400_400/0/1657045316573/rewindio_logo?e=1785369600&v=beta&t=pqAiS3wgwkatez1oMMtIRWwzH-1xPN91FJfp3dald1I",
+          "title": "Board Member",
+          "subtitle": "Rewind . undefined",
+          "caption": "Aug 2021 - 2026 · 4 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "29343177",
+          "companyUrn": "urn:li:fsd_company:29343177",
+          "companyLink1": "https://www.linkedin.com/company/e5ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7jgVLGDESvg/company-logo_400_400/company-logo_400_400/0/1714582741926/e5ai_logo?e=1785369600&v=beta&t=pr9n9Xhh1GUXNPPdd1dxIpdXDAcUcdygWzQk3b_-_C0",
+          "title": "Board Member",
+          "subtitle": "Element5 . undefined",
+          "caption": "Jul 2021 - 2026 · 4 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3885445",
+          "companyUrn": "urn:li:fsd_company:3885445",
+          "companyLink1": "https://www.linkedin.com/company/florence-healthcare/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGO_hD7EuQqXg/company-logo_200_200/B4DZ1uCxcNJ0AI-/0/1775667714321/florence_healthcare_logo?e=1785369600&v=beta&t=wDPso4DFXD_KRWjXbwNHXeKMuFJvQZNTTPwxCwAj42s",
+          "title": "Board Member",
+          "subtitle": "Florence Healthcare . undefined",
+          "caption": "Apr 2021 - 2026 · 4 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3179069",
+          "companyUrn": "urn:li:fsd_company:3179069",
+          "companyLink1": "https://www.linkedin.com/company/tradingview/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEUM4GkqJPKSQ/company-logo_400_400/B4EZfvJ8IQG4Ac-/0/1752064050088/tradingview_logo?e=1785369600&v=beta&t=ZZnPOCBSwvY40Ml6qxxB1jwbYf-3kd1plu8WT1aUm90",
+          "title": "Investor",
+          "subtitle": "TradingView . undefined",
+          "caption": "May 2018 - 2026 · 7 yrs 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Entrepreneurship",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Venture Capital",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Due Diligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Market Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Photography",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Competitive Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Investment Strategies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scuba Diving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Golf",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Graphic Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Academic Writing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Private Equity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Start-ups",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Photoshop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "1646",
+          "companyUrn": "urn:li:fsd_company:1646",
+          "companyLink1": "https://www.linkedin.com/school/harvard-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1785369600&v=beta&t=6UPT13bAXUu-uQx_8cGFJw9Nt7RqPUoqd11BgbPysyI",
+          "title": "Harvard College",
+          "subtitle": "B.A., University of Cambridge (Study Abroad); Harvard Student Art Show (Director of Finance)",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Cum Laude"
+            }
+          ]
+        },
+        {
+          "companyId": "15951489",
+          "companyUrn": "urn:li:fsd_company:15951489",
+          "companyLink1": "https://www.linkedin.com/school/palisades-charter-high-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHRN4ey0djHSA/company-logo_400_400/company-logo_400_400/0/1736984395402/palisades_charter_high_school_logo?e=1785369600&v=beta&t=EORukAHeONhWHTXUk6Z-dDuFbP6D77a-J5DP3q-zvVo",
+          "title": "Pacific Palisades Charter High School",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

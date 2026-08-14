@@ -1,0 +1,66 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/manoj-aljapur-40230719",
+  "row_key": "id:003Uk00000W2f58IAB",
+  "person": "Manoj Aljapur",
+  "account": "Evergent",
+  "fetched_at": "2026-07-14T10:35:46Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAPIZYIBXteHXWD3vPut1W7_LAxRiKl6sWw",
+      "firstName": "manoj",
+      "lastName": "aljapur",
+      "fullName": "manoj aljapur",
+      "publicIdentifier": "manoj-aljapur-40230719",
+      "headline": "systems admin at eVergent Technologies.",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "465815",
+          "companyUrn": "urn:li:fsd_company:465815",
+          "companyLink1": "https://www.linkedin.com/company/evergent-technologies-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHLvPs9LXf_0Q/company-logo_400_400/company-logo_400_400/0/1663274349115/evergent_technologies_logo?e=1785369600&v=beta&t=YszMb576f3a2xZlxXrIYdBDhypzc_z6mEmfmIgloGYA",
+          "title": "systems admin",
+          "subtitle": "eVergent Technologies. . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

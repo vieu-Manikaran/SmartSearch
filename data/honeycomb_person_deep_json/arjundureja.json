@@ -1,0 +1,428 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/arjundureja",
+  "row_key": "id:003Uk00000yfRHRIA2",
+  "person": "Arjun Dureja",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACqIKZ0Bn6nCyPCLdslzeTeGdFXen3YMcjM",
+      "firstName": "Arjun",
+      "lastName": "Dureja",
+      "fullName": "Arjun Dureja",
+      "publicIdentifier": "arjundureja",
+      "headline": "Senior Software Engineer @ Coinbase",
+      "about": "Senior Software Engineer @ Coinbase\n\nTechnical Skills: iOS, Android, React Native, Full-Stack Web Development\n\nContact me at arjun.dureja1000@gmail.com",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Greater Toronto Area, Canada Canada",
+      "addressWithoutCountry": "Greater Toronto Area, Canada",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQGUPLioYQOV1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1597859542107?e=1785369600&v=beta&t=0PNNphtGR4QW6DU5LcHDsWvSplb678Bit2h115yfSHQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGUPLioYQOV1g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1597859542107?e=1785369600&v=beta&t=GmbQyBPZzocIzMLffGvxlFXhEcbAfuNobhrIUTE6eiY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGUPLioYQOV1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1597859542107?e=1785369600&v=beta&t=MxdRe3xTgFM-5dgPt5nEmMTUxCRQUcLsUhphJu1YUMA"
+        },
+        {
+          "width": 218,
+          "height": 218,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGUPLioYQOV1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1597859542107?e=1785369600&v=beta&t=RxRIYRy0YDN1DAqF-QnEtTGPYeRTjAdkcaIAFYTDtjU"
+        },
+        {
+          "width": 218,
+          "height": 218,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGUPLioYQOV1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1597859542107?e=1785369600&v=beta&t=0PNNphtGR4QW6DU5LcHDsWvSplb678Bit2h115yfSHQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Permanent Full-time · 3 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2025 - Present · 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Building Base Account"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jun 2022 - Aug 2025 · 3 yrs 2 mos",
+              "metadata": "Remote",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led the design and implementation of iOS Widgets for Coinbase Wallet using Swift, enabling users to track their crypto portfolio from their home screen and driving a 3.6K increase in monthly active users\n• Built Coinbase Smart Wallet's onboarding flow using TypeScript, implementing WebAuthn-based Passkey authentication and secure recovery mechanisms, enabling 500K new wallet creations and 600 daily active users\n• Unified cross-platform analytics tracking by implementing shared user identification in TypeScript, connecting activity data for over 150K users to drive product decisions and feature adoption\n• Developed a novel tap-to-pay feature in React Native by implementing NFC reading and writing capabilities, winning company hackathon and leading to patent filing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Software Engineer Intern",
+          "subtitle": "Coinbase . Internship",
+          "caption": "May 2021 - Aug 2021 · 3 mos",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed mobile SDKs in Swift and TypeScript that enables Coinbase Wallet to connect to native decentralized applications\n• Integrated app-to-app deep-linking to an existing protocol resulting in an increase of 75K+ app installs per month\n• Leveraged RxSwift and RxKotlin to build reactive and responsive user interfaces"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2940407",
+          "companyUrn": "urn:li:fsd_company:2940407",
+          "companyLink1": "https://www.linkedin.com/company/preprme/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG8QFedRVKWBg/company-logo_400_400/company-logo_400_400/0/1631367621433/prepr_foundation_logo?e=1785369600&v=beta&t=tBuSqBTuHnsK25AO1lm-QlBgXq3kGtmleCF9DmrKYN0",
+          "title": "Software Engineer Intern",
+          "subtitle": "Prepr . Internship",
+          "caption": "May 2020 - Aug 2020 · 3 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed a complete user onboarding flow in Swift while working in a Scrum environment\n• Implemented Alamofire and SwiftyJSON libraries to retrieve and parse user data\n• Achieved 80% code coverage by writing automated UI tests in Appium and unit tests in XCTest to minimize technical debt"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "165799",
+          "companyUrn": "urn:li:fsd_company:165799",
+          "companyLink1": "https://www.linkedin.com/school/ryersonu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMaUEJst-56g/company-logo_400_400/company-logo_400_400/0/1650993926152/torontomet_logo?e=1785369600&v=beta&t=pd8lTlxuNZuYW7fqFlU1jYzXksU2RezX7m73grwlc90",
+          "title": "Research Intern",
+          "subtitle": "Ryerson University . Internship",
+          "caption": "May 2020 - Aug 2020 · 3 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Designed and developed a new laboratory website from scratch using WordPress\n• Reduced website load time by 50% by implementing browser caching and image compression"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1826",
+          "companyUrn": "urn:li:fsd_company:1826",
+          "companyLink1": "https://www.linkedin.com/company/cibc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHE969LAEkbKg/company-logo_100_100/B4EZ6C.Z_4HoAI-/0/1780313858335/cibc_logo?e=1785369600&v=beta&t=W0FBeHclHWo9Cam03LPhgqlV0GQy46AftrE2kbSK3PM",
+          "title": "Software Engineer Intern",
+          "subtitle": "CIBC . Internship",
+          "caption": "May 2019 - Aug 2019 · 3 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Reduced daily task runtime by 90% by developing Bash scripts and leveraging search and replace algorithms\n• Orchestrated weekly database updates using SQL scripts and interfacing with SVN to make live production changes\n• Prepared and deployed Weblogic (Java) and SQL packages to staging and production environments"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Solidity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React Native",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "165799",
+          "companyUrn": "urn:li:fsd_company:165799",
+          "companyLink1": "https://www.linkedin.com/school/ryersonu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMaUEJst-56g/company-logo_400_400/company-logo_400_400/0/1650993926152/torontomet_logo?e=1785369600&v=beta&t=pd8lTlxuNZuYW7fqFlU1jYzXksU2RezX7m73grwlc90",
+          "title": "Ryerson University",
+          "subtitle": "Bachelor of Engineering - BE, Computer Engineering",
+          "caption": "Sep 2018 - Apr 2022",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "SubWidget",
+          "subtitle": "Oct 2020 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Widget for iOS that displays live YouTube subscriber count (10K+ downloads)\n• Made with SwiftUI, WidgetKit, and YouTube Data API"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "JobTrack",
+          "subtitle": "Jul 2020 - Aug 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• iOS app with 500+ downloads for tracking a user’s job applications and viewing real-time statistics\n• Leveraged Core Data and CloudKit to seamlessly save and sync user data across iOS, iPadOS, and macOS devices\n• Utilized UIKit and Auto Layout to programmatically build a responsive user interface"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Animal Matching - iOS Game",
+          "subtitle": "Jan 2020 - Jan 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Pair-matching memory game for iOS devices developed in Swift; accepted to the Apple App Store\n• Applied the Model-View-Controller design pattern to develop modular and maintainable code\n• Leveraged test-driven development to efficiently debug and improve the application quality"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Medscribe - Hack The North 2019",
+          "subtitle": "Sep 2019 - Sep 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Won Manulife award for best pitch out of 300+ competing teams\n• Developed a Google Assistant skill that uses machine learning to categorize patient-doctor conversations\n• Created a ReactJS web application to store, modify, and display patient-doctor conversation data"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2D Basketball - iOS and Android Game",
+          "subtitle": "2018 - 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tA basketball game for Android and iOS devices; accepted to the Google Play store and Apple App Store\n•\tMade with Unity and C#\n•\tApplied graphical vector-based algorithms to facilitate smooth gameplay and in-game physics\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

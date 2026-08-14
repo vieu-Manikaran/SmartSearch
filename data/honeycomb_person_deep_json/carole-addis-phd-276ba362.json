@@ -1,0 +1,519 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/carole-addis-phd-276ba362",
+  "row_key": "id:0033l00002rZSeBAAW",
+  "person": "Carole Addis",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:08Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA1Yo7oBtp7oy8glboFe7bzgIk0tMxAZD_A",
+      "firstName": "Carole",
+      "lastName": "Addis, PhD",
+      "fullName": "Carole Addis, PhD",
+      "publicIdentifier": "carole-addis-phd-276ba362",
+      "headline": "Senior Director of Data Science at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Research",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 5 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Director of Data Science",
+              "caption": "Aug 2025 - Present · 5 mos",
+              "metadata": "London Area, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Director of Data Science",
+              "caption": "Jul 2022 - Oct 2025 · 3 yrs 3 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Head of Data Science",
+              "caption": "Feb 2020 - Jul 2022 · 2 yrs 5 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Touch Surgery",
+          "subtitle": "Full-time · 5 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Head of Data Science",
+              "caption": "Jan 2020 - Jul 2022 · 2 yrs 6 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Lead Data Scientist",
+              "caption": "Jan 2018 - Jan 2020 · 2 yrs",
+              "metadata": "London, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Data Scientist",
+              "caption": "Jan 2017 - Dec 2017 · 11 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10271683",
+          "companyUrn": "urn:li:fsd_company:10271683",
+          "companyLink1": "https://www.linkedin.com/company/vinaya-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHtmAV1q5U92A/company-logo_400_400/company-logo_400_400/0/1631322558928?e=1785369600&v=beta&t=npkUM5SfjxwVxuSwaIUwtVR-BlIXK5QgH5n46qfc3Z4",
+          "title": "Data Scientist",
+          "subtitle": "VINAYA Technologies . undefined",
+          "caption": "May 2016 - Dec 2016 · 7 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "15723",
+          "companyUrn": "urn:li:fsd_company:15723",
+          "companyLink1": "https://www.linkedin.com/school/queen%27s-university-belfast/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEQsr7N3p0wXg/company-logo_400_400/company-logo_400_400/0/1663662449404/queens_university_belfast_logo?e=1785369600&v=beta&t=UHfFaBEyfqgn3F9G-6VEtnDgASaGaPdVWrhXYxb_Gc4",
+          "title": "Summer Researcher",
+          "subtitle": "Queen's University  Belfast . undefined",
+          "caption": "Aug 2012 - Aug 2012 · ",
+          "metadata": "Belfast",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Publication: Non-Markovianity of Two Impurities in an Ultracold Gas.\nSupervision: Dr. Gabriele De Chiara. Quantum Technologies Group."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15723",
+          "companyUrn": "urn:li:fsd_company:15723",
+          "companyLink1": "https://www.linkedin.com/school/queen%27s-university-belfast/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEQsr7N3p0wXg/company-logo_400_400/company-logo_400_400/0/1663662449404/queens_university_belfast_logo?e=1785369600&v=beta&t=UHfFaBEyfqgn3F9G-6VEtnDgASaGaPdVWrhXYxb_Gc4",
+          "title": "Nuffield Funded Researcher",
+          "subtitle": "Queen's University  Belfast . undefined",
+          "caption": "Jun 2011 - Sep 2011 · 3 mos",
+          "metadata": "Belfast",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Publication: Strong-field Photodetachment of Hydrogen by few-cycle Laser Pulses\nSupervision: Dr. Francesca Shearer."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Probabilistic Graphical Models Specialization",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Deep Learning Specialization",
+          "subtitle": "Coursera",
+          "issued": "Issued Sep 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Machine Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "1st Year Postgraduate Research Prize",
+          "subtitle": "Issued by Heriot-Watt University",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Best Masters Thesis Award",
+          "subtitle": "Issued by Heriot-Watt University",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quantum Mechanics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R Shiny",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Deep Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematica",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Github",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LaTeX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Numerical Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Condensed Matter Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "12292",
+          "companyUrn": "urn:li:fsd_company:12292",
+          "companyLink1": "https://www.linkedin.com/school/heriot-watt-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGa00hdzSVa8A/company-logo_400_400/company-logo_400_400/0/1718806196323/heriot_watt_university_logo?e=1785369600&v=beta&t=pfJuWHmB5Kra_ioGul1u1h-UdgJ0bmAyzFsTCX4Wcw0",
+          "title": "Heriot-Watt University",
+          "subtitle": "Doctor of Philosophy - PhD, Theoretical Quantum Physics",
+          "caption": "Sep 2012 - Aug 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "The EPSRC Centre for Doctoral Training in Condensed Matter Physics is a tri-institutional doctoral training centre between the universities of St Andrews, Edinburgh and Heriot-Watt.\n\nTaught undergraduate subjects in theoretical physics, MATLAB and maths.\n\nSupervised by Professor Sabrina Maniscalco at University of Turku, Finland. PhD title is \"Non-Markovian Dynamics of Open Quantum Systems\"."
+            }
+          ]
+        },
+        {
+          "companyId": "12292",
+          "companyUrn": "urn:li:fsd_company:12292",
+          "companyLink1": "https://www.linkedin.com/school/heriot-watt-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGa00hdzSVa8A/company-logo_400_400/company-logo_400_400/0/1718806196323/heriot_watt_university_logo?e=1785369600&v=beta&t=pfJuWHmB5Kra_ioGul1u1h-UdgJ0bmAyzFsTCX4Wcw0",
+          "title": "Heriot-Watt University",
+          "subtitle": "Master of Physics MPhys, Physics",
+          "caption": "2008 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Honours of the First Class, Awarded best masters thesis"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Two summer placements at Queen's University, Belfast including one sponsored by the Nuffield Physics. One summer placement through the Work America program in North Carolina working in Food Lion."
+            }
+          ]
+        },
+        {
+          "title": "Hunterhouse College",
+          "subtitle": "null, null",
+          "caption": "Sep 2001 - Aug 2008",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "AS/A Level: 3 A's, 1 B (Physics, Chemistry, Maths, Biology) | GCSE: 7 A*s, 3 As"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "562727",
+          "companyUrn": "urn:li:fsd_company:562727",
+          "companyLink1": "https://www.linkedin.com/company/stemambassadors/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFwJHn8Ih8N1w/company-logo_400_400/company-logo_400_400/0/1701349266895/stemambassadors_logo?e=1785369600&v=beta&t=su-_dpVPJFPfFcC2Kh7hYPAaRh5jnIXHzs_8fN-bToA",
+          "title": "STEMNET Ambassador",
+          "subtitle": "STEMNET",
+          "caption": "Oct 2013 - Present · 12 yrs 3 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "22254372",
+          "companyUrn": "urn:li:fsd_company:22254372",
+          "companyLink1": "https://www.linkedin.com/company/the-justice-brand/",
+          "title": "Volunteer",
+          "subtitle": "THE JUSTICE BRAND",
+          "caption": "Jan 2017 - Dec 2017 · 11 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "165248",
+          "companyUrn": "urn:li:fsd_company:165248",
+          "companyLink1": "https://www.linkedin.com/company/nspcc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGbnCAxWB4Zhw/company-logo_400_400/company-logo_400_400/0/1649753672667/nspcc_logo?e=1785369600&v=beta&t=4KU4u3Ob8ZDRpX8oi4jZ7q8HzmVG2vJiwmXyF9WbRL4",
+          "title": "Fundraising (London Half Marathon)",
+          "subtitle": "NSPCC",
+          "caption": "Sep 2013 - Present · 12 yrs 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Quantum Circus",
+          "subtitle": "Nov 2013 - Nov 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "What do you get when you combine circus and quantum mechanics? Well, something magical, surreal and exciting. Based on a successful show that ran in Finland in 2011 (http://www.openquantum.co.uk/circus/Circus/Welcome.html), we're bringing the magic of the Quantum Circus to Scotland. We ran it at the Dundee Science Festival and now we're preparing for the Glasgow Science Festival. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conferences/Schools",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\nConferences/Workshops/Research Visits\n\n06/06/2012 \t\t\tLinneqs QuTe Summer School, Gothenburg, Sweden. \n\t\t\t Contributed Poster. \n\n06/07/2012\t\t\tQuantum Twin Workshop, Favignana, Italy.\n\n22/02/2013\t\t\tQuantum Games Workshop, Heriot-Watt University, Edinburgh, Scotland\n\n09/04/2013\t\t Open Systems and the Quantum Classical Boundary, Rome, Italy\n\n07/05/2013\t\t Coherent Control of Complex Quantum Systems, Okinawa Japan\n\t\t\t Contributed Poster and Short Introductory Talk.\n\n30/05/2013\t\t Quantum Twin Workshop, Wick, Scotland\n\t\t\t Contributed Poster and Short Introductory Talk.\n\n12/07/2013\t\t Storytelling Workshop, Royal Mile Storytelling Centre, Edinburgh\n\n05/08/2013\t\t International School on Quantum Information, Paraty, Brazil\n\n18/03/2014 The Optical Society Conference, Berlin, Germany\n\n29/06/2014 Quantum Roundabout Conference, Nottingham\n                   Contributed Talk\n\n07/07/2014 Research Visit to Freiburg, Germany\n\n01/09/2014 CM-DTC Summer School, Aviemore, Scotland\n                   Contributed Poster\n\n24/10/2014 Quantum Optics 7, Mar Del Plata, Argentina\n                   Contributed Poster\n\n7/01/2015 Research Visit, University of Turku, Turku, Finland \n                 Contributed Talk\n\n19/01/2015 Quantum Control, Nottingham, UK\n                   Contributed Poster\n\n20/08/2015 Quantum Non-Markovianity, Cortona, Italy\n                   Contributed Talk"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

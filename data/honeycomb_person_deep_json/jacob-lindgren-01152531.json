@@ -1,0 +1,219 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jacob-lindgren-01152531",
+  "row_key": "id:003Uk000010BHQXIA4",
+  "person": "Jacob Lindgren",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:47:09Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAapj80Buxql7mxLjuPFbiBUq8OKDnEKuLA",
+      "firstName": "Jacob",
+      "lastName": "Lindgren",
+      "fullName": "Jacob Lindgren",
+      "publicIdentifier": "jacob-lindgren-01152531",
+      "headline": "Cloud Engineer at ICA Gruppen",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Stockholm, Stockholm County Sweden",
+      "addressWithoutCountry": "Stockholm, Stockholm County",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQEMMKKILL97DA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682508732942?e=1785369600&v=beta&t=fBtTAxiM--6t4Y2IiiCwQNkoMSq6KmDLEo53ygYaTP0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEMMKKILL97DA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1682508732942?e=1785369600&v=beta&t=kF5GjTkVVHX-wdmcHtBi19ytJassuxLDiYgGnIe475A"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEMMKKILL97DA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1682508732942?e=1785369600&v=beta&t=lNBSMEYBsK_BEevGm-4wVRe7AQAmizgGbM0Lc5wYtc4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEMMKKILL97DA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1682508732942?e=1785369600&v=beta&t=5FR9-ReGB2VurxJWTyp4v7K94j2isWI1BMi3As_AnXM"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEMMKKILL97DA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682508732942?e=1785369600&v=beta&t=fBtTAxiM--6t4Y2IiiCwQNkoMSq6KmDLEo53ygYaTP0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "ICA Gruppen",
+          "subtitle": "undefined · 13 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Cloud Engineer",
+              "caption": "Feb 2022 - Present · 3 yrs 11 mos",
+              "description": []
+            },
+            {
+              "title": "Service Manager",
+              "caption": "Sep 2017 - Feb 2022 · 4 yrs 5 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working as Service Manager for Office 365"
+                }
+              ]
+            },
+            {
+              "title": "Information Technology Specialist",
+              "caption": "Aug 2016 - Aug 2017 · 1 yr",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked as Information Technology Specialist with Collaboration (Office 365, Video Conferencing,  Audio/Video, Telephony) as my focus area."
+                }
+              ]
+            },
+            {
+              "title": "IT Support Specialist",
+              "caption": "Jun 2013 - Aug 2016 · 3 yrs 2 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked as IT Support Specialist - Executive Support for ICA Gruppen Management Team"
+                }
+              ]
+            },
+            {
+              "title": "IT Support Specialist",
+              "caption": "Apr 2013 - Jun 2013 · 2 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked as IT Support Specialist Onsite at ICA HQ"
+                }
+              ]
+            },
+            {
+              "title": "Service Desk",
+              "caption": "Aug 2012 - Apr 2013 · 8 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked as Service Desk Agent at ICA IT Support"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Office 365",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Future Trends",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Device Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Workplace",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Malmö Yrkeshögskola",
+          "subtitle": "null, Programming for iPhone/iPad & Android",
+          "caption": "2010 - 2011",
+          "subComponents": []
+        },
+        {
+          "companyId": "166164",
+          "companyUrn": "urn:li:fsd_company:166164",
+          "companyLink1": "https://www.linkedin.com/school/stockholm-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDDr4dLuJjYw/company-logo_400_400/company-logo_400_400/0/1651005531999/stockholm_university_logo?e=1785369600&v=beta&t=ekqGGRY6uRVgluC6yv4hM_LCebyxyUv8Zbn4byPe6bc",
+          "title": "Stockholm University",
+          "subtitle": "null, Computer and Information Sciences and Support Services",
+          "caption": "2011 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Took different programming courses, focusing on iOS and Java development."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

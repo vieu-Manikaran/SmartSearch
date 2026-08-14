@@ -1,0 +1,519 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/victorkurauchi",
+  "row_key": "id:003Uk00000dk4IBIAY",
+  "person": "Victor Kurauchi",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:54Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAXg5lMBF5JNVLJFbxYqy6cVe8Nxw1JzNys",
+      "firstName": "Victor",
+      "lastName": "Kurauchi",
+      "fullName": "Victor Kurauchi",
+      "publicIdentifier": "victorkurauchi",
+      "headline": "Principal Engineer @ Lyka",
+      "about": "As a technical/engineering leader, I excel at navigating ambiguity in high performing environments, where people want to see what will be shipped, when it'll be shipped, but forget the quality the solution should have. I jump in to ensure we have the necessary technology and practices so we can deliver what we told we would.\n\nI've acquired most of my skills building real-life products and problem solving over ~10 years. From startups with 5 engineers to large companies with 10k+ employees, across multiple industries such as fintech, digital collaboration, healthcare, e-commerce.\n\nCurrently building Stampit Club as a side project. Check it out at https://stampit.club\n\n-\n\nhttps://github.com/victorkurauchi\nhttps://victorkurauchi.co/",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Program Development",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Sydney Area Australia",
+      "addressWithoutCountry": "Greater Sydney Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFkk58GuZYRcw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1733135368723?e=1785369600&v=beta&t=5SakdvOcb_MEyTEy4EiLTAMcRcrgObm1ukLcEMyXXZc",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQHgUZhUp7bM4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690174051194?e=1785369600&v=beta&t=3EJVNLhCOj5YesBhnBezWDXUc1PtMxfkTcCjOnkU4Og",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFkk58GuZYRcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1733135368706?e=1785369600&v=beta&t=hY_NzapD9AyOY5M3ucFM5KljC8nqJoq3Vuq64UrX-80"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFkk58GuZYRcw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1733135368706?e=1785369600&v=beta&t=eC0HpSwriTYWpGJLKAf26IGFMXHZ0QIVheqJGMQ-QlE"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFkk58GuZYRcw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1733135368707?e=1785369600&v=beta&t=7KeEtcRN3jxkNWalc282A6Ic3bbkc2kj0AVflGDJKeE"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFkk58GuZYRcw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1733135368723?e=1785369600&v=beta&t=5SakdvOcb_MEyTEy4EiLTAMcRcrgObm1ukLcEMyXXZc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHgUZhUp7bM4g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690174051194?e=1785369600&v=beta&t=o2m0EPC0k8_hKGLE_imk4x9NTHRR5rqFRUUP3VzCLaQ"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHgUZhUp7bM4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690174051194?e=1785369600&v=beta&t=3EJVNLhCOj5YesBhnBezWDXUc1PtMxfkTcCjOnkU4Og"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Principal Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Aug 2025 - Present · 5 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "22688",
+          "companyUrn": "urn:li:fsd_company:22688",
+          "companyLink1": "https://www.linkedin.com/company/atlassian/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGeyLL6crkJKg/company-logo_400_400/company-logo_400_400/0/1735593604612/atlassian_logo?e=1785369600&v=beta&t=yc96-54WeibpcMstCKB7E6wDoBzGYUT1t-Tjm17og_M",
+          "title": "Senior Software Engineer",
+          "subtitle": "Atlassian . Full-time",
+          "caption": "May 2024 - Jul 2025 · 1 yr 2 mos",
+          "metadata": "Greater Sydney Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led high-scale messaging systems at Atlassian, responsible for all mobile push notifications (~30M/day) and email delivery (~80M/day) across Cloud products. Drove key projects including AWS region migration, suppression tooling improvements, Go dependency injection library, and internal tooling modernisation — all with a focus on scalable, reliable, and well-tested serverless systems in Go."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3782338",
+          "companyUrn": "urn:li:fsd_company:3782338",
+          "companyLink1": "https://www.linkedin.com/company/simply-wall-st/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGcY8D9yR2iEg/company-logo_100_100/B56Zxt6sZIIAAQ-/0/1771370629248/simply_wall_st_logo?e=1785369600&v=beta&t=yrkPQBcA2Y1BsBnrVa7Xnk4dS5mr3Kyr3MLqaL528gM",
+          "title": "Senior Software Engineer",
+          "subtitle": "Simply Wall St . Full-time",
+          "caption": "Jan 2021 - May 2024 · 3 yrs 4 mos",
+          "metadata": "Greater Sydney Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked across acquisition and retention features with a strong product focus.\n\t•\tImproved observability and reduced incident detection times with custom automation.\n\t•\tContributed to Stock Price Reminders and designed long-term architecture for the Community platform.\n\t•\tIncreased test coverage across all Node.js services and encouraged better testing practices.\n\t•\tCreated Team Domains documentation to support knowledge sharing.\n\t•\tRan sessions on distributed systems, testing, and new technologies during team-wide meetings."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2366074",
+          "companyUrn": "urn:li:fsd_company:2366074",
+          "companyLink1": "https://www.linkedin.com/company/the-iconic/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIF1aTJ7niHQ/company-logo_400_400/company-logo_400_400/0/1678928478806/the_iconic_logo?e=1785369600&v=beta&t=W-11rgkpi7dhOWCl3NGRo4zyx-GjocNIWcYS8hi4Utg",
+          "title": "Software Engineer",
+          "subtitle": "THE ICONIC . Full-time",
+          "caption": "Jul 2018 - Dec 2020 · 2 yrs 5 mos",
+          "metadata": "Greater Sydney Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software Engineer on the Fulfilment Centre team, working on warehouse management systems and automation. Our team had a strong focus on innovation and projects that enhanced the efficiency across our warehouse. Some of my responsibilities and achievements in the role were:\n\n- Back-end development with PHP, NodeJS and TypeScript\n- Breaking down the architecture of the Fulfilment Centre systems into microservices and also microfrontends\n- Helped with development, testing and architectural decisions of multiple projects\n- Front-end development with React and React Native\n- Strong involvement with the first React Native project that replaced the legacy technology in the Warehouse and improved Warehouse KPIs for all staff\n- Contributed to the CRM tool migration for a quarter (Marketing team), building scripts in PHP(Symfony) and Typescript to sync millions of records with no downtime."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1912125",
+          "companyUrn": "urn:li:fsd_company:1912125",
+          "companyLink1": "https://www.linkedin.com/company/scalable-path/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEjxKtqhX4NOQ/company-logo_400_400/company-logo_400_400/0/1630454873784/scalable_path_logo?e=1785369600&v=beta&t=tmyEVKcnnPP4FW6lwh_Q-gqmPwQPTcMMTL-m5oM_Uec",
+          "title": "Software Engineer | Tech Interviewer",
+          "subtitle": "Scalable Path . Contract",
+          "caption": "Feb 2017 - Dec 2020 · 3 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working as a Senior Software Engineer and Tech Interviewer, helping small and medium companies to grow their business, building MVPs from scratch, releasing new versions of legacy web applications, designing new systems architecture for the frontend and backend.\n\nProjects:\n- Conducting tech interviews with candidates applying for Scalable Path clients, focused on Fullstack Javascript and PHP roles\n- Redesigning a new version of a Cannabis Management System using React with GraphQL, Monorepo, Jest;\n- Prototyping and building the next generation of digital products for a Church in Georgia, making usage of modern technologies such as Kubernetes, API Platform, Nextjs and so on."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15212775",
+          "companyUrn": "urn:li:fsd_company:15212775",
+          "companyLink1": "https://www.linkedin.com/company/ornito/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEWDMTKIBolaQ/company-logo_400_400/company-logo_400_400/0/1630458768593/ornito_logo?e=1785369600&v=beta&t=gTPNlH0cn0ND8b_NSzNMSDyiMXHxu_Aq24_gYVm5Sn0",
+          "title": "Full-stack Developer",
+          "subtitle": "Ornito . Contract",
+          "caption": "Jul 2014 - Jul 2018 · 4 yrs",
+          "metadata": "São Paulo, Brazil",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Core member of a small cross-functional team where adaptability across front-end, back-end, server, and database tasks is essential.\n- Responsible for app architecture design and strategic tech stack selection, from front-end architecture to database solutions."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "754915",
+          "companyUrn": "urn:li:fsd_company:754915",
+          "companyLink1": "https://www.linkedin.com/company/2m-it-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQExUJ9Sk8g5gw/company-logo_400_400/company-logo_400_400/0/1638385506228/2m_it_solutions_logo?e=1785369600&v=beta&t=c3ih79c2jNGMfew-8XniLUiickxhrBm0ehGKmjl7Ab4",
+          "title": "Jr Frontend Developer",
+          "subtitle": "2M Solutions . Full-time",
+          "caption": "Nov 2012 - Apr 2014 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Contributed to systems tailored for the healthcare industry, with a specific focus on tele-radiology. I actively participate in all phases of system creation, taking on responsibilities on both the server-side and client-side."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "3477522",
+          "companyUrn": "urn:li:fsd_company:3477522",
+          "companyLink1": "https://www.linkedin.com/company/databricks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFPIRKiPVETuw/company-logo_400_400/company-logo_400_400/0/1697215766274?e=1785369600&v=beta&t=66vzbW3J-qByYdRVBB0FUe4aea8OBePluLLisb71FfU",
+          "title": "Academy Accreditation - Generative AI Fundamentals",
+          "subtitle": "Databricks",
+          "issued": "Issued Jan 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "28602935",
+          "companyUrn": "urn:li:fsd_company:28602935",
+          "companyLink1": "https://www.linkedin.com/company/apollo-graphql/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG-VPku03PxCg/company-logo_200_200/B4EZoO1xPJJ0AI-/0/1761185567982/apollo_graphql_logo?e=1785369600&v=beta&t=UIbpVLg6C-WqGp_DWHy2tblnWBgw3HoiYoRu3XA_d-M",
+          "title": "Graph Developer - Associate",
+          "subtitle": "Apollo GraphQL",
+          "issued": "Issued Jan 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "28602935",
+          "companyUrn": "urn:li:fsd_company:28602935",
+          "companyLink1": "https://www.linkedin.com/company/apollo-graphql/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG-VPku03PxCg/company-logo_200_200/B4EZoO1xPJJ0AI-/0/1761185567982/apollo_graphql_logo?e=1785369600&v=beta&t=UIbpVLg6C-WqGp_DWHy2tblnWBgw3HoiYoRu3XA_d-M",
+          "title": "Graph Developer - Professional",
+          "subtitle": "Apollo GraphQL",
+          "issued": "Issued Jan 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Portuguese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Technical Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Golang",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Angular.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ionic",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "30398",
+          "companyUrn": "urn:li:fsd_company:30398",
+          "companyLink1": "https://www.linkedin.com/school/fiap/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_100_100/B4DZbGkZaBGwAQ-/0/1747088152588/fiap_logo?e=1785369600&v=beta&t=_fatwyJSrvRBuT1E5KmB-ygAjI8epNgyE2sjfG4mH7o",
+          "title": "FIAP",
+          "subtitle": "Associate's degree, Systems Analysis and Design",
+          "caption": "2011 - 2012",
+          "subComponents": []
+        },
+        {
+          "companyId": "30398",
+          "companyUrn": "urn:li:fsd_company:30398",
+          "companyLink1": "https://www.linkedin.com/school/fiap/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_100_100/B4DZbGkZaBGwAQ-/0/1747088152588/fiap_logo?e=1785369600&v=beta&t=_fatwyJSrvRBuT1E5KmB-ygAjI8epNgyE2sjfG4mH7o",
+          "title": "FIAP",
+          "subtitle": "Graduate Diploma, Big Data (Data Science)",
+          "caption": "Jun 2017 - 2018",
+          "subComponents": []
+        },
+        {
+          "companyId": "2078196",
+          "companyUrn": "urn:li:fsd_company:2078196",
+          "companyLink1": "https://www.linkedin.com/school/greenwich-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFddJUKWOrVsg/company-logo_100_100/B56Z7eSm_0JQAI-/0/1781845881063/greenwich_college_logo?e=1785369600&v=beta&t=KGAn2-SRBLlFjOO6gLy1rqBurPUSGDF2DvJnursdN3k",
+          "title": "Greenwich College",
+          "subtitle": "null, General English",
+          "caption": "2018 - 2019",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Stampit Club - Rewards and loyalty system for small businesses",
+          "subtitle": "Jan 2025 - Jan 2025",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "That's my side project which I started \"vibe coding\", and then reached a solid phase where I decided to spend a bit more time to polish and it's now ready to be used! React Native mobile app + Ruby on Rails powered backend.\n\nBig brands have their own platforms—why shouldn’t your favorite café, salon, or barbershop? Paper loyalty cards get lost or forgotten, but our digital solution makes earning and redeeming rewards effortless.\n\nWith Stampit Club, small businesses can easily manage loyalty programs, engage customers, and handle bookings—all in one place, without the high costs or complexity of big-name solutions.\n\nIt’s time to give local businesses the same tools to build loyalty. What do you think—are paper loyalty cards a thing of the past?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Onrad (Medical Imaging and Radiology Information Systems)",
+          "subtitle": "Nov 2012 - Apr 2014",
+          "subComponenets": []
+        },
+        {
+          "title": "Ultrafarma App",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "First version (MVP) built with Ionic/Angular back in 2014, when the company was in its early days targeting the web platform.\n1M+ downloads in recent days."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

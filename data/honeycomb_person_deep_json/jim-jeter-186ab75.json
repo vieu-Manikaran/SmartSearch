@@ -1,0 +1,393 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jim-jeter-186ab75",
+  "row_key": "id:003Uk00000x1tDVIAY",
+  "person": "Jim Jeter",
+  "account": "Werner Enterprises, Inc.",
+  "fetched_at": "2026-07-14T10:47:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAENczYBjCsG0v4WoGv62BCNB_H17MMg1Rk",
+      "firstName": "Jim",
+      "lastName": "Jeter",
+      "fullName": "Jim Jeter",
+      "publicIdentifier": "jim-jeter-186ab75",
+      "headline": "Versatile IT professional",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Elkhorn, Nebraska United States",
+      "addressWithoutCountry": "Elkhorn, Nebraska",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGoj2lfu3QJHw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1604858227602?e=1785369600&v=beta&t=FhitHcsjpljiCjdgAIB1XK2snhGJoKHokuyAKNoN25E",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGoj2lfu3QJHw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1604858227602?e=1785369600&v=beta&t=kJAriAbimVvEBwoh7DOieC6_VXYsJZWjl9bZt60BEXg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGoj2lfu3QJHw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1604858227602?e=1785369600&v=beta&t=Nl3tVzg_5LYhkvMvJ1LTQ0aRkRPWvAl0zvZQd99h6IY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGoj2lfu3QJHw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1604858227602?e=1785369600&v=beta&t=oTbJjxkRrrEdezfjegbBR4d_PMBzG7Fvl5m_PbyEO5E"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGoj2lfu3QJHw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1604858227602?e=1785369600&v=beta&t=FhitHcsjpljiCjdgAIB1XK2snhGJoKHokuyAKNoN25E"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "12586",
+          "companyUrn": "urn:li:fsd_company:12586",
+          "companyLink1": "https://www.linkedin.com/company/werner-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAK3LmTyMsrA/company-logo_400_400/company-logo_400_400/0/1737154595689/werner_enterprises_logo?e=1785369600&v=beta&t=20ZSiGgtgVf7Ay72nPY2zknfCOtqd4PtVORDmNYfGew",
+          "title": "Werner Enterprises",
+          "subtitle": "Full-time · 4 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Head of IT Integrations",
+              "caption": "Jul 2022 - Present · 3 yrs 6 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Program management for migration of acquired companies into the Werner IT environment.  Primary goal is to execute a repeatable process that spans due diligence, Day One activities and long-term synergies.  This role focuses mainly on IT work, but also facilitates integration of other work streams including Finance, Safety, HR, Legal, Recruiting, Operations etc."
+                }
+              ]
+            },
+            {
+              "title": "Product Manager",
+              "caption": "Apr 2021 - Jul 2022 · 1 yr 3 mos",
+              "metadata": "Omaha, Nebraska, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "SAFe Product Manager for Infrastructure and Operations teams (Cloud Engineering, Networking, Telecom, Database and Service Delivery).   Maintained road maps for modernization, including migration to Azure."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2152",
+          "companyUrn": "urn:li:fsd_company:2152",
+          "companyLink1": "https://www.linkedin.com/company/teksystems/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFhhXeUOC4-iQ/company-logo_200_200/B56Z5v00MaJgAE-/0/1779992577001/teksystems_logo?e=1785369600&v=beta&t=7EB4luE4FpGmsbXZAZ40bhBZBQL7xbcV4ZmAEuSYbT0",
+          "title": "Technical Project Manager",
+          "subtitle": "TEKsystems . Contract",
+          "caption": "Feb 2021 - Apr 2021 · 2 mos",
+          "metadata": "Omaha, Nebraska, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Placed at CSG as Technical Project Manager"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3532",
+          "companyUrn": "urn:li:fsd_company:3532",
+          "companyLink1": "https://www.linkedin.com/company/fnbo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHJQN0DtMpP2Q/company-logo_400_400/company-logo_400_400/0/1682715679919/fnbo_logo?e=1785369600&v=beta&t=MBBcTjBt1QMRXvYf1YUCdwIu1ZiPwoGtNL236XADOxg",
+          "title": "First National Bank of Omaha",
+          "subtitle": "undefined · 10 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sr. Director - Infrastructure",
+              "caption": "Nov 2018 - Dec 2020 · 2 yrs 1 mo",
+              "metadata": "Greater Omaha Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Accountable for delivery of contemporary IT infrastructure services within the enterprise.  Provide leadership and direction for various teams supplying design/architecture, installation, maintenance, operation and support for complex enterprise-wide infrastructure environment and services.  This includes all cloud-based, third-party and internally managed IT infrastructure used to support business process and users across the enterprise."
+                }
+              ]
+            },
+            {
+              "title": "Director - Database Administration",
+              "caption": "Sep 2010 - Nov 2018 · 8 yrs 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managed database administrators and business intelligence support resources.   DBAs support SQL Server, Oracle and Db2 (both LUW and Mainframe);  BI tools include Business Objects and SAS."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "5063",
+          "companyUrn": "urn:li:fsd_company:5063",
+          "companyLink1": "https://www.linkedin.com/company/aci-worldwide/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHZQ9I_rkMGeA/company-logo_400_400/B4EZxNRxBiHkAg-/0/1770823029377/aci_worldwide_logo?e=1785369600&v=beta&t=FzM0d4VFcFJLj0b22raEsXL8-Cd-N8Ujzi05TbssK5g",
+          "title": "Product Manager",
+          "subtitle": "ACI Worldwide . undefined",
+          "caption": "May 2008 - Sep 2010 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Product Manager for BASE24-eps Transaction Security and Central Services.\n\nTransaction Security Services (TSS) manages interactions between the application and the hardware security machines (HSMs)\n\nCentral Services is the core foundation layer that provides an abstraction between the application and the underlying operating system, middleware and file systems."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Convergys",
+          "subtitle": "undefined · 3 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Product Manager",
+              "caption": "May 2007 - May 2008 · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managed a global engineering team responsible for one of the company’s flagship Contact Management platforms.  This application is deployed across over 3000 agent workstations worldwide and generates over $86M in revenue annually ($18M operating profit).   \nRole expanded to include Contact Management platform-planning activities.  Key functions included facilitating sponsor forums with key business stakeholders in order to identify new features, prioritizing and justifying the associated work effort, determining which functionality will be delivered in the “product roadmap” and coordinating the requirements gathering process."
+                }
+              ]
+            },
+            {
+              "title": "Sr IT Manager",
+              "caption": "Feb 2005 - May 2007 · 2 yrs 3 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Oversaw multiple business intelligence projects through the development lifecycle.  Tasks range from gathering and documenting user requirements; developing and maintaining project plans and baselines; communicating project updates to key stakeholders; and coordinating test and implementation activities.  Functions often span into technical leadership role, which included dimensional modeling and ETL application design.\n The projects, which typically involve remote project teams, have included the upgrade of the corporate business intelligence portal to a new JetSpeed platform; and the building of a Data Mart and set of management dashboards to support our Training and Quality Assurance department."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "Certified SAFe® 5 Practitioner",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDLC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Gathering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Credit Cards",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Service Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Payments",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electronic Payments",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Documentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ETL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Training",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5923",
+          "companyUrn": "urn:li:fsd_company:5923",
+          "companyLink1": "https://www.linkedin.com/school/unomaha/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMpeANJEpzNQ/company-logo_400_400/company-logo_400_400/0/1665876889721/unomaha_logo?e=1785369600&v=beta&t=qwwh47v96ecZWx5sWriG_hip0_HIHr3hTXYBdzLfmw8",
+          "title": "University of Nebraska at Omaha",
+          "subtitle": "Bachelor of Science - BS, Computer Science",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

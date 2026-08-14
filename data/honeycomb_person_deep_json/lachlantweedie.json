@@ -1,0 +1,563 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/lachlantweedie",
+  "row_key": "id:003Uk00000yfgCSIAY",
+  "person": "Lachlan Tweedie",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA37InUBba79smkYg__Yqx-fX6mwra_v4kg",
+      "firstName": "Lachlan",
+      "lastName": "Tweedie",
+      "fullName": "Lachlan Tweedie",
+      "publicIdentifier": "lachlantweedie",
+      "headline": "Staff Software Engineer at Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGk4FujUfhZMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1649771401079?e=1785369600&v=beta&t=603KPt-fGf75jKYagyiENjBmKbDexIcdWyqAHX0V7M4",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGk4FujUfhZMw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1649771401079?e=1785369600&v=beta&t=LdJYlVhfLy25sBTt0yK9dV0rEqCgmWGcV-haWHsDQgs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGk4FujUfhZMw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1649771401079?e=1785369600&v=beta&t=hTH53KaiUsHq8EPUOAKWlrM-fmGmDz97OVNWoNglWgM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGk4FujUfhZMw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1649771401079?e=1785369600&v=beta&t=xFhs6qoxmDGWsmmHAP-2dADc0FOoMuBgadJYYgqvmnk"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGk4FujUfhZMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1649771401079?e=1785369600&v=beta&t=603KPt-fGf75jKYagyiENjBmKbDexIcdWyqAHX0V7M4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "undefined · 5 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Feb 2024 - Present · 1 yr 11 mos",
+              "metadata": "New York, New York, United States",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2020 - Feb 2024 · 3 yrs 6 mos",
+              "metadata": "New York, New York, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10682854",
+          "companyUrn": "urn:li:fsd_company:10682854",
+          "companyLink1": "https://www.linkedin.com/company/spaceship-au/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGTUhY1wF9AXQ/company-logo_400_400/company-logo_400_400/0/1680133892102/spaceship_au_logo?e=1785369600&v=beta&t=QH9Bu0g8BnwVpltxOd3TnuMkFSNG2rhEdZpN4_SD4VA",
+          "title": "Senior Software Engineer",
+          "subtitle": "Spaceship . Contract",
+          "caption": "Mar 2020 - Aug 2020 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10682854",
+          "companyUrn": "urn:li:fsd_company:10682854",
+          "companyLink1": "https://www.linkedin.com/company/spaceship-au/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGTUhY1wF9AXQ/company-logo_400_400/company-logo_400_400/0/1680133892102/spaceship_au_logo?e=1785369600&v=beta&t=QH9Bu0g8BnwVpltxOd3TnuMkFSNG2rhEdZpN4_SD4VA",
+          "title": "Spaceship",
+          "subtitle": "Full-time · 2 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering",
+              "caption": "May 2018 - Sep 2019 · 1 yr 4 mos",
+              "metadata": "Sydney, Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Spaceship is an Australian fintech startup with two products in market, a pension fund and managed investment app (Voyager), that has over $1B Funds under Management. Spaceship is backed by some of the world's most prestigious investors including Sequoia Capital, Horizons Ventures, NEA and Valar Ventures.\n\nAs Director of Engineering I was responsible for:\n• Oversight of key business deliverables and effective communication across all stakeholders. \n• Implementing project and product management process initiatives across all teams in the business.\n• People management, including hiring processes and building a team from 5 to 12.\n• Establishing a DevOps team to transition Spaceship's infrastructure and CI/CD to Kubernetes and Google Cloud Platform. \n• Implementing Scrum processes and restructuring the engineering team into sub-teams."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jul 2017 - May 2018 · 10 mos",
+              "metadata": "Sydney, Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "React / Typescript / React Native / Golang"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "603076",
+          "companyUrn": "urn:li:fsd_company:603076",
+          "companyLink1": "https://www.linkedin.com/company/droga5-anz/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyRZCCBRC69g/company-logo_400_400/company-logo_400_400/0/1732856878599/the_monkeys_logo?e=1785369600&v=beta&t=1OM8RHIXUSFiQhmA3Qkqfjx2rS2y0OQBVXwsxckTU98",
+          "title": "Front End Developer",
+          "subtitle": "The Monkeys . Full-time",
+          "caption": "Jan 2016 - Jul 2017 · 1 yr 6 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "The Monkeys, a subsidiary of Accenture, is one of Australia’s most renowned advertising agencies, recently winning ‘Agency of the Decade’ B&T award.\n\nReact / Node.js / WebGL"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "60105",
+          "companyUrn": "urn:li:fsd_company:60105",
+          "companyLink1": "https://www.linkedin.com/company/303australia/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGThi5245FVBQ/company-logo_400_400/company-logo_400_400/0/1693532785998/303mullenlowe_logo?e=1785369600&v=beta&t=0Sj0TorDuMsq6orV2BUQd5kc-mfOqVhp7eOah8iUjpE",
+          "title": "Front End Developer",
+          "subtitle": "303 MullenLowe . Full-time",
+          "caption": "2015 - 2016 · 1 yr",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Boutique advertising agency with clients such as Harley Davidson, Audi, and Department of Treasury."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "6622522",
+          "companyUrn": "urn:li:fsd_company:6622522",
+          "companyLink1": "https://www.linkedin.com/company/triplebyte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFL5EsaT_03yA/company-logo_400_400/company-logo_400_400/0/1630654179261/triplebyte_logo?e=1785369600&v=beta&t=TbnjxXoJkLEpYfYuSFPPLMhKiyumvBkS4fTyMX1BQ9M",
+          "title": "Triplebyte certified Front End Engineer",
+          "subtitle": "Triplebyte",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "1st Place: Startup Weekend Bali: Digital Technology 2019",
+          "subtitle": "Issued by Startup Weekend | Google for Startups | Techstars",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Startup Weekend is a 54-hour challenge where people of different backgrounds, talents, and interests to piece together the gruelling (but exciting) puzzle of building a startup. Through workshops and mentorship, what starts out as ideas and brainstorm sessions will turn into functioning organisations, companies, and applications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2017 WEBBY AWARDS HONOREE: Advertising, Media, & PR - Best Use of Animation or Motion Graphics",
+          "subtitle": "Issued by Webby Awards",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "http://www.awardshowjury.com/entries/qantas-dreamliner-webbys-2016/\n\nThe new Qantas Dreamliner 787-9 is the most technically advanced aircraft of its type in the world. To match this, we created an online presence that took web technology to its limits.\n\nOur objective was to launch an innovative new online platform that focuses on interactivity and delivers an experience that is reflective of the pioneering spirit of the Dreamliner."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FWA SITE OF THE DAY 11 APRIL 2017",
+          "subtitle": "Issued by FWA",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "To showcase this incredible aircraft and it’s features we created a fully-interactive 3D website using WebGL. The Dreamliner itself is the navigation for the site, with content delivered through video, 3D interactions and social media integration.\n\nhttps://thefwa.com/cases/qantas-dreamliner-p2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "AWWWARDS SPECIAL MENTION",
+          "subtitle": "Issued by AWWWARDS",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Qantas Out of Office Travelogue connects your email to your Instagram and updates your auto reply email with photos you select and tag with #qantasoutofoffice. When someone emails you while you’re traveling, they’ll receive an email showcasing the latest photos from your travels.\n\nhttp://www.awwwards.com/sites/qantas-out-of-office"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CSS DESIGN AWARDS SPECIAL KUDOS",
+          "subtitle": "Issued by CSS Design Awards",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Qantas Out of Office Travelogue connects your email to your Instagram and updates your auto reply email with photos you select and tag with #qantasoutofoffice. When someone emails you while you’re traveling, they’ll receive an email showcasing the latest photos from your travels.\n\nhttp://www.cssdesignawards.com/sites/qantas-out-of-office-travelogue/29192/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CSS DESIGN AWARDS WEBSITE OF THE DAY 8 JUNE 2016",
+          "subtitle": "Issued by CSS Design Awards",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In a bid to persuade today's world leaders to take better care of our planet, Friends of the Earth Australia is asking for the global community's help to send a climate change sceptic to space so they can shift their perspective and come back down to earth a more environmentally ethical person. \n\nhttp://www.cssdesignawards.com/sites/send-a-sceptic-to-space/28567/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FWA MOBILE SITE OF THE DAY 11 MAY 2016",
+          "subtitle": "Issued by FWA",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "To find the most decisive person in Australia, OAK created an extremely difficult mobile game users could play just once a day.\n\nhttp://www.thefwa.com/mobile/the-most-decisive-game-ever"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "AWWWARDS SPECIAL MENTION",
+          "subtitle": "Issued by AWWWARDS",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "http://www.awwwards.com/sites/the-most-decisive-game-ever\n\nTo find the most decisive person in Australia, OAK created an extremely difficult mobile game users could play just once a day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CSS DESIGN AWARDS SPECIAL KUDOS",
+          "subtitle": "Issued by CSS Design Awards",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "http://www.cssdesignawards.com/sites/the-most-decisive-game-ever/28244/\n\nTo find the most decisive person in Australia, OAK created an extremely difficult mobile game users could play just once a day."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Advertising",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SASS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Photoshop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Three.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Stakeholder Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "457642",
+          "companyUrn": "urn:li:fsd_company:457642",
+          "companyLink1": "https://www.linkedin.com/school/sae-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHG09K1bHjz3A/company-logo_400_400/company-logo_400_400/0/1672934224361/sae_institute_logo?e=1785369600&v=beta&t=AgpqvfvK3wjtKxDw9ILrnR6ajlCHGxCXyFBd69ibbaQ",
+          "title": "SAE Institute",
+          "subtitle": "Bachelor of Interactive Entertainment, Games Programming",
+          "caption": "2011 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Handovr",
+          "subtitle": "Sep 2019 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Handovr is a collaboration app for product managers to create visual product specifications that helps communicate their ideas to software development teams. Driven by a passion to make hand over meetings more effective with an out of the box​ process, Handovr aims to bring efficiency to the cross section of product, design, and engineering.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Qantas Dreamliner",
+          "subtitle": "Oct 2016 - Oct 2016",
+          "subComponenets": []
+        },
+        {
+          "title": "Qantas Out Of Office",
+          "subtitle": "Sep 2016 - Sep 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Recognising that millions of bland Out Of Office emails are sent out everyday to unsuspecting colleagues and friends, our latest work for Qantas sees the creation of a new Out Of Office Travelogue, which endeavours to take the once mundane experience to a whole new level with an interesting and fun way to connect via an Instagram feed.\n\nThe Qantas Out of Office Travelogue connects your email to your Instagram and updates your auto reply email with photos you select and tag with #qantasoutofoffice. When someone emails you while you’re traveling, they’ll receive an email showcasing the latest photos from your travels."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Send A Sceptic To Space",
+          "subtitle": "Jun 2016 - Jun 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "In a bid to persuade today's world leaders to take better care of our planet, Friends of the Earth Australia is asking for the global community's help to send a climate change sceptic to space so they can shift their perspective and come back down to earth a more environmentally ethical person."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "OAK The Most Decisive Game Ever",
+          "subtitle": "Apr 2016 - Apr 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Monkeys have created a game to find the least hungrythirsty person in Australia for the launch of OAK's latest flavour, Strong Iced Coffee.\n\nThe game, named \"The Most Decisive Game Ever\", contains ten difficult levels specifically designed to weed out the hungrythirsty. To make it even harder the game can only be played once a day, at the time of day when most people are feeling sluggish - 3PM."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

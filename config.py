@@ -31,6 +31,9 @@ class Settings(BaseSettings):
     # FullEnrich (verified work-email enrichment)
     fullenrich_api_key: Optional[str] = None
 
+    # Molster / MoltSets (LinkedIn → business email; primary enrichment)
+    molster_api_key: Optional[str] = None
+
     # Gmail / SMTP (LinkedIn finder result emails)
     smtp_host: str = "smtp.gmail.com"
     smtp_port: int = 587

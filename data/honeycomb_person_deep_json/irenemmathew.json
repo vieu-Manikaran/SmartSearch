@@ -1,0 +1,516 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/irenemmathew",
+  "row_key": "id:003Uk00000ydDnkIAE",
+  "person": "Irene Mathew",
+  "account": "Lenovo Group",
+  "fetched_at": "2026-07-14T10:44:38Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABUqq14BuDbdJ3SUWmUYEQAeHP6Rm5RISmg",
+      "firstName": "Irene",
+      "lastName": "Maria Mathew",
+      "fullName": "Irene Maria Mathew",
+      "publicIdentifier": "irenemmathew",
+      "headline": "Code. Innovate. Repeat. ",
+      "about": "Experienced Software developer with a demonstrated history of working in the information technology and services industry. Skilled in SQL, Technical Support, Core Java, HTML, and C#. Strong information technology professional with a Diploma focused in Information Technology Project Management from symbiosis centre for distant learning. ",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Semiconductors",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Mumbai, Maharashtra India",
+      "addressWithoutCountry": "Mumbai, Maharashtra",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQF_3YtBWBpf4A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1623694655109?e=1785369600&v=beta&t=C7SioJxZ6bmvfO84HUxsrZVJHamkQHvO_0RU4ZbjRU8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF_3YtBWBpf4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1623694655109?e=1785369600&v=beta&t=GpVjCaPOUfC0T0ag7jDeiXOKLzRlZDfQwoyCcA2egLY"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF_3YtBWBpf4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1623694655109?e=1785369600&v=beta&t=PIka-xlDiQ0zkP82hDakFxMpYxeSIqSzocLIr7kqgZQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF_3YtBWBpf4A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1623694655109?e=1785369600&v=beta&t=AwiZbZ_oWnIdYA2iS7CJ2nbB4x5rxGKeDtWWk09h7js"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQF_3YtBWBpf4A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1623694655109?e=1785369600&v=beta&t=C7SioJxZ6bmvfO84HUxsrZVJHamkQHvO_0RU4ZbjRU8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "3653",
+          "companyUrn": "urn:li:fsd_company:3653",
+          "companyLink1": "https://www.linkedin.com/company/lenovo/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwodgzuPCrOA/company-logo_400_400/company-logo_400_400/0/1659011656349/lenovo_logo?e=1785369600&v=beta&t=3uKthCYTRw-tNf-xnG4Hrku8C_NMDwkw4GdWbRmxWyQ",
+          "title": "Lenovo",
+          "subtitle": "Full-time · 2 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Engineer",
+              "caption": "Jul 2025 - Present · 6 mos",
+              "description": []
+            },
+            {
+              "title": "Software Firmware Engineer",
+              "caption": "Oct 2023 - Present · 2 yrs 3 mos",
+              "metadata": "Mumbai, Maharashtra, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1053",
+          "companyUrn": "urn:li:fsd_company:1053",
+          "companyLink1": "https://www.linkedin.com/company/intel-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_400_400/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1785369600&v=beta&t=g-_No6rKYnzuUy2iHAD1a3o5iamiG5a0tDnDBHfNVqE",
+          "title": "Intel Corporation",
+          "subtitle": "Internship · 3 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "System Software Engineer",
+              "caption": "Jun 2021 - Sep 2023 · 2 yrs 3 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": []
+            },
+            {
+              "title": "Graduate Technical Intern",
+              "caption": "Aug 2020 - May 2021 · 9 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1680",
+          "companyUrn": "urn:li:fsd_company:1680",
+          "companyLink1": "https://www.linkedin.com/company/cognizant/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_400_400/B4EZk_EfNgHgAc-/0/1757699778309/cognizant_logo?e=1785369600&v=beta&t=pi9sHAfWWbXmP4R0tbabMh8ynyFz2NJMN23UJgxHEVw",
+          "title": "Security Engineer",
+          "subtitle": "Cognizant . undefined",
+          "caption": "Oct 2016 - Oct 2018 · 2 yrs",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "DevOps Foundations",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "DevOps Foundations: Continuous Delivery/Continuous Integration",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Lean Six Sigma Foundations",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "500473",
+          "companyUrn": "urn:li:fsd_company:500473",
+          "companyLink1": "https://www.linkedin.com/school/ethnus/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFuKxDjyyz-cQ/company-logo_400_400/company-logo_400_400/0/1685947587616/ethnus_logo?e=1785369600&v=beta&t=cCmifM_Tnq4ZKzcooGAdwTtuBPQxEcis9wBhF1Tx8CA",
+          "title": "Face detection using AWS\n",
+          "subtitle": "ETHNUS",
+          "issued": "Issued Apr 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Information Security: Context and Introduction",
+          "subtitle": "Coursera",
+          "issued": "Issued Apr 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Operating Systems and You: Becoming a Power User",
+          "subtitle": "Coursera",
+          "issued": "Issued Apr 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Advanced Algorithms and Complexity",
+          "subtitle": "Coursera",
+          "issued": "Issued Nov 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Parallel Programming in Java",
+          "subtitle": "Coursera",
+          "issued": "Issued Oct 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "RYU SDN CONTROLLER",
+          "subtitle": "Udemy",
+          "issued": "Issued Oct 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Recipient of Mrs. RAJAMMAL GOVINDASAMY MUDALIAR “Endowment Award”",
+          "subtitle": "Issued by Vellore Institute of Technology ",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "This is to certify that\nMs. IRENE MARIA MATHEW, (Reg. No. 19MCS0049)\nII Year, M.Tech. Computer Science and Engineering, School of Computer Science and Engineering has been awarded\nMrs. RAJAMMAL GOVINDASAMY MUDALIAR\n“ENDOWMENT AWARD”\nfor the Outstanding Performance during the academic year 2020 – 2021.\n    "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Autogen",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Code Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration (CI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IPMI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GitHub",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Presentations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Documents",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "400138",
+          "companyUrn": "urn:li:fsd_company:400138",
+          "companyLink1": "https://www.linkedin.com/school/vellore-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH0u0StCXmEkg/company-logo_400_400/company-logo_400_400/0/1732705890200/vellore_institute_of_technology_logo?e=1785369600&v=beta&t=m9A2twQCUqyZaR7JLgyinKfkAd_I-NcdYpl4n678524",
+          "title": "Vellore Institute of Technology",
+          "subtitle": "Master of Technology - MTech, Computer Science",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "9.49"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Gold Medalist"
+            }
+          ]
+        },
+        {
+          "companyId": "542029",
+          "companyUrn": "urn:li:fsd_company:542029",
+          "companyLink1": "https://www.linkedin.com/school/rajagiriengg/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFXs8Bm-ljotA/company-logo_400_400/company-logo_400_400/0/1630656583672/rajagiri_school_of_engineering_and_technology_logo?e=1785369600&v=beta&t=J15e7EnFGdlNEF-CKpSi9b2Z0ovt83Lwbk-Wm3zxbJ8",
+          "title": "Rajagiri School of Engineering & Technology",
+          "subtitle": "Bachelor of Technology (B.Tech.), Information Technology",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "companyId": "1234988",
+          "companyUrn": "urn:li:fsd_company:1234988",
+          "companyLink1": "https://www.linkedin.com/school/symbiosiscentrefordistancelearning/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF7OTIqs39WxQ/company-logo_400_400/company-logo_400_400/0/1630638597361/symbiosisdistancelearning_logo?e=1785369600&v=beta&t=Rxz2-kftgLcwSXVTQQVA4ARm1WDFSZLzg_xKI2JdI3A",
+          "title": "Symbiosis Centre for Distance Learning",
+          "subtitle": "Postgraduate Diploma, Information Technology Project Management",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A"
+            }
+          ]
+        },
+        {
+          "companyId": "2225332",
+          "companyUrn": "urn:li:fsd_company:2225332",
+          "companyLink1": "https://www.linkedin.com/school/asian-school-of-cyber-laws/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH6RQQa9UrJBA/company-logo_100_100/B4DZp8yexHJcAQ-/0/1763030202915/asian_school_of_cyber_laws_logo?e=1785369600&v=beta&t=g0f9yej8RdnNoLhjjffssA0aEIusDXCpRn3HIkvg-Pk",
+          "title": "Asian School of Cyber Laws",
+          "subtitle": "Advanced Program in Cyber Law, Cyber/Computer Forensics and Counterterrorism",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "title": "Mahatma Gandhi University, Kottayam",
+          "subtitle": "Bachelor of Technology (B.Tech.), Information Technology",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "7.24"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

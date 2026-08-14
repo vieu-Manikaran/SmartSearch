@@ -1,0 +1,443 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/simon-grimm-036834b",
+  "row_key": "id:003Uk000001rHqBIAU",
+  "person": "Simon Grimm",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:38:16Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAIUnioBvL3XxIqfGTlrW0v_xZ8aUD9ZPjQ",
+      "firstName": "Simon",
+      "lastName": "Grimm",
+      "fullName": "Simon Grimm",
+      "publicIdentifier": "simon-grimm-036834b",
+      "headline": "Senior Software Engineer @ Lyka",
+      "about": "Building web based software solutions, from database planning to UX polishing, and everything in between.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Canberra, Australian Capital Territory Australia",
+      "addressWithoutCountry": "Canberra, Australian Capital Territory",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEYwUPRNhfBqg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517700642167?e=1785369600&v=beta&t=El4rv6JiRbWBL-XIlGphCXQV9fv84wEVFjGir8elrLs",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQFJHGKFim6kcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517700642857?e=1785369600&v=beta&t=SIIXLHDO6T0z1y0E5G5woo5etkJBp6DL1hKJAoK5058",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEYwUPRNhfBqg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517700642181?e=1785369600&v=beta&t=GgWO_oYdPW1rTPzyDpMgKuEEh6idcyRoMQ07solurL8"
+        },
+        {
+          "width": 199,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEYwUPRNhfBqg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517700642154?e=1785369600&v=beta&t=DVCD59z1CaGY9HAkaOMovBxCPoLjKadqXGNci_HojSo"
+        },
+        {
+          "width": 339,
+          "height": 340,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEYwUPRNhfBqg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517700642514?e=1785369600&v=beta&t=MbhwRdDoA8Exadbhw3KqMzHGHgZdAgcFwUBrnbSE_j4"
+        },
+        {
+          "width": 339,
+          "height": 340,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEYwUPRNhfBqg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517700642167?e=1785369600&v=beta&t=El4rv6JiRbWBL-XIlGphCXQV9fv84wEVFjGir8elrLs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFJHGKFim6kcQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517700642872?e=1785369600&v=beta&t=i4RIjTUznhtv1TdXjCssEBEWco04QxbNZ3sXRIYBd2I"
+        },
+        {
+          "width": 1024,
+          "height": 256,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFJHGKFim6kcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517700642857?e=1785369600&v=beta&t=SIIXLHDO6T0z1y0E5G5woo5etkJBp6DL1hKJAoK5058"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Lyka",
+          "subtitle": "Full-time · 2 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Oct 2023 - Present · 2 yrs 3 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            },
+            {
+              "title": "Backend engineer",
+              "caption": "Apr 2023 - Oct 2023 · 6 mos",
+              "metadata": "Sydney, New South Wales, Australia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18659116",
+          "companyUrn": "urn:li:fsd_company:18659116",
+          "companyLink1": "https://www.linkedin.com/company/getmisio/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHjBlcGoWGDBQ/company-logo_400_400/company-logo_400_400/0/1653885854736/getmisio_logo?e=1785369600&v=beta&t=C2xFUjxwSmMA-JTzmflqupVmX0tdZxf_fWOGEFynehM",
+          "title": "Senior Full Stack Engineer",
+          "subtitle": "MISIO . Full-time",
+          "caption": "Nov 2022 - Jan 2023 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18031485",
+          "companyUrn": "urn:li:fsd_company:18031485",
+          "companyLink1": "https://www.linkedin.com/company/revolutionisesport/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH9r7KTcU3lFw/company-logo_400_400/company-logo_400_400/0/1677561071000/revolutionisesport_logo?e=1785369600&v=beta&t=fOve01X5nCXX6kO2XE0go_AXk9MQWKdz9z9iWBIODzk",
+          "title": "Senior Platform Engineer",
+          "subtitle": "revolutioniseSPORT . Full-time",
+          "caption": "Nov 2019 - Oct 2022 · 2 yrs 11 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "revolutioniseSPORT is the emerging market leader in online sports management. It is an award-winning complete digital solution for sports & community group managers, staff & volunteers, for organisations of all sizes.\n\nrevolutioniseSPORT partners with 180 governing bodies and over 13,000 local clubs & associations across Australia and the world to help build, brand and maintain a 'gold standard' of digital presence."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Chuffed.org . undefined",
+          "caption": "Jan 2018 - Oct 2019 · 1 yr 9 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Investment Exchange (Invex) . undefined",
+          "caption": "Apr 2015 - Dec 2017 · 2 yrs 8 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "AWS, Laravel, Vue.js"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2611442",
+          "companyUrn": "urn:li:fsd_company:2611442",
+          "companyLink1": "https://www.linkedin.com/company/malt-studios/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGfDEh_yVhmaQ/company-logo_400_400/company-logo_400_400/0/1631315342948?e=1785369600&v=beta&t=9RpBclioXwCf16F_SeqWvsgeHAyBjHM14Apm7SNhtZc",
+          "title": "Software Engineer",
+          "subtitle": "Malt.Studios . undefined",
+          "caption": "May 2012 - Jun 2016 · 4 yrs 1 mo",
+          "metadata": "Sydney Area, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Co-founder and lead developer for a small web/mobile design & development company."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1368316",
+          "companyUrn": "urn:li:fsd_company:1368316",
+          "companyLink1": "https://www.linkedin.com/company/4mation-technologies-pty-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEZyYXexvV7gw/company-logo_400_400/company-logo_400_400/0/1724889209282/4mation_technologies_pty_ltd_logo?e=1785369600&v=beta&t=K7zvb-ZfExFZrGSgW9DgxTfSX6WIE6vzPTioGvp2pUc",
+          "title": "PHP Developer",
+          "subtitle": "4mation Technologies Pty Ltd . undefined",
+          "caption": "Mar 2014 - Mar 2015 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Developer",
+          "subtitle": "TPK Enterprises Pty LTD . undefined",
+          "caption": "Jul 2013 - Oct 2013 · 3 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "PHP Developer",
+          "subtitle": "Enterprise Marketing - Fuse Digital . undefined",
+          "caption": "Oct 2012 - Jun 2013 · 8 mos",
+          "metadata": "Mosman, NSW",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Web Developer, primarily working with the ExpressionEngine CMS and CodeIgniter PHP framework. Loving designing and building complex custom sites, CMSs and extranets. Playing with cool jQuery creations and building plugin libraries whenever I can."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1629124",
+          "companyUrn": "urn:li:fsd_company:1629124",
+          "companyLink1": "https://www.linkedin.com/company/healthshare/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFQPMGbIcrMoA/company-logo_400_400/company-logo_400_400/0/1630620474475/healthshare_logo?e=1785369600&v=beta&t=9tXdR-hkrhv4GYgIaZDAA1D2eBvEktJk6D8Z75k2mIc",
+          "title": "UX Engineer",
+          "subtitle": "HealthShare . undefined",
+          "caption": "Jul 2011 - Nov 2011 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Experience",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Front-end",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Laravel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WordPress",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "9727",
+          "companyUrn": "urn:li:fsd_company:9727",
+          "companyLink1": "https://www.linkedin.com/school/university-of-wollongong/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHfyidq27jPZg/company-logo_200_200/B56ZuLNTPlJMAI-/0/1767567078847/university_of_wollongong_logo?e=1785369600&v=beta&t=se_JHINGxGEg31ZNv1At0ECtYtWP2WcmoBtlSNBopDw",
+          "title": "University of Wollongong",
+          "subtitle": "Bachelor of Computer Science, Multimedia and Game Design",
+          "caption": "2004 - 2009",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Educational Modules for Appropriate Radiology Referrals",
+          "subtitle": "Nov 2012 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "My role in this project was taking the evidence-based clinical decision rules (CDRs) and designing and implementing a mobile application to step health professionals through the rules. Made available for iOS and Android."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SalesITV",
+          "subtitle": "2011 - 2013",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

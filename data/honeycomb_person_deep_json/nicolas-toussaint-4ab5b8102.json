@@ -1,0 +1,510 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/nicolas-toussaint-4ab5b8102",
+  "row_key": "id:003Uk00000Pb40uIAB",
+  "person": "Nicolas Toussaint",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABoSz8MBDBoP-hynaoATAYQLPSd1xMcYinc",
+      "firstName": "Nicolas",
+      "lastName": "Toussaint",
+      "fullName": "Nicolas Toussaint",
+      "publicIdentifier": "nicolas-toussaint-4ab5b8102",
+      "headline": "AI - ML Research @ Medtronic - Digital surgery | Machine learning | Computer Vision",
+      "about": "Senior Research Scientist, currently holding a role of Computer Vision Researcher at Anthropics Technology Ltd. My field of expertise spans from optimisation, differential geometry, medical imaging, machine learning and deep learning. More recently focusing on computer vision and machine learning from a statistical perspective.\n\nPhD in biomedical engineering at King's College London in 2013, and post doctorate positions at University College London between 2013 and 2017 and at King's College London until 2019.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Southwark, England United Kingdom",
+      "addressWithoutCountry": "Southwark, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEHXBD-pZ9rpQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682278910544?e=1785369600&v=beta&t=k6A-dJCKpawp8BUBIRYXblzWU4dzF7BkIvih-8haaCg",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQEM5yL0SEdCTw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736872105544?e=1785369600&v=beta&t=NcbRnUUxTDiPGotmmoZJb_BCqDjDMlALo68_50VM0WY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEHXBD-pZ9rpQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1682278910544?e=1785369600&v=beta&t=OvuU7sQnNjv8K8Z4kldoOEJOU--rW3jDhhXqclohDpk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEHXBD-pZ9rpQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1682278910544?e=1785369600&v=beta&t=Dw7unlWLtASSDvZZ2hUMBrABxHOCQE9OFQMwOpPh4d8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEHXBD-pZ9rpQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1682278910544?e=1785369600&v=beta&t=I0L-PU8doPkrnrsHXTXxtuVZn2lCSJItHdXt0zSWZi4"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEHXBD-pZ9rpQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682278910544?e=1785369600&v=beta&t=k6A-dJCKpawp8BUBIRYXblzWU4dzF7BkIvih-8haaCg"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEM5yL0SEdCTw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1736872105544?e=1785369600&v=beta&t=WvH1OL8wt_TGqzFllBzPtri7YZcha0Hc-QcDcy_AooQ"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQEM5yL0SEdCTw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736872105544?e=1785369600&v=beta&t=NcbRnUUxTDiPGotmmoZJb_BCqDjDMlALo68_50VM0WY"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 2 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal AI/Data Science Engineer",
+              "caption": "Jan 2025 - Present · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Research, design and deploy new machine learning algorithms and models dedicated to make an impact in healthcare within Medtronic equipments.\nLead Technology development and research strategy\nWithin the machine learning team at Digital Surgery, we aim at providing high standard ML / Deep learning solutions for the benefit of the patient.\n#medicalimaging #machinelearning #healthcare"
+                }
+              ]
+            },
+            {
+              "title": "Senior AI/Data Science Engineer",
+              "caption": "Nov 2023 - Dec 2024 · 1 yr 1 mo",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Research, design and deploy new machine learning algorithms and models dedicated to make an impact in healthcare within Medtronic equipments.\nWithin the machine learning team at Digital Surgery, we aim at providing high standard ML / Deep learning solutions for the benefit of the patient.\n#medicalimaging #machinelearning #healthcare"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "62317",
+          "companyUrn": "urn:li:fsd_company:62317",
+          "companyLink1": "https://www.linkedin.com/company/anthropics-technology-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFxG4zDmDdPiw/company-logo_100_100/B4EZYQqgm_HUAQ-/0/1744036301723/anthropics_technology_ltd_logo?e=1785369600&v=beta&t=1IA6LmrYNCg77JddNJBKhUzgTSncxKIq3QNJ3Frb18w",
+          "title": "Senior Computer Vision Researcher",
+          "subtitle": "Anthropics Technology Ltd . Full-time",
+          "caption": "May 2019 - Sep 2023 · 4 yrs 4 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Design and experiment new technologies in the field of machine learning and computer vision"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7198",
+          "companyUrn": "urn:li:fsd_company:7198",
+          "companyLink1": "https://www.linkedin.com/school/king%27s-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_400_400/company-logo_400_400/0/1630592448557/kings_college_london_logo?e=1785369600&v=beta&t=s7BsHBk3FvJIutrSI54Y6Vw7kbSk7GVMUNIurGGVCUM",
+          "title": "Research Scientist",
+          "subtitle": "King's College London . undefined",
+          "caption": "Apr 2016 - May 2019 · 3 yrs 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Design and implement algorithms and software aiming at improving fetal screening using manifold learning and machine learning / deep learning techniques"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "Research Associate",
+          "subtitle": "UCL . undefined",
+          "caption": "Mar 2013 - Apr 2016 · 3 yrs 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Research Associate at the Translational Imaging Group within the Centre for Medical Image Computing.\n\nComputer aided diagnosis for differential diagnosis in dementia:\n- Coordinate research/development projects with different UCL partners\n- Support for data analysis, tensor processing and statistical studies\n\nkeywords: project coordination, clinical trial setting, brain anatomy,\nclassification/segmentation, scientific Python"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7198",
+          "companyUrn": "urn:li:fsd_company:7198",
+          "companyLink1": "https://www.linkedin.com/school/king%27s-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_400_400/company-logo_400_400/0/1630592448557/kings_college_london_logo?e=1785369600&v=beta&t=s7BsHBk3FvJIutrSI54Y6Vw7kbSk7GVMUNIurGGVCUM",
+          "title": "PHD Student",
+          "subtitle": "King's College London . undefined",
+          "caption": "Nov 2008 - Feb 2013 · 4 yrs 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "PhD student within the Cardiac Imaging Group at King's College London\nDesign and experiment Diffusion Tensor Image (DTI) processing techniques for the in-vivo\nhuman beating heart.\nAdvisor: Dr. Philip Batchelor, King’s College London\n\n- Conduct experimental MRI studies on volunteers, operate MRI scanners, collaborative projects with ETH Zurich and INRIA France\n- Two major journal publications, conference oral presentations\n\nkeywords: advanced tensor processing, differential geometry, optimisation, cardiac fibre\narchitecture, data visualisation, ITK/VTK"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "164385",
+          "companyUrn": "urn:li:fsd_company:164385",
+          "companyLink1": "https://www.linkedin.com/company/inria/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQErLWV8QlRjXg/company-logo_400_400/company-logo_400_400/0/1631417790625/inria_logo?e=1785369600&v=beta&t=DYu4VTDheOSJ_pacmaYIZEHi-Oyiz7DTyP2BWVBflpA",
+          "title": "Software Developer",
+          "subtitle": "Inria . undefined",
+          "caption": "Jul 2006 - Jul 2008 · 2 yrs",
+          "metadata": "Nice Area, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software Designer at the National Institute for Research in Computer Sciences and Robotics\n(INRIA), France.\n\nDesign, development and promotion of MedINRIA and CardioViz3D software, data\nprocessing and visualisation platforms targeting clinicians and researchers for brain and\ncardiac applications.\n\nFirst author publications and oral presentations in international conferences.\n\nkeywords: tensor geometry, user interface development, data visualisation, scientific\nprogramming, ITK/VTK, academic publications, scientific presentations"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1090",
+          "companyUrn": "urn:li:fsd_company:1090",
+          "companyLink1": "https://www.linkedin.com/company/philips/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFpB8fd3m9G0w/company-logo_400_400/company-logo_400_400/0/1737552865359/philips_logo?e=1785369600&v=beta&t=SwGfQdV2UeqlYfgTiJhJLe9kg87wnqETK8zv629MZHk",
+          "title": "Assistant Scientist",
+          "subtitle": "Philips . undefined",
+          "caption": "Oct 2004 - Aug 2005 · 10 mos",
+          "metadata": "Eindhoven Area, Netherlands",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Assistant scientist in the MR Research Group at Philips Medical System, Netherlands.\n\n- Development of algorithms for fibre tracking\n- Design of a multi-tensor model for Diffusion MRI. Patent application (WO/2007/036859)"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Neural Networks and Deep Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued Feb 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Machine Learning Foundations: A Case Study Approach",
+          "subtitle": "Coursera",
+          "issued": "Issued Jan 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "785621",
+          "companyUrn": "urn:li:fsd_company:785621",
+          "companyLink1": "https://www.linkedin.com/company/cambridge-university-press-assessment-english/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF764moHT29Og/company-logo_400_400/company-logo_400_400/0/1650876513245/cambridge_university_press_assessment_english_logo?e=1785369600&v=beta&t=-W4Cwko2b6AlnXU7ny2Y2ij4nEPRsleI4feLNU_zP04",
+          "title": "First Certificate in English (Grade A)",
+          "subtitle": "Cambridge English Language Assessment",
+          "issued": "Issued Jul 2006",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Robotic Surgery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PyTorch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CMake",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NumPy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Applied Mathematics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "3D Visualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Attention Mechanisms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Transformers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Deployment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Graph Theory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "pandas",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scikit-Learn",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Deep Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Convolutional Neural Networks (CNN)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SciPy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "manifold learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Differential Geometry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "7198",
+          "companyUrn": "urn:li:fsd_company:7198",
+          "companyLink1": "https://www.linkedin.com/school/king%27s-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_400_400/company-logo_400_400/0/1630592448557/kings_college_london_logo?e=1785369600&v=beta&t=s7BsHBk3FvJIutrSI54Y6Vw7kbSk7GVMUNIurGGVCUM",
+          "title": "King's College London",
+          "subtitle": "Doctor of Philosophy (Ph.D.), Biomedical/Medical Engineering",
+          "caption": "2008 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Design and experiment Diffusion Tensor Image (DTI) processing techniques for the in-vivo\nhuman beating heart.\n\nAdvisor: Dr. Philip Batchelor, King’s College London\n\n- Conduct experimental MRI studies on volunteers, operate MRI scanners, collaborative projects with\nETH Zuerich and INRIA France\n\n- Two major journal publications, conference oral presentations\n\nkeywords: advanced tensor processing, differential geometry, optimization, cardiac fibre\narchitecture, data visualization, ITK/VTK\n"
+            }
+          ]
+        },
+        {
+          "companyId": "15093517",
+          "companyUrn": "urn:li:fsd_company:15093517",
+          "companyLink1": "https://www.linkedin.com/school/ecole-superieure-de-chimie-physique-electronique-de-lyon/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH3QikrllsLMQ/company-logo_400_400/company-logo_400_400/0/1630530650713/ecole_suprieure_de_chimie_physique_electronique_de_lyon_logo?e=1785369600&v=beta&t=mV73PLoIzXbk-tJ1WClAQ78y8iswaO9mKJBI8Sk9jHQ",
+          "title": "Ecole supérieure de Chimie Physique Electronique de Lyon",
+          "subtitle": "Master’s Degree, Active member of the student association in ES-CPE-Lyon (cultural events)",
+          "caption": "2000 - 2006",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Advance courses on the following topics:\nImage processing and analysis, visualisation (openGL), optimisation, signal analysis, inverse problems, medical image analysis, geometry"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "iFIND",
+          "subtitle": "May 2016 - Present",
+          "subComponenets": []
+        },
+        {
+          "title": "EU Heart",
+          "subtitle": "Nov 2008 - May 2012",
+          "subComponenets": []
+        },
+        {
+          "title": "medinria",
+          "subtitle": "Jun 2006 - Sep 2008",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

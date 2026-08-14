@@ -1,0 +1,289 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/timothy-chilvers",
+  "row_key": "id:0033l00002wdovkAAA",
+  "person": "Timothy Chilvers",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:20Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACYWA3IB75A9DVmEJG5yGC2UaNzRP9n38VM",
+      "firstName": "Timothy",
+      "lastName": "Chilvers",
+      "fullName": "Timothy Chilvers",
+      "publicIdentifier": "timothy-chilvers",
+      "headline": "Head of Mobile at Touch Surgery",
+      "about": "My journey through iOS development began at the University of Hull and took me to a Lead Developer role at a London agency, Future Workshops. There I learnt that Apps can be beautiful inside and out, and this beauty is reflected in ease of use as much as aesthetics. I have spent half a year working at ThoughtWorks bringing my specialist experience to the team while gaining generalist technical skills and learning consultancy practices. Over the last two years I have been working remotely for LoveCrafts and seek to continue remote working.\nI have developed a number of world class Apps such as Shazam and Time Out as part of larger teams, or leading teams making Apps like toptable (Now OpenTable) and Apps for enterprise clients. One of my most recent Apps is LoveKnitting, a regular headliner in the Lifestyle category.\nDoing agency work has provided me with the chance to develop my skills in a variety of directions including public speaking, client relations, usability testing, and developer management. In my spare time, I play Ultimate Frisbee nationally, as captain and treasurer for different teams.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Greater Plymouth Area United Kingdom",
+      "addressWithoutCountry": "Greater Plymouth Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 7 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Software Engineering",
+              "caption": "Jun 2025 - Present · 7 mos",
+              "description": []
+            },
+            {
+              "title": "Head Of Mobile",
+              "caption": "Sep 2021 - Jun 2025 · 3 yrs 9 mos",
+              "description": []
+            },
+            {
+              "title": "iOS Chapter Lead",
+              "caption": "Jun 2019 - Sep 2021 · 2 yrs 3 mos",
+              "description": []
+            },
+            {
+              "title": "Senior iOS Developer",
+              "caption": "May 2018 - Jun 2019 · 1 yr 1 mo",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3156744",
+          "companyUrn": "urn:li:fsd_company:3156744",
+          "companyLink1": "https://www.linkedin.com/company/lovecrafts/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEs0WnlKKKoTQ/company-logo_400_400/company-logo_400_400/0/1630551242887/lovecrafts_logo?e=1785369600&v=beta&t=_TFSCvKpa9hEQHVwpTZXrKvKGYppCUvyg6HhIokzs10",
+          "title": "Senior iOS Developer",
+          "subtitle": "LoveCrafts . undefined",
+          "caption": "Mar 2016 - Mar 2018 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "· Developed a universal iOS App for knitters to follow knitting patterns, creating\nannotations, sketches, and bespoke tools to keep track of where they are in the pattern\n· Designed custom eventually synchronised offline use capability\n· Used TDD and functional RX concepts with Swift\n· Continuously improved our project workflow\n· Transitioned the iOS team from office based to full time remote\n· Assisted in analysing company-wide live issues and coming up with time critical solutions\n· Directly contacted users and used analytics to diagnose issues\n· Performed usability testing and user research in order to refine the product\n· White labelled the App for multiple Apps with single codebase\n· Over 1k daily active users & 43k monthly active users with a 99.8% crash free experience"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "157356",
+          "companyUrn": "urn:li:fsd_company:157356",
+          "companyLink1": "https://www.linkedin.com/company/thoughtworks/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE5QBG-mhja9g/company-logo_400_400/company-logo_400_400/0/1630637271377/thoughtworks_logo?e=1785369600&v=beta&t=ugbQhq5bno5MkDkbksG0zfVK5Hxbe3zB9OexxG24ux4",
+          "title": "Senior Developer",
+          "subtitle": "ThoughtWorks . undefined",
+          "caption": "Jun 2015 - Feb 2016 · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "· Developed highly secure code for a consumer banking App as a senior specialist in a\ncross discipline team\n· Championed native development on both Android and iOS\n· Assisted in architecting cross-platform development\n· Facilitated workshops and led a number of internal training sessions on native development\n· Improved training and coaching skills while onboarding new team members\n· Acted as platform specialist and team representative for security consultations regarding the risk profile of new features"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Junior to Senior Developer",
+          "subtitle": "Future Workshops . undefined",
+          "caption": "Nov 2009 - Apr 2015 · 5 yrs 5 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "· Developed a large number of public facing Apps in Objective-C, including: Shazam,\ntoptable (Now OpenTable), Time Out, Great Little Place, and customer facing investment banking apps\n· Placed in client teams such as Shazam and Time Out, experiencing many different Agile dynamics\n· Delivered company owned App, Whiteboard, which achieved #9 in the UK and was listed as New and Noteworthy in the App Store\n· Developed internal enterprise Apps for RBS\n· Built complete integration of two 3rd party social platforms for Time Out, including finalising the UI\nmyself\n· Led team based projects with up to 3 other developers, QA, and designer\n· Ran retrospectives and assigned tasks for resulting actions\n· Facilitated multiple usability tests for projects in development\n· Assisted in product discovery\n· Managed projects and client relationships"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Swift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kittens",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xcode",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Interface Builder",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cocoa Touch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Animation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Graphics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Core Foundation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Uikit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Iphone Application Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fastlane",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ipad Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166641",
+          "companyUrn": "urn:li:fsd_company:166641",
+          "companyLink1": "https://www.linkedin.com/school/university-of-hull/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGLfMu3QRtXEQ/company-logo_200_200/B4EZfE9_5CHwAM-/0/1751356277030/university_of_hull_logo?e=1785369600&v=beta&t=thRkkx1zilMmkiMULyJnbLK5KnLxG9PvZddbis-K3zA",
+          "title": "The University of Hull",
+          "subtitle": "Master of Engineering - MEng, Computer Sciences with Games Development",
+          "caption": "2005 - 2009",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

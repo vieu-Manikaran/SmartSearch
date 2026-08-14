@@ -1,0 +1,649 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jrobey",
+  "row_key": "id:003Uk0000107zvyIAA",
+  "person": "Jason Robey",
+  "account": "Fireworks AI",
+  "fetched_at": "2026-07-14T10:36:09Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAA6i6MBi6CITE20kJCYtWknOcWoLTMvlx4",
+      "firstName": "Jason",
+      "lastName": "Robey",
+      "fullName": "Jason Robey",
+      "publicIdentifier": "jrobey",
+      "headline": "AI Practitioner",
+      "about": "An energetic and dynamic leader, trained through years in software development, data communications, artificial intelligence, and corporate/military leadership.  I am a multi-discipline expert in enterprise software development, working from the user experience down to infrastructure.  I maintain a mission first, people always attitude towards all aspects of my work life.  I excel in turning ambitious goals, technical issues, and people problems into highly successful and productive teams and solutions.  I build strong systems through innovative design around the business opportunity while leveraging available solutions.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Beaverton, Oregon United States",
+      "addressWithoutCountry": "Beaverton, Oregon",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEQn_M_lvZUkQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1551466192447?e=1785369600&v=beta&t=cgnFcciDVfv0uoXQW56n16VqbUEQx2mov636Z5aBa_g",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEQn_M_lvZUkQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1551466192419?e=1785369600&v=beta&t=1-21vlJR9397dGpvsk2K8GEyYxC7olzSNIsY8f-ohHw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEQn_M_lvZUkQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1551466192464?e=1785369600&v=beta&t=oTAOC4_uBAEs3kCquG4ivmVL6OI9UdB3ZdxJk7UfC9w"
+        },
+        {
+          "width": 387,
+          "height": 387,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEQn_M_lvZUkQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1551466192444?e=1785369600&v=beta&t=BtkBnAABsBjW1RR3B1l8ECPciwqZZXup1xcSr_4lrqA"
+        },
+        {
+          "width": 387,
+          "height": 387,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEQn_M_lvZUkQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1551466192447?e=1785369600&v=beta&t=cgnFcciDVfv0uoXQW56n16VqbUEQx2mov636Z5aBa_g"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "91174981",
+          "companyUrn": "urn:li:fsd_company:91174981",
+          "companyLink1": "https://www.linkedin.com/company/fireworks-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBD0h39SCyLw/company-logo_400_400/company-logo_400_400/0/1711133682942/fireworks_ai_logo?e=1785369600&v=beta&t=CThoZGybDlkdOYbemJ_CeRFc5lBpwo5JuLmMa0DIY4M",
+          "title": "Solutions Architect",
+          "subtitle": "Fireworks AI . Full-time",
+          "caption": "May 2026 - Present · ",
+          "metadata": "Portland, OR",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Partnering with strategic customers to ship practical AI solutions built on open-source inference and training."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6407994",
+          "companyUrn": "urn:li:fsd_company:6407994",
+          "companyLink1": "https://www.linkedin.com/company/instabase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYVjS7DGhzDQ/company-logo_100_100/B4EZlYoVeIHoAU-/0/1758128593208/instabase_logo?e=1785369600&v=beta&t=eZqQEgziINrwhccBsxcVxz78I1kFbp9-UIc877qihDc",
+          "title": "Instabase",
+          "subtitle": "Full-time · 4 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Enterprise Architecture",
+              "caption": "Oct 2023 - Jun 2026 · 2 yrs 8 mos",
+              "metadata": "Principal Architect",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Innovation, tech field scaling, and developer advocacy with a mix of business process automation, document understanding, automated decision making, and deep learning."
+                }
+              ]
+            },
+            {
+              "title": "Principal Architect",
+              "caption": "Oct 2021 - Oct 2023 · 2 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Assist clients in infrastructure and solutions architecture to ensure optimal time to value for Instabase soltuions.  Lead a team of architects to assist in pre-sales, transition, and post-sales efforts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3477522",
+          "companyUrn": "urn:li:fsd_company:3477522",
+          "companyLink1": "https://www.linkedin.com/company/databricks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFPIRKiPVETuw/company-logo_400_400/company-logo_400_400/0/1697215766274?e=1785369600&v=beta&t=66vzbW3J-qByYdRVBB0FUe4aea8OBePluLLisb71FfU",
+          "title": "Databricks",
+          "subtitle": "Full-time · 2 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Enterprise Platform Specialist",
+              "caption": "Sep 2020 - Oct 2021 · 1 yr 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead the Databricks Enterprise Platform Subject Matter Expert (SME) Group of peer solutions architects\n* Maintain Databricks Center of Excellence around Identity, Automation, Integration, Security, Privacy, CI/CD, and cloud infrastructure as it relates to deploying Databricks in the enterprise\n* Ensure training readiness for solutions architects w.r.t. enterprise platform features in Databricks\n* Focus product and engineering groups on customer use cases and requirements\n* Manage work queues for core enterprise platform SMEs to best enable the field and serve our customers\n* Assist in enterprise customer needs as appropriate"
+                }
+              ]
+            },
+            {
+              "title": "Solutions Architect",
+              "caption": "Jul 2019 - Sep 2020 · 1 yr 2 mos",
+              "metadata": "Portland, Oregon",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Enable current and future Databricks customers to derive valuable insights from data and transform fully to data-driven decision making.  Reduce the learning and adoption curves through enterprise-grade feature configuration and workshops and industry examples and best practices.  Ensure my customers have the best possible experience in Databricks and are able to quickly leap to wildly productive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Azure Data Solutions Architect",
+          "subtitle": "Microsoft . undefined",
+          "caption": "Jan 2016 - Jun 2019 · 3 yrs 5 mos",
+          "metadata": "Portland, Oregon Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Work with customers transforming there business to run in the cloud to help architect big and small data solutions.  Aide in the move to continuous deployment and help transform development and IT practices to take advantage of SaaS, PaaS, and IaaS solutions available in Microsoft Azure."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2029",
+          "companyUrn": "urn:li:fsd_company:2029",
+          "companyLink1": "https://www.linkedin.com/company/nike/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHJk7IdfuV1Dw/company-logo_400_400/company-logo_400_400/0/1732131503851/nike_logo?e=1785369600&v=beta&t=AaH8sycWTAh9boDpkcx01MmwMsHcw75wq0uowTKw3BU",
+          "title": "Nike",
+          "subtitle": "undefined · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Database and Data Services",
+              "caption": "Nov 2014 - Jan 2016 · 1 yr 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Build and harden data services using NoSQL and Relational database technologies including caching solutions to provide a platform enabling product teams to rapidly move to product.  Ensure Privacy and Security, Reliability, Availability, Maintainability, and Performance of the data platforms.  Help set strategic direction for NoSQL technology usage at Nike.  Architect the hybrid private public cloud model with AWS.  Assist the Senior Director of Infrastructure with programs, projects, and tasks around systems engineering, data center management, network engineering, continuous delivery tool management, and budgeting."
+                }
+              ]
+            },
+            {
+              "title": "Platform Development Director",
+              "caption": "Jan 2013 - Nov 2014 · 1 yr 10 mos",
+              "metadata": "Consumer Digital Technology",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for development and sustainment of the Nike+ services platform. Manage software developers in both grid and direct relationships. Manage architecture, design, and development of Nike+ shared components and maintain touch points with Nike and agency partners in both producer and consumer roles."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "52638",
+          "companyUrn": "urn:li:fsd_company:52638",
+          "companyLink1": "https://www.linkedin.com/company/mainz-brady-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNCWcT53Zbzg/company-logo_400_400/B56ZZZ5IhUHQAc-/0/1745264872937/mainz_brady_group_logo?e=1785369600&v=beta&t=_4or6YsVk6URqHXNQcDT1A20yqWM2TsdtdWV8zFRRHg",
+          "title": "Mainz Brady Group",
+          "subtitle": "undefined · 1 yr 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Nike+ Engineering Delivery Director for Nike",
+              "caption": "Aug 2012 - Jan 2013 · 5 mos",
+              "metadata": "Nike World Headquarters",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Manage and direct new feature implementations with an end-to-end focus and responsibility.  Work with program management, experience management, agency and internal engineering teams to define, prioritize, develop, control the quality of, and deploy software features to the Nike+ stack."
+                }
+              ]
+            },
+            {
+              "title": "Nike+ Tech Lead for Nike",
+              "caption": "Oct 2011 - Aug 2012 · 10 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for all technical aspects of the Nike+ web application, its related products, and ecosystem.  Responsible for the software development life cycle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "19533",
+          "companyUrn": "urn:li:fsd_company:19533",
+          "companyLink1": "https://www.linkedin.com/company/bresnan-communications/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHqRPSROb3qRQ/company-logo_400_400/company-logo_400_400/0/1631312446041?e=1785369600&v=beta&t=pAnPPbk4MlPz9xJI_WGRBd-fMVY_Vf71cOBaFMfjvYY",
+          "title": "Bresnan Communications",
+          "subtitle": "undefined · 5 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director, Systems Engineering Application Development",
+              "caption": "Oct 2007 - Oct 2011 · 4 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead a team of application developers, quality assurance engineers, and database professionals to develop in-house applications and integrate purchased solutions for internal and external customers at Bresnan Communications.  Direct and manage the training, operations, and maintenance of a team of 12 managers and engineers in the support of over 30 large and small applications."
+                }
+              ]
+            },
+            {
+              "title": "Systems Engineering Manager",
+              "caption": "Apr 2006 - Oct 2007 · 1 yr 6 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Manage a team of engineers developing, designing, and maintaining automation solutions for business and operational processes.  Architect and manage software development projects when COTS and custom solutions from third parties are prohibitively expensive, insufficient, or usually both."
+                }
+              ]
+            },
+            {
+              "title": "Systems Engineer",
+              "caption": "Dec 2005 - Apr 2006 · 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Design, implement, and maintain automation of business and operational processes to support internal customer support groups, the network operations center, and commercial and residential customers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer IV",
+          "subtitle": "Physical Science Lab, NMSU . undefined",
+          "caption": "Jul 2004 - Dec 2005 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed military combat simulations with AI techniques used for commander and soldier decision making processes. Performed roles as C4ISR subject mater expert and software engineer."
+              }
+            }
+          ]
+        },
+        {
+          "title": "C4ISR SME",
+          "subtitle": "Physical Science Institute . undefined",
+          "caption": "Jun 2001 - Jul 2004 · 3 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Provide subject mater expertise around the Military framework for command, control, communications, computers, information surveillance and reconnaissance to build a closed loop simlulation system to evaluate advances in tactics and equipment."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Signal Officer (CPT)",
+          "subtitle": "124th Signal Bn, Ft Hood, TX, US Army . undefined",
+          "caption": "Jan 1998 - Jun 2001 · 3 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Battalion Signal Officer, 3-66 AR, 1BDE, 4ID\nNodal Platoon Leader, 2nd PLT, B CO, 124th Signal BN, 4ID\nPersonel Officer (S1), 124th Signal BN, 4ID"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure AI Engineer Associate",
+          "subtitle": "Microsoft",
+          "issued": "Issued Mar 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Exam 774: Perform Cloud Data Science with Azure Machine Learning",
+          "subtitle": "Microsoft",
+          "issued": "Issued Apr 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Exam 475: Designing and Implementing Big Data Analytics Solutions",
+          "subtitle": "Microsoft",
+          "issued": "Issued Apr 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Professional Program Data Science",
+          "subtitle": "Microsoft",
+          "issued": "Issued Sep 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sun Certified Java Developer",
+          "subtitle": "Las Cruces, New Mexico",
+          "issued": "Issued Jun 2005",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Insight Selling",
+          "subtitle": "Microsoft",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2746406",
+          "companyUrn": "urn:li:fsd_company:2746406",
+          "companyLink1": "https://www.linkedin.com/school/edx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1785369600&v=beta&t=ebRzMutXEh0yBChVYN6RC_0n2S1uMiNZuhSK9IqCGgQ",
+          "title": "edX Verified Certificate for Data Science Professional Project",
+          "subtitle": "edX",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "French",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Technology Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Architects",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Solutions",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Active TS/SCI Clearance with polygraph",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Full-Stack Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence (AI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Program Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "10188",
+          "companyUrn": "urn:li:fsd_company:10188",
+          "companyLink1": "https://www.linkedin.com/school/new-mexico-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGrCLDBTVSazw/company-logo_400_400/company-logo_400_400/0/1630620059876/new_mexico_state_university_logo?e=1785369600&v=beta&t=8pbruzQ--DAvgpSDud-SQzNTZ-sQtntiugwL00oIL70",
+          "title": "New Mexico State University",
+          "subtitle": "M.S., Taught FYE 150 Course\nWorked full-time.",
+          "caption": "2002 - 2005",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Focused on Artificial Intelligence and completed Mathematics course in Elementary Stochastic Processes. Successfully passed my qualifying exams in CS."
+            }
+          ]
+        },
+        {
+          "companyId": "14646",
+          "companyUrn": "urn:li:fsd_company:14646",
+          "companyLink1": "https://www.linkedin.com/school/gonzaga-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEVZGXmk4fivg/company-logo_400_400/company-logo_400_400/0/1631307730152?e=1785369600&v=beta&t=Ys8VbDd1NC_d6IjkxwQpI8otHmIYDatwRAmarp0uTJ0",
+          "title": "Gonzaga University",
+          "subtitle": "B.S., ROTC, Orchestra, Jazz Combo, Jazz Big Band, Pep Band, Symphonic Band, Memory Unit Nursing Home Volunteer, ROTC rep. to Spokane Chamber of Commerce, President of the Association for Computing Machinery",
+          "caption": "Sep 1993 - May 1997",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Completed  minor in Mathematics (Probability and Statistics focus)\nGraduated Cum Laude\nTransfered from Physics + Computer Science to Computer Science as a Sophomore."
+            }
+          ]
+        },
+        {
+          "companyId": "10188",
+          "companyUrn": "urn:li:fsd_company:10188",
+          "companyLink1": "https://www.linkedin.com/school/new-mexico-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGrCLDBTVSazw/company-logo_400_400/company-logo_400_400/0/1630620059876/new_mexico_state_university_logo?e=1785369600&v=beta&t=8pbruzQ--DAvgpSDud-SQzNTZ-sQtntiugwL00oIL70",
+          "title": "New Mexico State University",
+          "subtitle": "Master of Science - MS, Computer Science and Visual Languages",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

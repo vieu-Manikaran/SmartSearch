@@ -1,0 +1,178 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/daniel-shaw-a1a805387",
+  "row_key": "id:003Uk000001e2qbIAA",
+  "person": "Daniel Shaw",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:38:02Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAF9Wd3YBK6dNlr0-jD5SkRrDYp6z4AI9K3Q",
+      "firstName": "Daniel",
+      "lastName": "Shaw",
+      "fullName": "Daniel Shaw",
+      "publicIdentifier": "daniel-shaw-a1a805387",
+      "headline": "Senior Software Engineer at Lyka",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Consumer Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Sydney, New South Wales Australia",
+      "addressWithoutCountry": "Sydney, New South Wales",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQH8QwZJjgENNw/profile-displayphoto-crop_800_800/B56ZmU9n_jHAAI-/0/1759140807129?e=1785369600&v=beta&t=qyYkX4qja8w6HzmUPrOMairQgvGkXeMlia61CNpTfYs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH8QwZJjgENNw/profile-displayphoto-scale_100_100/B56ZmU9n_jHAAc-/0/1759140807312?e=1785369600&v=beta&t=GVrPgAbyMu_OZ6Mh0vDf0aARqeUyDelNuc3LE4i6qH8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH8QwZJjgENNw/profile-displayphoto-scale_400_400/B56ZmU9n_jHAAg-/0/1759140807312?e=1785369600&v=beta&t=PH6eZdmLhlAKmO0O0bXIgwB4YWI8HLPyQ6LWYRZoWR0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH8QwZJjgENNw/profile-displayphoto-scale_200_200/B56ZmU9n_jHAAY-/0/1759140807312?e=1785369600&v=beta&t=foqS6dyO0clHim54faxpOLn-HV4DD78cllu9f0LVPBU"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH8QwZJjgENNw/profile-displayphoto-crop_800_800/B56ZmU9n_jHAAI-/0/1759140807129?e=1785369600&v=beta&t=qyYkX4qja8w6HzmUPrOMairQgvGkXeMlia61CNpTfYs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Senior Software Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Jun 2022 - Present · 3 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3641071",
+          "companyUrn": "urn:li:fsd_company:3641071",
+          "companyLink1": "https://www.linkedin.com/company/padua-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF3b3W6PA34WA/company-logo_400_400/company-logo_400_400/0/1673301394798/padua_solutions_logo?e=1785369600&v=beta&t=T9fQPtQ1PfNdF-twezppFpuaRNFpddnCOaCN5w2-N0E",
+          "title": "Senior Software Engineer",
+          "subtitle": "Padua Solutions . Full-time",
+          "caption": "Aug 2021 - Jun 2022 · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "12650378",
+          "companyUrn": "urn:li:fsd_company:12650378",
+          "companyLink1": "https://www.linkedin.com/company/watertight-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFmsGc-TxO7ag/company-logo_400_400/company-logo_400_400/0/1708472516579/watertight_group_logo?e=1785369600&v=beta&t=KDs6fMSEnJDAyM7v7F-rvqWTp8XKHI9sFUyvfUzP3nY",
+          "title": "Software Engineer",
+          "subtitle": "Watertight Group . Freelance",
+          "caption": "Feb 2020 - Aug 2021 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "12769",
+          "companyUrn": "urn:li:fsd_company:12769",
+          "companyLink1": "https://www.linkedin.com/school/western-sydney-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFET1-dRbAzIQ/company-logo_100_100/B56ZyrcBejKAAQ-/0/1772402776745/western_sydney_university_logo?e=1785369600&v=beta&t=QwOGiHeHNQXA4ROFX1nLz1l1_lhgrIPzag7WUKrgv-U",
+          "title": "Learning Resource Developer",
+          "subtitle": "Western Sydney University . Contract",
+          "caption": "Apr 2021 - Jul 2021 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "12769",
+          "companyUrn": "urn:li:fsd_company:12769",
+          "companyLink1": "https://www.linkedin.com/school/western-sydney-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFET1-dRbAzIQ/company-logo_100_100/B56ZyrcBejKAAQ-/0/1772402776745/western_sydney_university_logo?e=1785369600&v=beta&t=QwOGiHeHNQXA4ROFX1nLz1l1_lhgrIPzag7WUKrgv-U",
+          "title": "Educational Technologist",
+          "subtitle": "Western Sydney University . Full-time",
+          "caption": "Apr 2019 - Oct 2020 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "12650378",
+          "companyUrn": "urn:li:fsd_company:12650378",
+          "companyLink1": "https://www.linkedin.com/company/watertight-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFmsGc-TxO7ag/company-logo_400_400/company-logo_400_400/0/1708472516579/watertight_group_logo?e=1785369600&v=beta&t=KDs6fMSEnJDAyM7v7F-rvqWTp8XKHI9sFUyvfUzP3nY",
+          "title": "Software Engineer",
+          "subtitle": "Watertight Group . undefined",
+          "caption": "Nov 2014 - Apr 2019 · 4 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [
+        {
+          "companyId": "12769",
+          "companyUrn": "urn:li:fsd_company:12769",
+          "companyLink1": "https://www.linkedin.com/school/western-sydney-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFET1-dRbAzIQ/company-logo_100_100/B56ZyrcBejKAAQ-/0/1772402776745/western_sydney_university_logo?e=1785369600&v=beta&t=QwOGiHeHNQXA4ROFX1nLz1l1_lhgrIPzag7WUKrgv-U",
+          "title": "Western Sydney University",
+          "subtitle": "Bachelor of Computer Science, null",
+          "caption": "Feb 2014 - Dec 2015",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

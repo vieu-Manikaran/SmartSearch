@@ -1,0 +1,434 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ummair",
+  "row_key": "id:003Uk00000tf6eVIAQ",
+  "person": "Ummair Waheed",
+  "account": "Fitbod",
+  "fetched_at": "2026-07-14T10:35:02Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAASkIQBANfX0uwPLy6US5yXviQWMkpLHFc",
+      "firstName": "Ummair",
+      "lastName": "Waheed",
+      "fullName": "Ummair Waheed",
+      "publicIdentifier": "ummair",
+      "headline": "VP of Engineering at Fitbod",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Health, Wellness & Fitness",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQG6pP0vXw3X1A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1575864387402?e=1785369600&v=beta&t=SzRCbO6qdpR1W3EgO2t3xDyYWoEqYV3dTPxqZSJN4wk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQG6pP0vXw3X1A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1575864387349?e=1785369600&v=beta&t=pwkxywrML-WIM__6qLoL2qPQd17vK1kfn5KnxwMT3Is"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQG6pP0vXw3X1A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1575864387325?e=1785369600&v=beta&t=kIWYGgBFsOtZ1WYZwAb3O3TrVa03xp4PhZOtrV9V6Kw"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQG6pP0vXw3X1A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1575864387376?e=1785369600&v=beta&t=vzKxp0pgKx-3sntll0ts8zrpTYW1nAwytRDY3FVFS1I"
+        },
+        {
+          "width": 499,
+          "height": 499,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQG6pP0vXw3X1A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1575864387402?e=1785369600&v=beta&t=SzRCbO6qdpR1W3EgO2t3xDyYWoEqYV3dTPxqZSJN4wk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "10213159",
+          "companyUrn": "urn:li:fsd_company:10213159",
+          "companyLink1": "https://www.linkedin.com/company/fitbod/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHN9oQ4Gv7qjQ/company-logo_400_400/company-logo_400_400/0/1640626041736/fitbod_llc_logo?e=1785369600&v=beta&t=YA00z866K5DQ9p2KvNJwxZZ5Z3z8vugIPlcEXiyTmko",
+          "title": "VP of Engineering",
+          "subtitle": "Fitbod . undefined",
+          "caption": "Sep 2020 - Present · 5 yrs 4 mos",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "691170",
+          "companyUrn": "urn:li:fsd_company:691170",
+          "companyLink1": "https://www.linkedin.com/company/glassdoor/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEunzK2NHqSyQ/company-logo_400_400/company-logo_400_400/0/1689875075461?e=1785369600&v=beta&t=nCCqEC5xkhAVCGN42hii_pTZK0LZIJ1-rSLpTsYx-gA",
+          "title": "Director of Engineering",
+          "subtitle": "Glassdoor . undefined",
+          "caption": "Feb 2016 - Dec 2019 · 3 yrs 10 mos",
+          "metadata": "Mill Valley, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3098051",
+          "companyUrn": "urn:li:fsd_company:3098051",
+          "companyLink1": "https://www.linkedin.com/company/funplus/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEl4FrPq0xyrA/company-logo_100_100/B4EZ6SQYqjGwAM-/0/1780570229830/funplus_logo?e=1785369600&v=beta&t=N49OLCkZ23nQldxUVmvdTBTDva7JZmdUZ07DcoAgIxU",
+          "title": "FunPlus",
+          "subtitle": "undefined · 3 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director Data Engineering",
+              "caption": "Jan 2014 - Nov 2015 · 1 yr 10 mos",
+              "metadata": "San Francisco, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Funplus is a social and mobile gaming startup founded in 2010, with over 5 MM DAU (Daily Active Users) and a valuation of over $1B as of 2014.\n\n• Built the data platform for the company from scratch, currently supporting 8 games with over 5MM DAU (Daily Active Users) and ingesting over 2TB of game data daily.\n• Defined the data format and documented the data specification that was implemented by internal and external game teams.\n• Developed the data platform using Spark Streaming, Amazon Kinesis, Hadoop MapReduce, Hive, Amazon Redshift, AWS Data Pipeline  and Tableau Server.\n• Integrated 3rd party data sources for install source attribution and A/B testing.\n• Managed all components of the infrastructure on AWS including provisioning, monitoring and scaling. Used bash and python scripts to automate infrastructure tasks.\n• Delivered KPI dashboards, custom reports, funnel reports and ad hoc analysis to executives, marketing and game studios.\n• Prototyped revenue recognition models for virtual currency/goods to support the finance team in recognizing deferred revenue."
+                }
+              ]
+            },
+            {
+              "title": "Director Mobile Engineering",
+              "caption": "Aug 2012 - Dec 2013 · 1 yr 4 mos",
+              "metadata": "San Francisco, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led the client-side engineering team to launch Family Farm Seaside on iOS & Android. It is currently played by 1MM DAU (Daily Active Users).\n• Developed the mobile application using C++, Cocos2dx, Java (Android) and Objective-C (iOS). The backend was in PHP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3474",
+          "companyUrn": "urn:li:fsd_company:3474",
+          "companyLink1": "https://www.linkedin.com/company/ask-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHE-t09W8OlvA/company-logo_400_400/company-logo_400_400/0/1631301309725?e=1785369600&v=beta&t=-_aNQW7Zq300AoaRgbnHOYIROIzjaXnkl1CP0Kp5rBI",
+          "title": "Ask.com",
+          "subtitle": "undefined · 5 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director Technology - Search Engine Marketing (SEM)",
+              "caption": "Mar 2011 - Aug 2012 · 1 yr 5 mos",
+              "metadata": "Oakland, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The SEM business unit was the largest driver of traffic and profit for Ask.com.\n\n• Led the SEM engineering team to migrate the legacy data infrastructure to a Hadoop platform to increase scalability and mitigate data interruption.\n• Developed tools to manage and upload ad campaigns to Google Adwords and Microsoft Bing using Java, Struts 2, Tomcat, Apache Web Server, Quartz , JSP and MySQL.\n• Integrated Google Adwords, Google Adsense and Microsoft Bing APIs to deliver campaign spend, revenue and ROI reporting to business analysts.\n• Managed all components of the SEM infrastructure on AWS and implemented cross region redundancy to mitigate data interruption to the business."
+                }
+              ]
+            },
+            {
+              "title": "Engineering Manager, Front-end Technologies",
+              "caption": "Jun 2009 - Mar 2011 · 1 yr 9 mos",
+              "metadata": "Oakland, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Owned development and delivery of Ask.com site features in 2-week release cycles working closely with product owners, QA, Site Reliability and DevOps.\n• Led the Site Engineering team. Technologies included Java, JSP, Tomcat, Apache HTTP Server, HTML, Javascript, CSS and an in-house web framework.\n• Launched Ask14, a re-skin of Ask.com aligned with the launch of a new Ask.com Communities product. Moved from an in-house Javascript framework to jQuery."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer, Web Applications",
+              "caption": "May 2007 - May 2009 · 2 yrs",
+              "metadata": "Oakland, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Developed and launched the front-end for AskKids.com, a kid friendly version of Ask.com using Java, JSP, Javascript, HTML, CSS, Tomcat and Apache HTTP Server.\n• Developed a configuration framework in Java to cache externally defined XML configuration in-memory to alter web page elements on the fly e.g. ad configurations.\n• Delivered numerous features, enhancements and A/B tests on the Ask.com site."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1025",
+          "companyUrn": "urn:li:fsd_company:1025",
+          "companyLink1": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_200_200/B4EZdkxlEZH0AM-/0/1749742408362/hewlett_packard_enterprise_logo?e=1785369600&v=beta&t=F33cZtdJfo2M1gOUbcpsI66QY4mJ16GyH5FTtiKT0wI",
+          "title": "Systems Analysis Consultant",
+          "subtitle": "Hewlett-Packard . undefined",
+          "caption": "Mar 2004 - May 2007 · 3 yrs 2 mos",
+          "metadata": "Palo Alto, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Owned delivery, deployment and integration for multiple custom built J2EE web applications for ESTC, HP Labs, Palo Alto. Products included Intellectual Property Manager, Paints & Plastics Qualification Information System, Interconnect Reliability Predictor, Supplier Diversity Registration, Supply Chain Social & Environmental Responsibility Monitors.\n• Front-end web developer for HP’s Supply Chain IT software development team. Used HTML, Javascript & CSS for front-end development.\n• Worked closely with business users to translate business requirements into technical specifications and directed efforts of engineering teams to deliver solutions."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Principal Software Engineer",
+          "subtitle": "KAPS Computing . undefined",
+          "caption": "Jun 2000 - Mar 2004 · 3 yrs 9 mos",
+          "metadata": "Lahore, Pakistan",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Led a team of 3 engineers to build multiple J2EE web applications for Hewlett-Packard."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Urdu",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hadoop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tomcat",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Subversion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Ghulam Ishaq Khan Institute of Technology",
+          "subtitle": "Bachelor of Science (BS), President of the Literary & Debating Society",
+          "caption": "1996 - 2000",
+          "subComponents": []
+        },
+        {
+          "title": "Aitchison College, Lahore",
+          "subtitle": "O Levels, A Levels, Debating Team, Cricket Team",
+          "caption": "1990 - 1995",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Principal's Honor List for Academic Achievement."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "238227",
+          "companyUrn": "urn:li:fsd_company:238227",
+          "companyLink1": "https://www.linkedin.com/company/shaukat-khanum-memorial-cancer-hospital-research-center/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHWYozdoCaU0A/company-logo_400_400/company-logo_400_400/0/1643779893321/shaukat_khanum_memorial_cancer_hospital__research_center_logo?e=1785369600&v=beta&t=vGt4aRNQHoPNIfsE7RTx3_mnWY68Xkq9dgTXTiZRFR8",
+          "title": "Information Desk, Fund Raising, Assisting in Seminars/Symposiums",
+          "subtitle": "Shaukat Khanum Memorial Cancer Hospital and Research Centre",
+          "caption": "Dec 1994 - Jul 1995 · 7 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

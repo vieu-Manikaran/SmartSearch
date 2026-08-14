@@ -1,0 +1,348 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/marius-fahlbusch-6326361",
+  "row_key": "id:0036O000048bKODQA2",
+  "person": "Marius Fahlbusch",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:12Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABFdwYBa-cT054gMvCmxdJ97ldaGaXidoQ",
+      "firstName": "Marius",
+      "lastName": "Fahlbusch",
+      "fullName": "Marius Fahlbusch",
+      "publicIdentifier": "marius-fahlbusch-6326361",
+      "headline": "Engineering Director at Epic Games",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Redmond, Washington United States",
+      "addressWithoutCountry": "Redmond, Washington",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 6 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Director of Engineering, Online",
+              "caption": "Jun 2024 - Present · 1 yr 7 mos",
+              "description": []
+            },
+            {
+              "title": "Director Of Engineering",
+              "caption": "Sep 2021 - Jun 2024 · 2 yrs 9 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Epic Online Services"
+                }
+              ]
+            },
+            {
+              "title": "Engineering Lead",
+              "caption": "Aug 2019 - Sep 2021 · 2 yrs 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Game Services, Epic Online Services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "111007",
+          "companyUrn": "urn:li:fsd_company:111007",
+          "companyLink1": "https://www.linkedin.com/company/5th-cell-media/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFD8E0kvPhAcg/company-logo_400_400/company-logo_400_400/0/1631310969441?e=1785369600&v=beta&t=TUk7XAQ16WmlWrvZp4gbTaAdx1KjGbaC1r8r_h6FUbM",
+          "title": "Technical Director",
+          "subtitle": "5TH Cell Media . Self-employed",
+          "caption": "Sep 2003 - Aug 2019 · 15 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Xbox 360",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lua",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DirectX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Dynamodb",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Lambda",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166283",
+          "companyUrn": "urn:li:fsd_company:166283",
+          "companyLink1": "https://www.linkedin.com/school/technische-universitat-munchen/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGYm_x_LuZ84g/company-logo_100_100/B4DZhWqognGsAQ-/0/1753800673663/technische_universitat_munchen_logo?e=1785369600&v=beta&t=hdDkzneAwLivjsqiPu699K1RKMsR0nF5Dmadl5BkAEY",
+          "title": "Technical University of Munich",
+          "subtitle": "Diploma / Master of Science, Programming Tutor",
+          "caption": "Oct 2001 - Nov 2006",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Anchors in the Drift Mobile F2P",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Anchors in the Drift PC",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "MP Arena"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Drawn To Life Franchise",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Hybrid XBLA",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Lock's Quest",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Run Roo Run",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Scribblenauts Franchise",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Unannounced F2P Mobile",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Unannounced Open World Console Title",
+          "subtitle": "",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

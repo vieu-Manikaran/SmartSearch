@@ -1,0 +1,841 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/mark-murphy-a3257612",
+  "row_key": "id:0036O00004AKKdlQAH",
+  "person": "Mark Murphy",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:14Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAKTQUYBgvmOYPYcCNktoK4Az8MuHNeWbLo",
+      "firstName": "Mark",
+      "lastName": "Murphy",
+      "fullName": "Mark Murphy",
+      "publicIdentifier": "mark-murphy-a3257612",
+      "headline": "Technical Director / Director of Engineering | Driving Game Development at Scale | Live Services, Pipelines, and Cross-Discipline Execution",
+      "about": "Technical leader with 25+ years of experience spanning game development, live operations, and production technology, with the last 18 years focused in the games industry. I specialize in bridging engineering, production, and operations to help teams ship high-quality games efficiently and at scale.\n\nMy background sits at the intersection of technology and execution—leading cross-discipline teams, improving development pipelines, and solving the complex coordination challenges that come with modern game development. I’ve worked across live services, tooling, and production environments, helping studios increase velocity, reduce friction, and deliver consistently.\n\nI’m particularly focused on:\n\n* Building and leading high-performing technical teams\n* Scaling development pipelines and production workflows\n* Driving alignment between engineering, production, and creative\n* Supporting live operations and long-term game health\n* Delivering predictable, high-quality outcomes in complex environments\n\nI thrive in environments where clarity, execution, and adaptability matter—whether that’s scaling a studio, stabilizing production, or evolving technology to meet the needs of a growing team.\n\nCurrently focused on Technical Director / Director-level opportunities where I can have broad impact across teams, technology, and delivery.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Seattle Area United States",
+      "addressWithoutCountry": "Greater Seattle Area",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQFuW93L9nyAbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1520373653355?e=1785369600&v=beta&t=2Rjrau1m7r3vNx_LXtCp7jNBxuCU65hqmJm38BUpM0k",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFuW93L9nyAbQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1520373652926?e=1785369600&v=beta&t=N9UQiw14955_8eytiaYdUuXo9k99_X2qJaHMX5WI43A"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQFuW93L9nyAbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1520373653355?e=1785369600&v=beta&t=2Rjrau1m7r3vNx_LXtCp7jNBxuCU65hqmJm38BUpM0k"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "283677",
+          "companyUrn": "urn:li:fsd_company:283677",
+          "companyLink1": "https://www.linkedin.com/company/universal-life-church/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEbDXsCTtkhRw/company-logo_400_400/company-logo_400_400/0/1630606405046/universal_life_church_logo?e=1785369600&v=beta&t=yG_ditdvtvqdiepmV_nv5n-ndJuEKFilzjuOqPErO5M",
+          "title": "Reverend / Minister",
+          "subtitle": "Universal Life Church . Self-employed",
+          "caption": "Aug 2019 - Present · 6 yrs 5 mos",
+          "metadata": "The World",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Minister at Universal Life Church"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18272010",
+          "companyUrn": "urn:li:fsd_company:18272010",
+          "companyLink1": "https://www.linkedin.com/company/probablymonsters/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-4nuAE2AX_Q/company-logo_400_400/company-logo_400_400/0/1712681457024/probablymonsters_logo?e=1785369600&v=beta&t=-GaIhMl8WgsHzYBK2WBfu7jIa4HW7rMVTf9Rn8_uyJQ",
+          "title": "Head of Engineering",
+          "subtitle": "ProbablyMonsters . Full-time",
+          "caption": "Oct 2024 - Jul 2026 · 1 yr 9 mos",
+          "metadata": "Bellevue, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Helping in..\n - Game Publishing Platform\n - Game Platform Tools and Technology\n - CI/CD\n - Data Telemetry\n - Observability\n - Marketing Websites\n - SDET/Platform QA\n - Audio Engineering\n - UI UX Engineering\n - LiveOps Preparation\n - Vendor Technology selection\n - Assisting Game Tech. Directors"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1381092",
+          "companyUrn": "urn:li:fsd_company:1381092",
+          "companyLink1": "https://www.linkedin.com/company/primary-venture-partners/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERg6hmBLeEoA/company-logo_400_400/company-logo_400_400/0/1631102642270/primary_venture_partners_logo?e=1785369600&v=beta&t=Jhy0EJagz5N6Skoh5PhSOMB4Hi2TPS6AjHCwyt2bGvw",
+          "title": "Technical Expert",
+          "subtitle": "Primary Venture Partners . Freelance",
+          "caption": "Feb 2024 - Jun 2026 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As an Expert, I provide strategic advice and guidance to the investment team and founders within the Primary portfolio and broader network. Experts enjoy access to early-stage businesses, emerging trends and technology, and an expanded network of exceptional leaders and resources through a top-tier seed-stage firm.\n\nPrimary is New York City’s premier early-stage venture firm working alongside founders to build unicorns like Alloy, Alma, Chief, Dandy Electric, Latch, K Health, Stellar Health, Slice, and many more."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "163983",
+          "companyUrn": "urn:li:fsd_company:163983",
+          "companyLink1": "https://www.linkedin.com/company/glg/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHoFuOTjwcd6Q/company-logo_100_100/B4DZyV23jsJoAQ-/0/1772040714734/glg_logo?e=1785369600&v=beta&t=IFzlGZvrDS_TQmb9B-XZK6XbEPgUhah0OT3_7FZQ_co",
+          "title": "Information Technology Consultant",
+          "subtitle": "GLG . undefined",
+          "caption": "Aug 2022 - Jun 2026 · 3 yrs 10 mos",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "492504",
+          "companyUrn": "urn:li:fsd_company:492504",
+          "companyLink1": "https://www.linkedin.com/company/acumatica/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFd5XxPr8Ja2A/company-logo_400_400/company-logo_400_400/0/1718287262606/acumatica_logo?e=1785369600&v=beta&t=rJ8iwKBKHrzxNKgCD37GRpbXDCF_CX13wyd7rkUibCE",
+          "title": "Senior Director, IT Infrastructure",
+          "subtitle": "Acumatica . Full-time",
+          "caption": "Feb 2024 - Oct 2024 · 8 mos",
+          "metadata": "Bellevue, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for global end user services, physical data centers, networking, IT infrastructure, (laptops/desktops/VDI/mobile devices/corporate servers), productivity tools, ITSM transformation, and security operations.\n\n- Manage a team of 9 Engineers and managers\n- Accountable for supporting 7 offices globally with 650+ employees, SDWAN, Wireless and Zero Trust\n- Built Incident and Change Management process\n- Planned and executed a move out from Russia to USA, all hardware and data.\n- Maintain Zero Trust network, moving away from VPN.\n- Co-Developed new 12,000 sq/ft office space for HQ (80 seating capacity)\n- Re-architected Infrastructure for hybrid on-prem and cloud capacity\n- Created Inventory system reducing cost and utilizing unused hardware\n- Generated reporting to track annual spend and working with teams to reduce unnecessary licensing costs."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 4 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director, Infrastructure Engineering ",
+              "caption": "May 2022 - Feb 2024 · 1 yr 9 mos",
+              "metadata": "Bellevue, Washington, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Manage a team of 40+ Engineers, across 6 disciplines in over 10 locations worldwide.\n- Owned and supported 19 countries with 55 studios and 4,500+ employees globally. SDWAN, Wireless across all physical locations.\n- Owning IT CI/CD, SCM Perforce & GitHub (Epic and Licensee), Operations, Incident and Change Management, Public and Private Cloud Infrastructure.\n\nI encourage my team to do what is right by the developers we support, by having open communication on tools and technology."
+                }
+              ]
+            },
+            {
+              "title": "Senior Manager, Platform Engineering",
+              "caption": "Jan 2021 - May 2022 · 1 yr 4 mos",
+              "metadata": "Seattle, Washington, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "My job was to get out of the way of smart people and help them get unblocked from doing amazing things.\n\n - Manage a team of engineers in various global locations (America, Mexico, Belarus, Finland, UK and China)\n - Reduced cost of vendor spending by creating open conversation and trust between the 3rd parties and Epic. \n - Mentor and coach junior to principle engineers across Team Online and IT\n - Developed Team Vision and reduced tech debt across the platform that runs Fortnite and multiple studio applications\n - Worked with vendors and internal procurement team to realign contracts to future Epic needs, along with improving relationships.\n - Created a team that wants to help one another, knowledge share, and treats everyone as an equal. \n\nI was lucky to have the privilege to lead them."
+                }
+              ]
+            },
+            {
+              "title": "Producer, Infrastructure Engineering",
+              "caption": "Nov 2019 - Jan 2021 · 1 yr 2 mos",
+              "metadata": "Greater Seattle Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for helping teams work on the right things, at the right time, as well as plan for the future.\n\n- Worked with Team Leads in US, EU, CN regions to prioritize Projects and get initiative updates.\n- Driving conversations across the organisation and regularly meeting stakeholders.\n- Helping support the Lead Infrastructure Engineer with managing vendors and all 3rd parties. (this was from new tools and technology to restructuring previous contracts to meet new needs)\n - Helped hiring for engineering teams across Team Online (TON) and IT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "166875",
+          "companyUrn": "urn:li:fsd_company:166875",
+          "companyLink1": "https://www.linkedin.com/school/washington-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGfChk-QhW3ug/company-logo_400_400/company-logo_400_400/0/1631713534923/washington_state_university_logo?e=1785369600&v=beta&t=Y8pEeS3cc0Vy0T7bt8QuXuJsVsndLoeaNyZixgYc9AQ",
+          "title": "Education Mentor",
+          "subtitle": "Washington State University . Freelance",
+          "caption": "Jan 2021 - Dec 2021 · 11 mos",
+          "metadata": "Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11240681",
+          "companyUrn": "urn:li:fsd_company:11240681",
+          "companyLink1": "https://www.linkedin.com/company/genvid-technologies-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGg6hQUo2wBMw/company-logo_400_400/company-logo_400_400/0/1660917602021/genvid_technologies_inc_logo?e=1785369600&v=beta&t=3vk2LodeS68_BEamy94lPZQHgqBQ8XmSqaj0YcjBZDw",
+          "title": "Senior Manager, Live Operations ",
+          "subtitle": "Genvid Technologies Inc. . undefined",
+          "caption": "Jan 2019 - Nov 2019 · 10 mos",
+          "metadata": "Santa Monica, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Build the Live Operations group, for global support\n- Design and Develop Incident Management, with post mortem support for major events\n- Support multiple projects from esports to SDK development with game and development teams\n- Risk Management for Live Operations and Production\n- Produce a platform that would integrate all metrics with automated alerting \n- Define and lead an integrated Infrastructure and Operations service strategy and technical roadmap.\n- Develop staff\n- Work with key shareholders to formulate a comprehensive technology plan that is consistent with the overall business objectives and budgetary considerations."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5329",
+          "companyUrn": "urn:li:fsd_company:5329",
+          "companyLink1": "https://www.linkedin.com/company/blizzard-entertainment/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGVOMAVOjq1DQ/company-logo_200_200/B56ZpU6IcmH8AM-/0/1762361116762/blizzard_entertainment_logo?e=1785369600&v=beta&t=CGJAXF8LgPBwLVMuLW6Cix64Ws_AJwQUhqizv8RT0J0",
+          "title": "Senior Manager, Operations ",
+          "subtitle": "Blizzard Entertainment . undefined",
+          "caption": "Jul 2017 - Jan 2019 · 1 yr 6 mos",
+          "metadata": "Irvine, California",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for:\n\n - Manage a group of 4 US based Managers, for Operations, with dotted lines from 2 further managers in Europe. Each manager has 5-10 direct reports, who in turn work 4x10hr shifts (some ~30 staff globally).\n - Created a Monitoring Working Group to help build momentum and consensus for how we do monitoring, from rule sets to software defined solutions.\n - Helped architect and roll out a re-organisation of resources, enabling key skill sets and helping to define core competencies for Operations to succeed.\n - Lead Incident, Problem and Change Management.\n - Reporting and analytics for day to day, week to week activity across groups.\n - Project Manager for all new projects, from scope to ensuring correct testing and completion signoff\n - Lead Incident Manager, for BlizzCon events."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1449",
+          "companyUrn": "urn:li:fsd_company:1449",
+          "companyLink1": "https://www.linkedin.com/company/electronic-arts/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGQxdnYoe0DZQ/company-logo_400_400/B4EZVJmsPmGgAc-/0/1740696634652/electronic_arts_logo?e=1785369600&v=beta&t=Vysjki7_yjnxMxWsodLVvbpGjQ0REdhOpa_7Nbcc8CI",
+          "title": "Electronic Arts (EA)",
+          "subtitle": "Full-time · 6 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Manager, Service Operations",
+              "caption": "Sep 2015 - Jul 2017 · 1 yr 10 mos",
+              "metadata": "Austin, Texas Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Responsible for Incident Investigation and Problem Management \n- Operational Readiness for both Software to External Games, Software (Internal) for Development and Service teams, as well as Infrastructure Readiness for new Data Center Build outs\n- Live Title / Launch Support covering both US and APAC regions, travelling to stakeholder sites.\n- Manage, Mentor and Advise MCC Monitoring team. Developing new front end systems for support teams.\n- Mission Control Center (MCC) - Management. Building a new support team for Tier 1 and 2 Support operations. Assisted from concept to rollout, from interviewing to full time training. This was originally 30 people in Mexico (NOC and Unix-FLS), and then hiring a team of 20 people in Austin, Texas.\n- Escalation for SSL and DDOS Mitigation. Worked with Network Engineering, in a strike-team environment, enabling engineers to 'fault fix' and battle incoming attacks, whilst making notes on attack patterns to communicate to Executive Level staff, keeping them appraised of the situations.\n- Process Improvement for the Network Operations Center, building a NOC'epedia and training team members with an aim to improve reaction times and ensure our Players can access the games when they want to play!\n- Operational Readiness Manager for numerous projects, from game development to building/deploying new data centers (USA and Europe primarily)\n- The 'gets it done' specialist. Never a task too big or too small."
+                }
+              ]
+            },
+            {
+              "title": "Service Operations Manager",
+              "caption": "Jul 2014 - Sep 2015 · 1 yr 2 mos",
+              "metadata": "Austin, Texas Area",
+              "description": []
+            },
+            {
+              "title": "Senior Lead Engineer",
+              "caption": "Mar 2012 - Jul 2014 · 2 yrs 4 mos",
+              "metadata": "Ireland & Austin",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Worked as Senior Lead on Star Wars the Old Republic, for Bioware, and later EA on there Digital Platform.\n - Live Operations - Supporting the millions of customers we had, ensuring a 99.999% up time,  managing and coaching a group of engineers to have a 'Players First' mentality.\n - NOC L1 and L2. Hiring over 12 Engineers in Ireland, and 6 in the USA, for supporting Windows, Unix, Database and Data Centers (5 at peak) covering 24x7. This was primarily NetApp Storage and HP Blade technology.\n - Streamlining all procedures - Since this was early development (Alpha) I fostered a program to knowledge share between Development and Operations. This enabled a huge knowledge transfer to occur, which the team actioned and recorded on a Runbook/Knowledgebase, as we approached launch.\n - DevOps\n - L3 Support\n - Tools and Tech\n    - Development of in-house tools, as well as Zabbix, Opswise, and Splunk"
+                }
+              ]
+            },
+            {
+              "title": "Lead NOC Engineer",
+              "caption": "Jan 2011 - Mar 2012 · 1 yr 2 mos",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "ITIL Version 3 Foundation",
+          "subtitle": null,
+          "issued": "Issued Oct 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Dell iSupport (PowerEdge Systems)",
+          "subtitle": null,
+          "issued": "Issued Jan 2010",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM Certified Systems Expert - Virtualization Technical Support for AIX and Linux",
+          "subtitle": "IBM",
+          "issued": "Issued Jul 2004",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "IBM Certified Systems Expert - Enterprise Technical Support for AIX and Linux - V2",
+          "subtitle": "IBM",
+          "issued": "Issued Apr 2004",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "EA ACTIONS  FY15 AWARD",
+          "subtitle": "Issued by Electronic Arts",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "THINK PLAYERS FIRST\n\"Protected our live gaming infrastructure and ensured the best possible player experience throughout the peak holiday season, in face of unpredicted, unprecedented levels of malicious events.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Several Spot Awards",
+          "subtitle": "Issued by Electronic Arts/Bioware",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Several Spot 'stock' awards for work completed and team management."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "THINK CONSUMERS FIRST FY12 Q3/Q4",
+          "subtitle": "Issued by Electronic Arts",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Bioware - Star Wars: The Old Republic: FY12 Q3/Q4 EA Actions \"THINK CONSUMERS FIRST\" Award Winner\n 'Awards are given to teams that exemplify the core values of the company. Under the creed \"Think Consumers First\" The Star Wars: The Old Republic Live Services Team received this award for the smooth launch and overall customer experience.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Golden Joystick Winner for PC Game of the Year 2007",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "For Lord of the Rings Online"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "CIO",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CTO",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Experience (UX)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Executive Team",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "QA Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Platform as a Service (PAAS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vendor Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Program Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Warwickshire College",
+          "subtitle": "NVQ Level 3, IT Support and Administration",
+          "caption": "1999 - 2000",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Passed with Merit"
+            },
+            {
+              "type": "insightComponent",
+              "text": "This was part of an apprenticeship program, supporting a non-profit housing organisation"
+            }
+          ]
+        },
+        {
+          "title": "Campion School and Community College",
+          "subtitle": "null, null",
+          "caption": "1996 - 1999",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "GCSE level exams, 1 A* (Art), 2 A (IT and Mathmatics), 3 B (Double-Science, English) and remainder C (German language)"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Crimson Moon",
+          "subtitle": "Jan 2026 - Jan 2026",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "All platforms, core support for game features"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Storm Lancers (PC, Switch 2)",
+          "subtitle": "Sep 2025 - Dec 2025",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Steam, EGS and Switch 2 development. \nWebsite and marketing tools and tech development for announcements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Storm Lancers",
+          "subtitle": "Dec 2024 - Sep 2025",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Switch 1 game, released 9/12"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Epic Infrastructure ",
+          "subtitle": "Nov 2019 - Feb 2024",
+          "subComponenets": []
+        },
+        {
+          "title": "Battlefield Bad Company",
+          "subtitle": "Sep 2012 - Nov 2019",
+          "subComponenets": []
+        },
+        {
+          "title": "ECS8 - CSGO",
+          "subtitle": "Sep 2019 - Nov 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "https://ecs.faceit.com/\n\nCSGO Tournament for interactice streaming"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FaceIT - Majors",
+          "subtitle": "Apr 2019 - May 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "FaceIT Summer esports event"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Call of Duty Black Ops 4 (PC)",
+          "subtitle": "Apr 2018 - Jan 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Call of Duty Black Ops 4 (PC) on Battle.net"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "World of Warcraft: Battle for Azeroth",
+          "subtitle": "Aug 2018 - Jan 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Release and then Live Support, for WoW:BFA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Blizzcon 2017 - Operations",
+          "subtitle": "Nov 2017 - 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead Incident Manager, Headhunter (IT/Tech, Engineering)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Destiny 2 (Battle.net)",
+          "subtitle": "Oct 2017 - 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Supported game deployment and public release to Battle.net"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BlizzCon 2018: Backstage at Blizzard",
+          "subtitle": "Jul 2018 - Nov 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Producer and Content Creator"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BlizzCon 2018: Backstage at Blizzard",
+          "subtitle": "Jul 2018 - Nov 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Content Producer for 'Backstage at Blizzard'."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Blizzcon 2018",
+          "subtitle": "Jul 2018 - Nov 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Nexus - Supporting LGBTQ, Women in Games and Veterans Lounge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PGA 16",
+          "subtitle": "Jul 2015 - Dec 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Full Retail Launch - Operations Readiness Manager"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Star Wars Battlefront",
+          "subtitle": "Oct 2015 - Nov 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Shift Leader (North America) and Service Op's Manager"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EA Digital Platform",
+          "subtitle": "Aug 2012 - Jun 2017",
+          "subComponenets": []
+        },
+        {
+          "title": "NHL 16",
+          "subtitle": "Sep 2015 - 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Demo, EA Access and Full Retail Launch - Operations Readiness Manager"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Battlefield Hardline",
+          "subtitle": "Feb 2015 - Mar 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Retail Launch - Operations Readiness Manager"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Battlefield 3",
+          "subtitle": "Sep 2012 - 2014",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

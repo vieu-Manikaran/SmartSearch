@@ -1,0 +1,413 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/kevinmah",
+  "row_key": "id:003Uk00000vzJmXIAU",
+  "person": "Kevin Mah",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:43Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAFAb3sBcyK4V-qclZ45GbzusKyf-L9665c",
+      "firstName": "Kevin",
+      "lastName": "Mah",
+      "fullName": "Kevin Mah",
+      "publicIdentifier": "kevinmah",
+      "headline": "Engineering Manager at Yelp",
+      "about": "Front-end developer creating web pages to query the end user for dental patient information \nBack-end developer retrieving dental patient support files using Java, MySQL and XML\n\nSpecialties: Computer Applications: Adobe Fireworks, Microsoft Excel, PowerPoint, Visio, Word, Eclipse, NetBeans, TextMate, \nComputer Development: C, C++, Java, PHP, JavaScript, JQuery, Ruby, Ruby on Rails, PERL, MySQL, CSS, Git, SVN, XML",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Oakland, California United States",
+      "addressWithoutCountry": "Oakland, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQE46WE1O6Ucww/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516303707662?e=1785369600&v=beta&t=rWI1GshRYb5ON0fyfvA7HID50Rfw_urhZ_bwjhb8AqM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQE46WE1O6Ucww/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516303707461?e=1785369600&v=beta&t=xJlQPuTDGWetV9CWV6Qy83VzXqka2y2ML7VLOF6ziBE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQE46WE1O6Ucww/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516303707476?e=1785369600&v=beta&t=dxs3MtaruZ_7UIbqYeSqzBNjVahdAO39_-sOmvO74Rs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQE46WE1O6Ucww/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516303707474?e=1785369600&v=beta&t=WFHjpg5ee-zKZsmX-NS-4pfBlswgDeiFLzR9NZRfhTI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQE46WE1O6Ucww/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516303707662?e=1785369600&v=beta&t=rWI1GshRYb5ON0fyfvA7HID50Rfw_urhZ_bwjhb8AqM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Engineering Manager",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Nov 2024 - Present · 1 yr 2 mos",
+          "metadata": "Oakland, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Continued leading the Shop engineering team through RepairPal's acquisition by Yelp. Manage a team of 4 engineers distributed across the US, Canada, Mexico, and Europe.\n\nThe team builds and maintains two products: the Shop Dashboard, where auto repair shops verify and manage leads, and the Shop Directory, a consumer-facing marketplace for finding certified shops."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "167650",
+          "companyUrn": "urn:li:fsd_company:167650",
+          "companyLink1": "https://www.linkedin.com/company/repairpal/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHcHY6wbQyD3g/company-logo_400_400/company-logo_400_400/0/1719867744774/repairpal_logo?e=1785369600&v=beta&t=_s3NB228VSkr-eXwNmfUeqdBtkMaxc1eyFmTeg9Tb8Y",
+          "title": "RepairPal",
+          "subtitle": "undefined · 9 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineering Manager",
+              "caption": "Jan 2021 - Nov 2024 · 3 yrs 10 mos",
+              "metadata": "San Francisco, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leading team that focuses on shop and partner-facing applications.\n\nMainly using Ruby on Rails, React, and GraphQL"
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jan 2019 - Jan 2021 · 2 yrs",
+              "metadata": "San Francisco, California",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Customer/Marketplace team member that works with customer and partner-facing applications.\n\nMainly using Ruby on Rails and React"
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Mar 2015 - Dec 2018 · 3 yrs 9 mos",
+              "metadata": "San Francisco, CA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Backend/Core team member that worked with shop and partner-facing applications.\n\nMainly used Ruby on Rails and MySQL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "6867",
+          "companyUrn": "urn:li:fsd_company:6867",
+          "companyLink1": "https://www.linkedin.com/company/align-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGHJSOeQV8fHw/company-logo_400_400/company-logo_400_400/0/1670016440976/align_technology_logo?e=1785369600&v=beta&t=i1bOMtPwS_O92TM7EyJc41nQ1AWN1KxNEqvNb47t5e4",
+          "title": "Software Engineer",
+          "subtitle": "Align Technology . undefined",
+          "caption": "Jun 2009 - Mar 2015 · 5 yrs 9 mos",
+          "metadata": "San Jose, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Work with local and remote teams to migrate doctor portal sites from local Microsoft SharePoint severs to Ruby on Rails servers hosted on Heroku\n\nLed the marketing and clinical research team to develop the company's first iPad app used in trade shows and summits using Ruby on Rails and iOS SDK"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3498",
+          "companyUrn": "urn:li:fsd_company:3498",
+          "companyLink1": "https://www.linkedin.com/company/safeway/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGBi9aiSej4_w/company-logo_400_400/company-logo_400_400/0/1630541089981/safeway_logo?e=1785369600&v=beta&t=DSP0lwuSI6IcxYm3R2MjPHGuHaeileoCNQYamlH1mf8",
+          "title": "Intern",
+          "subtitle": "Safeway . undefined",
+          "caption": "Jun 2008 - Aug 2008 · 2 mos",
+          "metadata": "Walnut Creek, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed front-end of Remote Assistant Tool, an intranet site for tech support to diagnose operation devices in 1700+ stores"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1681",
+          "companyUrn": "urn:li:fsd_company:1681",
+          "companyLink1": "https://www.linkedin.com/company/robert-half-international/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFP6-a3z7Fm8Q/company-logo_400_400/company-logo_400_400/0/1696341221977/robert_half_international_logo?e=1785369600&v=beta&t=YMQTnIVxiIevU0INnfIifbZ-ZYd3_WSCm9m_Mqddsec",
+          "title": "Consultant",
+          "subtitle": "Accountemps . undefined",
+          "caption": "Jun 2005 - Jan 2007 · 1 yr 7 mos",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Independently analyzed and edited one year’s worth of 800+ mutual fund transaction logs accordingly to SEC standards"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Office Coordinator",
+          "subtitle": "AMMSCPA . undefined",
+          "caption": "Mar 2004 - Dec 2004 · 9 mos",
+          "metadata": "Santa Cruz, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Improved management of tax extensions, estimates, documents, and office tasks"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2841",
+          "companyUrn": "urn:li:fsd_company:2841",
+          "companyLink1": "https://www.linkedin.com/school/ucsc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHmYTRjksZf6w/company-logo_200_200/B56Z5CzyxBHwAE-/0/1779237335003/ucsc_logo?e=1785369600&v=beta&t=MUWZLhvkx2FHMA_-aiW3GWkAvLvUwgTTHLJ6fJqTCxU",
+          "title": "Computer Lab Consultant",
+          "subtitle": "UC Santa Cruz . undefined",
+          "caption": "Jan 2003 - Dec 2004 · 1 yr 11 mos",
+          "metadata": "Santa Cruz, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Assisted 50+ users with technical work in computer lab"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Ruby on Rails",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Heroku",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AJAX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "157344",
+          "companyUrn": "urn:li:fsd_company:157344",
+          "companyLink1": "https://www.linkedin.com/school/san-jose-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_400_400/company-logo_400_400/0/1688401344849/san_jose_state_university_logo?e=1785369600&v=beta&t=khJ9UfrDTB-8O2MXD1ElfiJ0i-Y7hM3391igS6PzhBA",
+          "title": null,
+          "subtitle": "BS, Computer Science",
+          "caption": "Aug 2007 - May 2009",
+          "subComponents": []
+        },
+        {
+          "companyId": "2841",
+          "companyUrn": "urn:li:fsd_company:2841",
+          "companyLink1": "https://www.linkedin.com/school/ucsc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHmYTRjksZf6w/company-logo_200_200/B56Z5CzyxBHwAE-/0/1779237335003/ucsc_logo?e=1785369600&v=beta&t=MUWZLhvkx2FHMA_-aiW3GWkAvLvUwgTTHLJ6fJqTCxU",
+          "title": null,
+          "subtitle": "BA, Business Management Economics",
+          "caption": "2000 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

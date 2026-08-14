@@ -1,0 +1,427 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/earlhooper",
+  "row_key": "id:003Uk00000tWNgAIAW",
+  "person": "Earl Hooper",
+  "account": "Notified",
+  "fetched_at": "2026-07-14T10:35:28Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAADAwTUBhNACJZrEVDZX7aCq0KnA6q8RZuc",
+      "firstName": "Earl",
+      "lastName": "Hooper",
+      "fullName": "Earl Hooper",
+      "publicIdentifier": "earlhooper",
+      "headline": "Enterprise Architecture | Data Thought Leadership | Advance Analytics (AI/ML/NLP) | Data Engineering | Team Leadership",
+      "about": "Data Thought Leadership | Solution Architecture | Hands-on Data Architecture and Engineering",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Portland, Oregon United States",
+      "addressWithoutCountry": "Portland, Oregon",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQGREhC5CqwaiQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726158150174?e=1785369600&v=beta&t=zg2yC7OYhPdEIHjrN51QnomZcRREBw7zZL03ATqp9do",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGREhC5CqwaiQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726158150154?e=1785369600&v=beta&t=FcGFoZTNdLOy_i2Kez_BucJOkFGXpo4E0NEmQpEKUpI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGREhC5CqwaiQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726158150154?e=1785369600&v=beta&t=q3Uvt3VXHh5MytgN4rSK-SJfeVl1H8FosrJHRwpnnvA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGREhC5CqwaiQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726158150154?e=1785369600&v=beta&t=shMxHklbquKV4MURkA2zTxBhvCGIVKly-9qgosJMN0E"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQGREhC5CqwaiQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726158150174?e=1785369600&v=beta&t=zg2yC7OYhPdEIHjrN51QnomZcRREBw7zZL03ATqp9do"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1006947",
+          "companyUrn": "urn:li:fsd_company:1006947",
+          "companyLink1": "https://www.linkedin.com/company/notified/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv_1sIYf5G5g/company-logo_400_400/company-logo_400_400/0/1719256826634/notified_logo?e=1785369600&v=beta&t=zR2zhSgRMZLUtBc0GfwhlHWuEGBdiyGoi-jqzPbykeI",
+          "title": "Notified",
+          "subtitle": "Full-time · 4 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director, IT - Analytic Insight",
+              "caption": "Jan 2024 - Present · 2 yrs",
+              "metadata": "Portland, Oregon, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Promotion to the head of business intelligence and internal data, leading a team of 10 bi-visualization, data engineers, and data sciences specialists.\n\nSaved 250,000 USD managing vendors and contract labor costs."
+                }
+              ]
+            },
+            {
+              "title": "Enterprise Data Architect",
+              "caption": "Sep 2021 - Jan 2024 · 2 yrs 4 mos",
+              "metadata": "Portland, Oregon, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Launched the first AI team at Notified, which delivered the AI Press Release Generator, Github Copilot rollout, Earning Call Coach POC, PR Grader POC, and Secure Chatbot.\n\nDelivered serverless, self-healing data and AI pipeline processing 3m+ articles/day.\n\nGenerated sales leads from public sources, resulting in 1.6 million in sales."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "5335",
+          "companyUrn": "urn:li:fsd_company:5335",
+          "companyLink1": "https://www.linkedin.com/company/west-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF8pQLJ-OPsPA/company-logo_400_400/company-logo_400_400/0/1675802766948/west_corporation_logo?e=1785369600&v=beta&t=4LmTHmeYk8O4hWeTojN2ZEQcSnihIbovCTT7bkrqnq4",
+          "title": "Enterprise Data Architect",
+          "subtitle": "West Corporation . Full-time",
+          "caption": "Jan 2009 - Sep 2021 · 12 yrs 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Primary role: collaborate with data teams across subsidiaries ( Intercall, Intrado, Notified, etc.) to draft and set data strategy and assist delivery teams in execution.\n\nPublished internal whitepapers on database selection (RDBMS, KeyValue, Doc, etc.),  replication and caching patterns.\n\nLaunched Intercall's ‘Data Fabric’, modernizing our Conferencing Data Platform (MongoDB & Kafka), lowering costs from 2.7 million to 1.1 million.\n\nLaunched West’s Big Data platform (4o-node  Cloudera), allowing three other data warehouse solutions to retire, net saving over one million.\n\nCross datacenter, 911 Call routing failure detection and reporting solution."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Sr Data Analyst",
+          "subtitle": "Advanced Technology Group (ATG) . Contract",
+          "caption": "Dec 2007 - Jan 2009 · 1 yr 1 mo",
+          "metadata": "Atlanta, Georgia, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Discovered and documented existing ETL and 1,500 reports, then led team refactoring ETL on PLSQL & Oracle Transportable TableSpaces to support the new billing platform."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "8027",
+          "companyUrn": "urn:li:fsd_company:8027",
+          "companyLink1": "https://www.linkedin.com/company/dat-freight-and-analytics/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGt8wZ1rLBmYg/company-logo_400_400/company-logo_400_400/0/1728058360254/dat_freight_and_analytics_logo?e=1785369600&v=beta&t=h6zCyH8Y5iolK_1sPX4y3zbf0VZQgF6hIFNzSvYf2z0",
+          "title": "Transcore",
+          "subtitle": "undefined · 4 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Application Developer V",
+              "caption": "May 2003 - Sep 2007 · 4 yrs 4 mos",
+              "metadata": "Portland, Oregon Metropolitan Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Tech lead: buinesss apps (python, c, sql, xml, Biztalk, Siebel, data warehouse)"
+                }
+              ]
+            },
+            {
+              "title": "Independent Contractor",
+              "caption": "Oct 2002 - Apr 2003 · 6 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Implement Billing Systems"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1044",
+          "companyUrn": "urn:li:fsd_company:1044",
+          "companyLink1": "https://www.linkedin.com/company/pwc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=1785369600&v=beta&t=7BD9Id14fDdTuceDb8vFSWlANrjlMUvKIWzWESy7ZYg",
+          "title": "Consultant",
+          "subtitle": "PricewaterhouseCoopers . undefined",
+          "caption": "May 2000 - Sep 2002 · 2 yrs 4 mos",
+          "metadata": "Seattle, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Implemented CRM and billing platforms in Canada, US and South America."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4955",
+          "companyUrn": "urn:li:fsd_company:4955",
+          "companyLink1": "https://www.linkedin.com/company/centurylink/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGi2ll7bC7CHQ/company-logo_400_400/company-logo_400_400/0/1631300984432?e=1785369600&v=beta&t=hHTdhKp-cn-C5_kmMOHMU8M7zw5OsWlCURDhg3Ff-h8",
+          "title": "Independent Contractor",
+          "subtitle": "Qwest Communications . undefined",
+          "caption": "Nov 1999 - Mar 2000 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "157240",
+          "companyUrn": "urn:li:fsd_company:157240",
+          "companyLink1": "https://www.linkedin.com/company/capgemini/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_200_200/B4EZokv7VQIUAI-/0/1761553135376/capgemini_logo?e=1785369600&v=beta&t=LYoEE0H7mVjOA0mBKeh2h96bocnQfAdq5DaE5R0PB60",
+          "title": "Consultant",
+          "subtitle": "Cap Gemini . undefined",
+          "caption": "Dec 1997 - Nov 1999 · 1 yr 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NoSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telecommunications Billing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Relationship Management (CRM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Extract, Transform, Load (ETL)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Prompt Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Process",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDLC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166875",
+          "companyUrn": "urn:li:fsd_company:166875",
+          "companyLink1": "https://www.linkedin.com/school/washington-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGfChk-QhW3ug/company-logo_400_400/company-logo_400_400/0/1631713534923/washington_state_university_logo?e=1785369600&v=beta&t=Y8pEeS3cc0Vy0T7bt8QuXuJsVsndLoeaNyZixgYc9AQ",
+          "title": null,
+          "subtitle": "BS, Electrical Engineering",
+          "caption": "1992 - 1997",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "15454153",
+          "companyUrn": "urn:li:fsd_company:15454153",
+          "companyLink1": "https://www.linkedin.com/company/mark-cuban-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHeYa4i7idfyw/company-logo_200_200/B4EZ8fYEgWHoAE-/0/1782937831695/mark_cuban_foundation_logo?e=1785369600&v=beta&t=MlA-efppUIOdxmycI4F5lVZTlvoAmj6isdLbd37AjLc",
+          "title": "Mentor",
+          "subtitle": "Mark Cuban Foundation",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "34676765",
+          "companyUrn": "urn:li:fsd_company:34676765",
+          "companyLink1": "https://www.linkedin.com/company/ageplusoregon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFzbZJNnG7zVA/company-logo_400_400/company-logo_400_400/0/1689006691709/ageplusoregon_logo?e=1785369600&v=beta&t=zFzm5V9L0RI0s9z9Iw6Ezf2_KHmG-BXQplDV4uHnDtU",
+          "title": "Salesforce Administrator",
+          "subtitle": "AGE+",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

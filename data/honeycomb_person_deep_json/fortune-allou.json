@@ -1,0 +1,313 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/fortune-allou",
+  "row_key": "id:003Uk00000x1r3WIAQ",
+  "person": "Fortune Allou",
+  "account": "Werner Enterprises, Inc.",
+  "fetched_at": "2026-07-14T10:47:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADJv5mQB80mGM0yABQSFqSFLgl9sxqcjaiQ",
+      "firstName": "Fortuné",
+      "lastName": "Allou",
+      "fullName": "Fortuné Allou",
+      "publicIdentifier": "fortune-allou",
+      "headline": "Software Engineer at Werner Enterprises",
+      "about": "Hi, I'm Fortuné! A Computer Science graduate, passionate about facilitating lives through tech. \nI have had the chance, through volunteering, to teach the next generation about the joy and efficacy of tech while refining my technical skills through projects, and internships.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Higher Education",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Atlanta Metropolitan Area United States",
+      "addressWithoutCountry": "Atlanta Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEEQbbUVRIK8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1600180824112?e=1785369600&v=beta&t=Ge-_8AoGGy7FrTr9RltY0pwJXpyDZqO9VDHzZyQOCGA",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQGmHIRl7HRktw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1653307544660?e=1785369600&v=beta&t=KK-J5GsJ5tEyxZJP4ZFrPvaGyjCoV5Lduaatf8cZhuM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEEQbbUVRIK8w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1600180824112?e=1785369600&v=beta&t=Loqiypwd1EZOCqlPxlnltZgsuEB-RDJjmqNWMBcMr5E"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEEQbbUVRIK8w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1600180824112?e=1785369600&v=beta&t=ZlZGjsclSqli_MqX4EZTSfJmO56yB4SVFsq0V5LUbxc"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEEQbbUVRIK8w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1600180824112?e=1785369600&v=beta&t=kllSvpQ-MlLa_0CKesoN8tClHrd8XNkMdVOHWj5uP08"
+        },
+        {
+          "width": 663,
+          "height": 663,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEEQbbUVRIK8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1600180824112?e=1785369600&v=beta&t=Ge-_8AoGGy7FrTr9RltY0pwJXpyDZqO9VDHzZyQOCGA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQGmHIRl7HRktw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1653307544660?e=1785369600&v=beta&t=JYqNYG2zD8F49LmoSx1yQn6patfqFM-ScPGDpRNDhWA"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQGmHIRl7HRktw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1653307544660?e=1785369600&v=beta&t=KK-J5GsJ5tEyxZJP4ZFrPvaGyjCoV5Lduaatf8cZhuM"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "12586",
+          "companyUrn": "urn:li:fsd_company:12586",
+          "companyLink1": "https://www.linkedin.com/company/werner-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAK3LmTyMsrA/company-logo_400_400/company-logo_400_400/0/1737154595689/werner_enterprises_logo?e=1785369600&v=beta&t=20ZSiGgtgVf7Ay72nPY2zknfCOtqd4PtVORDmNYfGew",
+          "title": "Werner Enterprises",
+          "subtitle": "Internship · 3 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer",
+              "caption": "Sep 2024 - Present · 1 yr 4 mos",
+              "description": []
+            },
+            {
+              "title": "Applications Development Intern",
+              "caption": "Jan 2023 - Sep 2024 · 1 yr 8 mos",
+              "metadata": "Omaha, Nebraska, United States",
+              "description": []
+            },
+            {
+              "title": "Software QA Intern",
+              "caption": "May 2022 - Jan 2023 · 8 mos",
+              "metadata": "Omaha, Nebraska, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Conducted manual and automated tests on software features using Postman and Azure Test Suites, resulting in reduction in bugs found post-release.\n• Developed and maintained test automation framework, streamlining the testing process and reducing manual testing time.\n• Reviewed requirement documents and provided feedback, ensuring 100% test coverage for new features."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "5923",
+          "companyUrn": "urn:li:fsd_company:5923",
+          "companyLink1": "https://www.linkedin.com/school/unomaha/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMpeANJEpzNQ/company-logo_400_400/company-logo_400_400/0/1665876889721/unomaha_logo?e=1785369600&v=beta&t=qwwh47v96ecZWx5sWriG_hip0_HIHr3hTXYBdzLfmw8",
+          "title": "University of Nebraska at Omaha",
+          "subtitle": "Part-time · 3 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Junior Developer",
+              "caption": "May 2021 - Apr 2022 · 11 mos",
+              "metadata": "Omaha, Nebraska, United States",
+              "description": []
+            },
+            {
+              "title": "Customer Service Consultant",
+              "caption": "Jul 2019 - May 2021 · 1 yr 10 mos",
+              "metadata": "Omaha, Nebraska, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Managed the CBA Computer Lab and Study Rooms.\n• Assisted students and professors with technology and issues they may encounter.\n• Provided an excellent level of customer service to all of the CBA community."
+                }
+              ]
+            },
+            {
+              "title": "ISTEM Teacher",
+              "caption": "Feb 2019 - Jul 2019 · 5 mos",
+              "metadata": "Omaha, Nebraska, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led a Scratch programming class of 15 elementary school students, teaching them computer science concepts using Scratch and App Inventor.\n• Provided one-on-one help with students concerning the material learned in a fun and encouraging environment."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Unity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teaching",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Adobe Photoshop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Adobe Premiere Pro",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5923",
+          "companyUrn": "urn:li:fsd_company:5923",
+          "companyLink1": "https://www.linkedin.com/school/unomaha/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMpeANJEpzNQ/company-logo_400_400/company-logo_400_400/0/1665876889721/unomaha_logo?e=1785369600&v=beta&t=qwwh47v96ecZWx5sWriG_hip0_HIHr3hTXYBdzLfmw8",
+          "title": "University of Nebraska at Omaha",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "2018 - Dec 2023",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Virtual Reality Rehabilitation Game Enhancement",
+          "subtitle": "Aug 2023 - Dec 2023",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Collaborated on a team project to enhance the fun, goals, and progression elements of an existing VR balloon game designed for stroke rehabilitation.\n• Led the QA/testing efforts to validate game enhancements, employing a combination of manual and automated tests to ensure reliability and efficacy.\n• Utilized Unity and C# for development, and continuously iterating based on user feedback and clinical guidance."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

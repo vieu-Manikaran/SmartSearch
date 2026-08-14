@@ -1,0 +1,305 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jaspreet-b-214035190",
+  "row_key": "id:003Uk000002cTStIAM",
+  "person": "Jaspreet Bakshi",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:46Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACza1fABohbAresTYtOBz6xAJ3w8EWbyxgo",
+      "firstName": "Jaspreet",
+      "lastName": "B.",
+      "fullName": "Jaspreet B.",
+      "publicIdentifier": "jaspreet-b-214035190",
+      "headline": "Senior GYN Sales Specialist at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQHCsNFbbkkMOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1574751336206?e=1785369600&v=beta&t=hlvln8hr297JiEraUrzxFQTCEULfBuGSf4mWA_m1XJ4",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHCsNFbbkkMOQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1574751336157?e=1785369600&v=beta&t=Th7pqsy3JVQZ4OKU6o0HP5GB0nHjLRyNFqlDWtKX0J8"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHCsNFbbkkMOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1574751336206?e=1785369600&v=beta&t=hlvln8hr297JiEraUrzxFQTCEULfBuGSf4mWA_m1XJ4"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 3 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior GYN Sales Specialist",
+              "caption": "Jun 2025 - Present · 7 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Surgical Sales Representative GYN",
+              "caption": "Jun 2023 - Jun 2025 · 2 yrs",
+              "metadata": "San Jose, California, United States",
+              "description": []
+            },
+            {
+              "title": "Associate Sales Representative",
+              "caption": "Dec 2022 - Jun 2023 · 6 mos",
+              "metadata": "San Francisco, California, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "645050",
+          "companyUrn": "urn:li:fsd_company:645050",
+          "companyLink1": "https://www.linkedin.com/company/evofem/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGv0FzCLThDuQ/company-logo_400_400/company-logo_400_400/0/1630624647142/evofem_inc_logo?e=1785369600&v=beta&t=E5FyKBSBFGdIkWX7CuOBUzv3v-1Pdy5Ookk5NPn6WhA",
+          "title": "Regional Sales Representative",
+          "subtitle": "Evofem Biosciences . Full-time",
+          "caption": "May 2022 - Nov 2022 · 6 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1603",
+          "companyUrn": "urn:li:fsd_company:1603",
+          "companyLink1": "https://www.linkedin.com/company/astrazeneca/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEuFlOA7pBVJw/company-logo_400_400/company-logo_400_400/0/1663748570969/astrazeneca_logo?e=1785369600&v=beta&t=TUAM-ljQ3HqvSgmuFq1PDE1kepoRz6V8-cr3tmnqzQ4",
+          "title": "Pharmaceutical Sales Specialist",
+          "subtitle": "AstraZeneca . Full-time",
+          "caption": "Apr 2020 - May 2022 · 2 yrs 1 mo",
+          "metadata": "San Francisco, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3077999",
+          "companyUrn": "urn:li:fsd_company:3077999",
+          "companyLink1": "https://www.linkedin.com/company/panish-shea-ravipudi-llp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFrMtIaV8KkAQ/company-logo_400_400/company-logo_400_400/0/1706126816683/panish_shea_ravipudi_llp_logo?e=1785369600&v=beta&t=SzkoBe9so0xJrDug1KLGtPMnI3kDt7StdE5ZI_RPViI",
+          "title": "Administrative Assistant",
+          "subtitle": "Panish Shea & Boyle LLP . undefined",
+          "caption": "Jul 2019 - Feb 2020 · 7 mos",
+          "metadata": "Los Angeles, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2842",
+          "companyUrn": "urn:li:fsd_company:2842",
+          "companyLink1": "https://www.linkedin.com/school/uc-davis/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEoGOIHB7x65w/company-logo_400_400/B56ZnoqcQMKMAg-/0/1760545064338/uc_davis_logo?e=1785369600&v=beta&t=et_2GgXg_X1_1c7DyC7oKuUiqNKnYkju1KXXsZa3iFs",
+          "title": "Hobbs Lab Intern",
+          "subtitle": "University of California, Davis . undefined",
+          "caption": "Jan 2019 - Jun 2019 · 5 mos",
+          "metadata": "Davis, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2842",
+          "companyUrn": "urn:li:fsd_company:2842",
+          "companyLink1": "https://www.linkedin.com/school/uc-davis/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEoGOIHB7x65w/company-logo_400_400/B56ZnoqcQMKMAg-/0/1760545064338/uc_davis_logo?e=1785369600&v=beta&t=et_2GgXg_X1_1c7DyC7oKuUiqNKnYkju1KXXsZa3iFs",
+          "title": "Wood Duck Intern",
+          "subtitle": "University of California, Davis . undefined",
+          "caption": "Mar 2018 - Jun 2018 · 3 mos",
+          "metadata": "Davis, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Customer Relationship Management (CRM)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Relationship Building",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Satisfaction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Experience",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cold Calling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Time Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DocuSign",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Interpersonal Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Organization Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2842",
+          "companyUrn": "urn:li:fsd_company:2842",
+          "companyLink1": "https://www.linkedin.com/school/uc-davis/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEoGOIHB7x65w/company-logo_400_400/B56ZnoqcQMKMAg-/0/1760545064338/uc_davis_logo?e=1785369600&v=beta&t=et_2GgXg_X1_1c7DyC7oKuUiqNKnYkju1KXXsZa3iFs",
+          "title": "University of California, Davis",
+          "subtitle": "Bachelor of Science - BS, Wildlife, Fish and Conservation Biology; Minor in Environmental Policy Analysis and Planning",
+          "caption": "2014 - 2019",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Horse Leader",
+          "subtitle": "Answered Prayers Healing/Therapeutic Riding Program",
+          "caption": "Oct 2014 - Feb 2017 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Volunteer",
+          "subtitle": "Davis Senior Center",
+          "caption": "Sep 2014 - Jun 2018 · 3 yrs 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

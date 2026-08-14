@@ -1,0 +1,414 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/rodrigo-travessini-21410a119",
+  "row_key": "id:0036O00003V03CHQAZ",
+  "person": "Rodrigo Travessini",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:45Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB1h4LAB1OIyrYsRJDyVbQOZTsj7vfcAEik",
+      "firstName": "Rodrigo",
+      "lastName": "Travessini",
+      "fullName": "Rodrigo Travessini",
+      "publicIdentifier": "rodrigo-travessini-21410a119",
+      "headline": "Principal Embedded Software Engineer at Medtronic Digital Surgery",
+      "about": "I'm an electronics engineer with a solid technical background in FPGA-based systems and embedded software. My top interests include computer architecture and space electronics.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "BR",
+        "language": "pt"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Royal Tunbridge Wells, England United Kingdom",
+      "addressWithoutCountry": "Royal Tunbridge Wells, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 3 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Embedded Software Engineer",
+              "caption": "Jul 2025 - Present · 6 mos",
+              "metadata": "London Area, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Embedded Software Engineer",
+              "caption": "Jul 2023 - Jul 2025 · 2 yrs",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Embedded Software Engineer",
+              "caption": "May 2022 - Jul 2023 · 1 yr 2 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "537702",
+          "companyUrn": "urn:li:fsd_company:537702",
+          "companyLink1": "https://www.linkedin.com/company/grosvenor-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGglIFcIhdGdg/company-logo_400_400/company-logo_400_400/0/1682515625771/grosvenor_technology_logo?e=1785369600&v=beta&t=qcV1VpP_rMF7xuhahH4d5w2IBru4f1fnrVEocIbSF0A",
+          "title": "Embedded Software Engineer",
+          "subtitle": "Grosvenor Technology . undefined",
+          "caption": "Sep 2019 - May 2022 · 2 yrs 8 mos",
+          "metadata": "Bournemouth, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18326832",
+          "companyUrn": "urn:li:fsd_company:18326832",
+          "companyLink1": "https://www.linkedin.com/company/nanoraven/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHWLdevDOFe1Q/company-logo_400_400/company-logo_400_400/0/1631381280409?e=1785369600&v=beta&t=gkNWXNQcu0aXK9AVitsTNq4AW8a1S-oZc-9Q97XZz5I",
+          "title": "Electronics Engineer",
+          "subtitle": "NanoRaven . undefined",
+          "caption": "Apr 2018 - Apr 2019 · 1 yr",
+          "metadata": "Montpellier Area, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Firmware development using the FreeRTOS kernel.\n● Development of an FPGA-based software-defined radio using Xilinx Zynq SoC and Analog Devices Radio Transceiver ICs.\n● Design, implementation, and verification of VHDL IP cores.\n● Embedded Linux development with Yocto Project."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "10810671",
+          "companyUrn": "urn:li:fsd_company:10810671",
+          "companyLink1": "https://www.linkedin.com/company/quem-vai-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHgN4UVEQ2fSA/company-logo_400_400/company-logo_400_400/0/1631311625806?e=1785369600&v=beta&t=SOW8LRRQ7TjXaHbOfWGw8y8PSNcT4qR_xc5X70LuYb8",
+          "title": "Partner and Full-Stack Developer",
+          "subtitle": "Quem vai? . undefined",
+          "caption": "Jul 2016 - Aug 2017 · 1 yr 1 mo",
+          "metadata": "Florianópolis Area, Brazil",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Full-stack web development using the Django framework."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Development Intern",
+          "subtitle": "WaveTech Soluções Tecnológicas . undefined",
+          "caption": "Feb 2015 - Dec 2015 · 10 mos",
+          "metadata": "Florianópolis Area, Brazil",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Firmware development in C for embedded systems.\n● Development of Android applications in Java."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3361850",
+          "companyUrn": "urn:li:fsd_company:3361850",
+          "companyLink1": "https://www.linkedin.com/company/quixim/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHWzVb5zO3BAA/company-logo_400_400/company-logo_400_400/0/1631341093105?e=1785369600&v=beta&t=NFi4K40kjDwySqHso3RHL4usE32Ikj_z4uhNE7sx2s8",
+          "title": "Software Development Intern",
+          "subtitle": "Quixim . undefined",
+          "caption": "May 2014 - Aug 2014 · 3 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Development of high performance EDA tools to simulate digital systems in multiprocessor architectures."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "17959",
+          "companyUrn": "urn:li:fsd_company:17959",
+          "companyLink1": "https://www.linkedin.com/school/ufsc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH9nzwYs1SA_w/company-logo_200_200/B4DZsJmbYBJUAI-/0/1765392627867/ufsc_logo?e=1785369600&v=beta&t=rYchuTgB9gpV_ECj0DjPP4ClGcrg8KNtQd6gD1HEfIg",
+          "title": "Undergraduate Researcher",
+          "subtitle": "Embedded Computing Lab . undefined",
+          "caption": "Aug 2012 - Jun 2013 · 10 mos",
+          "metadata": "Florianópolis Area, Brazil",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Worked with a group of professors and undergraduate students in a research project focusing the study of security protocols and their energy requirements in embedded systems."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Portuguese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Embedded Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Field-Programmable Gate Arrays (FPGA)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Electronics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Verilog",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VHDL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Embedded Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Xilinx",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Yocto Project",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "17959",
+          "companyUrn": "urn:li:fsd_company:17959",
+          "companyLink1": "https://www.linkedin.com/school/ufsc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH9nzwYs1SA_w/company-logo_200_200/B4DZsJmbYBJUAI-/0/1765392627867/ufsc_logo?e=1785369600&v=beta&t=rYchuTgB9gpV_ECj0DjPP4ClGcrg8KNtQd6gD1HEfIg",
+          "title": "Universidade Federal de Santa Catarina",
+          "subtitle": "Master's degree, Electrical and Electronics Engineering",
+          "caption": "2016 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.54"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Thesis Title: Low Overhead Single Event Upset Reliability Improvement for Soft Core Processors"
+            }
+          ]
+        },
+        {
+          "companyId": "17959",
+          "companyUrn": "urn:li:fsd_company:17959",
+          "companyLink1": "https://www.linkedin.com/school/ufsc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH9nzwYs1SA_w/company-logo_200_200/B4DZsJmbYBJUAI-/0/1765392627867/ufsc_logo?e=1785369600&v=beta&t=rYchuTgB9gpV_ECj0DjPP4ClGcrg8KNtQd6gD1HEfIg",
+          "title": "Universidade Federal de Santa Catarina",
+          "subtitle": "Engineer's degree, Electrical and Electronics Engineering",
+          "caption": "2010 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "8.46"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Final Project: Implementation of a Checkpoint Saving Mechanism in Hardware for the LEON3\nProcessor.\n\nRelevant Coursework:\n●  Computer Organization\n●  Digital Systems\n●  Circuits and Integrated Systems\n●  C++ for Embedded Systems"
+            }
+          ]
+        },
+        {
+          "companyId": "3660",
+          "companyUrn": "urn:li:fsd_company:3660",
+          "companyLink1": "https://www.linkedin.com/school/university-of-toronto/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHX-foiyEDxpw/company-logo_400_400/company-logo_400_400/0/1639421285702/university_of_toronto_logo?e=1785369600&v=beta&t=at2zlejozfDNtdXS6u0Y9IBIzddm3-_lhVsALPBBv-U",
+          "title": "University of Toronto",
+          "subtitle": "Exchange program, Electrical and Electronics Engineering",
+          "caption": "2013 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Relevant Coursework:\n● Computer Architecture\n● Digital Systems Design\n● VLSI Systems Design\n● Multimedia Systems"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

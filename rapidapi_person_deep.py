@@ -15,8 +15,8 @@ from config import settings
 logger = logging.getLogger(__name__)
 
 RAPIDAPI_HOST = "linkedin-data-scraper.p.rapidapi.com"
-MAX_RETRIES = 5
-RETRY_BACKOFF_SEC = 2.0
+MAX_RETRIES = 6
+RETRY_BACKOFF_SEC = 3.0
 LINKEDIN_IN_RE = re.compile(r"linkedin\.com/in/([^/?#]+)", re.I)
 
 

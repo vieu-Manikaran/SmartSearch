@@ -1,0 +1,507 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jeffreyrios",
+  "row_key": "id:003Uk00000yaIgZIAU",
+  "person": "Jeffrey Rios",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:18:46Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAbrB1EB7v8MkWu7UigfPReuj2OQI7Jtd7w",
+      "firstName": "Jeffrey",
+      "lastName": "R.",
+      "fullName": "Jeffrey R.",
+      "publicIdentifier": "jeffreyrios",
+      "headline": "Engineering Director, Global Supplier Quality at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Metro Jacksonville United States",
+      "addressWithoutCountry": "Metro Jacksonville",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHLyLXs1-SYog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677866188894?e=1785369600&v=beta&t=Af0DJpXibeFaMxhFQ08r7vWQ7cNWhxc3OKtyI20hgiM",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHLyLXs1-SYog/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1677866188893?e=1785369600&v=beta&t=4l4LMIdR66El1KDi_xtMmqLWZGKg6e9Homryl8VsxLo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHLyLXs1-SYog/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677866188894?e=1785369600&v=beta&t=HHw4wdSiexoIIS9LO-BEePJKzgE0swLP-wxSeimTjbQ"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHLyLXs1-SYog/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1677866188894?e=1785369600&v=beta&t=d4QrA6oya2gE3mp-an6TfdzBdua1U3SCd2bI57kt6fU"
+        },
+        {
+          "width": 755,
+          "height": 755,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHLyLXs1-SYog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677866188894?e=1785369600&v=beta&t=Af0DJpXibeFaMxhFQ08r7vWQ7cNWhxc3OKtyI20hgiM"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 17 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Engineering Director, Global Supplier Quality",
+              "caption": "Jun 2022 - Present · 3 yrs 7 mos",
+              "metadata": "Jacksonville, Florida, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Global Supplier Quality"
+                }
+              ]
+            },
+            {
+              "title": "Sr Engineering Manager, Supplier Quality",
+              "caption": "Mar 2019 - Mar 2023 · 4 yrs",
+              "metadata": "Jacksonville, Florida Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "ENT Business Supplier Quality Functional Management, New Product Development and Manufacturing/Operations Engineering"
+                }
+              ]
+            },
+            {
+              "title": "Sr Quality/Regulatory Affairs Program Manager",
+              "caption": "Oct 2016 - Mar 2019 · 2 yrs 5 mos",
+              "metadata": "Greater Minneapolis-St. Paul Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Operations Quality and Internal Supplier Management"
+                }
+              ]
+            },
+            {
+              "title": "Program Manager",
+              "caption": "May 2015 - Oct 2016 · 1 yr 5 mos",
+              "metadata": "Greater Minneapolis-St. Paul Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Medtronic Neuromodulation & MPROC Quality liaison \nGlobal Operations Quality\nQuality Agreements & Audits"
+                }
+              ]
+            },
+            {
+              "title": "Sr. Quality Engineer",
+              "caption": "Jun 2012 - May 2015 · 2 yrs 11 mos",
+              "metadata": "Greater Minneapolis-St. Paul Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Medtronic Neuromodulation\nSupply Chain & Pharma Quality Assurance\nReceiving Inspection\nInternal & External Audit Front Room Lead\nTest Method Validation Remediation Project Technical Subject Matter Expert\nMedtronic Puerto Rico Operations Center Component Transfer's Project Manager"
+                }
+              ]
+            },
+            {
+              "title": "Reliability Engineer",
+              "caption": "May 2008 - Jun 2012 · 4 yrs 1 mo",
+              "metadata": "Greater Minneapolis-St. Paul Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Medtronic Cardiovascular - Structural Heart\nPost Market Product Assurance - Quality\nReliability Engineering\nMedtronic Mexico Liaison"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "420486",
+          "companyUrn": "urn:li:fsd_company:420486",
+          "companyLink1": "https://www.linkedin.com/company/society-of-hispanic-professional-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFw795iXyF-nA/company-logo_400_400/company-logo_400_400/0/1688393903287/society_of_hispanic_professional_engineers_logo?e=1785369600&v=beta&t=DvtrpdX771wzBvwfFuGkBQ_z1woOcTne-NHxEhwL7b8",
+          "title": "Medtronic SHPE Corporate Chapter President",
+          "subtitle": "Society of Hispanic Professional Engineers . undefined",
+          "caption": "May 2013 - May 2014 · 1 yr",
+          "metadata": "Greater Minneapolis-St. Paul Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Medtronic Corporate Chapter President"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2109",
+          "companyUrn": "urn:li:fsd_company:2109",
+          "companyLink1": "https://www.linkedin.com/company/toyota/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQG6BUUPIVuQIQ/company-logo_400_400/company-logo_400_400/0/1631431196156/toyota_logo?e=1785369600&v=beta&t=vw4uB8GKgC66ai1Ubhck748a7K9CqLX-VLGXWybog5k",
+          "title": "Toyota Engineering Co-op",
+          "subtitle": "Toyota Motor Manufacturing Indiana, Inc. . undefined",
+          "caption": "Apr 2007 - Sep 2007 · 5 mos",
+          "metadata": "Princeton, Indiana",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2109",
+          "companyUrn": "urn:li:fsd_company:2109",
+          "companyLink1": "https://www.linkedin.com/company/toyota/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQG6BUUPIVuQIQ/company-logo_400_400/company-logo_400_400/0/1631431196156/toyota_logo?e=1785369600&v=beta&t=vw4uB8GKgC66ai1Ubhck748a7K9CqLX-VLGXWybog5k",
+          "title": "Toyota Engineering Co-op",
+          "subtitle": "Toyota Motor Manufacturing Indiana, Inc. . undefined",
+          "caption": "Aug 2006 - Jan 2007 · 5 mos",
+          "metadata": "Princeton, Indiana",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic Engineer Summer Associate",
+          "subtitle": "Medtronic . undefined",
+          "caption": "May 2006 - Aug 2006 · 3 mos",
+          "metadata": "Greater Minneapolis-St. Paul Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Medtronic Energy and Component Center Manufacturing\nContinuous Improvement Project"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "420486",
+          "companyUrn": "urn:li:fsd_company:420486",
+          "companyLink1": "https://www.linkedin.com/company/society-of-hispanic-professional-engineers/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFw795iXyF-nA/company-logo_400_400/company-logo_400_400/0/1688393903287/society_of_hispanic_professional_engineers_logo?e=1785369600&v=beta&t=DvtrpdX771wzBvwfFuGkBQ_z1woOcTne-NHxEhwL7b8",
+          "title": "SHPE & NSBE Chapter President",
+          "subtitle": "Society of Hispanic Professional Engineers . undefined",
+          "caption": "Aug 2005 - Aug 2006 · 1 yr",
+          "metadata": "Cleveland/Akron, Ohio Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "SHPE & NSBE Chapter President - Case Western Reserve University Campus Student Groups\nHeld Various Board Positions supporting SHPE & NSBE"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1999",
+          "companyUrn": "urn:li:fsd_company:1999",
+          "companyLink1": "https://www.linkedin.com/company/nasaglenn/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHajks6ANShCQ/company-logo_400_400/company-logo_400_400/0/1699288211702/nasaglenn_logo?e=1785369600&v=beta&t=X42cEkSMlaO0PqLpmoyGbs0zHaas7hwg3XBslcsgi_Y",
+          "title": "LERCIP Engineering & Research College Intern",
+          "subtitle": "NASA Glenn Research Center . undefined",
+          "caption": "May 2004 - Aug 2005 · 1 yr 3 mos",
+          "metadata": "Cleveland/Akron, Ohio Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1999",
+          "companyUrn": "urn:li:fsd_company:1999",
+          "companyLink1": "https://www.linkedin.com/company/nasaglenn/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHajks6ANShCQ/company-logo_400_400/company-logo_400_400/0/1699288211702/nasaglenn_logo?e=1785369600&v=beta&t=X42cEkSMlaO0PqLpmoyGbs0zHaas7hwg3XBslcsgi_Y",
+          "title": "SHARP Engineering Intern",
+          "subtitle": "NASA Glenn Research Center . undefined",
+          "caption": "May 2003 - Sep 2003 · 4 mos",
+          "metadata": "Cleveland/Akron, Ohio Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Certified Quality Engineer",
+          "subtitle": "American Society for Qualtiy - ASQ",
+          "issued": "Issued Jun 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "American Society for Quality (ASQ)",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Society of Hispanic Professional Engineers (SHPE)",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "FMEA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design of Experiments",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Six Sigma",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality System",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lean Manufacturing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solidworks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Labview",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AutoCAD",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pro Engineer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Risk Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CQE",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Toyota Production System",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Toyota Way",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DMAIC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "157330",
+          "companyUrn": "urn:li:fsd_company:157330",
+          "companyLink1": "https://www.linkedin.com/school/case-western-reserve-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPwBDBTA9tvA/company-logo_400_400/company-logo_400_400/0/1713131155807/case_western_reserve_university_logo?e=1785369600&v=beta&t=7m9IfNWQoap8pM-a0YOn0I90seEy9vS0q8s_kXZ6xgA",
+          "title": "Case Western Reserve University",
+          "subtitle": "Bachelor of Engineering (BE), Mechanical Engineering",
+          "caption": "2004 - 2008",
+          "subComponents": []
+        },
+        {
+          "companyId": "3181",
+          "companyUrn": "urn:li:fsd_company:3181",
+          "companyLink1": "https://www.linkedin.com/school/university-of-minnesota/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEKTpIfhAXtlw/company-logo_400_400/company-logo_400_400/0/1719939334329/university_of_minnesota_logo?e=1785369600&v=beta&t=1OG6eR7lkAVdKwlGTyu5YwLPYWnQVDPzfdzvyopUni4",
+          "title": "University of Minnesota-Twin Cities",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

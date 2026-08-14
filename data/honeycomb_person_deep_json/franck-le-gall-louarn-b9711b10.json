@@ -1,0 +1,424 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/franck-le-gall-louarn-b9711b10",
+  "row_key": "id:003Uk00000yfWk8IAE",
+  "person": "Franck Louarn",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:38Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAInLeMBDpAo_eLC81PiHJoekIY3ThcI73w",
+      "firstName": "Franck",
+      "lastName": "Le Gall Louarn",
+      "fullName": "Franck Le Gall Louarn",
+      "publicIdentifier": "franck-le-gall-louarn-b9711b10",
+      "headline": "Principal Software Engineer – Medical Robotics | C++ / Qt/QML / Android | Real-Time Systems | Software Architecture",
+      "about": "I am a Principal Software Engineer specialized in medical robotics, real-time systems, and medical-grade user interfaces.\nWith 20+ years of experience — including major contributions at Medtronic — I design high-reliability software for surgical robots, imaging platforms, and clinical navigation systems.\n\nMy expertise blends multiple worlds that are rarely found together:\n\nC++ high-performance software & real-time architecture\n\nQt/QML for surgical interfaces and visualization\n\nAndroid / Jetpack Compose companion apps for medical devices\n\nRobotics communication frameworks: Zenoh, DDS, ROS2\n\nSafety-critical development (IEC 62304, ISO 13485)\n\nCross-platform engineering (embedded + mobile + UI + cloud components)\n\nI work closely with robotics, embedded, imaging, and clinical teams to deliver software that is safe, stable, compliant, and intuitive — even under strict regulatory and performance constraints.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "France",
+      "addressWithCountry": "Rambouillet, Île-de-France France",
+      "addressWithoutCountry": "Rambouillet, Île-de-France",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Principal Software Engineer",
+          "subtitle": "Medtronic . Permanent",
+          "caption": "Mar 2023 - Present · 2 yrs 10 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Architected and delivered core software for the Skye medical robotics platform, including advanced Qt/QML surgical UIs, high-performance visualization, and workflow-critical modules.\n• Designed and implemented Jetpack Compose Android interfaces for Horizon, bridging mobile and embedded systems to support real-time patient data and device monitoring.\n• Developed and optimized cross-platform components in C++, ensuring deterministic behaviour, low-latency rendering, and seamless communication with embedded/hardware layers.\n• Partnered with robotics, system engineering, UX, imaging, and clinical teams to deliver safe, intuitive, and regulation-ready surgical software for next-generation MedTech devices."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1951",
+          "companyUrn": "urn:li:fsd_company:1951",
+          "companyLink1": "https://www.linkedin.com/company/thales/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEmnUAXTuLkJQ/company-logo_400_400/company-logo_400_400/0/1631366051478/thales_logo?e=1785369600&v=beta&t=t_tfwoT1CFQML7pp7qwpdjKlwM04IDXY9RHYxCJ8ao4",
+          "title": "Software Engineering Lead",
+          "subtitle": "Thales . Permanent",
+          "caption": "Sep 2017 - Mar 2023 · 5 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Architected the Spy'C ground station software for airborne ISR operations, enabling real-time acquisition, processing, and tactical visualization for defense missions.\n• Designed and developed high-performance C++/Qt modules, enhancing operator situational awareness and improving mission efficiency under strict latency constraints.\n• Drove architectural decisions, code quality guidelines, and best practices across multiple teams, reducing technical debt and improving long-term maintainability.\n• Collaborated with system engineers, RF experts, and UX teams to deliver mission-ready software platforms deployed on operational aircraft."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "subtitle": "Stellantis - Permanent . undefined",
+          "caption": "Sep 2015 - Sep 2017 · 2 yrs",
+          "metadata": "Velizy Villacoublay",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Architected and delivered next-generation In-Vehicle Infotainment (IVI) systems, improving performance, boot time, and user experience across multiple embedded platforms.\n• Developed advanced C++/Qt/QML UI components, ensuring smooth rendering, responsiveness, and reliability under strict automotive constraints.\n• Integrated UI/UX modules into embedded automotive ECUs, enhancing driver experience while maintaining system stability and safety compliance.\n• Collaborated with hardware, UX design, and embedded OS teams to deliver production-ready software for mass-market vehicles."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "subtitle": "ATERMES - Freelance . undefined",
+          "caption": "Mar 2015 - Sep 2015 · 6 mos",
+          "metadata": "Montigny Le Bretonneux",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Designed and delivered C++/Qt/QML UI modules for BARRIER, PASTOR, and NOCTUA defense systems, supporting real-time monitoring and visualization of mission-critical data.\n• Developed high-performance embedded components meeting strict latency, robustness, and operational reliability requirements.\n• Collaborated with system and hardware teams to integrate UI layers with sensor and communication modules used in tactical field operations."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Altair Engineering - Permanent . undefined",
+          "caption": "Dec 2012 - Mar 2015 · 2 yrs 3 mos",
+          "metadata": "Antony, FRANCE",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed core software modules for the HyperMesh simulation suite, focusing on crash analysis, safety evaluation, and structural modeling workflows.\n• Enhanced 3D visualization and data-processing tools, reducing simulation analysis time and improving overall performance for end users.\n• Collaborated with mechanical engineers and simulation experts to deliver reliable, high-quality components for advanced CAE (Computer-Aided Engineering) workflows."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Integrated Computer Solutions, Inc. (ICS.com) - Freelance . undefined",
+          "caption": "2009 - 2012 · 3 yrs",
+          "metadata": "Greater Boston Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Engineered high-performance Qt/QML applications for major U.S. clients, delivering production-grade UI systems for media, enterprise workflow, and data-driven platforms.\n• Optimized real-time rendering and interaction layers, significantly improving responsiveness and reducing latency in performance-critical UI paths.\n• Designed modular QML architecture frameworks, enabling rapid prototyping, cleaner codebases, and scalable multi-project adoption.\n• Delivered robust cross-platform implementations (Windows, Linux, embedded targets, early Android), ensuring consistent UX and reducing integration overhead.\n• Worked closely with U.S. product, UX, and engineering teams to translate complex requirements into reliable, intuitive, and maintainable software."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "ITT Visual Information Solutions - Permanent . undefined",
+          "caption": "Jan 2009 - Jul 2011 · 2 yrs 6 mos",
+          "metadata": "Boulder, CO, USA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed advanced geospatial imagery processing solutions used by U.S. and European defense agencies for mission planning, intelligence, and real-time analysis.\n• Designed and delivered specialized software training programs for global clients, improving product adoption and accelerating customer proficiency.\n• Led development of the FESTIVAL project (Solar Terrestrial Image Visualization), enabling international collaboration and real-time exploration of space imagery for scientific and defense applications.\n• Worked closely with researchers, engineers, and international partners to deliver reliable, high-performance visualization tools for large-scale datasets."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Global Imaging Online - Permanent . undefined",
+          "caption": "Jan 1998 - Jan 2003 · 5 yrs",
+          "metadata": "Paris Area, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed medical image processing and visualization software for the DIAM4 PACS platform, supporting radiology, cardiology, and hospital imaging workflows.\n• Implemented key modules for DICOM handling, 2D/3D image rendering, and diagnostic image review, improving performance and usability for clinical users.\n• Worked closely with radiologists and hospital IT teams to enhance workflow integration, reliability, and interoperability across imaging departments.\n• Contributed to one of the early European PACS systems, helping modernize medical image management in clinical environments."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer, Trainer, Technical Support",
+          "subtitle": "FPS France - Permanent . undefined",
+          "caption": "Sep 1995 - Sep 1998 · 3 yrs",
+          "metadata": "Rungis",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Designed and implemented parallelized medical imaging workflows using IDL, supporting radiology, research, and biomedical applications requiring advanced visualization and data processing.\n• Customized imaging tools and computational routines to meet specific diagnostic and scientific needs, improving accuracy and reducing analysis time.\n• Delivered specialized training and on-site technical consulting for hospital teams and research institutions, ensuring effective adoption of imaging technologies.\n• Collaborated with clinicians and medical researchers to align imaging algorithms with real-world diagnostic constraints and clinical workflows."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Qt",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fortran",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Image Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "47886",
+          "companyUrn": "urn:li:fsd_company:47886",
+          "companyLink1": "https://www.linkedin.com/school/rennesuniv/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEs5POUtFzpw/company-logo_400_400/company-logo_400_400/0/1698044351961/rennesuniv_logo?e=1785369600&v=beta&t=GbIeXPG8tSoLeq_Mq5bpmAcjiNfcZVZfp9dJE7nGF6Y",
+          "title": "Université de Rennes I",
+          "subtitle": "DESS, - Stage de DESS realise a l'Institut d'Hydrondynamique de Prague (Republique Tcheque)\n- Sujet: \"Le developpement d'algorithmes de traitement de l'image dedies a la caracterisation du phenomene sharkskin se produisant lors de l'extrusion de polymeres\"",
+          "caption": "1993 - 1994",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "DESS en Informatique et Ses Applications, option Traitement de l'Image"
+            }
+          ]
+        },
+        {
+          "companyId": "166652",
+          "companyUrn": "urn:li:fsd_company:166652",
+          "companyLink1": "https://www.linkedin.com/school/university-of-manchester/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEYpS-SHXO1Mg/company-logo_400_400/company-logo_400_400/0/1631386008712?e=1785369600&v=beta&t=2wrCQkirJHw5EkDF8ATVS7sCMIjqqb5QK_hxTK_N7-g",
+          "title": "The University of Manchester",
+          "subtitle": "Master of Sciences, Instrumentation and Analytical Sciences",
+          "caption": "1992 - 1993",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Instrumentation and Analytical Sciences"
+            }
+          ]
+        },
+        {
+          "companyId": "20729",
+          "companyUrn": "urn:li:fsd_company:20729",
+          "companyLink1": "https://www.linkedin.com/school/unilancashire/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEpYjLJop5d3g/company-logo_400_400/company-logo_400_400/0/1663750298709/university_of_central_lancashire_logo?e=1785369600&v=beta&t=LUOYZrd-8p3kM3NfGXUE5LTyd4BVH0khVLgnqxeLuyk",
+          "title": "University of Central Lancashire",
+          "subtitle": "Bachelor's degree in Electronics and Computer Sciences, Electronics and Computer Sciences",
+          "caption": "1991 - 1992",
+          "subComponents": []
+        },
+        {
+          "companyId": "47886",
+          "companyUrn": "urn:li:fsd_company:47886",
+          "companyLink1": "https://www.linkedin.com/school/rennesuniv/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEs5POUtFzpw/company-logo_400_400/company-logo_400_400/0/1698044351961/rennesuniv_logo?e=1785369600&v=beta&t=GbIeXPG8tSoLeq_Mq5bpmAcjiNfcZVZfp9dJE7nGF6Y",
+          "title": "Université de Rennes I",
+          "subtitle": "DUT en Genie Electrique et Informatique Industrielle, null",
+          "caption": "1989 - 1991",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

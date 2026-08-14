@@ -1,0 +1,725 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/bfreis",
+  "row_key": "id:0033l00002spxzDAAQ",
+  "person": "Bruno Reis",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T10:52:14Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAIDLiYBy362untSak0gRXHEEEMUfitHWO8",
+      "firstName": "Bruno",
+      "lastName": "Reis",
+      "fullName": "Bruno Reis",
+      "publicIdentifier": "bfreis",
+      "headline": "Staff Software Engineer - Reliability @ Robinhood",
+      "about": "Staff+ engineer specializing in platform infrastructure, reliability, and developer experience. I build the systems and define the strategies that help engineering organizations ship safely at scale — from large-scale observability platforms to multi-region architectures to CI/CD frameworks.At Robinhood I founded the Reliability team and established company-wide standards for service tiering, incident management, and AI-assisted engineering. At Coinbase I led the Observability team and authored the multi-region active/active strategy that kept critical systems running through major AWS outages. Before that, I spent 6 years at AWS training thousands of engineers and architects across the full stack.I care deeply about improving the quality of life of fellow engineers — whether that means building better tooling, mentoring teammates through career growth, or designing systems that are a pleasure to operate.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHqjKPAXf9bUw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1525813994246?e=1785369600&v=beta&t=a_gwThsLHfaw_BYkaOaeB9NWon7peHywHlTjx9lkAx0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHqjKPAXf9bUw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1525813994258?e=1785369600&v=beta&t=6P0K59zV29abdd5T-4Oavpv0rxLTNKkyW8nDs1PdchI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHqjKPAXf9bUw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1525813994314?e=1785369600&v=beta&t=GH-Y8sldOnVBxldnH-n2A3KnZXNVTHEm4BM2Z7aWJCY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHqjKPAXf9bUw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1525813994417?e=1785369600&v=beta&t=kbpLAxXH-cZeVTR-c1v8wdnn7A_MxN3pwzWoWKslP18"
+        },
+        {
+          "width": 441,
+          "height": 441,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHqjKPAXf9bUw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1525813994246?e=1785369600&v=beta&t=a_gwThsLHfaw_BYkaOaeB9NWon7peHywHlTjx9lkAx0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "3254263",
+          "companyUrn": "urn:li:fsd_company:3254263",
+          "companyLink1": "https://www.linkedin.com/company/robinhood/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESwNiGp2qYlA/company-logo_400_400/company-logo_400_400/0/1728574763254/robinhood_logo?e=1785369600&v=beta&t=Q-i7tfdY0rOqC0d3mbR9rSTHjiFWSWNUMnhEgkBdGMI",
+          "title": "Tech Lead, Staff Software Engineer — Reliability & Engineering Excellence",
+          "subtitle": "Robinhood . undefined",
+          "caption": "Mar 2025 - Present · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Founded Robinhood's Reliability team — defined its mission, hired the team, and set technical and strategic direction from zero.\n\nRELIABILITY STRATEGY & POLICY\n\nAuthored the company's Service Tiering Policy, synthesizing input from senior ICs across the org to formalize service classification and reliability requirements per tier. The framework became the foundation for deployment, on-call, and incident response standards company-wide.\n\nDesigned and implemented Critical User Journey (CUJ) instrumentation — end-to-end monitoring and alerting across front-end and back-end — surfacing early failure signals for previously unmonitored features. Redesigned load testing strategy for previously untested production bottlenecks.\n\nDEVELOPER TOOLING & CD\n\nExtended the internal CD system to enforce deploy freeze windows by application tier, with an exception request and approval workflow requiring manager or higher-privilege sign-off. Centralized ownership of fragmented reliability tools across business units, driving adoption of unified tooling.\n\nINCIDENT MANAGEMENT & OPERATIONAL EXCELLENCE\n\nTook ownership of the internal incident management platform (Slack-integrated web app with LLM-powered root cause analysis). Revitalized a previously unmaintained tool — collected org-wide feature requests, analyzed usage patterns, and shipped improvements.\n\nAuthored and formalized the Global SEV Review process — a weekly cross-company meeting attended by senior ICs and executives where teams present root cause, impact, and mitigation for closed incidents. I facilitate the reviews and Q&A, driving accountability and learning across engineering.\n\nAI/LLM ENGINEERING STRATEGY\n\nDrove adoption of AI-assisted engineering practices across Robinhood as the company's subject matter expert on Claude Code — advising teams on LLM-agent-friendly workflows, architecting AI-optimized deployment processes with the Staging team, and collaborating with the GenAI team on company-wide strategy."
+              }
+            }
+          ]
+        },
+        {
+          "title": "AWS Expert",
+          "subtitle": "k2.xyz . undefined",
+          "caption": "Jan 2021 - Present · 5 yrs",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Advised startups and mid-size companies on AWS architecture, security posture, and cost optimization."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Staff Software Engineer — Infrastructure, Observability & Developer Platform",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Aug 2020 - Feb 2025 · 4 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "OBSERVABILITY — Tech Lead, 10-person team\n\nDesigned and built a deployment system for stateful services (ClickHouse, Mimir, Grafana), partnering with Security, Compute, and DevX to make it reusable and compliant. Later adopted by Online Storage to deploy CockroachDB for benchmarking against Aurora.\n\nAuthored the company's multi-region active/active strategy after the 2020 AWS us-east-1 outage and implemented it for the first service — the Log Pipeline, a stateful system. When a subsequent major outage took down most services, the Log Pipeline kept running. The SVP of Engineering cited it as the standard the rest of the company should have followed.\n\nDEVELOPER TOOLING, CI/CD & CODE QUALITY\n\nDesigned and built a deployment system for stateful services (ClickHouse, Mimir, Grafana), partnering with Security and Compute to make it reusable and compliant. Later adopted by Online Storage to deploy CockroachDB for benchmarking against Aurora.\n\nBuilt Go static analysis tooling and custom Bazel CI rules to catch risky patterns (e.g. PII leak risks in logs) before they shipped. Built a performance regression framework as a Buildkite pipeline — spinning up isolated environments, running statistical before/after analysis, and blocking merges on significant regressions.\n\nDATA STORES\n\nBuilt the control plane for the ClickHouse and CockroachDB fleet. Designed distributed database benchmarking tooling — stress-testing PostgreSQL (RDS), Aurora, CockroachDB, and MongoDB at hardware saturation to drive long-term technology decisions.\n\nRedesigned Coinbase's internal MongoDB Go driver for extensibility and automated a major version migration across 200+ projects.\n\nOptimized the PII + Secret Redaction system, achieving 50% cost savings (>$1M/year). Mentored engineers from junior to senior, guiding multiple promotion cycles."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Trading Software Engineering",
+          "subtitle": "Self-employed",
+          "caption": "Apr 2019 - Dec 2020 · 1 yr 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Built tooling to automate data extraction from commodity reports, analyze real-time option market data, and automate execution of option strategies."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Sr. Technical Training Specialist",
+          "subtitle": "Amazon Web Services (AWS) . undefined",
+          "caption": "Aug 2013 - Sep 2019 · 6 yrs 1 mo",
+          "metadata": "São Paulo, Brazil -> San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Delivered hundreds of multi-day, instructor-led training sessions across the full breadth of AWS — Architecture, Advanced Architecture, Security Operations, DevOps, Big Data, Systems Operations, and Development — to audiences ranging from business executives to senior software architects.\n\nLead instructor for AWS's Advanced Architecture and Security Operations courses. Created training material, labs, and live demos. Known for on-the-fly creation of production-quality code across multiple languages and paradigms during live sessions to illustrate best practices.\n\nPublic speaker at scale: delivered full-day talks to audiences of hundreds at AWSome Day events (Rio de Janeiro, Belo Horizonte, Boston, Atlanta) and AWS Summits in São Paulo and globally.\n\nHelped expand AWS Training's business in Brazil — working directly with vendors, partners, and customers. Trained and onboarded new hires in Amazon values, AWS technology, and training delivery."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Systems Architect & Software Developer",
+          "subtitle": "Ebah - www.ebah.com.br . undefined",
+          "caption": "Apr 2010 - Aug 2013 · 3 yrs 4 mos",
+          "metadata": "São Paulo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Joined as a software engineer and single-handedly redesigned the platform from a fragile monolith into a scalable, AWS-based architecture serving 5M+ unique visitors and 10M+ hits/month.\n\nIntroduced AWS to the company and led the full migration. Designed and built from scratch: a sharded MySQL database system with a custom Hibernate-based framework that made sharding completely transparent to application code, async document processing pipelines, a search engine, HTML preview generation for multiple document formats, a machine learning-based piracy detection system, and a complete email marketing platform (list management, bounce processing, campaign delivery)."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "beezBEEZ . undefined",
+          "caption": "Jun 2009 - Feb 2010 · 8 mos",
+          "metadata": "Paris, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At beezBEEZ, I worked as a Software Developer in 3 projects, including the complete development of a CRM tool -- from requirements analysis and system architecture to full development and deployment."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Technical Director",
+          "subtitle": "CopyTracker - École Centrale de Lille . undefined",
+          "caption": "Sep 2007 - May 2009 · 1 yr 8 mos",
+          "metadata": "Lille, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At École Centrale de Lille, I coordinated a team of fellow students on the development of the plagiarism detection tool CopyTracker. Among my responsibilities, I trained my teammates on Object Oriented Programming in PHP, distributed systems and networking and wrote a parser of the Microsoft Office 2003 \"doc\" file format in PHP."
+              }
+            }
+          ]
+        },
+        {
+          "title": "President",
+          "subtitle": "ClubTIME - École Centrale de Lille . undefined",
+          "caption": "2008 - 2009 · 1 yr",
+          "metadata": "Lille, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As President at ClubTIME at École Centrale de Lille, I coordinated teams of fellow students. We organized events to promote the integration of the foreigner students among the French students, as well as trips for the foreigners to discover some of the most important regions of the country. To accomplish this endeavor, we also had teams working on getting subventions to help pay for the trips."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Internship",
+          "subtitle": "Transpole . undefined",
+          "caption": "Jan 2008 - Feb 2008 · 1 mo",
+          "metadata": "Lille, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "\"Stage de connaissance d'entreprise\", first internship to get acquainted with the corporate environment.\n\nIntern in the bus department of the Lille's transport company."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect - Professional Level",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued Aug 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Developer - Associate Level",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued Jan 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect - Associate Level",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued Jan 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified SysOps Administrator - Associate Level",
+          "subtitle": "Amazon Web Services",
+          "issued": "Issued Jan 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Portuguese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "2014 Americas Trainer of the Year",
+          "subtitle": "Issued by Amazon Web Services",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Awarded \"2014 Americas Trainer of the Year\" during the 2015 Amazon Web Services Sales Kick-off, in Seattle, WA."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imagine Cup Egypt - Brazil 1st prize - Software Design",
+          "subtitle": "Issued by Microsoft",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Project HealthTag - Healthcare and medical record system for isolated regions with mobile access and a touchless interface\nhttp://youtu.be/aVZH3gnPynE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imagine Cup Egypt - World 1st prize - Mobile Award",
+          "subtitle": "Issued by Microsoft",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Project HealthTag - Healthcare and medical record system for isolated regions with mobile access and a touchless interface\nhttp://youtu.be/aVZH3gnPynE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imagine Cup Egypt - World 3rd prize - Software Design",
+          "subtitle": "Issued by Microsoft",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Project HealthTag - Healthcare and medical record system for isolated regions with mobile access and a touchless interface\nhttp://youtu.be/aVZH3gnPynE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bourse Eiffel - Academic Excellence Scholarship",
+          "subtitle": "Issued by Égide, French Government",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Awarded the academic excellence scholarship by the French Government for the Double-Degree program in École Centrale de Lille."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teaching",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OOP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "UML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "51798",
+          "companyUrn": "urn:li:fsd_company:51798",
+          "companyLink1": "https://www.linkedin.com/school/centralelille/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFkg2zl7rW-rA/company-logo_100_100/B4EZqCIEkiIIAQ-/0/1763119745795/centralelille_logo?e=1785369600&v=beta&t=CG4YFrND6s-MGOPanLbp7u1pu1XpCOw1dL-be6mJiq8",
+          "title": "Ecole centrale de Lille",
+          "subtitle": "M.Sc. - Engineer's Degree - Diplôme d'Ingénieur, Les Mots Dits, Club TIME",
+          "caption": "2007 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "President (2008-2009) of the ClubTIME (Top Industrial Managers for Europe double-degree program), the foreigners' association at École Centrale de Lille, France.\n\nLes Mots Dits, theater and improvisation group."
+            }
+          ]
+        },
+        {
+          "companyId": "239895",
+          "companyUrn": "urn:li:fsd_company:239895",
+          "companyLink1": "https://www.linkedin.com/school/uspoficial/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEEty1xF9jFog/company-logo_100_100/B4EZVMm.k3HMAc-/0/1740747041633/uspoficial_logo?e=1785369600&v=beta&t=dNp-ytKRf_gbd3N2XgwGZ9JWwjahnWt9ALK1h3I4zVE",
+          "title": "Universidade de São Paulo",
+          "subtitle": "Bachelor of Engineering (B.Eng.), Mechatronics, Robotics, and Automation Engineering",
+          "caption": "2005 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Double Degree program with École Centrale de Lille, one of the most prestigious french engineering schools (Grande École)."
+            }
+          ]
+        },
+        {
+          "title": "Colégio Santa Cruz",
+          "subtitle": "null, null",
+          "caption": "1998 - 2004",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Homelab — Secure, Production-Grade Kubernetes on Bare Metal",
+          "subtitle": "2024 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Built and operate a high-availability Kubernetes cluster on 5 Raspberry Pis + Synology NAS, designed with a full hardware-rooted chain of trust.\n\nThe OS is a custom stripped-down Alpine Linux running entirely from an initramfs in RAM, with secure boot and LUKS-encrypted NVMe persistence (keys stored in Pi OTP, accessible only on verified boot). Two nodes boot from SD and serve as the cluster's network foundation (DHCP, DNS, PKI via StepCA, Tailscale access, reverse proxy via Caddy), while the remaining three network-boot from them via HTTP and form an HA Kubernetes cluster running K3s.\n\nThe entire build system is driven by Bazel with custom Starlark rules for building initramfs and bootable disk images.\n\nBecause shipping reliable infrastructure is what I do for fun, too.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Main speaker - AWSome Day - Belo Horizonte, MG, Brazil",
+          "subtitle": "Oct 2014 - Oct 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Main speaker at AWSome Day, a full-day event held at Royal Golden Hotel. Audience of a few hundred people people, including business and technical leaders, as well as IT Pros and developers. Content including modules on AWS Global Infrastructure, Security, Compute & Networking, Storage, Databases and Managed Services. Approx. 6 hours of talk of presentations and live demos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Main speaker - AWSome Day - Rio de Janeiro, RJ, Brazil",
+          "subtitle": "Sep 2014 - Sep 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Main speaker at AWSome Day, a full-day event held at Centro de Convenções Sulamérica. Audience of over 500 people, including business and technical leaders, as well as IT Pros and developers. Content including modules on AWS Global Infrastructure, Security, Compute & Networking, Storage, Databases and Managed Services. Approx. 6 hours of talk of presentations and live demos.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaker - TDC 2014 São Paulo - Brazil",
+          "subtitle": "Aug 2014 - Aug 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Speaker in one Keynote and in two sessions at The Developers' Conference 2014, São Paulo, Brazil:\n - \"When I discovered the world of the Clouds\"\n - \"BigData on AWS: Introduction to Redshift\"\n - \"Scaling on AWS for the First 10 Million Users (Level: Advanced)\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaker - AWS Summit 2014 São Paulo, Brazil",
+          "subtitle": "May 2014 - May 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Speaker in two technical sessions in the AWS Summit 2014 São Paulo, Brazil:\n - Dive Deep: Maximizing EC2 and Elastic Block Store Disk Performance (Level: Advanced)\n - BigData: Introducing Amazon Kinesis, including custom-made live demo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Main speaker - AWSome Day - Atlanta, GA",
+          "subtitle": "Apr 2014 - Apr 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Main speaker at AWSome Day, a full-day event held in Grand Hyatt Atlanta Buckhead conference hall. Audience of around 400 people, including business and technical leaders, as well as IT Pros and developers. Content including modules on AWS Global Infrastructure, Security, Compute & Networking, Storage, Databases and Managed Services. Approx. 6 hours of talk of presentations and live demos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Main speaker - AWSome Day - Boston, MA",
+          "subtitle": "Apr 2014 - Apr 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Main speaker at AWSome Day, a full-day event held in Westin Boston Waterfront conference hall. Audience of around 400 people, including business and technical leaders, as well as IT Pros and developers. Content including modules on AWS Global Infrastructure, Security, Compute & Networking, Storage, Databases and Managed Services. Approx. 6 hours of talk of presentations and live demos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaker - AWS Tech Day",
+          "subtitle": "Dec 2013 - Dec 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Speaker in two technical sessions in a 1-day event to an audience of around 40 members of the Amazon Partner Network (APN):\n - Exploring Block Storage on AWS, including high-performance storage live demo (300k+ IOPS)\n - Introducing Amazon Kinesis, including custom-made live demo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

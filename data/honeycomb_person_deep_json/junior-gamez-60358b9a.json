@@ -1,0 +1,656 @@
+{
+  "linkedin_url": "https://mx.linkedin.com/in/junior-gamez-60358b9a/en",
+  "row_key": "id:0036O000040hmNIQAY",
+  "person": "Junior Gamez",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:02Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABUWMaMBSMorlveuUNXX52XEshJJh-CrE6I",
+      "firstName": "Junior",
+      "lastName": "Gamez",
+      "fullName": "Junior Gamez",
+      "publicIdentifier": "junior-gamez-60358b9a",
+      "headline": "Lead Systems Engineer at EPAM Systems",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "ES",
+        "language": "es"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Mexico",
+      "addressWithCountry": "Coyoacán, Mexico City Mexico",
+      "addressWithoutCountry": "Coyoacán, Mexico City",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "4972",
+          "companyUrn": "urn:li:fsd_company:4972",
+          "companyLink1": "https://www.linkedin.com/company/epam-systems/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGd7yeYsBtfzw/company-logo_100_100/B4DZuc0QBQH4AQ-/0/1767862501956/epam_systems_logo?e=1785369600&v=beta&t=KmT6MgujewrPGScUeBN6lAxkUBBY15hVFsJwOhsDvY8",
+          "title": "EPAM Systems",
+          "subtitle": "Full-time · 5 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Systems Engineer",
+              "caption": "Mar 2022 - Present · 3 yrs 10 mos",
+              "metadata": "CDMX, Ciudad de México, México",
+              "description": []
+            },
+            {
+              "title": "Lead System Engineeer",
+              "caption": "Mar 2022 - Apr 2022 · 1 mo",
+              "metadata": "CDMX, Ciudad de México, México",
+              "description": []
+            },
+            {
+              "title": "Senior Systems Engineer ",
+              "caption": "Aug 2020 - Apr 2022 · 1 yr 8 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure Project Leader",
+          "subtitle": "FCA Fiat Chrysler Automobiles (via Praxis) . undefined",
+          "caption": "Feb 2017 - Aug 2020 · 3 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3960642",
+          "companyUrn": "urn:li:fsd_company:3960642",
+          "companyLink1": "https://www.linkedin.com/company/trafilea/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEDFIXBfGzHGQ/company-logo_400_400/company-logo_400_400/0/1656684691792/trafilea_logo?e=1785369600&v=beta&t=LX2m4oZG_NGcBpxke8-G7VdxETT1VvAr41z1Pe50-OM",
+          "title": "Ingeniero de soporte técnico",
+          "subtitle": "Trafilea . undefined",
+          "caption": "May 2015 - Feb 2017 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Tecnico en soporte y Desarrollo",
+          "subtitle": "Sielmec . undefined",
+          "caption": "Jan 2015 - May 2015 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Cerveceria Bucanero S.A.",
+          "subtitle": "undefined · 13 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Head of IT Department",
+              "caption": "May 2011 - Nov 2014 · 3 yrs 6 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "has taken part as boss and investigator in the following projects:\nMigration from Exact for Windows to Exact Globe Enterprise, migration from Ms Office 2003 to Ms Office 2010, migration from Ms Windows Xp to Ms Windows 7.\nMigration of email servers to Linux Debian Wheezy between 2013 and 2014 in all the pertaining subsidiaries Bucanero Brewery Inc. Belonging to AB InBev in Cuba.\nDevelopment of application for Human Resources between the years 2013 and 2014 in all the pertaining subsidiaries Bucanero Brewery Inc. belonging to AB InBev in Cuba.\nBudget control (with the application of ZBB, ITIL) of IT (Information Technologies) and of the ZBB technology package for the whole Organization.\nPerson in charge of create and bringing up to date of all the standards of information technology for all  the IT processes.\nAspects of the Bucanero Brewery Inc. related with cost-reducing, juridical and social context."
+                }
+              ]
+            },
+            {
+              "title": "Analyst \"A\" in Computer Systems (Main Specialist)",
+              "caption": "Sep 2009 - Apr 2011 · 1 yr 7 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Skills and responsibilities:\nNetwork Administration (Windows Server 2003 R2, Windows server 2008 R2, Linux Debian).\nMs SQL Servers Management (2005, 2008 R2), database replication implementation and monitoring, Service optimization.\nLinux mail server administration (Linux Debian, Postfix, Dovecot, IPTables, Apache Web Server, postgreSQL), MS AD integrated.\nProject's management(Migration of Exact for Windows to Exact Globe Enterprise)\nInstallation and maintenance of information-technology systems, OS (XP, W7), e-mail, Microsoft Office\nExact Globe Enterprise Administration.\nInstallation and maintenance of pbx, and control systems for them.\nNetworks Design, capacity planning, disaster recovery and business continuity\nAdministration, implementation and maintenance of computer networks, including workstations, servers, infrastructure and wiring.\nProject of migration of corporate anti virus (from McAfee toward Kaspersky) in 2010 in all the pertaining subsidiaries Bucanero Brewery Inc. belonging to AB InBev in Cuba.\nSupervision of the fulfillment and bringing up to date of the standards for the new processes of infrastructure."
+                }
+              ]
+            },
+            {
+              "title": "Analyst \"A\" in Computer Systems",
+              "caption": "Sep 2001 - Aug 2009 · 7 yrs 11 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Skills and responsibilities:\nTechnical Support to the Software and Hardware installed in the entity.\nInstallation and maintenance of OS(Windows NT4 Server, Windows Server 2013, Windows NT4 Workstation, Windows 2000, Windows XP, Linux Debian)\nProject of migration of corporate anti virus (from McAfee toward Kaspersky)\nImplementation and maintenance of computer network, including workstations, servers, infrastructure and wiring.\nApplication development(comm ports check, instant messaging).\nDevelop of corporate intranet(ASP).\ncreation and bringing up to date of all the standards of information technology for all  the IT processes."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "74126343",
+          "companyUrn": "urn:li:fsd_company:74126343",
+          "companyLink1": "https://www.linkedin.com/company/anthropicresearch/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_400_400/company-logo_400_400/0/1719256729905/anthropicresearch_logo?e=1785369600&v=beta&t=6f9uIyf-jg8mEyp_kzFxlJyQfmAS6M5uNDDUQ885Hxo",
+          "title": "Certificate of completion: Introduction to Claude Cowork",
+          "subtitle": "Anthropic",
+          "issued": "Issued Apr 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "74126343",
+          "companyUrn": "urn:li:fsd_company:74126343",
+          "companyLink1": "https://www.linkedin.com/company/anthropicresearch/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_400_400/company-logo_400_400/0/1719256729905/anthropicresearch_logo?e=1785369600&v=beta&t=6f9uIyf-jg8mEyp_kzFxlJyQfmAS6M5uNDDUQ885Hxo",
+          "title": "Claude Code in Action",
+          "subtitle": "Anthropic",
+          "issued": "Issued Mar 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "74126343",
+          "companyUrn": "urn:li:fsd_company:74126343",
+          "companyLink1": "https://www.linkedin.com/company/anthropicresearch/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_400_400/company-logo_400_400/0/1719256729905/anthropicresearch_logo?e=1785369600&v=beta&t=6f9uIyf-jg8mEyp_kzFxlJyQfmAS6M5uNDDUQ885Hxo",
+          "title": "Claude Code in Action",
+          "subtitle": "Anthropic",
+          "issued": "Issued Mar 2026",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Well-Architected Framework: Cost Optimization Pillar",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Well-Architected Framework: Operational Excellence Pillar",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Well-Architected Framework: Performance Efficiency Pillar",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Well-Architected Framework: Sustainability Pillar",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jul 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Well-Architected Framework: Security Pillar",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jun 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "The AWS Well-Architected Framework in Action",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jun 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "26606976",
+          "companyUrn": "urn:li:fsd_company:26606976",
+          "companyLink1": "https://www.linkedin.com/company/kodekloud/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFUctPVNz4kJQ/company-logo_400_400/company-logo_400_400/0/1660624612113/kodekloud_logo?e=1785369600&v=beta&t=-tZs_Yy7ZR6rAThmVVMVbfuZ_GC2Weg7olucScp51BQ",
+          "title": "JSON Path Test - Free Course",
+          "subtitle": "KodeKloud",
+          "issued": "Issued Aug 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 8 Databases",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 9 Services and Design Scenarios",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Mar 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 4 Compute Services",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 5 Identity and Access Management",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 6 Auto Scaling and Virtual Network Services",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 7 Application Deployment",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 1 Cloud Services Overview",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 2 Storage Design",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "AWS Certified Solutions Architect - Associate (SAA-C02): 3 Virtual Private Cloud",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "GitHub para programadores",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Español",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Francés",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ingles",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Gestión de proyectos",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gestión de redes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Soporte técnico",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Diseño de redes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Plan de recuperación ante desastres",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TCP/IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firewalls",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Translation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Wireless Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Disaster Recovery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operaciones de TI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computación en la nube",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Seguridad informática",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Universidad de Oriente (CU)",
+          "subtitle": "Ingeniero en Automática, Ingeniería automatización",
+          "caption": "1993 - 1998",
+          "subComponents": []
+        },
+        {
+          "title": "Universidad de Oriente(Cu)",
+          "subtitle": "Ingeniero en Automática, Alumno ayudante",
+          "caption": "1992 - 1998",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

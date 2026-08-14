@@ -1,0 +1,605 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/josephine-kusi-nimarko",
+  "row_key": "id:0033l000032zj6aAAA",
+  "person": "Josephine Kusi-Nimarko",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:03:35Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADH0pxMBs-rfAotwnhYx3Q05G6CFdkau1GI",
+      "firstName": "Josephine",
+      "lastName": "Cozma",
+      "fullName": "Josephine Cozma",
+      "publicIdentifier": "josephine-kusi-nimarko",
+      "headline": "Sr Data Engineer @ Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQHt9YJ4HQ62ng/profile-displayphoto-crop_800_800/B4EZuoN6brK8AI-/0/1768053780995?e=1785369600&v=beta&t=mY9ams02H-B6aX48uYlZ1jabSy2G0JZXEv090QtUT48",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4E16AQH46g1Bu7Kzig/profile-displaybackgroundimage-shrink_350_1400/B4EZuoOQOqJEAc-/0/1768053868425?e=1785369600&v=beta&t=ssOoxksdRsae7t3BV5burksRfm1UIN5K7QbBoZdsBVo",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHt9YJ4HQ62ng/profile-displayphoto-scale_400_400/B4EZuoN6brK8Ag-/0/1768053781082?e=1785369600&v=beta&t=u4Q-w1LDb1hHBOT_sAWhQ5bDoI11ittAp05YfSaLRMg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHt9YJ4HQ62ng/profile-displayphoto-scale_100_100/B4EZuoN6brK8Ac-/0/1768053781082?e=1785369600&v=beta&t=Uuv_ab4qljRjCa7po0CQyw_Udf-_uTxfRkn_iwykZkU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHt9YJ4HQ62ng/profile-displayphoto-scale_200_200/B4EZuoN6brK8AY-/0/1768053781082?e=1785369600&v=beta&t=uFPkJoCJOGxvC7aCfEFbghBrhUwanp0gIEnQ6pYkuO8"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHt9YJ4HQ62ng/profile-displayphoto-crop_800_800/B4EZuoN6brK8AI-/0/1768053780995?e=1785369600&v=beta&t=mY9ams02H-B6aX48uYlZ1jabSy2G0JZXEv090QtUT48"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQH46g1Bu7Kzig/profile-displaybackgroundimage-shrink_200_800/B4EZuoOQOqJEAY-/0/1768053868425?e=1785369600&v=beta&t=JMtBv7Z8sc-TGnx7xhKkRU5hMalgJSNDxVYXzlLZZfM"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E16AQH46g1Bu7Kzig/profile-displaybackgroundimage-shrink_350_1400/B4EZuoOQOqJEAc-/0/1768053868425?e=1785369600&v=beta&t=ssOoxksdRsae7t3BV5burksRfm1UIN5K7QbBoZdsBVo"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Technologies",
+          "subtitle": "Full-time · 3 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Data Platform Engineer",
+              "caption": "Jan 2026 - Present · ",
+              "description": []
+            },
+            {
+              "title": "Data Platform Engineer",
+              "caption": "Jan 2024 - Jan 2026 · 2 yrs",
+              "description": []
+            },
+            {
+              "title": "Junior Data Platform Engineer",
+              "caption": "Jul 2022 - Jan 2024 · 1 yr 6 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "78588990",
+          "companyUrn": "urn:li:fsd_company:78588990",
+          "companyLink1": "https://www.linkedin.com/company/rockborne/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNnngshH2Uag/company-logo_400_400/company-logo_400_400/0/1732180130076/rockborne_logo?e=1785369600&v=beta&t=A4WpdzILC7Wh6ilPyABK4PXxuuj88aVxaF5Vz6GWbOM",
+          "title": "Associate Data Engineer",
+          "subtitle": "Rockborne . Full-time",
+          "caption": "Jun 2021 - Jun 2022 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Rockborne are an expert provider of specialist Data & Analytics consultants. We employ diverse, talented, and ambitious STEM graduates. We then immerse them in a powerful combination of bespoke technical, business, and interpersonal training to meet the needs of leading UK companies.\n \nFounded by a team of passionate industry experts with decades of international Data & Analytics experience, we really understand how to apply our insights and maximise your data opportunities.\n \nOur parent company, Harnham, is the Global Leader in Data & Analytics recruitment providing the security and proven track record of 15 years of success. With this partnership we are uniquely positioned to deliver end-to-end Data & Analytics talent to transform your business outcomes with data."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3266",
+          "companyUrn": "urn:li:fsd_company:3266",
+          "companyLink1": "https://www.linkedin.com/company/-tesco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGIHszhagXPvg/company-logo_400_400/company-logo_400_400/0/1719833387970/_tesco_logo?e=1785369600&v=beta&t=9xVKKKGOFal3e7nxc0_OOpt73HuGZSuj1-vP9NgXgbk",
+          "title": "Self Service Assisstant ",
+          "subtitle": "Tesco . Part-time",
+          "caption": "Sep 2018 - Jun 2021 · 2 yrs 9 mos",
+          "metadata": "Caterham, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4983875",
+          "companyUrn": "urn:li:fsd_company:4983875",
+          "companyLink1": "https://www.linkedin.com/school/avado-learning/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHM-Fu9zSYuAA/company-logo_200_200/B4EZc1FYybHsAM-/0/1748942294729/avado_learning_logo?e=1785369600&v=beta&t=OOUCUe296BD9RXZGc0g6OdKATPtgIukmaPgeAFU69tA",
+          "title": "Fast Futures Programme Student at Avado",
+          "subtitle": "Avado . Internship",
+          "caption": "Sep 2020 - Dec 2020 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "270946",
+          "companyUrn": "urn:li:fsd_company:270946",
+          "companyLink1": "https://www.linkedin.com/company/ocs-global/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGhNWorRwqDqw/company-logo_100_100/B4EZ7a1XjBKcAM-/0/1781787884008/ocs_global_logo?e=1785369600&v=beta&t=k10supRTtD4J5LA9DgwCP2bSdx6ymwPGmqmUqB1r5Is",
+          "title": "Stock Associate",
+          "subtitle": "OCS Group UK . Part-time",
+          "caption": "Jun 2017 - Sep 2017 · 3 mos",
+          "metadata": "Croydon, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "669148",
+          "companyUrn": "urn:li:fsd_company:669148",
+          "companyLink1": "https://www.linkedin.com/company/explore-learning/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH6F54mkvsv-A/company-logo_100_100/B4EZWGPLpGGgAU-/0/1741713883182/explore_learning_logo?e=1785369600&v=beta&t=ei3XBdyMFDWthjNk6_fjqNbU0PVAdz6-kNlM7tQXW2U",
+          "title": "Tutor",
+          "subtitle": "Explore Learning . Part-time",
+          "caption": "Jun 2016 - Mar 2017 · 9 mos",
+          "metadata": "Croydon, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2630034",
+          "companyUrn": "urn:li:fsd_company:2630034",
+          "companyLink1": "https://www.linkedin.com/company/superdrug/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEEhpZFj8Onpg/company-logo_400_400/company-logo_400_400/0/1636554771630/superdrug_logo?e=1785369600&v=beta&t=dHX8VNzIoJwBT-F4W74edAexZeaVuNHM2utmnsmh-14",
+          "title": "Customer Assistant",
+          "subtitle": "Superdrug . Part-time",
+          "caption": "Sep 2015 - Apr 2016 · 7 mos",
+          "metadata": "Clapham, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "3653845",
+          "companyUrn": "urn:li:fsd_company:3653845",
+          "companyLink1": "https://www.linkedin.com/company/snowflake-computing/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF3mYS3WqCB3g/company-logo_400_400/company-logo_400_400/0/1688575708630/snowflake_computing_logo?e=1785369600&v=beta&t=UQ5VExeBocqhv-dbHt1CatieAl6EYFs9ce2Fk93Fppk",
+          "title": "Hands On Essentials - Data Warehouse",
+          "subtitle": "Snowflake",
+          "issued": "Issued Jan 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Big Data Foundations - Level 1",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Big Data Foundations - Level 2",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Data Analysis Using Python",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Data Science Tools",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Python for Data Science",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Spark - Level 1",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Spark - Level 1",
+          "subtitle": "IBM",
+          "issued": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Excel: Advanced Formulas and Functions",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Feb 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Excel Essential Training (Office 365/Microsoft 365)",
+          "subtitle": "LinkedIn",
+          "issued": "Issued Jan 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Digital Leader",
+          "subtitle": "Google Cloud",
+          "issued": "Issued Dec 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Cloud Practitioner",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Oct 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Twi",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST APIs",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kafka Streams",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Pipelines",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Time Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Organic Chemistry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Chemistry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Biology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Chemistry",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tutoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spreadsheets",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Office 365",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence (BI)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "9521",
+          "companyUrn": "urn:li:fsd_company:9521",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sussex/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHrCxtttNNW1g/company-logo_400_400/company-logo_400_400/0/1630565246057/university_of_sussex_logo?e=1785369600&v=beta&t=WGEBek1yOnOCHH4k-zs38JdAZtRU3x6Leunely2_FUg",
+          "title": "University of Sussex",
+          "subtitle": "Chemistry and Drug Discovery MChem, Chemistry",
+          "caption": "2017 - 2021",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "1st Class Hons "
+            },
+            {
+              "type": "insightComponent",
+              "text": "First Year Modules:\n\nIntroduction to Materials\nIntroduction to Organic Chemistry\nMaths and Data Analysis for Chemists\nStructure, Bonding and the Periodic Table\nFunctional Group Chemistry\nMolecular Symmetry\nReaction Energetics and Kinetics\nReactivity of the Elements\n\n\nSecond Year Modules:\n\nAtmospheres and Interfaces\nBonding and Spectroscopy\nCo-ordination Chemistry\nOrganic Reaction Mechanisms\nApplications of Organic and Bioinorganic Chemistry\nIntroduction to Organometallic Chemistry\nPhases, Change and Rates\nStrategy in Organic Synthesis\n\n\nThird Year Modules:\n\nChemical Principles\nInstrumental Analysis\nIntroduction to Drug Design\nChemistry Project (Year 3)\nProtein Form and Function\nSynthetic Methods in Organic Chemistry\nInnovation in Bioscience and Medicine\n\n\nFourth Year Modules:\n\nAdvanced Synthetic Methods\nAsymmetric Synthesis and Catalysis\nMolecular Pharmacology (Masters)\nPrinciples and Practice: Drug Discovery & Development\nDrug Discovery Advanced Project"
+            }
+          ]
+        },
+        {
+          "title": "Hayes School",
+          "subtitle": "A-level, Prefect and Student Mentor",
+          "caption": "2015 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3 A-levels\n\nSociology- A*\nChemistry- A\nBiology- A"
+            }
+          ]
+        },
+        {
+          "title": "Shirley High School",
+          "subtitle": "GCSE, Prefect and Tutor",
+          "caption": "2010 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "12 GCSE’s (A*-B)\n\nMaths- A*\nEnglish Literature- A\nEnglish Language- A"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

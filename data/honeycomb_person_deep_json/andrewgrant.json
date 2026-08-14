@@ -1,0 +1,323 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/andrewgrant",
+  "row_key": "id:0036O000047njB7QAI",
+  "person": "Andrew Grant",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:11Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABkhVwB6D4-Eh_NuhmFIgXnNYH_OGv0kMk",
+      "firstName": "Andrew",
+      "lastName": "Grant",
+      "fullName": "Andrew Grant",
+      "publicIdentifier": "andrewgrant",
+      "headline": "VP, Creator Platform & Engineering",
+      "about": "Skilled engineering leader. Proven ability to recruit, mentor, and lead high-performing teams in the delivery of innovative and challenging projects.\n\nStrong leader, collaborator, and individual contributor. Wide range of experience including real-time graphics, VR, mobile, networking, parallel processing, optimization, tools, and UI development.\n\nComfortable and experienced in presenting and pitching to C-level executives, boards of directors, accomplished filmmakers, and other creative leaders.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Cary, North Carolina United States",
+      "addressWithoutCountry": "Cary, North Carolina",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGLUwBiQyeQ3A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516254687652?e=1785369600&v=beta&t=gOfTlE-hTxuPzwqKWvFMJBZHfMmkZxP5d1Gf4NHkqSk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGLUwBiQyeQ3A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516254687639?e=1785369600&v=beta&t=0NNYJa2DQZ2i7vUdYR8q21VVNGTqq4ireYvzthum32M"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGLUwBiQyeQ3A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516254687544?e=1785369600&v=beta&t=bI9w_h21o_DJf1IYdlj_5NucDudc7HYonmLBosZGAPM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGLUwBiQyeQ3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516254687525?e=1785369600&v=beta&t=kucgyNKMDVhGkExWLIzmHBf_Oc0RcCxwsOxotaAhmQA"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGLUwBiQyeQ3A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516254687652?e=1785369600&v=beta&t=gOfTlE-hTxuPzwqKWvFMJBZHfMmkZxP5d1Gf4NHkqSk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 10 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Vice President, Creator Platform & Engineering",
+              "caption": "Dec 2024 - Present · 1 yr 1 mo",
+              "metadata": "Cary, North Carolina, United States",
+              "description": []
+            },
+            {
+              "title": "Senior Director, Engineering",
+              "caption": "Feb 2021 - Dec 2024 · 3 yrs 10 mos",
+              "metadata": "Cary, North Carolina, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leading engineering for Unreal Editor for Fortnite, Fortnite Creative, and the Fortnite ecosystem"
+                }
+              ]
+            },
+            {
+              "title": "Technical Director, Engineering",
+              "caption": "Dec 2018 - Feb 2021 · 2 yrs 2 mos",
+              "metadata": "Cary, North Carolina, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Technical, people, and process leadership.\n\n- Virtual Production tools and workflows\n- MetaHuman Creator\n- GDC and Siggraph Demos\n- Fortnite Social Apps"
+                }
+              ]
+            },
+            {
+              "title": "Lead Programmer",
+              "caption": "Sep 2015 - Dec 2018 · 3 yrs 3 mos",
+              "metadata": "Cary, North Carolina, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Responsible for technical direction of all aspects of Paragon, Epic Games first Free to Play title.\n- Implemented the tools, tech and process needed to ship a AAA Unreal Engine game with new features and characters on a weekly basis.\n- Led the ports of Fortnite to iOS and Android"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3815",
+          "companyUrn": "urn:li:fsd_company:3815",
+          "companyLink1": "https://www.linkedin.com/company/lucasfilm/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEvSvzoG1m9UQ/company-logo_400_400/company-logo_400_400/0/1657057059491/lucasfilm_logo?e=1785369600&v=beta&t=QeU0ronQnMEGGmEfqSfqhb7HwN-xw-N8BoH469_ZyiM",
+          "title": "Lucasfilm",
+          "subtitle": "undefined · 6 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering, Advanced Development Group",
+              "caption": "Apr 2013 - Sep 2015 · 2 yrs 5 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "ADG develops tools and techniques for computer graphics and simulation. Our goal is to expand and enhance the creative process of storytelling in the Star Wars universe through the real-time rendering of visuals that approach motion picture quality.\n\nSince being founded in 2013, our work at ADG has included -\n\n* Creation of a material-based painting and look development package for Star Wars: The Force Awakens and future ILM productions.\n* Libraries and tools for interchange of material information between 3D packages (Mari, Maya, Katana, Unreal).\n* Prototypes of immersive consumer experiences\n* Virtual set-scouting and development tools used on Star Wars: Rogue One and other unannounced titles.\n\nADG supplies technology and expertise in real-time rendering to groups within Lucasfilm and Disney. Some of our work can be seen in the recent launch video for ILM's new 'xLab' initiative and was also presented at FMX 2015."
+                }
+              ]
+            },
+            {
+              "title": "Lead Engineer",
+              "caption": "Jun 2009 - Mar 2013 · 3 yrs 9 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for technical direction and implementation on Star Wars:1313, a AAA title for PS4/XB1/PS3/XBox.\n\n- Lead, mentor, and support a team of 20+ highly talented engineers \n- Build and establish a culture of engineering excellence on 1313 team\n- Incorporate cutting edge VFX tools, technology, and techniques from Industrial Light & Magic (ILM) into real-time environments.\n- Identify and plan improvements and replacements to key Unreal Engine 3 components.\n- Collaborate with creative leadership to set goals for new and existing technology features. \n- Work with art leads to develop efficient processes and pipelines for asset creations.\n- Work with production to build project schedules and milestones.\n- Write as much code as possible while not interfering with any of the above :)\n\nStar Wars:1313\nTrailers - http://www.youtube.com/watch?v=BQyGu4EqZsU\nFirst Look - http://www.insidegamingdaily.com/2012/06/14/e3-2012-star-wars-1313-first-look/\n\n."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "13511",
+          "companyUrn": "urn:li:fsd_company:13511",
+          "companyLink1": "https://www.linkedin.com/company/seven-studios/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGqmkNrxBen_Q/company-logo_400_400/company-logo_400_400/0/1631308794106?e=1785369600&v=beta&t=dBebqWJSl-FzhzWZXq4o03BolnfR2i7f-_eljWsviJU",
+          "title": "Technical Lead",
+          "subtitle": "Seven Studios (Activision Blizzard) . undefined",
+          "caption": "Jun 2007 - Jun 2009 · 2 yrs",
+          "metadata": "Greater Los Angeles Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led the development and direction of a new codebase and toolchain designed for next-gen systems.\n\nResponsibilities included significant contribution to the codebase, evaluating and identifying the direction of internal tools and tech, managing and scheduling engineers on the technology team, and liaising with game teams to ensure their needs were met."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Contractor",
+          "subtitle": "Independent . undefined",
+          "caption": "Feb 2007 - Jun 2007 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Independent contractor working on PSP / XBox 360 engine technology.\n\nWorked on porting Viva Piñata from Xbox 360 to PC. Work included D3D work, PC-friendly XACT implementation, and optimizations to reduce thread-load."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7210",
+          "companyUrn": "urn:li:fsd_company:7210",
+          "companyLink1": "https://www.linkedin.com/company/climax/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHcqPrO8UXDyg/company-logo_400_400/company-logo_400_400/0/1732544272726/climax_logo?e=1785369600&v=beta&t=K1dj1bCmMzHaWsa-S6aPcf3_iZwpy2df1hXLKzi7jTg",
+          "title": "Lead Programmer",
+          "subtitle": "Climax Los Angeles . undefined",
+          "caption": "Oct 2004 - Feb 2007 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead Programmer on ATV: Blazin Trails (PlayStation Portable launch title) its sequel ATV: Pro. \n\nOversaw development of Mortal Kombat: Unchained on PSP\n\nMain author of the PSP internal middleware used across multiple Climax studios."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7211",
+          "companyUrn": "urn:li:fsd_company:7211",
+          "companyLink1": "https://www.linkedin.com/company/climax-racing/",
+          "title": "Climax Racing / BlackRock",
+          "subtitle": "undefined · 5 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Programmer",
+              "caption": "Feb 2003 - Feb 2007 · 4 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Lead Programmer on ATV Offroad Fury 3, first-party SCEA title"
+                }
+              ]
+            },
+            {
+              "title": "Senior PS2 Programmer",
+              "caption": "Feb 2002 - Feb 2003 · 1 yr",
+              "metadata": "Brighton, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "PS2 and systems development on ATV Quad Power Racing 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Programmer",
+          "subtitle": "Hothouse Creations . undefined",
+          "caption": "Sep 1998 - Feb 2002 · 3 yrs 5 mos",
+          "metadata": "Bristol, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Apprentice / Commis Chef",
+          "subtitle": "The Balmoral Hotel . undefined",
+          "caption": "1995 - 1998 · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Apprentice then Commis Chef at The Balmoral, Edinburgh's leading 5-star hotel."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Mentoring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Building",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "High Performance Teams",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Augmented Reality (AR)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unreal Engine",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Star Wars 1313",
+          "subtitle": "2009 - Present",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

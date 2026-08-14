@@ -1,0 +1,537 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/davenash",
+  "row_key": "id:003Uk00000y9arMIAQ",
+  "person": "Dave Nash",
+  "account": "Lytx",
+  "fetched_at": "2026-07-14T10:21:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAunQwBJ22FvGB5YPC1fhuViSfcq8Z-MgI",
+      "firstName": "Dave",
+      "lastName": "Nash",
+      "fullName": "Dave Nash",
+      "publicIdentifier": "davenash",
+      "headline": "Staff Site Reliability Engineer",
+      "about": "An experienced DevOps/SRE Engineer with over 20 years experience automating and accelerating teams and organizations.   I am comfortable with individual contributor or leadership roles, as long as I’m faced with meaningful challenges, interesting problems, and learn something new.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Seattle Area United States",
+      "addressWithoutCountry": "Greater Seattle Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEsHk1CxFDvng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516278232314?e=1785369600&v=beta&t=WDvZY18ekqgkp2d4-cV3dI-7P72xi1vLxgk-ozx4CY4",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQEms1-i6N_FeA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648140909692?e=1785369600&v=beta&t=ZX-JWwQJKM5mQhPW4Rke71lW7oyFZkmYZMnQfFn14DI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEsHk1CxFDvng/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516278232320?e=1785369600&v=beta&t=w34TMWngZlc8r5TMbTMa8Fc-s-AQ9gIll1WD9szc61k"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEsHk1CxFDvng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516278232351?e=1785369600&v=beta&t=cwimlzQiK13xIPu7TiXK13s5kVM4LJjl7YyDgB-v9M8"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEsHk1CxFDvng/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516278395246?e=1785369600&v=beta&t=XiyJb51B5r5zaxeAh5Tv5VCVChHLH486jf3flpOQYPs"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEsHk1CxFDvng/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516278232314?e=1785369600&v=beta&t=WDvZY18ekqgkp2d4-cV3dI-7P72xi1vLxgk-ozx4CY4"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEms1-i6N_FeA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1648140909692?e=1785369600&v=beta&t=xFcjs1FS2EFXYNMF9eQbqlHSAIvKGbdd_0eT_xzOV7s"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEms1-i6N_FeA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648140909692?e=1785369600&v=beta&t=ZX-JWwQJKM5mQhPW4Rke71lW7oyFZkmYZMnQfFn14DI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "26167",
+          "companyUrn": "urn:li:fsd_company:26167",
+          "companyLink1": "https://www.linkedin.com/company/lytxinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZaBN0JHGmXA/company-logo_100_100/B4DZgJvZmdHAAQ-/0/1752510077843/lytxinc_logo?e=1785369600&v=beta&t=NfCL0oX6Zf4HwhrxEfAz-XBdQJZc0H-cdd0QkKfBThk",
+          "title": "Staff SRE",
+          "subtitle": "Lytx, Inc. . Full-time",
+          "caption": "Dec 2022 - Present · 3 yrs 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "21269",
+          "companyUrn": "urn:li:fsd_company:21269",
+          "companyLink1": "https://www.linkedin.com/company/redfin/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE3BmcJxFAFXw/company-logo_200_200/B4EZwz.YMuI0AI-/0/1770398516580?e=1785369600&v=beta&t=SeeXYgFLSCaXXg6MkMSOZyAGes0e-KqhwaDC5sGjWbs",
+          "title": "Tech Lead (Staff Engineer) Site Reliability Engineer",
+          "subtitle": "Redfin . Full-time",
+          "caption": "Mar 2022 - Nov 2022 · 8 mos",
+          "metadata": "Seattle, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Tech Lead (Staff Engineer) for the SRE team. Worked with Development and Operations teams supporting the legacy monolith and kubernetes microservices applications to improve reliability and reduce toil\n\n- Designed, presented and ran SLO workshops to help product teams select high value SLO's for the company SLO Dashboard and Service Health Reviews\n\n- Engaged with several teams to identify areas where reliability could be increased and where operational toil could be reduced\n\n- Set SRE organization quarterly goals including engagements and software development\n\n- Wrote documentation and training for reliability initiatives such as PRR, Infrastructure Operationalization and Observability"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13990",
+          "companyUrn": "urn:li:fsd_company:13990",
+          "companyLink1": "https://www.linkedin.com/company/zillow/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGrC7UhdwNCBQ/company-logo_400_400/company-logo_400_400/0/1736460294867/zillow_logo?e=1785369600&v=beta&t=ESXEgnVJ6neCrK0_Lut9teury8ORcCNWMQk6HiXnS8c",
+          "title": "Senior SRE",
+          "subtitle": "Zillow Group . Full-time",
+          "caption": "Sep 2019 - Mar 2022 · 2 yrs 6 mos",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Senior SRE supporting our development teams in adopting DevOps/SRE practices.  Such as the 4 golden signals, being on call, migration to kubernetes, Terraform and working collaboratively. Additionally, we developed tools and runbooks that could be utilized throughout the organization to enable teams to be more agile and improve efficiency.\n\nAccomplishments\n- Created Terraform archetypes to implement the 4 Golden Signals within our monitoring solution so that development teams could enable these without support.\n- Worked with various teams across the organization to migrate from legacy platforms to our next generation Kubernetes based platform.\n- Managed a Kubernetes clusters with Rancher for a new business line within the company. This allowed them to innovate and deploy quickly without being constrained by legacy platforms and procedures."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1028",
+          "companyUrn": "urn:li:fsd_company:1028",
+          "companyLink1": "https://www.linkedin.com/company/oracle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1785369600&v=beta&t=-2jXKAmeScrST660DEvhikbsU_jlaW2xSt2n4cFthv0",
+          "title": "SRE",
+          "subtitle": "Oracle . Full-time",
+          "caption": "Jun 2018 - Sep 2019 · 1 yr 3 mos",
+          "metadata": "Seattle, Washington",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked within a small SRE team within Operations to work with various teams throughout Oracle Cloud to improve their operational efficiency and reliability. In addition we spotted common issue across teams and developed or sponsored solutions that could be applied globally.\nAccomplishments\n- Designed and built an internal API utilizing GoLang, MySql  and OCI Functions to improve our  ability to respond to customer demands and stay with contractual SLA’s.\n- Worked with various teams across the organization to implement configuration automation and healthy On Call habits.\n- Help with Development and implementation of an internal chatbot and plugins. The bot could notify team of SLA breaches, food trucks, deployments and many other events."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2260147",
+          "companyUrn": "urn:li:fsd_company:2260147",
+          "companyLink1": "https://www.linkedin.com/company/flowroute/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEkJhXHzgIWpg/company-logo_400_400/company-logo_400_400/0/1675372625225/flowroute_logo?e=1785369600&v=beta&t=wKluC6uNytZvwOegORH9KV7sHdzlsTgaA7-537uKmbA",
+          "title": "DevOps Engineer",
+          "subtitle": "Flowroute Inc. . Full-time",
+          "caption": "May 2016 - Jun 2018 · 2 yrs 1 mo",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Work within a cross discipline Agile team as the embedded DevOps Engineer to implement and support an  API driven real time voice communication platform.\nAccomplishments\n- Implemented host and application automation with cloudformation (AWS), Terraform (packet.net), packer, ansible and gitlab-ci.\n- Migrated monitoring and metric  from manually configured nagios/graphite to automatically configured Datadog(https://www.datadoghq.com/).\n- Developed a python tool for use by Customer Success to determine if customer firewalls permitted access from all of our PoPs.\nPerformed Scrum Master duties within my team including leading ceremonies and scheduling."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Sr Systems Engineer",
+          "subtitle": "Aptimus . Full-time",
+          "caption": "Sep 2013 - Apr 2016 · 2 yrs 7 mos",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Work with an office comprising Operations, QA & Development to innovate and rapidly realize new products and revenue streams while supporting the legacy “front end” of the business.\n\nAccomplishments:\n- Designed and implemented a Continuous Deployment infrastructure with Jenkins and dependent scripts to support autonomous builds and deployment.\n- Designed and maintained distributed logging and metric systems utilizing  Graphite/Grafana and ELK(Elasticsearch, Logstash and Kibana).\n- Developed proof of concept systems with docker, vault and other technologies for our next generation Continuous Deployment infrastructure.\n- Designed and maintained our “Chatops” infrastructure with hipchat and hubot allowing the organization to self service through the hipchat interface"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18237",
+          "companyUrn": "urn:li:fsd_company:18237",
+          "companyLink1": "https://www.linkedin.com/company/medio/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH9ZHsiR6FySw/company-logo_100_100/B56ZpbCsLMIcAQ-/0/1762464023839/medio_logo?e=1785369600&v=beta&t=J5HXRORYEHH6TMCNAjqFcoe0jokCJvMzf4kmVp1kAh4",
+          "title": "Sr Systems Engineer",
+          "subtitle": "Medio Systems . Full-time",
+          "caption": "Aug 2008 - Aug 2013 · 5 yrs",
+          "metadata": "Greater Seattle Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working within a team, helped to design implement and manage a redundant highly scalable architecture to support a growing software company in the Mobile arena.\n    \nAccomplishments:\n- Designed and implemented Puppet integrated with foreman and Nagios to provide a simple automated build,deployment and monitoring system\n- Designed and built a custom Application deployment system based around Ruby on Rails to replace a manual process.\n- Took over management of cassandra NoSQL solution and migrated it to the datastax supported cassandra platform providing increased performance and quicker issue resolution."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Senior System Administrator",
+          "subtitle": "Jobster Inc . undefined",
+          "caption": "Oct 2005 - Jul 2008 · 2 yrs 9 mos",
+          "metadata": "Seattle, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Hired as the first Unix System Engineer, I helped guide and architect Jobster’s evolution from a small startup into an enterprise class environment supporting 24x7 availability with rapidly developing products and applications.\n\nAccomplishments:\n- Converted a manual installation and configuration to a completely automated process to install and configuration using RedHat kickstart and cfengine\n- Designed and configured a redundant Enterprise mail system utilizing Postfix with reporting in awstats.\n- Developed and supported a perl based application to support deployment of our 14+ products in a consistent and repeatable manner.\n- Worked with 3rd party vendors to diagnose and support Oracle and MySQL database instances in a production environment"
+              }
+            }
+          ]
+        },
+        {
+          "title": "System Engineer III",
+          "subtitle": "The Cobalt Group Inc. . Full-time",
+          "caption": "Feb 2000 - Oct 2005 · 5 yrs 8 mos",
+          "metadata": "Seattle, Washington, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Responsible for the management and administration of existing production and QA infrastructure (over 300 nodes). Additional responsibilities for design and implementation of new technology solutions and advanced troubleshooting of high end eCRM applications.   Served as a mentor to SE I and SE II team members, and performed project lead/management duties.  \n\nAccomplishments:\n- Architected and implemented an autonomous system to perform repeatable building and configuration of Sun Solaris and Red Hat Enterprise systems which resulted in a dramatic reduction in the time required to provision new servers and the mean time to recovery (MTTR) of existing systems.\n- Designed, programmed and implemented a web based system for notifying Internal Customers of Outages and Maintenance in a central location conforming to corporate guidelines.\n- Evaluated, built and configured system/application monitoring solution utilizing Nagios, which eliminated the need for BMC Patrol and costly licensing."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3024",
+          "companyUrn": "urn:li:fsd_company:3024",
+          "companyLink1": "https://www.linkedin.com/company/infinet-communications/",
+          "title": "System Admin",
+          "subtitle": "InfiNet . Full-time",
+          "caption": "Sep 1995 - Sep 1999 · 4 yrs",
+          "metadata": "Norfolk, Virginia, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Provided 24/7 production support of  Sun Solaris and True64 servers\nhosting over 50 Newspaper websites, related products and dial-up\nInternet Access.\n\nAccomplishments:\n- Migrated Websites from Open Market Web Server to a mixture of Netscape and Zeus.\n- First Tier responder for hostmaster, postmaster and abuse Issues related to dial-up access."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "426253",
+          "companyUrn": "urn:li:fsd_company:426253",
+          "companyLink1": "https://www.linkedin.com/company/new-relic-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWb9VneWsipA/company-logo_200_200/B4DZzYfvpDKoAY-/0/1773158728062/new_relic_inc__logo?e=1785369600&v=beta&t=z_9ZjR1hj-C71lIhNl9kA8v3VF-yKu__wfWzjx7oukE",
+          "title": "New Relic Certified APM Practitioner Associate (APA)",
+          "subtitle": "New Relic",
+          "issued": "Issued Dec 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "426253",
+          "companyUrn": "urn:li:fsd_company:426253",
+          "companyLink1": "https://www.linkedin.com/company/new-relic-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWb9VneWsipA/company-logo_200_200/B4DZzYfvpDKoAY-/0/1773158728062/new_relic_inc__logo?e=1785369600&v=beta&t=z_9ZjR1hj-C71lIhNl9kA8v3VF-yKu__wfWzjx7oukE",
+          "title": "New Relic Verified Foundation (NVF)",
+          "subtitle": "New Relic",
+          "issued": "Issued Jan 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Collaborative Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technology Evangelism",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Puppet",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nagios",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Norfolk Technical Vocational Center",
+          "subtitle": "Diploma, Bussiness Artifical Intelligence",
+          "caption": "1992 - 1993",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "FLL Robot and Project Judge",
+          "subtitle": "FIRSTWA",
+          "caption": "Nov 2015 - Dec 2015 · 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "74956063",
+          "companyUrn": "urn:li:fsd_company:74956063",
+          "companyLink1": "https://www.linkedin.com/company/seagl/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG8CBtnV2UzMQ/company-logo_200_200/B56Z6emV0lHUAE-/0/1780777311739/seagl_logo?e=1785369600&v=beta&t=o7lIJa3trjo8wLMS89vcbiIHTanfyj6r0g3UTF1iSfs",
+          "title": "Volunteer",
+          "subtitle": "SeaGL (the Seattle GNU/Linux Conference)",
+          "caption": "Aug 2019 - Present · 6 yrs 5 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Co-Leader",
+          "subtitle": "Seattle CoffeeOps",
+          "caption": "Dec 2018 - Present · 7 yrs 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18202389",
+          "companyUrn": "urn:li:fsd_company:18202389",
+          "companyLink1": "https://www.linkedin.com/company/devopsdays-seattle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGz4fJFeciFqg/company-logo_400_400/company-logo_400_400/0/1687285023527/devopsdays_seattle_logo?e=1785369600&v=beta&t=LWPFs7P3kivAXYQzLbozCWtzFBMScxT4D2yJBpwDjG4",
+          "title": "Organizer",
+          "subtitle": "DevOpsDays Seattle",
+          "caption": "Apr 2019 - Present · 6 yrs 9 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Co-leader",
+          "subtitle": "West Seattle Linux Users Group",
+          "caption": "May 2018 - Present · 7 yrs 8 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

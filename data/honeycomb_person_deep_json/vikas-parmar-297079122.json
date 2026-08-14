@@ -1,0 +1,428 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/vikas-parmar-297079122",
+  "row_key": "id:003Uk000010BHQKIA4",
+  "person": "Vikas Parmar",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:47:08Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB5EFVMBLMahIalJljsmK2OvaUWLcx2XfTg",
+      "firstName": "Vikas",
+      "lastName": "Parmar",
+      "fullName": "Vikas Parmar",
+      "publicIdentifier": "vikas-parmar-297079122",
+      "headline": "Enterprise Architect at ICA Sverige, Digital Transformation, Azure Solution Expert, TOGAF® 9.2 Certified",
+      "about": "Experienced Enterprise Architect with a demonstrated history of working in the retail industry. Skilled in Technical Project Leadership, Azure Solution, Content Management Systems (CMS), ATG, Hybris, Fatwire, and Amazon Web Services (AWS). Strong engineering professional with a Master of computer application focused in Information Technology",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Greater Stockholm Metropolitan Area Sweden",
+      "addressWithoutCountry": "Greater Stockholm Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGemzHh_eHsug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1543243005242?e=1785369600&v=beta&t=g_9xX6RTKFuPFFcOpDfyFF56MWQEVUwlrcP7U6WqFMU",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGemzHh_eHsug/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1543243005214?e=1785369600&v=beta&t=1FOawuMDW85tTVb0Powxk4pt_CCTupvD0iy6rnEJmbs"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGemzHh_eHsug/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1543243005303?e=1785369600&v=beta&t=E3hMgLwIctAZZi4HP-7H-6At53uiZIkxbqEICLezq1c"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGemzHh_eHsug/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1543243005137?e=1785369600&v=beta&t=LY5yd7hcW80GUl2ZPyZjvhzrxRBowjzY1aKx7T87ZzQ"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGemzHh_eHsug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1543243005242?e=1785369600&v=beta&t=g_9xX6RTKFuPFFcOpDfyFF56MWQEVUwlrcP7U6WqFMU"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "ICA Gruppen",
+          "subtitle": "Full-time · 10 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Enterprise Architect",
+              "caption": "Mar 2020 - Present · 5 yrs 10 mos",
+              "metadata": "Stockholm County, Sweden",
+              "description": []
+            },
+            {
+              "title": "Sr. Software Architect",
+              "caption": "Jul 2016 - Mar 2020 · 3 yrs 8 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Sr. Software Architect at ICA Sverige responsible for E-Commerce Part"
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Developer - Sapient",
+              "caption": "Jan 2016 - Jun 2016 · 5 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2145",
+          "companyUrn": "urn:li:fsd_company:2145",
+          "companyLink1": "https://www.linkedin.com/company/sapient/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHYEF-qq5s_pA/company-logo_400_400/company-logo_400_400/0/1630567352397/sapient_logo?e=1785369600&v=beta&t=pAgQ4edpTDQsCejTt8NBKJnUg-fQRtqFBC1vOhsl224",
+          "title": "Solutions Architect",
+          "subtitle": "Sapient . Full-time",
+          "caption": "Apr 2014 - Dec 2015 · 1 yr 8 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "165182",
+          "companyUrn": "urn:li:fsd_company:165182",
+          "companyLink1": "https://www.linkedin.com/company/news-uk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGDNVdmS5t5PA/company-logo_400_400/company-logo_400_400/0/1722269344459/news_uk_logo?e=1785369600&v=beta&t=81S34DEl_uMMhX_kwyo4EDYE2GsV09GPd8vMrfofxkA",
+          "title": "Senior Software Developer - Sapient",
+          "subtitle": "News UK . Full-time",
+          "caption": "Jul 2009 - Apr 2014 · 4 yrs 9 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "32745",
+          "companyUrn": "urn:li:fsd_company:32745",
+          "companyLink1": "https://www.linkedin.com/company/sapientnitro/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF4uh6KTAxYdg/company-logo_400_400/company-logo_400_400/0/1630582441390/sapientnitro_logo?e=1785369600&v=beta&t=2nBEaKsTVXrx8VW_PfZ2fWKaRhMItjVyuz3BJWVHC8I",
+          "title": "Software Developer",
+          "subtitle": "SapientNitro . undefined",
+          "caption": "Oct 2007 - Jun 2009 · 1 yr 8 mos",
+          "metadata": "New Delhi, Delhi, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "PulseInfotech . undefined",
+          "caption": "Jan 2005 - Sep 2007 · 2 yrs 8 mos",
+          "metadata": "New Delhi, Delhi, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "AZ-300 Microsoft Azure Architect Technologies",
+          "subtitle": "Microsoft",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "AZ-301 Microsoft Azure Architect Design",
+          "subtitle": "Microsoft",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure Solutions Architect Expert",
+          "subtitle": "Microsoft",
+          "issued": "Issued Feb 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "20614",
+          "companyUrn": "urn:li:fsd_company:20614",
+          "companyLink1": "https://www.linkedin.com/company/the-open-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHXlbV-DD9Z5Q/company-logo_400_400/company-logo_400_400/0/1630635562286/the_open_group_logo?e=1785369600&v=beta&t=hm4AEb9jpFsfJswNsCWDHzTuafwpIph2YeQBd-X76-s",
+          "title": "TOGAF® Certification Program",
+          "subtitle": "The Open Group",
+          "issued": "Issued Jun 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2570335",
+          "companyUrn": "urn:li:fsd_company:2570335",
+          "companyLink1": "https://www.linkedin.com/company/iasa-global/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGZ_bh1RZQlDw/company-logo_400_400/company-logo_400_400/0/1630503176015/iasa_global_logo?e=1785369600&v=beta&t=7vXBvzr_UuWUoOkd_rzKgdK2AZnDvgbpi9AhEN_-A1I",
+          "title": "Grundkurs för IT-arkitekter",
+          "subtitle": "Iasa Global",
+          "issued": "Issued Jul 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Microservice Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Enterprise Edition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SAP Hybris",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Content Management Systems (CMS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ATG Commerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Architectural Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Endeca",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Escenic",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fatwire",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Project Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8501957",
+          "companyUrn": "urn:li:fsd_company:8501957",
+          "companyLink1": "https://www.linkedin.com/school/maharshi-dayanand-university-rohtak/",
+          "title": "Maharshi Dayanand University Rohtak",
+          "subtitle": "Mastere Of Computer Application, Information Technology",
+          "caption": "2005 - 2007",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A"
+            }
+          ]
+        },
+        {
+          "title": "INDERAPRASTHA ENGINEERING COLLEGE, GHAZIABAD",
+          "subtitle": "Bachelor of Information Science, Information Technology",
+          "caption": "2001 - 2005",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A"
+            }
+          ]
+        },
+        {
+          "title": "Dhanpatmal Virmani School",
+          "subtitle": "12th, General Studies",
+          "caption": "1995 - 2001",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

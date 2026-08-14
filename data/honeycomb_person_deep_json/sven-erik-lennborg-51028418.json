@@ -1,0 +1,271 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/sven-erik-lennborg-51028418",
+  "row_key": "id:003Uk00000x61ttIAA",
+  "person": "Sven-Erik Lennborg",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:46:50Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAOZfdwBnUcIVSaQ_-m9qC_1UopSVcnYvEo",
+      "firstName": "Sven-Erik",
+      "lastName": "Lennborg",
+      "fullName": "Sven-Erik Lennborg",
+      "publicIdentifier": "sven-erik-lennborg-51028418",
+      "headline": "Head of Corporate IT Projects & Processes Group IT",
+      "about": "Retired",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Greater Stockholm Metropolitan Area Sweden",
+      "addressWithoutCountry": "Greater Stockholm Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEhRFQbHdIXjQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516779333471?e=1785369600&v=beta&t=mQJqNIIQWN7DUz7JxtogZn_7x-QYl4NlznXXEFim5Fw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEhRFQbHdIXjQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516779333445?e=1785369600&v=beta&t=ANdSy_KYlfxv-XeI4VtRuVz3kdq9gSDFTAEe2JlxeJ0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEhRFQbHdIXjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516779333863?e=1785369600&v=beta&t=W1UzOdEVpVZKyXR9TXfsXRVnGPzbqhsL0vT8attM1Rk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEhRFQbHdIXjQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516779333480?e=1785369600&v=beta&t=LdNzGqCr_9ZeiNchf9ogLwy8Bu2kYLnKyOoFpIo5X6E"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEhRFQbHdIXjQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516779333471?e=1785369600&v=beta&t=mQJqNIIQWN7DUz7JxtogZn_7x-QYl4NlznXXEFim5Fw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "Head of Application",
+          "subtitle": "ICA . undefined",
+          "caption": "Oct 2010 - Present · 15 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5049",
+          "companyUrn": "urn:li:fsd_company:5049",
+          "companyLink1": "https://www.linkedin.com/company/swedbank/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGIwfzke6i5bQ/company-logo_400_400/company-logo_400_400/0/1630648928740/swedbank_logo?e=1785369600&v=beta&t=C_5JU8VYqBBwzlD3yxUw81tNVvnsd7KS5ljFihczcC8",
+          "title": "Headset of IT Service at Swedbank ",
+          "subtitle": "Swedbank . undefined",
+          "caption": "2003 - 2010 · 7 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Chef",
+          "subtitle": "Ericsson data . undefined",
+          "caption": "1990 - 2003 · 13 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Manager",
+          "subtitle": "Ericsson Global IT Services AB . undefined",
+          "caption": "1980 - 2003 · 23 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1060",
+          "companyUrn": "urn:li:fsd_company:1060",
+          "companyLink1": "https://www.linkedin.com/company/ericsson/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE4si5Pr9mLOw/company-logo_200_200/B4DZ1CtTDxJQAI-/0/1774940664616/ericsson_logo?e=1785369600&v=beta&t=ZjsnBrkkiimqIJju4IF1k6PWz1-Wv4OY_SyBXQ0daCU",
+          "title": "IT",
+          "subtitle": "Ericsson AB . undefined",
+          "caption": "1980 - 2003 · 23 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Manager",
+          "subtitle": "L M Ericsson Data AB . undefined",
+          "caption": "1992 - 1998 · 6 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "ITIL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Service Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telecommunications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Outsourcing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Program Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Service Delivery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Requirements Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "People Care",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Change Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166164",
+          "companyUrn": "urn:li:fsd_company:166164",
+          "companyLink1": "https://www.linkedin.com/school/stockholm-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDDr4dLuJjYw/company-logo_400_400/company-logo_400_400/0/1651005531999/stockholm_university_logo?e=1785369600&v=beta&t=ekqGGRY6uRVgluC6yv4hM_LCebyxyUv8Zbn4byPe6bc",
+          "title": null,
+          "subtitle": "Bachelor, System Sience and Finance",
+          "caption": "1975 - 1978",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

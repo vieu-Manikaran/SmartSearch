@@ -1,0 +1,425 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/meet-bharodia-3660b0174",
+  "row_key": "id:003Uk00000yaGYqIAM",
+  "person": "Meet Bharodia",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:18:45Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAClN_P4BAD14CRa-9viJF307Ewq4Q1X3z44",
+      "firstName": "Meet",
+      "lastName": "Bharodia",
+      "fullName": "Meet Bharodia",
+      "publicIdentifier": "meet-bharodia-3660b0174",
+      "headline": "Sr Software Systems Engineer",
+      "about": "Lifelong learner ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Boston, Massachusetts United States",
+      "addressWithoutCountry": "Boston, Massachusetts",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFs9Lh2aqSgBw/profile-displayphoto-shrink_100_100/B4DZPNXU3rHgAU-/0/1734317265284?e=1785369600&v=beta&t=msuUL6m9KnF_QG-CPe2cWT2SeVtQ3pUjoHpToTSEtZ0",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQHx5b9Y1uFjrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1617765949165?e=1785369600&v=beta&t=BvmXlth_vmZY6T661uSRY0-IxJXP4juRGlpQgjJr3yw",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFs9Lh2aqSgBw/profile-displayphoto-shrink_400_400/B4DZPNXU3rHgAg-/0/1734317265284?e=1785369600&v=beta&t=rL5IaVsRVhcJ44mCENwPLByaxpuTsXGBvS9eJZlMlIg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFs9Lh2aqSgBw/profile-displayphoto-shrink_200_200/B4DZPNXU3rHgAY-/0/1734317265266?e=1785369600&v=beta&t=nv5YHtmGdsFIETJL7CD2NtXV9PQPcMTxLUoPkLgqLaI"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFs9Lh2aqSgBw/profile-displayphoto-shrink_800_800/B4DZPNXU3rHgAc-/0/1734317265284?e=1785369600&v=beta&t=aDczLpRQGMt-0WxZoFaBUwZBpbTlP948xvrT93UYwMQ"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFs9Lh2aqSgBw/profile-displayphoto-shrink_100_100/B4DZPNXU3rHgAU-/0/1734317265284?e=1785369600&v=beta&t=msuUL6m9KnF_QG-CPe2cWT2SeVtQ3pUjoHpToTSEtZ0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 797,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHx5b9Y1uFjrw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1617765949165?e=1785369600&v=beta&t=jy3TKvqugaVUf0nKHWGnX9Dz8lTq262GZM7IOO5u8GE"
+        },
+        {
+          "width": 1396,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHx5b9Y1uFjrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1617765949165?e=1785369600&v=beta&t=BvmXlth_vmZY6T661uSRY0-IxJXP4juRGlpQgjJr3yw"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Sr. Software Systems Engineer - Surgical Robotics",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Sep 2023 - Present · 2 yrs 4 mos",
+          "metadata": "Boston, Massachusetts, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4292",
+          "companyUrn": "urn:li:fsd_company:4292",
+          "companyLink1": "https://www.linkedin.com/school/arizona-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_400_400/company-logo_400_400/0/1631309406469?e=1785369600&v=beta&t=82NiK7T9IQaQt58VrdeA-mCnd1s2YGePuVZyEaSUP7E",
+          "title": "Biomedical Engineering Masters Project - Ultrasound Guided Neurostimulator Injector",
+          "subtitle": "Arizona State University . Full-time",
+          "caption": "Aug 2022 - Dec 2022 · 4 mos",
+          "metadata": "Tempe, Arizona, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "1. Designed a mm scale Neurostimulator device capable of injecting and retracting\n2. Visualized a 1.6 mm size occipital nerve using handheld Ultrasound Imaging System\n3. Injected a Neurostimulator device through 15 gauge needle\n4) Ensured correct injection of device near occipital nerve by proper visualization using Ultrasound system"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "71578046",
+          "companyUrn": "urn:li:fsd_company:71578046",
+          "companyLink1": "https://www.linkedin.com/company/noahmed/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGeUyj7ZChjiw/company-logo_400_400/company-logo_400_400/0/1630649279340/noah_medical_logo?e=1785369600&v=beta&t=5i0sRIDW28yCYJj9Y0Ctnr8zRRfaE5cB7UHlq0RfYs0",
+          "title": "Medical Imaging - Integration Test Engineer Intern",
+          "subtitle": "Noah Medical  . Internship",
+          "caption": "May 2022 - Dec 2022 · 7 mos",
+          "metadata": "San Carlos, California, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Noah Medical is building the future of medical robotics. Our next generation robotic platform targets early diagnosis and treatment of patients across multiple indications."
+              }
+            }
+          ]
+        },
+        {
+          "title": "PACS Integration Engineer",
+          "subtitle": "SoftTact Technologies Medical Device and Imaging Company . Full-time",
+          "caption": "Jun 2020 - Apr 2021 · 10 mos",
+          "metadata": "Mumbai, MH, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Implementation of pCare PACS on different hospital systems and imaging center for HL7 and DICOM solutions.\n● Clinical measurement mapping and clinical structured report customization tasks.\n● Configuring DICOM services to communicate with modalities and other DICOM devices.\n● Verification of system functionality and testing of storage and archiving.\n● Troubleshoot software installation problems or client errors on end user's PC.\n● Part of the team that monitors/maintain network infrastructure\n● Part of the team that monitors/maintains on-premise computing resources.\n● Provide IT support to  personnel.\n● Cloud services account management (as a part of the Cloud pCare PACS team.)\n● Solving escalated tickets that need access to Cloud services.\n● Solving random, spontaneous tasks from Research and Development.\n● Learning \"Deep Learning AI\" wit Image processing using Python\n● Configuring and customizing HL7 interfaces.\n● Windows based PCs and Server expertise.\n● Server software installation and configuration.\n● MS SQL Server Administrator.\n● Familiarity with DICOM standards.\n● Technical operations such as ensuring PACS application is running well in all systems.\n● Working closely with the Sales organization.\n● Worked with customers and vendors on solutions for unique workflows.\n\nNetwork Infrastructure:\n● Switch Customer Support\n● Demonstrating proficiency in networking concepts, software- defined networking and the OSI model."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Test Engineer Intern",
+          "subtitle": "SoftTact Technologies . Internship",
+          "caption": "Aug 2019 - Sep 2019 · 1 mo",
+          "metadata": "Mumbai, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Created test plans, test cases, and test scenarios based on software requirements and design documents.\n● Executed manual and automated test cases to ensure software functionality meets the defined specifications.\n● Design, develop and maintain automated test scripts and test frameworks to accelerate the testing process.\n● Identify, report, track and manage defects using defect tracking tools, and work with development teams to resolve them."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7809102",
+          "companyUrn": "urn:li:fsd_company:7809102",
+          "companyLink1": "https://www.linkedin.com/company/sanjeevani-hospital---india/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGWlYHw40C16A/company-logo_400_400/company-logo_400_400/0/1643279536639/sanjeevani_hospital___india_logo?e=1785369600&v=beta&t=NRwn1p_MNNVHrMCxxwYGySpxZ0wGXKMVFNvENqARxwE",
+          "title": "Biomedical Engineering Intern",
+          "subtitle": "Sanjeevani Hospital - India . Full-time",
+          "caption": "Dec 2018 - Jan 2019 · 1 mo",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Analyzed issues and troubleshooting of medical devices including, but not limited to, ECG/EKG, Defibrillator, Electrosurgical unit, Pulse oximeter, and Infant Incubator in all wards of the hospital under the supervision of Kirti - Biomedical Engineer\n● Conducted daily rounds of the hospital for the maintenance of medical devices in all wards along with the supervisor and service engineers."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Verification Validation Engineer",
+          "subtitle": "Makemendel 3-D Printer . Internship",
+          "caption": "Mar 2016 - May 2016 · 2 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "● Developed and executed test plans and test cases\n● Identified defects and issues\n● Worked with multiple stakeholders, including developers, designers, project managers, and end-users."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Bitbucket",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Documentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Collaborative Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Functional Verification",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytical Skills",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jira",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jama",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Medical Ultrasound",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Clinical Trials",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cadaver Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ultrasound Therapy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Deployment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Demonstration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Working with Surgeons",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Verification and Validation (V&V)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Picture Archiving and Communication System (PACS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4292",
+          "companyUrn": "urn:li:fsd_company:4292",
+          "companyLink1": "https://www.linkedin.com/school/arizona-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_400_400/company-logo_400_400/0/1631309406469?e=1785369600&v=beta&t=82NiK7T9IQaQt58VrdeA-mCnd1s2YGePuVZyEaSUP7E",
+          "title": "Arizona State University",
+          "subtitle": "Master of Science - MS, Biomedical/Medical Engineering",
+          "caption": "Aug 2021 - May 2023",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.8/4"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Courses - \n● Medical Imaging Instrumentation, \n● Ultrasound Imaging, \n● Biostatistics in Medicine & Informatics, \n● Advanced Biomaterials, \n● Applied Computational Behavior\n● Digital Image Processing\n● FDA Regulations"
+            }
+          ]
+        },
+        {
+          "companyId": "15141199",
+          "companyUrn": "urn:li:fsd_company:15141199",
+          "companyLink1": "https://www.linkedin.com/school/djsce/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFZRBOE0uG9Og/company-logo_400_400/company-logo_400_400/0/1675337351376/djsce_logo?e=1785369600&v=beta&t=3X8A2A0-GPj1m2pzYnTQC0-cHmDy9MFETQVqzGCP7Fs",
+          "title": "Dwarkadas J. Sanghvi College of Engineering",
+          "subtitle": "Bachelor of Engineering - BE, Biomedical/Medical Engineering",
+          "caption": "2016 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Relevant Coursework : \n● Medical Imaging I \n● Medical Imaging II \n● Digital Image Processing\n● Healthcare Informatics\n● Networking and Information in Medical System\n● Digital Signal Processing, \n● Signal and Control Systems, \n● Biomedical Instrumentation "
+            }
+          ]
+        },
+        {
+          "companyId": "5848627",
+          "companyUrn": "urn:li:fsd_company:5848627",
+          "companyLink1": "https://www.linkedin.com/school/mithibai-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFVgloDYfg_ZQ/company-logo_400_400/company-logo_400_400/0/1630589442820/mithibai_college_logo?e=1785369600&v=beta&t=Ytq-kHaNEoi_zhO11HdmD68mKsBJnBR5TQGX1pkQAto",
+          "title": "Mithibai College",
+          "subtitle": "null, null",
+          "caption": "2014 - 2016",
+          "subComponents": []
+        },
+        {
+          "companyId": "4292",
+          "companyUrn": "urn:li:fsd_company:4292",
+          "companyLink1": "https://www.linkedin.com/school/arizona-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_400_400/company-logo_400_400/0/1631309406469?e=1785369600&v=beta&t=82NiK7T9IQaQt58VrdeA-mCnd1s2YGePuVZyEaSUP7E",
+          "title": "Arizona State University",
+          "subtitle": "Master's degree, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

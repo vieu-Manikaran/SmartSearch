@@ -1,0 +1,511 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/debashish-ghosh",
+  "row_key": "id:003Uk00000yfZ8iIAE",
+  "person": "Debashish Ghosh",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:37Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAVMLaEBWue6llLJrrWnOg0jhL93EY0WkSs",
+      "firstName": "Debashish",
+      "lastName": "Ghosh",
+      "fullName": "Debashish Ghosh",
+      "publicIdentifier": "debashish-ghosh",
+      "headline": "Senior Software Engineer at Coinbase",
+      "about": "I studied Computer Science at McGIll University, Montreal. My areas of interest include Internet of Things, Telepresence, Machine Learning, and Computer Network.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Philadelphia United States",
+      "addressWithoutCountry": "Greater Philadelphia",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEL28X8XD-9nQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517285823205?e=1785369600&v=beta&t=qnHVaJ2cQ4X7cilCZxrJvWiFZm73AaBzcHAylcN9lxE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEL28X8XD-9nQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517285823202?e=1785369600&v=beta&t=i2sV_O2eliOSyVOjEhdkcuJSFOg7ajVNiu3ZFxG4Wfg"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEL28X8XD-9nQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517285823339?e=1785369600&v=beta&t=RrAuJmEvGVzRsK71qWc5gzcwrmrGik7dMHu8p_k6Mvo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEL28X8XD-9nQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517285823401?e=1785369600&v=beta&t=daC1ZL5rYLdmOlGQUuyrt0JnHplQsWYwIZ5My48tYN0"
+        },
+        {
+          "width": 425,
+          "height": 425,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQEL28X8XD-9nQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517285823205?e=1785369600&v=beta&t=qnHVaJ2cQ4X7cilCZxrJvWiFZm73AaBzcHAylcN9lxE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Permanent Full-time · 4 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2023 - Present · 2 yrs 5 mos",
+              "metadata": "Greater Philadelphia",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Sep 2021 - Aug 2023 · 1 yr 11 mos",
+              "metadata": "Greater Philadelphia",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "784652",
+          "companyUrn": "urn:li:fsd_company:784652",
+          "companyLink1": "https://www.linkedin.com/company/shopify/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG_KjTcNcrLVw/company-logo_100_100/B56ZZolTV.HUAc-/0/1745511331439/shopify_logo?e=1785369600&v=beta&t=JZcb8dk7FrbpeFVtSgxTfwOsoc35IGjuEEBGZbSEum8",
+          "title": "Software / Data Developer ",
+          "subtitle": "Shopify . Full-time",
+          "caption": "Apr 2018 - Aug 2021 · 3 yrs 4 mos",
+          "metadata": "Ottawa, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Software Engineer II",
+          "subtitle": "Cisco . undefined",
+          "caption": "Mar 2015 - Mar 2018 · 3 yrs",
+          "metadata": "Ottawa, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Full stack developer as part of the MCPRE (Mid Range Convergence Platform Release Engineering) team within Cisco Developer Experience (DevEx) group.\n- Created a new tool (TimeBox) that optimized build resources by 50-60% using a patented backend optimization technique, and provided a visualization using Google charts for any system that is based on a build workflow. \n- Won the 1st prize in the Cisco all branches hackathon in 2018 for TimeBox\n- Develop features on Automated Build System (ABS), a distributed process automation tool for pre­-commit validation used by all Cisco IOS­XE software engineers using Python (Django) framework, mysql database. \n- OS agnostic Workflow (PAW) for developers across the different routing operating systems at Cisco, to commit their code; using Tornado services providing a Service Oriented Architecture.\n- Created Apache Kafka producers and consumers for real time service requests in both MCPRE and PAW.\n- Used Jenkins based build system for the build workflow in PAW.\n- Work on the plan, design, documentation and development of a new workflow, Pre-commit Automation"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4854",
+          "companyUrn": "urn:li:fsd_company:4854",
+          "companyLink1": "https://www.linkedin.com/company/muhc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHiNm42g3ALEA/company-logo_200_200/B4EZfGL3oBHwAM-/0/1751376690082/muhc_logo?e=1785369600&v=beta&t=eL0hEaF9PSADw6pGLufneaeu7mfuz-xcm15fV7wwrBM",
+          "title": "Software and Web Developer at Research Institute",
+          "subtitle": "Centre universitaire de santé McGill ( CUSM ) | McGill University Health Centre ( MUHC ) . undefined",
+          "caption": "Oct 2014 - Mar 2015 · 5 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "i) Client side implementation (JavaScript and D3.js for visualization)  and server side (java and GoLang) extraction of data from Ontology files for Population Health Record (PopHR), an informatics platform that integrates multiple clinical data sources to provide a coherent view of the health of populations in the province of Quebec, Canada.                                                                                                                                                                                                                                              \n\nii) Multi-lingual implementation of the entire website involving data extraction and display."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Co-Founder",
+          "subtitle": "VMersion Technologies . undefined",
+          "caption": "May 2014 - Mar 2015 · 10 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At VMersion, we help online shoppers try products before they buy them. Through both live and recorded videos, users can interact and control appliances from a distance. Online shoppers are then able to experience mechanical and electronic devices, better appreciating their features and functions similarly to when in-stores. Thanks to interactive videos, customers take an active role in their online purchases, enhancing their understanding, appreciation, and confidence about their purchases. By enhancing customer engagement, companies are able to increase their e-commerce sales, decrease return rates and add value to their offerings."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4855",
+          "companyUrn": "urn:li:fsd_company:4855",
+          "companyLink1": "https://www.linkedin.com/school/mcgill-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFvv1npMZWzKA/company-logo_400_400/company-logo_400_400/0/1631348310705?e=1785369600&v=beta&t=HCDvEkw36ZYNOfMQEVV2UXAUAiKdNld5a-cwIhhGNU0",
+          "title": "McGill University",
+          "subtitle": "undefined · 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Research Assistant at Advanced Network Research Lab",
+              "caption": "Dec 2013 - Jul 2014 · 7 mos",
+              "metadata": "Montreal, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "My research in the Advanced Network Research Lab (ANRL) involved getting a deeper understanding of the different protocols involved in the Internet of Things and creating a programming framework that would enable developers to write code in a single file for the smart object ('things') using C/C++/.ino, the server using JavaScript (NodeJS) and the browser using JavaScript. I published 2 research papers and a Thesis as part of my research. Following are the 2 research papers:                  \n1) “JADE: A Unified Programming Framework for Things, Web, and Cloud”, 4th International Conference on Internet of Things, MIT Media Lab, Cambridge, MA, USA, Oct. 2014.\n2) “SpaceOS: Operating System Services for Smart Computing Environments”, 3rd Workshop on Internet of Things: Smart Objects and Services (held in conjunction with IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks), Sydney, Australia, June 2014."
+                }
+              ]
+            },
+            {
+              "title": "Teaching Assistant",
+              "caption": "Aug 2013 - Apr 2014 · 8 mos",
+              "metadata": "Montreal, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Comp-208 : Computers in Engineering. Conducted tutorials and evaluated assignments. The course involved programming in C and FORTRAN 90."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1060",
+          "companyUrn": "urn:li:fsd_company:1060",
+          "companyLink1": "https://www.linkedin.com/company/ericsson/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE4si5Pr9mLOw/company-logo_200_200/B4DZ1CtTDxJQAI-/0/1774940664616/ericsson_logo?e=1785369600&v=beta&t=ZjsnBrkkiimqIJju4IF1k6PWz1-Wv4OY_SyBXQ0daCU",
+          "title": "Software Developer Co-op",
+          "subtitle": "Ericsson . undefined",
+          "caption": "May 2013 - Dec 2013 · 7 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked as part of the User Data Consolidation Integration Team:  Modifying and writing automation scripts which run in a virtual environment, specifically on the HLR (Home Location\nRegister/3G) and HSS (Home Subscriber Service/4G LTE) nodes, saving approximately 8 hours per complete node run.\nWorked on developing and testing Flexible Machine to Machine (M2M) communication."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Assistant System Engineer",
+          "subtitle": "Wipro Technologies . undefined",
+          "caption": "Aug 2011 - Feb 2012 · 6 mos",
+          "metadata": "New Delhi Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6282",
+          "companyUrn": "urn:li:fsd_company:6282",
+          "companyLink1": "https://www.linkedin.com/company/infogain/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQHzCj5jr24FAg/company-logo_400_400/company-logo_400_400/0/1630622441363/infogain_logo?e=1785369600&v=beta&t=gFY5rEz29yFj6sXONLuSxislQeR8QX-ENZyGtLxUpd8",
+          "title": "Summer Intern",
+          "subtitle": "Infogain . undefined",
+          "caption": "May 2010 - Aug 2010 · 3 mos",
+          "metadata": "Noida Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Project on Library Management System using C#, ASP.NET, Apache Tomcat, MySQL for Backend."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "1st prize at Cisco EN Hackathon",
+          "subtitle": "Issued by Cisco EN Hackathon",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Won first prize for Let's Scoop It (TimeBox) at Cisco EN Hackathon 2018 (spanning all Cisco centres around the world) and experience a 48 hour competition teaming with the brightest minds Rohit Bahl, Nitish Gupta, Santosh Madugundi. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PySpark",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design Patterns",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Internet of Things",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tornado",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4855",
+          "companyUrn": "urn:li:fsd_company:4855",
+          "companyLink1": "https://www.linkedin.com/school/mcgill-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFvv1npMZWzKA/company-logo_400_400/company-logo_400_400/0/1631348310705?e=1785369600&v=beta&t=HCDvEkw36ZYNOfMQEVV2UXAUAiKdNld5a-cwIhhGNU0",
+          "title": "McGill University",
+          "subtitle": "MSc (Thesis), Participated in the McGill Hackathon (McHacks) and created a shared map (a google doc version of google map) where fellow travellers could plan, edit and share a trip together.",
+          "caption": "2012 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.7/4"
+            },
+            {
+              "type": "insightComponent",
+              "text": "As a Master's Thesis student at McGill, I created a programming framework for the Internet of Things, which allows developers to write code for the 'thing', the server and the web in a single file."
+            }
+          ]
+        },
+        {
+          "companyId": "15106538",
+          "companyUrn": "urn:li:fsd_company:15106538",
+          "companyLink1": "https://www.linkedin.com/school/west-bengal-university-of-technology-kolkata/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEmEH6AAomm9Q/company-logo_400_400/company-logo_400_400/0/1630567304468/west_bengal_university_of_technology_kolkata_logo?e=1785369600&v=beta&t=BYW0otOZ_sNes5Oz8sEsIGNvGp7EImj3Wd9FSgEfiCI",
+          "title": "West Bengal University of Technology",
+          "subtitle": "Bachelor of Technology (B.Tech.), Computer Engineering",
+          "caption": "2007 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "B.Tech in Computer Engineering."
+            }
+          ]
+        },
+        {
+          "title": "Mother's International School,New Delhi",
+          "subtitle": "Class XII, PCM+Biotech",
+          "caption": "1995 - 2007",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "High School"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "20 Newsgroup Text Classification",
+          "subtitle": "Sep 2012 - Dec 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with McGill University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Under  the supervision of Professor Doina Precup. Project used Naïve Bayes Algorithm, with Boosting. Used Matlab and Java for obtaining results. Observed that the Naive Bayes performance improved with increse in number of features and increase in data set."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INDOOR LOCATIONING OF SMARTPHONES USING WIFI",
+          "subtitle": "Oct 2012 - Dec 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The prolific advancement of the computing and networking technologies has made today’s networking devices smaller, more powerful and as ubiquitous and mobile as never before. And this has led to a greater need for connectivity and higher precision in locationing of devices. The need for outdoor locationing has been quite well served till now by technologies like Global Positioning System. But when it comes to indoor locationing, the “not so precise” GPS fails to deliver. In the recent years, Indoor Locationing has evolved as one of the most challenging area in network technologies.\nIn this research project, we have developed an end-user application that can determine, with approximate accuracy, the location of a user equipped with an android based smartphone within an area (preferably inside a building), which has one or more Wi-Fi network(s) with multiple Wi-Fi access points (beacon points) placed at different locations in the building."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

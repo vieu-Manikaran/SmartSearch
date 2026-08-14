@@ -1,0 +1,647 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/angelaczahor",
+  "row_key": "id:0033l00002uAHljAAG",
+  "person": "Angela Czahor",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:02:13Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAKX0csBIGfj-SyTSYcRwK48kkOt8X9plxk",
+      "firstName": "Angela",
+      "lastName": "Czahor",
+      "fullName": "Angela Czahor",
+      "publicIdentifier": "angelaczahor",
+      "headline": "Senior Implementation Manager / Program Manager / Consultant and Senior Software Implementation Leader",
+      "about": "I'm a multi-industry business &amp; technology implementation expert whose professional experience has helped the nation’s top organizations better serve their clients. My dedication to process efficiency and developing self-sufficient teams is a defining feature of my career. My ability to learn new technologies in depth, identify patterns, and transform insights into actionable strategies is an asset to any team looking to implement new software, drive a project to completion, or increase its performance.With over 15 years of experience leading software implementations, managing projects and programs, and improving business metrics, I add value through my work while also growing strong teams (even when globally dispersed). My emphasis on a flexible and authentic collaboration and leadership style has been an asset with colleagues and clients across departments/functions and at all levels of organizations, including top Fortune executives.Contact me today to learn how I can help solve your business and technology challenges.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Management Consulting",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Middleton, Wisconsin United States",
+      "addressWithoutCountry": "Middleton, Wisconsin",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQFS6cWvyGZRlg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1627505031491?e=1785369600&v=beta&t=KpRbJByLxc14eDZpXlvB-TBL_fhqFiTdiPM1o4tnfhQ",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQFPD489jbDTaA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1669420255792?e=1785369600&v=beta&t=7UGZuvv9thupHsC0gadPqTzMgDyfwFPsAs4xAts4r-Q",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFS6cWvyGZRlg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1627505031491?e=1785369600&v=beta&t=-zld5lFdhNL5sJK16tVOLFCwjnugcCK7Tj5Lqj-uKlQ"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFS6cWvyGZRlg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1627505031491?e=1785369600&v=beta&t=Lk6wE869-Wy94mnWhcUE0r46ztqrrSPL_xgFEWNT_3Y"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFS6cWvyGZRlg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1627505031491?e=1785369600&v=beta&t=_SZmTKBdt-kZbn_o1tvypkrQqJ2iRIjYL2NoLihzfIs"
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQFS6cWvyGZRlg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1627505031491?e=1785369600&v=beta&t=KpRbJByLxc14eDZpXlvB-TBL_fhqFiTdiPM1o4tnfhQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQFPD489jbDTaA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1669420255792?e=1785369600&v=beta&t=aUsStnErAKsf5eUOP31Qd8jhWkB-kymwVYEEeAEnl4s"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQFPD489jbDTaA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1669420255792?e=1785369600&v=beta&t=7UGZuvv9thupHsC0gadPqTzMgDyfwFPsAs4xAts4r-Q"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "30772606",
+          "companyUrn": "urn:li:fsd_company:30772606",
+          "companyLink1": "https://www.linkedin.com/company/coherehealth/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPVj70nrKc_w/company-logo_200_200/B4EZiqUwf9GYAI-/0/1755204225331/coherehealth_logo?e=1785369600&v=beta&t=Advx6DOg4VqdSDDVb0WC4lJWeVV8Os2zwEsq3OEaWf8",
+          "title": "Senior Implementation Manager",
+          "subtitle": "Cohere Health . Full-time",
+          "caption": "Jan 2023 - Present · 3 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "US Implementation Manager / Customer Success Program Manager",
+          "subtitle": "Medtronic . undefined",
+          "caption": "2021 - 2022 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Within Medtronic's Surgical Robotics division, I lead US implementations of Touch Surgery Enterprise, including the company's largest implementation to date!"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1038",
+          "companyUrn": "urn:li:fsd_company:1038",
+          "companyLink1": "https://www.linkedin.com/company/deloitte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_400_400/company-logo_400_400/0/1662120928214/deloitte_logo?e=1785369600&v=beta&t=E8rhU-gBYLtcE3GtRZ0Rx34ZDxDIurbNncqZj9sHyA8",
+          "title": "Senior Consultant",
+          "subtitle": "Deloitte Consulting . undefined",
+          "caption": "2019 - 2020 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tDesigned and delivered technology implementation solutions for five clients (including healthcare providers, a healthcare payer, a pharmacy benefit manager, and a government entity) to align with business goals\n•\tFacilitated design and owned signoff process for triple-platform digital transformation\n•\tDeveloped strategic healthcare industry insights for offering portfolio thought leadership and proposals\n•\tMentored internal and client resources on technology/operational best practices to develop high-performing teams"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1033",
+          "companyUrn": "urn:li:fsd_company:1033",
+          "companyLink1": "https://www.linkedin.com/company/accenture/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEgtOEcxlXMog/company-logo_400_400/B4DZfqEQWkHAAg-/0/1751978673981/accenture_logo?e=1785369600&v=beta&t=ZlLVUNSvG5btIHNoXi_46VtOW4dm-uNZJDxBEBFgwUI",
+          "title": "Business & Systems Integration Associate Manager",
+          "subtitle": "Accenture . undefined",
+          "caption": "Feb 2015 - Apr 2019 · 4 yrs 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Delivered project management and consulting expertise for nine clients, including healthcare providers, healthcare payers, and products and technology industries\n• Provided strategic industry/technology guidance to drive product/project/program/portfolio vision\n• Drove software implementation efforts, configured systems, and managed end-user adoption\n• Tailored communication to various roles/departments/levels of client organizations, including top Fortune company executives\n• Developed and managed project plans; analyzed and mitigated risks\n• Led business requirements sessions, wrote requirements documents, and created process flow diagrams\n• Developed future-state governance and operations models, policies, and procedures\n• Designed and implemented change management processes including communication plans, change control methods, and vendor management techniques\n• Designed and implemented data extract-transform-load (ETL) processes\n• Mentored internal and client resources to develop teams\n• Created and edited content for client business proposals\n• Advised consultant-level colleague as a career counselor\n\nClient roles included:\n• Patient Demographic Data Project Manager, retail pharmacy chain\n• Provider Demographic Data Consultant, managed healthcare payer\n• Project Manager, motor vehicle manufacturer\n• Epic Testing Lead and OpTime & Anesthesia Site Lead, regional medical center\n• Epic Peri-Operative Team Lead, national clinical research center\n• Epic OpTime/Anesthesia Adoption Project Manager, nonprofit hospital network \n• On-Exchange Member Services Consultant, national managed care consortium\n• ICD-10 Technical Cutover Lead & Project Manager, nonprofit academic medical center"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2973906",
+          "companyUrn": "urn:li:fsd_company:2973906",
+          "companyLink1": "https://www.linkedin.com/company/leidos/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEmiFEswj2lwQ/company-logo_200_200/B4EZ7vaY3YIAAI-/0/1782133132978/leidos_logo?e=1785369600&v=beta&t=8gXhnIpUe76W95-w-loLW6c5NRqOtiS4nJVBRn5COtY",
+          "title": "Senior Epic Consultant",
+          "subtitle": "Leidos Health . undefined",
+          "caption": "2013 - 2014 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Senior OpTime and Anesthesia consultant for a regional health system\n• Senior OpTime and Anesthesia consultant for a teaching hospital and trauma center"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2207164",
+          "companyUrn": "urn:li:fsd_company:2207164",
+          "companyLink1": "https://www.linkedin.com/company/pivot-point-consulting-llc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQELAdZ9vrrljQ/company-logo_100_100/B4DZvieiz8KAAU-/0/1769031216733/pivot_point_consulting_llc_logo?e=1785369600&v=beta&t=kKm1qdVtyt4y_hsYF4DLpNMl9P2kuEqWedJGO0VadXM",
+          "title": "Senior Epic Consultant",
+          "subtitle": "Pivot Point Consulting, LLC . undefined",
+          "caption": "Sep 2013 - Nov 2013 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Senior OpTime and Anesthesia consultant for a not-for-profit health system"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "819886",
+          "companyUrn": "urn:li:fsd_company:819886",
+          "companyLink1": "https://www.linkedin.com/company/nordicglobal/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFUOlqb6WUwtw/company-logo_100_100/B56ZzS9HyuGkAQ-/0/1773065764312/nordicglobal_logo?e=1785369600&v=beta&t=5XxpikXwnSaHHW9uWUC7uGwEZitIxqljUILZHHCOGl0",
+          "title": "Senior Epic Consultant",
+          "subtitle": "Nordic Consulting Partners, Inc . undefined",
+          "caption": "Feb 2013 - Aug 2013 · 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Senior Anesthesia consultant for a nonprofit academic multi-specialty health system\n• Senior OpTime and Anesthesia consultant for a private nonprofit university-based corporation"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "86404",
+          "companyUrn": "urn:li:fsd_company:86404",
+          "companyLink1": "https://www.linkedin.com/company/myparadigmtechnology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGi8xY0zbDC3A/img-crop_100/B4DZZpHg3qG0AY-/0/1745520300506?e=1785369600&v=beta&t=8XMXAOp731wmEwpTKOy4YuPNvanFHCbes32n3PptknU",
+          "title": "Product Knowledge Analyst",
+          "subtitle": "WTS Paradigm . undefined",
+          "caption": "Dec 2011 - Feb 2013 · 1 yr 2 mos",
+          "metadata": "Middleton, Wisconsin",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Analyzed vendor catalogs and strategically replicated offerings in a dynamic electronic catalog format as part of a $2 million project and a $900K follow-up project, each with accelerated timelines\n• Mentored internal and client colleagues in software configuration, project management, build strategy, and project administration efficiency"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "163658",
+          "companyUrn": "urn:li:fsd_company:163658",
+          "companyLink1": "https://www.linkedin.com/company/epic1979/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_400_400/company-logo_400_400/0/1631348441877?e=1785369600&v=beta&t=DkLraOwLAAGxSusjskUhQUKXVa-XkZA1BucMYXrUaCs",
+          "title": "Project Manager / Implementation Services",
+          "subtitle": "Epic Systems . undefined",
+          "caption": "Jun 2010 - Sep 2011 · 1 yr 3 mos",
+          "metadata": "Madison, Wisconsin Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Implemented Epic electronic health record (EHR) software (Epic OpTime operating room management application) at a pediatric hospital \n• Organized and rolled out Epic OpTime and Anesthesia applications at a large regional healthcare consortium\n• Provided go-live support at various healthcare organizations\n• Analyzed client needs, developed tailored implementation strategies, configured the system, and ensured a successful implementation of the software\n• Managed customer project teams to most efficiently achieve implementation milestones"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1025",
+          "companyUrn": "urn:li:fsd_company:1025",
+          "companyLink1": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_200_200/B4EZdkxlEZH0AM-/0/1749742408362/hewlett_packard_enterprise_logo?e=1785369600&v=beta&t=F33cZtdJfo2M1gOUbcpsI66QY4mJ16GyH5FTtiKT0wI",
+          "title": "Inside Sales Representative / Account Manager",
+          "subtitle": "Hewlett-Packard . undefined",
+          "caption": "Jun 2009 - May 2010 · 11 mos",
+          "metadata": "Little Rock, Arkansas Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Managed 67 healthcare \"emerging growth accounts\" headquartered in the mid-Atlantic region, along with all national subsidiaries, to provide enterprise server and storage solutions to business needs\n• Sold over $1.3 million in business technology solutions in less than 5 months\n• Led a 14-member sales team as Team Lead; mentored two colleagues as part of official mentorship program"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "42319646",
+          "companyUrn": "urn:li:fsd_company:42319646",
+          "companyLink1": "https://www.linkedin.com/company/datacoachllc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFDb231Q3BShA/company-logo_400_400/company-logo_400_400/0/1664565646632/datacoachllc_logo?e=1785369600&v=beta&t=QM9Ruvt1uIaILB5nXGomjxi8GqNQ3gQOLq7VdAiWQY0",
+          "title": "Tableau User Essentials Level 1",
+          "subtitle": "Data Coach",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "42319646",
+          "companyUrn": "urn:li:fsd_company:42319646",
+          "companyLink1": "https://www.linkedin.com/company/datacoachllc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFDb231Q3BShA/company-logo_400_400/company-logo_400_400/0/1664565646632/datacoachllc_logo?e=1785369600&v=beta&t=QM9Ruvt1uIaILB5nXGomjxi8GqNQ3gQOLq7VdAiWQY0",
+          "title": "Tableau User Essentials Level 2",
+          "subtitle": "Data Coach",
+          "issued": "Issued Mar 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "SAFe® 4 Certified Practitioner",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Oct 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2710300",
+          "companyUrn": "urn:li:fsd_company:2710300",
+          "companyLink1": "https://www.linkedin.com/company/icagile/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIpMBYCThKMQ/company-logo_400_400/company-logo_400_400/0/1630620854613/icagile_logo?e=1785369600&v=beta&t=HvgLYwsXB1IHjNzWnpSYpDH5-mTqqPJ4_UMuBFqZdFU",
+          "title": "ICAgile Certified Professional",
+          "subtitle": "ICAgile",
+          "issued": "Issued Aug 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "163658",
+          "companyUrn": "urn:li:fsd_company:163658",
+          "companyLink1": "https://www.linkedin.com/company/epic1979/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_400_400/company-logo_400_400/0/1631348441877?e=1785369600&v=beta&t=DkLraOwLAAGxSusjskUhQUKXVa-XkZA1BucMYXrUaCs",
+          "title": "Epic MyChart Fundamentals (retired)",
+          "subtitle": "Epic",
+          "issued": "Issued Jun 2010",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "163658",
+          "companyUrn": "urn:li:fsd_company:163658",
+          "companyLink1": "https://www.linkedin.com/company/epic1979/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_400_400/company-logo_400_400/0/1631348441877?e=1785369600&v=beta&t=DkLraOwLAAGxSusjskUhQUKXVa-XkZA1BucMYXrUaCs",
+          "title": "Epic Anesthesia",
+          "subtitle": "Epic",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "163658",
+          "companyUrn": "urn:li:fsd_company:163658",
+          "companyLink1": "https://www.linkedin.com/company/epic1979/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_400_400/company-logo_400_400/0/1631348441877?e=1785369600&v=beta&t=DkLraOwLAAGxSusjskUhQUKXVa-XkZA1BucMYXrUaCs",
+          "title": "Epic OpTime",
+          "subtitle": "Epic",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Italian",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "American Mensa",
+          "subtitle": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Graduation with Distinction",
+          "subtitle": "Issued by Duke University",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Phi Beta Kappa, Beta Chapter",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "collegiate academic honor society"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "magna cum laude",
+          "subtitle": "Issued by Duke University",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Program Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Implementation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Documentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Healthcare Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Informatics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Documentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Writing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Editing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Healthcare",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SDLC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Consulting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ambulatory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Healthcare IT",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hospitals",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3356",
+          "companyUrn": "urn:li:fsd_company:3356",
+          "companyLink1": "https://www.linkedin.com/school/duke-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_200_200/B56ZbZv8i_H4AI-/0/1747409948261?e=1785369600&v=beta&t=v1t5eI_X6vKEc6gdGgGn1aNJdgscytTc794p22rfIgg",
+          "title": "Duke University",
+          "subtitle": "B.A. with Distinction, Biological Anthropology & Anatomy",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Honors:\n• magna cum laude \n• Graduation with Distinction \n• Phi Beta Kappa national academic honor society, Beta Chapter\n\nDuke University Union (DUU) Marketing Team\n• Created marketing plans for university events and the DUU brand, and collaborated to implement ideas\n\n[Independent Student Publication]\nSenior Editor\n• Wrote columns, drew cartoons, and edited content for new independent publication at Duke\n• Won national award from an independent national magazine for 2008 co-coverage of a Duke event, earning $1000 for continued publication\n\nSesto Fiorentino Public Library, Italy\nIntern\n• Translated Italian library guide into English for English-speaking visitors\n\nProject Hope (Holistic Opportunities Plan for Enrichment)\n• Tutored teenage grade-schoolers in an after-school environment\n• Devised alternative teaching strategies for underachieving and disadvantaged students\n• Mentored children with personal/family challenges\n\nDuke Club Tennis"
+            }
+          ]
+        },
+        {
+          "title": "Villa Corsi-Salviati",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Studied abroad in Florence, Italy"
+            }
+          ]
+        },
+        {
+          "title": "CCHS",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Valedictorian"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

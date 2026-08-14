@@ -1,0 +1,348 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/parul-choudhary",
+  "row_key": "id:003Uk00000ydBP1IAM",
+  "person": "Parul Choudhary",
+  "account": "RapidAI",
+  "fetched_at": "2026-07-14T10:37:57Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABYyQVkBL6G8xeUI-gsFLsjsGO3Vm9TMJo0",
+      "firstName": "Parul",
+      "lastName": "Choudhary",
+      "fullName": "Parul Choudhary",
+      "publicIdentifier": "parul-choudhary",
+      "headline": "Lead Software Developer|Product development |Learner",
+      "about": "Experienced Full Stack Developer with a demonstrated history of working in the Research & development  and information technology industry. Skilled in Python,Django,micro-service, HTML, Amazon Web Services (AWS), Amazon Cloud Formation, and MongoDB. Strong engineering professional with a Bachelor's in technology focused in Information Technology. \n\nI am part of SaaS product development team . \nLove to learn new technologies. Passionate about AI and machine learning . \n\nOther skills: java,c# ,kibana, kafka, redis,celery,java script,vuejs, REST API development\n\nSoftware design skills: SOLID principles, HLD design, LLD design. \n\nLearning: AI /ML",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Bengaluru, Karnataka India",
+      "addressWithoutCountry": "Bengaluru, Karnataka",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQFwLBGfWIdpHQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1584602084386?e=1785369600&v=beta&t=GXeARdqWp4n8VGKDWTm5GseU2CHogrooS39hQhke46I",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFwLBGfWIdpHQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1584602084281?e=1785369600&v=beta&t=hyAFTGydy-a8oLEDSJzp-g0djgOt2EZgxcYkfe_bcIw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFwLBGfWIdpHQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1584602084251?e=1785369600&v=beta&t=ZNFLmrMtjlVJ5qSUeZcfQTTU9pSm65sXf7ITZthBMTs"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFwLBGfWIdpHQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1584602084313?e=1785369600&v=beta&t=grfSND2appca2jKe4wokGP1N1xUgSHUQycyd2UJppeQ"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFwLBGfWIdpHQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1584602084386?e=1785369600&v=beta&t=GXeARdqWp4n8VGKDWTm5GseU2CHogrooS39hQhke46I"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "37506734",
+          "companyUrn": "urn:li:fsd_company:37506734",
+          "companyLink1": "https://www.linkedin.com/company/rapid-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF2Zh-M7Q7Yiw/company-logo_100_100/B56ZaCvMpJGoAQ-/0/1745950133104/rapid_ai_logo?e=1785369600&v=beta&t=TrViROLQ1OoUHAzRCKS_0RZSNlh9Km-rXoeyRN74xTw",
+          "title": "Lead Software Engineer",
+          "subtitle": "RapidAI . Full-time",
+          "caption": "Dec 2023 - Present · 2 yrs 1 mo",
+          "metadata": "Bangalore Urban, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2709",
+          "companyUrn": "urn:li:fsd_company:2709",
+          "companyLink1": "https://www.linkedin.com/company/opentext/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGPd0lmMwrnuA/company-logo_400_400/company-logo_400_400/0/1720445944258/opentext_logo?e=1785369600&v=beta&t=AyeL4hCoI9c-B4a9U3WYiQM6Cbc0gEeVo8sOUGmbl5w",
+          "title": "Senior Software Engineer",
+          "subtitle": "OpenText . Full-time",
+          "caption": "Feb 2023 - Jan 2024 · 11 mos",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "12738",
+          "companyUrn": "urn:li:fsd_company:12738",
+          "companyLink1": "https://www.linkedin.com/company/nextgenhealthcareinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE8ZwnBEXjRwQ/company-logo_100_100/B4EZ2G0BtmJMAQ-/0/1776083278993/nextgenhealthcareinc_logo?e=1785369600&v=beta&t=fb2rA_1tVwhPjEF99Iw-0nv2-L4ZRdXfGaaOZ0b2Qt8",
+          "title": "Full Stack Engineer",
+          "subtitle": "NextGen Healthcare . Full-time",
+          "caption": "Mar 2020 - Oct 2023 · 3 yrs 7 mos",
+          "metadata": "Bengaluru, Karnataka",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11501011",
+          "companyUrn": "urn:li:fsd_company:11501011",
+          "companyLink1": "https://www.linkedin.com/company/micro-focus-hp-hpe/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSc67wX6OrjA/company-logo_400_400/company-logo_400_400/0/1631315802918?e=1785369600&v=beta&t=wXsjEJ1b9kLA48ImYx3hi-HGXogEqHGPZSptduFIFrs",
+          "title": "Technical Consultant",
+          "subtitle": "Micro Focus (formerly HP / Hewlett Packard Enterprise) . undefined",
+          "caption": "Sep 2017 - Mar 2020 · 2 yrs 6 mos",
+          "metadata": "Bangalore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1025",
+          "companyUrn": "urn:li:fsd_company:1025",
+          "companyLink1": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_200_200/B4EZdkxlEZH0AM-/0/1749742408362/hewlett_packard_enterprise_logo?e=1785369600&v=beta&t=F33cZtdJfo2M1gOUbcpsI66QY4mJ16GyH5FTtiKT0wI",
+          "title": "Technical Consultant",
+          "subtitle": "Hewlett Packard Enterprise . undefined",
+          "caption": "Nov 2015 - Sep 2017 · 1 yr 10 mos",
+          "metadata": "Bangalore",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "amcat software engineer",
+          "subtitle": "from amcat exam",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "High-Level Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Gateways",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Flask",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git lab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Frameworks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Postman API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vuetify",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vue.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Celery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "REST API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "C-DAC",
+          "subtitle": "internship, software development",
+          "caption": "2014 - 2015",
+          "subComponents": []
+        },
+        {
+          "title": "Manikya Lal Verma govt. Textile & Engineering college",
+          "subtitle": "Bachelor's in technology, Information Technology",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "72"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

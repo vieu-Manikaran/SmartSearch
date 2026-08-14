@@ -1,0 +1,66 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/tim-sweeney-3b5957186",
+  "row_key": "id:003Uk00000tvHFlIAM",
+  "person": "Tim Sweeney",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:19Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACvsUnkBTDSCQFlU4fznUhGHRtlkt0DTxZ8",
+      "firstName": "Tim",
+      "lastName": "Sweeney",
+      "fullName": "Tim Sweeney",
+      "publicIdentifier": "tim-sweeney-3b5957186",
+      "headline": "Epic games at Epic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Events Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Minneapolis-St. Paul Area United States",
+      "addressWithoutCountry": "Greater Minneapolis-St. Paul Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2814016",
+          "companyUrn": "urn:li:fsd_company:2814016",
+          "companyLink1": "https://www.linkedin.com/company/epicevents-io/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF6RV0yR7cXUQ/company-logo_400_400/company-logo_400_400/0/1631397541808/iwaz_at_logo?e=1785369600&v=beta&t=elSxU3GnN3Rv159fVuAnSoSXZWR3vRtAC0TC-wOM7vQ",
+          "title": "Epic games",
+          "subtitle": "Epic . undefined",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jayupadhyay32",
+  "row_key": "id:003Uk00000yfbc2IAA",
+  "person": "Jay Upadhyay",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:57Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABgNowwBGlf9tmPO_SprsMEo5A0PinAKk8M",
+      "firstName": "Jay",
+      "lastName": "Upadhyay",
+      "fullName": "Jay Upadhyay",
+      "publicIdentifier": "jayupadhyay32",
+      "headline": "Senior Technical Leader / Embedded Engineer | Driving Cross-Functional Delivery in Medical Devices, Semiconductor Manufacturing, and Aerospace ",
+      "about": "Jay is a Senior Embedded Software Engineer at Medtronic with comprehensive expertise across hardware and software, ranging from low-level circuit design to high-level embedded applications.\n\nHe has served in pivotal engineering roles at Raytheon Technologies, MIT Lincoln Laboratory, Amazon Robotics, and ASML, where he contributed to the development of advanced systems in national defense, robotics, and semiconductor manufacturing.\n\nJay earned his M.S. in Electrical Engineering from Northeastern University and his B.S. in Computer Engineering from the University of Connecticut. He brings a rigorous interdisciplinary approach to addressing complex technical challenges, driving innovation across both research and industry domains.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Minneapolis-St. Paul Area United States",
+      "addressWithoutCountry": "Greater Minneapolis-St. Paul Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEktrDEpgEUyQ/profile-displayphoto-shrink_100_100/B4EZmzE8xzIMAU-/0/1759646043869?e=1785369600&v=beta&t=eipM-k3iDIDKoKpe_LnEUWY-vhGG0VmmrQQYi_VBekE",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQGCO9Q0espz6w/profile-displaybackgroundimage-shrink_350_1400/B56Z433_AJIoAU-/0/1779053883833?e=1785369600&v=beta&t=kqXxTiXaskEyB00_0tnb1VM_BgrjtNvBAD7Qlg4Ol6c",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEktrDEpgEUyQ/profile-displayphoto-shrink_400_400/B4EZmzE8xzIMAg-/0/1759646043887?e=1785369600&v=beta&t=fcPVty1GIuX0JWIhrCSpx9MNSDhv7XO2BlDwu7jwaPk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEktrDEpgEUyQ/profile-displayphoto-shrink_200_200/B4EZmzE8xzIMAY-/0/1759646043887?e=1785369600&v=beta&t=3XERE2wWk--wJaNeHQVnqYvfMtU4LzeQw5vxncv8d3E"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEktrDEpgEUyQ/profile-displayphoto-shrink_800_800/B4EZmzE8xzIMAc-/0/1759646043888?e=1785369600&v=beta&t=uRqb49QhQqd1hEkjRWujcLcYDdWc1aN60kFP1K1XqGI"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEktrDEpgEUyQ/profile-displayphoto-shrink_100_100/B4EZmzE8xzIMAU-/0/1759646043869?e=1785369600&v=beta&t=eipM-k3iDIDKoKpe_LnEUWY-vhGG0VmmrQQYi_VBekE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQGCO9Q0espz6w/profile-displaybackgroundimage-shrink_200_800/B56Z433_AJIoAQ-/0/1779053883833?e=1785369600&v=beta&t=ph6P2xDVsaOcLlQvXDPjhlj4Kv-wKnXzTBFlOlrRPig"
+        },
+        {
+          "width": 1015,
+          "height": 253,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQGCO9Q0espz6w/profile-displaybackgroundimage-shrink_350_1400/B56Z433_AJIoAU-/0/1779053883833?e=1785369600&v=beta&t=kqXxTiXaskEyB00_0tnb1VM_BgrjtNvBAD7Qlg4Ol6c"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Senior Embedded Software Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jun 2024 - Present · 1 yr 7 mos",
+          "metadata": "Greater Chicago Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As a Senior Embedded Software Engineer within Medtronic’s Pelvic Health and Neuromodulation portfolio, I tested and developed embedded software systems for Class III medical devices. My work spans firmware development, test automation, tooling infrastructure, and system-level integration—all within the constraints of strict regulatory compliance. I focus on driving efficiency, scalability, and software quality across the product lifecycle.\n\nKey Contributions:\n\n* Led the design and development of a hardware test system that automated verification workflows, significantly improving test efficiency and repeatability for neuromodulation devices.\n\n* Developed a Bluetooth Low Energy (BLE) neurostimulator simulator, enabling accurate, high-fidelity testing to support system validation and functional verification.\n\n* Designed and implemented a custom unit testing framework with integrated code coverage reporting, elevating code quality and supporting compliance with IEC 62304 and FDA standards.\n\n* Owned and enhanced the CI/CD pipeline, integrating custom tooling and automated checks to accelerate development cycles and maintain high software quality.\n\n* Built internal tooling infrastructure that improved team productivity, enforced design controls, and streamlined development processes across firmware and systems teams.\n\n* Drafted, reviewed, and verified software and system requirements, aligning engineering output with product and regulatory specifications.\n\n* Mentored junior engineers and led Agile scrums, fostering a culture of accountability, continuous improvement, and cross-functional collaboration."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3894",
+          "companyUrn": "urn:li:fsd_company:3894",
+          "companyLink1": "https://www.linkedin.com/company/asml/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHJ1C7BJMd2eg/company-logo_400_400/company-logo_400_400/0/1705332957987/asml_logo?e=1785369600&v=beta&t=1SIKABxU_hMHgGARhOIRAZvDpAk3QAFihTzw493fwqE",
+          "title": "Electrical Design Engineer III",
+          "subtitle": "ASML . Full-time",
+          "caption": "Aug 2022 - May 2024 · 1 yr 9 mos",
+          "metadata": "Wilton, Connecticut, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led cross-functional development of mixed-signal PCAs and precision electromechanical assemblies for advanced semiconductor lithography platforms. Delivered production-ready subsystems that enhanced system performance, manufacturability, and yield.\n\nKey Achievements\n\n\t•\tSpearheaded design and integration of FPGA-based control boards and analog sensor modules for sub-micron positioning systems.\n\t•\tOptimized system-level electrical performance through noise analysis and signal conditioning, improving stability and repeatability in wafer alignment systems.\n\t•\tDirected design reviews, FMEAs, and validation plans that enabled a $150M product launch on schedule and within performance targets.\n\t•\tAuthored comprehensive design documentation and interface specifications, reinforcing compliance and cross-domain integration."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "40653509",
+          "companyUrn": "urn:li:fsd_company:40653509",
+          "companyLink1": "https://www.linkedin.com/company/rtx/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFITBtnCzFO9w/company-logo_400_400/company-logo_400_400/0/1687169432565/raytheontechnologies_logo?e=1785369600&v=beta&t=TrfdngZB0cbXZ3Q8cWXH_5yc4rLZ2oe0DhiGuXN48G8",
+          "title": "Electrical Design Engineer II",
+          "subtitle": "Raytheon Technologies . Full-time",
+          "caption": "Aug 2020 - Aug 2022 · 2 yrs",
+          "metadata": "Greater Boston",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Delivered advanced aerospace and undersea systems through end-to-end hardware and firmware design. Drove initiatives in embedded communication, signal processing, and system reliability.\n\nKey Achievements\n\n\t•\tDeveloped a Python-based sensor simulation framework that reduced hardware validation time by 60%.\n\t•\tDesigned custom embedded boards and FPGA interfaces for mission-critical systems operating under extreme environmental constraints.\n\t•\tImplemented and optimized low-level C/VHDL protocols to achieve deterministic, high-throughput communication between FPGA and MCU subsystems.\n\t•\tExecuted power optimization and signal integrity analysis, improving reliability margins under thermal and EMI constraints."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "34924",
+          "companyUrn": "urn:li:fsd_company:34924",
+          "companyLink1": "https://www.linkedin.com/company/amazon-fulfillment-technologies-robotics/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH9ANNFAGH1-g/company-logo_400_400/company-logo_400_400/0/1650398925352/kiva_systems_logo?e=1785369600&v=beta&t=zI0vhZTj5j05Xcec5lAM7e_UNgZEhsyAXbjU9pshID0",
+          "title": "Electrical Engineer I",
+          "subtitle": "Amazon Fulfillment Technologies & Robotics . Full-time",
+          "caption": "Jul 2019 - Dec 2019 · 5 mos",
+          "metadata": "North Reading, Massachusetts, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Supported design of robotic sensing and perception systems for next-generation autonomous fulfillment robots.\n\nKey Achievements\n\n\t•\tContributed to three successful ASIC and PCB tape-outs integrating ultrasonic and image sensors with on-board image processors.\n\t•\tPerformed signal integrity and noise analysis to optimize radar module performance and environmental robustness.\n\t•\tCollaborated with cross-functional hardware and perception teams to translate sensing requirements into manufacturable board designs."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1503",
+          "companyUrn": "urn:li:fsd_company:1503",
+          "companyLink1": "https://www.linkedin.com/school/mit/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1785369600&v=beta&t=ip1ak3MnQl3lIj_KFAtKCZhF8m6qZMxbGFGrduplNGs",
+          "title": "R&D Engineering Intern",
+          "subtitle": "Massachusetts Institute of Technology . Full-time",
+          "caption": "May 2018 - Aug 2018 · 3 mos",
+          "metadata": "Lexington, Massachusetts, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Selected from over 3,000 applicants for a defense research fellowship in autonomous UAV systems and advanced surveillance hardware. Contributed to design, fabrication, and validation of mixed-signal electronics for space and airborne platforms.\n\nKey Achievements\n\n\t•\tDesigned and fabricated analog protection and telemetry circuits, achieving two successful ASIC tape-outs.\n\t•\tDeveloped flight-ready electronics for an autonomous coaxial UAV deployable from military aircraft, supporting range and payload optimization.\n\t•\tPresented research findings at Lincoln Lab’s Rapid Prototyping Group, demonstrating rigorous analytical and system modeling capability."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1038",
+          "companyUrn": "urn:li:fsd_company:1038",
+          "companyLink1": "https://www.linkedin.com/company/deloitte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_400_400/company-logo_400_400/0/1662120928214/deloitte_logo?e=1785369600&v=beta&t=E8rhU-gBYLtcE3GtRZ0Rx34ZDxDIurbNncqZj9sHyA8",
+          "title": "Information Technology Intern",
+          "subtitle": "Deloitte . Full-time",
+          "caption": "Jun 2013 - Aug 2013 · 2 mos",
+          "metadata": "Stamford, Connecticut, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Diagnosed and repaired hardware issues, including laptops, desktops, and peripherals.\n* Built and configured computers, ensuring full system functionality.\n* Installed and deployed operating systems on leased machines, enabling seamless end-user readiness."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "7510",
+          "companyUrn": "urn:li:fsd_company:7510",
+          "companyLink1": "https://www.linkedin.com/company/deptofwar/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFo_auaAP5W0Q/company-logo_200_200/B4EZuPLYb_GkAM-/0/1767633684698/deptofwar_logo?e=1785369600&v=beta&t=WjxO3SQRsTmkwCOy2BWgEBiAdxWwUK7zQ_eV8JcgnsE",
+          "title": "Secret Security Clearance",
+          "subtitle": "United States Department of Defense",
+          "issued": "Issued May 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gujarati",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Eta Kappa Nu (HKN)",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IEEE",
+          "subtitle": "Student Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Future Farmers of America (FFA)",
+          "subtitle": "FFA member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Cum Laude",
+          "subtitle": "Issued by University of Connecticut",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Certificate of Distinction in Computer Science",
+          "subtitle": "Issued by Department of Computer Science and Engineering",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "University of Connecticut: Dean's list - 2013 to 2017"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Class III Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electrical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analog Circuit Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Circuit Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Debugging",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Equipment",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithm Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firmware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer-Aided Design (CAD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Technology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Hardware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Possess strong analytical",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Physics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5274",
+          "companyUrn": "urn:li:fsd_company:5274",
+          "companyLink1": "https://www.linkedin.com/school/northeastern-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF531vNuZm4hw/company-logo_200_200/B4EZs3cqW9GoAI-/0/1766161819424/northeastern_university_logo?e=1785369600&v=beta&t=iO5g4IRoQWAuW-Hj9d6kEvgFNaEfko_RC8J7Fp3i-oA",
+          "title": "Northeastern University",
+          "subtitle": "Master of Science - MSEE, Electrical Engineering",
+          "caption": "2018 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "My studies at Northeastern University deepened my expertise in transistor-level design and hardware–software integration. I gained advanced knowledge in Very Large-Scale Integration (VLSI) design and computer architecture, which I applied across multiple hands-on projects.\n\nCourses:\nArithmetic and Circuit Design for Inexact Computing with Nanoscaled CMOS \nNanophotonics\nLinear Systems Analysis\nFundamentals of Computer Engineering\nComputer Architecture\nSimulation and Performance Evaluation\nMicro/Nano Fabrication\nVLSI Design"
+            }
+          ]
+        },
+        {
+          "companyId": "6041",
+          "companyUrn": "urn:li:fsd_company:6041",
+          "companyLink1": "https://www.linkedin.com/school/university-of-connecticut/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_400_400/company-logo_400_400/0/1631303826717?e=1785369600&v=beta&t=hLC24rjG1B-SyfvuOLlM2DOTFAfUe1XlWm-Omnc0cis",
+          "title": "University of Connecticut",
+          "subtitle": "Bachelor of Science - BS, IEEE (Institute of Electrical and Electronics Engineers)                                              \nEta Kappa Nu  (National Electrical and Computer Engineering honor society)",
+          "caption": "2013 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Focus of study was on both software and computer hardware. Additional courses in electrical engineering were taken to get further depth on signal and image processing. Hardware study focuses on the usage and application of micro-controllers and Field Programmable Gate Arrays (FPGAs). Software study focused on algorithm design and data structures.  \n"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Stamford Museum and Nature Center",
+          "subtitle": "Stamford, CT",
+          "caption": "Jun 2011 - Jul 2013 · 2 yrs 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

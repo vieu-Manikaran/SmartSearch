@@ -1,0 +1,579 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/sagarpshinde-ai",
+  "row_key": "id:003Uk00000ydI9xIAE",
+  "person": "Sagar Shinde",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:50:24Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABgIuFQBBXWmgtoAm7OksgmkWc3ReY2HrTg",
+      "firstName": "SAGAR",
+      "lastName": "SHINDE",
+      "fullName": "SAGAR SHINDE",
+      "publicIdentifier": "sagarpshinde-ai",
+      "headline": "Senior Software Engineer at Wipro Limited",
+      "about": "Seeking challenging opportunities in Machine learning and Deep learning field. Have expertise in Data analytics , machine learning , Deep learning and computer vision. ",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Education Management",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Pune Division, Maharashtra India",
+      "addressWithoutCountry": "Pune Division, Maharashtra",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHT3lL_LIMRJw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517590645300?e=1785369600&v=beta&t=NedKCsIdQWxlOwH1wUCM_0-nq_YabuHVbBSA-9pfqbs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHT3lL_LIMRJw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517590645359?e=1785369600&v=beta&t=PDVg9_ThVb_jiQ42m6KU5aTvXe78Ttn6FOTsBgvMK8A"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHT3lL_LIMRJw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517590645534?e=1785369600&v=beta&t=Ojw1Q_C_Jja0Dml9VjXU7op1Y0OoCIg6Bh0O9GTRyZU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHT3lL_LIMRJw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517590645300?e=1785369600&v=beta&t=8zB74-TYLWjeZ2UPUi5TDZU60QSQxSJwnj5db-lSxOI"
+        },
+        {
+          "width": 446,
+          "height": 446,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQHT3lL_LIMRJw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517590645300?e=1785369600&v=beta&t=NedKCsIdQWxlOwH1wUCM_0-nq_YabuHVbBSA-9pfqbs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Senior Software Engineer",
+          "subtitle": "Wipro Limited . Full-time",
+          "caption": "Jun 2021 - Present · 4 yrs 7 mos",
+          "metadata": "Pune, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Senior AI Consultant"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "14416745",
+          "companyUrn": "urn:li:fsd_company:14416745",
+          "companyLink1": "https://www.linkedin.com/company/edunetfoundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA0V9yzn_dPg/company-logo_400_400/company-logo_400_400/0/1646199475973/edunetfoundation_logo?e=1785369600&v=beta&t=Q58TXDCiRWYWyRcSR28E482H_FfBNgEnMHCrS9T-YDY",
+          "title": "Subject Matter Expert",
+          "subtitle": "Edunet Foundation . Full-time",
+          "caption": "Jul 2020 - May 2021 · 10 mos",
+          "metadata": "Pimpri Chichwad, Pune, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Data Science / Artificial Intelligence / Machine learning / Data analytics / Deep learning / Linux"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Data Science Intern",
+          "subtitle": "Shyena Tech Yarns Pvt Ltd . Internship",
+          "caption": "Sep 2019 - Jan 2020 · 4 mos",
+          "metadata": "Pune Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Data Science / Computer Vision / Natural Language Processing"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "54300747",
+          "companyUrn": "urn:li:fsd_company:54300747",
+          "companyLink1": "https://www.linkedin.com/school/mit-academy-of-engineering/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGDXi_zAAQDrg/company-logo_400_400/company-logo_400_400/0/1721019902432/mit_academy_of_engineering_logo?e=1785369600&v=beta&t=-ZaODCMcFRSfapILDtoG3cMZ6V9HoH75XkHTdISSado",
+          "title": "Assistant Professor, Electronics Engineering Department",
+          "subtitle": "MIT Academy of Engineering, Alandi, Pune . undefined",
+          "caption": "Mar 2013 - Mar 2019 · 6 yrs",
+          "metadata": "Alandi(D), Pune",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Google Cloud Platform Big Data and Machine Learning Fundamentals by Google Cloud on Coursera. Certificate earned at Thursday, August 8, 2019 8:37 AM GMT",
+          "subtitle": "Coursera",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform by Google Cloud on Coursera. Certificate earned at Monday, August 12, 2019 11:39 AM GMT",
+          "subtitle": "Coursera",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Deep Learning A-Z : Hands on Artificial Neural Networks",
+          "subtitle": "Udemy",
+          "issued": "Issued Jul 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Machine learning A-Z : Hands on Python and R in Data Science",
+          "subtitle": "Udemy",
+          "issued": "Issued Jul 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "Tableau 10 A-Z : Hands on Tableau training for Data Science",
+          "subtitle": "Udemy",
+          "issued": "Issued Jun 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "The complete SQL bootcamp",
+          "subtitle": "Udemy",
+          "issued": "Issued Jun 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/udemy/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1785369600&v=beta&t=-3fdZd7CJvXcLb4fxsLXkIspZjJhp3BvY3n2HVcK-zU",
+          "title": "The modern Python 3 bootcamp",
+          "subtitle": "Udemy",
+          "issued": "Issued May 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C programming for beginners : Master the C language ",
+          "subtitle": "Udemy ",
+          "issued": "Issued Apr 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Generative AI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Vision",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Natural Language Processing (NLP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Electromagnetics and wave theory and antenna",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microwave communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Installation of SDH and DWDM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Trainer for installation course - SDH and DWDM ( TSSC certified )",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PLC programming, SCADA and HMI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C language",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PCB design and fabrication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Aggregation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Optical Network",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telecommunications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "test and measurement instrumentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Circuit Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Transducers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analog Circuit Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2445691",
+          "companyUrn": "urn:li:fsd_company:2445691",
+          "companyLink1": "https://www.linkedin.com/school/pune-institute-of-computer-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFMx5qjAC9X-w/company-logo_400_400/company-logo_400_400/0/1661593836468/pune_institute_of_computer_technology_logo?e=1785369600&v=beta&t=M0sfNx_nupmVNGsyqyVIl7-QtQ-8PHEUnMGbi9dGWM0",
+          "title": "Pune Institute of Computer Technology",
+          "subtitle": "Masters in Engineering, Microwave Communication",
+          "caption": "2011 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First class"
+            }
+          ]
+        },
+        {
+          "title": "Telecom sector skill council",
+          "subtitle": "Engineer’s Degree, Conducting Training for TSSC Courses at college level in MIT AOE , Alandi , Pune",
+          "caption": "2015 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Certified by TELECOM SECTOR SKILL COUNCIL AS TRAINER"
+            }
+          ]
+        },
+        {
+          "title": "SSVPS BSD COE , Dhule",
+          "subtitle": "Bachelor of Engineering - BE, Electronics engineering",
+          "caption": "2006 - 2010",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First class"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "5G Cellular Antenna Design - Guide ",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Design of array of microstrip patch antenna on 5G spectrum in range 27 GHz to 33 GHz."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Automotive Antenna Design - Guide ",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Design of microstrip patch antenna for dual frequency application ( GPS and SDARS ).\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Design Of FSS And EBG For Antenna Parameter Development - ME - Sponsored",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Pune Institute of Computer Technology"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Design and development of spatial ﬁlters like FSS and EBG for parameter improvement of various frequency ranges for microstrip patch antennas. This project was sponsored by DIAT , Girinagar , Pune. \n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "IOT Based Trafﬁc Light Monitoring And Adaptive Control System - Guide ",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Trafﬁc monitoring and adaptive control system designed with power of IOT to get real time feedbacks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Machine learning model for Survival detection of passengers of RMS Titanic",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Kaggle competition - Classiﬁcation model for detection of whether the given set of passengers are survived the sinking of RMS Titanic or not.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prepaid Energy Meter - BE project ",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Design and development of prepaid electricity meter used for controlled utilization and ease of billing process."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Real Time Electricity Consumption Monitoring - IOT Based System - Guide",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Real time consumption detection of electricity in household appliances connections boards which are IOT enabled to make results visible in real time.\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Techball - Guide ",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Design of a system inside a ball which gives performance parameters of football player based on his impact on the ball , speed and trajectory of the ball etc. Also app for performance visualization and records is designed for Android platform.\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/al-peacock-14ab24398",
+  "row_key": "id:003Uk00000z7pIoIAI",
+  "person": "Al Peacock",
+  "account": "Lytx",
+  "fetched_at": "2026-07-14T10:21:44Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAGGywcoBV0rmQx0w9BZeCX1rQO0nnfUhzG8",
+      "firstName": "Al",
+      "lastName": "Peacock",
+      "fullName": "Al Peacock",
+      "publicIdentifier": "al-peacock-14ab24398",
+      "headline": "NA at Lytx, Inc.",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Diego, California United States",
+      "addressWithoutCountry": "San Diego, California",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "26167",
+          "companyUrn": "urn:li:fsd_company:26167",
+          "companyLink1": "https://www.linkedin.com/company/lytxinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZaBN0JHGmXA/company-logo_100_100/B4DZgJvZmdHAAQ-/0/1752510077843/lytxinc_logo?e=1785369600&v=beta&t=NfCL0oX6Zf4HwhrxEfAz-XBdQJZc0H-cdd0QkKfBThk",
+          "title": "NA",
+          "subtitle": "Lytx, Inc. . Full-time",
+          "caption": " · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

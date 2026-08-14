@@ -1,0 +1,400 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/rudymarks",
+  "row_key": "id:0033l00002sspLPAAY",
+  "person": "Rudy Marks",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:24Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAMKbKsBMjZ-q3y4CJGzIb6SOTJ5z89wp1w",
+      "firstName": "Rudy",
+      "lastName": "Marks",
+      "fullName": "Rudy Marks",
+      "publicIdentifier": "rudymarks",
+      "headline": "Senior DevOps Engineer at Epic Games",
+      "about": "Self learner, with a passion for technology. I enjoy challenging myself to grow. I don't believe work should feel like work, it should feel like forward progress for me as person.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Austin, Texas United States",
+      "addressWithoutCountry": "Austin, Texas",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHvWS_Jw2G7YQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1628705049807?e=1785369600&v=beta&t=ims_4v2_qhYkpWuJMr06O_biVnkDHhGXfE7rBIc0Xiw",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQGjJaqc68YG9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1628705118271?e=1785369600&v=beta&t=JuvNj4jtmQbR2h7zlQT3nMqe_fL_8peo9YIX4ivcs3U",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHvWS_Jw2G7YQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1628705049807?e=1785369600&v=beta&t=EYYQnn2l-x-seuuZT1oWS4omIWupATNV2wMoU3TvfQI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHvWS_Jw2G7YQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1628705049807?e=1785369600&v=beta&t=6bHWfiFNz7UHdaPbGv5UH0GZ4jAnH0GmdggxjVQOnbg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHvWS_Jw2G7YQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1628705049807?e=1785369600&v=beta&t=9G5hscB3UgdtN-9Vbo2DX7zUc3OenPlQfJzjCIHOHxc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHvWS_Jw2G7YQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1628705049807?e=1785369600&v=beta&t=ims_4v2_qhYkpWuJMr06O_biVnkDHhGXfE7rBIc0Xiw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 634,
+          "height": 158,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQGjJaqc68YG9w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1628705118271?e=1785369600&v=beta&t=LhcBx_ZTJn_mOP8A_BBsU2jkupaFsXaaR0qiVBul6IQ"
+        },
+        {
+          "width": 634,
+          "height": 158,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQGjJaqc68YG9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1628705118271?e=1785369600&v=beta&t=JuvNj4jtmQbR2h7zlQT3nMqe_fL_8peo9YIX4ivcs3U"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 8 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior DevOps Engineer",
+              "caption": "Jun 2024 - Present · 1 yr 7 mos",
+              "metadata": "Austin, Texas, United States",
+              "description": []
+            },
+            {
+              "title": "DevOps Engineer",
+              "caption": "Sep 2017 - Jun 2024 · 6 yrs 9 mos",
+              "metadata": "Bellevue, WA",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Cloud Support Engineer",
+          "subtitle": "Amazon Web Services . undefined",
+          "caption": "Oct 2015 - Sep 2017 · 1 yr 11 mos",
+          "metadata": "Seattle, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Assisting of AWS Premium support customers via tickets, chats and phone calls with a focus on issues related to Linux (EC2)."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5234",
+          "companyUrn": "urn:li:fsd_company:5234",
+          "companyLink1": "https://www.linkedin.com/company/rackspace-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEmzPvC4_C11Q/company-logo_100_100/B56Z4CmojeJwAI-/0/1778160142761/rackspace_technology_logo?e=1785369600&v=beta&t=FZxIiM0Zq0T0uTWjbC8qfEGZUanP_TZh7A3YfSytGw0",
+          "title": "Rackspace, the #1 managed cloud company",
+          "subtitle": "undefined · 2 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Linux Administrator II",
+              "caption": "Nov 2014 - Oct 2015 · 11 mos",
+              "metadata": "San Antonio, Texas Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "All responsibilities of the Linux Administrator position (as outlined below in previous position) with the following added:\n\n-Serve as an escalation point for other administrators on the team\n-Deeper understanding of using the Rackspace API\n-General deeper understanding of supported software/configurations \n-Point of contact for shift transitions and ensuring that work is turned over properly and issues communicated \n-Serve as point of contact for team when manager is unavailable or out. (adjust schedules, communicate call outs etc.)\n-Ensure that maintenances are assigned and completed, as well as created properly if necessary."
+                }
+              ]
+            },
+            {
+              "title": "Linux Administrator",
+              "caption": "Jul 2013 - Nov 2014 · 1 yr 4 mos",
+              "metadata": "San Antonio, Texas",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Phone and ticket support for those cloud customers paying the \"managed\" service level. \nResponsible for solving tickets and taking phone calls to configure trouble shoot:\n-Linux OS \n-Apache\n-MySQL\n-Nginx\n-Varnish\n-Postfix\n-memcache\n\nAnd generally anything else related to running a Linux web server. Also work with Account Managers on customer issues and configurations as well as consult with customers or their Account Managers."
+                }
+              ]
+            },
+            {
+              "title": "Linux Administrator - Chat",
+              "caption": "Dec 2012 - Jul 2013 · 7 mos",
+              "metadata": "San Antonio, Texas",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Aid customers in administering their Linux based cloud servers via chat support. This includes, but is not limited to, setting up and trouble shooting LAMP, postfixand most other standard web server services and applications.  Basic Administrative support was is also provided when needed for things such as: IIS, Managing Users/Groups, FTP.\n\nAlso still supporing: Cloud Load Balancers (LBaas), Cloud Databases (DBaaS), Cloud DNS, Cloud Files and CND (Akamai). Frontline support our API's as well as infrastructure/hypervisor issues."
+                }
+              ]
+            },
+            {
+              "title": "Cloud Support Administrator - Chat",
+              "caption": "Dec 2012 - May 2013 · 5 mos",
+              "metadata": "San Antonio, Texas",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Junior Admin Technical support and administration for customers in chat with Rackspace cloud servers and other cloud products including:Linux and Windows cloud servers (on Xen Classic and OpenStack), Cloud Load Balancers (LBaas), Cloud Databases (DBaaS), Cloud DNS, Cloud Files and CND (Akamai). Frontline support front for using our API's as well as infrastructure/hypervisor issues."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Technical Support",
+          "subtitle": "Newtek Web Hosting . undefined",
+          "caption": "Mar 2011 - Nov 2012 · 1 yr 8 mos",
+          "metadata": "Brownsville, Texas",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Front line technical support via phone, chat and tickets, for Windows based shared hosting as well as hosted email."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1392",
+          "companyUrn": "urn:li:fsd_company:1392",
+          "companyLink1": "https://www.linkedin.com/company/t-mobile/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHtyW0ZSIpCFA/company-logo_400_400/company-logo_400_400/0/1669915272158/t_mobile_logo?e=1785369600&v=beta&t=rI8LrVd1TUrOPzPxdqRqBFlO71BOAmS0yne6mUTo_MU",
+          "title": "Customer Service Rep",
+          "subtitle": "T-Mobile . undefined",
+          "caption": "May 2008 - Oct 2010 · 2 yrs 5 mos",
+          "metadata": "Brownsville, Texas",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Front line billing and technical support via phone for T-Mobile customers."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IIS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Red Hat Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LAMP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Hardware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Rackspace Cloud",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CentOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "36758",
+          "companyUrn": "urn:li:fsd_company:36758",
+          "companyLink1": "https://www.linkedin.com/school/university-of-texas-at-brownsville/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHVfg5b69EM3g/company-logo_400_400/company-logo_400_400/0/1631322965799?e=1785369600&v=beta&t=bd-JUdhhGzHCYAeXi1v1C-l9BqmqSjMGk_Gf-MFF1FU",
+          "title": "University of Texas at Brownsville",
+          "subtitle": "null, English Language and Literature",
+          "caption": "2005 - 2012",
+          "subComponents": []
+        },
+        {
+          "title": "Los Fresnos High School",
+          "subtitle": "Diploma, null",
+          "caption": "2001 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

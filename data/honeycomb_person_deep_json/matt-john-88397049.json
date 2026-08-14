@@ -1,0 +1,374 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/matt-john-88397049",
+  "row_key": "id:003Uk00000QUHGTIA5",
+  "person": "Matt John",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:10Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAApJd-MBLgfRRvn2uXxZk8bys3htmggHBdA",
+      "firstName": "Matt",
+      "lastName": "John",
+      "fullName": "Matt John",
+      "publicIdentifier": "matt-john-88397049",
+      "headline": "Senior Principal AI/Data Science Platform Engineer at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "United Kingdom",
+      "addressWithoutCountry": "United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGEJxxdb-4oAA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581976458241?e=1785369600&v=beta&t=J5vuTs3GYjWdEeko9bIzk9gTFrNM9KbfPZpK5xPWX_A",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGEJxxdb-4oAA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1581976458186?e=1785369600&v=beta&t=70huJJ5rlexwuAS2F9VmlP-zQN8eS8Ol4AehyGyP-70"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGEJxxdb-4oAA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1581976458164?e=1785369600&v=beta&t=jIwE_IWmwCKga8PPhlkkS6rUszPoaXhcH0T9Df9tx5I"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGEJxxdb-4oAA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1581976458210?e=1785369600&v=beta&t=DZp3nB-h-KX0gS8x7Pppwm5SO6lbEPagvXC6vX24Fsc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGEJxxdb-4oAA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581976458241?e=1785369600&v=beta&t=J5vuTs3GYjWdEeko9bIzk9gTFrNM9KbfPZpK5xPWX_A"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 2 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Principal AI/Data Science Platform Engineer",
+              "caption": "Jul 2026 - Present · ",
+              "description": []
+            },
+            {
+              "title": "Lead Machine Learning Platform Engineer",
+              "caption": "Sep 2025 - Present · 4 mos",
+              "description": []
+            },
+            {
+              "title": "Principal Machine Learning Platform Engineer",
+              "caption": "Jan 2024 - Aug 2025 · 1 yr 7 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10451641",
+          "companyUrn": "urn:li:fsd_company:10451641",
+          "companyLink1": "https://www.linkedin.com/company/byrd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEa4J7ciS4RTw/company-logo_400_400/company-logo_400_400/0/1656933172648/byrd_logo?e=1785369600&v=beta&t=XqT7MMd4-lxNH4Awxn02d9VsLIR0d8yH3bkMuqYHLgg",
+          "title": "byrd",
+          "subtitle": "Full-time · 1 yr 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Cloud Infrastructure Architect",
+              "caption": "Mar 2023 - Dec 2023 · 9 mos",
+              "description": []
+            },
+            {
+              "title": "Senior DevOps Engineer",
+              "caption": "Mar 2022 - Mar 2023 · 1 yr",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "9126",
+          "companyUrn": "urn:li:fsd_company:9126",
+          "companyLink1": "https://www.linkedin.com/school/cardiff-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYHzdGEWWaYw/company-logo_400_400/company-logo_400_400/0/1739182157644/cardiff_university_logo?e=1785369600&v=beta&t=_KGYzxtUzSTry7EU16_1LbAzFGvvhpUmE0nZqGRrHeA",
+          "title": "Cardiff University / Prifysgol Caerdydd",
+          "subtitle": "undefined · 6 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Solutions Architect",
+              "caption": "Feb 2019 - Mar 2022 · 3 yrs 1 mo",
+              "description": []
+            },
+            {
+              "title": "Engineer - Service Delivery",
+              "caption": "May 2017 - Jan 2019 · 1 yr 8 mos",
+              "metadata": "Cardiff, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Computer System Manager",
+              "caption": "Apr 2015 - Apr 2017 · 2 yrs",
+              "metadata": "Cardiff, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Software Engineer",
+          "subtitle": "IBM . undefined",
+          "caption": "Jun 2011 - Sep 2011 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Sep 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Foundation Certificate in Business Analysis (2015)",
+          "subtitle": "BCS, The Chartered Institute for IT",
+          "issued": "Issued Mar 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Practitioner Certificate in Enterprise & Solution Architecture",
+          "subtitle": "BCS, The Chartered Institute for IT",
+          "issued": "Issued Jan 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "12893459",
+          "companyUrn": "urn:li:fsd_company:12893459",
+          "companyLink1": "https://www.linkedin.com/company/cloud-native-computing-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH5MvALB7nkQQ/company-logo_400_400/company-logo_400_400/0/1720630871456/cloud_native_computing_foundation_logo?e=1785369600&v=beta&t=ENFdWTyW7wP_yTallD4vguZAoIIINaH6aKFCxA0xCSo",
+          "title": "Certified Kubernetes Application Developer",
+          "subtitle": "Cloud Native Computing Foundation (CNCF)",
+          "issued": "Issued Apr 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3545",
+          "companyUrn": "urn:li:fsd_company:3545",
+          "companyLink1": "https://www.linkedin.com/company/red-hat/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEto-TydTTIfQ/company-logo_400_400/company-logo_400_400/0/1630583759577/red_hat_logo?e=1785369600&v=beta&t=kKg3jsg6shbh8_i1cmLREpECMcvUM9mVdoiiKfVyy9o",
+          "title": "Red Hat Certified Systems Administrator (RHCSA)",
+          "subtitle": "Red Hat",
+          "issued": "Issued Apr 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "UML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "9126",
+          "companyUrn": "urn:li:fsd_company:9126",
+          "companyLink1": "https://www.linkedin.com/school/cardiff-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYHzdGEWWaYw/company-logo_400_400/company-logo_400_400/0/1739182157644/cardiff_university_logo?e=1785369600&v=beta&t=_KGYzxtUzSTry7EU16_1LbAzFGvvhpUmE0nZqGRrHeA",
+          "title": "Cardiff University / Prifysgol Caerdydd",
+          "subtitle": "Doctor of Philosophy (PhD), null",
+          "caption": "2012 - 2017",
+          "subComponents": []
+        },
+        {
+          "companyId": "9126",
+          "companyUrn": "urn:li:fsd_company:9126",
+          "companyLink1": "https://www.linkedin.com/school/cardiff-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYHzdGEWWaYw/company-logo_400_400/company-logo_400_400/0/1739182157644/cardiff_university_logo?e=1785369600&v=beta&t=_KGYzxtUzSTry7EU16_1LbAzFGvvhpUmE0nZqGRrHeA",
+          "title": "Cardiff University / Prifysgol Caerdydd",
+          "subtitle": "Bachelor of Science (BSc), Computer Science",
+          "caption": "2009 - 2012",
+          "subComponents": []
+        },
+        {
+          "title": "Milford Haven School",
+          "subtitle": "null, null",
+          "caption": "2002 - 2009",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

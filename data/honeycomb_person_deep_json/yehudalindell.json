@@ -1,0 +1,374 @@
+{
+  "linkedin_url": "https://il.linkedin.com/in/yehudalindell",
+  "row_key": "id:003Uk00000ydGNFIA2",
+  "person": "Yehuda Lindell",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAEhFqMBnuoeOSmm-RkAdAfqO8gqoK8zpus",
+      "firstName": "Yehuda",
+      "lastName": "Lindell",
+      "fullName": "Yehuda Lindell",
+      "publicIdentifier": "yehudalindell",
+      "headline": "Engineering Fellow at Coinbase (Head of Cryptography)",
+      "about": "Engineering Fellow at Coinbase, leading the cryptography team. Professor of Computer Science at Bar-Ilan University (currently on leave). Cryptographer and MPC researcher.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer & Network Security",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "Israel",
+      "addressWithoutCountry": "Israel",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGAgKPB99Zv8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1564574081045?e=1785369600&v=beta&t=1X379qYzovz9Hu5JJ_AtmQdx1e8vJ6KB2yN4V_14nFE",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQEqfgS7CEQH_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1672142567177?e=1785369600&v=beta&t=GCGMKwy0cAlc_gQRKCY7aYO6uAsv2c6y-mUcCpyesTY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGAgKPB99Zv8Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1564574080973?e=1785369600&v=beta&t=BRQ-aZrfiIzA3MP_cgRKhbjcqTzfvQAm9FDa7THU7d8"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGAgKPB99Zv8Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1564574080947?e=1785369600&v=beta&t=sK7jPNPsVIESz0uYKCFTr5tFsuk0Nofnn88PdbyAAzM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGAgKPB99Zv8Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1564574081011?e=1785369600&v=beta&t=UJpP2QegnbUhNMMdaN5F6efDGBtmyZdBl7xMRj11Eyw"
+        },
+        {
+          "width": 500,
+          "height": 500,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGAgKPB99Zv8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1564574081045?e=1785369600&v=beta&t=1X379qYzovz9Hu5JJ_AtmQdx1e8vJ6KB2yN4V_14nFE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQEqfgS7CEQH_w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1672142567177?e=1785369600&v=beta&t=oeewgOUjq6Z3_tWSJkPubAd9F8pQh9Ml_-Bw8T9jNMk"
+        },
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQEqfgS7CEQH_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1672142567177?e=1785369600&v=beta&t=GCGMKwy0cAlc_gQRKCY7aYO6uAsv2c6y-mUcCpyesTY"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Engineering Fellow (Head of Cryptography)",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Jan 2022 - Present · 4 yrs",
+          "metadata": "Israel",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I head the cryptography team at Coinbase"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "101438776",
+          "companyUrn": "urn:li:fsd_company:101438776",
+          "companyLink1": "https://www.linkedin.com/company/sodalabs-security/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHbnVd3t_oA8A/company-logo_200_200/B4DZwtHzr2J0AI-/0/1770283547841/sodalabs_security_logo?e=1785369600&v=beta&t=FarQrdzYogvUxroE5DNK0bZma9YWEhgHcXckduCGALg",
+          "title": "Advisor",
+          "subtitle": "Soda Labs . undefined",
+          "caption": "Jan 2024 - Present · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3150",
+          "companyUrn": "urn:li:fsd_company:3150",
+          "companyLink1": "https://www.linkedin.com/school/bar-ilan-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHx4dH1nYS8uQ/company-logo_200_200/B4DZnn3XMXGkAI-/0/1760531674277/bar_ilan_university_logo?e=1785369600&v=beta&t=MpCC-1rqnpQtdSe57PIdSyvkyr2_Gz2iVHynkmjSe7A",
+          "title": "Professor (on leave since beginning of 2019)",
+          "subtitle": "Bar-Ilan University . undefined",
+          "caption": "Oct 2004 - Present · 21 yrs 3 mos",
+          "metadata": "Israel",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Faculty member in the Department of Computer Science (currently on leave)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "73869086",
+          "companyUrn": "urn:li:fsd_company:73869086",
+          "companyLink1": "https://www.linkedin.com/company/pyteai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYAGmlfxdKeg/company-logo_400_400/company-logo_400_400/0/1683829554061/pyteai_logo?e=1785369600&v=beta&t=_s-lLSuryHspO784WZtnDj7DY9XvQbfoRQJq0jGeN1w",
+          "title": "Advisor",
+          "subtitle": "Pyte (FKA: CipherMode) . undefined",
+          "caption": "May 2022 - Dec 2024 · 2 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3238521",
+          "companyUrn": "urn:li:fsd_company:3238521",
+          "companyLink1": "https://www.linkedin.com/company/unbound-security/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQExmqZP_bUdtw/company-logo_400_400/company-logo_400_400/0/1630656094224/unbound_tech_logo?e=1785369600&v=beta&t=xknr84eHfwVaUMHVVydoWsvL4GInxCBf1k5z9djSmqE",
+          "title": "Unbound Security",
+          "subtitle": "undefined · 8 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Co-Founder and CEO",
+              "caption": "Feb 2019 - Jan 2022 · 2 yrs 11 mos",
+              "metadata": "Israel",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Unbound Security was acquired by Coinbase in January 2022."
+                }
+              ]
+            },
+            {
+              "title": "Co-Founder and Chief Scientist",
+              "caption": "2014 - Jan 2019 · 5 yrs",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2683",
+          "companyUrn": "urn:li:fsd_company:2683",
+          "companyLink1": "https://www.linkedin.com/company/thalesdis/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHRBaYLFLGchA/company-logo_400_400/company-logo_400_400/0/1630604022324/gemalto_logo?e=1785369600&v=beta&t=6v0KPT0LLrJEBT6tTW5UtANKLlWdMeYA0qlHaR1vow4",
+          "title": "Cryptographer",
+          "subtitle": "SafeNet . undefined",
+          "caption": "2009 - 2014 · 5 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Consultant"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "162358",
+          "companyUrn": "urn:li:fsd_company:162358",
+          "companyLink1": "https://www.linkedin.com/company/aladdin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGiL_HGeb4b-A/company-logo_400_400/company-logo_400_400/0/1631363545888?e=1785369600&v=beta&t=Dokj3X-gRHkluwV_HWcWXo2NFBixxTAGW59BwT_qJLg",
+          "title": "Cryptographer",
+          "subtitle": "Aladdin Knowledge Systems . undefined",
+          "caption": "Oct 2004 - 2009 · 4 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Consultant"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1009",
+          "companyUrn": "urn:li:fsd_company:1009",
+          "companyLink1": "https://www.linkedin.com/company/ibm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1785369600&v=beta&t=qSPg9wrK7kxNekA4sbU6bwG8GklRvTr_z6fLnx9ck7w",
+          "title": "Postdoctoral Fellow",
+          "subtitle": "IBM . undefined",
+          "caption": "Sep 2002 - Aug 2004 · 1 yr 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Postdoctoral fellow in the cryptography research group at the IBM T.J.Watson Research Center"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hebrew",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Cryptography",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Theory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Start-ups",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "The Weizmann Insitute of Science",
+          "subtitle": "Ph.D., Computer Science (Cryptography)",
+          "caption": "1998 - 2002",
+          "subComponents": []
+        },
+        {
+          "companyId": "3150",
+          "companyUrn": "urn:li:fsd_company:3150",
+          "companyLink1": "https://www.linkedin.com/school/bar-ilan-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHx4dH1nYS8uQ/company-logo_200_200/B4DZnn3XMXGkAI-/0/1760531674277/bar_ilan_university_logo?e=1785369600&v=beta&t=MpCC-1rqnpQtdSe57PIdSyvkyr2_Gz2iVHynkmjSe7A",
+          "title": null,
+          "subtitle": "M.Sc., Computer Science",
+          "caption": "1997 - 1998",
+          "subComponents": []
+        },
+        {
+          "companyId": "3150",
+          "companyUrn": "urn:li:fsd_company:3150",
+          "companyLink1": "https://www.linkedin.com/school/bar-ilan-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHx4dH1nYS8uQ/company-logo_200_200/B4DZnn3XMXGkAI-/0/1760531674277/bar_ilan_university_logo?e=1785369600&v=beta&t=MpCC-1rqnpQtdSe57PIdSyvkyr2_Gz2iVHynkmjSe7A",
+          "title": null,
+          "subtitle": "B.Sc., Computer Science and Mathematics",
+          "caption": "1994 - 1997",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

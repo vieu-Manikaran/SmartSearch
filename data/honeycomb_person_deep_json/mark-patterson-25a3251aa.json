@@ -1,0 +1,311 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/mark-patterson-25a3251aa",
+  "row_key": "id:003Uk00000Pb5RSIAZ",
+  "person": "Mark Patterson",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAADDQSSYBYj31-8Ww41PG1hvuoKKtAC1eyD8",
+      "firstName": "Mark",
+      "lastName": "Patterson",
+      "fullName": "Mark Patterson",
+      "publicIdentifier": "mark-patterson-25a3251aa",
+      "headline": "Lead Platform Engineer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Sydney, New South Wales Australia",
+      "addressWithoutCountry": "Sydney, New South Wales",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQH19HVxzVyk5Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1716047949321?e=1785369600&v=beta&t=IX_1yQM0qDn_AWvSFDlfAV2pD0Uoe-Mb9NW9OgUe10M",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH19HVxzVyk5Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1716047949321?e=1785369600&v=beta&t=YCsSfb3WuDWGTZhYchIuj8tD7MhD_pquXB4TDJQGcAA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH19HVxzVyk5Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1716047949321?e=1785369600&v=beta&t=FySewkaHxGyvGoRYwvf8_DI3W0xi-nTFF0fjjnLmCCA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH19HVxzVyk5Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1716047949321?e=1785369600&v=beta&t=ln2L-KC8Lq9E7XWfBtYe6vfjeBgG9hKGtZZgrbBdmEE"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQH19HVxzVyk5Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1716047949321?e=1785369600&v=beta&t=IX_1yQM0qDn_AWvSFDlfAV2pD0Uoe-Mb9NW9OgUe10M"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Lead Platform Engineer",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Aug 2024 - Present · 1 yr 5 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18516474",
+          "companyUrn": "urn:li:fsd_company:18516474",
+          "companyLink1": "https://www.linkedin.com/company/thereachagency/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGpR_2LA36UWQ/company-logo_400_400/company-logo_400_400/0/1631408131136?e=1785369600&v=beta&t=3J8atgArFP6jBFgbbRX5QfdBoAZuAQJ6RkXO2tV0ogk",
+          "title": "Senior Devops Engineer",
+          "subtitle": "The Reach Agency . Contract",
+          "caption": "May 2024 - Aug 2024 · 3 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3597",
+          "companyUrn": "urn:li:fsd_company:3597",
+          "companyLink1": "https://www.linkedin.com/company/westpac/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHvhPjh_QGVEw/company-logo_400_400/company-logo_400_400/0/1630583808408/westpac_logo?e=1785369600&v=beta&t=9lHfd4rwMX_IECfqkI97s_DH0_awskV3tIQpqMW3H-Y",
+          "title": "Senior Devops Engineer",
+          "subtitle": "Westpac . Contract",
+          "caption": "Nov 2023 - Apr 2024 · 5 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "163093",
+          "companyUrn": "urn:li:fsd_company:163093",
+          "companyLink1": "https://www.linkedin.com/company/civica/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFRBPN-8NrmRQ/company-logo_400_400/company-logo_400_400/0/1719921416264/civica_logo?e=1785369600&v=beta&t=OGwm5Vk1833ygh3RIT1plbLEEcrCf7fFW84juCvXLik",
+          "title": "Senior DevOps Engineer",
+          "subtitle": "Civica . Contract",
+          "caption": "Sep 2022 - Apr 2023 · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "74725364",
+          "companyUrn": "urn:li:fsd_company:74725364",
+          "companyLink1": "https://www.linkedin.com/company/snoop-service/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGtA3oAn6XoOQ/company-logo_400_400/company-logo_400_400/0/1630672242168/snoop_service_logo?e=1785369600&v=beta&t=ugzn-5HjTmlFMIFgc-ewUTbWDAmxZvm2-MegmgBK7qc",
+          "title": "DevOps Engineer",
+          "subtitle": "SNOOP . Full-time",
+          "caption": "Feb 2022 - Jun 2022 · 4 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "68632667",
+          "companyUrn": "urn:li:fsd_company:68632667",
+          "companyLink1": "https://www.linkedin.com/company/ampion-australia/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXSq4ysG0jHA/company-logo_400_400/company-logo_400_400/0/1630660578715?e=1785369600&v=beta&t=tdm8r4H45na1TKHKPrLLg4E841fFwYcQI20IUkDe9C8",
+          "title": "Digital Engineering Consultant",
+          "subtitle": "Ampion  . Full-time",
+          "caption": "Jul 2021 - Oct 2021 · 3 mos",
+          "metadata": "Canberra, Australian Capital Territory, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "Certified Kubernetes Administrator",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Jan 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "30086",
+          "companyUrn": "urn:li:fsd_company:30086",
+          "companyLink1": "https://www.linkedin.com/company/palo-alto-networks/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFZg72Sfni4SA/company-logo_400_400/company-logo_400_400/0/1657225156841/palo_alto_networks_logo?e=1785369600&v=beta&t=yjDRC14q5Ge2K01Y3lZ7kks7Dca9GECqK_R1eFyfvCo",
+          "title": "Palo Alto Certified Networks Security Engineer",
+          "subtitle": "Palo Alto Networks",
+          "issued": "Issued Oct 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Professional",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "208777",
+          "companyUrn": "urn:li:fsd_company:208777",
+          "companyLink1": "https://www.linkedin.com/company/the-linux-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXYSSWEvEL9g/company-logo_400_400/company-logo_400_400/0/1657565842240/the_linux_foundation_logo?e=1785369600&v=beta&t=zmckTLVZoNgnUqO6bsSoi8KFiSxohdox-2xLqlM7Wx8",
+          "title": "CKS: Certified Kubernetes Security Specialist",
+          "subtitle": "The Linux Foundation",
+          "issued": "Issued Jul 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2830763",
+          "companyUrn": "urn:li:fsd_company:2830763",
+          "companyLink1": "https://www.linkedin.com/company/hashicorp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFBoGhgrPpY9g/company-logo_200_200/B56ZVHpOInHsAI-/0/1740663743267/hashicorp_logo?e=1785369600&v=beta&t=qp5rkjHKsmXtgxTxgxDuU2Nrs9wIkRrKM9VYh3iyxpo",
+          "title": "HashiCorp Certified: Terraform Associate",
+          "subtitle": "HashiCorp",
+          "issued": "Issued Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2830763",
+          "companyUrn": "urn:li:fsd_company:2830763",
+          "companyLink1": "https://www.linkedin.com/company/hashicorp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFBoGhgrPpY9g/company-logo_200_200/B56ZVHpOInHsAI-/0/1740663743267/hashicorp_logo?e=1785369600&v=beta&t=qp5rkjHKsmXtgxTxgxDuU2Nrs9wIkRrKM9VYh3iyxpo",
+          "title": "HashiCorp Certified: Vault Associate",
+          "subtitle": "HashiCorp",
+          "issued": "Issued Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "CCNA",
+          "subtitle": "Cisco",
+          "issued": "Issued Jul 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

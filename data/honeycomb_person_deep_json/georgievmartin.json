@@ -1,0 +1,681 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/georgievmartin",
+  "row_key": "id:003Uk00000ydFL2IAM",
+  "person": "Martin Georgiev",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAGoheoBQvmbiNwEgWs9cKsY4xmYU82QcvE",
+      "firstName": "Martin",
+      "lastName": "Georgiev",
+      "fullName": "Martin Georgiev",
+      "publicIdentifier": "georgievmartin",
+      "headline": "Director, Application Security; Advisor, Investor",
+      "about": "I'm passionate about helping people grow professionally, building teams and scaling orgs.Currently, I am the Director of Engineering, leading the Application Security organization at Coinbase. AppSec is comprised of five teams:- Offensive Security- Secure Design- IAM Security Reviews- AI Security Guardrails - Security EducationI also own 2 horizontal programs: Security Champions and Security Internship Programs.In regards to my academic background, I have a PhD in Computer Science (Security) from UT Austin. My research has received international acclaim and has influenced how software is designed, built and tested at Google, Microsoft, VMware, Amazon, Paypal and many other companies.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer & Network Security",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFZZuE5ZNJnBw/profile-displayphoto-shrink_400_400/B4DZTz0mllGkAg-/0/1739257440945?e=1785369600&v=beta&t=DU3tyrx0VSEEZsDM8y-OgsHino8SSMhxDej23cIaaf8",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQHgK0Gk2xgrRA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1617059960330?e=1785369600&v=beta&t=QD4oe82VA4mtbqYtnJ4C4K17sIOfrttyXOzeE_51rLc",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFZZuE5ZNJnBw/profile-displayphoto-shrink_200_200/B4DZTz0mllGkAY-/0/1739257440963?e=1785369600&v=beta&t=jRcL6xeGgd9OFxebzBiXgbPC-c5HhNc_WxX9h3FVffY"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFZZuE5ZNJnBw/profile-displayphoto-shrink_800_800/B4DZTz0mllGkAc-/0/1739257440963?e=1785369600&v=beta&t=znoI4eisMFKrRtFKZLJT-ZnoYXBR8X51wmgW9bh5O9k"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFZZuE5ZNJnBw/profile-displayphoto-shrink_100_100/B4DZTz0mllGkAU-/0/1739257440963?e=1785369600&v=beta&t=2N4_mAJLWudxkFaAVPwX3OplICIHMmvtPqwM_zaCMvE"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQFZZuE5ZNJnBw/profile-displayphoto-shrink_400_400/B4DZTz0mllGkAg-/0/1739257440945?e=1785369600&v=beta&t=DU3tyrx0VSEEZsDM8y-OgsHino8SSMhxDej23cIaaf8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHgK0Gk2xgrRA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1617059960330?e=1785369600&v=beta&t=U1G1ymI_WZjyOeHh7qGdZvBd3NLBk-83kAfbLrqG28o"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQHgK0Gk2xgrRA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1617059960330?e=1785369600&v=beta&t=QD4oe82VA4mtbqYtnJ4C4K17sIOfrttyXOzeE_51rLc"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 3 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering",
+              "caption": "Feb 2026 - Present · ",
+              "metadata": "Seattle, WA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I lead Application Security at Coinbase. AppSec is comprised of five teams:\n- Offensive Security\n- Secure Design\n- IAM Security Reviews\n- AI Security Guardrails \n- Security Education\n\nI also own 2 horizontal programs: Security Champions and Security Internship Programs."
+                }
+              ]
+            },
+            {
+              "title": "Senior Security Engineering Manager, Application Security",
+              "caption": "Jul 2022 - Feb 2026 · 3 yrs 7 mos",
+              "metadata": "Seattle, WA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I lead the Application Security org comprising the Secure Design and Offensive Security teams at Coinbase. We work closely with product and engineering stakeholders to ensure all products and features are designed, implemented and deployed securely.\n\nI'm passionate about helping people grow professionally, building teams and scaling orgs. \n\nI also frequently partner with engineering on organizing & hosting company-wide initiatives e.g., fix it week, the annual Coinbase Engineering Conference, annual CTF competition, etc., and org-level programs, e.g., the summer internship program, NPS quarterly surveys, etc."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "104159883",
+          "companyUrn": "urn:li:fsd_company:104159883",
+          "companyLink1": "https://www.linkedin.com/company/causaldynamicslab/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHXqvsT8vQAPw/company-logo_200_200/B56Z3fnbYdJ0AI-/0/1777573148535/cielara_logo?e=1785369600&v=beta&t=Upcx-M4kFcDosR-KKVpeY1on_R7RcvKSp4kGKXbpK1k",
+          "title": "Seed Investor",
+          "subtitle": "xFabric AI . undefined",
+          "caption": "Aug 2024 - Present · 1 yr 5 mos",
+          "metadata": "United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "93097759",
+          "companyUrn": "urn:li:fsd_company:93097759",
+          "companyLink1": "https://www.linkedin.com/company/threatmate/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGpmHqK8rhAig/company-logo_200_200/B4EZ0SWl9nIkAI-/0/1774129406130/threatmate_logo?e=1785369600&v=beta&t=imepiYFmpYBpeKorQron1fQ9-WKzdNbEyCPCEDniwqw",
+          "title": "Advisory Board Member",
+          "subtitle": "ThreatMate . undefined",
+          "caption": "Aug 2023 - Present · 2 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I'm on the Technical Advisory Board of ThreatMate, helping define the product-market fit, customer use case requirements, etc."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1815218",
+          "companyUrn": "urn:li:fsd_company:1815218",
+          "companyLink1": "https://www.linkedin.com/company/uber-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1785369600&v=beta&t=r9l905urYGR2nLPIAo9IUo1TE7lT_q18b3QvXaHjxb8",
+          "title": "Uber",
+          "subtitle": "Full-time · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Security Engineering Manager II, Product Security",
+              "caption": "Oct 2021 - Jul 2022 · 9 mos",
+              "metadata": "Seattle, Washington, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I currently lead an org of 25 engineers spread across 4 Product Security areas:\n- Bug Bounty: driving Uber's public and private bug bounty programs, organizing promo events, operationalizing bug bounty as a service and enabling Uber's subsidiaries to create and run their own bug bounty programs.\n- Application Security: building out automation to detect vulns at scale in Uber's apps & services.\n- Vulnerability Management: building out automation to detect vulns at scale in Uber's infrastructure.\n- Security Guidance: partnering with Eng @ Uber to build secure products from the group up.\n\nI also acted as the Director of Product Security delegate, while he was out on paternity leave in Q4, 2021.\n\nCoached all of my reports on their career growth, resulting in 2 promotions in the last 6 months, one of whom was promoted to one level above my level equivalent on the IC track!"
+                }
+              ]
+            },
+            {
+              "title": "Security Engineering Manager II, Product Security",
+              "caption": "Mar 2021 - Oct 2021 · 7 mos",
+              "metadata": "Seattle, Washington, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leading a team of 21 engineers, focused on delivering security solutions across three domains:\n- Bug Bounty: driving the public & private programs, promo events, etc.\n- AppSec: finding & fixing vulns in 1st party apps and services\n- Vuln Management: finding & fixing vulns in Prod, CORP, Mobile, Endpoints and Container environments.\n\nAll three teams have a large impact at Uber, as we directly or indirectly touch the security of all apps, services and infrastructure at the company. As a result, many of the metrics tied to the work we do get reported to the Security Leadership Team (SLT) and the Executive Leadership Team (ELT) on a monthly basis, and the board of directors on a quarterly basis.\n\nCoached all members of my team on their career growth. 2 of them got promoted in less than 6 months."
+                }
+              ]
+            },
+            {
+              "title": "Security Engineering Manager I, Product Security",
+              "caption": "Nov 2019 - Mar 2021 · 1 yr 4 mos",
+              "metadata": "Seattle",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I lead the Vulnerability Discovery team, part of the Application Security org. My team leads vuln discovery & remediation initiatives across four focus areas:\n- bug bounty engineering\n- 1st party code: discovery and remediation of vulns in 1st party applications and services.\n- 3rd party in 1st party code: discovery and remediation of vulns in dependencies incorporated in 1st party code.\n- 3rd party code: discovery and remediation of vulns in any 3rd party software run on any asset (servers, network devices, endpoints, mobile devices, etc.) at Uber.\n\nIn addition, I lead the long-term vision and mission of the team, hiring, negotiations and renegotiations of vendor contracts, etc. I also frequently work with auditors to ensure vulnerability management at Uber meets and exceeds regulatory requirements.\n\nCoached all members of my team on their career growth, resulting in the promotion of 2 of them in 8 months."
+                }
+              ]
+            },
+            {
+              "title": "Apprentice Manager, Product Security",
+              "caption": "Apr 2019 - Nov 2019 · 7 mos",
+              "metadata": "Seattle",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Formed the Vulnerability Discovery team at Uber. Defined vision and mission for the team to focus on finding and fixing vulnerabilities in 1st party code (e.g., variant analysis, secret discovery, static and dynamic analysis of 1st party code, etc.)\n- Expanded the scope and impact of the team by assuming ownership of bug bounty engineering work, focused on automating common bug bounty program management tasks (e.g., task escalation)\n- Further expanded the charter of the team to encompass discovery and remediation of vulnerabilities in 3rd party code by acquiring the Vulnerability Management team.\n\nMy team was comprised 6 security engineers.\n\nCoached all members of my team on their career growth, yielding one promotion in 6 months."
+                }
+              ]
+            },
+            {
+              "title": "Sr Security Engineer, Product Security",
+              "caption": "Sep 2018 - Apr 2019 · 7 mos",
+              "metadata": "Seattle",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- deployed advanced static analysis of 1st party code at Uber.\n- scaled vulnerability variant discovery by streamlining bug bounty and manual code audit findings into the static analysis framework; as a result, for each manually discovered vuln, we find 2 to 10 vuln variants automatically.\n- Led critical parts of pentest engagements (e.g., ATG’s autonomous vehicles, JUMP’s e-bikes)\ncommencing in obtaining full admin access to the network of each target.\n- led AppSec's monthly OKR review with the Security Leadership team.\n- defined job descriptions and drove role clarity for all open headcount on the AppSec team."
+                }
+              ]
+            },
+            {
+              "title": "Security Engineer II, Product Security",
+              "caption": "Sep 2017 - Sep 2018 · 1 yr",
+              "metadata": "Seattle",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- In preparation for GDPR, designed, implemented and deployed automation to find and report non-compliant, insecure, abandoned or orphan microsites handling user PII.\n- led a cross-functional initiative to take ownership and secure non-compliant, insecure, abandoned and/or orphan microsites handling user PII.\n- performed code and design audits of 1st party services.\n- collaborated with engineers throughout Uber to remediate vulns in 1st party code."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 1 yr 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Application Security Tech Lead",
+              "caption": "Jul 2017 - Sep 2017 · 2 mos",
+              "metadata": "San Francisco",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- led long-term project roadmap for the AppSec team: (e.g., discovery of secrets, static analysis, etc.)\n- led security architecture and security post-acquisition work for two acquisitions: NoWait and Turnstyle."
+                }
+              ]
+            },
+            {
+              "title": "Security Software Engineer",
+              "caption": "Nov 2015 - Jul 2017 · 1 yr 8 mos",
+              "metadata": "San Francisco",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- led security M&A work for 2 companies Yelp acquired at the time: NoWait and Turnstyle.\n- managed Yelp's bug bounty program: coordination with bug hunters, validation of bugs, remediation of bugs, etc.\n- performed design and code audits of 1st party apps and services."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Software Engineering Intern, Gmail Security",
+          "subtitle": "Google . Internship",
+          "caption": "May 2015 - Aug 2015 · 3 mos",
+          "metadata": "Mountain View, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "# Designed and implemented a TLS proxy detector for Gmail."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3162",
+          "companyUrn": "urn:li:fsd_company:3162",
+          "companyLink1": "https://www.linkedin.com/school/theuniversityoftexasataustin-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_400_400/company-logo_400_400/0/1630670868977/theuniversityoftexasataustin__logo?e=1785369600&v=beta&t=KrNRehhe9flzpd0b-b8FiBeTM7wlpgka2zMktVaZxSo",
+          "title": "Graduate Research Assistant",
+          "subtitle": "University of Texas at Austin . Full-time",
+          "caption": "Aug 2011 - Aug 2015 · 4 yrs",
+          "metadata": "Austin, Texas",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I did research in Computer and Network Security. I focused on identifying new classes of vulnerabilities and attack vectors, and designing and implementing novel principled defense mechanisms. My work has had an impact on how software is built and tested at many companies, including Google, Microsoft, VMware, Amazon, PayPal, etc."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1785369600&v=beta&t=p7A1YBgSuGT4exdCSB34OAm9zcQb_oPBvtUwBRsctZM",
+          "title": "Software Engineering Intern, Authorization and Authentication",
+          "subtitle": "Google . Internship",
+          "caption": "Jun 2014 - Aug 2014 · 2 mos",
+          "metadata": "Mountain View, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "# Implemented security features to empower developers to specify a list of authorized client-side requests and protect their OAuth 2.0 clients from privilege escalation attacks\n# Discovered a security vulnerability in the OAuth 2.0 device flow implementation allowing network attackers to trick users into linking their devices to an attacker controlled account"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2988",
+          "companyUrn": "urn:li:fsd_company:2988",
+          "companyLink1": "https://www.linkedin.com/company/vmware/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzpbXCUplXJw/company-logo_400_400/company-logo_400_400/0/1716485708320/vmware_logo?e=1785369600&v=beta&t=YYQpwqFu9rndzhl2DhV7vca8Iivp6BfABbu6rWFjFFw",
+          "title": "Member of Technical Staff Intern, Product Security",
+          "subtitle": "VMware . Internship",
+          "caption": "May 2013 - Aug 2013 · 3 mos",
+          "metadata": "Palo Alto, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "# Designed and implemented client- and server-side bridges running on top of OpenSSL to provide a secure data transport between independent ESXi hosts\n# Performed regular code reviews and addressed over 100 bugs in code base"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "1375913",
+          "companyUrn": "urn:li:fsd_company:1375913",
+          "companyLink1": "https://www.linkedin.com/school/harvard-business-school-executive-education/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGw3lEi1BX9Ag/company-logo_400_400/company-logo_400_400/0/1640033511567/harvard_business_school_executive_education_logo?e=1785369600&v=beta&t=3dEnHXhJayj71Q26rLd26HLWdLYSukLlTBku_aEQKbs",
+          "title": "Harvard Business Executive: Culture",
+          "subtitle": "Harvard Business School Executive Education",
+          "issued": "Issued undefined 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1375913",
+          "companyUrn": "urn:li:fsd_company:1375913",
+          "companyLink1": "https://www.linkedin.com/school/harvard-business-school-executive-education/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGw3lEi1BX9Ag/company-logo_400_400/company-logo_400_400/0/1640033511567/harvard_business_school_executive_education_logo?e=1785369600&v=beta&t=3dEnHXhJayj71Q26rLd26HLWdLYSukLlTBku_aEQKbs",
+          "title": "Harvard Business Executive: Leadership",
+          "subtitle": "Harvard Business School Executive Education",
+          "issued": "Issued undefined 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1375913",
+          "companyUrn": "urn:li:fsd_company:1375913",
+          "companyLink1": "https://www.linkedin.com/school/harvard-business-school-executive-education/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGw3lEi1BX9Ag/company-logo_400_400/company-logo_400_400/0/1640033511567/harvard_business_school_executive_education_logo?e=1785369600&v=beta&t=3dEnHXhJayj71Q26rLd26HLWdLYSukLlTBku_aEQKbs",
+          "title": "Harvard Business Executive: Leadership",
+          "subtitle": "Harvard Business School Executive Education",
+          "issued": "Issued undefined 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1375913",
+          "companyUrn": "urn:li:fsd_company:1375913",
+          "companyLink1": "https://www.linkedin.com/school/harvard-business-school-executive-education/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGw3lEi1BX9Ag/company-logo_400_400/company-logo_400_400/0/1640033511567/harvard_business_school_executive_education_logo?e=1785369600&v=beta&t=3dEnHXhJayj71Q26rLd26HLWdLYSukLlTBku_aEQKbs",
+          "title": "Harvard Business Executive: Strategy",
+          "subtitle": "Harvard Business School Executive Education",
+          "issued": "Issued undefined 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "ACM",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Alpha Chi Honorary Society",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IEEE",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Phi Mu Epsilon National Mathematics Honorary Society",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Google Vulnerability Reward",
+          "subtitle": "Issued by Google",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AT&T Best Applied Security Research Paper",
+          "subtitle": "Issued by NYU Poly",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "http://engineering.nyu.edu/csaw2012/csaw-research"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PayPal Scholarship",
+          "subtitle": "Issued by PayPal",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microelectronics and Computer Development Fellowship",
+          "subtitle": "Issued by The University of Texas at Austin",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Penetration Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Threat Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vulnerability Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Reverse Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Exploit Design & Implementation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JUnit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WebDriver",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Eclipse",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3162",
+          "companyUrn": "urn:li:fsd_company:3162",
+          "companyLink1": "https://www.linkedin.com/school/theuniversityoftexasataustin-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_400_400/company-logo_400_400/0/1630670868977/theuniversityoftexasataustin__logo?e=1785369600&v=beta&t=KrNRehhe9flzpd0b-b8FiBeTM7wlpgka2zMktVaZxSo",
+          "title": "The University of Texas at Austin",
+          "subtitle": "Doctor of Philosophy (Ph.D.), Association for Computing Machinery (ACM);\nInstitute of Electrical and Electronics Engineers (IEEE)",
+          "caption": "2011 - 2015",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "NoFrak",
+          "subtitle": "May 2013 - May 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "NoFrak is designed to prevent fracking attacks, as described in \"Breaking and Fixing Origin-Based Access Control in Hybrid Web/Mobile Application Frameworks\" by Martin Georgiev, Suman Jana and Vitaly Shmatikov. NDSS 2014. This code is a Proof Of Concept on Android. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

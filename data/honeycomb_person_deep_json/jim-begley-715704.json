@@ -1,0 +1,386 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jim-begley-715704",
+  "row_key": "id:003Uk000013r2nsIAA",
+  "person": "Jim Begley",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:41Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAaswEBE6R_MqRA0A-dBYsBC0jpSAYeaaE",
+      "firstName": "Jim",
+      "lastName": "Begley",
+      "fullName": "Jim Begley",
+      "publicIdentifier": "jim-begley-715704",
+      "headline": "CTO at ARG - IT Clarity",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Networking",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Washington DC-Baltimore Area United States",
+      "addressWithoutCountry": "Washington DC-Baltimore Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFIU6fPHeETww/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1577991863542?e=1785369600&v=beta&t=xqcE9t3KadnLbpihYxoYokE_B1PUmgYrVwT0RMZTdas",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQE3bJfM3SOvUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678546130428?e=1785369600&v=beta&t=YLRdYrk9d12Z8rt1ZyB0DUaaTdzqRJIFQitmvraxhG8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFIU6fPHeETww/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1577991863396?e=1785369600&v=beta&t=YV3GNlS3dscw6xPfobMyO9LjCo61yPKWqOXX35Sj-0c"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFIU6fPHeETww/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1577991863338?e=1785369600&v=beta&t=Mjnag6YkTCUTpi1NS1UTK0r1DG4ktxrqflhNUpVhzao"
+        },
+        {
+          "width": 212,
+          "height": 212,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFIU6fPHeETww/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1577991863511?e=1785369600&v=beta&t=V4FfwNzAdiLJO5i63TCJSZGfOpiFYnMauDKqHF2z4F8"
+        },
+        {
+          "width": 212,
+          "height": 212,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQFIU6fPHeETww/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1577991863542?e=1785369600&v=beta&t=xqcE9t3KadnLbpihYxoYokE_B1PUmgYrVwT0RMZTdas"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQE3bJfM3SOvUA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1678546130428?e=1785369600&v=beta&t=NUJrxA855LTdzAM6t-KVbzYeSI4kP1IuO-OOGzNom9c"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQE3bJfM3SOvUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678546130428?e=1785369600&v=beta&t=YLRdYrk9d12Z8rt1ZyB0DUaaTdzqRJIFQitmvraxhG8"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "10417",
+          "companyUrn": "urn:li:fsd_company:10417",
+          "companyLink1": "https://www.linkedin.com/company/my-arg/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHcoslfD2tF_w/company-logo_100_100/B4EZz3cGe6IIAY-/0/1773677865259/my_arg_logo?e=1785369600&v=beta&t=m3lFG3V9o0jMh-U9-RBzeNsnBlJ0pJJuxHS0tYnJnHg",
+          "title": "ARG - IT Clarity",
+          "subtitle": "Full-time · 10 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Chief Technology Officer",
+              "caption": "Feb 2022 - Present · 3 yrs 11 mos",
+              "metadata": "McLean, Virginia, United States",
+              "description": []
+            },
+            {
+              "title": "Director Cloud Solutions",
+              "caption": "Mar 2019 - Mar 2022 · 3 yrs",
+              "description": []
+            },
+            {
+              "title": "Cloud Technology Advisor",
+              "caption": "Nov 2015 - Mar 2019 · 3 yrs 4 mos",
+              "metadata": "Mclean Va",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1581903",
+          "companyUrn": "urn:li:fsd_company:1581903",
+          "companyLink1": "https://www.linkedin.com/company/vce/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHs92p5CqqENQ/company-logo_400_400/company-logo_400_400/0/1631307847437?e=1785369600&v=beta&t=SY4PWAD8RsbrO68kcBg07s-90J1fEtHB9DRl1fK6Xik",
+          "title": "Senior Account Executive",
+          "subtitle": "VCE, the Virtual Computing Environment Company . undefined",
+          "caption": "Jul 2014 - Nov 2015 · 1 yr 4 mos",
+          "metadata": "Washington D.C. Metro Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "22866",
+          "companyUrn": "urn:li:fsd_company:22866",
+          "companyLink1": "https://www.linkedin.com/company/windstream-hosted-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGdAr8sAG02wA/company-logo_400_400/company-logo_400_400/0/1631301125477?e=1785369600&v=beta&t=1e5zAvdoPxhSiDtWGzRlrT9v83P3ZfAB5Gmpsu5oUEc",
+          "title": "Windstream Hosted Solutions",
+          "subtitle": "undefined · 1 yr 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Channel Manager",
+              "caption": "Feb 2014 - Jul 2014 · 5 mos",
+              "metadata": "Washington D.C. Metro Area",
+              "description": []
+            },
+            {
+              "title": "Regional Sales Director",
+              "caption": "Nov 2012 - Feb 2014 · 1 yr 3 mos",
+              "metadata": "Washington D.C. Metro Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Senior Solutions Engineer",
+          "subtitle": "Latisys . undefined",
+          "caption": "Nov 2010 - Nov 2012 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "164415",
+          "companyUrn": "urn:li:fsd_company:164415",
+          "companyLink1": "https://www.linkedin.com/company/inap/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGCFCdYE7lwHA/company-logo_400_400/company-logo_400_400/0/1630577709501/inap_logo?e=1785369600&v=beta&t=Iej36KqxmW1kuOiMhKhCBDQ0wjw-TWSBncHEU4i_yrM",
+          "title": "Internap",
+          "subtitle": "undefined · 10 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Sr. Sales Engineer",
+              "caption": "Jul 2009 - Oct 2010 · 1 yr 3 mos",
+              "description": []
+            },
+            {
+              "title": "Director Service Delivery",
+              "caption": "Jun 2000 - Jul 2009 · 9 yrs 1 mo",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4253",
+          "companyUrn": "urn:li:fsd_company:4253",
+          "companyLink1": "https://www.linkedin.com/company/uunet/",
+          "title": "Internet System Engineer",
+          "subtitle": "UUNET . undefined",
+          "caption": "1998 - 1999 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Managed Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Co-location",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SaaS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SAN",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Selling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Professional Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Disaster Recovery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Salesforce.com",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Partnerships",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firewalls",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Selling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco Technologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Channel Partners",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15206",
+          "companyUrn": "urn:li:fsd_company:15206",
+          "companyLink1": "https://www.linkedin.com/school/merceruniversity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEJ6KPMOpjn1Q/company-logo_400_400/company-logo_400_400/0/1643212586520/mercer_university_logo?e=1785369600&v=beta&t=KpI_A5oHiQddpSteb3k03J5h-wCN87dJ1AVUZnLXBKI",
+          "title": null,
+          "subtitle": "MBA, International Business",
+          "caption": "2004 - 2006",
+          "subComponents": []
+        },
+        {
+          "companyId": "5489",
+          "companyUrn": "urn:li:fsd_company:5489",
+          "companyLink1": "https://www.linkedin.com/school/george-mason-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHCFipKMd_jpQ/company-logo_200_200/B4EZ84dCPKJEAI-/0/1783358563476/george_mason_university_logo?e=1785369600&v=beta&t=hwl-gDHuyfxKUhy2LPCc6eKJ6WBje8qFwKJCt_FF1Bc",
+          "title": null,
+          "subtitle": "B.A., null",
+          "caption": "1991 - 1995",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

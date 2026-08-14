@@ -1,0 +1,338 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/khurshid-khan-5a804a44",
+  "row_key": "id:003Uk00000ydLFsIAM",
+  "person": "Khurshid Khan",
+  "account": "Wipro Digital",
+  "fetched_at": "2026-07-14T10:50:37Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAlCytABt2fr-TnHO1ditfFCTYBzP4ora7s",
+      "firstName": "Khurshid",
+      "lastName": "Khan",
+      "fullName": "Khurshid Khan",
+      "publicIdentifier": "khurshid-khan-5a804a44",
+      "headline": "Senior Project Manager at Wipro Limited",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Mumbai, Maharashtra India",
+      "addressWithoutCountry": "Mumbai, Maharashtra",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1318",
+          "companyUrn": "urn:li:fsd_company:1318",
+          "companyLink1": "https://www.linkedin.com/company/wipro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_200_200/B4EZpFMu4WIQAI-/0/1762097557732?e=1785369600&v=beta&t=tPjasAE7OkkX-pfqGnyL6ijj4dwI9uPGIiXsitxDF8Y",
+          "title": "Senior Project Manager",
+          "subtitle": "Wipro Limited . undefined",
+          "caption": "Oct 2019 - Present · 6 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10985913",
+          "companyUrn": "urn:li:fsd_company:10985913",
+          "companyLink1": "https://www.linkedin.com/company/varatechnology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFJ4EpGK1INWQ/company-logo_400_400/company-logo_400_400/0/1630619954413/vara_united_logo?e=1785369600&v=beta&t=b14QsCwVUazT-Y2ZXAn9IH0q-HuWvf_LoAAn9JCZl64",
+          "title": "Senior Project Manager",
+          "subtitle": "Vara . undefined",
+          "caption": "Aug 2016 - Sep 2019 · 3 yrs 1 mo",
+          "metadata": "Mumbai, Maharashtra, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "162214",
+          "companyUrn": "urn:li:fsd_company:162214",
+          "companyLink1": "https://www.linkedin.com/company/3i-infotech/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH-KReofacyRw/company-logo_100_100/B4DZZXju31GwAQ-/0/1745225707496/3i_infotech_logo?e=1785369600&v=beta&t=X3VlW_R9rMvNolcPMAQa9k7MeI9G_xXF6p92xmG2qQk",
+          "title": "3i Infotech Ltd.",
+          "subtitle": "undefined · 10 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior IT Project Manager",
+              "caption": "Jun 2015 - Aug 2016 · 1 yr 2 mos",
+              "metadata": "Mumbai India",
+              "description": []
+            },
+            {
+              "title": "IT Project Manager",
+              "caption": "May 2012 - Jun 2015 · 3 yrs 1 mo",
+              "metadata": "Mumbai Area, India",
+              "description": []
+            },
+            {
+              "title": "Assistant Manager",
+              "caption": "May 2010 - May 2012 · 2 yrs",
+              "metadata": "Mumbai Area, India",
+              "description": []
+            },
+            {
+              "title": "Project Lead /Sr. Oracle Developer",
+              "caption": "Aug 2006 - May 2010 · 3 yrs 9 mos",
+              "metadata": "Mumbai Area, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "UAE ARMY GHQ (United Arab Emirates Armed Forces Research and Development) . undefined",
+          "caption": "Oct 2005 - Apr 2006 · 6 mos",
+          "metadata": "Abu Dhabi, United Arab Emirates",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": " Analysis, Database Design, Coding & Testing for the in-house Developed Software.\n Prototype Design for Project POC purpose.\n Support and Maintenance for the existing application Software & Databases including the technical documents based on functional Specs."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Software Support Engineer",
+          "subtitle": "Complease Trading LLC . undefined",
+          "caption": "Jun 2005 - Sep 2005 · 3 mos",
+          "metadata": "Dubai, United Arab Emirates",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Support, maintenance and upgrade for Microsoft ERP Application Package Solomon 4.0 and 6.0 for the client Jumeirah International Group of Hotel Dubai UAE.\n Database migration upgrade and centralization for the client Jumeirah International Group of Hotel for the Jumeirah Beach Hotel and Burj Al Arab Hotel.\n Consulting for the already Implemented system for Madinat, Jumeirah International, Babb Al Shams, Emirates Tower and Emirates Academy of Hospitality.\n Data integration through Data Junction Tool.\n Development and testing for Application Software and other Applications in VB6.0, SQL Server and Oracle 8/8i."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2336042",
+          "companyUrn": "urn:li:fsd_company:2336042",
+          "companyLink1": "https://www.linkedin.com/company/elation-softnet-p-ltd-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGxW5jt1yc94Q/company-logo_400_400/company-logo_400_400/0/1640851020930/elation_softnet_p_ltd__logo?e=1785369600&v=beta&t=HxnCN_buYfGwpOrlAgtYAZuTX5b2WuwXwDmwZCsG4_M",
+          "title": "Software Programmer",
+          "subtitle": "Elation Softnet (P) Ltd. . undefined",
+          "caption": "Jul 2001 - Jun 2005 · 3 yrs 11 mos",
+          "metadata": "Lucknow Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": " Understanding and improvising the business requirement for project development.\n Analysis, Design, Coding & Testing of the Software with Reporting.\n Back end Programming in Oracle SQL & PL/SQL including Packages Procedures, Functions, Triggers, & Cursors.\n Database performance tuning, trouble shooting, Data import, and export.\n Providing analytics recommendations on scope of opportunity in existing and new product."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle Database Performance Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle Database",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PL/SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Migration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Migration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle Enterprise Manager Cloud Control 12c",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Talend Open Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Junction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Crystal Reports",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oracle RAC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MS Visio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15105582",
+          "companyUrn": "urn:li:fsd_company:15105582",
+          "companyLink1": "https://www.linkedin.com/school/indira-gandhi-national-open-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSeGt81F28yg/company-logo_400_400/company-logo_400_400/0/1631325920062?e=1785369600&v=beta&t=3a6p5w2HNsUwquK-VTwVKskGThSgTA5Ht-vQCoXF-IA",
+          "title": "Indira Gandhi National Open University",
+          "subtitle": "Master, Master in Computer Application (MCA)",
+          "caption": "2000 - 2003",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

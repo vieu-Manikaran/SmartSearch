@@ -1,0 +1,360 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/gabriel-ramos-2a799711",
+  "row_key": "id:003Uk00000oXyIOIA0",
+  "person": "Gabriel Ramos",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:33:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAJ1hd8BDT_g9MVEZZvJJqw2IaOPElwgZqo",
+      "firstName": "Gabriel",
+      "lastName": "Ramos",
+      "fullName": "Gabriel Ramos",
+      "publicIdentifier": "gabriel-ramos-2a799711",
+      "headline": "Director, Core Infrastructure at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGvnWCze5ND7A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581551987343?e=1785369600&v=beta&t=QfndWzesKige0isMq-D4dfkOJHbzcfzFZ6QkIqE769E",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C5616AQEecLzWmDfj_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517770838558?e=1785369600&v=beta&t=tvmo1BafXUYwGMvEQrG_HDmRlo6svoG4ZAX7AtQS7u0",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGvnWCze5ND7A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1581551987293?e=1785369600&v=beta&t=j5sY-xmDBjlhYFqrD_MZ246ZWydSokBCzxgfWngYIvc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGvnWCze5ND7A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1581551987271?e=1785369600&v=beta&t=s-e0_XfAyMmniWZwd4jD_6K7o5ChZBaatALv0gWC7oI"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGvnWCze5ND7A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1581551987319?e=1785369600&v=beta&t=L9PMsGn_KqIwXsCI4wERPvAwCbcHxV8IEy9e3dbEpfQ"
+        },
+        {
+          "width": 465,
+          "height": 465,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGvnWCze5ND7A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581551987343?e=1785369600&v=beta&t=QfndWzesKige0isMq-D4dfkOJHbzcfzFZ6QkIqE769E"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEecLzWmDfj_g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517770838554?e=1785369600&v=beta&t=ovWhERMj6QJtToUWc6TPrA5G_RMs5hrGKpJC2q472o0"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5616AQEecLzWmDfj_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517770838558?e=1785369600&v=beta&t=tvmo1BafXUYwGMvEQrG_HDmRlo6svoG4ZAX7AtQS7u0"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "undefined · 9 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director, Engineering - Core Infrastructure",
+              "caption": "May 2020 - Present · 5 yrs 8 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Director, Engineering - Corporate Engineering",
+              "caption": "Jul 2016 - May 2020 · 3 yrs 10 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1815218",
+          "companyUrn": "urn:li:fsd_company:1815218",
+          "companyLink1": "https://www.linkedin.com/company/uber-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1785369600&v=beta&t=r9l905urYGR2nLPIAo9IUo1TE7lT_q18b3QvXaHjxb8",
+          "title": "Manager, Corporate Infrastructure",
+          "subtitle": "Uber . undefined",
+          "caption": "Dec 2014 - May 2016 · 1 yr 5 mos",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Built and managed Corp Network and Corp Infrastructure teams.  \n* Managed and scaled corporate network to over 200 offices.\n* Built out core services for 40,000 global users.\n* Built multiple datacenters and migrated systems and services.\n* Managed vendor relationships and contracts."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "167907",
+          "companyUrn": "urn:li:fsd_company:167907",
+          "companyLink1": "https://www.linkedin.com/company/zynga/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYQJRpdWIV3A/company-logo_400_400/company-logo_400_400/0/1696360009849/zynga_logo?e=1785369600&v=beta&t=I9eCX7uhjabfovDwcBR4LXtxdlCAAHDwr1fgw0n14Tc",
+          "title": "Manager, IT Infrastructure",
+          "subtitle": "Zynga . Full-time",
+          "caption": "Feb 2011 - Dec 2014 · 3 yrs 10 mos",
+          "metadata": "San Francisco, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Managed IT Operations team.\n*Responsible for Windows and Linux systems administration, MS Exchange, server, storage and virtualization infrastructure, source code systems and other critical applications.  \n* Engineered highly redundant and scalable, storage and virtualization infrastructure.\n* Built and managed corporate datacenters."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "165973",
+          "companyUrn": "urn:li:fsd_company:165973",
+          "companyLink1": "https://www.linkedin.com/company/silver-spring-networks/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHerAPPdZ0Twg/company-logo_400_400/company-logo_400_400/0/1631354701508?e=1785369600&v=beta&t=OONzOuBsslNSN8AS2XDQBnT9LvlH_FSZtMxvFur8Kyk",
+          "title": "Senior Information Systems Engineer",
+          "subtitle": "Silver Spring Networks . Full-time",
+          "caption": "Sep 2006 - Feb 2011 · 4 yrs 5 mos",
+          "metadata": "Redwood City, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Wore a number of hats in a fast growing startup."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Network Administrator",
+          "subtitle": "PC World Communications . undefined",
+          "caption": "1999 - 2006 · 7 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Center",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Active Directory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Systems Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DNS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Network Security",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Disaster Recovery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2841",
+          "companyUrn": "urn:li:fsd_company:2841",
+          "companyLink1": "https://www.linkedin.com/school/ucsc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHmYTRjksZf6w/company-logo_200_200/B56Z5CzyxBHwAE-/0/1779237335003/ucsc_logo?e=1785369600&v=beta&t=MUWZLhvkx2FHMA_-aiW3GWkAvLvUwgTTHLJ6fJqTCxU",
+          "title": "University of California, Santa Cruz",
+          "subtitle": "BA, Anthropology",
+          "caption": "",
+          "subComponents": []
+        },
+        {
+          "title": "Palo Alto High School",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

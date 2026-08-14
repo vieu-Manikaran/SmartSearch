@@ -1,0 +1,497 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/andreacorey",
+  "row_key": "id:003Uk000000UZy1IAG",
+  "person": "Andrea Corey",
+  "account": "Homebase",
+  "fetched_at": "2026-07-14T10:47:11Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAN3fMBDNqXLhEaGBuk36LBCwpflHiQWSY",
+      "firstName": "Andrea",
+      "lastName": "Corey",
+      "fullName": "Andrea Corey",
+      "publicIdentifier": "andreacorey",
+      "headline": "VP Engineering | Scaling SaaS & Platform Teams | Data, AI Leadership",
+      "about": "15+ years’ experience as a senior technology leader, designing systems that scale in data-driven SaaS environments. Customer-centric philosophy, with a proven history of leading complex, strategic, and technical initiatives. \n\nExpertise in aligning large engineering teams around a clear technology strategy, solving complex data and analytics challenges, and empowering teams to take ownership and deliver results. An efficient, collaborative style, with a focus on building trust. \n\nCommitted to advancing diversity, equity, and inclusion in STEM through volunteering and advocacy.\n\nCore Competencies:  Team Leadership, Strategic Decision Making, SaaS, Cloud Computing, System Architecture, Technical Roadmapping, Software Development, Data Engineering, Quality Assurance, Production Operations, Incident and Problem Management, Business Intelligence",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Toronto, Ontario Canada",
+      "addressWithoutCountry": "Toronto, Ontario",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQE0ja2EXscveA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516241456916?e=1785369600&v=beta&t=81S4DdQbMESsCPLTdHGm6Pili8H09_owta0VDVoN0j8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE0ja2EXscveA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516241456999?e=1785369600&v=beta&t=Z0DZ7FXub-CkhbNMsQZyt96rcoen-wmSSJSEvtpFQ6I"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE0ja2EXscveA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516241457313?e=1785369600&v=beta&t=TXjMOX3Yg4paDGNgs0CfgnuUV_qs2yM5tlEvniF858Q"
+        },
+        {
+          "width": 299,
+          "height": 299,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE0ja2EXscveA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516241456950?e=1785369600&v=beta&t=hddaSWAH1okua4BKKkIBFop7YeVR5uPSBAK7dDotydI"
+        },
+        {
+          "width": 299,
+          "height": 299,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQE0ja2EXscveA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516241456916?e=1785369600&v=beta&t=81S4DdQbMESsCPLTdHGm6Pili8H09_owta0VDVoN0j8"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "6464539",
+          "companyUrn": "urn:li:fsd_company:6464539",
+          "companyLink1": "https://www.linkedin.com/company/homebase-app/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG31SOzV8GQiA/company-logo_400_400/company-logo_400_400/0/1709269985439/homebase_app_logo?e=1785369600&v=beta&t=ljTM_0N7ILdyZVbvjOndDIOvGz9xunsX-l8cm2QGY6Q",
+          "title": "VP of Engineering",
+          "subtitle": "Homebase . Permanent Full-time",
+          "caption": "Jun 2023 - Present · 2 yrs 7 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Homebase is the next big thing for the millions of small local businesses in North America and beyond. The all-in-one SaaS platform helps small businesses manage their work schedules, time clocks, payroll, HR, and more—so they can focus on their people."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "83020523",
+          "companyUrn": "urn:li:fsd_company:83020523",
+          "companyLink1": "https://www.linkedin.com/company/coralusworld/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGz4SDuf6TMvQ/company-logo_400_400/company-logo_400_400/0/1713805121817/coralusworld_logo?e=1785369600&v=beta&t=gIbmxk8ShozVGcD9kOpyeETK76V02PIQKG40y74RZO0",
+          "title": "Founding Activator",
+          "subtitle": "Coralus . Part-time",
+          "caption": "Sep 2015 - Present · 10 yrs 4 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "SheEO is a global initiative focused on building an innovative new model to finance, support and celebrate female entrepreneurs. The signature initiative, Radical Generosity, calls upon 1000 women per city to commit $1,000 to provide low interest loans to 10 women-led ventures that are selected by the 1000 women, the Activators. The ventures get loans and access to the women's networks, buying power and expertise to growth their businesses. The pilot launched in 2015 in Canada."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "116468",
+          "companyUrn": "urn:li:fsd_company:116468",
+          "companyLink1": "https://www.linkedin.com/company/freshbooks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGKyZ7mdU__sQ/company-logo_400_400/B4EZW5FQFqHcAc-/0/1742566916818/freshbooks_logo?e=1785369600&v=beta&t=u0hSM5DYD2_FLpbB3lp8pUwSfB05sy9tpUjCpn9jNJw",
+          "title": "FreshBooks",
+          "subtitle": "Full-time · 3 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "VP, Engineering",
+              "caption": "Oct 2021 - Apr 2023 · 1 yr 6 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leading teams across product development, technology, and infrastructure functions.  Responsible for setting the technical direction to scale the FreshBooks team and cloud accounting platform to meet the needs of a growing customer base.  \n•\tDeveloping engineering principles, practices, and standards to mature the engineering culture of the organization. \n•\tExecuting product roadmaps while also delivering Engineering OKRs of developer velocity, uptime and resilience, and cost efficiency. \n•\tImproving incident remediation and platform stability through metrics and coaching. Guided teams to close key platform gaps, resulting in a 55% decrease in incidents year over year, and record-breaking uptime in 2022."
+                }
+              ]
+            },
+            {
+              "title": "Senior Director, Engineering",
+              "caption": "Apr 2021 - Sep 2021 · 5 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Continued to lead cross-platform user experience team and led infrastructure and technical teams\n•\tCreated technical roadmaps and plans to deliver on FreshBooks' technical strategy.\n•\tRebuilt infrastructure teams and team trust and culture after significant previous departures.\n•\tIncreased employee engagement score of infrastructure teams by 20 points in 9 months.\n•\tMentored Staff and Principal Engineers."
+                }
+              ]
+            },
+            {
+              "title": "Director, Engineering",
+              "caption": "Apr 2020 - Apr 2021 · 1 yr",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tLed and developed new cross-platform user experience teams in onboarding, activation, mobile\n•\tConcurrently, interim leader for Data Engineering team, and assisted with hiring new leaders for Data and IT organizations."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "VP, Product Development",
+          "subtitle": "Nudge.ai . undefined",
+          "caption": "May 2014 - Jan 2020 · 5 yrs 8 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As a founding member of the team, led the development of relationship intelligence platform, as well as product data quality strategy. The Nudge.ai system managed 90 million relationships for 50 million contacts, processing over 75 million events per day. Key accomplishments: \n•\tDefined requirements and provided data inputs for core machine learning models, working closely with the Data Science team. \n•\tInitiated and executed the Data Quality Strategy for company, people, and relationship data. \n•\tSpear-headed initiatives to drive customer success with product analytics. \n•\tDesigned and implemented data pipelines to process source data sets through to a standard global model."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1028",
+          "companyUrn": "urn:li:fsd_company:1028",
+          "companyLink1": "https://www.linkedin.com/company/oracle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1785369600&v=beta&t=-2jXKAmeScrST660DEvhikbsU_jlaW2xSt2n4cFthv0",
+          "title": "VP, Quality Assurance",
+          "subtitle": "Oracle . undefined",
+          "caption": "Apr 2013 - Feb 2014 · 10 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "After almost 13 years at Eloqua, I continued to enable Modern Marketers with marketing automation expertise and technology to power revenue performance while assisting with the acquisition process."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11164",
+          "companyUrn": "urn:li:fsd_company:11164",
+          "companyLink1": "https://www.linkedin.com/company/eloqua/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEM3-Kzn3sPrA/company-logo_400_400/company-logo_400_400/0/1631314538531?e=1785369600&v=beta&t=YC5ou1AfblIvL7bUw6izeXP7UwNU5x6BBYM81r3G6sY",
+          "title": "Eloqua",
+          "subtitle": "undefined · 12 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "VP, Quality and Performance Engineering",
+              "caption": "Jul 2011 - Mar 2013 · 1 yr 8 mos",
+              "metadata": "Toronto, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Eloqua is a SaaS platform for marketing automation, with hundreds of Enterprise customers utilizing complex workflows. During this period, product quality of the Eloqua platform became a critical obstacle to customer satisfaction. Key accomplishments: \n•\tGuided all dimensions of product quality assurance including functional and technical testing, performance testing, and documentation validation.\n•\tLed a team of 40+ testers and developers who worked on product feature teams with application developers and product managers.\n•\tEstablished benchmarks to evaluate product quality and provide visibility and metric-driven insights into the software development life cycle to demonstrate improvements in the quality of releases.\n•\tIntroduced Performance Engineering capability and innovative approaches to extend Test Automation beyond the GUI.\n•\tEliminated 120 person-days of manual regression testing through automation efforts."
+                }
+              ]
+            },
+            {
+              "title": "VP Systems Architecture",
+              "caption": "May 2005 - Jun 2011 · 6 yrs 1 mo",
+              "metadata": "Toronto, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Platform scalability and performance became a barrier to revenue growth, so was tasked with leading the Production Operations team. Responsible for scaling the system and supporting the platform’s capacity growth of 70% per year. Key accomplishments: \n•\tInitiated strategic projects to redesign the core entity data architecture of the Eloqua platform to support the next-generation release while transitioning 700+ customers from the older architecture.\n•\tOversaw multiple initiatives which increased per-customer scalability by 750% from 2005 to 2009. \n•\tBuilt customer relationships. This included being R&D’s face to the customer for major system incident resolution, supporting sales for strategic accounts, and negotiating complex platform subscription agreements"
+                }
+              ]
+            },
+            {
+              "title": "Senior Architect",
+              "caption": "Jul 2001 - May 2005 · 3 yrs 10 mos",
+              "metadata": "Toronto, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Designed, implemented and optimized core application engines and features such as Program Builder, Visitor Profiling and Segmentation, and Data Management tools\n• Increased product scalability and performance to support enterprise-scale customers\n• Built and maintained production system monitoring, production release tools and a data backup system while managing 25 production database servers as acting DBA"
+                }
+              ]
+            },
+            {
+              "title": "Senior Application Developer",
+              "caption": "Aug 2000 - Jul 2001 · 11 mos",
+              "metadata": "Toronto, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Revamped and built-out core database design and enhanced Reporting and real-time Segmentation for the Eloqua Platform with rapid development cycles in fast-paced start-up\n• Developed custom SaaS operations tools to manage code and customer deployment in multi-tenant architecture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Professional Services",
+          "subtitle": "MobileQ . undefined",
+          "caption": "Nov 1999 - Aug 2000 · 9 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed and implemented Wireless Applications, Decision Support Systems and E-Commerce Applications for large companies in the Telecom, Banking and Manufacturing industries"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "46398",
+          "companyUrn": "urn:li:fsd_company:46398",
+          "companyLink1": "https://www.linkedin.com/company/ehvert-engineering/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEXq-zVRzhzGQ/company-logo_400_400/company-logo_400_400/0/1665578462162/ehvert_engineering_logo?e=1785369600&v=beta&t=SS01LbwYXd6v5F2P3GbVCWPJI8BbIeYCuT2QPranLuE",
+          "title": "Developer",
+          "subtitle": "Ehvert Engineering . undefined",
+          "caption": "May 1998 - Nov 1999 · 1 yr 6 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "77695161",
+          "companyUrn": "urn:li:fsd_company:77695161",
+          "companyLink1": "https://www.linkedin.com/showcase/innovation-governance-program/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHuaSu5qreQlw/company-logo_400_400/company-logo_400_400/0/1639161745231?e=1785369600&v=beta&t=jZ83MveYn8RQHvb_Cianh6P3QhbWMLGhiLAnUzby-XE",
+          "title": "Innovation Governance Program - Level 1",
+          "subtitle": "Innovation Governance Program",
+          "issued": "Issued Jun 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "924848",
+          "companyUrn": "urn:li:fsd_company:924848",
+          "companyLink1": "https://www.linkedin.com/company/professional-engineers-ontario/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEHtz2JxKpRuQ/company-logo_400_400/company-logo_400_400/0/1686749625296/peo___professional_engineers_ontario_logo?e=1785369600&v=beta&t=NCMWiyPepwXl4onvY2TJ2SuFD3_ad-0yAxeQVSb1K5c",
+          "title": "Professional Engineer (P.Eng.)",
+          "subtitle": "Professional Engineers Ontario",
+          "issued": "Issued Jun 2005",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Computing for Data Analysis",
+          "subtitle": "Coursera",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Data Governance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SaaS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketing Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Documentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CRM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lead Generation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Demand Generation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Start-ups",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "6926",
+          "companyUrn": "urn:li:fsd_company:6926",
+          "companyLink1": "https://www.linkedin.com/school/queen%27s-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE7P2b1VHr6ig/company-logo_400_400/company-logo_400_400/0/1651082685160/queens_university_logo?e=1785369600&v=beta&t=Zsj5EDxsot3mLUQHJiOWkMXOcrLqpDH6Wgw6xhZTmr0",
+          "title": "Queen's University",
+          "subtitle": "B. Sc., Queen's Solar Car Team, Science Quest, Queen's Telethon",
+          "caption": "Sep 1994 - Apr 1998",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

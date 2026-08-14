@@ -1,0 +1,414 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/rajin",
+  "row_key": "id:003Uk00000ydHQWIA2",
+  "person": "Rajin Shah",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:19:59Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAACjL3sBrlCaU3A8pHrJPAtd6Z4pDsM6NI0",
+      "firstName": "Rajin",
+      "lastName": "Shah",
+      "fullName": "Rajin Shah",
+      "publicIdentifier": "rajin",
+      "headline": "IT VP, Portfolio CIO and IT Business Partner | Medical Surgical Portfolio; IT Leader | Operating Unit HyperAutomation & Analytics",
+      "about": "IT Business Relationship Manager for the RGI business unit of Medtronic.  Responsible for ensuring that IT needs for the business unit are met.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGLn8jxcr6hEw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1604510205542?e=1785369600&v=beta&t=KHabIiKsDzbSShqOZs2_xcbn3gue_-6QJGhAxNmTzHY",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGLn8jxcr6hEw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1604510205542?e=1785369600&v=beta&t=NW-BW5nk3U1g2ADMaWQVwIrCT1UeQxpHDcyfp4x9MkQ"
+        },
+        {
+          "width": 119,
+          "height": 119,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGLn8jxcr6hEw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1604510205542?e=1785369600&v=beta&t=w6PopQ3mFA3nV3Mui3E5_0Dz5mc0iZ3t1Fb3Rh8Y2aY"
+        },
+        {
+          "width": 119,
+          "height": 119,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGLn8jxcr6hEw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1604510205542?e=1785369600&v=beta&t=C-ZurUZRaeORMHAM7CZBS3da_LfhSXKQNcJ1JVoV3GQ"
+        },
+        {
+          "width": 119,
+          "height": 119,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGLn8jxcr6hEw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1604510205542?e=1785369600&v=beta&t=KHabIiKsDzbSShqOZs2_xcbn3gue_-6QJGhAxNmTzHY"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 11 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "IT VP, Portfolio CIO and IT Business Partner | Medical Surgical Portfolio",
+              "caption": "Jun 2025 - Present · 7 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Serving as the IT Business Partner for the $8B+ Medical Surgical portfolio, I lead strategic alignment across Operating Unit IT teams, driving demand identification and prioritization. I also spearhead delivery initiatives in HyperAutomation —including GenAI, APA/RPA, and Process Mining— and Analytics, ensuring scalable innovation and measurable impact across the enterprise."
+                }
+              ]
+            },
+            {
+              "title": "Portfolio CIO and IT Business Partner | MedSurg Portfolio",
+              "caption": "Apr 2024 - Jun 2025 · 1 yr 2 mos",
+              "metadata": "South San Jose Hills, California, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Portfolio CIO and IT Business Partner | MedSurg Portfolio\nIT Leader, Operating Unit Data & Analytics and HyperAutomation"
+                }
+              ]
+            },
+            {
+              "title": "Sr. Director, IT",
+              "caption": "Jul 2017 - May 2024 · 6 yrs 10 mos",
+              "metadata": "United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Business Unit IT Leader for the Respiratory, Gastrointestinal & Informatics (RGI) business unit of Medtronic and member of the executive leadership team."
+                }
+              ]
+            },
+            {
+              "title": "Global Director, IT",
+              "caption": "Dec 2014 - Jul 2017 · 2 yrs 7 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sr. Director Information Systems & Business Processes",
+          "subtitle": "Labcyte . undefined",
+          "caption": "Aug 2014 - Dec 2014 · 4 mos",
+          "metadata": "Sunnyvale, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "IT Director",
+          "subtitle": "Covidien - GI Solutions/BÂRRX Medical, Inc. . undefined",
+          "caption": "Aug 2008 - Aug 2014 · 6 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "97369",
+          "companyUrn": "urn:li:fsd_company:97369",
+          "companyLink1": "https://www.linkedin.com/company/xtent-inc./",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGhXdP4ZW6rUQ/company-logo_400_400/company-logo_400_400/0/1631304615198?e=1785369600&v=beta&t=w3JSXHxSpsBM5FLsOnIrwvpWOpcsNMGKjqwzAdSfqn4",
+          "title": "IT Director",
+          "subtitle": "XTENT, Inc. - Companies assets acquired by another company. . undefined",
+          "caption": "Oct 2007 - Jul 2008 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "IT Director",
+          "subtitle": "Adeza Biomedical Corporation/Cytyc Corporation . undefined",
+          "caption": "Jul 2003 - Sep 2007 · 4 yrs 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Independent Consultant",
+          "subtitle": "Shah & Associates . undefined",
+          "caption": "Oct 2002 - Jun 2003 · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Sr. IT Director",
+          "subtitle": "Medmart . undefined",
+          "caption": "Jan 2002 - Oct 2002 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Co-founder and Operations Officer",
+          "subtitle": "Totaleyesight.com, Inc. . undefined",
+          "caption": "Mar 2000 - Oct 2001 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "IT Director",
+          "subtitle": "KeraVision, Inc. . undefined",
+          "caption": "Aug 1996 - Feb 2000 · 3 yrs 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Sales Support Manager",
+          "subtitle": "EDS . undefined",
+          "caption": "Apr 1994 - Aug 1996 · 2 yrs 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "Technology Management Series - 2024-2025",
+          "subtitle": "CTO Forum",
+          "issued": "Issued Oct 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Medical Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Salesforce.com",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FDA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cross-functional Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Biotechnology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Start-ups",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R&D",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Commercialization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technical Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales Process",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Outsourcing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research and Development (R&D)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "U.S. Food and Drug Administration (FDA)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "8625",
+          "companyUrn": "urn:li:fsd_company:8625",
+          "companyLink1": "https://www.linkedin.com/school/westernmichu/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE9-K9PnQclIg/company-logo_400_400/company-logo_400_400/0/1633032392884/westernmichu_logo?e=1785369600&v=beta&t=riD5yfFDLRBWsljCSODZqRNDg-5eRVM5lzG_eCMyWe0",
+          "title": "Western Michigan University",
+          "subtitle": "B. Sc., Electrical Engineering",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

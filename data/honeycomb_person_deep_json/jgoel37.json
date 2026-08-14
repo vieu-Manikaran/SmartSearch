@@ -1,0 +1,288 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jgoel37",
+  "row_key": "id:003Uk00000ydClhIAE",
+  "person": "Jatin Goel",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:47Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABmj4YYBkcau8YQ0A4spxxBB9YmezEkfIVo",
+      "firstName": "Jatin",
+      "lastName": "Goel",
+      "fullName": "Jatin Goel",
+      "publicIdentifier": "jgoel37",
+      "headline": "Staff Software Engineer @ Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Delhi India",
+      "addressWithoutCountry": "Delhi",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQF6RNq6ZzY7dg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1630522306205?e=1785369600&v=beta&t=kW31SEI1vmxpBzfP37j-fx76NQspcqI2M-SPwBKyfqc",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF6RNq6ZzY7dg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1630522306205?e=1785369600&v=beta&t=fInTMIuVuHGIX_49TspN7r9RZFOobTKTR0YbJGTeiGM"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF6RNq6ZzY7dg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1630522306205?e=1785369600&v=beta&t=RMU0489gRt6eiTNPAfz1eyKcj4U7INsEhf4eJmmidaw"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF6RNq6ZzY7dg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1630522306205?e=1785369600&v=beta&t=huKbqd4EL1_sRH837YLcIiJu0vFf7n0JYVejcbiuRRM"
+        },
+        {
+          "width": 560,
+          "height": 560,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQF6RNq6ZzY7dg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1630522306205?e=1785369600&v=beta&t=kW31SEI1vmxpBzfP37j-fx76NQspcqI2M-SPwBKyfqc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 4 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Aug 2024 - Present · 1 yr 5 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Oct 2021 - Aug 2024 · 2 yrs 10 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Part of the Risk Team\n- Designed and developed Underwriting solution for our Credit Risk Analysts to underwrite Insto Clients\n- Part of Payment Risk team where we are working on reducing dispute rates for the payments and protecting our customers from various Frauds.\n- Working on protecting customer Sends by running series of risk checks and making sure user not sending their money to fraudsters or scammers\n- Actively developing and managing Tier0 and Tier1 services across Risk Platfrom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "Software Development Engineer 2",
+          "subtitle": "Amazon . Full-time",
+          "caption": "Jun 2020 - Oct 2021 · 1 yr 4 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Part of the Global Core Transport and Shipment Tracking Team\n- Worked on various features and maintaining the high traffic services (Our service served 2 million calls in a min and ingested 1 million events in a minute in normal days and upto 1.5x during Peak and Festival Seasons)\n- TPS Quota Management System: Involved in the design and implementation of a sophisticated solution which moderates all outgoing calls to 3P systems for retrieving package updates while respecting the TPS limitations of external systems. The system is targeted at improving the scan ingestion latency of 15-20 % of Amazon’s fulfillment volume which spans billions of packages per year and caters to millions of customers. It is able to improve the latencies from 50+ hours to single digits. The system can distinguish between packages based on their probability to surface a new scan event in the near future and schedule package tracking accordingly using a decision tree based priority scoring algorithm."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2751",
+          "companyUrn": "urn:li:fsd_company:2751",
+          "companyLink1": "https://www.linkedin.com/company/expediagroup/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEwAQwq-0JXpg/company-logo_200_200/B4EZ5wVSu4G0AE-/0/1780001090923/expediagroup_logo?e=1785369600&v=beta&t=6fswzaUY_GHQGAZZVYheaVbQOtBUXZ9dXO503hurJyU",
+          "title": "Expedia Group",
+          "subtitle": "undefined · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software development engineer 2",
+              "caption": "Sep 2018 - Jun 2020 · 1 yr 9 mos",
+              "metadata": "Gurgaon, Haryana, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Moved to Reporting platform\n- Integrated Egencia with Sisense and was part of Analytics Studio team\n- Wrote pipeline to capture major booking events from all microservices and store them in Snowflake and provided Analysts a glimpse into our booking events\n- Worked on AuthZ team of Expedia's Public APIs\n- Implemented OAuth2 and http Signature flows for AuthN/AuthZ"
+                }
+              ]
+            },
+            {
+              "title": "Software Development Engineer",
+              "caption": "Jul 2017 - Sep 2018 · 1 yr 2 mos",
+              "metadata": "Gurgaon, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Worked on integrating Approval flows with Checkout and Trip code\n- Used Activiti as a BPMN implementation for maintaining approval flows\n- Rolling out Approval to all the regions in phased manner for all LOBs (Air, Rail, Hotel and Car)"
+                }
+              ]
+            },
+            {
+              "title": "Associate Software Engineer",
+              "caption": "Jul 2016 - Jul 2017 · 1 yr",
+              "metadata": "Gurgaon, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Part of Approvals Team (solving the problem of holding the inventory and triggering and waiting for \n   approval response from traveler's approver)\n- Developed REST Endpoints for Approval Service\n- Integrated with MongoDB and RabbitMQ (AMQP Protocol)\n- As a fresher, got in-depth understanding of Java and Spring framework"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2751",
+          "companyUrn": "urn:li:fsd_company:2751",
+          "companyLink1": "https://www.linkedin.com/company/expediagroup/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEwAQwq-0JXpg/company-logo_200_200/B4EZ5wVSu4G0AE-/0/1780001090923/expediagroup_logo?e=1785369600&v=beta&t=6fswzaUY_GHQGAZZVYheaVbQOtBUXZ9dXO503hurJyU",
+          "title": "Summer Intern",
+          "subtitle": "Expedia, Inc. . undefined",
+          "caption": "Jun 2015 - Jul 2015 · 1 mo",
+          "metadata": "Gurgaon, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring MVC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cucumber",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RabbitMQ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker Products",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "680890",
+          "companyUrn": "urn:li:fsd_company:680890",
+          "companyLink1": "https://www.linkedin.com/school/delhi-college-of-engineering/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFXWfIz3NjOVw/company-logo_400_400/company-logo_400_400/0/1631387954354?e=1785369600&v=beta&t=3SRCsb0ouRET2bsv6z6OmOPprpp-tplDDrqO7xexEPE",
+          "title": "Delhi College of Engineering",
+          "subtitle": "Bachelor of Technology (B.Tech.), Information Technology",
+          "caption": "2012 - 2016",
+          "subComponents": []
+        },
+        {
+          "title": "Vidyamandir classes",
+          "subtitle": "null, Physics",
+          "caption": "2010 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

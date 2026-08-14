@@ -1,0 +1,384 @@
+{
+  "linkedin_url": "https://ro.linkedin.com/in/mihai-dobre-0b4a49b7",
+  "row_key": "id:0033l00002hPmk9AAC",
+  "person": "Mihai Dobre",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T09:56:41Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABjkqUgBaotaTBi96xfzck8ogCZo2w7FCzI",
+      "firstName": "Mihai",
+      "lastName": "Dobre",
+      "fullName": "Mihai Dobre",
+      "publicIdentifier": "mihai-dobre-0b4a49b7",
+      "headline": "Senior python developer at GlobalLogic",
+      "about": "I am an ambitious software engineer with 10 years’ experience in Python programming (backend applications and scripting) and AWS cloud infrastructure, looking for interesting opportunities to use and expand my knowledge, in a team of like-minded people.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Romania",
+      "addressWithCountry": "Braşov Romania",
+      "addressWithoutCountry": "Braşov",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164008",
+          "companyUrn": "urn:li:fsd_company:164008",
+          "companyLink1": "https://www.linkedin.com/company/globallogic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEcwaYik2791g/company-logo_200_200/B56ZV9kVCfHoAI-/0/1741568430537/globallogic_logo?e=1785369600&v=beta&t=M3AAoHFFxZ9xJIsJTmNXkeP9X1-LbrLJvJU48PHoV6c",
+          "title": "Senior Python Engineer",
+          "subtitle": "GlobalLogic . Full-time",
+          "caption": "Nov 2025 - Present · 2 mos",
+          "metadata": "Braşov, Romania",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I'm writing python(Pluming & FastApi) and bicep templates to provision Azure services."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "103180848",
+          "companyUrn": "urn:li:fsd_company:103180848",
+          "companyLink1": "https://www.linkedin.com/company/askmanu/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFSz6UJ1NfP6A/company-logo_100_100/B4DZzTkxl2HYAY-/0/1773076159948/askmanu_logo?e=1785369600&v=beta&t=FLwfCviDKRmBbKqHCnmG_6MTTFo4EpduimClKnTs3Cw",
+          "title": "Collaborator",
+          "subtitle": "askmanu . Freelance",
+          "caption": "Feb 2025 - Mar 2026 · 1 yr 1 mo",
+          "metadata": "Romania",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Side project, helping with code refactoring, developing small features when i can, where i can."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Senior platform developer",
+          "subtitle": "Touch Surgery . Full-time",
+          "caption": "Mar 2020 - May 2025 · 5 yrs 2 mos",
+          "metadata": "London, England Metropolitan Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Initially I've been part of a new team responsible for CI-CD automation and infrastructure. As part of this team I enhanced the current ansible playbooks, made them more stable, took part in a Dome9 security audit, learned Terraform, enabled Kafka as technology from scratch( Kafka cluster, Connectors, Schema registry, Rest-proxy service), implemented a monitoring system for Bitbucket, become a Bitbucket pipelines specialist. This spring I switched teams and started to write python again in a product team.\nTechnologies used: AWS MSK, AWS VPC(almost the whole network stack), AWS ECS, docker, ansible 2.9, terraform, python3.7, django2.2"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "91400",
+          "companyUrn": "urn:li:fsd_company:91400",
+          "companyLink1": "https://www.linkedin.com/company/genesis-oil-and-gas-consultants/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEN649QvU_yRA/company-logo_400_400/company-logo_400_400/0/1738150994704/genesis_oil_and_gas_consultants_logo?e=1785369600&v=beta&t=4qchEHKBUhkDNpqdoeY5usmLNTslD2c5Vvg_2lqUXbA",
+          "title": "Python Developer",
+          "subtitle": "Genesis Oil and Gas Consultants . Contract",
+          "caption": "Nov 2019 - Dec 2019 · 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "My role at Genesis covered a diverse spectrum of areas:\n- Tutoring: being part of a mixed team(pipeline engineers and developers) I had to do code reviews, teach engineers the python best practices and software development best practices, repository maintenance, code coverage, package management\n- Python dev: used Flask web framework to develop new features on the existing API for parallel pipeline calculations\n- Infrastructure and deployment: used AWS Fargate containers and AWS SQS service to scale up and down the architecture depending on the load. I've improved the dockerization of the project(Docker and Docker-compose).\n- built a UI from scratch using Dash UI and Plotly."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "11207856",
+          "companyUrn": "urn:li:fsd_company:11207856",
+          "companyLink1": "https://www.linkedin.com/company/qadre/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHfa1h9gwcbHA/company-logo_400_400/company-logo_400_400/0/1630574530848/qadre_logo?e=1785369600&v=beta&t=Y_i8mhu-MhI97QRK8ZRKnQi2LW_sHRI-tgD-jBACWoM",
+          "title": "Python Developer",
+          "subtitle": "Qadre . undefined",
+          "caption": "Jul 2018 - Oct 2019 · 1 yr 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At Qadre I was resposible for the performance analisys of the blockchain network and data visualisation(performance data/metrics displayed in an understandable and trackable way). Afterwords I focused on deployment tools and implemented automatic deployment scripts for the blockchain network and a few other projects. Other than that, I'm resposible for API development, documentation and functional and technical specification."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4973922",
+          "companyUrn": "urn:li:fsd_company:4973922",
+          "companyLink1": "https://www.linkedin.com/company/powervault-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFay5ySnSBQgg/company-logo_400_400/company-logo_400_400/0/1711033646381/powervault_ltd_logo?e=1785369600&v=beta&t=DV7AOM_DesXYuqIqPXlEFScbVQn3jFt2dQ2evi9GXjs",
+          "title": "Software Developer",
+          "subtitle": "Powervault Ltd . undefined",
+          "caption": "Oct 2017 - Jun 2018 · 8 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As a software developer I was involved in all the daily tasks:\n- developing new features using a wide variety of python technologies/python packages\n- bug fixing\n- writing documentation\n- customer support when a technical expertise was required\n\nTechnologies used: Python 3.5/3.6, Django 1.11, Flask, Postgres, Mosquitto(mqtt), Ansible\n\nBesides daily tasks I started a side project. It is a battery tester application. It's the result of a joint effort. One of the electrical engineers contributed with the knowledge about battery technologies and the low level communication protocols. I designed and implemented the software infrastructure needed for data acquisition and managing multiple tests in parallel. To achieve that, I used a django app(fast development) and Celery/Celery-beat for managing one-time and periodic tasks. \n\nTechnologies used: Python 3.5, Django 1.11, Postgres, Celery, Celery beat, RabbitMQ, Supervisor, Grafana"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "6521",
+          "companyUrn": "urn:li:fsd_company:6521",
+          "companyLink1": "https://www.linkedin.com/company/cegeka/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFWLoH6xH8dmQ/company-logo_100_100/B4EZbxd_WUGQAQ-/0/1747807893548/cegeka_logo?e=1785369600&v=beta&t=ey347WEUzpr_9V6Bb9xHKe93nIou0Py6kl5BPbOp3SY",
+          "title": "Software Developer",
+          "subtitle": "Cegeka Romania . undefined",
+          "caption": "May 2016 - Oct 2017 · 1 yr 5 mos",
+          "metadata": "Bucharest, Romania",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software developer responsible for internal tools development and maintenance.\nFixing bugs and developing new features for the existing tools.\nDesigning and developing new applications. Changing the design of smaller applications and writing them from scratch in order to increase scalability/make room for potential growth.\n\nMain technologies used: Python 2.7, Django 1.6(upgrading slowly to 1.11), Django templates, Postgres db, Mssql db, basic JQuery, soap services, REST api."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5300",
+          "companyUrn": "urn:li:fsd_company:5300",
+          "companyLink1": "https://www.linkedin.com/company/luxoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGXg4uCDPdcXg/company-logo_200_200/B56ZtGvJgYIEAM-/0/1766418324735/luxoft_logo?e=1785369600&v=beta&t=nEMYhhwUEc6U2bIusn5ueyt9idJYWXuh8lQ7OqJKziw",
+          "title": "Software engineer",
+          "subtitle": "Luxoft . undefined",
+          "caption": "Sep 2014 - May 2016 · 1 yr 8 mos",
+          "metadata": "Bucharest, Romania",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Designed new features and fixed bugs for the backend of an open source test automation framework (Twister www.github.com/Luxoft/twister )\n- Created documentation regarding the newly implemented features\n\nMain language: Python 2.7(rpyc, xml-rpc, cherrypy, flask, websocket, lxml, json, jsonschema,  thread, multithreading, asyncore, pexpect, os, sys, multiprocessing, socket) - Twister’s backend is \nimplemented in Python"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2148",
+          "companyUrn": "urn:li:fsd_company:2148",
+          "companyLink1": "https://www.linkedin.com/company/infineon-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG0dfCs_tMDUQ/company-logo_400_400/company-logo_400_400/0/1631307630627?e=1785369600&v=beta&t=yr3F3h3uXtFe5MRAQJ0LRD2AVjwx3gKcSLVQXH6XxsI",
+          "title": "Software Consultant",
+          "subtitle": "Infineon Technologies . undefined",
+          "caption": "Feb 2015 - Feb 2016 · 1 yr",
+          "metadata": "Bucharest, Romania",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Researching and developing new tools based on Infineon’s internal metamodeling tool chain\n- Contributing to the application core\n- Implementing different data flows and converting data from one format to another\n- Creating code generators and designing metamodels.\n- Implementing extension tools to integrate with Eclipse Modeling Framework\n\nMain language: Python 2.7 (lxml, mako, os, sys)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2148",
+          "companyUrn": "urn:li:fsd_company:2148",
+          "companyLink1": "https://www.linkedin.com/company/infineon-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG0dfCs_tMDUQ/company-logo_400_400/company-logo_400_400/0/1631307630627?e=1785369600&v=beta&t=yr3F3h3uXtFe5MRAQJ0LRD2AVjwx3gKcSLVQXH6XxsI",
+          "title": "Software Engineer",
+          "subtitle": "Infineon Technologies . undefined",
+          "caption": "Jan 2013 - Sep 2014 · 1 yr 8 mos",
+          "metadata": "Bucharest, Romania",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Designed and developed internal tools using Python 2.7 and the company’s dedicated infrastructure\n- Created documentation regarding the newly created tools\n- Delivered training programs to employees on how to use the internal structure and the new internal tools"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Romanian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OOP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python 2.7",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ansible",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Polytechnic University of Bucharest",
+          "subtitle": "Master's degree, Computer Science",
+          "caption": "2012 - 2014",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Design and implement embedded software. Design and develop small projects.\nMost activities were project based."
+            }
+          ]
+        },
+        {
+          "companyId": "1060201",
+          "companyUrn": "urn:li:fsd_company:1060201",
+          "companyLink1": "https://www.linkedin.com/school/upb1818/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFa0onJgdaHtQ/company-logo_400_400/company-logo_400_400/0/1738230492774/upb1818_logo?e=1785369600&v=beta&t=jrZE5A1QalJPXDiUf6PgpqOxIg7qZtY0BTo13dvthFk",
+          "title": "Universitatea „Politehnica” din București",
+          "subtitle": "Bachelor's degree, Computer Software Engineering",
+          "caption": "2008 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Computer architecture, OOP, Linux, Embedded software, Algorithms."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

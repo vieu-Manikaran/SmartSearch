@@ -1,0 +1,300 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/jensandreasson",
+  "row_key": "id:003Uk00000xr8wyIAA",
+  "person": "Jens Andreasson",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:46:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAbgwEBsiV6vD8Kz-U5IoW8yblt6GnKYTI",
+      "firstName": "Jens",
+      "lastName": "Andreasson",
+      "fullName": "Jens Andreasson",
+      "publicIdentifier": "jensandreasson",
+      "headline": "Head of ITS Technical Architecture at ICA Gruppen",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Retail",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Greater Stockholm Metropolitan Area Sweden",
+      "addressWithoutCountry": "Greater Stockholm Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQH399ls_yttZA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1589960612139?e=1785369600&v=beta&t=CGKHvnw38EscLLGPwAnmdLv6vP95xz6Lq_hkJcGsL80",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQH399ls_yttZA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1589960612139?e=1785369600&v=beta&t=gMiuF5oZmosrciUagbNZk03J6YZv-aSHIYtL8w3uexA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQH399ls_yttZA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1589960612139?e=1785369600&v=beta&t=fUOq79suSBFdKtV6IJSR_gJ7GMW2wOYFnFgMD3EEP6I"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQH399ls_yttZA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1589960612139?e=1785369600&v=beta&t=-CGrkMSvWbGHx-twTd6g_5qM6Mhp_jAYmsomLs1-0Oc"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQH399ls_yttZA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1589960612139?e=1785369600&v=beta&t=CGKHvnw38EscLLGPwAnmdLv6vP95xz6Lq_hkJcGsL80"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "ICA Gruppen",
+          "subtitle": "Full-time · 17 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Head of cloud governance center",
+              "caption": "Sep 2019 - Present · 6 yrs 4 mos",
+              "metadata": "Stockholm, Stockholm, Sverige",
+              "description": []
+            },
+            {
+              "title": "Head of ITS Technical Architecture",
+              "caption": "Dec 2016 - Present · 9 yrs 1 mo",
+              "metadata": "Solna, Stockholm",
+              "description": []
+            },
+            {
+              "title": "Senior IT Architect",
+              "caption": "Sep 2008 - Nov 2016 · 8 yrs 2 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "IT Architect focusing on both the application and technical landscape supporting the different business domains."
+                }
+              ]
+            },
+            {
+              "title": "Head of ITS Technical Architecture (Acting)",
+              "caption": "Dec 2015 - Aug 2016 · 8 mos",
+              "metadata": "Solna, Stockholm",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1062",
+          "companyUrn": "urn:li:fsd_company:1062",
+          "companyLink1": "https://www.linkedin.com/company/sun-microsystems_1062/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG8U0EaYqTApg/company-logo_400_400/company-logo_400_400/0/1631306441139?e=1785369600&v=beta&t=5pWs7aNk4Kxn-OuV8cBfBfS1hY3Bbze1GctKUHj5dcA",
+          "title": "SOA/BI Product specialist",
+          "subtitle": "Sun Microsystems . undefined",
+          "caption": "Nov 2005 - Aug 2008 · 2 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Senior J2EE & EAI Consultant at TMNS bv",
+          "subtitle": "tmns . undefined",
+          "caption": "Apr 2004 - Nov 2005 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "J2EE Application Architect",
+          "subtitle": "Sigma . undefined",
+          "caption": "1998 - 2004 · 6 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "23232",
+          "companyUrn": "urn:li:fsd_company:23232",
+          "companyLink1": "https://www.linkedin.com/company/commentor-ab/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGmjQLKsATSqg/company-logo_400_400/company-logo_400_400/0/1631306897831?e=1785369600&v=beta&t=McMqpwVZrqGvY19-9-Y61qEFEJv4zs6O-BfZwScVveA",
+          "title": "Software Developer",
+          "subtitle": "Commentor AB . undefined",
+          "caption": "1997 - 1998 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "EAI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Enterprise Edition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ESB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Solution Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Websphere",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JMS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Middleware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Application Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5077",
+          "companyUrn": "urn:li:fsd_company:5077",
+          "companyLink1": "https://www.linkedin.com/school/lunduniversity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGZdRyM61SwOw/company-logo_400_400/company-logo_400_400/0/1631375165915/lunduniversity_logo?e=1785369600&v=beta&t=uvskFXzntHZ24s7933TwnJ4LZ7_LTjquH3JJ77HwL7U",
+          "title": "Lunds universitet",
+          "subtitle": "null, Systemvetenskap",
+          "caption": "1992 - 1998",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

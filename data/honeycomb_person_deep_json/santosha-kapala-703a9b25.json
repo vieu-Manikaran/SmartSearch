@@ -1,0 +1,479 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/santosha-kapala-703a9b25",
+  "row_key": "id:003Uk0000090pqCIAQ",
+  "person": "Santosha Kapala",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:52:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAVSbzMBliePrCLyOffrriVWRyvfmaqsg3g",
+      "firstName": "Santosha",
+      "lastName": "Kapala",
+      "fullName": "Santosha Kapala",
+      "publicIdentifier": "santosha-kapala-703a9b25",
+      "headline": "Product Owner | Surgical Robotics R&D at Medtronic | GenAI, Python, SQL, Power BI, AWS and few more | Ex-TCSer",
+      "about": "Be unique..Believe yourself..Competitor...",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFqCWSKjNruwA/profile-displayphoto-crop_800_800/B56ZsB2ty_JwAI-/0/1765262683370?e=1785369600&v=beta&t=8_mtJdnkii83IrTAIyzndXIRQ4oJ9dNrsTlhWK97xpQ",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFqCWSKjNruwA/profile-displayphoto-scale_400_400/B56ZsB2ty_JwAg-/0/1765262683466?e=1785369600&v=beta&t=7otwAJz5_ZGDmSS-v95ir3lH3TT6z1SldUcneep5rEM"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFqCWSKjNruwA/profile-displayphoto-scale_100_100/B56ZsB2ty_JwAc-/0/1765262683466?e=1785369600&v=beta&t=P80Lch671RfgLxqrS019D-yf_bfUjI-ERhO9fUUHM5w"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFqCWSKjNruwA/profile-displayphoto-scale_200_200/B56ZsB2ty_JwAY-/0/1765262683466?e=1785369600&v=beta&t=N2p8cq0qMU2XbV1T32cHHlnt-wJqd7qpA-ZVF7bUyF0"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFqCWSKjNruwA/profile-displayphoto-crop_800_800/B56ZsB2ty_JwAI-/0/1765262683370?e=1785369600&v=beta&t=8_mtJdnkii83IrTAIyzndXIRQ4oJ9dNrsTlhWK97xpQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Lead Software Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jan 2022 - Present · 4 yrs",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Modern robotic surgery using the Hugo robotic system."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1353",
+          "companyUrn": "urn:li:fsd_company:1353",
+          "companyLink1": "https://www.linkedin.com/company/tata-consultancy-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_400_400/company-logo_400_400/0/1708946550425/tata_consultancy_services_logo?e=1785369600&v=beta&t=argHyOHxOL8b_6ayqv8Ix2k-fvrql9BXSBmDI9iR4jw",
+          "title": "IT Analyst",
+          "subtitle": "Tata Consultancy Services . Full-time",
+          "caption": "Apr 2017 - Jan 2022 · 4 yrs 9 mos",
+          "metadata": "Pune Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Digital store analytics for Microsoft client"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "16198010",
+          "companyUrn": "urn:li:fsd_company:16198010",
+          "companyLink1": "https://www.linkedin.com/company/dxctechnology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG64dSXK4S4aw/company-logo_200_200/B4EZsIpKlaGoAI-/0/1765376568001/dxctechnology_logo?e=1785369600&v=beta&t=XRzn5rDJ4tOYNcAh9hsCfOzyC3iG_7x6mOnyHpkvgls",
+          "title": "Professional - 1",
+          "subtitle": "DXC Technology . Full-time",
+          "caption": "Mar 2016 - Apr 2017 · 1 yr 1 mo",
+          "metadata": "Noida Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked with CSC infrastructure account."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1756",
+          "companyUrn": "urn:li:fsd_company:1756",
+          "companyLink1": "https://www.linkedin.com/company/hcltech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_400_400/company-logo_400_400/0/1664197008220/hcltech_logo?e=1785369600&v=beta&t=dwz9JqWaaaU9k2Z0ZsatF50OZfVGGUJYNoAu0xrodkM",
+          "title": "Software Developer",
+          "subtitle": "HCL Technologies . Full-time",
+          "caption": "Oct 2013 - Mar 2016 · 2 yrs 5 mos",
+          "metadata": "Noida Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Microsoft’s Bing search engine."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "SAFe 6 Product Owner/Product Manager Exam",
+          "subtitle": "SAFe by Scaled Agile, Inc.",
+          "issued": "Issued Oct 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "SAFe 6 Scrum Master Exam (6.0)",
+          "subtitle": "SAFe by Scaled Agile, Inc.",
+          "issued": "Issued Feb 2025",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "533488",
+          "companyUrn": "urn:li:fsd_company:533488",
+          "companyLink1": "https://www.linkedin.com/company/simplilearn/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGrNBFNEIlxNg/company-logo_100_100/B56ZzhMj53KYAQ-/0/1773304692834/simplilearn_logo?e=1785369600&v=beta&t=E0lbH65JBFAG5xrHXe937w74Qt8ZAPij7sRWD-_FmLI",
+          "title": "AWS Certified Solutions Architect",
+          "subtitle": "Simplilearn",
+          "issued": "Issued undefined 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2434776",
+          "companyUrn": "urn:li:fsd_company:2434776",
+          "companyLink1": "https://www.linkedin.com/company/scaled-agile-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNrAAstbjWhg/company-logo_200_200/B56Zj2xWqLIAAM-/0/1756486790137/scaled_agile_inc__logo?e=1785369600&v=beta&t=RRofG9FpePxWEBvGtP02nU0BsP-lW3dKSeqcM7MTTIU",
+          "title": "SAFe 5 Practitioner Certification",
+          "subtitle": "Scaled Agile, Inc.",
+          "issued": "Issued Aug 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified: Azure Fundamentals",
+          "subtitle": "Microsoft",
+          "issued": "Issued Jul 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "DAT207x: Analyzing and Visualizing Data with Power BI",
+          "subtitle": "Microsoft",
+          "issued": "Issued Nov 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1028",
+          "companyUrn": "urn:li:fsd_company:1028",
+          "companyLink1": "https://www.linkedin.com/company/oracle/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1785369600&v=beta&t=-2jXKAmeScrST660DEvhikbsU_jlaW2xSt2n4cFthv0",
+          "title": "Oracle Certified Professional, Java SE 6 Programmer",
+          "subtitle": "Oracle",
+          "issued": "Issued Oct 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "DRM Green Belt",
+          "subtitle": "Medtronic",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Oriya",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Telugu",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Product Owner",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jama",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GitHub Copilot",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Gemini",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Retrieval-Augmented Generation (RAG)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agent-based Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vector Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon EC2",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon S3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Redshift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AWS Glue",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Power BI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI Tools",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LangChain",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Polarion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "National Institute of Science and Technology",
+          "subtitle": "Bachelor's degree, Computer Science",
+          "caption": "2008 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

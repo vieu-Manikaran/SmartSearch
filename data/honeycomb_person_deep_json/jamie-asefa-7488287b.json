@@ -1,0 +1,338 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/jamie-asefa-7488287b",
+  "row_key": "id:003Uk00000ydAhuIAE",
+  "person": "Jamie Asefa",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABEHrCgB3jTlnv7PTkAYybkA0L1ahaafmeQ",
+      "firstName": "Jamie",
+      "lastName": "Asefa",
+      "fullName": "Jamie Asefa",
+      "publicIdentifier": "jamie-asefa-7488287b",
+      "headline": "Senior Software Engineer at Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Financial Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "undefined · 4 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Apr 2023 - Present · 2 yrs 9 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "May 2021 - Mar 2023 · 1 yr 10 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "18863190",
+          "companyUrn": "urn:li:fsd_company:18863190",
+          "companyLink1": "https://www.linkedin.com/company/skew-markets/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGsKzDphl9amA/company-logo_400_400/company-logo_400_400/0/1630529506659/skew_markets_logo?e=1785369600&v=beta&t=1zIsL-4ftKvOun-FdewN-o3VOnS4v6fg4CoJ8JYJD48",
+          "title": "skew.",
+          "subtitle": "undefined · 2 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Developer",
+              "caption": "Apr 2020 - May 2021 · 1 yr 1 mo",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Leading analytics platform for cryptocurrency derivatives. Acquired by Coinbase."
+                }
+              ]
+            },
+            {
+              "title": "Jr. Software Developer",
+              "caption": "May 2019 - Apr 2020 · 11 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4373",
+          "companyUrn": "urn:li:fsd_company:4373",
+          "companyLink1": "https://www.linkedin.com/school/universityofbc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH415qlDBkj8Q/company-logo_400_400/company-logo_400_400/0/1630608877834/universityofbc_logo?e=1785369600&v=beta&t=msMl6G6md_UKRgIAu1TrsNJQb9yJMg4dJH3mgJTiaIE",
+          "title": "The University of British Columbia",
+          "subtitle": "undefined · 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Teaching Assistant",
+              "caption": "Sep 2018 - Dec 2018 · 3 mos",
+              "metadata": "Vancouver, British Columbia, Canada",
+              "description": []
+            },
+            {
+              "title": "Research Assistant",
+              "caption": "May 2018 - Aug 2018 · 3 mos",
+              "metadata": "Vancouver, British Columbia, Canada",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4373",
+          "companyUrn": "urn:li:fsd_company:4373",
+          "companyLink1": "https://www.linkedin.com/school/universityofbc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH415qlDBkj8Q/company-logo_400_400/company-logo_400_400/0/1630608877834/universityofbc_logo?e=1785369600&v=beta&t=msMl6G6md_UKRgIAu1TrsNJQb9yJMg4dJH3mgJTiaIE",
+          "title": "The University of British Columbia",
+          "subtitle": "undefined · 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Teaching Assistant",
+              "caption": "Sep 2017 - Dec 2017 · 3 mos",
+              "metadata": "Vancouver, Canada Area",
+              "description": []
+            },
+            {
+              "title": "Research Assistant",
+              "caption": "May 2017 - Aug 2017 · 3 mos",
+              "metadata": "Vancouver, Canada Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "268209",
+          "companyUrn": "urn:li:fsd_company:268209",
+          "companyLink1": "https://www.linkedin.com/company/trevantagency/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG0NSFh5d-3KQ/company-logo_100_100/B4EZ6IoTs.JEAI-/0/1780408728664/trevantagency_logo?e=1785369600&v=beta&t=wtsw92kEPVwRVZomwHJftfjUN8gB5yV0Gl1MAMeYoGg",
+          "title": "Advertising Operations",
+          "subtitle": "AdParlor . undefined",
+          "caption": "Nov 2013 - May 2015 · 1 yr 6 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Aeron",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "FIX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Options",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kotlin",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CUDA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "x86 Assembly",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ARM Assembly",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SBE",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Akka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Derivatives",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15134449",
+          "companyUrn": "urn:li:fsd_company:15134449",
+          "companyLink1": "https://www.linkedin.com/school/eceubc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH4BKWIDTXg7w/company-logo_400_400/company-logo_400_400/0/1644609455924/eceubc_logo?e=1785369600&v=beta&t=X3ihqOizaWzWVpGEi8PTaRbPI_KL32LjyqHrRIYefmc",
+          "title": "University of British Columbia Electrical and Computer Engineering",
+          "subtitle": "Bachelor’s Degree, Computer Engineering",
+          "caption": "2016 - 2019",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Distinction"
+            }
+          ]
+        },
+        {
+          "companyId": "6926",
+          "companyUrn": "urn:li:fsd_company:6926",
+          "companyLink1": "https://www.linkedin.com/school/queen%27s-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE7P2b1VHr6ig/company-logo_400_400/company-logo_400_400/0/1651082685160/queens_university_logo?e=1785369600&v=beta&t=Zsj5EDxsot3mLUQHJiOWkMXOcrLqpDH6Wgw6xhZTmr0",
+          "title": "Queen's University",
+          "subtitle": "Bachelor’s Degree, Varsity men's basketball",
+          "caption": "2009 - 2013",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

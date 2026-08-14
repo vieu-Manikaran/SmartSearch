@@ -1,0 +1,494 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/oliver-karstoft-72911982",
+  "row_key": "id:003Uk00000xexyjIAA",
+  "person": "Oliver Rohde Karstoft",
+  "account": "BESTSELLER",
+  "fetched_at": "2026-07-14T10:37:39Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABF1fdEBhvOvWyKk8CV381y5-ewCDSAx2R8",
+      "firstName": "Oliver",
+      "lastName": "Karstoft",
+      "fullName": "Oliver Karstoft",
+      "publicIdentifier": "oliver-karstoft-72911982",
+      "headline": "DevOps | Cloud-Native | Observability | CI/CD | Golang | Automation | Kubernetes",
+      "about": "DevOps Engineer with extensive experience in automating CI/CD pipelines using GitHub Actions and CircleCI. Proficient in managing GCP infrastructure and Kubernetes clusters, ensuring seamless deployment and scaling across the organization. Adept at building internal tools in Golang and Bash to enhance efficiency and support continuous improvement. A strong advocate for developer enablement, focusing on educating teams to refine deployment flows and adopt best practices in cloud-native environments.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Denmark",
+      "addressWithCountry": "Silkeborg, Central Denmark Region Denmark",
+      "addressWithoutCountry": "Silkeborg, Central Denmark Region",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQEz9BQlAGDziA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668069322223?e=1785369600&v=beta&t=Id8_dYbHwtuFWoBHbAJUcrulmPZtm0mQTLAXjypGXaw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEz9BQlAGDziA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1668069322223?e=1785369600&v=beta&t=iM3C5uIIQDRh3iqPTtaRBJ3FaaVBx9C5NTrly3bQxj0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEz9BQlAGDziA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1668069322223?e=1785369600&v=beta&t=aiksqHBp8ITEaRl6WRNnWv8lmRJdQFCY5nkU9hOEhuA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEz9BQlAGDziA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1668069322223?e=1785369600&v=beta&t=Rzs2no8uxmGPtRo48L9KvdMwcmEpbbGptjL0WYdAmYg"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E03AQEz9BQlAGDziA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668069322223?e=1785369600&v=beta&t=Id8_dYbHwtuFWoBHbAJUcrulmPZtm0mQTLAXjypGXaw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "7132",
+          "companyUrn": "urn:li:fsd_company:7132",
+          "companyLink1": "https://www.linkedin.com/company/bestseller/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKY5WMEUbf1A/company-logo_200_200/B4EZuSiRYmGoAI-/0/1767690017006/bestseller_logo?e=1785369600&v=beta&t=8VEnkZEIPjIxlWvnLY4ZV6PwBNRbIytqeHpBtmZXues",
+          "title": "BESTSELLER",
+          "subtitle": "Apprenticeship · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Tech Lead - Developer Platform",
+              "caption": "Sep 2025 - Present · 4 mos",
+              "metadata": "Brande, Region Midtjylland, Danmark",
+              "description": []
+            },
+            {
+              "title": "System Engineer",
+              "caption": "Dec 2022 - Sep 2025 · 2 yrs 9 mos",
+              "metadata": "Brande, Middle Jutland, Denmark",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A part of the Engineering Team where we touch upon\n  - Writing code in Golang and collaborating on GitHub\n  - Building Docker images\n  - Running workloads with Kubernetes\n  - Building pipelines using CircleCI and GitHub Actions\n  - Deploying with FluxCD\n  - Using Datadog as our observability tool\n  - Maintaining Google Cloud Platform landing zone\n  - Helping and educating developers using our platform, observability tool, Docker, Kubernetes, et cetera.\n  - Led developer meetings to introduce new tools and implementations, serving as the facilitator and presenter"
+                }
+              ]
+            },
+            {
+              "title": "Apprentice, IT Technical Engineering Services",
+              "caption": "Mar 2021 - Dec 2022 · 1 yr 9 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "10393211",
+          "companyUrn": "urn:li:fsd_company:10393211",
+          "companyLink1": "https://www.linkedin.com/company/azend/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGr4a6QQR9mZw/company-logo_400_400/company-logo_400_400/0/1727779969484/azend_logo?e=1785369600&v=beta&t=6MMXOIC6E_wDL3OfD6Z-klsPCxYuFSF7AiHVtPUBPGQ",
+          "title": "Fiks IT A/S ",
+          "subtitle": "Apprenticeship · 3 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "IT Operations Consultant",
+              "caption": "Jan 2019 - Feb 2021 · 2 yrs 1 mo",
+              "metadata": "Ikast, Region Midtjylland, Danmark",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "IT Operations Consultant doing third-level support, designing network setups, and implementation. Maintained data centre network and hypervisors. Primary contact and responsible for the largest customers."
+                }
+              ]
+            },
+            {
+              "title": "Network Specialist",
+              "caption": "Feb 2018 - Jan 2019 · 11 mos",
+              "metadata": "Ikast, Region Midtjylland, Danmark",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Network Specialist doing second-level support, designing network setups, and implementation. Maintained data centre network and hypervisors. Doing frequent updates of the servers and network equipment.\nMaintained everything from small office networks with five employees to large worldwide companies."
+                }
+              ]
+            },
+            {
+              "title": "IT Support Specialist",
+              "caption": "Dec 2017 - Feb 2018 · 2 mos",
+              "metadata": "Region Midtjylland, Danmark",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "First-level support for small and medium business customers. Both phone and physical on-site support."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2677",
+          "companyUrn": "urn:li:fsd_company:2677",
+          "companyLink1": "https://www.linkedin.com/company/mcdonald%27s-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHWxquJ9PJxvw/company-logo_400_400/company-logo_400_400/0/1630594652024/mcdonalds_corporation_logo?e=1785369600&v=beta&t=_wAoIOamPqfVOBTEe7pGAc3Rx14zD8-jkrbLMdVCqzY",
+          "title": "McDonald's",
+          "subtitle": "Part-time · 6 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Operations Manager",
+              "caption": "Aug 2014 - Sep 2017 · 3 yrs 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As Operations Manager, I was responsible for other Operations Managers for the restaurant. \nMy daily job was\n  - to lead 30 employees\n  - ensure high satisfaction among guests\n  - analyse sales\n  - plan personal and restaurant goals\n  - generate sale\n  - achieve goals\n  - ensure correct staffing according to budgeted sale\n\nOther than that, I helped maintain equipment according to McDonald's Planned Maintenance (PM) calendar.\nI had the full responsibility for\n  - handling goods\n  - inventory management\n  - inventory optimisation\n  - goods ordering\n  - receiving goods\n  - analysing inventory usage\n  - gross profit."
+                }
+              ]
+            },
+            {
+              "title": "Coach",
+              "caption": "Dec 2013 - Aug 2014 · 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As a coach at McDonald's, my job was to inspire, coach, develop and follow up on my coworkers' professional development, teach them the official procedures and ensure they followed.\n\nWe used \"Station Observation Checklists\" (SOC) to follow up and evaluate. The SOCs enabled us to give coworkers a score and thereby train them to improve till the next time."
+                }
+              ]
+            },
+            {
+              "title": "Servicemedarbejder",
+              "caption": "Aug 2011 - Dec 2013 · 2 yrs 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "As Servicemedarbejder, I had part responsibility for production and service.\nProduction responsibility was to ensure that we produced the correct amount of food to serve our guests at a satisfying level.\nService responsibility was to ensure that the coworkers and I were serving our guests looked happy, accommodating, and committed and didn't sound like a robot. I also had to ensure that my coworkers frequently checked our guests' eating areas to ensure cleanliness was to our standards."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Freelance Developer",
+          "subtitle": "CROFT . Freelance",
+          "caption": "Dec 2013 - May 2014 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At CROFT, I developed a webshop for the sale of climbing equipment. The CMS was WordPress which I designed a theme for. We utilised WooCommerce as an eCommerce plugin.\n\nCROFT was a small startup company with two employees to manage sales, inventory and customer service. I, as a freelancer, developed the webshop to appeal to the correct customer groups."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Maintenance Worker",
+          "subtitle": "Fjelstervang Farveri . undefined",
+          "caption": "2009 - 2013 · 4 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "At Fjelstervang Farveri, I cleaned and prepared large machinery during summer periods for the coming season.\nMy work consisted of\n  - Greasing or changing wheel bearings\n  - Dismantle motors that needed inspection by externals and remount them afterwards\n  - Load and unload trucks with goods\n\nIn the summer weeks, we were at least three people at work. There were more than ten machines to prepare, whereas the large ones took many days. We needed to be able to work independently but also as a team."
+              }
+            }
+          ]
+        },
+        {
+          "title": "IT Worker",
+          "subtitle": "Vestsalling Skole og Dagtilbud afd. Lem . undefined",
+          "caption": "2010 - 2011 · 1 yr",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Vestsalling Skole og Dagtilbud is a school in a small town called Lem. I was very young but already had a flair for IT and structured working habits.\nMy work consisted of\n  - keeping all computers fully functional, which was easier said than done since students tore them apart every day\n  - Loan out laptops\n  - Change hardware if needed"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "16202254",
+          "companyUrn": "urn:li:fsd_company:16202254",
+          "companyLink1": "https://www.linkedin.com/school/cisco-networking-academy1/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkiQ8pB1hYow/company-logo_400_400/B4DZcSgOD1HMAc-/0/1748362125886/cisco_networking_academy1_logo?e=1785369600&v=beta&t=AEOUlqh6dKgNdvdtYmeq2cIetULhURzpf063ndqvRAk",
+          "title": "CCNA Routing and Switching: Introduction to Networks",
+          "subtitle": "Cisco Networking Academy",
+          "issued": "Issued Apr 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "6460",
+          "companyUrn": "urn:li:fsd_company:6460",
+          "companyLink1": "https://www.linkedin.com/company/fortinet/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIQ_eNe9b1jg/company-logo_400_400/company-logo_400_400/0/1688016806462/fortinet_logo?e=1785369600&v=beta&t=XmiLt_ujal_I13bgtnus60VPTFs3UIYWL8W7DPB9rI4",
+          "title": "NSE 2 Network Security Associate",
+          "subtitle": "Fortinet",
+          "issued": "Issued Aug 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "6460",
+          "companyUrn": "urn:li:fsd_company:6460",
+          "companyLink1": "https://www.linkedin.com/company/fortinet/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIQ_eNe9b1jg/company-logo_400_400/company-logo_400_400/0/1688016806462/fortinet_logo?e=1785369600&v=beta&t=XmiLt_ujal_I13bgtnus60VPTFs3UIYWL8W7DPB9rI4",
+          "title": "NSE 1 Network Security Associate",
+          "subtitle": "Fortinet",
+          "issued": "Issued Aug 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "Dansk",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engelsk",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Kundekontakt",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Netværksdesign",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Løsningsimplementering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Routing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Netværkssikkerhed",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VPN",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teknisk support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fejlfinding",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Pipeline Construction",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GitHub",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Cloud Platform (GCP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Google Kubernetes Engine (GKE)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Personaleansvar",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Procesforbedring",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Mercantec",
+          "subtitle": "Data Technician , Infrastructure ",
+          "caption": "2017 - 2022",
+          "subComponents": []
+        },
+        {
+          "title": "Skive Teknisk Gymnasium (HTX)",
+          "subtitle": "HTX, Kommunikation / IT",
+          "caption": "2011 - 2014",
+          "subComponents": []
+        },
+        {
+          "title": "Vest Salling Skole & Dagtilbud",
+          "subtitle": "Folkeskole, null",
+          "caption": "2002 - 2011",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "title": "Server ansvarlig og programmør",
+          "subtitle": "Gamespawn",
+          "caption": "Oct 2016 - Dec 2019 · 3 yrs 2 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

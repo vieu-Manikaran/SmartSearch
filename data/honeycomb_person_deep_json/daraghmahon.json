@@ -1,0 +1,530 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/daraghmahon",
+  "row_key": "id:003Uk00000rOp58IAC",
+  "person": "Daragh Mahon",
+  "account": "Werner Enterprises, Inc.",
+  "fetched_at": "2026-07-14T10:47:27Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAiynsBvDwAbp9oejNfhMUR1AMpcl2r2c4",
+      "firstName": "Daragh",
+      "lastName": "Mahon",
+      "fullName": "Daragh Mahon",
+      "publicIdentifier": "daraghmahon",
+      "headline": "EVP & CIO at Werner Enterprises | From the Cab to the Cloud: Transforming Logistics through Innovation | WSJ Tech Council | Driving Werner EDGE",
+      "about": "EVP & CIO with 25+ years running enterprise IT and leading large scale technology transformation. I modernize applications, platforms, and systems by making complex migrations and integrations easy, moving companies off legacy tech and into cloud first environments that scale.\n\nAt Werner Enterprises, I run IT operations and lead the technology transformation for a $3.5B+ logistics  company, driving enterprise SaaS platforms including Salesforce, Workday, and Mastery to modernize operations and how freight moves.\n\nI believe IT is a product organization, not a service desk, and it must be part of the business conversation. I value accountability over activity, simplicity over complexity, and technology that delivers real results, period.",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Transportation/Trucking/Railroad",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Omaha Metropolitan Area United States",
+      "addressWithoutCountry": "Omaha Metropolitan Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHw9Auo9K9l-A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707680074079?e=1785369600&v=beta&t=RLXO2jKVzb9xbcFhXBDtFM9CXlWSaz6hgaSbV0HRiYI",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQGPVv4A3-Qpuw/profile-displaybackgroundimage-shrink_350_1400/B56ZzStsc4IYAY-/0/1773061720428?e=1785369600&v=beta&t=WJxVHYh_NwhedSBeU_LqZzw74LXxwX7WLX36fPSzOyE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHw9Auo9K9l-A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707680074079?e=1785369600&v=beta&t=z08cmmzH0G8uUKsIvF2IW4Irn0ybkh7A6j640cKBCJ4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHw9Auo9K9l-A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707680074079?e=1785369600&v=beta&t=vLjNxCBH0xCppWeU7GLfvgetH6IrFuc0hSQYp1MNVqM"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHw9Auo9K9l-A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707680074079?e=1785369600&v=beta&t=Yn_2SMJpa0QHxtnzOLA_wWba38xrjqPgKnU9Xc2Adpk"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHw9Auo9K9l-A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707680074079?e=1785369600&v=beta&t=RLXO2jKVzb9xbcFhXBDtFM9CXlWSaz6hgaSbV0HRiYI"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQGPVv4A3-Qpuw/profile-displaybackgroundimage-shrink_200_800/B56ZzStsc4IYAU-/0/1773061720428?e=1785369600&v=beta&t=YS400Z166nW0IYY9lKjKEXJiLqb0bEjPG6SeoBH3D-w"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQGPVv4A3-Qpuw/profile-displaybackgroundimage-shrink_350_1400/B56ZzStsc4IYAY-/0/1773061720428?e=1785369600&v=beta&t=WJxVHYh_NwhedSBeU_LqZzw74LXxwX7WLX36fPSzOyE"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "12586",
+          "companyUrn": "urn:li:fsd_company:12586",
+          "companyLink1": "https://www.linkedin.com/company/werner-enterprises/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAK3LmTyMsrA/company-logo_400_400/company-logo_400_400/0/1737154595689/werner_enterprises_logo?e=1785369600&v=beta&t=20ZSiGgtgVf7Ay72nPY2zknfCOtqd4PtVORDmNYfGew",
+          "title": "EVP & Chief Information Officer",
+          "subtitle": "Werner Enterprises . Full-time",
+          "caption": "Jun 2020 - Present · 5 yrs 7 mos",
+          "metadata": "Omaha, Nebraska, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Leading the digital revolution for a $3B+ North American logistics leader and one of the largest truckload carriers in North America. Our focus is on transitioning Werner from legacy infrastructure to a high-velocity, cloud-native ecosystem that redefines how freight moves across North America."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "101176841",
+          "companyUrn": "urn:li:fsd_company:101176841",
+          "companyLink1": "https://www.linkedin.com/company/tech-nebraska/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGFCVy_FbboHA/company-logo_400_400/company-logo_400_400/0/1700002888650/tech_nebraska_logo?e=1785369600&v=beta&t=9ZNiJJ9z84YatdG-AHGsa3HTLzWph_41RX1qSIbbfWM",
+          "title": "Member of Executive Committee",
+          "subtitle": "Tech Nebraska . Part-time",
+          "caption": "Apr 2024 - Present · 1 yr 9 mos",
+          "metadata": "Omaha, Nebraska, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6453825",
+          "companyUrn": "urn:li:fsd_company:6453825",
+          "companyLink1": "https://www.linkedin.com/company/samsara/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGJd8HDfSEaLg/company-logo_400_400/company-logo_400_400/0/1728335806865/samsara_logo?e=1785369600&v=beta&t=rPtVuGYb3PVjstyRp40RxetagLki74E6UxERRiys_7s",
+          "title": "Member Customer Advisory Board",
+          "subtitle": "Samsara . Part-time",
+          "caption": "Aug 2025 - Present · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "102631556",
+          "companyUrn": "urn:li:fsd_company:102631556",
+          "companyLink1": "https://www.linkedin.com/company/wsj-leadership-institute/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGx1u6HDQs2wg/company-logo_400_400/company-logo_400_400/0/1736962145645/wsj_ceo_council_logo?e=1785369600&v=beta&t=7CzPliGWcot2JWtY_0i9yHqQFUeHbFoUyPCKmpZcdZg",
+          "title": "Member Wall Street Journal Technology Council",
+          "subtitle": "WSJ Leadership Institute . Part-time",
+          "caption": "Aug 2025 - Present · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "17719",
+          "companyUrn": "urn:li:fsd_company:17719",
+          "companyLink1": "https://www.linkedin.com/company/workday/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKeNem9seahg/company-logo_400_400/company-logo_400_400/0/1730301071878/workday_logo?e=1785369600&v=beta&t=RuzfTnXu2NRqa1UvgwUmrW9vylcKh_YM-slGd7QQyFQ",
+          "title": "Member CIO Advisory Board",
+          "subtitle": "Workday . Part-time",
+          "caption": "Jun 2022 - Present · 3 yrs 7 mos",
+          "metadata": "Omaha, Nebraska, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3185",
+          "companyUrn": "urn:li:fsd_company:3185",
+          "companyLink1": "https://www.linkedin.com/company/salesforce/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFuQMSI3zgmRw/company-logo_100_100/B56Z3aploQGoAQ-/0/1777489828808/salesforce_logo?e=1785369600&v=beta&t=Gnuo0ouQhGzyy5QRnWSEFz8AnMpJCNllTYgrBjVeb2I",
+          "title": "Member CIO Advisory Board",
+          "subtitle": "Salesforce . Part-time",
+          "caption": "Dec 2025 - May 2026 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "11075183",
+          "companyUrn": "urn:li:fsd_company:11075183",
+          "companyLink1": "https://www.linkedin.com/company/forbestechcouncil/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGWm60rwBPz-Q/company-logo_400_400/company-logo_400_400/0/1659656352490/forbestechcouncil_logo?e=1785369600&v=beta&t=yab5somf9PYaIFMSpQCD_dYXGPN2qodaUYM9e0xVt-o",
+          "title": "Official Member",
+          "subtitle": "Forbes Technology Council . Part-time",
+          "caption": "Jan 2021 - Dec 2025 · 4 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "407222",
+          "companyUrn": "urn:li:fsd_company:407222",
+          "companyLink1": "https://www.linkedin.com/company/cloudflare/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG16gpXzS14DQ/company-logo_400_400/company-logo_400_400/0/1630499898593/cloudflare_logo?e=1785369600&v=beta&t=DYlrO2as5I8k50oAWJYXoEHLeq0KQ51YASendM-74bs",
+          "title": "Member Customer Advisory Board",
+          "subtitle": "Cloudflare . Part-time",
+          "caption": "Jul 2023 - Oct 2024 · 1 yr 3 mos",
+          "metadata": "Omaha, Nebraska, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3185",
+          "companyUrn": "urn:li:fsd_company:3185",
+          "companyLink1": "https://www.linkedin.com/company/salesforce/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFuQMSI3zgmRw/company-logo_100_100/B56Z3aploQGoAQ-/0/1777489828808/salesforce_logo?e=1785369600&v=beta&t=Gnuo0ouQhGzyy5QRnWSEFz8AnMpJCNllTYgrBjVeb2I",
+          "title": "Salesforce",
+          "subtitle": "Part-time · 3 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Customer Success Advisory Board Member",
+              "caption": "Apr 2018 - Jun 2021 · 3 yrs 2 mos",
+              "metadata": "Atlanta, Georgia, United States",
+              "description": []
+            },
+            {
+              "title": "CPQ Advisory Board Member",
+              "caption": "Apr 2018 - Jun 2020 · 2 yrs 2 mos",
+              "metadata": "Atlanta, Georgia, United States",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5028",
+          "companyUrn": "urn:li:fsd_company:5028",
+          "companyLink1": "https://www.linkedin.com/company/vonage/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAjkQnOKbUzw/company-logo_400_400/company-logo_400_400/0/1701277430733/vonage_logo?e=1785369600&v=beta&t=aOSPsqvBm3ks-nwJ85pfqKv_ptPs7WEp5UWcy-6ubHw",
+          "title": "Vonage",
+          "subtitle": "Full-time · 5 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Vice President - Global IT and Business Applications",
+              "caption": "Mar 2019 - May 2020 · 1 yr 2 mos",
+              "metadata": "Alanta GA",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led the Global Corporate IT and Business Application teams at Vonage, driving the overall IT and applications strategy.  \n• Focused on creating secure, simple, and scalable cloud solutions to enhance employee efficiency.  \n• Ensured exceptional customer interactions by optimizing business applications and IT infrastructure."
+                }
+              ]
+            },
+            {
+              "title": "General Manager/Site Leader",
+              "caption": "Dec 2018 - May 2020 · 1 yr 5 mos",
+              "metadata": "Atlanta, Georgia, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "General Manager/Site Leader for ~500 employee Vonage Campus in Atlanta GA."
+                }
+              ]
+            },
+            {
+              "title": "Vice President, IT and Business Applications",
+              "caption": "Jun 2016 - Mar 2019 · 2 yrs 9 mos",
+              "metadata": "Greater Atlanta Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led the establishment of the first IT & Business Applications & Services teams at Vonage.  \n• Spearheaded the transition of all applications and services to a public cloud and SaaS-centric model.  \n• Navigated significant challenges while achieving a rewarding transformation in the organization."
+                }
+              ]
+            },
+            {
+              "title": "Sr. Director, Business Services",
+              "caption": "Jan 2015 - Jun 2016 · 1 yr 5 mos",
+              "metadata": "Greater Atlanta Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Led the Business Applications team at Vonage, overseeing application support for systems like Salesforce and Jira.  \n• Successfully launched a Salesforce practice in 2015, enhancing operational efficiency and customer service.  \n• Spearheaded a transformative quote to cash project, revolutionizing the sales and provisioning processes for Vonage Business."
+                }
+              ]
+            },
+            {
+              "title": "Director of Business Services",
+              "caption": "Oct 2014 - Jan 2015 · 3 mos",
+              "metadata": "Greater Atlanta Area",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Data Conversion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SAP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ERP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Launches",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Process Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SaaS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Order to Cash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Process Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Problem Solving",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Contract Negotiations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Building",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Inventory Control",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Warehousing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Supply Chain Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Supplier Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Inventory Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operations Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Purchasing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2625",
+          "companyUrn": "urn:li:fsd_company:2625",
+          "companyLink1": "https://www.linkedin.com/school/columbia-business-school/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFuv0h5ca1E_g/company-logo_400_400/company-logo_400_400/0/1630639656847/columbia_business_school_logo?e=1785369600&v=beta&t=1WarhJonWQOdGm25MVW1MaEOCGc-fNz-hWeG887Yl-8",
+          "title": "Columbia Business School",
+          "subtitle": "Executive Education, Leading Strategic Growth",
+          "caption": "2017 - 2018",
+          "subComponents": []
+        },
+        {
+          "companyId": "860289",
+          "companyUrn": "urn:li:fsd_company:860289",
+          "companyLink1": "https://www.linkedin.com/school/tus-athlone/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE9QYex63iApA/company-logo_400_400/company-logo_400_400/0/1729506712229/tus_athlone_logo?e=1785369600&v=beta&t=z59YvvenmgDVeGKZDj1Zm33X---t25DHu-DM00cl7sA",
+          "title": null,
+          "subtitle": "null, Plastic Engineering",
+          "caption": "1992 - 1993",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "157306",
+          "companyUrn": "urn:li:fsd_company:157306",
+          "companyLink1": "https://www.linkedin.com/company/american-heart-association/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGkbfwG3S0TkQ/company-logo_400_400/company-logo_400_400/0/1631374527549/american_heart_association_logo?e=1785369600&v=beta&t=OK5BN_bR6mRRHIvZ_KhPnHwpM9azKH5kwwJ1SyjzvQA",
+          "title": "Executive Leadership Team Member Heart Ball",
+          "subtitle": "American Heart Association",
+          "caption": "May 2021 - Present · 4 yrs 8 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "27105775",
+          "companyUrn": "urn:li:fsd_company:27105775",
+          "companyLink1": "https://www.linkedin.com/company/cistomaha/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFSX2JnAM_2jQ/company-logo_400_400/B56ZrpCHbFLMAc-/0/1764846237736/cistomaha_logo?e=1785369600&v=beta&t=h5EuSGjOF3fQhcyqu2sbC2RvGISd5rsPrB2EKYI9-nY",
+          "title": "IS&T College Advisory Council",
+          "subtitle": "University of Nebraska at Omaha College of Information Science & Technology",
+          "caption": "Sep 2020 - Jan 2022 · 1 yr 4 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "229978",
+          "companyUrn": "urn:li:fsd_company:229978",
+          "companyLink1": "https://www.linkedin.com/company/zuora/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFJOABsniNl_A/company-logo_400_400/company-logo_400_400/0/1661356010860/zuora_logo?e=1785369600&v=beta&t=KB_e0dBFy9zuvvz8fqxA5KGQOIMX_fF0-DDlGJxjAeI",
+          "title": "Customer Advisory Board Member",
+          "subtitle": "Zuora",
+          "caption": "Apr 2016 - Dec 2019 · 3 yrs 8 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

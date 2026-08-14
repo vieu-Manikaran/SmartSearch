@@ -1,0 +1,259 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/james-pacheco-57bb5517",
+  "row_key": "id:0033l00002z0VWUAA2",
+  "person": "James Pacheco",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:45:51Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAONLe8BuYfV-uhsPqtnKGX93UKrnCQnR2k",
+      "firstName": "James",
+      "lastName": "Pacheco",
+      "fullName": "James Pacheco",
+      "publicIdentifier": "james-pacheco-57bb5517",
+      "headline": "Sr. Site Reliability Engineer",
+      "about": "In my years in systems, I've come up with four rules:\n1. Don't be a monkey. Monkey's can be trained to perform the same task repeatedly. Your job is to look beyond that and let the computer be the monkey.\n2. There's no such thing as a 15 minute task. Context switch alone will cost you more than this. If someone is asking you to do something, it's already more than 15 minutes. Always assume that any give task is at least half a day's work.\n3. There's no such thing as a one-off. Anything you're doing now will need to be done again. From there, see Rule 1.\n4. Every temporary solution becomes permanent. Once a group has found a workable solution to a problem, they move on. If the 'workable solution' is 'assign to a person', see Rule 1. Try to solve the problem as best as you can the first time, because  you should expect that solution to be around for a very long time.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHFfnNByClwlQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516772262118?e=1785369600&v=beta&t=PyD899u9xPutUSMo0fyJFS6062oLP6PsfZwgUU5gKcE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHFfnNByClwlQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516772262205?e=1785369600&v=beta&t=NO0hKZZ_1PCMPIrvu4OVEQWyV_cmNH2FRhF-IQHP4sI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHFfnNByClwlQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516772262118?e=1785369600&v=beta&t=rVr7PdDjtzidKAH0-usvn75OgxxHsNFEsBWf-l91pF0"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHFfnNByClwlQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516772262035?e=1785369600&v=beta&t=NvdIboV4RC0HDj348jaF84AgOAV8N0MDlmpiCnz5E1I"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHFfnNByClwlQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516772262118?e=1785369600&v=beta&t=PyD899u9xPutUSMo0fyJFS6062oLP6PsfZwgUU5gKcE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Sr. Site Reliability Engineer",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Nov 2021 - Mar 2026 · 4 yrs 4 mos",
+          "metadata": "Seattle, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1586",
+          "companyUrn": "urn:li:fsd_company:1586",
+          "companyLink1": "https://www.linkedin.com/company/amazon/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1785369600&v=beta&t=XmP2HlUa1Jm5ONLttIhQ3iBfR84bLjTmnpPM9oBeryo",
+          "title": "System Development Engineer",
+          "subtitle": "Amazon . Full-time",
+          "caption": "Dec 2011 - Aug 2021 · 9 yrs 8 mos",
+          "metadata": "Seattle, WA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Act as technical lead for a team of 4 to 9 engineers across two time zones, providing guidance on topics including code review and Agile best practices to solve complex org-level problems.\n\nCreate tools, including Slack bots, which reduce engineering effort preparing for and running “Peak” events such as PrimeDay sales, reducing preparation effort by 40 weeks per year, and time to resolve by 10 minutes per issue\n\nCreate tools which save the company infrastructure costs, most recently a dashboard with a unique visualization developed in D3.JS\n\nAssist teams with infrastructure budgeting and procurement, including projects which saved the company $2.8MM over the course of 2 years.\n\nCreate tools which save the company manual effort, including a tool which saves the efforts of half a full-time employee per year in managing ETL jobs\n\nAct as guide and point of contact for organizational operational excellence best practices\n\nServe as on duty technician for high severity issues for approximately 60 services.\n\nAssist teams with setup and maintenance of services using Continuous Deployment and Infrastructure as Code techniques"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "51001",
+          "companyUrn": "urn:li:fsd_company:51001",
+          "companyLink1": "https://www.linkedin.com/company/american-mathematical-society/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFaIcr7TjG-eA/company-logo_400_400/company-logo_400_400/0/1631320961957?e=1785369600&v=beta&t=Tpe15JWYoHO2ChNBXtMDll-WDJvIBbTxvFBDrS5p3Oc",
+          "title": "Application Support Analyst",
+          "subtitle": "American Mathematical Society . undefined",
+          "caption": "Sep 2007 - Jul 2011 · 3 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Unix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perl",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ruby",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cucumber",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "RSpec",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "21694",
+          "companyUrn": "urn:li:fsd_company:21694",
+          "companyLink1": "https://www.linkedin.com/school/rhode-island-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGO0pcgK13XqQ/company-logo_400_400/company-logo_400_400/0/1688405547533/rhode_island_college_logo?e=1785369600&v=beta&t=GYP-Nl3308UTF-8ohF8KGVnj6ryDj3tbpsLmQwJuLFU",
+          "title": null,
+          "subtitle": "BA, Computer Science, Math Minor",
+          "caption": "1999 - 2006",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

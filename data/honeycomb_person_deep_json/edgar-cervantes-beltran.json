@@ -1,0 +1,451 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/edgar-cervantes-beltran",
+  "row_key": "id:003Uk00000pqpIsIAI",
+  "person": "Edgar Cervantes",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:18Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAfTdHkBYVKfTpXX-A_M-wbJtFmN7oJtynA",
+      "firstName": "Edgar",
+      "lastName": "Cervantes",
+      "fullName": "Edgar Cervantes",
+      "publicIdentifier": "edgar-cervantes-beltran",
+      "headline": "DevOps at Epic Games",
+      "about": "Resourceful DevOps engineer with 7+ years of experience, plus 17+ years of experience in Infrastructure and virtualization. Great passion to automate even the most minuscule of the tasks.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Entertainment",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Apex, North Carolina United States",
+      "addressWithoutCountry": "Apex, North Carolina",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEXRIy9hezjdw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664330823371?e=1785369600&v=beta&t=3yc2263Uoclpe7lbALe1gVrNfNGsLFY0eFFUz4k7bb0",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEQQLqNFTwYCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1664335541126?e=1785369600&v=beta&t=Bc0GtGEdlYWg4I9XEaG0IuDJ4wWGFo0nMVYmGkxQEiA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEXRIy9hezjdw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664330823371?e=1785369600&v=beta&t=Ouob2Yswy_PszKWAEQcWps_0hCeetL1gm8WZjybz9Ww"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEXRIy9hezjdw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1664330823371?e=1785369600&v=beta&t=msJ2zR2nhfydbO2TQIMKTu50kLN5Sf1hXmhGxDO--TU"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEXRIy9hezjdw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1664330823371?e=1785369600&v=beta&t=Y6TD9XPAo2oMzCSsNhPW5Cc5yelOm0nbTnPKXwreHfk"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEXRIy9hezjdw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664330823371?e=1785369600&v=beta&t=3yc2263Uoclpe7lbALe1gVrNfNGsLFY0eFFUz4k7bb0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 798,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEQQLqNFTwYCw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1664335541126?e=1785369600&v=beta&t=NIrr7v2kHSHQu-nhyhKZGOZNdBjE6hUjHEf77oSqfHs"
+        },
+        {
+          "width": 1170,
+          "height": 293,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEQQLqNFTwYCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1664335541126?e=1785369600&v=beta&t=Bc0GtGEdlYWg4I9XEaG0IuDJ4wWGFo0nMVYmGkxQEiA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "DevOps Engineer",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Oct 2022 - Present · 3 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "57010",
+          "companyUrn": "urn:li:fsd_company:57010",
+          "companyLink1": "https://www.linkedin.com/company/syntax_57010/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHKHpD_M9h_cA/company-logo_400_400/company-logo_400_400/0/1695752068397/syntax_57010_logo?e=1785369600&v=beta&t=k7fPh5y7m-lrrsA34FXgs2h1os0slYAlOo_GlZNAFzs",
+          "title": "Syntax",
+          "subtitle": "Full-time · 7 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "DevOps Engineer",
+              "caption": "Oct 2018 - Sep 2022 · 3 yrs 11 mos",
+              "metadata": "Morrisville, North Carolina, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developing infrastructure management tools for private and public cloud. Configuration Management, and automation for distributed systems and services using CI/CD."
+                }
+              ]
+            },
+            {
+              "title": "Platforms Engineer (Windows)",
+              "caption": "Jun 2015 - Oct 2018 · 3 yrs 4 mos",
+              "metadata": "Raleigh-Durham-Chapel Hill Area",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Vmware/Windows Administrator - OSW",
+          "subtitle": "Freudenberg IT LP . undefined",
+          "caption": "Oct 2014 - Jun 2015 · 8 mos",
+          "metadata": "Puebla de Zaragoza y alrededores, México",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5344",
+          "companyUrn": "urn:li:fsd_company:5344",
+          "companyLink1": "https://www.linkedin.com/company/softtek/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGPNg8TewdnIg/company-logo_400_400/company-logo_400_400/0/1699028835508/softtek_logo?e=1785369600&v=beta&t=VfshibBtM3Kvxr3x9C2lcpVwUxoWIhq72T85FNqrJZc",
+          "title": "L3 Systems Support – Electronic Arts",
+          "subtitle": "Softtek . undefined",
+          "caption": "Jan 2014 - Sep 2014 · 8 mos",
+          "metadata": "Aguascalientes y alrededores, México",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Xbox live windows server platform Administration and AD Administration of Several Forests."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1592",
+          "companyUrn": "urn:li:fsd_company:1592",
+          "companyLink1": "https://www.linkedin.com/company/t-systems/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH3_3-20Fa0wQ/company-logo_200_200/B4EZfEjOFRHYAU-/0/1751349257322/t_systems_logo?e=1785369600&v=beta&t=DPzXcdnvVgGt2p7J_rErM131gbUn5TEJ_KLKDavxXaU",
+          "title": "T-Systems",
+          "subtitle": "undefined · 5 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Windows and VMware Engineer",
+              "caption": "Mar 2011 - Jan 2014 · 2 yrs 10 mos",
+              "metadata": "Puebla de Zaragoza y alrededores, México",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Customer technical leader for windows/vmware infrastructure."
+                }
+              ]
+            },
+            {
+              "title": "Technical Support Specialist",
+              "caption": "Oct 2008 - Mar 2011 · 2 yrs 5 mos",
+              "metadata": "Puebla de Zaragoza y alrededores, México",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Administration of users in Active Directory and Oracle E-business. Routing incidents to the proper 2nd level team."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "800375",
+          "companyUrn": "urn:li:fsd_company:800375",
+          "companyLink1": "https://www.linkedin.com/company/peoplecert-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEY66hkTvsA5A/company-logo_400_400/company-logo_400_400/0/1726662854655/peoplecert_group_logo?e=1785369600&v=beta&t=vqQcwphGaa4TTugagUdIyX56yS2M6tSj05-Ol5RExSE",
+          "title": "ITIL Foundation",
+          "subtitle": "PEOPLECERT",
+          "issued": "Issued Aug 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2988",
+          "companyUrn": "urn:li:fsd_company:2988",
+          "companyLink1": "https://www.linkedin.com/company/vmware/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzpbXCUplXJw/company-logo_400_400/company-logo_400_400/0/1716485708320/vmware_logo?e=1785369600&v=beta&t=YYQpwqFu9rndzhl2DhV7vca8Iivp6BfABbu6rWFjFFw",
+          "title": "VMware Certified Professional – Data Center Virtualization (VCP-DCV)",
+          "subtitle": "VMware",
+          "issued": "Issued Nov 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PRO: Windows Server 2008, Server Administrator",
+          "subtitle": "Microsoft",
+          "issued": "Issued Jan 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "GitHub",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Terraform",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Acitve directory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ServiceNow",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SCCM",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Root Cause Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "sccm",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PowerCLI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Group Policy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware vSphere",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Configuration Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ITIL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Instituto Tecnológico de Puebla",
+          "subtitle": "N/A, Informatics",
+          "caption": "2001 - 2004",
+          "subComponents": []
+        },
+        {
+          "companyId": "15094849",
+          "companyUrn": "urn:li:fsd_company:15094849",
+          "companyLink1": "https://www.linkedin.com/school/universidad-de-oriente-mx-/",
+          "title": "Universidad de Oriente (MX)",
+          "subtitle": "null, null",
+          "caption": "2004 - 2006",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Acquire new windows/vmware Services for ICW group",
+          "subtitle": "Sep 2014 - Sep 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for the planning, taking and go live of new services for a new customer for Softtek.\n- Creation of a plan to take over the new services.\n- Selection of personel to participate in the proyect.\n- Responsible for leading the knowledge transfer phase.\n- Coordinate and audit the whole knowledge transfer process on site (US)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

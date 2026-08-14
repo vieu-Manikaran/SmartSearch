@@ -1,0 +1,738 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/haroonrchughtai",
+  "row_key": "id:003Uk00000yfYrMIAU",
+  "person": "Haroon Chughtai",
+  "account": "University College London",
+  "fetched_at": "2026-07-14T10:35:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAA3DGogBNn6USQpjW9u_i3K3-oBgGAf9tFk",
+      "firstName": "Haroon",
+      "lastName": "Chughtai",
+      "fullName": "Haroon Chughtai",
+      "publicIdentifier": "haroonrchughtai",
+      "headline": "Senior Research Software Engineer | Registered Clinical Scientist",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Research",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEVgE1CRKEEmQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581630483052?e=1785369600&v=beta&t=KifxailZHF-sQTUf1H4dLFRfYs8YE8alIDs2P5CAybw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEVgE1CRKEEmQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1581630482988?e=1785369600&v=beta&t=DDFnLR1vcAeG8u2nKDw8vF7ktzgLM2MEU63VkX_rj1g"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEVgE1CRKEEmQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1581630482965?e=1785369600&v=beta&t=2eS9lbgv_n7shevxd69np-TCOkKK3H75No_v1_fG7rA"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEVgE1CRKEEmQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1581630483017?e=1785369600&v=beta&t=_ajCgFZF15VFPhlq3u2_8k_AcuITvWiwYjO3BbGH2ZE"
+        },
+        {
+          "width": 794,
+          "height": 794,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQEVgE1CRKEEmQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581630483052?e=1785369600&v=beta&t=KifxailZHF-sQTUf1H4dLFRfYs8YE8alIDs2P5CAybw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "UCL",
+          "subtitle": "undefined · 5 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Research Software Engineer",
+              "caption": "Feb 2022 - Present · 3 yrs 11 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I'm co-lead of the Medical Imaging Research Software Group; a joint initiative between the Collaborations team within the Centre for Advanced Research Computing (ARC), and with the Centre for Medical Image Computing (CMIC).\n\nI focus around medical imaging computing infrastructure including deploying and supporting XNAT at UCL, developing reproducible analytical pipelines and supporting safe data transfer from clinical sites."
+                }
+              ]
+            },
+            {
+              "title": "Research Software Engineer",
+              "caption": "Feb 2020 - Jan 2022 · 1 yr 11 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "96699",
+          "companyUrn": "urn:li:fsd_company:96699",
+          "companyLink1": "https://www.linkedin.com/company/uclh-nhs-foundation-trust/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGFI_4EBq0gTw/company-logo_400_400/company-logo_400_400/0/1667818626983/uclh_nhs_foundation_trust_logo?e=1785369600&v=beta&t=jHkQ1Kw4ammVzy-nZmd-u8n0r4m2DA5Ie1gB_ljqfJU",
+          "title": "Honorary Senior Researcher",
+          "subtitle": "University College London Hospitals NHS Foundation Trust . undefined",
+          "caption": "May 2020 - Present · 5 yrs 8 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As part of my Research Software Developer role at UCL, I have an honorary appointment at UCLH to facilitate working with the UCL/UCLH BRC Clinical and Research Informatics Unit (CRIU) to support the usage of medical imaging data for research across UCL and UCLH"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "96699",
+          "companyUrn": "urn:li:fsd_company:96699",
+          "companyLink1": "https://www.linkedin.com/company/uclh-nhs-foundation-trust/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGFI_4EBq0gTw/company-logo_400_400/company-logo_400_400/0/1667818626983/uclh_nhs_foundation_trust_logo?e=1785369600&v=beta&t=jHkQ1Kw4ammVzy-nZmd-u8n0r4m2DA5Ie1gB_ljqfJU",
+          "title": "University College London Hospitals NHS Foundation Trust",
+          "subtitle": "undefined · 3 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Clinical Scientist - Scientific Computing",
+              "caption": "Aug 2019 - Jan 2020 · 5 mos",
+              "metadata": "London, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Honorary Trainee Clinical Scientist - Clinical Informatics (Physical Sciences)",
+              "caption": "Sep 2016 - Jul 2019 · 2 yrs 10 mos",
+              "metadata": "London, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Primary training centre whilst I was on the NHS Scientist Training Programme, as part of the London North Medical Physics Training Consortium. I was based in the Medical Physics and Biomedical Engineering department, within the Scientific Computing section."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "4171",
+          "companyUrn": "urn:li:fsd_company:4171",
+          "companyLink1": "https://www.linkedin.com/school/university-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvGiaUra6wrQ/company-logo_100_100/B4EZ0GP5OiG8AQ-/0/1773926323603/university_college_london_logo?e=1785369600&v=beta&t=nmwpmLR9DPaOsEy7UwWAfYqZnRHowhLsUDra8M5s6v0",
+          "title": "Associate Staff, Institute of Health Informatics",
+          "subtitle": "UCL . undefined",
+          "caption": "Sep 2018 - Sep 2019 · 1 yr",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "481710",
+          "companyUrn": "urn:li:fsd_company:481710",
+          "companyLink1": "https://www.linkedin.com/company/st-georges-healthcare-nhs-trust/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFNqLcuHPxhzw/company-logo_400_400/company-logo_400_400/0/1663665565277/st_georges_healthcare_nhs_trust_logo?e=1785369600&v=beta&t=Fi6tLuNTcPNHgR9Kh4FVBjWLHM8fGo5TQsk8BZl-5DY",
+          "title": "Trainee Clinical Scientist - London North Medical Physics Training Consortium",
+          "subtitle": "St George's University Hospitals NHS Foundation Trust . Full-time",
+          "caption": "Sep 2016 - Jul 2019 · 2 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Substantive employer whilst I was undertaking the NHS Scientist Training Programme. Primary training occurred at UCLH, with rotations at GOSH and HCA Healthcare UK."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7763",
+          "companyUrn": "urn:li:fsd_company:7763",
+          "companyLink1": "https://www.linkedin.com/school/macquarie-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHgM3o1lpuRVA/company-logo_400_400/company-logo_400_400/0/1719459629099/macquarie_university_logo?e=1785369600&v=beta&t=NKfibu3zWn9iz8CVf0ftiAD81qiGgnkngoqRP2HY_LE",
+          "title": "Visiting Scholar, Centre for Health Informatics",
+          "subtitle": "Macquarie University . undefined",
+          "caption": "Sep 2018 - Nov 2018 · 2 mos",
+          "metadata": "Sydney, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Visiting scholar appointment with the Patient Safety team, Centre for Health Informatics at the Australian Institute of Health Innovation"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "398832",
+          "companyUrn": "urn:li:fsd_company:398832",
+          "companyLink1": "https://www.linkedin.com/company/visbion/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFb7-dDZfSEtg/company-logo_200_200/B4EZgi3f.ZGwAM-/0/1752931631548?e=1785369600&v=beta&t=dRgMWQad3L4jpim4mqex9ZP4d55ZLxSwCnQMjxpiLNY",
+          "title": "Researcher / Technical Author",
+          "subtitle": "Visbion . undefined",
+          "caption": "Aug 2015 - Sep 2015 · 1 mo",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As part of a project funded by an Innovate UK SMART award, I was contracted to research and document the scope of software resources available to the design stage in synthetic biology. This involved an expansive literature search, gaining familiarity with new tools and summarising my findings in a detailed report to be passed onto the software development stage of the project."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial iGEM 2014 Team Member",
+          "subtitle": "Imperial College London . undefined",
+          "caption": "Jul 2014 - Nov 2014 · 4 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "As part of the 2014 Imperial College London iGEM team I helped develop customisable bacterial cellulose-based ultrafiltration membranes using synthetic biology approaches. \n\nAs part of the diverse team I saw the project through from initial brainstorming to prototyping. Through our efforts we achieved 2nd place in the world at the international jamboree in Boston as well as winning the Manufacturing Track and several other awards. \n\nIn addition to the group tasks my primary responsibility was the development of the website to host information about the project as well as the design and construction of the conference poster. This involved coordinating between the various sub-teams to create a consistent yet technical narrative."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "81786",
+          "companyUrn": "urn:li:fsd_company:81786",
+          "companyLink1": "https://www.linkedin.com/company/the-health-and-care-professions-council/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH2RftQbqHHgQ/company-logo_400_400/company-logo_400_400/0/1663691257753/the_health_and_care_professions_council_logo?e=1785369600&v=beta&t=uZpT-w4-8VQ_HrIHVWLPYTN4dYC2RwPp2qIIXcJ_TI8",
+          "title": "Clinical Scientist",
+          "subtitle": "The Health and Care Professions Council",
+          "issued": "Issued Nov 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3086843",
+          "companyUrn": "urn:li:fsd_company:3086843",
+          "companyLink1": "https://www.linkedin.com/company/the-institute-of-physics-and-engineering-in-medicine-ipem-/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEbVWnifx9IQQ/company-logo_100_100/B4EZ8huc46HMAI-/0/1782977253145/the_institute_of_physics_and_engineering_in_medicine_ipem__logo?e=1785369600&v=beta&t=vGEBUQRsWSL5a0n1AERRGqOBvX3I2qnYTG_xXoEc4uc",
+          "title": "Member (MIPEM)",
+          "subtitle": "The Institute of Physics and Engineering in Medicine (IPEM)",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "London Healthcare Science Trainee Network",
+          "subtitle": "Co-Chair, Board Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Imperial College Bioengineering Society",
+          "subtitle": "Member, Vice-President",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Imperial College Fencing",
+          "subtitle": "Member, Third Team Member, Men's Third Team Captain, Webmaster, Second Team Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SynBIC - Imperial College Synthetic Biology Society",
+          "subtitle": "Webmaster",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "The Institution of Engineering and Technology",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "Best Year 2 Engineering Design Group Project Prize",
+          "subtitle": "Issued by Department of Bioengineering, Imperial College London",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "British Science Festival Student Bursary",
+          "subtitle": "Issued by Imperial College London",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Academic Scholarship",
+          "subtitle": "Issued by Eltham College",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Arkwright Engineering Scholarship",
+          "subtitle": "Issued by Arkwright Scholarships Trust",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Biomedical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Labview",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microcontrollers",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Synthetic Biology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Vision",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Public Speaking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Molecular Biology",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LaTeX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "Master of Engineering (MEng, 4YFT), IC Fencing Men's Second Team, Bioengineering Society",
+          "caption": "2012 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class Honours"
+            }
+          ]
+        },
+        {
+          "companyId": "9665",
+          "companyUrn": "urn:li:fsd_company:9665",
+          "companyLink1": "https://www.linkedin.com/school/university-of-liverpool/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFvYEvNOqvzWA/company-logo_100_100/B4EZ83oQC0HAAI-/0/1783344726465/university_of_liverpool_logo?e=1785369600&v=beta&t=Iwp7pdqRpD_SkvJlU4Cw9DU13evCZ5r4fStfOh5Succ",
+          "title": "University of Liverpool",
+          "subtitle": "Master of Science (MSc, Part-Time), Clinical Science (Clinical Bioinformatics)",
+          "caption": "2016 - 2019",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Distinction"
+            }
+          ]
+        },
+        {
+          "companyId": "803252",
+          "companyUrn": "urn:li:fsd_company:803252",
+          "companyLink1": "https://www.linkedin.com/school/eltham-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_Td5JebiqgQ/company-logo_400_400/company-logo_400_400/0/1631336262657?e=1785369600&v=beta&t=C0aR1CLZiAEGk6dFvjfQ4kdSuOI-TMk1A4HSmoP7exI",
+          "title": "Eltham College",
+          "subtitle": "null, Fencing Team (Captain 2007-2009)\nStage Crew (various positions inc. Stage Manager)",
+          "caption": "2001 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "A Levels: Mathematics (A*), Biology (A*), Physics (A*), Chemistry (A*)\nAS Level: Further Mathematics (A)"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "10881357",
+          "companyUrn": "urn:li:fsd_company:10881357",
+          "companyLink1": "https://www.linkedin.com/company/one-healthtech/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFDCUfk6yKsZA/company-logo_400_400/company-logo_400_400/0/1630556766025/healthtech_women_uk_logo?e=1785369600&v=beta&t=oi7cqvGc0e9HfAe9UiIpftY_ZWUyO9UMt9v43va-W-4",
+          "title": "Support Volunteer",
+          "subtitle": "One HealthTech",
+          "caption": "Jun 2020 - Present · 5 yrs 7 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Comms. & Marketing Team, Co-Chair",
+          "subtitle": "LondonHCSTN",
+          "caption": "Jan 2017 - Jul 2019 · 2 yrs 6 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "19181801",
+          "companyUrn": "urn:li:fsd_company:19181801",
+          "companyLink1": "https://www.linkedin.com/company/national-school-of-healthcare-science/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGqN1S_9CJPTg/company-logo_400_400/company-logo_400_400/0/1671115854812/national_school_of_healthcare_science_logo?e=1785369600&v=beta&t=LO3NjZtPGwrMFZ7TQH3SNCmjctEt4wnAsi1h48iQdx4",
+          "title": "Clinical Bioinformatics (Physical Science/Health Informatics) Trainee Representative",
+          "subtitle": "National School of Healthcare Science, Health Education England, NHS",
+          "caption": "Jun 2018 - Jul 2019 · 1 yr 1 mo",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5068441",
+          "companyUrn": "urn:li:fsd_company:5068441",
+          "companyLink1": "https://www.linkedin.com/company/imperial-college-union/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFdL42__AeiFQ/company-logo_100_100/B4EZWuBqLlH0AQ-/0/1742381425760/imperial_college_union_logo?e=1785369600&v=beta&t=FswgS1HSfkxuLbpqL9li6NCXKHQeib43bjRIMdWIG5w",
+          "title": "Academic Year Representative - Year 4 Bioengineering (Electrical Stream)",
+          "subtitle": "Imperial College Union",
+          "caption": "Oct 2015 - Jun 2016 · 8 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2281836",
+          "companyUrn": "urn:li:fsd_company:2281836",
+          "companyLink1": "https://www.linkedin.com/company/arkwright-engineering-scholarships/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFi43aX8xNcGA/company-logo_200_200/B4EZkoyz38IsAI-/0/1757326032739/arkwright_engineering_scholarships_logo?e=1785369600&v=beta&t=Q5uQatwH4Yxf-yvv6Vf7_-5OGRk1nZYeiagzRMn9-SQ",
+          "title": "Student Volunteer at Imperial Interview Day",
+          "subtitle": "Arkwright Scholarships Trust",
+          "caption": "Apr 2015 - Apr 2015 · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Volunteer",
+          "subtitle": "BioBricks Foundation: SB6.0 Conference",
+          "caption": "Jul 2013 - Jul 2013 · ",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "273549",
+          "companyUrn": "urn:li:fsd_company:273549",
+          "companyLink1": "https://www.linkedin.com/company/british-red-cross/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF96gyBwbrigg/company-logo_400_400/company-logo_400_400/0/1630540622199/british_red_cross_logo?e=1785369600&v=beta&t=N8dgmsl0du_opzqZHsNVE1dvJ-jK6eHS8XU6SVUT8lQ",
+          "title": "Charity Shop Volunteer",
+          "subtitle": "British Red Cross",
+          "caption": "Jan 2011 - Mar 2011 · 2 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teaching Assistant",
+          "subtitle": "Eglinton Primary School and Early Years Centre",
+          "caption": "Sep 2010 - Dec 2010 · 3 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Year 4 Individual Project - Incremental Slow Feature Analysis for Visual Localisation",
+          "subtitle": "Oct 2015 - Jun 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Imperial College London"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Explored the use of incremental slow feature analysis as an on-line unsupervised processor for real-time vision-based machine localisation and navigation.\n\nThis project was conducted under the supervision of Dr Anil Bharath in the Biologically Inspired Computer Vision research group at Imperial College London. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Year 3 Group Project - Static Camera Based Indoor Positioning System",
+          "subtitle": "Oct 2014 - Jun 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Imperial College London"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The blind and partially sighted (BPS) community faces many challenges in navigating through daily life that could be alleviated through assisted-living technologies, increasing independence. As it is desirable to have an IPS that uses ubiquitous technologies such as static cameras and wearable sensors, our project aimed to explore challenges in implementing such a system and prototype a proof-of-concept. We designed a system where an accelerometry signal from a user’s mobile device was compared to accelerometry signals derived from the visual tracking of individuals in order to identify the user. \n\nThis project was conducted under the supervision of Dr Anil Bharath in the Biologically Inspired Computer Vision research group at Imperial College London. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Year 2 Engineering Design Project - Horse Riding Simulator",
+          "subtitle": "Oct 2013 - Jun 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Imperial College London"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "The objective of our project was to design and implement a horse riding simulator which could be used as both an introductory tool for novice riders and as a device for equine-assisted therapy. \n\nOur simulator was designed to approximate the elliptical motion of a real horse and this was achieved mechanically through the use of a crankshaft that controls horizontal and vertical displacements of the \"horse\" body. We verified the simulator’s function through video motion analysis and compared it to the data from a real horse found in the literature. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

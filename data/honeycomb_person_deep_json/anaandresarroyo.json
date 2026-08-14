@@ -1,0 +1,420 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/anaandresarroyo",
+  "row_key": "id:003Uk00000hnItKIAU",
+  "person": "Ana Andres Arroyo",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:17:29Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABYnFmUBK_OF8gA_Ywj2ZEcs_z8GlE827OU",
+      "firstName": "Ana",
+      "lastName": "Andres-Arroyo",
+      "fullName": "Ana Andres-Arroyo",
+      "publicIdentifier": "anaandresarroyo",
+      "headline": "Expert at innovating new solutions to complex problems and driving value through the use of data – from exploratory data analysis and visualisations to statistical modelling and machine learning.",
+      "about": "Expert at innovating new solutions to complex problems and driving value through the use of data – from exploratory data analysis and visualisations to statistical modelling and machine learning. Python developer and technical team lead with a PhD in experimental physics. Line manager and mentor for junior data scientists. Excellent communicator that can explain complex technical concepts to diverse audiences.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Management Consulting",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Letchworth, England United Kingdom",
+      "addressWithoutCountry": "Letchworth, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHCVVhNhWaV7g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723066285962?e=1785369600&v=beta&t=l7MwUypAMHcZIvX96TNz_rAK_IzqiXIYGQRvBuG7FVE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHCVVhNhWaV7g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1723066285933?e=1785369600&v=beta&t=ox_KUi-yBdU1eQr3u3gl1_sKBuSqs0zX1NK1IMQL1uo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHCVVhNhWaV7g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723066285933?e=1785369600&v=beta&t=MqumgMsuKu9D2MuXFJO-9Jg6J79zdySomkCTQ6U9Mmg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHCVVhNhWaV7g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1723066285933?e=1785369600&v=beta&t=z0JEnC8o8nUXXa_qSoOIA2q14E8JFOVyTopt3jtYALA"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHCVVhNhWaV7g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723066285962?e=1785369600&v=beta&t=l7MwUypAMHcZIvX96TNz_rAK_IzqiXIYGQRvBuG7FVE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Principal Data Science Engineer ",
+          "subtitle": "Medtronic Digital Surgery . Full-time",
+          "caption": "Sep 2024 - Present · 1 yr 4 mos",
+          "metadata": "London Area, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2547",
+          "companyUrn": "urn:li:fsd_company:2547",
+          "companyLink1": "https://www.linkedin.com/company/pa-consulting/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGVXpCccmYYAQ/company-logo_100_100/B4DZ6EId47KQAI-/0/1780333272927/pa_consulting_logo?e=1785369600&v=beta&t=vrNdo2MrcXB6JQjQqqcEjJBvh1FK5riMBh5TYepgFyU",
+          "title": "PA Consulting",
+          "subtitle": "Full-time · 2 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Data Science Consultant",
+              "caption": "Apr 2023 - Aug 2024 · 1 yr 4 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Data Science Consultant",
+              "caption": "Jan 2022 - Mar 2023 · 1 yr 2 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "24994",
+          "companyUrn": "urn:li:fsd_company:24994",
+          "companyLink1": "https://www.linkedin.com/company/tessella/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdJIUEBMy1Jw/company-logo_400_400/company-logo_400_400/0/1630648421581/tessella_logo?e=1785369600&v=beta&t=yKMQNg70GqfPaEn_QUMlf_1JOr_FGQhe_85h2VDOt1I",
+          "title": "Tessella",
+          "subtitle": "Full-time · 3 yrs 9 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Data Science Consultant",
+              "caption": "Sep 2020 - Jan 2022 · 1 yr 4 mos",
+              "metadata": "Stevenage, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Data Science Consultant",
+              "caption": "Nov 2018 - Aug 2020 · 1 yr 9 mos",
+              "metadata": "Stevenage, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Junior Data Science Consultant",
+              "caption": "Apr 2018 - Oct 2018 · 6 mos",
+              "metadata": "Stevenage, England, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "4522",
+          "companyUrn": "urn:li:fsd_company:4522",
+          "companyLink1": "https://www.linkedin.com/school/university-of-cambridge/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_100_100/B4EZXIJKuOHgAQ-/0/1742819601734/university_of_cambridge_logo?e=1785369600&v=beta&t=ma1WUu8o3V0D9WdA_hD1w4XE-GOrtZhpR0AtYf8MwYU",
+          "title": "University of Cambridge",
+          "subtitle": "undefined · 1 yr 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Postdoctoral Research Associate",
+              "caption": "Apr 2016 - Mar 2018 · 1 yr 11 mos",
+              "metadata": "NanoPhotonics Centre, Cavendish Laboratory",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Postdoc with Dr. Tijmen Euser in the Optofluidics group."
+                }
+              ]
+            },
+            {
+              "title": "Laboratory Demonstrator",
+              "caption": "Jan 2017 - Feb 2018 · 1 yr 1 mo",
+              "metadata": "Cambridge, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I instructed and evaluated second year undergraduate students on a range of experimental techniques related to optics."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "6096",
+          "companyUrn": "urn:li:fsd_company:6096",
+          "companyLink1": "https://www.linkedin.com/school/unsw/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGIlGcJynP5Dg/company-logo_400_400/company-logo_400_400/0/1709503417850/unsw_logo?e=1785369600&v=beta&t=8i4BdWf81cligLDIlxb7M7nwaRJ0um58g_zGefPubOc",
+          "title": "UNSW",
+          "subtitle": "undefined · 2 yrs 8 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Physics Outreach Presenter",
+              "caption": "Jul 2014 - Nov 2015 · 1 yr 4 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I raised awareness of physics and astronomy by presenting activities and workshops to high-school students, primary school students, and the general public."
+                }
+              ]
+            },
+            {
+              "title": "Laborory Demonstrator",
+              "caption": "Mar 2013 - Nov 2015 · 2 yrs 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I instructed and evaluated first and third year undergraduate students on a range of experimental techniques related to optics, lasers and spectroscopy. I developed new software to modernise existing experiments."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Exploratory Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test-Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Code Review",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PySpark",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Natural Language Processing (NLP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scikit-Learn",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NumPy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Manipulation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tech Savy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Healthcare",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Presentations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "6096",
+          "companyUrn": "urn:li:fsd_company:6096",
+          "companyLink1": "https://www.linkedin.com/school/unsw/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGIlGcJynP5Dg/company-logo_400_400/company-logo_400_400/0/1709503417850/unsw_logo?e=1785369600&v=beta&t=8i4BdWf81cligLDIlxb7M7nwaRJ0um58g_zGefPubOc",
+          "title": "UNSW Australia",
+          "subtitle": "Doctor of Philosophy (PhD), Physics Society (PHYSOC). UNSW Windsurfing and Sailing Club. Physics Outreach",
+          "caption": "2012 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Thesis title: Optical Tweezers Combined with Dark-Field Spectroscopy For Nanoparticle Dynamics Characterization.\nSupervisor: Dr. Peter J. Reece, Optoelectronics & Photonics Research Group"
+            }
+          ]
+        },
+        {
+          "companyId": "166616",
+          "companyUrn": "urn:li:fsd_company:166616",
+          "companyLink1": "https://www.linkedin.com/school/universidad-de-zaragoza/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWgYwS3oxLow/company-logo_200_200/B4DZ8SyzerI0AE-/0/1782726736316/universidad_de_zaragoza_logo?e=1785369600&v=beta&t=QCo9uY6aQw1YuVECT2yUJjS3wPcY-XB-cWtUaEP7y5E",
+          "title": "Universidad de Zaragoza",
+          "subtitle": "Bachelor of Science (B.S.), Physics",
+          "caption": "2007 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Undergraduate degree in Physics"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

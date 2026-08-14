@@ -1,0 +1,408 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/valient",
+  "row_key": "id:003Uk00000xg2BtIAI",
+  "person": "Michal Valient",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAEJoC0BpIFk7okNuhUtfbfCA8dthSY4V9o",
+      "firstName": "Michal",
+      "lastName": "Valient",
+      "fullName": "Michal Valient",
+      "publicIdentifier": "valient",
+      "headline": "ex Head of engineering Epic x Disney entertainment universe, Senior Director Unreal Engine",
+      "about": "Hands-on leader and director. I lead initiatives, I can build and drive large teams and then dive into the minute implementation engineering details. I love solving problems, optimizing and building up... organizations, projects, code and people. I have natural affinity towards cutting edge technology, my background is computer graphics, rendering, design of large scale distributed systems.GPU Pro and ShaderX editor; SIGGRAPH course organizer; SIGGRAPH; GDC and WWDC speaker.Notable projects - Fortnite, Unreal Engine 5, Matrix Awakens, Lumen in the land of Nanite, Electric Dreams, Decima Engine, Horizon Zero Dawn, Killzone franchise. Check projects section for more info.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Games",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHBKtnxfBGcoA/profile-displayphoto-scale_400_400/B4DZnrixVuGsAg-/0/1760593386656?e=1785369600&v=beta&t=VAtE-Bel0AGfwxrdDOd84JEOJ9eIfEHUXClOfuequKc",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQGZ8iBpwZ3ZGw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715746860506?e=1785369600&v=beta&t=IiCSu3ybbznMd_RFmiQvXqrv3cM1gQ3-e3xY6JCFbl8",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHBKtnxfBGcoA/profile-displayphoto-scale_100_100/B4DZnrixVuGsAc-/0/1760593386656?e=1785369600&v=beta&t=XrMIzliqEDaV8_mjZ-98ij6PsGxHAyTpUr8gTZA7dOc"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHBKtnxfBGcoA/profile-displayphoto-scale_200_200/B4DZnrixVuGsAY-/0/1760593386656?e=1785369600&v=beta&t=y222GEgbdoX92Ki9JHRBRAJp1Kh9ahaz1dmQNZv3lQY"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHBKtnxfBGcoA/profile-displayphoto-crop_800_800/B4DZnrixVuGsAI-/0/1760593386525?e=1785369600&v=beta&t=mA56qf6PSf8ZwUitcsJsdq70z3SY8J2bPpMhpqdCgUY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQHBKtnxfBGcoA/profile-displayphoto-scale_400_400/B4DZnrixVuGsAg-/0/1760593386656?e=1785369600&v=beta&t=VAtE-Bel0AGfwxrdDOd84JEOJ9eIfEHUXClOfuequKc"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQGZ8iBpwZ3ZGw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1715746860506?e=1785369600&v=beta&t=axuGSTo8ThOKPf1O3se9uRTcoBHb-c2Fksf1wAyeCNs"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQGZ8iBpwZ3ZGw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715746860506?e=1785369600&v=beta&t=IiCSu3ybbznMd_RFmiQvXqrv3cM1gQ3-e3xY6JCFbl8"
+        }
+      ],
+      "experiences": [
+        {
+          "title": "Sabbatical",
+          "subtitle": "self . undefined",
+          "caption": "Apr 2026 - Present · ",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Tinkering with something new"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Senior Director, Engineering",
+          "subtitle": "Epic Games . undefined",
+          "caption": "Jul 2019 - Apr 2026 · 6 yrs 9 mos",
+          "metadata": "Larkspur, California",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Head of engineering leading game and tech teams building Epic x Disney entertainment universe. Technical focus on technical challenges of building large simulations with high player counts, performant player and NPC characters on server and all client platforms, enabling close cross-companies collaboration. Management focus - planning, products development and release strategies, staffing and resourcing tradeoffs.\n\nEngineering director for many groundbreaking Unreal Engine demos - Lumen in the Land of Nanite, The Matrix Awakens, Electric Dreams that 'dogfooded' many of the incubating UE features. Shipping mindset and unblocking development across all teams, cross-team alignment and planning to deliver required new features, hands on optimization and stabilization work. Delivered all projects on-time, in performance and memory budgets.\n\nSenior director, Unreal Engine, heading large multi-level engineering organization responsible for core components of Unreal Engine. Also building area strategies, leading initiatives and hands-on involved in feature direction. Directly working with IHVs and major console platforms on hardware and platform feature requirements and ensuring UE shipping on all new platforms day one.\n- Rendering teams revolutionized game and movie industries with Nanite, Lumen, TSR, Niagara, Substrate, path-tracing and many more.\n- Platform teams build engine support and optimizations for current and upcoming game consoles, mobile devices, Mac/Linux as well as AR/VR and automotive HMI.\n- Foundation teams provide the low-level core engine systems, scalable cloud based code and content build and compilation tooling, in-editor performance profiling tools."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "162479",
+          "companyUrn": "urn:li:fsd_company:162479",
+          "companyLink1": "https://www.linkedin.com/company/apple/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1785369600&v=beta&t=xz8wYn_JGZUgL6PQtn6EX3lObYNFAaPGx6TQOE92Wn0",
+          "title": "Software Engineering Manager",
+          "subtitle": "Apple . undefined",
+          "caption": "Feb 2016 - Jun 2019 · 3 yrs 4 mos",
+          "metadata": "Cupertino, California",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led GPU Software Architecture team responsible for pre-silicon GPU feature and Metal API development and verification. Spearheading R&D and implementation of unique features for Apple Silicon GPUs as well as across multiple Mac GPU vendors.\n\nDRI for Metal 2 and Metal 3 programs with large engineering groups spanning multiple software and hardware design teams, both internal to Apple and external GPU vendors. Focused on utilizing my game developer experience to align Metal with the practical needs of real-time rendering applications.\n\nDesign of the unique Metal features - Metal Argument Buffers, Indirect Command Buffers, Sparse Textures. R&D into HW and SW raytracing models and novel GPU driven rasterization and compute programming models and schedulers."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13261",
+          "companyUrn": "urn:li:fsd_company:13261",
+          "companyLink1": "https://www.linkedin.com/company/guerrilla-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGo9eiDbSXIAQ/company-logo_100_100/B4EZwuF79VJAAQ-/0/1770299834827/guerrilla_games_logo?e=1785369600&v=beta&t=E-bkWTUvz8G66T23xXp1tZ0T7aqw197aePTcObOoppY",
+          "title": "Lead Tech",
+          "subtitle": "Guerrilla . Full-time",
+          "caption": "Mar 2006 - Feb 2016 · 9 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Direction of low-level technology of Decima Engine, used in critically acclaimed Horizon Zero Dawn, Horizon Forbidden West, Death Stranding series and Killzone series.\n\nI led tech and tools teams covering rendering, audio, physics, streaming, content pipelines and workflows and in-house 3D editor. I also fully managed outsourcing code partners and off-site programmers.\n\nNotable features I was directly responsible for (direction, design, some implementation):\n- Procedural rule based vegetation and actor placement system\n- Unified direct and indirect lighting solution for highly complex scenes.\n- Temporal and spatial reprojection techniques across whole rendering pipeline.\n- CLANG/LLVM based visual node-based programming system used by AI, game and audio designers.\n- Texture streaming system, memory defragmentation.\n- Artist driven material and lighting shader systems.\n- Real-time procedural facial and character rigging system.\n- Terrain and open-world artist pipelines and technologies.\n\nPrevious role - Senior programmer on Killzone 2, responsible for multi-threaded rendering engine running fully on PS3 SPUs and all aspects of lighting and shadowing technology."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Development director",
+          "subtitle": "Caligari . Full-time",
+          "caption": "May 2003 - Mar 2006 · 2 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I was responsible for trueSpace7 and truePlay, new generation and novel architecture of the award winning DCC package. Products were built on newly designed scalable node graph representations for data and computation dependencies. \nWe created one of the first real-time, fully 3D, collaborative environments for 3D modelers, artists and interactive designers, which led to the company being acquired by Microsoft.\nI also developed the real-time rendering and material engine for these products."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Graphics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PS3",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Perforce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Enterprise Edition",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenGL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Win32 API",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C  ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scripting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Subversion",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Console",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DirectX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "98636426",
+          "companyUrn": "urn:li:fsd_company:98636426",
+          "companyLink1": "https://www.linkedin.com/school/fmph-uk/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgi0lTQFyeYg/company-logo_400_400/company-logo_400_400/0/1693569714306/fmph_uk_logo?e=1785369600&v=beta&t=jGs0IWNEdBiRXKCYfemb6gKKMYe1aCKA_CNt9uzK0rc",
+          "title": "Faculty of Mathematics, Physics and Informatics, Comenius University",
+          "subtitle": "MSc and PhD in Natural Sciences, Computer Science - Computer Graphics, Parallel And Distributed Processing",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Fortnite",
+          "subtitle": "Jul 2019 - Jul 2019",
+          "subComponenets": []
+        },
+        {
+          "title": "Unreal Engine 5",
+          "subtitle": "Jul 2019 - Jul 2019",
+          "subComponenets": []
+        },
+        {
+          "title": "Electric Dreams",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "The Matrix Awakens",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Lumen In The Land of Nanite",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Apple Metal API",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Decima Engine",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Horizon: Zero Dawn",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Killzone: Shadow Fall",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Killzone 3",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "Killzone 2",
+          "subtitle": "",
+          "subComponenets": []
+        },
+        {
+          "title": "trueSpace 7 and truePlay",
+          "subtitle": "",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

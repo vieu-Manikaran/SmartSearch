@@ -1,0 +1,471 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/jarifibrahim",
+  "row_key": "id:003Uk00000yfRP1IAM",
+  "person": "Ibrahim Jarif",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:37Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABmH3V4BrAWSdvus7gVPEtjLujvkCr0q5XU",
+      "firstName": "Ibrahim",
+      "lastName": "Jarif",
+      "fullName": "Ibrahim Jarif",
+      "publicIdentifier": "jarifibrahim",
+      "headline": "Staff Software Engineer @ Coinbase | Distributed Systems | Database",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Bengaluru, Karnataka India",
+      "addressWithoutCountry": "Bengaluru, Karnataka",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 3 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Staff Software Engineer",
+              "caption": "Aug 2024 - Present · 1 yr 5 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Mar 2022 - Aug 2024 · 2 yrs 5 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Building the next-gen Risk Platform at Coinbase."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "3750699",
+          "companyUrn": "urn:li:fsd_company:3750699",
+          "companyLink1": "https://www.linkedin.com/company/cohesity/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXZ2Hda_puGA/company-logo_400_400/B56ZXZqwVUHEAg-/0/1743113619242/cohesity_logo?e=1785369600&v=beta&t=mtULJvAnFDxRtxbdwnwKAyKsNInNy1mVmjopQ1rS_Wc",
+          "title": "Senior Member Of Technical Staff",
+          "subtitle": "Cohesity . Full-time",
+          "caption": "Jul 2021 - Feb 2022 · 7 mos",
+          "metadata": "Bengaluru",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Worked in the Apps and Indexing team.\n- Improved the performance of a data processing app by multiple folds and reduced the memory requirement by 50x."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13183384",
+          "companyUrn": "urn:li:fsd_company:13183384",
+          "companyLink1": "https://www.linkedin.com/company/dgraph-labs/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEKQBdYlRX-3Q/company-logo_400_400/company-logo_400_400/0/1630638110302/dgraph_labs_logo?e=1785369600&v=beta&t=3CbMWxkKKF6g-Bic5BfO3xK9n_7KAwh8x5KOMG9xZwc",
+          "title": "Dgraph Labs",
+          "subtitle": "Full-time · 2 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Tech Lead/Manager",
+              "caption": "Nov 2020 - Jul 2021 · 8 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Worked directly with the CEO and led a team of 5 engineers working on Dgraph (Distributed Graph DB), Badger (KV store) and Ristretto (In-memory cache)\n• Led the development of core features such as Multi-Tenancy, Learner Nodes, Audit Logs, etc. in Dgraph.\n• Contributed to major improvements to Badger’s Compactions, Data Streaming Capabilities and Disk Usage.\n• Implemented block-level compression to reduce the on-disk space requirement.\n• Integrated a block-level cache to improve lookup performance.\n• Improved DB initialization speed by 5X, iteration speed by 2X, and various other performance improvements.\n• All of my contributions can be found on my GitHub profile https://github.com/jarifibrahim."
+                }
+              ]
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Jul 2020 - Nov 2020 · 4 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Apr 2019 - Jul 2020 · 1 yr 3 mos",
+              "metadata": "Bengaluru, Karnataka, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3545",
+          "companyUrn": "urn:li:fsd_company:3545",
+          "companyLink1": "https://www.linkedin.com/company/red-hat/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEto-TydTTIfQ/company-logo_400_400/company-logo_400_400/0/1630583759577/red_hat_logo?e=1785369600&v=beta&t=kKg3jsg6shbh8_i1cmLREpECMcvUM9mVdoiiKfVyy9o",
+          "title": "Software Engineer",
+          "subtitle": "Red Hat . undefined",
+          "caption": "Sep 2017 - Apr 2019 · 1 yr 7 mos",
+          "metadata": "Bengaluru Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Building the next generation DevOps Console for Openshift."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "215982",
+          "companyUrn": "urn:li:fsd_company:215982",
+          "companyLink1": "https://www.linkedin.com/company/the-apache-software-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdPuvD2Mbzmw/company-logo_200_200/B56Zk5URSEH8AI-/0/1757603239580/the_apache_software_foundation_logo?e=1785369600&v=beta&t=pbi-E7pIKC62XJ0ZUbsq7zGaUAQ5msB6QXTCc5ckZlg",
+          "title": "The Apache Software Foundation",
+          "subtitle": "undefined · 1 yr 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Committer and Project Management Committee (PMC) member",
+              "caption": "Apr 2016 - May 2017 · 1 yr 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Apache Open Climate Workbench is an effort to develop software that performs climate model evaluation using model outputs from a variety of different sources (the Earth System Grid Federation, the Coordinated Regional Downscaling Experiment, the U.S. National Climate Assessment and the North American Regional Climate Change Assessment Program) and temporal/spatial scales with remote sensing data from NASA, NOAA and other agencies. The toolkit includes capabilities for rebinning, metrics computation and visualization."
+                }
+              ]
+            },
+            {
+              "title": "Google Summer of Code Intern",
+              "caption": "Apr 2016 - Aug 2016 · 4 mos",
+              "metadata": "Google Summer of Code",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Smoke Tests and Continuous Integration Infrastructure development for Apache Open Climate Workbench.\n• Added unit tests and improved the test coverage from 59% to 80%.\n• Configured Continuous Integration builds on Travis CI (Build + tests), coveralls.io (tests coverage) and landscape.io (code quality)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software Development Intern",
+          "subtitle": "Ashoka Globalizer . undefined",
+          "caption": "Jun 2016 - Oct 2016 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed and implemented a dashboard template in Google Spreadsheets which will be used to keep track of team issues and status. Added features like automatic reminder emails, welcome emails, team status indicators, automatically generated and updated Google forms."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gujarati",
+          "caption": "PROFESSIONAL_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marathi",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "The Apache Software Foundation",
+          "subtitle": "Project Management Committee",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ubuntu",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bootstrap",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQLite",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Openshift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15113948",
+          "companyUrn": "urn:li:fsd_company:15113948",
+          "companyLink1": "https://www.linkedin.com/school/north-maharashtra-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG5iiWeIshB0g/company-logo_400_400/company-logo_400_400/0/1631353489963?e=1785369600&v=beta&t=L0vZQbJrNEJvEfMhRny8Ym3S5mKrq_0Gj-arD819pJ4",
+          "title": "North Maharashtra University",
+          "subtitle": "Bachelor's degree, Computer Engineering",
+          "caption": "2013 - 2017",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Ashoka Dashboard",
+          "subtitle": "Nov 2016 - Nov 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Web app (Dashboard) built using Django (Python Web Framework) to handle Team management of Ashoka Globalizer. Features such as Automated Reminder Emails, Survey Forms, Team Health Indicators were implemented."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Yet Another Sessionization Tool (YAST)",
+          "subtitle": "Aug 2016 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "YAST is a sessionization tool that can be used perform sessionization on web/proxy server log files. The tool generates sessionized data (which included- Total sessions, List of URLs) that can be used for web usages analysis. The tool is a parser that cleans log file according to user configuration."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Result Bot",
+          "subtitle": "Jun 2016 - Jun 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A python script to download North Maharashtra University results and send it via email to a list of recipients. Technologies used – Python and its libraries, Twilio API (for sending emails)\nSource code - https://github.com/jarifibrahim/resultBot"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fynance",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A web application to buy and sell stocks (real stocks, fake shares). The web app is built using the flask (Python Framework) and uses MongoDB as the database.\nSource Code - https://github.com/jarifibrahim/finance"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

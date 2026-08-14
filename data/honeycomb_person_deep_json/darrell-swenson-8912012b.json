@@ -1,0 +1,336 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/darrell-swenson-8912012b",
+  "row_key": "id:003Uk00000yfUbpIAE",
+  "person": "Darrell Swenson",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:33Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAZCU60BVzrIaZVzxaMTYZ8Rif8dv07US8k",
+      "firstName": "Darrell",
+      "lastName": "Swenson",
+      "fullName": "Darrell Swenson",
+      "publicIdentifier": "darrell-swenson-8912012b",
+      "headline": "Director of Engineering at Medtronic - Technical Fellow",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Greater Minneapolis-St. Paul Area United States",
+      "addressWithoutCountry": "Greater Minneapolis-St. Paul Area",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 10 yrs 2 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering",
+              "caption": "Jul 2024 - Present · 1 yr 6 mos",
+              "metadata": "Mounds View, Minnesota, United States",
+              "description": []
+            },
+            {
+              "title": "Sr. Engineering Manager",
+              "caption": "Feb 2020 - Jul 2024 · 4 yrs 5 mos",
+              "metadata": "Mounds View, Minnesota, United States",
+              "description": []
+            },
+            {
+              "title": "Engineering Manager",
+              "caption": "May 2018 - Feb 2020 · 1 yr 9 mos",
+              "metadata": "Mounds View, MN",
+              "description": []
+            },
+            {
+              "title": "Principal R  and D Engineer",
+              "caption": "Nov 2015 - May 2018 · 2 yrs 6 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Computational Cardiac Electrophysiology and Mechanical Modeling."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2810",
+          "companyUrn": "urn:li:fsd_company:2810",
+          "companyLink1": "https://www.linkedin.com/company/l3/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEvplZGXaoq6g/company-logo_400_400/company-logo_400_400/0/1630586693395/l3_logo?e=1785369600&v=beta&t=Hq6vQLC_qJh3K3aSws3HouRX67AD_UPzpuBaC3z9RCs",
+          "title": "Senior Mechanical Engineer",
+          "subtitle": "L-3 Communications . undefined",
+          "caption": "Jul 2013 - Nov 2015 · 2 yrs 4 mos",
+          "metadata": "Greater San Diego Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Research Scientist on mTBI and FEA mechanical modeler"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Research Fellow",
+          "subtitle": "Comprehensive Arrhythmia Research & Management Center, University of Utah . undefined",
+          "caption": "Sep 2012 - Jul 2013 · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Computational cardiac modeling, patient specific modeling, image processing, image registration, FE meshing"
+              }
+            }
+          ]
+        },
+        {
+          "title": "PhD. Candidate Bioengineering",
+          "subtitle": "University of Utah . undefined",
+          "caption": "Aug 2007 - Jun 2013 · 5 yrs 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Biomedical Engineering Student",
+          "subtitle": "Univeristy of Utah . undefined",
+          "caption": "Aug 2007 - Aug 2012 · 5 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Subject specific modeling of myocardial ischemia, FE meshing, image processing, visualization."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Structural Methods Engineer",
+          "subtitle": "Pratt & Whitney . undefined",
+          "caption": "2005 - 2007 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Structural methods tool development, FEA, CAD, Optimization, Work Flow Managment."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Portuguese",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Biomedical Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LaTeX",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Fortran",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Image Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R&D",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Simulations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scientific Visualization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Modeling",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Finite Element Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Optimization",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ANSYS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Numerical Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15251168",
+          "companyUrn": "urn:li:fsd_company:15251168",
+          "companyLink1": "https://www.linkedin.com/school/university-of-utah/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHOj4lIdQUuYA/company-logo_400_400/company-logo_400_400/0/1630650497476/university_of_utah_logo?e=1785369600&v=beta&t=rLQL6aR4lddu9JGyjv18LJVKfpZTMIJKqyJZyK9ultU",
+          "title": "University of Utah",
+          "subtitle": "Doctor of Philosophy (Ph.D.), Bioengineering and Biomedical Engineering",
+          "caption": "2007 - 2012",
+          "subComponents": []
+        },
+        {
+          "companyId": "4035",
+          "companyUrn": "urn:li:fsd_company:4035",
+          "companyLink1": "https://www.linkedin.com/school/brigham-young-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFRMyoXTVO86A/company-logo_400_400/company-logo_400_400/0/1646864910688/brigham_young_university_logo?e=1785369600&v=beta&t=EyxjhsY3t4b2wt13kSDfYHCn_Z_V8GzD2aX4OQTkims",
+          "title": "Brigham Young University",
+          "subtitle": "Bachelor's degree, Mechanical Engineering",
+          "caption": "1998 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Cardiac Ischemia Simulation",
+          "subtitle": "Aug 2008 - Present",
+          "subComponenets": []
+        }
+      ],
+      "interests": []
+    }
+  }
+}

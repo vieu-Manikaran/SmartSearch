@@ -1,0 +1,525 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/t9toqwerty",
+  "row_key": "id:003Uk00000yfavfIAA",
+  "person": "Rahul Jha",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:20:45Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABSUWI0BHZmN4Gh1J1mk4Vh9qMystrbTvc4",
+      "firstName": "Rahul K",
+      "lastName": "Jha",
+      "fullName": "Rahul K Jha",
+      "publicIdentifier": "t9toqwerty",
+      "headline": "Software Engineering || Distributed Computing || Web Security",
+      "about": "Hi, I'm Rahul Jha, a software engineer with 9 years of experience in building scalable and secure distributed systems. Currently working at Medtronic India, I'm a distributed systems enthusiast and passionate about building highly scalable products while keeping security as the top priority.\n\nWith extensive experience in TypeScript, PHP and Java, I love working on challenging projects that require implementing complex algorithms and data structures. I have a good understanding of database technologies, including RDMBS and NoSql, and use them to design systems that can efficiently handle massive amounts of data.\n\nMy expertise lies in developing highly available and performant systems that can handle millions of requests per day, with an emphasis on designing for scale from the outset. I also have a deep understanding of web security and ensure that my systems are designed with robust security measures to protect against vulnerabilities.\n\nFeel free to connect with me to discuss distributed systems, microservices, web security, scalability, or anything related to software development.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Hyderabad, Telangana India",
+      "addressWithoutCountry": "Hyderabad, Telangana",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFM-hFrsqbrtw/profile-displayphoto-scale_400_400/B56Zi5cStMG0Ag-/0/1755457860115?e=1785369600&v=beta&t=HHaFw9mORqM8iamOBUUD13M-M8MB_K2Kt3q06zgplRQ",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQFcV9r269Eweg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695474365351?e=1785369600&v=beta&t=7R78j7YRlDxQ2TC-y1aXOIcOPQOxrxIcV_IYk9L5QXA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFM-hFrsqbrtw/profile-displayphoto-scale_100_100/B56Zi5cStMG0Ac-/0/1755457860115?e=1785369600&v=beta&t=9zQnScWtHRX-raDX9jc9CJQfIuw86iliiEUpzd73CPE"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFM-hFrsqbrtw/profile-displayphoto-scale_200_200/B56Zi5cStMG0AY-/0/1755457860115?e=1785369600&v=beta&t=KSSvSBG_63JL-mj6ZdeuRh-jFjxBx0M889AebmJM0mU"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFM-hFrsqbrtw/profile-displayphoto-crop_800_800/B56Zi5cStMG0AI-/0/1755457860019?e=1785369600&v=beta&t=ODngLwwYgXAJ0foDT_r2MpXz50gQwjwKevLLxmznqw4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFM-hFrsqbrtw/profile-displayphoto-scale_400_400/B56Zi5cStMG0Ag-/0/1755457860115?e=1785369600&v=beta&t=HHaFw9mORqM8iamOBUUD13M-M8MB_K2Kt3q06zgplRQ"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQFcV9r269Eweg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695474365351?e=1785369600&v=beta&t=19flstBupTD7yJWnWHm9rQZsURyY6KZJGKeMwQQd8vw"
+        },
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQFcV9r269Eweg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695474365351?e=1785369600&v=beta&t=7R78j7YRlDxQ2TC-y1aXOIcOPQOxrxIcV_IYk9L5QXA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Senior Enterprise Software Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Mar 2024 - Present · 1 yr 10 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "15155855",
+          "companyUrn": "urn:li:fsd_company:15155855",
+          "companyLink1": "https://www.linkedin.com/company/borzo-wefast/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFEIcI3xVVoeg/company-logo_100_100/B4DZtqZTtMIkAQ-/0/1767016578309/borzo_india_logo?e=1785369600&v=beta&t=sq2_PMTOJhJ6HxrJWUhg_1CcrotsBRR3EmOV4SfwskA",
+          "title": "Senior Backend Developer",
+          "subtitle": "Borzo India . Full-time",
+          "caption": "Oct 2023 - Nov 2023 · 1 mo",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10549027",
+          "companyUrn": "urn:li:fsd_company:10549027",
+          "companyLink1": "https://www.linkedin.com/company/thedarwinbox/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEZW4o9M4nbVw/company-logo_100_100/B56ZvfZiajHAAQ-/0/1768979572876/thedarwinbox_logo?e=1785369600&v=beta&t=sntFcCp3t0icedpXU3B0zI66o_3GdgE5CSdHWxYa-0s",
+          "title": "SDE-III",
+          "subtitle": "Darwinbox . Full-time",
+          "caption": "Mar 2023 - Sep 2023 · 6 mos",
+          "metadata": "Hyderabad, Telangana, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "164376",
+          "companyUrn": "urn:li:fsd_company:164376",
+          "companyLink1": "https://www.linkedin.com/company/innova-solutions/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFdXNZHoHFaCQ/company-logo_400_400/company-logo_400_400/0/1737396344248/innova_solutions_logo?e=1785369600&v=beta&t=qR4SCPrTllmHArVFZSQ13m1NrTl_XnhQC-_1wQMklU4",
+          "title": "Innova Solutions",
+          "subtitle": "Full-time · 4 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Apr 2022 - Feb 2023 · 10 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": []
+            },
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Apr 2020 - Mar 2022 · 1 yr 11 mos",
+              "metadata": "Hyderabad Area, India",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Apr 2018 - Mar 2020 · 1 yr 11 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "3885352",
+          "companyUrn": "urn:li:fsd_company:3885352",
+          "companyLink1": "https://www.linkedin.com/company/meltag/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF4U0DU7luhLQ/company-logo_400_400/company-logo_400_400/0/1631318302600?e=1785369600&v=beta&t=3kHfRhJEkuuOVXofE8oolAE6Q2zw4Bg4auWetw3UHX0",
+          "title": "Software Engineer",
+          "subtitle": "Meltag Marketing Pvt Ltd . undefined",
+          "caption": "Jan 2017 - Mar 2018 · 1 yr 2 mos",
+          "metadata": "Hyderabad Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "7970429",
+          "companyUrn": "urn:li:fsd_company:7970429",
+          "companyLink1": "https://www.linkedin.com/company/tattvam-media/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1lM6iC1QZaA/company-logo_200_200/B4DZxMzliTG4AU-/0/1770815119037/tattvam_media_logo?e=1785369600&v=beta&t=bD88tYZHo1243j3gfWuQRTKtH8XsNijE7T77AxXLMeE",
+          "title": "Web App Developer",
+          "subtitle": "Tattvam Media . undefined",
+          "caption": "Jul 2016 - Dec 2016 · 5 mos",
+          "metadata": "Pune Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Ubuntu Server Administration, Code in Core PHP & Laravel, Database Design (MySql)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3657664",
+          "companyUrn": "urn:li:fsd_company:3657664",
+          "companyLink1": "https://www.linkedin.com/company/alpha-network-official/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE7DbhtEAUF3w/company-logo_400_400/company-logo_400_400/0/1643624977530/bluecube_network_logo?e=1785369600&v=beta&t=7owqfazdm_oNxl1oc1TsSuSqeOO3Q_zIsoKTM9jDDM4",
+          "title": "Web Application Developer",
+          "subtitle": "Alpha Network . undefined",
+          "caption": "May 2015 - Jun 2016 · 1 yr 1 mo",
+          "metadata": "Jaipur, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Backend Programming , Database Design ,Linux System Administration"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3337833",
+          "companyUrn": "urn:li:fsd_company:3337833",
+          "companyLink1": "https://www.linkedin.com/company/raivens-technologies-pvt-ltd-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF707b4oMV_zA/company-logo_400_400/company-logo_400_400/0/1631353097631?e=1785369600&v=beta&t=Jk7_VAQNhXRSAOVRZwrXRbzOYhSlHJ4JE82UiWiWta4",
+          "title": "Intern",
+          "subtitle": "Raivens Technologies . undefined",
+          "caption": "Jun 2014 - Jul 2014 · 1 mo",
+          "metadata": "Jaipur Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Work with Backend Team"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Programming with Google Go Specialization",
+          "subtitle": "Coursera",
+          "issued": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "838197",
+          "companyUrn": "urn:li:fsd_company:838197",
+          "companyLink1": "https://www.linkedin.com/company/aspiring-minds/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGv-bQANStG4g/company-logo_400_400/company-logo_400_400/0/1630576086556/aspiring_minds_logo?e=1785369600&v=beta&t=_CVTP01WXE_Izf5iWD81W3wOuu5-fVSe8Qg7KQ7YQjg",
+          "title": "AMCAT Certified Software Engineer - IT Services",
+          "subtitle": "Aspiring Minds",
+          "issued": "Issued Sep 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "GraphQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jest",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHPUnit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nginx",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unit Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design Patterns",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TypeScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NestJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON Web Token (JWT)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "NodeJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Express.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Synfony",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Computing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "14445532",
+          "companyUrn": "urn:li:fsd_company:14445532",
+          "companyLink1": "https://www.linkedin.com/school/udrtukota/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQGUb3DKT_yHeQ/company-logo_400_400/company-logo_400_400/0/1630608045781/rtukota_logo?e=1785369600&v=beta&t=PJwOTsltwTlIr9CNHAMc7_Y_b1_kPHxnmbQPsEgX2uE",
+          "title": "Rajasthan Technical University",
+          "subtitle": "Bachelor of Technology - BTech, Computer Science ",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Computer Science Engineering"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Flipmetric.com",
+          "subtitle": "Jul 2016 - Jul 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Flipmetric serves the regular analysis of your online business and governs your online business techniques. We tend to adopt efficient KPI to gain unmatched ROI."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PERFMON.IO",
+          "subtitle": "Jun 2016 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Perfmon provides you with in demand 24X7 website uptime monitoring, instant Email and SMS downtime error notification and regular in-depth website response time report right in your Inbox."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Internetslangs.net",
+          "subtitle": "Aug 2015 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "An Online Dictionary Of Slangs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "IFSCCodeDekho.com",
+          "subtitle": "Jun 2017 - Nov 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A web app to find the updated IFSC & MICR code for Indians Banks. It automatically updates data from RBI & makes available for the general user."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/ruihan-guan",
+  "row_key": "id:003Uk00000ydEjWIAU",
+  "person": "Ruihan Guan",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:52Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACOwHZMB4EU4njpJfnnqDZmkkVl56Ko2uJo",
+      "firstName": "Ruihan",
+      "lastName": "Guan",
+      "fullName": "Ruihan Guan",
+      "publicIdentifier": "ruihan-guan",
+      "headline": "Senior Software Engineer at Coinbase",
+      "about": "UC Berkeley CS & Econ. Software engineering.\n\nGithub: https://github.com/KenGuan666\nEmail: 17guanr@gmail.com",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": "Ken",
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Berkeley, California United States",
+      "addressWithoutCountry": "Berkeley, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEguqp-sZSaHw/profile-displayphoto-crop_800_800/B56Zd3F8qtGQAM-/0/1750049737824?e=1785369600&v=beta&t=e1bjjn3D9QFQ3uSm9T4EALA9WXeLKBJTZ8Wr-ISGhgw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEguqp-sZSaHw/profile-displayphoto-scale_100_100/B56Zd3F8qtGQAg-/0/1750049737912?e=1785369600&v=beta&t=zJnawJb3tgWUIfu-L9yj70tLXrJ6vSFRjI7uS7fcTU0"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEguqp-sZSaHw/profile-displayphoto-scale_200_200/B56Zd3F8qtGQAc-/0/1750049737912?e=1785369600&v=beta&t=MisTOtzLdYN_c9uBE0AAid2FN_Qdehllfhk0KT-ePLg"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEguqp-sZSaHw/profile-displayphoto-scale_400_400/B56Zd3F8qtGQAk-/0/1750049737912?e=1785369600&v=beta&t=-5LwWszdWQqtM65J6ZywjCb7CNLpP5-ZXoAHq_81NJk"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQEguqp-sZSaHw/profile-displayphoto-crop_800_800/B56Zd3F8qtGQAM-/0/1750049737824?e=1785369600&v=beta&t=e1bjjn3D9QFQ3uSm9T4EALA9WXeLKBJTZ8Wr-ISGhgw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Oct 2025 - Present · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "International Exchange"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Senior Software Engineer",
+          "subtitle": "LinkedIn . Full-time",
+          "caption": "Jul 2021 - Oct 2025 · 4 yrs 3 mos",
+          "metadata": "Sunnyvale, CA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "TLS, HSM, authentication, spiffe/spire"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1337",
+          "companyUrn": "urn:li:fsd_company:1337",
+          "companyLink1": "https://www.linkedin.com/company/linkedin/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1785369600&v=beta&t=HF7p2GdwT69APDil-j7TaqvD4F6tH2-i024hxQvGDPI",
+          "title": "Software Engineer Intern",
+          "subtitle": "LinkedIn . Internship",
+          "caption": "Jun 2020 - Aug 2020 · 2 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3597797",
+          "companyUrn": "urn:li:fsd_company:3597797",
+          "companyLink1": "https://www.linkedin.com/company/bitgo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFmbVQxxfsAbg/company-logo_400_400/company-logo_400_400/0/1728072305208/bitgo_inc_logo?e=1785369600&v=beta&t=fQNCn7D908I63_C8yrlnQ2-G4k0mleUHqILiLUiaYEs",
+          "title": "Back End Developer",
+          "subtitle": "BitGo . Internship",
+          "caption": "Jun 2019 - Aug 2019 · 2 mos",
+          "metadata": "Palo Alto",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Designed and Implemented UTXO reservation system"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Chinese",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "German",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Adobe Photoshop",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "InDesign",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "2517",
+          "companyUrn": "urn:li:fsd_company:2517",
+          "companyLink1": "https://www.linkedin.com/school/uc-berkeley/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785369600&v=beta&t=sjhGbazIgtwv8ygVJ8AQdOzTAcTFTqiRegHbrjfWZs4",
+          "title": "University of California, Berkeley",
+          "subtitle": "Bachelor of Arts - BA, Computer Science, Economics",
+          "caption": "2017 - 2021",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "GPA 4.0/4.0"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Daher Aviation Challenge",
+          "subtitle": "Jul 2019 - Dec 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Won best project to improve flying experience"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tribuni",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Subscribe to receive crypto governance updates for free!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

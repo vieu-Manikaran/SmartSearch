@@ -1,0 +1,513 @@
+{
+  "linkedin_url": "https://in.linkedin.com/in/mit-parekh",
+  "row_key": "id:0033l00002iadYIAAY",
+  "person": "Mit Parekh",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T10:52:05Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAACN3JXwBGRvs7lMnJ6_rBzlXwXOrAxDSxJ0",
+      "firstName": "Mit",
+      "lastName": "Parekh",
+      "fullName": "Mit Parekh",
+      "publicIdentifier": "mit-parekh",
+      "headline": "Software Engineer",
+      "about": "Software Engineer | Rails | Node | Django | Laravel | Ruby | Python | Java | C | Javascript",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Mumbai, Maharashtra India",
+      "addressWithoutCountry": "Mumbai, Maharashtra",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQEggFCbGaMlyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701262516449?e=1785369600&v=beta&t=joYzxxXtnZg9wSrpOkMsODFIwADOI7c3dGWETSzMfIs",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEggFCbGaMlyA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1701262516449?e=1785369600&v=beta&t=4pvlnysoxkt1_Cf7C5qI2tT5ofkIJoKr4YZ0gvKFcss"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEggFCbGaMlyA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701262516449?e=1785369600&v=beta&t=pj-hBUJaskro5xneQegsWWqZzncSI18tkkpzrwYINy4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEggFCbGaMlyA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1701262516449?e=1785369600&v=beta&t=OuHO4pOH5oGg_JF6TObQ_nfO3C08SQi5fl2kggFRXIs"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQEggFCbGaMlyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701262516449?e=1785369600&v=beta&t=joYzxxXtnZg9wSrpOkMsODFIwADOI7c3dGWETSzMfIs"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "108525045",
+          "companyUrn": "urn:li:fsd_company:108525045",
+          "companyLink1": "https://www.linkedin.com/company/moniapp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGFfEmyOgaWzg/company-logo_200_200/B4EZkU_Y3yIQAc-/0/1756993785867?e=1785369600&v=beta&t=UKKZsJe3rSo_mKBe_JDqK3jqwyxnN_00a6wk32I8gd0",
+          "title": "Founding Software Engineer",
+          "subtitle": "Moni . undefined",
+          "caption": "Sep 2025 - Present · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Aug 2023 - Aug 2025 · 2 yrs",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Sep 2021 - Aug 2023 · 1 yr 11 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2553488",
+          "companyUrn": "urn:li:fsd_company:2553488",
+          "companyLink1": "https://www.linkedin.com/company/browserstack/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFHcmTInpwJOQ/company-logo_200_200/B56ZmBXnzGKEAQ-/0/1758812077808/browserstack_logo?e=1785369600&v=beta&t=A2vqw-S6r3e-zT74qlqgCvdJT8eV_Ch82oNMkAHVu3A",
+          "title": "BrowserStack",
+          "subtitle": "Full-time · 2 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Oct 2020 - Sep 2021 · 11 mos",
+              "metadata": "Mumbai, Maharashtra, India",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "May 2019 - Sep 2020 · 1 yr 4 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "29078155",
+          "companyUrn": "urn:li:fsd_company:29078155",
+          "companyLink1": "https://www.linkedin.com/company/oracle-financial-services-software-limited/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_VTLyTRO3-g/company-logo_400_400/company-logo_400_400/0/1630604333156/oracle_financial_services_software_limited_logo?e=1785369600&v=beta&t=XlZuiLY7MF9FmQ9bhKvn9zdtZvqiCmJUpUa_hbI--Ok",
+          "title": "Software Developer",
+          "subtitle": "ORACLE FINANCIAL SERVICES SOFTWARE LIMITED . Internship",
+          "caption": "Jun 2018 - Aug 2018 · 2 mos",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Oracle Financial Services Software Limited works in building banking solutions. One such team known as OBDX (Oracle Banking Digital Experience) was the team I was part of. During the period of my internship I contributed in developing web and mobile app based softwares which demonstrated the use of the APIs developed by the team. Had to integrate each and every API from login to payment."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "35695604",
+          "companyUrn": "urn:li:fsd_company:35695604",
+          "companyLink1": "https://www.linkedin.com/company/omic-healthcare/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHziZfoXQrV1w/company-logo_400_400/company-logo_400_400/0/1630588815061/omic_healthcare_logo?e=1785369600&v=beta&t=Wk6Z9Br3baJyh-tvf4VPGHgGsy99123JfD5S0svaL1A",
+          "title": "Software Developer",
+          "subtitle": "Omic Healthcare . Internship",
+          "caption": "Mar 2018 - Jun 2018 · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "10682864",
+          "companyUrn": "urn:li:fsd_company:10682864",
+          "companyLink1": "https://www.linkedin.com/company/web2success/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQH0jFhJzhZv_A/company-logo_400_400/company-logo_400_400/0/1631392768192?e=1785369600&v=beta&t=U3Quk-W1AVK8fYCj1QSk_S4GAjf2FiMuzm3jeCuIuVU",
+          "title": "Web Developer and App Developer",
+          "subtitle": "web2success . Internship",
+          "caption": "Jun 2017 - Oct 2017 · 4 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Web2Success is an IT services company undertaking freelancing projects. During the internship period I was incharge of developing one of the major projects undertaken by the company. The project was about an e-commerce website. Backend and the mobile apps both were to be developed."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "13304526",
+          "companyUrn": "urn:li:fsd_company:13304526",
+          "companyLink1": "https://www.linkedin.com/company/classcard/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWSS70if5IHg/company-logo_400_400/company-logo_400_400/0/1641556432678/classcard_logo?e=1785369600&v=beta&t=vHMhiF24buSdx33lQiFSWGBcpYdXONM1eRWCSxo0EX8",
+          "title": "Web Developer",
+          "subtitle": "reportcard.ae . Internship",
+          "caption": "Jun 2017 - Oct 2017 · 4 mos",
+          "metadata": "Mumbai Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Report Card is an Intelligent platform for Educators to Manage & Engage Students. Was a part of the core team at early stage of the company which gave a deep understanding of how businesses are built, developed and then marketed. Developed several major modules including their website backend and REST APIs for mobile applications."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "MTA: HTML5 Application Development Fundamentals - Certified 2017",
+          "subtitle": "Microsoft",
+          "issued": "Issued Aug 2017",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "AIR 2 in Graphic Designing",
+          "subtitle": "Issued by Dusty Foot Productions and UNDP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Runners Up at Code For Good",
+          "subtitle": "Issued by J. P. Morgan Chase",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Laravel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaServer Pages (JSP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Servlets",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WordPress",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15141199",
+          "companyUrn": "urn:li:fsd_company:15141199",
+          "companyLink1": "https://www.linkedin.com/school/djsce/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFZRBOE0uG9Og/company-logo_400_400/company-logo_400_400/0/1675337351376/djsce_logo?e=1785369600&v=beta&t=3X8A2A0-GPj1m2pzYnTQC0-cHmDy9MFETQVqzGCP7Fs",
+          "title": "Dwarkadas J. Sanghvi College of Engineering",
+          "subtitle": "Bachelor of Engineering, Computer Science",
+          "caption": "2015 - 2019",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Movie Guesser",
+          "subtitle": "Nov 2017 - Nov 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A bot that could guess out the movie one is thinking of based on the questions answered"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CSGO JAM",
+          "subtitle": "Jul 2017 - Nov 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Dwarkadas J. Sanghvi College of Engineering"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Gambling website for e-sports game CSGO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Eye-Commerce",
+          "subtitle": "Aug 2017 - Sep 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "An e-commerce website for selling eye wears"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Object Segregator",
+          "subtitle": "Jan 2017 - Feb 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A bot that would segregate black and white boxes into different containers from a conveyor belt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attendance System using RFID",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "RFID and Arduino based attendance system"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Automated Registration App",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "An android application for registration of applicants using OCR on their ID cards"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Billing And Stock Maintenance",
+          "subtitle": "",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "An inventory management system developed in Java Swings"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

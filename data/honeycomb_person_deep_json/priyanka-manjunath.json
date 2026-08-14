@@ -1,0 +1,478 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/priyanka-manjunath",
+  "row_key": "id:003Uk00000yfUz9IAE",
+  "person": "Priyanka Manjunath",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:54:19Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB3GE2wBqqSj88voKOnlALMuL2999yF8VEI",
+      "firstName": "Priyanka",
+      "lastName": "Manjunath",
+      "fullName": "Priyanka Manjunath",
+      "publicIdentifier": "priyanka-manjunath",
+      "headline": "Software Engineer at Coinbase",
+      "about": "Experienced Software Engineer with a Master's degree focused in Computer Science from Northeastern University. I am currently working as a Frontend Engineer on the Advanced Trade team at Coinbase. Always looking to learn something new!",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEipZMW0UNbLw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705342350409?e=1785369600&v=beta&t=7um2DvKFBn8PWTKVUyLtGyTEzw3xbFjjfQjgQkdPBr8",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 798,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEipZMW0UNbLw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1705342350409?e=1785369600&v=beta&t=Z3RhAvet_PfYGhuArRkac4f_8ZEVgZSwPFKudeHz6hY"
+        },
+        {
+          "width": 1290,
+          "height": 323,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEipZMW0UNbLw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705342350409?e=1785369600&v=beta&t=7um2DvKFBn8PWTKVUyLtGyTEzw3xbFjjfQjgQkdPBr8"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Coinbase",
+          "subtitle": "Full-time · 4 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Software Engineer",
+              "caption": "Feb 2026 - Present · ",
+              "description": []
+            },
+            {
+              "title": "Software Engineer II",
+              "caption": "Apr 2023 - Jan 2026 · 2 yrs 9 mos",
+              "description": []
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jul 2021 - Mar 2023 · 1 yr 8 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Frontend Engineer, buiding https://www.coinbase.com/advanced-trade"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Software Engineer Intern",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "May 2020 - Sep 2020 · 4 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9371944",
+          "companyUrn": "urn:li:fsd_company:9371944",
+          "companyLink1": "https://www.linkedin.com/company/societe_generale_global_solution_centre/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_400_400/company-logo_400_400/0/1630620434106/societe_generale_global_solution_centre_logo?e=1785369600&v=beta&t=_6mMGEczvrax1e7_PtzkUYtk5m4stMzoaRbtWXntQdg",
+          "title": "Senior Software Engineer",
+          "subtitle": "Societe Generale Global Solution Centre . Full-time",
+          "caption": "Jul 2018 - Jul 2019 · 1 yr",
+          "metadata": "Bengaluru, Karnataka, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "title": "DELF (Diplôme d’Etudes en Langue Française) A1",
+          "subtitle": "French National Education Ministry (Ministère de l'Éducation Nationale)",
+          "issued": "Issued Jul 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "49275",
+          "companyUrn": "urn:li:fsd_company:49275",
+          "companyLink1": "https://www.linkedin.com/school/iiithofficial/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGXiXmbE3nzEw/company-logo_400_400/company-logo_400_400/0/1729748082101/iiithofficial_logo?e=1785369600&v=beta&t=1pQbk6Sps3Hk08Ipp78Or9PxuU8rihoMn8N5TsHEJUI",
+          "title": "Advanced Certification in Artificial Intelligence and Machine Learning",
+          "subtitle": "International Institute of Information Technology",
+          "issued": "Issued Oct 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "ELEMENTARY",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hindi",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kannada",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Winner - FCC CodeJam 2019",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Winner of a departmental competitive coding competition at Societe Generale Global Solution Centre. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Best Intern ",
+          "subtitle": "Issued by Sellfys",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Most Reliable Student 2012, St. Paul's English School",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Driven Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Kotlin",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spring Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hibernate",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PyTorch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Public Speaking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Neural Networks",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Natural Language Processing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5274",
+          "companyUrn": "urn:li:fsd_company:5274",
+          "companyLink1": "https://www.linkedin.com/school/northeastern-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF531vNuZm4hw/company-logo_200_200/B4EZs3cqW9GoAI-/0/1766161819424/northeastern_university_logo?e=1785369600&v=beta&t=iO5g4IRoQWAuW-Hj9d6kEvgFNaEfko_RC8J7Fp3i-oA",
+          "title": "Northeastern University",
+          "subtitle": "Master's degree - MS, Computer Science",
+          "caption": "2019 - 2021",
+          "subComponents": []
+        },
+        {
+          "companyId": "15096527",
+          "companyUrn": "urn:li:fsd_company:15096527",
+          "companyLink1": "https://www.linkedin.com/school/pesuniversity/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH160aiVx0W8Q/company-logo_400_400/company-logo_400_400/0/1662235342381/pesuniversity_logo?e=1785369600&v=beta&t=cw41XBrBPVmqBNiWkGmqIW3qNpbDV7tA4yGsVgCJHUI",
+          "title": "PES University",
+          "subtitle": "Bachelor of Engineering (B.E.), Information Science and Engineering",
+          "caption": "2014 - 2018",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [
+        {
+          "companyId": "2554669",
+          "companyUrn": "urn:li:fsd_company:2554669",
+          "companyLink1": "https://www.linkedin.com/company/dignity-foundation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEK4iVWwZjNAQ/company-logo_400_400/company-logo_400_400/0/1708626248421/dignity_foundation_logo?e=1785369600&v=beta&t=IFqmU7MaTzaJQjOh0SiLkaTSpT91voCFdsXN4fK7K0I",
+          "title": "Educating Senior Citizens - usage of Technology",
+          "subtitle": "Dignity Foundation",
+          "caption": "Jan 2017 - Aug 2018 · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Covey.Town's Chat Feature",
+          "subtitle": "Feb 2021 - Apr 2021",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Northeastern University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Developed an encrypted chat feature for covey.town. \n\n• Messages can be sent to everyone in the room (public chat), to a specific user in the room (private chat), and to users in close proximity (proximity chat)\n• Also added features to upload and download files along with saving chat history.\n• The messages are encrypted and decrypted using AES encryption. \n• The project was a collaborative effort with 3 other students for the Foundations of Software Engineering course at Northeastern."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fianchetto - Chess Tournament Manager",
+          "subtitle": "Feb 2020 - Apr 2020",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Northeastern University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• Developed a Full Stack application for creating, managing, and playing Chess online.\n• Designed responsive user interface in React and utilized Redux to manage the state of the application.\n• Enabled real-time gameplay between two users by utilizing Websockets implemented inside a NodeJS microservice.\n• Integrated algorithm to auto-generate pairing for each round according to the Swiss System.\n• Created web services in Spring Boot and utilized Spring Data JPA to persist data into MySQL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Image Processing Desktop App",
+          "subtitle": "Sep 2019 - Nov 2019",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Northeastern University"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "• Developed a desktop software to apply various image filters and image transformations.\n• Designed user interface utilizing core java in accordance with SOLID principles and MVC design pattern.\n• Integrated features to support input in form of a script thus providing user with ability to automate operations\n• Maintained high level of unit test coverage through test-driven development using Junit 4."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

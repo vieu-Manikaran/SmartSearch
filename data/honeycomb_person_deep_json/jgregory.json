@@ -1,0 +1,431 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jgregory",
+  "row_key": "id:003Uk00000tcCqPIAU",
+  "person": "James Gregory",
+  "account": "Entire.io",
+  "fetched_at": "2026-07-14T10:37:23Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABVaDwBhuTxFi8b0_y6RvShEcKwZw6MRP8",
+      "firstName": "James",
+      "lastName": "Gregory",
+      "fullName": "James Gregory",
+      "publicIdentifier": "jgregory",
+      "headline": "Senior Staff Software Engineer at Zoox (We're hiring!)",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Berkeley, California United States",
+      "addressWithoutCountry": "Berkeley, California",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5103AQFy4LBzhyc7tQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516358262375?e=1785369600&v=beta&t=mG8dBgt6FOjnM4mJtLrc25OirikA0CdTyy568NCIuSE",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFy4LBzhyc7tQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516358262347?e=1785369600&v=beta&t=2wONmIFc95H8WQaYmgS1c7LaX9B8UQFFSPwZMyHkrJo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFy4LBzhyc7tQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516358263061?e=1785369600&v=beta&t=Zva0tm2wkeqz0sP70KhOr7dt8sYrEJ9ZGG4Af0tEaXc"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFy4LBzhyc7tQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516358262379?e=1785369600&v=beta&t=Az7ZCs4Ya0VTeNG4CjvWL5zhYnOrtpTIB0J75t00NVU"
+        },
+        {
+          "width": 450,
+          "height": 450,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5103AQFy4LBzhyc7tQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516358262375?e=1785369600&v=beta&t=mG8dBgt6FOjnM4mJtLrc25OirikA0CdTyy568NCIuSE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "7597308",
+          "companyUrn": "urn:li:fsd_company:7597308",
+          "companyLink1": "https://www.linkedin.com/company/zoox-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF2yqp_9BrVew/company-logo_400_400/company-logo_400_400/0/1654722579134/zoox_inc_logo?e=1785369600&v=beta&t=HZp6sMMQa4oLfjuPrXSTbv8DOvJi_i8kP2TYpAKxLas",
+          "title": "Zoox",
+          "subtitle": "Full-time · 6 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Manager",
+              "caption": "Apr 2023 - Present · 2 yrs 9 mos",
+              "metadata": "Foster City, California, United States",
+              "description": []
+            },
+            {
+              "title": "Senior Staff Software Engineer",
+              "caption": "Sep 2019 - Apr 2023 · 3 yrs 7 mos",
+              "metadata": "Foster City",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Tech lead for our realtime in-vehicle 3D visualization system, and interim manager for the team building our entire suite of operational tools. The tech is exciting: we're pushing the limits of what you can do in a browser, but the impact is even bigger: we're building the systems that will turn Zoox into a robo-taxi service, not just an cool piece of technology.\n\nWe work in TypeScript, Python, and C++, we're product and user-centric, but also dive deep into the bowels of the system to diagnose network issues and squeeze every last bit of performance out of our systems. And it's work that will legitimately change the world: if we get this right, road fatalities could be a thing of the past in our lifetime.\n\nIf that's exciting, hit me up. I love talking about this stuff. We're hiring, but it's never a waste of time to talk with great people, so if it doesn't work out, I hope we'll be able to have a good discussion about some great technology!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Founder",
+          "subtitle": "Alimium . undefined",
+          "caption": "Sep 2016 - Oct 2018 · 2 yrs 1 mo",
+          "metadata": "Berkeley, California",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "167907",
+          "companyUrn": "urn:li:fsd_company:167907",
+          "companyLink1": "https://www.linkedin.com/company/zynga/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYQJRpdWIV3A/company-logo_400_400/company-logo_400_400/0/1696360009849/zynga_logo?e=1785369600&v=beta&t=I9eCX7uhjabfovDwcBR4LXtxdlCAAHDwr1fgw0n14Tc",
+          "title": "Zynga",
+          "subtitle": "undefined · 5 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Distinguished Engineer",
+              "caption": "Oct 2014 - Aug 2016 · 1 yr 10 mos",
+              "description": []
+            },
+            {
+              "title": "Architect",
+              "caption": "Nov 2012 - Oct 2014 · 1 yr 11 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": []
+            },
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Mar 2011 - Nov 2012 · 1 yr 8 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CTO & Co-founder",
+          "subtitle": "Whereoscope . undefined",
+          "caption": "Jun 2010 - Mar 2011 · 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "219696",
+          "companyUrn": "urn:li:fsd_company:219696",
+          "companyLink1": "https://www.linkedin.com/company/jamcode/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQG5TFXxBQkBIA/company-logo_400_400/company-logo_400_400/0/1631334923049?e=1785369600&v=beta&t=S4CIiErXpXi_kM4bMLrWHXo1Y6rcsYifnYKaygqOlQ0",
+          "title": "CTO and Co-founder",
+          "subtitle": "jamcode . undefined",
+          "caption": "Jun 2008 - Jun 2010 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Developed server-side infrastructure for GasBag: crowd-source petrol price finder application for iPhone. Scaled infrastructure with demand from 100's of users to 100,000's users. Led development of version 2 client platform, improving load time by an order of magnitude, and massively improving the user-experience of the application."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "60576",
+          "companyUrn": "urn:li:fsd_company:60576",
+          "companyLink1": "https://www.linkedin.com/company/sensory-networks/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGoB_yYSZMfAQ/company-logo_400_400/company-logo_400_400/0/1631303841591?e=1785369600&v=beta&t=Bv0q6JY8RmRczqaZmjk5ani0Ezgp0WgSiYVcNWbMCfc",
+          "title": "Sensory Networks",
+          "subtitle": "undefined · 4 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Program Manager - IPS",
+              "caption": "Jan 2008 - Jan 2009 · 1 yr",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Conceived of and led development of FastChannel IPS accelerator, leading Sensory's move from hardware to software, scaling from 2Gbps IPS solution to 10Gbps in 9 months. Led development effort to build NSS compliant IPS. Performed successful on-site customer evals of Sensory technology. Ran technical demo at RSA 2008, acted as technical liaison for customer meetings at same. Managed customer interactions. Implemented strategies to improve engineering efficiency and effectiveness. Acted as liaison between marketing and engineering teams: ensured that development, both for IPS and other product groups, matched marketing expectations."
+                }
+              ]
+            },
+            {
+              "title": "Program Manager - IPS",
+              "caption": "Mar 2007 - Dec 2008 · 1 yr 9 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Managed development of StreamWeaver IPS accelerator. Improved rule-coverage from 90 to 99%. Managed team of 5-7 developers building complex interlocking systems. Produced project plans and schedules. Scoped development hardware and test-equipment; advised upper management on procurement of same. Ran weekly meetings to track development, adjust task allocation as necessary. Adjusted development priorities to handle customer demands in a timely manner, minimising impact to development schedules."
+                }
+              ]
+            },
+            {
+              "title": "Software Engineer",
+              "caption": "Jan 2005 - Feb 2007 · 2 yrs 1 mo",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed hardware-accelerated TCP stream reassembly module for Linux kernel-mode in C. Worked across teams to debug issues with hardware platform. Built automated multi-platform build-server to expedite testing across many supported platforms. Provided on-site customer support in Korea."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "subtitle": "Anchor Systems . undefined",
+          "caption": "2002 - 2004 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Implemented automated systems in Python to streamline business practices. Designed and built systems that reduced yearly accounting time-expenditure by an order of magnitude. Improved customer billing systems to automate credit-card charges, invoicing, reminder notices, and payment reconciliation. Built customer-facing websites for account management, and new customer sign-up. Built customer-facing credit-card processing gateway API. Advised on marketing strategies to improve profitability."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "124270",
+          "companyUrn": "urn:li:fsd_company:124270",
+          "companyLink1": "https://www.linkedin.com/company/unixpac/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFfCT2Hz1Eu-g/company-logo_400_400/company-logo_400_400/0/1631330811254?e=1785369600&v=beta&t=Qa9OSauXKGG9NzRuCKimsU2inAlYMKjQ869AoD_4YpM",
+          "title": "Software Developer",
+          "subtitle": "Unixpac . undefined",
+          "caption": "Mar 2000 - Jun 2002 · 2 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Mobile",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "TCP/IP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Facebook",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Experience",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "167872",
+          "companyUrn": "urn:li:fsd_company:167872",
+          "companyLink1": "https://www.linkedin.com/school/y-combinator/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1785369600&v=beta&t=827QUPpgH0BN3b5rx3CQrAk64Hckc01yN9juj6uR8hI",
+          "title": "Y Combinator",
+          "subtitle": "null, null",
+          "caption": "2010 - 2010",
+          "subComponents": []
+        },
+        {
+          "companyId": "166676",
+          "companyUrn": "urn:li:fsd_company:166676",
+          "companyLink1": "https://www.linkedin.com/school/university-of-sydney/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHbPUZaDAMT6g/company-logo_400_400/company-logo_400_400/0/1646696237577/university_of_sydney_logo?e=1785369600&v=beta&t=CzdvWszHcjc2Y3MigW0fOIDy7SUQvtN3tx0yAUHjnP4",
+          "title": "University of Sydney",
+          "subtitle": "Bachelor of Computer Science and Technology, null",
+          "caption": "1999 - 2003",
+          "subComponents": []
+        },
+        {
+          "title": "Y Combinator",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

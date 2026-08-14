@@ -1,0 +1,380 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/jackkranz",
+  "row_key": "id:003Uk00000ibj6vIAA",
+  "person": "Jack Kranz",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABlCTjwBFSTY_v8wUAVB9AKXsCqUI_hG-z0",
+      "firstName": "Jack",
+      "lastName": "Kranz",
+      "fullName": "Jack Kranz",
+      "publicIdentifier": "jackkranz",
+      "headline": ".",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Greater Sydney Area Australia",
+      "addressWithoutCountry": "Greater Sydney Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHLGJcXB9rPPQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1645395415505?e=1785369600&v=beta&t=xXhoWqmR-_yfHOKaJmDrwDxSgznXmLxqBroEFi05SJk",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHLGJcXB9rPPQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1645395415505?e=1785369600&v=beta&t=lBihA-H8-eiE17O2F_uAW8AL_r9xTzpQe2R2cqoCk0w"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHLGJcXB9rPPQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1645395415505?e=1785369600&v=beta&t=1VPgziZLWLI-r-KEYysgHEfLsaB4FeahaYDxNpHnUxs"
+        },
+        {
+          "width": 345,
+          "height": 345,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHLGJcXB9rPPQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1645395415505?e=1785369600&v=beta&t=0UJlVNL2yaAbIIQaAPyiGWGYvCCUoRdKDFpEX-Lzvcw"
+        },
+        {
+          "width": 345,
+          "height": 345,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHLGJcXB9rPPQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1645395415505?e=1785369600&v=beta&t=xXhoWqmR-_yfHOKaJmDrwDxSgznXmLxqBroEFi05SJk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Engineering Manager",
+          "subtitle": "Lyka . undefined",
+          "caption": "Oct 2025 - Present · 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "295257",
+          "companyUrn": "urn:li:fsd_company:295257",
+          "companyLink1": "https://www.linkedin.com/company/woolworths-group/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAH4-f31tDvQ/company-logo_200_200/B56ZxJ6q4YHIAI-/0/1770766643356/woolworths_group_logo?e=1785369600&v=beta&t=JOWl12qcWCs8Tn_kLcGI0gd4pAE-F2B98cuB5cgLkno",
+          "title": "Tech Lead",
+          "subtitle": "WooliesX . Full-time",
+          "caption": "Jan 2022 - Oct 2025 · 3 yrs 9 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18278699",
+          "companyUrn": "urn:li:fsd_company:18278699",
+          "companyLink1": "https://www.linkedin.com/company/willowinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH0vgmfJkkWDQ/company-logo_400_400/company-logo_400_400/0/1689899346719/willowinc_logo?e=1785369600&v=beta&t=eTi0A8FKnad3XnAGdBDfNi7gmkoZaVOerp3a0eFF27A",
+          "title": "Senior Software Engineer",
+          "subtitle": "Willow . Full-time",
+          "caption": "Apr 2020 - Jan 2022 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "39477",
+          "companyUrn": "urn:li:fsd_company:39477",
+          "companyLink1": "https://www.linkedin.com/company/ssw/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFNfOrbfP8LYA/company-logo_100_100/company-logo_100_100/0/1630668596530/ssw_logo?e=1785369600&v=beta&t=4SFUmq3fs8Y_BP3mz6WL3vRTyoDhsHcFABgAO2-fDTE",
+          "title": "Software Architect",
+          "subtitle": "SSW . undefined",
+          "caption": "Aug 2018 - Apr 2020 · 1 yr 8 mos",
+          "metadata": "Neutral Bay, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "162479",
+          "companyUrn": "urn:li:fsd_company:162479",
+          "companyLink1": "https://www.linkedin.com/company/apple/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1785369600&v=beta&t=xz8wYn_JGZUgL6PQtn6EX3lObYNFAaPGx6TQOE92Wn0",
+          "title": "Apple",
+          "subtitle": "undefined · 4 yrs 5 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Genius Admin",
+              "caption": "Mar 2018 - Aug 2018 · 5 mos",
+              "metadata": "Bondi Junction, New South Wales, Australia",
+              "description": []
+            },
+            {
+              "title": "Technical Specialist",
+              "caption": "Oct 2016 - Mar 2018 · 1 yr 5 mos",
+              "metadata": "Bondi Junction",
+              "description": []
+            },
+            {
+              "title": "Redzone Specialist",
+              "caption": "Mar 2014 - Oct 2016 · 2 yrs 7 mos",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object Oriented Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swift",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Application Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android SDK",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "UIKit",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Firebase",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Automated Software Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unity",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Digital Transformation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166678",
+          "companyUrn": "urn:li:fsd_company:166678",
+          "companyLink1": "https://www.linkedin.com/school/university-of-technology-sydney/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHW5Zk21s3IBA/company-logo_400_400/company-logo_400_400/0/1631330781753?e=1785369600&v=beta&t=mibXSBd9bPkYKiRADMrehW3CON_1VZDhYh31R5dweqU",
+          "title": "University of Technology Sydney",
+          "subtitle": "Bachelor’s Degree, Information Technology",
+          "caption": "2015 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Enterprise Systems Development"
+            }
+          ]
+        },
+        {
+          "companyId": "166678",
+          "companyUrn": "urn:li:fsd_company:166678",
+          "companyLink1": "https://www.linkedin.com/school/university-of-technology-sydney/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHW5Zk21s3IBA/company-logo_400_400/company-logo_400_400/0/1631330781753?e=1785369600&v=beta&t=mibXSBd9bPkYKiRADMrehW3CON_1VZDhYh31R5dweqU",
+          "title": "University of Technology Sydney",
+          "subtitle": "Bachelor’s Degree, Business",
+          "caption": "2015 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Management"
+            }
+          ]
+        },
+        {
+          "companyId": "15140459",
+          "companyUrn": "urn:li:fsd_company:15140459",
+          "companyLink1": "https://www.linkedin.com/school/uts-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEK-TKM8kZ-CQ/company-logo_400_400/company-logo_400_400/0/1630492479231/uts_college_logo?e=1785369600&v=beta&t=Y7jEwOxZhbKRawyhF9dVgZmGfmR30Us4tDMnOt9xvMY",
+          "title": "UTS:INSEARCH",
+          "subtitle": "Diploma, Information Technology",
+          "caption": "2013 - 2014",
+          "subComponents": []
+        },
+        {
+          "title": "Waverley College",
+          "subtitle": "High School, null",
+          "caption": "2004 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "HSC"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,816 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/chiappinigiulio",
+  "row_key": "id:0031N00001gomtWQAQ",
+  "person": "Giulio Chiappini",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:32:54Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAVPI6kB1j0_iiYKd9ApY9dUTPH6XLK24t4",
+      "firstName": "Giulio",
+      "lastName": "Chiappini",
+      "fullName": "Giulio Chiappini",
+      "publicIdentifier": "chiappinigiulio",
+      "headline": "Tech Lead - Edge & Delivery at Yelp",
+      "about": "I'm an All-around Systems and Network Engineer.\n\nCurrently working as an SRE and interested in infrastructure work for large web properties and web applications at scale.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Networking",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQGut0Vn33o0Eg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517339085797?e=1785369600&v=beta&t=eULPX5OZTfhaadvyY65DkVzw9lbGG-I6G2Mj31R0btk",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQGyeV2PWRD98w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517339086050?e=1785369600&v=beta&t=HcuzonZgvqD-ycG4znWIIt7bWFwZ4GghA3bHn9jttyI",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGut0Vn33o0Eg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517339085738?e=1785369600&v=beta&t=M_kad2wXkpR5kuzlzpVbdE_4de6IeNvIdTMgg2pvoag"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGut0Vn33o0Eg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517339085501?e=1785369600&v=beta&t=OPoJNy6bd46K_5XSkISEyer6OB4izkYhAgkKntHqfyI"
+        },
+        {
+          "width": 255,
+          "height": 255,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGut0Vn33o0Eg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517339086200?e=1785369600&v=beta&t=rsc5xdr5zhIlGKo_t02htLwvhVDlZ0Rd4_qgBh2cE6s"
+        },
+        {
+          "width": 255,
+          "height": 255,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGut0Vn33o0Eg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517339085797?e=1785369600&v=beta&t=eULPX5OZTfhaadvyY65DkVzw9lbGG-I6G2Mj31R0btk"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQGyeV2PWRD98w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517339085977?e=1785369600&v=beta&t=BRhfQ7ksHV_vLQxwkrFCE7Zv2xu-jSGG3t2EEzHoVag"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQGyeV2PWRD98w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1517339086050?e=1785369600&v=beta&t=HcuzonZgvqD-ycG4znWIIt7bWFwZ4GghA3bHn9jttyI"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 9 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Lead - Site Reliability Engineer - Edge & Delivery",
+              "caption": "Apr 2022 - Present · 3 yrs 9 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Working on End to End Content Delivery Roadmap and CDN / Performance within the Edge - Production Engineering group."
+                }
+              ]
+            },
+            {
+              "title": "Site Reliability Engineer",
+              "caption": "Mar 2021 - Mar 2022 · 1 yr",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Part of the Edge Team. Working on Content Delivery, Caching and Performance"
+                }
+              ]
+            },
+            {
+              "title": "Site Reliability Engineer",
+              "caption": "Apr 2020 - Mar 2021 · 11 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Part of the Production Engineering - Resilience team.\n\nDealing with Edge and Infrastructure Services issues."
+                }
+              ]
+            },
+            {
+              "title": "Network Engineer",
+              "caption": "Jul 2016 - Apr 2020 · 3 yrs 9 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Part of the Corporate Engineering Team.\n\nFocus will be to improve tooling and automation around network configuration and provisioning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "810741",
+          "companyUrn": "urn:li:fsd_company:810741",
+          "companyLink1": "https://www.linkedin.com/company/will-servizi-informatici/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHUrW-xx2mWMw/company-logo_400_400/company-logo_400_400/0/1631308703841?e=1785369600&v=beta&t=CKeP7LUXg2jpryooQdtP3zu4YQKa9fny1GDbZ9K7578",
+          "title": "Lead Network and Systems Engineer",
+          "subtitle": "Will S.r.l. . undefined",
+          "caption": "2011 - 2016 · 5 yrs",
+          "metadata": "Roma, Italy",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "▪ Worked as pre-sales tech, consulting with clients and developing BoMs for new business\nopportunities\n▪ Delivery of integrated Server / VoIP / Networking solutions for SMB and Enterprise Customers\n▪ Bootcamp and Long Form Training courses on principles and practices of Networking and Network\nEngineering\n▪ Writing technical documents and operational manuals for end users of the developed solutions\n▪ Field Engineer for third-party International Managed Service Providers. Router/Switch/Firewall\nreplacement, troubleshooting and deployment."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Technical Lead",
+          "subtitle": "Trade & Consulting s.r.l. . undefined",
+          "caption": "Dec 2003 - May 2009 · 5 yrs 5 mos",
+          "metadata": "Genova, Italy",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Design and implementation of technological solution for the small and medium business sector:\n▪ Centralized Backup solutions\n▪ Simple PHP Applications (Data Entry, DB Frontends, XML Parsing)\n▪ Implementation and Management of Network services on Debian and Redhat platforms such as:\n▫ Server Web (Apache/Lighttpd)\n▫ DNS/DHCP (ISC BIND/DHCPd)\n▫ MySQL Databases\n▫ Samba-based File servers\n▪ Network design and workflow optimization for 2 DMV-equivalent front-office agencies\n▪ Writing of security policies and personnel training"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Internship - Monitoring Infrastructure Developer",
+          "subtitle": "Studio NOOS . undefined",
+          "caption": "Jun 2003 - Sep 2003 · 3 mos",
+          "metadata": "Savona, Italy",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Design and Development of a monitoring solution based on open-source technologies. Implemented\nin production inside the local BITRON facility in Savona,IT (subsidiary of FIAT Automotive).\nRoles Performed:\n▪ Created automatic troubleshooting procedures based on the Nagios framework\n▪ Setup of automated alerts over multiple channels (phone call, sms, email)\n▪ Creation of automated reports through RRDTool and custom in-house scripts\n▪ Extensive technical documentation of the system and of the long-term care and operation of the\ninfrastructure."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2240",
+          "companyUrn": "urn:li:fsd_company:2240",
+          "companyLink1": "https://www.linkedin.com/company/juniper-networks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEHZaYOKgaTw/company-logo_400_400/B4EZigFz1IHIAc-/0/1755032534663/juniper_networks_logo?e=1785369600&v=beta&t=uIfE1a9w5-oyjdyJFIE5hDzw3N0gYXhmq4zIxyNQiJk",
+          "title": "Juniper Networks Certified Associate, Junos (JNCIA-Junos)",
+          "subtitle": "Juniper Networks",
+          "issued": "Issued Feb 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IPv6 Forum Certified Network Engineer (Silver)",
+          "subtitle": "The IPv6 Forum",
+          "issued": "Issued Aug 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Panduit Certified Technician",
+          "subtitle": "Panduit Europe Ltd",
+          "issued": "Issued Jul 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Small and Midsize Business Engineer Representative (SMBEN - 700- 501)",
+          "subtitle": "Cisco Career Certifications & Training",
+          "issued": "Issued May 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco Certified Network Associate",
+          "subtitle": "Cisco Career Certifications & Training",
+          "issued": "Issued May 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco Certified Network Associate - Security",
+          "subtitle": "Cisco Career Certifications & Training",
+          "issued": "Issued Apr 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Italian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "National NetRiders 2012 Finalist",
+          "subtitle": "Issued by Cisco Networking Academy Program",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Placed 2nd in the National NetRiders 2012 Competition."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Ansible",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cisco IOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CCNA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Active Directory",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ubuntu",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SSH",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VMware",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bash",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Nagios",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cacti",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux server administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Debian",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "DNS management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Samba",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bind",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Postfix",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VNC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Kirk Byers Training",
+          "subtitle": "Python for Network Engineers, Computer Systems Networking and Telecommunications",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "▪ Why Python, the Python Interpreter Shell, Strings\n▪ Numbers, Lists\n▪ Conditionals and For Loops\n▪ While loops, Dictionaries, and Exceptions\n▪ Review and Exercises\n▪ Functions\n▪ Files and Regular Expressions\n▪ Modules and Packages\n▪ Classes and Objects\n▪ SSH, Telnet, and Pickle"
+            }
+          ]
+        },
+        {
+          "title": "Stormwind Live Training",
+          "subtitle": "Implementing Cisco IP Routing (ROUTE) 2.0, Computer Systems Networking and Telecommunications",
+          "caption": "2015 - Present",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "▪ Describing network fundamentals\n▪ Establishing Internet and WAN connectivity (IPv4 and IPv6)\n▪ Managing network device security\n▪ Operating a medium-sized LAN with multiple switches, supporting VLANs, trunking, and spanning\ntree\n▪ Troubleshooting IP connectivity (IPv4 and IPv6)\n▪ Configuring and troubleshooting EIGRP and OSPF (IPv4 and IPv6)\n▪ Configuring devices for SNMP, Syslog, and NetFlow access\n▪ Managing Cisco device configurations, Cisco IOS images, and licenses"
+            }
+          ]
+        },
+        {
+          "title": "UDemy Online Courseware",
+          "subtitle": "CCNA Security 640-554 Boot Camp, Computer Systems Networking and Telecommunications",
+          "caption": "2014 - 2015",
+          "subComponents": []
+        },
+        {
+          "companyId": "1383271",
+          "companyUrn": "urn:li:fsd_company:1383271",
+          "companyLink1": "https://www.linkedin.com/school/stanly-community-college/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE7KJUhbq7WEA/company-logo_400_400/company-logo_400_400/0/1631373665627?e=1785369600&v=beta&t=kAV_HWo-vVR9ve-BwdN9YaqRoBkfwxidn2BU3G8r_cg",
+          "title": "Stanly Community College",
+          "subtitle": "VMware vSphere: Install, Configure, Manage [V5.1], Computer Systems Networking and Telecommunications",
+          "caption": "2014 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "▪ Install and configure ESXi\n▪ Install and configure vCenter Server components\n▪ Use vCenter Server to configure and manage ESXi networking and storage\n▪ Deploy, manage, and migrate virtual machines\n▪ Manage user access to the VMware infrastructure"
+            }
+          ]
+        },
+        {
+          "title": "ClorofillaRoma Cisco Networking Academy",
+          "subtitle": "CCNA Discovery OneFifty 4.0, Computer Systems Networking and Telecommunications",
+          "caption": "2011 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "898/1000"
+            },
+            {
+              "type": "insightComponent",
+              "text": "Preparatory school for Cisco Certified Network Associate certification exam"
+            }
+          ]
+        },
+        {
+          "title": "Liceo Scientifico Statale Leonardo Da Vinci, Genova",
+          "subtitle": "Diploma, Scientific studies",
+          "caption": "1998 - 2004",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "71"
+            },
+            {
+              "type": "insightComponent",
+              "text": "High School Italian Equivalent Degree with a focus on scientific subjects"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Branch Network Infrastructure refresh - Large Biotech Organization",
+          "subtitle": "Mar 2016 - Mar 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Project involved full network infrastructure refresh for a Research Station Branch Office of multinational Biotech Firm.\n\nTasks included:\n - Consolidation of all WAN circuits for the branch\n - Complete LAN infrastructure swap, migrating from standalone switches to a Cisco 3650 Stack\n - Router and WAN Accelerator upgrades\n - Functional tests on Day One and troubleshooting of LAN issues arised"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cisco UCS Deployment for CONI - National Olympic Committee",
+          "subtitle": "Feb 2016 - Feb 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Deployed a full stack Cisco UCS Solution for the National Olympic Committe DR Site.\n\nTasks involved:\n - Standing up and first initialization of Cisco UCS Blade Chassis\n - Configuration and deployment of Cisco Fabric Interconnects\n - Creation of service profiles for each blade\n - SAN Zoning and LUN configuration for the local NetApp appliance\n - Initial training of in-house operators"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Networking Bootcamp for National Firefighting Corps",
+          "subtitle": "Feb 2016 - Feb 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Bootcamp was held over 3 days for 25 members of National Firefighitng Corps Regional Commands' IT staff.\n\nSubjects included:\n- ISO/OSI Model\n- Ethernet Forwarding\n- IP Addressing, Classful and Classless Subnetting\n- Practical initial configuration of Cisco IOS devices\n- Structured cabling Equipment and practices\n- Techniques for networknig troubleshooting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Networking Bootcamp for Centro Sperimentale di Volo, Aeronautica Militare Italiana",
+          "subtitle": "Sep 2015 - Sep 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Bootcamp was held over 4 days for the IT personnel of the Italian Military Aviation CSV Center.\n\nSubjects included:\n- ISO/OSI Model\n- Ethernet Forwarding\n- IP Addressing, Classful and Classless Subnetting\n- Fundamentals of Routing\n- Network Address Translation\n- Techniques for networknig troubleshooting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tech Room Rebuild - Redesign of the DC supporting both the company's campus network and the infrastructure delivering Terminal Services to the public",
+          "subtitle": "Aug 2015 - Aug 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Consolidated storage systems on 4 QNAP appliances\n▪ 2 Core Appliances\n▪ 2 Backup Appliances\n▪ Re-organized and consolidated 2.5 TB of archival data to increase storage efficiency\n▪ Rebuilt 3 out of 4 RAID volumes\n▫ 2 Volumes converted to RAID6\n▫ Third volume (8-disks RAID5) was online-grown (while serving content) and dedicated to\nbackups\nRedesigned L3 network and dedicated 1 switch to Edge interconnections (links to Telecom Italia's\nMPLS network and Internet Access) and server/storage connections.\nImplemented Firewall System based on Cisco ASA5505 including:\n▪ Remote Access VPN\n▪ External Access Filtering\n▪ NAT\nPhysical Infrastructure Rebuild\n▪ Rack & Cable Management\n▪ Full Power re-wiring to leverage redundant power lines and discrete UPS for each line"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Review and Redesign of 2014 Network Deployment Project - Changed End User requirements",
+          "subtitle": "Jul 2015 - Jul 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Expansion of original network to support 500 more access connections.\n▪ Designed and planned implementation of access switch system with Cisco Stacking technology\n▪ Temporarily activated \"legacy\" portion of the infrastructure through 8 Allied Telesys 10/100 switch to\nserve the campus (will eventually be replaced by Cisco Stacking Switches)\n▪ Rewrote Allied Telesys configuration to support Voice endpoints in the new office areas and\nconnection with Leaf/Spine portion of the network\n▪ 100 Phone Endpoints provisioning and E1/PRI Trunk configuration for direct extension access\n(each extension is reachable by PSTN through a direct number)\n▪ Created provisioning scripts for endpoints connected to legacy portion of the network (Allied\nTelesys) since switches are not CDP/LLDP compatible and thus unable to assign Voice VLANs\ndynamically\n▫ Python script based on PExpect to procedurally remote into phones and hard-code the Voice\nVLAN ID on each of them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cisco Ironport Mail Filtering Infrastructure Migration",
+          "subtitle": "Mar 2015 - Mar 2015",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Pre-Existing Configuration analysis and migration from Ironport C160 Appliance (pre-Cisco Merger)\nwith brand new Cisco ESA C170 physical appliance.\n▪ Analysis and re-design of Content Filtering rules to remove overlaps and false positives.\n▪ Geographical Cut-Over between Rome and Milan nodes and preparation of new appliances for\neach.\nIssues encountered and applied solutions\n▪ End user did not have a centralized SMA appliance but needed 1 year worth of MessageTracking\nlogs for auditing purposes.\n▪ Cisco does not support MessageTracking log migration from a standalone ESA appliance. Only\nmigration path supported is through a SMA appliance.\n▪ Solution\n▫ Performed reverse-engineering on legacy Ironport Appliance\n▫ Developed custom software solution based on python to procedurally export MessageTracking\nData in .csv format with _no support_ from the vendor.\n▫ Succesfully exported over 20 million records (individual email tracking) and exposed them inside\na searchable database."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Design and Deployment of a Medium Scale CUCM IP-PBX System",
+          "subtitle": "Dec 2014 - Dec 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Design for a VoIP solution for 200 end users based on Cisco BE6000 mid market platform.\n▪ Deployment of CUCM 10.1 infrastructure including Active Directory integration to handle advanced\nservices.\n▪ PRI Voice Gateway implementation through a Patton Voice Gateway\n▪ Design of a Call Plan and Toll-Fraud prevention scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "High Availability E1 - SIP Gateway",
+          "subtitle": "Dec 2014 - Dec 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The activity involved connecting 2 E1 connections on redundant Cisco ISR2921 voice gateways and\nto expose the PSTN access as a single SIP session to the IVR system.\nAn active/passive solution was developed leveraging the Cisco platform and EEM scripting in\nparticular.\n▪ SIP Session exposed on a Virtual IP through HSRP\n▪ E1 Line status is monitored through custom EEM scripts\n▪ HSRP instance priority is altered automatically as soon as E1 Line Status changes\n▫ If E1 link is lost, the HSRP instance priority gets immediately lowered\n▫ The SIP session relocates immediately on the secondary ISR (which will have a working E1\nconnection)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure Upgrade - Design and Implementation",
+          "subtitle": "Nov 2014 - Nov 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Layer 3 network implementation with multiple subnets (14 VLANs)\n▪ Service Segregation for the most critical workloads and isolation of end-user traffic from backend\nloads\n▪ Implementation of Cisco Virtual Wireless LAN Controller with FlexConnect switching model\n▪ Implemented a Cisco ASA 5512-X firewall solution.\n▪ Implementation and management of multi-vendor / multi-tenant VPN tunnels (ASA to Fortinet , ASA\nto Linux / Strongswan) over IPSec (IKEv1 and IKEv2)\n▪ Implementation of Remote Access through Cisco AnyConnect\n▪ Dynamic subnet and security-context assignation for Wireless and VPN through RADIUS\nauthentication.\n▪ Stood up a centralized internal Certification Authority based on Windows 2008 R2 to publish\ncertificates for Web, Terminal Services and VPN access.\n▪ Storage Migration from Dell MD3000I to HP MSA2300 for the main Virtual Machine datastore.\nOptimized the iSCSI path (created two dedicated iSCSI vlans and confirmed multipathing)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Multi-Site VoIP Deployment",
+          "subtitle": "Sep 2014 - Sep 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Design and Implementation of a multi-site VoIP deployment linked to PSTN through 3 BRI\nconnections.\n▪ Design of Call Plan and Toll-Fraud prevention scheme.\n▪ Configuration and activation of a Cisco Call Manager Express 9 system for 50 users.\n▪ Established SIP trunks to 3 company sites (HQ + Branch Office + Maintenance Site) through VPN\nlinks.\n▪ Creation of a greeting IVR system with multi-tier option menu."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "High Volume Fax Server Deployment",
+          "subtitle": "Jun 2014 - Jun 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Designed and implemented a Fax Server solution through opensource technologies\n▪ Receiving and Archival of large volumes of fax messages\n▪ 5000 faxes/months, 2500-3000 of which in a 7 days time frame every month\n▪ Fax Lines: 2x ISDN BRI (4 channels total)\n▪ Fax Reception handled by high performance DSP card managed by a Hylafax server Daemon. An\nAvantFax WebUI was used for presentation.\n▪ Configuration of a mail gateway to send/receive faxes through email.\n▪ Automatic copy of received faxes on a Windows Network Share.\n▪ Supported delivery through virtual printer. Users select a virtual printer from any windows\napplication (MS Word, Excel, Email etc.) and they are asked a phone number to send the\ndocument to."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Development of a Visualization system for Power production data",
+          "subtitle": "May 2014 - May 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Client is a player in the clean energy market and requested a system to display stats for their energy\nproduction infrastructure for promotional purposes in their Rome HQ.\nData is handled by a third-party info provider that gathers it from the power plants through SCADA and\nthen sells the access to the data and metric tracking to the company.\nSaid info-provider declined to give us API access to the raw data so that we could easily track power\nproduction and display it on our own systems.\nWe then developed a custom Python app based on Selenium WebDriver that emulates a genuine HTTP user session and:\n▪ Parses the HTML pages on the info-provider portal in which data is presented\n▪ Extracts metrics requested by the end user\n▪ Stores them in an internal DB\n▪ A Web frontend gathers the data and displays them on a 100\"​ Videowall panel inside the client's\nHQ Reception.\nTechnologies employed:\n▪ Selenium WebDriver\n▪ Python\n▪ Apache WebServer\n▪ Custom PHP/Javascript frontend"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Complete Implementation of a Datacenter POD for a Video Surveillance and Law Enforcement Systems Integrator Product",
+          "subtitle": "Apr 2014 - Apr 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Full Compute, Storage, Network stack (meant to operate isolated from rest of datacenter)\nsupporting a custom application to archive remote video streams + metatadata (positioning,\ntimestamp, etc) from roughly 1000 mobile surveillance endpoints.\nCompute\n▪ 1 Windows 2012 Server for centralized backups and as a management console for all the system's\ncomponents\n▪ 4 CentOS Baremetal Servers accessing a FibreChannel shared storage for video archiving.\nStorage\n▪ Design and Configuration of a Fibre Channel Fabric\n▫ 2 Storage Processor\n▫ 4 Client Nodes\n▫ 2 Multipath discrete paths (active/active redundancy on the storage data path)\n▪ Setup FC Switch Brocade 300\n▪ SAN Zoning\n▪ First activation and LUN provisioning array Dell MD3xxx\nNetwork\n▪ Configuration of Top of Rack Switch Dell ForceConnect 55xx in a stack\n▫ setup link MLAG for active/active redundancy of every node\n▪ Configured LACP bonding on both CentOS and Windows machines\n▪ CentOS Hosts only exposed the application's web service to the \"public\"​ VLAN. Management and\nconfiguration access restricted to the \"private\" VLAN.\nThe whole project was delivered with extreme time contraints (end user presented the project to us 5 days from final delivery with considerable economical penalties for them for a missed deadline) at the customer site."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Exchange Migration",
+          "subtitle": "Apr 2014 - Apr 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Migrated 60 email boxes from Provider-managed IMAP/POP3 server to co-located Exchange solution in Datacenter.\nRoles performed\n▪ DNS Domain Changes (Registrar migration, New A Records in place etc.)\n▪ Change of MX records during the cut-over period\n▪ Written technical documents for hte migration (detailed accounting of each mailbox, contact details\nfor each user, amount of data to be migrated)\n▪ Rebuilt several large PST archives to ease migration (many users had large, unsorted and un-\norganized PST archives)\n▪ User support throughout the migration (Clients configuration, Rules customization etc.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Overnight Tech Room Relocation",
+          "subtitle": "Apr 2014 - Apr 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "1 full night + clean up following day\nSite went off-line at 8 PM and moved overnight. Every system needed to be online by 8 o'clock the\nnext morning.\n▪ Migrated 2 servers supporting a SAP Business One installation\n▪ Cisco Router with HSRP for Internet Access and in-bound Remote Access VPNs.\n▪ Storage Systems\n▪ Rack Rebuild"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Edge Networking Rebuild and Virtualization Deployment",
+          "subtitle": "Mar 2014 - Mar 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Redesigned Internet termination for the site ( roughly 500 users, centralized Campus with in-house\nweb services and two branch offices). Replaced aging PIX515 with new ASA5512-X platform.\n▪ Complete rework of the access policies (VPN, Web and ACLs)\n▪ 0-downtime Cut-Over between PIX and ASA.\n▪ Virtualized a few key services in a previously completely bare metal organization (introduced\nVMware ESXi virtualization)\n▪ Proof of Concept implementation for monitoring system based on Cisco Prime Infrastructure 2.0\n(Created VMs, preliminary populated inventory with devices, trained end user's IT staffers)\n▪ Partial redesign of the Layer 2 network (previously a flat /16 network, introduced two VLANs for the\ntwo largest traffic categories and setup InterVLAN routing on ASA).\n▪ Implemented a DNS filtering system based on blacklists on Cisco ASA\n▪ Created a PHP/Python Front-End to add/remote filters procedurally from the ASA, allowing non-\nCisco trained staffers to operate the system without third-parties and with minimal risk for\ndisruption."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ephemeral Public Access WiFi Network",
+          "subtitle": "Mar 2014 - Mar 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Design and build of an ephemeral (4 days) Wired/Wireless network to support the national\nconference of the organization inside ERGIFE Meeting Center in Rome.\n▪ The network had to support check-in operations for guests ( 8 sign-in desks), the temporary\nOperations office and customized SSIDs for guests with private traffic and segregation from the\nmeeting center internal network.\n▪ User traffic was kept private by linking back to Organization HQ through VPN and egressing the\nwhole venue wifi traffic out of the HQ (customer's guest traffic never traversed the Meeting Center\nnetwork in cleartext)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Network Design and Implementation",
+          "subtitle": "Mar 2014 - Mar 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "▪ Acted as pre-sales for Wired/Wireless network infrastructure upgrade.\n▪ Designed the new wired and wireless network and planned migration from legacy infrastructure.\n▪ Implemented a Leaf/Spine topology (Equal Cost Layer 2 setup) based on a Cisco 4500-X VSS\nSpine and a Cisco WLC 5508 Wireless system. Estimated users: 1200\n▪ Configured VSS for redundancy purposed and Multi-chassis Link Aggregation (MLAG).\n▪ Implemented Leaf/Access layer with Cisco Catalyst 3560-X e 3560C switches.\n▪ Drafted option for WPA Enterprise deployment leveraging ActiveDirectory for user authentication."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Terminal Services Server Farm Migration",
+          "subtitle": "Feb 2014 - Feb 2014",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The whole design and implementation was delivered within 5 days due to severe time constraints of\nthe end user.\nThe activity involved\n▪ Complete activation of 2 physical servers and implementation of VMware ESXi hypervisor software\non them (from packaged to serving content in 48 hours)\n▪ Established bidirectional trust between AD domains (across NAT, inside a VPN with no support\nfrom the source Datacenter staff) to migrate 2000 users with no password changes required.\n▪ Standing up of new Terminal Services farm and clearing of CAL RDP licensing with Microsoft\n▪ Migrated a large number of SQL Server DBs (1500) for a total of 600 gbs between Turin and Rome\ndatacenters.\n▪ Reimported DBs procedurally through T-SQL/Python scripts in order to minimize human error and\nto check data integrity.\n▪ Activated custom Fiscal application to be served over Terminal Services and developed GPOs to\nminimize attack surface (only the application is presented to the 600 remote sites across Italy).\n▪ Project started the 19th of February. At 11AM on Monday the 24th, the farm was already serving\ncontent to 200 users."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

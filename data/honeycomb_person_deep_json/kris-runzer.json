@@ -1,0 +1,362 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/kris-runzer",
+  "row_key": "id:003Uk000011u0AkIAI",
+  "person": "Kris Runzer",
+  "account": "AlayaCare",
+  "fetched_at": "2026-07-14T10:47:22Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAzLv10BSL4dMi22r6-6b2gHxG8JfaweKwk",
+      "firstName": "Kris",
+      "lastName": "Runzer",
+      "fullName": "Kris Runzer",
+      "publicIdentifier": "kris-runzer",
+      "headline": "Successful problem solving requires finding the right solution to the right problem. We fail more often because we solve the wrong problem than because we get the wrong solution to the right problem.",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Brentwood Bay, British Columbia Canada",
+      "addressWithoutCountry": "Brentwood Bay, British Columbia",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHMmfu4Rj9Gcw/profile-displayphoto-shrink_800_800/B56ZWck_CuHEAg-/0/1742088697288?e=1785369600&v=beta&t=lFQx8mN1p0jiaMdk6zRPMIx8HE0J6qpuFEteaPLVLwY",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHMmfu4Rj9Gcw/profile-displayphoto-shrink_400_400/B56ZWck_CuHEAk-/0/1742088697270?e=1785369600&v=beta&t=VyWbUsIwpbFrovLolEClap9crFzOa0-vvcSqenEGjfo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHMmfu4Rj9Gcw/profile-displayphoto-shrink_200_200/B56ZWck_CuHEAc-/0/1742088697270?e=1785369600&v=beta&t=j-FhBlNH7JJ-_VgEYdbbWXV6KKz8tvZPXZSLTJxwr2I"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHMmfu4Rj9Gcw/profile-displayphoto-shrink_100_100/B56ZWck_CuHEAY-/0/1742088697270?e=1785369600&v=beta&t=BN6HFZVTySZ7mBggbyRwL4jwQXpiEh9hiEnBcMJd0Ic"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQHMmfu4Rj9Gcw/profile-displayphoto-shrink_800_800/B56ZWck_CuHEAg-/0/1742088697288?e=1785369600&v=beta&t=lFQx8mN1p0jiaMdk6zRPMIx8HE0J6qpuFEteaPLVLwY"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "5191283",
+          "companyUrn": "urn:li:fsd_company:5191283",
+          "companyLink1": "https://www.linkedin.com/company/alayacare-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEAJy5rfZoO0g/company-logo_400_400/company-logo_400_400/0/1645022956117/alayacare_inc_logo?e=1785369600&v=beta&t=j8XNqnEsVEzcHsM_v3tVk3qowS2Kj-uZCDy7OK4DSKc",
+          "title": "AlayaCare",
+          "subtitle": "Full-time · 6 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal SRE",
+              "caption": "Apr 2022 - Present · 3 yrs 9 mos",
+              "metadata": "Victoria, British Columbia, Canada",
+              "description": []
+            },
+            {
+              "title": "Software Architect",
+              "caption": "Jan 2020 - Sep 2022 · 2 yrs 8 mos",
+              "metadata": "Victoria, BC",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Director, President",
+          "subtitle": "Incorporated Software Consultant . undefined",
+          "caption": "Apr 2017 - Present · 8 yrs 9 mos",
+          "metadata": "Victoria BC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "85112",
+          "companyUrn": "urn:li:fsd_company:85112",
+          "companyLink1": "https://www.linkedin.com/company/complia-health/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQETvzkhb2ZJMg/company-logo_400_400/company-logo_400_400/0/1691521720527/complia_health_logo?e=1785369600&v=beta&t=Jh88-tSS495Z1gW0pb-Ne9R2U_v9cASOuZ8wNpbRxJ8",
+          "title": "Software Architect",
+          "subtitle": "Complia Health . undefined",
+          "caption": "Jul 2017 - Jan 2020 · 2 yrs 6 mos",
+          "metadata": "Victoria, British Columbia, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Procura Clinical Care"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2714688",
+          "companyUrn": "urn:li:fsd_company:2714688",
+          "companyLink1": "https://www.linkedin.com/company/ecofit-networks-inc-/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFjG7MNUvkEQw/company-logo_400_400/company-logo_400_400/0/1630576962010/ecofit_networks_inc__logo?e=1785369600&v=beta&t=zCVAP6uhXlWyEqnsJuN3woxOIxTzjzuaoIy-gNiad34",
+          "title": "Senior Software Developer",
+          "subtitle": "ECOFIT Networks Inc. . undefined",
+          "caption": "Jun 2013 - Apr 2017 · 3 yrs 10 mos",
+          "metadata": "Victoria BC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Developer / Tech Lead",
+          "subtitle": "VS Visual Statement Inc. . undefined",
+          "caption": "Jul 2012 - May 2013 · 10 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Senior Software Developer",
+          "subtitle": "Datton . undefined",
+          "caption": "Mar 2011 - Jun 2012 · 1 yr 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Software Developer",
+          "subtitle": "ASL Internet . undefined",
+          "caption": "Jun 2010 - Feb 2011 · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "Spanish",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Go",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OOP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microservices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Planning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Documentation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Internet of Things",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "21728",
+          "companyUrn": "urn:li:fsd_company:21728",
+          "companyLink1": "https://www.linkedin.com/school/thompson-rivers-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV9Y-PAN4SHg/company-logo_400_400/company-logo_400_400/0/1719935955080/thompson_rivers_university_logo?e=1785369600&v=beta&t=TbRzCMePNSGsInfu66MG4Dv4BnjHYCpNeYRnAFS3aP8",
+          "title": "Thompson Rivers University",
+          "subtitle": "Bachelor's Degree, Bachelor of Computing Science, Minor in Business Management",
+          "caption": "2005 - 2010",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

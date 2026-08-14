@@ -1,0 +1,578 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/anoopkrishnamurthy",
+  "row_key": "id:003Uk00000ydGB0IAM",
+  "person": "Anoop Krishnamurthy",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:52:58Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAD-1T0Bhfhh8xSC8DhBuqQjzsncLT4pEI0",
+      "firstName": "Anoop",
+      "lastName": "Krishnamurthy",
+      "fullName": "Anoop Krishnamurthy",
+      "publicIdentifier": "anoopkrishnamurthy",
+      "headline": "Staff Engineer | HR Technology & AI | Building Agentic Systems for the Future of Work | Workday, LLMs, MCP",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressWithCountry": "Canada",
+      "addressWithoutCountry": "Canada",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFj2MqC5xNk-g/profile-displayphoto-scale_100_100/B56ZpCZlfyKwAc-/0/1762050595310?e=1785369600&v=beta&t=X_Ce5HRONyVnJxBGcivyxfkUAgelVFAktRa78C8ikGE",
+      "profilePicAllDimensions": [
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFj2MqC5xNk-g/profile-displayphoto-scale_400_400/B56ZpCZlfyKwAg-/0/1762050595310?e=1785369600&v=beta&t=dnFKH-Um-kLZJOjDwjKjItU3hXcheOoq4zWky3xVM9k"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFj2MqC5xNk-g/profile-displayphoto-scale_200_200/B56ZpCZlfyKwAY-/0/1762050595310?e=1785369600&v=beta&t=_q3ImsHCke0i-4p2p-XHKlC46LEgvC_46ES-Tk27ZkY"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFj2MqC5xNk-g/profile-displayphoto-crop_800_800/B56ZpCZlfyKwAI-/0/1762050595228?e=1785369600&v=beta&t=5fLTl5GDjqtoqBdFXJ269q4YEmhu4rcAY4YDkj5Uo-o"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFj2MqC5xNk-g/profile-displayphoto-scale_100_100/B56ZpCZlfyKwAc-/0/1762050595310?e=1785369600&v=beta&t=X_Ce5HRONyVnJxBGcivyxfkUAgelVFAktRa78C8ikGE"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Staff Engineer",
+          "subtitle": "Coinbase . undefined",
+          "caption": "Jun 2024 - Present · 1 yr 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Building the next generation of AI-native HR and workforce tools. My work spans agentic process automation, LLM integrations, MCP server deployments, and Workday Extend/Integrations development"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18505670",
+          "companyUrn": "urn:li:fsd_company:18505670",
+          "companyLink1": "https://www.linkedin.com/company/brexhq/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGkXlB9L9KNDA/company-logo_400_400/company-logo_400_400/0/1719257733316/brexhq_logo?e=1785369600&v=beta&t=fgJ07HW2oStgLAjNIbGxxAicrFSe_9UOGJ08BX5WOj8",
+          "title": "Senior Technical Architect",
+          "subtitle": "Brex . Permanent Full-time",
+          "caption": "Jul 2023 - Jun 2024 · 11 mos",
+          "metadata": "Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Business Systems"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "784652",
+          "companyUrn": "urn:li:fsd_company:784652",
+          "companyLink1": "https://www.linkedin.com/company/shopify/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQG_KjTcNcrLVw/company-logo_100_100/B56ZZolTV.HUAc-/0/1745511331439/shopify_logo?e=1785369600&v=beta&t=JZcb8dk7FrbpeFVtSgxTfwOsoc35IGjuEEBGZbSEum8",
+          "title": "Technical Lead",
+          "subtitle": "Shopify . Permanent Full-time",
+          "caption": "Dec 2021 - May 2023 · 1 yr 5 mos",
+          "metadata": "Toronto, Ontario, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Integrations, Custom apps, Automation"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1044",
+          "companyUrn": "urn:li:fsd_company:1044",
+          "companyLink1": "https://www.linkedin.com/company/pwc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=1785369600&v=beta&t=7BD9Id14fDdTuceDb8vFSWlANrjlMUvKIWzWESy7ZYg",
+          "title": "PwC",
+          "subtitle": "undefined · 7 yrs",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Manager",
+              "caption": "May 2018 - Dec 2021 · 3 yrs 7 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Manager - Strategic Initiatives\n\n* Support automation development and adoption on large scale implementations\n* Manage Digital Transformation of Competencies and Go To Market Teams\n* Support development and delivery of new RPA/IPA platforms\n* Architect development  of Data migration and testing automation platforms to decrease speed to deployment on implementations \n\n\n\nTechnical Lead\n•\tLead Integrations and Data Conversion work stream for Workday HCM and Financials implementations.\n•\tGlobal Integrations lead for Workday HCM implementation over 150 countries and 200k employees\n•\tManaging on-shore and off-shore teams through the Workday integrations and data conversion lifecycle.\n•\tProduct Development SME for PwC Data Extraction and Transformation Tool.\n•\tManaging budget and timelines of project deliverables and drive customer success\n•\tManaging customer escalations and collaborating with internal teams to diagnose and troubleshoot issues\n•\tDeveloping Integrations using Studio, Connectors, Web Services APIs, Prism Analytics\n•\tData and Analytics Lead for various HR Implementations.\n\nPractice Development\n* Workday Cloud Platform Domain Lead at PwC\n* Leading development of web applications using Python, Nodejs, MongoDB, JSON and REST API\n* Building the Cloud platform capability within PwC\n* Workday Hackathon participant 2017 and 2018\n\nBusiness Development\n* Provide Proposal support as Technical work stream lead\n* Support creating project estimates and proposals \n* Run Workday technology related workshops with client technical teams"
+                }
+              ]
+            },
+            {
+              "title": "Senior Associate",
+              "caption": "Dec 2014 - May 2018 · 3 yrs 5 mos",
+              "metadata": "Greater New York City Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "•\tIntegrations lead managing the integration deliverables associated with the Workday implementation.\n•\tManaged the integration work stream through design, build, SIT, UAT and Go-live for complex Workday integrations.\n•\tLed off-shore resources by providing guidance and mentoring in developing complex integrations.\n•\tProvided Post production support to resolve critical integration issues with a quick turnaround.\n•\tKnowledge transfer & educating clients regarding the different Workday Integration tools and services post go-live.\n•\tCreated Workday Big Data dashboards for client proposals and Workday Rising.\n•      Early adopter of Workday Cloud Platform using REST API, JSON"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1038",
+          "companyUrn": "urn:li:fsd_company:1038",
+          "companyLink1": "https://www.linkedin.com/company/deloitte/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_400_400/company-logo_400_400/0/1662120928214/deloitte_logo?e=1785369600&v=beta&t=E8rhU-gBYLtcE3GtRZ0Rx34ZDxDIurbNncqZj9sHyA8",
+          "title": "Workday Integration Consultant",
+          "subtitle": "Deloitte . undefined",
+          "caption": "Oct 2012 - Nov 2014 · 2 yrs 1 mo",
+          "metadata": "Greater New York City Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tLead Integration Developer responsible for the successful deployment of Workday Integrations \n•\tDeveloped integrations using the Design, Build, Test and Deploy methodology \n•\tLed working sessions with the clients to gather complex requirements to develop integrations \n•\tMentored Client delivered integrations with on-time support\n•\tParticipated in end to end Implementation planning including Project Management, Issue Management and Communication \n•\tPartnered with clients for QA and UAT with end users including coordination and user acceptance signoff\n•\tBuilt integrations out of Workday Studios, EIB, Core Connectors, Custom Reports and CCBs \n•\tDeveloped XSLTs to perform complex transformations based on client requirements"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4262",
+          "companyUrn": "urn:li:fsd_company:4262",
+          "companyLink1": "https://www.linkedin.com/school/rutgersu/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnLVzNL8ZOYg/company-logo_400_400/company-logo_400_400/0/1692195098121/rutgersu_logo?e=1785369600&v=beta&t=CZ-HDgVSCJBylXRlFNQn4Psj7jbUrDxBtI9DWHIYCF4",
+          "title": "Academic Coach",
+          "subtitle": "Rutgers University . undefined",
+          "caption": "Jan 2012 - Aug 2012 · 7 mos",
+          "metadata": "New Brunswick, New Jersey",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "- Tutoring and Mentoring to UG Students in Physics 201 and Mathematics\n- Help the students to plan and maintain a study schedule\n- Educator for students taking the SAT Math Exam"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "164002",
+          "companyUrn": "urn:li:fsd_company:164002",
+          "companyLink1": "https://www.linkedin.com/company/gep-worldwide/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEvMU1-k4rEXA/company-logo_100_100/B56Z9c_KF.H4AM-/0/1783971488367/gep_worldwide_logo?e=1785369600&v=beta&t=SAMoqEmiQNILilCPWUv5sXRztykDcdIX6kNC57IwSYE",
+          "title": "Intern",
+          "subtitle": "Global eProcure . undefined",
+          "caption": "Aug 2011 - Jan 2012 · 5 mos",
+          "metadata": "Clark, New Jersey",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tAssisted in the implementation of GEP’s Procure to Pay ERP tool by working with the vendors to gather specifications of file formatting and create transformations using XSLT  for complex integrations\n•\tWorked with the various EDT vendors for testing and debugging file formatting of the integrations."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4262",
+          "companyUrn": "urn:li:fsd_company:4262",
+          "companyLink1": "https://www.linkedin.com/school/rutgersu/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnLVzNL8ZOYg/company-logo_400_400/company-logo_400_400/0/1692195098121/rutgersu_logo?e=1785369600&v=beta&t=CZ-HDgVSCJBylXRlFNQn4Psj7jbUrDxBtI9DWHIYCF4",
+          "title": "Technical Assistant",
+          "subtitle": "Rutgers University , Office of disability services . undefined",
+          "caption": "Mar 2011 - Sep 2011 · 6 mos",
+          "metadata": "New Brunswick, New Jersey",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tProject on Letter of Accommodation Lifecycle Management ;Led a two-person team in gathering requirements, developing and implementing an online portal for the office of disability services that reduced the turnaround time for the processing of  letter of accommodations by 60 minutes"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1283",
+          "companyUrn": "urn:li:fsd_company:1283",
+          "companyLink1": "https://www.linkedin.com/company/infosys/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=1785369600&v=beta&t=wXRFwA1J0ChIKomgw78pxANBndJFiDxiGowP-7KcIos",
+          "title": "Systems Engineer",
+          "subtitle": "Infosys Technologies Ltd . undefined",
+          "caption": "Nov 2008 - Jul 2010 · 1 yr 8 mos",
+          "metadata": "Bangalore, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tResponsible for enterprise-level implementation for multiple clients, by interfacing with client business users and stakeholders in order to gather functional requirements and create business requirement documents\n•\tCreated the process flow for Operations Excellence Management System (OEMS), a tool for managing HRO operations\n•\tSuccessfully completed training in ASP.NET, Visual C#, SQL Server and basic programming concepts"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "17719",
+          "companyUrn": "urn:li:fsd_company:17719",
+          "companyLink1": "https://www.linkedin.com/company/workday/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKeNem9seahg/company-logo_400_400/company-logo_400_400/0/1730301071878/workday_logo?e=1785369600&v=beta&t=RuzfTnXu2NRqa1UvgwUmrW9vylcKh_YM-slGd7QQyFQ",
+          "title": "Prism Analytics",
+          "subtitle": "Workday",
+          "issued": "Issued Apr 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "17719",
+          "companyUrn": "urn:li:fsd_company:17719",
+          "companyLink1": "https://www.linkedin.com/company/workday/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKeNem9seahg/company-logo_400_400/company-logo_400_400/0/1730301071878/workday_logo?e=1785369600&v=beta&t=RuzfTnXu2NRqa1UvgwUmrW9vylcKh_YM-slGd7QQyFQ",
+          "title": "Payroll Integrations",
+          "subtitle": "Workday",
+          "issued": "Issued Aug 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "17719",
+          "companyUrn": "urn:li:fsd_company:17719",
+          "companyLink1": "https://www.linkedin.com/company/workday/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKeNem9seahg/company-logo_400_400/company-logo_400_400/0/1730301071878/workday_logo?e=1785369600&v=beta&t=RuzfTnXu2NRqa1UvgwUmrW9vylcKh_YM-slGd7QQyFQ",
+          "title": "Advanced Reporting and Analytics",
+          "subtitle": "Workday",
+          "issued": "Issued May 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "17719",
+          "companyUrn": "urn:li:fsd_company:17719",
+          "companyLink1": "https://www.linkedin.com/company/workday/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKeNem9seahg/company-logo_400_400/company-logo_400_400/0/1730301071878/workday_logo?e=1785369600&v=beta&t=RuzfTnXu2NRqa1UvgwUmrW9vylcKh_YM-slGd7QQyFQ",
+          "title": "Workday Integration",
+          "subtitle": "Workday",
+          "issued": "Issued Oct 2012",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "12680",
+          "companyUrn": "urn:li:fsd_company:12680",
+          "companyLink1": "https://www.linkedin.com/company/asq/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHuvNKSGvBzYA/company-logo_200_200/B56ZuObsSOJcAI-/0/1767621183217/asq_logo?e=1785369600&v=beta&t=nERtp-Pzo0gqiGliB8HI3xQd51oeOk1HjjfFsSw_KJ4",
+          "title": "Six Sigma Green Belt",
+          "subtitle": "ASQ",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "17719",
+          "companyUrn": "urn:li:fsd_company:17719",
+          "companyLink1": "https://www.linkedin.com/company/workday/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKeNem9seahg/company-logo_400_400/company-logo_400_400/0/1730301071878/workday_logo?e=1785369600&v=beta&t=RuzfTnXu2NRqa1UvgwUmrW9vylcKh_YM-slGd7QQyFQ",
+          "title": "Workday Cloud Platform",
+          "subtitle": "Workday",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "17719",
+          "companyUrn": "urn:li:fsd_company:17719",
+          "companyLink1": "https://www.linkedin.com/company/workday/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKeNem9seahg/company-logo_400_400/company-logo_400_400/0/1730301071878/workday_logo?e=1785369600&v=beta&t=RuzfTnXu2NRqa1UvgwUmrW9vylcKh_YM-slGd7QQyFQ",
+          "title": "Workday Studio",
+          "subtitle": "Workday",
+          "issued": "Issued undefined undefined",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Real Time Recognition Award",
+          "subtitle": "Issued by PwC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Outstanding Performance Award",
+          "subtitle": "Issued by Deloitte U.S Firms",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\"Anoop, Thank you for all your efforts to go above and beyond and drive the\ngrowth of our practice and the development of our people in the first half of\nFY’14. It is because of your efforts that we are well on our way to having an\noutstanding year. You are delivering results by bringing your personal best\nevery day and the practice recognizes it. Thank you for everything you do,\nErica Volini\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Applause Award",
+          "subtitle": "Issued by Deloitte Consulting LLP",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Received an Applause Award in recognition for exemplary performance."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Quality Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Reliability Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Industrial Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Supply Chain Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "access",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SAS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ARIBA",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Minitab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Survival Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MS Project",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Design of Experiments",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "3558",
+          "companyUrn": "urn:li:fsd_company:3558",
+          "companyLink1": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1785369600&v=beta&t=v2DbUxdBk6bM0VWV94bC3Cy2jYJdLswUCGoHxnMX358",
+          "title": "Georgia Institute of Technology",
+          "subtitle": "Master of Science - MS, Analytics",
+          "caption": "2019 - 2022",
+          "subComponents": []
+        },
+        {
+          "companyId": "4262",
+          "companyUrn": "urn:li:fsd_company:4262",
+          "companyLink1": "https://www.linkedin.com/school/rutgersu/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnLVzNL8ZOYg/company-logo_400_400/company-logo_400_400/0/1692195098121/rutgersu_logo?e=1785369600&v=beta&t=CZ-HDgVSCJBylXRlFNQn4Psj7jbUrDxBtI9DWHIYCF4",
+          "title": "Rutgers, The State University of New Jersey-New Brunswick",
+          "subtitle": "Master of Science, Industrial Engineering",
+          "caption": "2010 - 2012",
+          "subComponents": []
+        },
+        {
+          "companyId": "8680105",
+          "companyUrn": "urn:li:fsd_company:8680105",
+          "companyLink1": "https://www.linkedin.com/school/visvesvaraya-technological-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEXLsH7UX9uMw/company-logo_400_400/company-logo_400_400/0/1631303715236?e=1785369600&v=beta&t=RbN-vPE0XcsYMPHO-DBojxxE5VwB66Ef6BoYqQrzSvg",
+          "title": null,
+          "subtitle": "Bachelor of Engineering, Mechanical Engineering Association",
+          "caption": "2004 - 2008",
+          "subComponents": []
+        },
+        {
+          "title": "Sindhi High School",
+          "subtitle": "null, null",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

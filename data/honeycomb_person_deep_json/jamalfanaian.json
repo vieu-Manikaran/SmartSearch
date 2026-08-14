@@ -1,0 +1,422 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jamalfanaian",
+  "row_key": "id:0031N0000221JJDQA2",
+  "person": "Jamal Fanaian",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:22:05Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAEjyNkBeqObeGXLTGMvHLipYl6mK-xbEA4",
+      "firstName": "Jamal",
+      "lastName": "Fanaian",
+      "fullName": "Jamal Fanaian",
+      "publicIdentifier": "jamalfanaian",
+      "headline": "Principal Backend Engineer at Epic Games",
+      "about": "Experienced and motivated software engineer looking for new opportunities to share my experience and learn.\n\n   * Expert programming server-side applications using PHP, Go, Java, Python, and JavaScript (NodeJS)\n   * Proficient with JavaScript, Ruby, C++ and C#\n   * Experienced with web frameworks such as Zend Framework, CakePHP, Symfony, Code Igniter, ExpressionEngine, Django, and Express\n   * Experienced with relational databases MySQL, Postgres, and MS SQL, and non-SQL databases Redis and CouchDB\n   * Experienced with message queue systems ActiveMQ and RabbitMQ\n   * Experienced interacting with web services and APIs that use XML, JSON, REST, and SOAP\n   * Client side scripting with Javascript, HTML, CSS\n   * Version control using Subversion, Mercurial and GIT\n   * Extensive experience working on Linux, Windows, and Mac OS X\n   * Linux system administration (Debian, Red Hat)\n   * Bi-lingual (Spanish and English)",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Bellevue, Washington United States",
+      "addressWithoutCountry": "Bellevue, Washington",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Epic Games",
+          "subtitle": "Full-time · 8 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Backend Engineer",
+              "caption": "Sep 2023 - Present · 2 yrs 4 mos",
+              "metadata": "Bellevue, Washington, United States",
+              "description": []
+            },
+            {
+              "title": "Engineering Director",
+              "caption": "Jul 2021 - Nov 2023 · 2 yrs 4 mos",
+              "metadata": "Bellevue, Washington, United States",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Director for the Identity team focused on projects that deal with providing a safe and secure user experience to millions of players and developers.\n * Responsible for managing the growth of the team that started as 3 to multiple teams with a total of 20 members.\n * Provided technical leadership for the team and projects we collaborated on, including architecture of solutions across multiple backend teams, and client teams.\n * Responsible over many critical projects at Epic Games that focused on providing a safe and secure experience for players, including family controls, privacy controls, and account security features."
+                }
+              ]
+            },
+            {
+              "title": "Lead Backend Engineer",
+              "caption": "Dec 2018 - Jul 2021 · 2 yrs 7 mos",
+              "metadata": "Bellevue, Washington",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Technical leadership and people management of the Identity team at Epic Games.\nResponsible for growth and management of the Identity team — involved in team capacity planning, recruiting, and onboarding.\n * Lead and supported projects that focused on enhancing safety and security, support integrations with partners, and support various teams within Epic.\n * Responsible for the introduction of safety features designed to better support minors including development of verified parental consent and parental controls.\n * Responsible for the design of Epic Accounts Services, which enabled third-party usage of Epic Accounts for websites and third-party games."
+                }
+              ]
+            },
+            {
+              "title": "Sr. Engineer - Backend",
+              "caption": "Mar 2017 - Dec 2018 · 1 yr 9 mos",
+              "metadata": "Seattle, Washington",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Individual Contributor in the Social and Identity team at Epic Games working on critical platform services that handle account data, authentication and authorization, and provide social functionality including friends management and chat.\n * Supported aggressive growth requirements imposed by the Fortnite launch and unprecedented growth\n * Lead many security features around login and request handling including 2-Factor Authorization and flexible Rate Limiting\n * Directly responsible for critical integrations with various partners and platforms, including the end to end integration to support Nintendo Account linking for the launch of Fortnite on the Nintendo Switch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "157246",
+          "companyUrn": "urn:li:fsd_company:157246",
+          "companyLink1": "https://www.linkedin.com/company/flickr/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHgpt-I2P2SuA/company-logo_400_400/company-logo_400_400/0/1630570956303/flickr_logo?e=1785369600&v=beta&t=Ux01C2rw80EL_xjAiJgfzQKa-z-lIri3501paadqWwQ",
+          "title": "Senior Software Engineer",
+          "subtitle": "Flickr . undefined",
+          "caption": "Apr 2010 - Mar 2017 · 6 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Lead API developer for Flickr: integrated OAuth 1.0 authentication, lead server-side development for the iOS, Android and Windows 7 applications, and continued maintenance and support for the API\n   * Worked on the server-side implementation for push notifications for iOS and Android\n   * Created a contact suggestion algorithm for Flickr that exposes users who might be relevant to you based on your current relationshipss\n   * Worked on the integration with the Facebook API that allowed automatic uploads to be pushed to Facebook\n   * Worked on the implementation of Open ID and Facebook login for Flickr using the Yahoo! single-sign on service"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Developer",
+          "subtitle": "Entertainment Benefits Group Inc. . undefined",
+          "caption": "Sep 2009 - Apr 2010 · 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Worked on the internal retail management system for the sales team. Integrated sales with the Disneyland API to provide real-time order confirmation and creation of PDF voucher"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Web Developer",
+          "subtitle": "Freelance Web Developer . undefined",
+          "caption": "Aug 2009 - Sep 2009 · 1 mo",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working on web development projects with various clients ranging from simple web sites and applications to complete and custom web applications."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Web Developer",
+          "subtitle": "Nextelligence, Inc. . undefined",
+          "caption": "Mar 2009 - Aug 2009 · 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Created an internal email campaign manager that sends weekly newsletters to a mailing list of over 10,000 subscribers and reports statistics on the number of opens, clicks, bounces, and unsubscribes each campaign receives."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Web Developer",
+          "subtitle": "Hydra Studio . undefined",
+          "caption": "Apr 2008 - Mar 2009 · 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead development for the new JTA (www.jta.org), a highly customized CMS using ExpressionEngine as its core."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Programmer",
+          "subtitle": "Web2Corp . undefined",
+          "caption": "Oct 2006 - Apr 2008 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "46270",
+          "companyUrn": "urn:li:fsd_company:46270",
+          "companyLink1": "https://www.linkedin.com/company/christensen/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE43q33X-dpSQ/company-logo_400_400/company-logo_400_400/0/1645413675234/christensen_logo?e=1785369600&v=beta&t=qTlrdOl4qF0Wq3v_YWAJRdiNc-0s_5BT6-fBan_52v0",
+          "title": "Programmer",
+          "subtitle": "The Christensen Group . undefined",
+          "caption": "Jun 2006 - Oct 2006 · 4 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead development for Talent Pass"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Programmer",
+          "subtitle": "World Financial Marketing . undefined",
+          "caption": "Oct 2005 - Jun 2006 · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Director level",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Distributed Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Rust",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LAMP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CakePHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Zend Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Symfony",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166632",
+          "companyUrn": "urn:li:fsd_company:166632",
+          "companyLink1": "https://www.linkedin.com/school/university-of-central-florida/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFgwkXoI3akFg/company-logo_400_400/B4EZpuJ0TYKkAc-/0/1762784659068/university_of_central_florida_logo?e=1785369600&v=beta&t=2IxRsZPHDO8IVgFrsS7L1wie8GHT1Y2GjhiGStgnmHs",
+          "title": null,
+          "subtitle": "null, Computer Science",
+          "caption": "2008 - 2010",
+          "subComponents": []
+        },
+        {
+          "companyId": "837022",
+          "companyUrn": "urn:li:fsd_company:837022",
+          "companyLink1": "https://www.linkedin.com/school/seminole-state-college-of-florida/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFbk5wnzWxh2Q/company-logo_400_400/company-logo_400_400/0/1631330186889?e=1785369600&v=beta&t=NldtaFy7dBcoLTOva9vUE3lGQHkc0TFwtIj0lzO0qjs",
+          "title": null,
+          "subtitle": "null, null",
+          "caption": "2005 - 2007",
+          "subComponents": []
+        },
+        {
+          "title": "Crooms Academy of Information Technology",
+          "subtitle": "High School, null",
+          "caption": "2001 - 2005",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

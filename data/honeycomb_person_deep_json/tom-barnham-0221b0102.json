@@ -1,0 +1,234 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/tom-barnham-0221b0102",
+  "row_key": "id:0036O000046T3GUQA0",
+  "person": "Tom Barnham",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:04:31Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABoDZxoBL4O6F8AA1D5cbwjujE2P8SvNcRw",
+      "firstName": "Tom",
+      "lastName": "Barnham",
+      "fullName": "Tom Barnham",
+      "publicIdentifier": "tom-barnham-0221b0102",
+      "headline": "Attended Bournemouth University",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Medtronic Digital Surgery",
+          "subtitle": "Full-time · 2 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Test Engineer",
+              "caption": "Mar 2024 - Present · 1 yr 10 mos",
+              "description": []
+            },
+            {
+              "title": "Test Engineer",
+              "caption": "Jul 2023 - Mar 2024 · 8 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "163529",
+          "companyUrn": "urn:li:fsd_company:163529",
+          "companyLink1": "https://www.linkedin.com/company/dwp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEDAhs9hp82SQ/company-logo_400_400/B4EZp8pClmHcAc-/0/1763027725052/dwp_logo?e=1785369600&v=beta&t=y-kL0id4tF8lzJtmgEC14YBgRCO4buo5KYNiEv7OAiw",
+          "title": "Department for Work and Pensions (DWP)",
+          "subtitle": "Contract · 4 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Test Engineer",
+              "caption": "Feb 2020 - Aug 2023 · 3 yrs 6 mos",
+              "metadata": "Blackpool, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Testing online systems end to end and working with different teams to complete testing.\n\r\n\nResponsibilities include setting up test environments, testing online systems, running batch, creating test data and files, working with SMEs to understand systems, writing test conditions and test plans, executing tests, liaising with developers and stakeholders regarding defects, defect management, working in an Agile environment, using JIRA to manage the workload, identifying and improving processes."
+                }
+              ]
+            },
+            {
+              "title": "Test Analyst",
+              "caption": "Feb 2019 - Feb 2020 · 1 yr",
+              "metadata": "Blackpool, England, United Kingdom",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Joined the interface testing team, working on interfaces between different services.\r\n\nResponsibilities included interface testing, analyzing batch flow diagrams and writing scripts, writing test documentation, working in an Agile environment with daily scrum calls and using JIRA to manage the workload."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1241",
+          "companyUrn": "urn:li:fsd_company:1241",
+          "companyLink1": "https://www.linkedin.com/company/hsbc/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGF7uhTJxFBvQ/img-crop_100/img-crop_100/0/1717419425342?e=1785369600&v=beta&t=qVfp28L25_BcCQYvfK4pUt9yp1veLnEivkhAc65Xm7o",
+          "title": "Test Analyst",
+          "subtitle": "HSBC . Contract",
+          "caption": "May 2018 - Dec 2018 · 7 mos",
+          "metadata": "Leeds, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Testing the HSBC websites and Banking Application over multiple countries for Chrome, Safari, Firefox, Edge.\r\n\nResponsibilities included regression testing, writing scripts, exploratory testing, defect raising and retesting, managing defects, working independently and as a team."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2623994",
+          "companyUrn": "urn:li:fsd_company:2623994",
+          "companyLink1": "https://www.linkedin.com/company/barclays-uk/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFx4uQV69RcHg/company-logo_400_400/company-logo_400_400/0/1663665351002?e=1785369600&v=beta&t=A7eHU5FzKPvfF1eK2RJRM4_WpB5Nj9N_5bxzE-2Stzs",
+          "title": "Test Analyst",
+          "subtitle": "Barclays UK . Contract",
+          "caption": "Apr 2017 - Apr 2018 · 1 yr",
+          "metadata": "Knutsford, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Testing the Barclays Mobile Banking Application for Android, iOS and Windows devices.\r\n\nResponsibilities of my day to day role included regression testing, feature testing, defect raising and retesting, working with teams both onshore and offshore, demoing defects to test managers and product owners, and managing defects for projects worked on."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3182165",
+          "companyUrn": "urn:li:fsd_company:3182165",
+          "companyLink1": "https://www.linkedin.com/company/blockbuster-uk/",
+          "title": "Assistant Manager",
+          "subtitle": "Blockbuster UK . Full-time",
+          "caption": "Sep 2010 - Dec 2013 · 3 yrs 3 mos",
+          "metadata": "Ringwood",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working independently and as part of a team  requiring good communication skills. Responsibilities included opening and closing the shop, generating reports for the previous day and ensuring customer satisfaction and business targets were met."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Word",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Business Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "14238",
+          "companyUrn": "urn:li:fsd_company:14238",
+          "companyLink1": "https://www.linkedin.com/school/bournemouth-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhcIwAWzLRvw/company-logo_100_100/B4EZytwserGcAQ-/0/1772441749752/bournemouth_university_logo?e=1785369600&v=beta&t=Cok4c2YrjROF_j-Mz7y-G1zD2UitHcWSCto3Bo-YEow",
+          "title": "Bournemouth University",
+          "subtitle": "Bachelor’s Degree, Business Information Technology",
+          "caption": "2011 - 2015",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "2:1"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

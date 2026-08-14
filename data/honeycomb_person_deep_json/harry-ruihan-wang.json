@@ -1,0 +1,343 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/harry-ruihan-wang",
+  "row_key": "id:003Uk00000yfQ5rIAE",
+  "person": "Harry Wang",
+  "account": "Coinbase Global, Inc.",
+  "fetched_at": "2026-07-14T09:53:30Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB8w5NsB5Z1Y4dUxXknTf2s_nLMHqMmwQMg",
+      "firstName": "Harry",
+      "lastName": "Wang",
+      "fullName": "Harry Wang",
+      "publicIdentifier": "harry-ruihan-wang",
+      "headline": "Senior Software Engineer @ Coinbase",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": "Ruihan",
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "New York, New York United States",
+      "addressWithoutCountry": "New York, New York",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFMx29Yj1CXDg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726630767138?e=1785369600&v=beta&t=GP-1BKlM-T9hjmNb8TBCI89LR4NuXPlBzYfNGdxWrfg",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFMx29Yj1CXDg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726630767119?e=1785369600&v=beta&t=7Zr98jYWesay2SU2Cd2V_-Gykz4idyzXKFQz7D0j8LM"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFMx29Yj1CXDg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726630767119?e=1785369600&v=beta&t=U1xAJS3WWJcmNcxzrRp56NMFnZ7OUT6htXRvS6gQ_U4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFMx29Yj1CXDg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726630767119?e=1785369600&v=beta&t=GPLFcrW_7bfZcRlQ6MX0dQsL1JL3ftcpdANhXTNMesE"
+        },
+        {
+          "width": 682,
+          "height": 682,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFMx29Yj1CXDg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726630767138?e=1785369600&v=beta&t=GP-1BKlM-T9hjmNb8TBCI89LR4NuXPlBzYfNGdxWrfg"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "2857634",
+          "companyUrn": "urn:li:fsd_company:2857634",
+          "companyLink1": "https://www.linkedin.com/company/coinbase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQJxIt9C0pHA/company-logo_100_100/B4EZ755_FYJIAI-/0/1782309188194/coinbase_logo?e=1785369600&v=beta&t=_mf39hioRFnNFCzWYLO0-D432xhc7GkZi2wPSDFPz2s",
+          "title": "Senior Software Engineer",
+          "subtitle": "Coinbase . Full-time",
+          "caption": "Apr 2025 - Present · 9 mos",
+          "metadata": "New York, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Credit card"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "18013280",
+          "companyUrn": "urn:li:fsd_company:18013280",
+          "companyLink1": "https://www.linkedin.com/company/fairewholesale/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQH5OBNBAj7Lgw/company-logo_400_400/company-logo_400_400/0/1630657401526/fairewholesale_logo?e=1785369600&v=beta&t=6pduMkm-36FeU_8aKgMqwdadcBbV8znBDJpzun4wx-M",
+          "title": "Faire",
+          "subtitle": "Permanent Full-time · 5 yrs 3 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Fronend Engineer",
+              "caption": "2023 - Apr 2025 · 2 yrs 3 mos",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Shopify Partnership, Order fulfillment, Catalog Growth"
+                }
+              ]
+            },
+            {
+              "title": "Frontend Engineer II",
+              "caption": "2021 - 2023 · 2 yrs",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Marketplace quality, Pricing"
+                }
+              ]
+            },
+            {
+              "title": "Frontend Engineer",
+              "caption": "2020 - 2021 · 1 yr",
+              "metadata": "Toronto, Ontario, Canada",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Faire Markets, Brand Sales, CRM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1566631",
+          "companyUrn": "urn:li:fsd_company:1566631",
+          "companyLink1": "https://www.linkedin.com/company/a-thinking-ape/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGtOh3KQ4w8wQ/company-logo_400_400/company-logo_400_400/0/1688499165973/a_thinking_ape_logo?e=1785369600&v=beta&t=CfS4i9XaQOPu58SDniUkAiQDdMp07pI5vpJBxqbmN9A",
+          "title": "Software Engineer",
+          "subtitle": "A Thinking Ape . Internship",
+          "caption": "Sep 2019 - Dec 2019 · 3 mos",
+          "metadata": "Vancouver, British Columbia, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "15285463",
+          "companyUrn": "urn:li:fsd_company:15285463",
+          "companyLink1": "https://www.linkedin.com/company/brokerbay.ca/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGQDwx-GWXrdw/company-logo_400_400/company-logo_400_400/0/1630655652620/brokerbayca_logo?e=1785369600&v=beta&t=w5KSzXDZrenU7_kbmcjWdtPcQhe-PHyXYJw0D4r_SZw",
+          "title": "Software Engineer",
+          "subtitle": "BrokerBay . Internship",
+          "caption": "Jan 2019 - Apr 2019 · 3 mos",
+          "metadata": "Toronto, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1467",
+          "companyUrn": "urn:li:fsd_company:1467",
+          "companyLink1": "https://www.linkedin.com/company/ncr-corporation/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHoWNpEijF34Q/company-logo_400_400/company-logo_400_400/0/1688565940761/ncr_corporation_logo?e=1785369600&v=beta&t=Ohn4ajwLbM5hGWH-9TkfKIaLgWz-RQ7uCE3WPSyBPos",
+          "title": "Software Engineer",
+          "subtitle": "NCR Corporation . Internship",
+          "caption": "Jan 2018 - Apr 2018 · 3 mos",
+          "metadata": "Waterloo, Ontario",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React Native",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Node.js",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MongoDB",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AngularJS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ElasticSearch",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Socket.io",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "166688",
+          "companyUrn": "urn:li:fsd_company:166688",
+          "companyLink1": "https://www.linkedin.com/school/uwaterloo/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_200_200/B56Zb.Jn2gHwAI-/0/1748020657900/uwaterloo_logo?e=1785369600&v=beta&t=n3sNiaQ1Dd49HwVZkoq98_iSljM9vNQAaVSrc7w3uUs",
+          "title": "University of Waterloo",
+          "subtitle": "Bachelor’s Degree, Computer Science",
+          "caption": "Sep 2016 - Jun 2020",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

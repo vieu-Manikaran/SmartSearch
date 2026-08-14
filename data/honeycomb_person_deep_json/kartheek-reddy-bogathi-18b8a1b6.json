@@ -1,0 +1,271 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/kartheek-reddy-bogathi-18b8a1b6",
+  "row_key": "id:003Uk00000910wsIAA",
+  "person": "Kartheek Bogathi",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:52:56Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABixMbsB_zbgxCLlC-fA_aZM1s9b1nmN9R4",
+      "firstName": "Kartheek Reddy",
+      "lastName": "Bogathi",
+      "fullName": "Kartheek Reddy Bogathi",
+      "publicIdentifier": "kartheek-reddy-bogathi-18b8a1b6",
+      "headline": "Sr Software Engineer at Medtronic",
+      "about": "Love to Travel,interested in outdoor activities and find new adventures along the way.\nMeeting new people,developing new relationships.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Andhra Pradesh India",
+      "addressWithoutCountry": "Andhra Pradesh",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQGOMcdLPM0-kg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1616324295766?e=1785369600&v=beta&t=a162xjpfj0gvliOA-ToVsfsF1ltDrzhg3bmcRlRK00o",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGOMcdLPM0-kg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1616324295765?e=1785369600&v=beta&t=s7Jq4xyDj2iJU-htVL6vCvCig9RzGcHF-CMMB0B6iSI"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGOMcdLPM0-kg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1616324295766?e=1785369600&v=beta&t=JadxqKprxbAsUJZnICa5GwWLquC8dTGe18KCQtnEOmc"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGOMcdLPM0-kg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1616324295766?e=1785369600&v=beta&t=47SvkYHTZpZe-OVTmKlkgZUNow9UPUmriYzaPlHOdDg"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQGOMcdLPM0-kg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1616324295766?e=1785369600&v=beta&t=a162xjpfj0gvliOA-ToVsfsF1ltDrzhg3bmcRlRK00o"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Software Engineer",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Jun 2021 - Present · 4 yrs 7 mos",
+          "metadata": "India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "4786711",
+          "companyUrn": "urn:li:fsd_company:4786711",
+          "companyLink1": "https://www.linkedin.com/company/manageartworks/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFBLcTd15K5PA/company-logo_100_100/B56ZkUaDdbG0AU-/0/1756983998966/manageartworks_logo?e=1785369600&v=beta&t=HU90MC7uFCGM13hGaFbPgguXe9Kd2vsYU1_E-dy814U",
+          "title": "Team Lead",
+          "subtitle": "ManageArtworks . undefined",
+          "caption": "Jan 2015 - Aug 2022 · 7 yrs 7 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "DevOps",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ADO.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET Framework",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Office",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft SQL Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Services",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "15106548",
+          "companyUrn": "urn:li:fsd_company:15106548",
+          "companyLink1": "https://www.linkedin.com/school/chadalawada-venkata-subbaiah-college-of-engineering-tirupathi/",
+          "title": "Chadalawada Venkata Subbaiah College of Engineering, Tirupathi",
+          "subtitle": "Bachelor of Technology - BTech, Computer Science (CSE)",
+          "caption": "2010 - 2014",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/galnimova",
+  "row_key": "id:003Uk00000Pb5STIAZ",
+  "person": "Gal Nimova",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:46Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAmwilsBYcUf1duHedO5-y-M09fzeiErnV8",
+      "firstName": "Gal",
+      "lastName": "Nimova",
+      "fullName": "Gal Nimova",
+      "publicIdentifier": "galnimova",
+      "headline": "Co-Founder, building something new | QA Engineer | Open to QA Contract Opportunities",
+      "about": "I’m a seasoned QA Engineer with strong experience in mobile and web testing. Over the past X years, I’ve helped teams deliver reliable, user-focused software through a mix of test automation, hands-on testing, and process improvement.\n\nAlongside this, I’ve stepped into entrepreneurship as the Co-Founder of Glamora Aesthetics—a forward-thinking beauty and wellness startup. At Glamora, we don’t build machines ourselves—we curate and utilize the best AI-powered, automated technologies in the industry. From nail printing systems to smart massage devices, we identify the most innovative tools available and bring them together to create high-quality, accessible beauty experiences.\n\nWhile I’m excited about scaling Glamora, I also remain open to QA contract opportunities. I enjoy collaborating with teams that value quality from day one, and I’m especially effective at setting up robust test practices, mobile automation frameworks, and QA strategies that help products succeed.\n\nLet’s connect—whether you’re interested in QA consulting, contract roles, or in exploring the future of beauty tech.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "Ilford, England United Kingdom",
+      "addressWithoutCountry": "Ilford, England",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "108198912",
+          "companyUrn": "urn:li:fsd_company:108198912",
+          "companyLink1": "https://www.linkedin.com/company/glamora-aesthetics/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGISBhaaIHDMg/company-logo_400_400/B4EZgX6OoCHgAg-/0/1752747798339/glamora_aesthetics_logo?e=1785369600&v=beta&t=Hpx168XQwSV3za4im4CwwWrfhfr04aRot-qLsHBbBzg",
+          "title": "Co-Founder",
+          "subtitle": "Glamora Aesthetics . Self-employed",
+          "caption": "Jul 2024 - Present · 1 yr 6 mos",
+          "metadata": "United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I’ve stepped into entrepreneurship as the Co-Founder of Glamora Aesthetics—a forward-thinking beauty and wellness startup. At Glamora, we don’t build machines ourselves—we curate and utilize the best AI-powered, automated technologies in the industry. From nail printing systems to smart massage devices, we identify the most innovative tools available and bring them together to create high-quality, accessible beauty experiences.\n\nLet’s connect—whether you’re interested in chatting or in exploring the future of beauty tech."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "72524546",
+          "companyUrn": "urn:li:fsd_company:72524546",
+          "companyLink1": "https://www.linkedin.com/company/ford-pro/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGWj6OcuUJB-w/company-logo_400_400/B4EZkzvnyLKgAc-/0/1757509746166/ford_pro_logo?e=1785369600&v=beta&t=_6dy-fmLmcLh6TIi3-44kx-BI3d-BNFFoY1swfbkN0s",
+          "title": "Mobile/Web Lead Test Engineer",
+          "subtitle": "Ford Pro . Contract",
+          "caption": "Sep 2021 - Present · 4 yrs 4 mos",
+          "metadata": "Remote",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "TBC"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "494815",
+          "companyUrn": "urn:li:fsd_company:494815",
+          "companyLink1": "https://www.linkedin.com/company/rightmove/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG4W_zc-_NWYw/company-logo_100_100/B4EZp4wkJbKsAQ-/0/1762962588814?e=1785369600&v=beta&t=nrsFKi53eL-YYWsMlWLhWUNIHaKbfP5rcC0MZ4jp4Bc",
+          "title": "Senior Native Mobile/Web Test Engineer",
+          "subtitle": "Rightmove . Full-time",
+          "caption": "Jan 2017 - Aug 2021 · 4 yrs 7 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Lead Mobile Test Engineer\n\n- Cutting down manual regression by more than 50%\n- Implementing best practices across the team.\n- Automating functional layer using Swift, Kotlin and Java\n- Automating accessibility checks for the Android app (IOS is in progress)\n- Maintaining Android automation tests using Java\n- Monitoring releases, reviews and deployments.\n- Interviewing and assessing QA's\n\nTech Stack - IOS/ANDROID, Java, Kotlin, Swift, Microservices, Elastic search, MySQL, Kibana, Appium, Browserstack, AndroidStudio, Xcode, Jenkins, Firebase, Google Analytics"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Managing Director",
+          "subtitle": "WANU Consulting limited . undefined",
+          "caption": "Sep 2018 - Jan 2019 · 4 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "I hate people getting ripped off. The freelancer market in the UK is inherently abusive and I believe WANU can change it. \n\nWANU is UK-based professional employment consultancy that provides job security, employee benefits, and takes the hassle out of self-employment. Freelancers with WANU have an employee contract with us, so they don’t have to struggle setting up a limited company, registering as self-employed, or opening a business bank account. We take care of contract negotiation and invoicing. And we pay you monthly.\n\nAre you interested in joining WANU? Send me a message today!"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "589588",
+          "companyUrn": "urn:li:fsd_company:589588",
+          "companyLink1": "https://www.linkedin.com/company/win-technologies/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQepicJXtc4A/company-logo_400_400/company-logo_400_400/0/1631342721420?e=1785369600&v=beta&t=JiF3z03hfS2A_Y_Ia0tS8sop9_MJHbd3ymWFCCxqqFw",
+          "title": "Senior QA Analyst",
+          "subtitle": "Win Technologies . undefined",
+          "caption": "Aug 2016 - Nov 2016 · 3 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working in an agile environment in bi-weekly sprints (Sanity, Regression, post production)\nPerforming manual and automated testing over the company's websites ,Writing, maintaining and executing automation tests using C#, NUnit using BDDFY and Specflow for BDD.\n\nWorking with stash repository management tools (GitHub), CI Automation (Team city) and automated release and deployment (Octopus Deploy) \n\t\nOwnership of Defect bug testing life cycle from ticket creation through to confirmation that defects are resolved.\n\nUtilizing SQL server for DB and IIS for web applications. \nPerforming Rest API testing using Postman and Swagger."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "92413",
+          "companyUrn": "urn:li:fsd_company:92413",
+          "companyLink1": "https://www.linkedin.com/company/kaltura/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFwPZOgL2qPmA/company-logo_200_200/B4DZ8d6KOOJQAE-/0/1782913213715/kaltura_logo?e=1785369600&v=beta&t=iCrtNBdunOWoY4OPfbKtZGLGZXdcIgQq89Fzuv6fXOU",
+          "title": "QA Engineer",
+          "subtitle": "Kaltura (contract) . undefined",
+          "caption": "Feb 2016 - Jul 2016 · 5 mos",
+          "metadata": "Ramat Gan Area, Israel",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working in an agile environment in two weeks’ sprints which results in a software release (Progression, Regression and post production). Acted as a Scrum Master every once in a few sprints.\n\tPerforming manual testing of company's web based applications,\n\twriting STPs, STDs, STRs, ATRs and release notes documents.\n\tWorking with GitHub for version control.\n\tUsing Xammp as a webserver.\n\tUtilizing Postman for REST API testing.\n\tCross browsers and multi OS environment compatibility testing.\nMobile applications testing on different Android and IOS based handsets, whilst covering functional, exploratory and regression testing.\nDelivering of high quality and timely test packs throughout the SDLC (from design to Production release).\nCreation of Test packs (test cases) based on sprints stories and acceptance criteria."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1889863",
+          "companyUrn": "urn:li:fsd_company:1889863",
+          "companyLink1": "https://www.linkedin.com/company/songo-media/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGTJcJCJiOCpQ/company-logo_400_400/company-logo_400_400/0/1631330229651?e=1785369600&v=beta&t=EpwwMakm2AXxIgJqRwNxuUZOE8zPfDgXxc0XINyZd5E",
+          "title": "QA Engineer",
+          "subtitle": "Say Media Group . undefined",
+          "caption": "Jul 2014 - Mar 2016 · 1 yr 8 mos",
+          "metadata": "Tel aviv",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Working in an agile environment with daily software releases.\nExecuting Automation Scenarios and maintaining test scripts, Debugging and resolving automation related issues.\nAutomating web application Regression, Sanity and functional test scenarios using Java on Selenium WebDriver classes and Testing.\nDevelopment of an automated procedure for aggregating multiple sites reporting, for presenting stake holders with a consolidated summary report, daily.\nTaking ownership of testing regression testing of production defects (as part of the PSUP procedures).\n             Development of mini sites and landing pages using HTML, CSS and JavaScript.\n             Working in a Google cloud based environment."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2657359",
+          "companyUrn": "urn:li:fsd_company:2657359",
+          "companyLink1": "https://www.linkedin.com/company/ironsource/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEKct0EBaF3OQ/company-logo_400_400/company-logo_400_400/0/1635787724128/ironsource_logo?e=1785369600&v=beta&t=-ZC5C0tLm4zP1SQeDqad2GV9yfmM1Org1lm5V7ySsqo",
+          "title": "QA Engineer",
+          "subtitle": "ironSource . undefined",
+          "caption": "Sep 2013 - Jun 2014 · 9 mos",
+          "metadata": "Tel aviv",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Testing principle company's products – smart installers, back office sites and company's website.\n\t Executing Automation Scenarios using company's in house built tools.\nWorking in an agile environment with daily software releases.\nPerforming overall testing for the company's web based applications.\nWriting STPs and STDs documents.\nResponsible for testing and re-testing production defects (production support)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1896644",
+          "companyUrn": "urn:li:fsd_company:1896644",
+          "companyLink1": "https://www.linkedin.com/company/magicholdem.com/",
+          "title": "QA Lead",
+          "subtitle": "MagicHoldem.com . undefined",
+          "caption": "Nov 2012 - Sep 2013 · 10 mos",
+          "metadata": "Tel aviv",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "·  HUD Platform Architecture: Spearheaded quality assurance for a high-traffic, gambling-based poker tracking web application featuring a real-time Heads-Up Display (HUD) that integrated seamlessly across major online poker platforms to track live player statistics and math overlays.\n \n· Player-Advocate UI/UX Validation: Acted as the primary quality advocate for the player experience, performing live table testing to guarantee that real-time game state data was accurately detected from active poker tables and perfectly synchronized with the graphic HUD overlays, interactive UI elements, and statistical data tables\n\n· Production Support & Defect Resolution: Acted as a key quality advocate providing critical production support, taking full responsibility for reproducing, testing, and re-testing live production defects to guarantee high-quality player usability and software reliability.\n\nEnd-to-End Test Coverage: Designed and executed thorough end-to-end testing strategies spanning Functional, Regression, Installation, GUI, and Usability testing to evaluate intricate interface layouts and cross-application functionality beyond simple Pass/Fail states.\n\nQA Documentation & Test Packs: Authored comprehensive industry-standard STR (Software Test Report) and STD (Software Test Description) artifacts, while building robust, repeatable Sanity and Regression packs to safeguard core feature stability.\n\nDefect Prevention in Agile: Collaborated closely with developers and product teams in a high-velocity Agile/Scrum environment with daily software releases to identify system defects early in the cycle.\n\nTechnical Traffic & Data Validation: Utilized Fiddler for capturing and analyzing live network traffic, executed SQL queries via Navicat for database validation, and drove agile releases using Jenkins."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2246724",
+          "companyUrn": "urn:li:fsd_company:2246724",
+          "companyLink1": "https://www.linkedin.com/company/all4shop/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEHFBvsMi3plQ/company-logo_400_400/company-logo_400_400/0/1677100596845?e=1785369600&v=beta&t=GMa9eqrOMCpYK1Aqixfl7ar4RncPPelS6psTGBNaBRE",
+          "title": "QA team lead",
+          "subtitle": "All4Shop . undefined",
+          "caption": "Dec 2010 - Aug 2012 · 1 yr 8 mos",
+          "metadata": "Haifa",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Making sure company's products are released with high quality.\n\tReporting results and project updates to senior management.\n\tMeeting clients and handling any complaints they may have.\nOverseeing quality standards are clearly set up and are communicated\t within the company\n\tOnline and face to face customers support.\n\tTraining customers and setting up environments for customer's site.\n\tWorking extensively with SQL Server (T-sql)\n\tTraining new QA members and leading a small testing team of 3 QA Engineers.\n\tAdvising of recommended test approach for each testing phase.\n\tWorking closely daily with Dev Manager and BA's"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Hebrew",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Spanish",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Google Cloud Platform (GCP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "QA Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Tracking Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software as a Service (SaaS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Scripts",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Defect Tracking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Selenium Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Improvement",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Control",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Quality Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache Kafka",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Quality",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft PowerPoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Excel",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Nesher high school",
+          "subtitle": "null, null",
+          "caption": "2002 - 2004",
+          "subComponents": []
+        },
+        {
+          "companyId": "3155",
+          "companyUrn": "urn:li:fsd_company:3155",
+          "companyLink1": "https://www.linkedin.com/school/technion/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG12formuFdJg/company-logo_400_400/company-logo_400_400/0/1630469288270/technion_logo?e=1785369600&v=beta&t=stC5EXYQn0cK5A-UDMxdjNIoZrx6q5Rl3KA6BYJjw1s",
+          "title": "Technion - Israel Institute of Technology",
+          "subtitle": "Diploma, Quality Assurance\\ Software Testing",
+          "caption": "",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

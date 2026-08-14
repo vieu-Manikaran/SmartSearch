@@ -1,0 +1,520 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/gauthier-gras",
+  "row_key": "id:0033l00002kEL8LAAW",
+  "person": "Gauthier Gras",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T09:57:32Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAoJxDgB8URZGatmGjA7T_Cy1YrmJGj4MA4",
+      "firstName": "Gauthier",
+      "lastName": "Gras",
+      "fullName": "Gauthier Gras",
+      "publicIdentifier": "gauthier-gras",
+      "headline": "Director of Software and Systems Engineering at Medtronic",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "FR",
+        "language": "fr"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Medical Device",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London, England United Kingdom",
+      "addressWithoutCountry": "London, England",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQGT6WTOB9qNxw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1590509153370?e=1785369600&v=beta&t=z1s7mowYHscm7G6V0cpN3cGViHNenD1cDsfG-oXS8fw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGT6WTOB9qNxw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1590509153370?e=1785369600&v=beta&t=PXEhozpyDZ9CcceM5lDyY4MIECvOOf8X6DtNo3mERWA"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGT6WTOB9qNxw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1590509153370?e=1785369600&v=beta&t=7L-fuquZzld3pqm9eMuTU_VJau0P4lkFLDPImOMdqWE"
+        },
+        {
+          "width": 310,
+          "height": 310,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGT6WTOB9qNxw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1590509153370?e=1785369600&v=beta&t=PhX2UhnvsmpyWk50t9fHkV7-HarXrkajMNhOF1vciAs"
+        },
+        {
+          "width": 310,
+          "height": 310,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQGT6WTOB9qNxw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1590509153370?e=1785369600&v=beta&t=z1s7mowYHscm7G6V0cpN3cGViHNenD1cDsfG-oXS8fw"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Director, Software and Systems Engineering",
+          "subtitle": "Medtronic . Full-time",
+          "caption": "Apr 2021 - Present · 4 yrs 9 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "2954853",
+          "companyUrn": "urn:li:fsd_company:2954853",
+          "companyLink1": "https://www.linkedin.com/company/medtronic-digital-surgery/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuDLbswC0d0A/company-logo_400_400/company-logo_400_400/0/1657131224915/medtronic_digital_surgery_logo?e=1785369600&v=beta&t=iBTvcSI6RLtbB2e8VO3LyCBvTk3VbAqh_GKn0VboutQ",
+          "title": "Touch Surgery",
+          "subtitle": "Full-time · 2 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Lead Systems Engineer",
+              "caption": "Oct 2019 - Sep 2021 · 1 yr 11 mos",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Senior Research Scientist",
+              "caption": "Oct 2018 - Oct 2019 · 1 yr",
+              "metadata": "London, United Kingdom",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "undefined · 4 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "PhD in surgical robotics",
+              "caption": "Oct 2014 - Sep 2018 · 3 yrs 11 mos",
+              "metadata": "Hamlyn Centre for Robotic Surgery",
+              "description": []
+            },
+            {
+              "title": "Research Assistant",
+              "caption": "Oct 2013 - Sep 2014 · 11 mos",
+              "metadata": "Hamlyn Centre for Robotic Surgery",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Organised the development and subsequently managed a new laboratory space for augmented reality with robotics (over £500k of equipment).\n• Coordinated software development with 7 universities for the CASCADE European project on augmented reality for catheter guidance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Founding Member",
+          "subtitle": "Precision Robotics . undefined",
+          "caption": "2017 - 2017 · ",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Startup focused on developing medical robots for safe, minimally invasive surgery. The technology is based on the research carried out by my colleagues and I at Imperial College London. £30 million seed funding.\n\nMore information at:\nhttps://www.imperialinnovations.co.uk/news-events/news/2017/dec/6/imperial-spinout-precision-robotics-launched-comme/\nhttps://www.imperialinnovations.co.uk/venture-support/our-spinouts/precision-robotics/"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "4249",
+          "companyUrn": "urn:li:fsd_company:4249",
+          "companyLink1": "https://www.linkedin.com/company/edf/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGJ5iv880eA7w/company-logo_200_200/B4EZVC6RsuGgAI-/0/1740584329424/edf_logo?e=1785369600&v=beta&t=S8x0S2BrPXkzF2b2G1FTdEh0vzykvYVkt-ve9Y9On_I",
+          "title": "Intern",
+          "subtitle": "EDF . undefined",
+          "caption": "Jun 2010 - Jul 2010 · 1 mo",
+          "metadata": "Les Renardières, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Design of a command bloc for the remote control of high voltage circuit breakers (>400 kV) using optical fibres."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Intern",
+          "subtitle": "Laboratoire d'Onde et Matière d'Aquitaine (LOMA) . undefined",
+          "caption": "Jun 2010 - Jul 2010 · 1 mo",
+          "metadata": "Bordeaux, France",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software design for Fourier-based spectroscopy of a high-resolution laser."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Surgical Robot Challenge: Best Design Prize",
+          "subtitle": "Issued by Surgical Robot Challenge 2017 at the Hamlyn Symposium on Medical Robotics",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Best design prize for \"The Intuitive Imaging Sensing and Kinematically Enhanced Robotic Platform for Ear Nose Throat Surgery: the i²Snake\".\nWork done in collaboration with P. Berthet-Rayne, K. Leibrandt, P. Wisanuvej, A. Schmitz, C. A. Seneci and G.-Z. Yang."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Google PhD Poster Competition: 2nd place",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Ranked 7th nationwide on the Agrégation in electrical engineering.",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The Agrégation is the most selective French civil service competitive examination for the public education system."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Robotics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Augmented Reality",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Simulations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Matlab",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenGL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++11/14 (templates, multithreading)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Gaussian Processes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Bayesian inference and optimisation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OpenCV",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "Doctor of Philosophy (PhD), Robotics and Augmented Reality",
+          "caption": "2014 - 2018",
+          "subComponents": []
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "Master of Research, Medical Robotics and Image Guided Intervention",
+          "caption": "2012 - 2013",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Distinction"
+            }
+          ]
+        },
+        {
+          "title": "École Normale Supérieure de Cachan",
+          "subtitle": "Dipl. ENS Cachan EEA, equivalent to M.Sc, Electrical and Electronics Engineering",
+          "caption": "2009 - 2012",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Double diploma in conjunction with the Université Paris-Sud XI."
+            }
+          ]
+        },
+        {
+          "companyId": "15091620",
+          "companyUrn": "urn:li:fsd_company:15091620",
+          "companyLink1": "https://www.linkedin.com/school/polytechnique-montreal/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFX62gnYeN6Dg/company-logo_100_100/B4EZ54cm32HUAI-/0/1780137225973?e=1785369600&v=beta&t=7X2QD6y77qfqdO0MDygs7Qmq0vI4rbhtF9LCbXsyacU",
+          "title": "École Polytechnique de Montréal",
+          "subtitle": "Exchange Semester, Electrical and Electronics Engineering",
+          "caption": "2011 - 2011",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "1st Class"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Microscopic Image-Guided Endoluminal Surgery (Micro-IGES) Robot",
+          "subtitle": "Mar 2015 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Worked as part of an 8-person team to develop a novel minimally invasive surgical robot.\n- Coded the underlying robotics library used, multiple device and user interfaces, and played a key role in the diagnosis and debugging of the kinematic behaviour.\n- Technology resulting from this and related work was used to form Precision Robotics, a spin-out company."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Augmented Reality for Intra-Operative Imaging",
+          "subtitle": "Sep 2014 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Developed a real-time augmented reality display using OpenGL/OpenCL interoperability that preserves salient features.\n- Visual force feedback was developed using force sensing in conjunction with finite element modelling to enhance depth perception."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Adaptive Motion Scaling",
+          "subtitle": "Jun 2016 - Oct 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Developed a novel method for reducing the need for clutching, allowing for more intuitive control of highly dexterous systems.\n- Used information fusion from multiple sources such as eye and tool tracking to form a context-aware interface.\n- Developed a Bayesian optimization approach using Gaussian Processes to provide optimal user-specific robot behaviour."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Robotic-Assisted Physiotherapy",
+          "subtitle": "Jan 2013 - Oct 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Developed a learning from demonstration framework for robotic physiotherapy, allowing patients to train with a robot as though they were with a therapist. \n- Designed a multi-signal hierarchical dynamic time warping algorithm used in conjunction with Gaussian mixture models to transfer knowledge from the therapist to the robot."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "linkedin_url": "https://ca.linkedin.com/in/gailleur",
+  "row_key": "id:003Uk000014A1zKIAS",
+  "person": "Jean-Francois Gailleur",
+  "account": "AlayaCare",
+  "fetched_at": "2026-07-14T10:47:26Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAAJFOcBFh65ZA0wt3GDeTGmFhpLv2tn98U",
+      "firstName": ".Jean-Francois",
+      "lastName": "Gailleur",
+      "fullName": ".Jean-Francois Gailleur",
+      "publicIdentifier": "gailleur",
+      "headline": "Helping to deliver in-home care with better technology",
+      "about": "MBA, Eng., CISSP, with over 30 years of experience in Software, Data, AI, Analytics, Web, Mobile, and Security across diverse industries including Payments, E-commerce, Cybersecurity, and Home Care. A consistent top performer driven by a passion for challenging the status quo to deliver superior outcomes for our customers and their clients.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Hospital & Health Care",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Canada",
+      "addressWithCountry": "Montreal, Quebec Canada",
+      "addressWithoutCountry": "Montreal, Quebec",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEcx64vIh1fMQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730486119647?e=1785369600&v=beta&t=LThaD0V9CsjMnv1u9fyTdXnywVUD9R_3r5ZWCZlicYA",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4D16AQF8USbTV9woWQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1611352716162?e=1785369600&v=beta&t=OkUfBIsqPtkwI047QsjEELSOU7u6DuQFVYhySkXbxgw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEcx64vIh1fMQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730486119639?e=1785369600&v=beta&t=S2LRn8N23kd3pXAbo2-8mZ7K40VNKFMDKsvpqtALKaM"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEcx64vIh1fMQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730486119639?e=1785369600&v=beta&t=xKqTrhZe2qNEvcRMbKPOO0nuPDF_hYqXyQPj8ZakAu4"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEcx64vIh1fMQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730486119639?e=1785369600&v=beta&t=phiLOVIgRBZ6ASqjI6GySrPvJwr6pwGi2bIK70kQClI"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEcx64vIh1fMQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730486119647?e=1785369600&v=beta&t=LThaD0V9CsjMnv1u9fyTdXnywVUD9R_3r5ZWCZlicYA"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQF8USbTV9woWQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1611352716162?e=1785369600&v=beta&t=ryBpRRbgrSnK2O29_o4mqeYo-kgMaOwJCSsCxzp2ibY"
+        },
+        {
+          "width": 1024,
+          "height": 256,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D16AQF8USbTV9woWQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1611352716162?e=1785369600&v=beta&t=OkUfBIsqPtkwI047QsjEELSOU7u6DuQFVYhySkXbxgw"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "5191283",
+          "companyUrn": "urn:li:fsd_company:5191283",
+          "companyLink1": "https://www.linkedin.com/company/alayacare-inc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEAJy5rfZoO0g/company-logo_400_400/company-logo_400_400/0/1645022956117/alayacare_inc_logo?e=1785369600&v=beta&t=j8XNqnEsVEzcHsM_v3tVk3qowS2Kj-uZCDy7OK4DSKc",
+          "title": "Senior Vice President, Engineering and Information Security",
+          "subtitle": "AlayaCare . Permanent Full-time",
+          "caption": "Feb 2021 - Present · 4 yrs 11 mos",
+          "metadata": "Montreal, QC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Enabling the care we want our loved ones to receive in the place they call home. \nFrom 1 to n - we are building a 100 years company\n\n- Leading global engineering teams across Canada, USA, and Australia, including 24/7 Site Reliability and Information Security, to scale AlayaCare’s cloud platform powering the future of home and community healthcare.\n- Delivering applications and infrastructure with enterprise-grade reliability, performance, security and compliance, supporting AlayaCare’s growth in existing and new markets with existing and new products.\n- Driving adoption of best practices in software engineering, DevOps, SRE, and Security while strategically aligning teams to accelerate innovation.\n- Integrating acquired product stacks \n- Introduced FinOps to significantly reduce AWS costs and other COS to improve gross margins\n- Deploying AI-driven productivity tools to improve efficiency and talent retention.\n- Mentoring and building high-performing engineering leaders and teams, ensuring the organization is equipped to sustain innovation and scale globally.\n- Responsible for Compliance and Information Security"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "17947720",
+          "companyUrn": "urn:li:fsd_company:17947720",
+          "companyLink1": "https://www.linkedin.com/company/elevate-security/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYOJi7KkQ0-w/company-logo_400_400/company-logo_400_400/0/1630590446781/elevate_security_logo?e=1785369600&v=beta&t=8fhI3EftiHegfJK3RotHUj2sSl88EoIuwMMH6FI7foQ",
+          "title": "VP of Software Engineering",
+          "subtitle": "Elevate Security . undefined",
+          "caption": "Jan 2019 - Feb 2021 · 2 yrs 1 mo",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Proactive insider threat management SaaS platform\nFrom 0 to 1 - acquired by Mimecast\nSetting-up the teams and processes from 3 to 30 people, obtaining the SOC 2 type 2 certification and building the platform from one to four products, including the integration of an acquired product.\nTechnologies include Python, Node.JS, React, K8s, pact.io, circleCI, AWS, data pipeline, data warehouse, Micro-services pattern."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "231953",
+          "companyUrn": "urn:li:fsd_company:231953",
+          "companyLink1": "https://www.linkedin.com/school/etsmtl/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAWMk5YiS_Dg/company-logo_400_400/B4EZpzcSfQJgAc-/0/1762873387304/etsmtl_logo?e=1785369600&v=beta&t=cq07AmCCA-XzV8_j9f9nlh4AvF6kQUBo4NgTVcp-qeY",
+          "title": "Part-time Lecturer, Data Warehouse and Business Intelligence",
+          "subtitle": "École de technologie supérieure . undefined",
+          "caption": "2018 - 2020 · 2 yrs",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Teaching MTI 820 “Data Warehouse, Business Intelligence and Introduction to Machine Learning”. Based on Kimball Lifecycle."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1418447",
+          "companyUrn": "urn:li:fsd_company:1418447",
+          "companyLink1": "https://www.linkedin.com/company/appdirect/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQGq2Gis7WwC9g/company-logo_400_400/company-logo_400_400/0/1674483251929/appdirect_logo?e=1785369600&v=beta&t=NNYYjQ6b2inF3fyPgpJIL2I75hSbeLglioPF8yjnBq4",
+          "title": "Head of Software Engineering Excellence",
+          "subtitle": "AppDirect . undefined",
+          "caption": "Sep 2017 - Dec 2018 · 1 yr 3 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Key responsibilities include\n- steering the global architecture roadmap, engineering OKRs and development lifecycle for hundreds of distributed software engineers (US, Canada, Argentina, Germany, India).\n- increasing development velocity by leading the transformation to Continuous Deployment in a DevOps approach and migration from monolith to microservices architecture\n- nurturing an Agile/Scrum/Lean culture based on data driven decisions\n\nAppDirect is the leading SaaS commerce platform for selling cloud services. AppDirect is included in the Forbes Cloud 100, an exclusive list of the world's top 100 private cloud companies.\n\nTechnologies include Java, Node.JS, React, GoLang, K8s, AWS, pact.io, Jenkins, Micro-services pattern."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1115",
+          "companyUrn": "urn:li:fsd_company:1115",
+          "companyLink1": "https://www.linkedin.com/company/sap/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_400_400/company-logo_400_400/0/1723034255614/sap_logo?e=1785369600&v=beta&t=1psUiMuM9tDkSvOzoCX4mmiazJ-jnYRfmOJi7Pqq3pM",
+          "title": "SAP",
+          "subtitle": "undefined · 4 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Director, Cloud Engineering and Data Analytics",
+              "caption": "Jan 2017 - Aug 2017 · 7 mos",
+              "metadata": "Montreal, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Led the Global Cloud Services Engineering teams (Shanghai, Munich, Budapest, Montreal) with staff of 60 people focusing on development of a commerce PaaS and predictive analytics in a DevOps approach, delivering a K8s cloud platform on Azure and setting up Security and SRE groups."
+                }
+              ]
+            },
+            {
+              "title": "Director, Software Development, Enterprise Commerce and Insights Products",
+              "caption": "Jan 2013 - Dec 2016 · 3 yrs 11 mos",
+              "metadata": "Montreal, Canada Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "SAP Hybris (formerly hybris, acquired by SAP in 2013)\nLed 5 international development teams (Munich, Poland, NYC, Montreal) to augment Customer Experience, Order Management System, Search and Analytics Insights for the SAP Hybris commerce platform. GM for the SAP Commerce Product Development office in Montreal with staff of 80+ people.\n\nTechnologies include lot of open sources, Java Web app with Spring MVC, SOA, Angular, mobile, Mongo, SOLR, SAP BI, HANA, Kubernetes, Docker, Hadoop, Kafka."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Owner, Management and Data Analytics Consulting",
+          "subtitle": "JFG Consulting Inc. . undefined",
+          "caption": "Oct 2012 - Jun 2013 · 8 mos",
+          "metadata": "Montreal, Canada Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "•\tConsulting: defined digital marketing and ecommerce strategy for a medium sized B2B company. Analyzed financial and others data to simplify product lines, using R and Tableau.\n•\tLearning Big Data and Data Science: MIT Sloan Big Data, Stanford Machine Learning, IIT Delhi Web Intelligence, EMC Data Science. Attended Strata NYC Conference.\nhttps://bigdataweb.wordpress.com/"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "12040",
+          "companyUrn": "urn:li:fsd_company:12040",
+          "companyLink1": "https://www.linkedin.com/company/apphelp-by-appdirect/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQE1X4RKbIuSRQ/company-logo_400_400/company-logo_400_400/0/1631322667199?e=1785369600&v=beta&t=8f3wUiUB40Pvl3xKd_uf9SvGBgxgC7m2HbfBdLKX-PE",
+          "title": "Director, Product Management and Software Development, Security Services",
+          "subtitle": "Radialpoint . undefined",
+          "caption": "Oct 2004 - Sep 2012 · 7 yrs 11 mos",
+          "metadata": "Montreal, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Radialpoint is privately held with around 200 employees. Radialpoint has been recognized with numerous awards such as Profit 100 Canada (2006-2009), named for 3 consecutive years from 2006 to 2008 in Deloitte's Technology, Fast 500 North America and Fast 50 Canada and ranked Top 25 Software Companies in the Branham 300.\n\nLed the software product development team for a SaaS white label platform to sell and deliver digital security services to Telcos, then headed the product management with P&L and strategy responsibility. \nTechnologies include Java Web, mobile and desktop Mac and Windows C++ applications, Cognos for analytics.\n\nTechnologies include Client Apps for Windows, Mac, Android and IOS; Server side applications using Java and J2EE; Oracle and MySQL DB, JSON RESTfull APIs, Zuora billing and Cognos Analytics."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Board Member, Director and Treasurer",
+          "subtitle": "Montreal Information Security Association . undefined",
+          "caption": "May 2003 - May 2005 · 2 yrs",
+          "metadata": "Montreal, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Member of the Board of non-for-profit organization promoting information security in Montreal"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Owner, Principal Consultant, Security and System Architecture",
+          "subtitle": "Ouala Inc. . undefined",
+          "caption": "Jul 2001 - Sep 2004 · 3 yrs 2 mos",
+          "metadata": "Montreal, Canada",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Multiple mandates in security, system architecture and project management in the Finance and Retail industries. Had a team of few consultants."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2683",
+          "companyUrn": "urn:li:fsd_company:2683",
+          "companyLink1": "https://www.linkedin.com/company/thalesdis/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHRBaYLFLGchA/company-logo_400_400/company-logo_400_400/0/1630604022324/gemalto_logo?e=1785369600&v=beta&t=6v0KPT0LLrJEBT6tTW5UtANKLlWdMeYA0qlHaR1vow4",
+          "title": "Site Manager (Seattle) and  Director, Program Management",
+          "subtitle": "Gemplus . undefined",
+          "caption": "Aug 1998 - Jul 2001 · 2 yrs 11 mos",
+          "metadata": "Montreal, Canada and Seattle, USA",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Program Director & Site Manager, -07/2001\n- Defined, sold, and led the delivery of an enterprise web based identity management software for customer Microsoft Corporate in Redmond, USA.\n\nDirector, Professional Services, 08/1998-07/2000\n- Generated profitable revenues by adapting Gemplus Software products to the American market in the telecommunications, finance and enterprise security segments. Managed staff of 30 people."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "18246783",
+          "companyUrn": "urn:li:fsd_company:18246783",
+          "companyLink1": "https://www.linkedin.com/company/deeplearningai/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1785369600&v=beta&t=TLw0-fZUMTgzf9MLtDPCB8VmOAewjJfZ2yaVbPGkkBw",
+          "title": "Multi AI Agent Systems with crewAI",
+          "subtitle": "DeepLearning.AI",
+          "issued": "Issued Nov 2024",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/coursera/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1785369600&v=beta&t=fHAbVUDSzn8XkAT15is64rnNYNTsHDrM6DlwHBkKPMo",
+          "title": "Neural Networks and Deep Learning",
+          "subtitle": "Coursera",
+          "issued": "Issued Dec 2018",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "481634",
+          "companyUrn": "urn:li:fsd_company:481634",
+          "companyLink1": "https://www.linkedin.com/school/mit-professional-education/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZLjfg1Jhpfw/company-logo_400_400/company-logo_400_400/0/1720625381085/mit_professional_education_logo?e=1785369600&v=beta&t=hB4O0D5-edykVObz-O8DPOcT-XerLLebM--F0GDINuo",
+          "title": "Internet of Things: Roadmap to a Connected World",
+          "subtitle": "MIT Professional Education",
+          "issued": "Issued May 2016",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "481634",
+          "companyUrn": "urn:li:fsd_company:481634",
+          "companyLink1": "https://www.linkedin.com/school/mit-professional-education/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZLjfg1Jhpfw/company-logo_400_400/company-logo_400_400/0/1720625381085/mit_professional_education_logo?e=1785369600&v=beta&t=hB4O0D5-edykVObz-O8DPOcT-XerLLebM--F0GDINuo",
+          "title": "Tackling the Challenges of Big Data",
+          "subtitle": "MIT Professional Education",
+          "issued": "Issued Dec 2014",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "52749",
+          "companyUrn": "urn:li:fsd_company:52749",
+          "companyLink1": "https://www.linkedin.com/company/pragmatic-marketing/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQFLXRPA-n2H0Q/company-logo_400_400/company-logo_400_400/0/1631657822736/pragmatic_marketing_logo?e=1785369600&v=beta&t=U26gB6PNTEd3JJgT0qXVWjwptbxPdYwZcFPXTn2eiW4",
+          "title": "Certified Practical Product Management",
+          "subtitle": "Pragmatic Marketing",
+          "issued": "Issued Jun 2008",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Professional Engineer",
+          "subtitle": "Professional Engineering Association of Quebec, Canada",
+          "issued": "Issued Jun 2006",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "26753",
+          "companyUrn": "urn:li:fsd_company:26753",
+          "companyLink1": "https://www.linkedin.com/company/isc2/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEANDNp1O78-g/company-logo_400_400/company-logo_400_400/0/1692269546870?e=1785369600&v=beta&t=gSnOX85TYo1H_Od4TQ10pqsVPc7YOo7S2ev7l0Vi_0U",
+          "title": "CISSP, Certified Information Systems Security Professional",
+          "subtitle": "(ISC)²",
+          "issued": "Issued Apr 2002",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java Trainer",
+          "subtitle": "Sun Microsystems",
+          "issued": "Issued Mar 1996",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Microsoft Certified Professional, Windows Product specialist",
+          "subtitle": "Microsoft",
+          "issued": "Issued Mar 1995",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "multi AI agent systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "GenAI Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Retrieval-Augmented Generation (RAG)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "AI agentic",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operational Efficiency",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Team Building",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Executive Support",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Engineering Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scalability",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cloud Application Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operational Excellence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Site Reliability Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SaaS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Product Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategic Partnerships",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Devices",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "E-commerce",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "163191",
+          "companyUrn": "urn:li:fsd_company:163191",
+          "companyLink1": "https://www.linkedin.com/school/concordia-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEVRyb-pMvVgg/company-logo_200_200/B4EZoxqBdpIwAI-/0/1761769691383/concordia_university_logo?e=1785369600&v=beta&t=y1OwOOezKKiGpP-UUIJUbK1drkg2hz2WqoRojDtnHLk",
+          "title": "Concordia University",
+          "subtitle": "MBA, Recognized and honored as part of the top performing students with Beta Gamma Sigma (International Honor Society of Business Schools)",
+          "caption": "2006 - 2008",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.84/4"
+            },
+            {
+              "type": "insightComponent",
+              "text": "http://johnmolson.concordia.ca/emba/"
+            }
+          ]
+        },
+        {
+          "companyId": "1615274",
+          "companyUrn": "urn:li:fsd_company:1615274",
+          "companyLink1": "https://www.linkedin.com/school/polytech-marseille/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH12XrTaTFKVg/company-logo_400_400/company-logo_400_400/0/1719394014438/polytech_marseille_logo?e=1785369600&v=beta&t=cVMG3QuWrkOeBQ2Bd4q79eGoqL6wPKtETdN97Bj1hAc",
+          "title": "Polytech'Marseille",
+          "subtitle": "Master of Engineering (French Engineer's Degree), Junior Enterprise, Software Development consulting practice",
+          "caption": "1988 - 1991",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Ecole Polytechnique Universitaire de Marseille"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

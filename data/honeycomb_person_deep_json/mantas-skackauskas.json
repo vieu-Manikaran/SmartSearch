@@ -1,0 +1,749 @@
+{
+  "linkedin_url": "https://uk.linkedin.com/in/mantas-skackauskas",
+  "row_key": "id:003Uk00000yfUHiIAM",
+  "person": "Mantas Skackauskas",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:42Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAB98W4MB6WuuI7JIizLZoZN1_C2s9ckaiAQ",
+      "firstName": "Mantas",
+      "lastName": "Skačkauskas",
+      "fullName": "Mantas Skačkauskas",
+      "publicIdentifier": "mantas-skackauskas",
+      "headline": "PhD Student | Software Engineer",
+      "about": "• Senior engineer building reliable, scalable and cost-effective distributed systems for ML, DS and DA consumers\n• Experience in applied machine learning projects such as recommendation systems and classification models\n• Prize winner of 10+ hackathons and coding competitions",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQG67LwSBoQ8ew/profile-displayphoto-scale_100_100/B4DZlnk1HeHsAc-/0/1758379332561?e=1785369600&v=beta&t=XJopimftSjwrt1n25oYt5tKbqeZaoOlDaE26XrqkhCg",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQGCJfqJe9KRZA/profile-displaybackgroundimage-shrink_200_800/B4DZiqWLSuGQAY-/0/1755204602958?e=1785369600&v=beta&t=9iXQTTC9eoVjaTVLr3y-iPoSC_wwNteCP4-0mDlxWSA",
+      "profilePicAllDimensions": [
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQG67LwSBoQ8ew/profile-displayphoto-scale_200_200/B4DZlnk1HeHsAY-/0/1758379332562?e=1785369600&v=beta&t=gyi2QzZvFfNtiUay9oQbxcA9Rrnehza8roeaGHfNOKY"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQG67LwSBoQ8ew/profile-displayphoto-crop_800_800/B4DZlnk1HeHsAI-/0/1758379332479?e=1785369600&v=beta&t=9fkjIJFbAZxDRShOhBoad4S_ijrGNvVJr2io09bV7HY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQG67LwSBoQ8ew/profile-displayphoto-scale_400_400/B4DZlnk1HeHsAg-/0/1758379332562?e=1785369600&v=beta&t=gu6mDtFMHKxOCD1FYT9gYmM9PagnueHfTWv3xau7gmQ"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D03AQG67LwSBoQ8ew/profile-displayphoto-scale_100_100/B4DZlnk1HeHsAc-/0/1758379332561?e=1785369600&v=beta&t=XJopimftSjwrt1n25oYt5tKbqeZaoOlDaE26XrqkhCg"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1400,
+          "height": 349,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQGCJfqJe9KRZA/profile-displaybackgroundimage-shrink_350_1400/B4DZiqWLSuGQAc-/0/1755204602958?e=1785369600&v=beta&t=-SVTSaagVa_MnLnG4FdwBlp9JVgYXfk3pwNj1mUjE6U"
+        },
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D4D16AQGCJfqJe9KRZA/profile-displaybackgroundimage-shrink_200_800/B4DZiqWLSuGQAY-/0/1755204602958?e=1785369600&v=beta&t=9iXQTTC9eoVjaTVLr3y-iPoSC_wwNteCP4-0mDlxWSA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Senior Software Engineer",
+          "subtitle": "Yelp . Full-time",
+          "caption": "Oct 2021 - Sep 2025 · 3 yrs 11 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Search Data - Infrastructure, Quality and Analytics domains\n• Owning and leading multi-team projects\n• Significant SDLC work experience in large-scale distributed data processing systems\n• Enabling teams to run ML models, perform A/B testing research and use data analytics tools to infer trends in user behaviour and provide the best experience for the 100+ million active platform users\n• Maintaining high quality engineering standards and practices\n• Prioritising and delivering tasks on schedule\n• Tech stack: Python, Scala, Java, SQL, AWS (Redshift, S3, Glue, EMR, Athena, Spectrum), Kafka, Spark, Avro, Hive, dbt, Kubernetes, Docker, Jupyter, CI/CD, LLM frameworks (LangChain)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15683",
+          "companyUrn": "urn:li:fsd_company:15683",
+          "companyLink1": "https://www.linkedin.com/school/university-of-st-andrews/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHk1lmsMDYIoA/company-logo_400_400/company-logo_400_400/0/1663678012255/university_of_st_andrews_logo?e=1785369600&v=beta&t=tSXhAlIYxHnS--qzZGrELOBTC1LtemKWWgF3Vke39YU",
+          "title": "Undergraduate Student Researcher",
+          "subtitle": "University of St Andrews . Part-time",
+          "caption": "Sep 2019 - Jan 2021 · 1 yr 4 mos",
+          "metadata": "St. Andrews, Scotland, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed a resting-state fMRI preprocessing workflow using Python (Pandas, Numpy, Matplotlib, Scikit-Learn, Seaborn, NIPY), Matlab (SPM 12) and FSL producing over 2TB worth of scientific data for use with machine learning tools.\n• Built a Convolutional-LSTM based model for the classification of Alzheimer’s disease using TensorFlow 2."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1068",
+          "companyUrn": "urn:li:fsd_company:1068",
+          "companyLink1": "https://www.linkedin.com/company/jpmorganchase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1785369600&v=beta&t=jYOBdiueGs_lhwuITtjYPaz8lhGNeBBj6VIEbg1hxcE",
+          "title": "Software Engineer Intern",
+          "subtitle": "JPMorgan Chase & Co. . Internship",
+          "caption": "Jun 2020 - Aug 2020 · 2 mos",
+          "metadata": "London, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Worked in an Agile team to build a training platform for RE:ACT Disaster Response volunteers using React, Typescript and Material-UI.\n• Hosted the final solution on AWS EC2 instance and presented it to the large audience of volunteers and software engineers. Received overwhelmingly positive feedback."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1068",
+          "companyUrn": "urn:li:fsd_company:1068",
+          "companyLink1": "https://www.linkedin.com/company/jpmorganchase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1785369600&v=beta&t=jYOBdiueGs_lhwuITtjYPaz8lhGNeBBj6VIEbg1hxcE",
+          "title": "Software Engineer Intern",
+          "subtitle": "JPMorgan Chase & Co. . Internship",
+          "caption": "Jun 2019 - Aug 2019 · 2 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Developed a real-time reconciliation monitor for trading breaks. Wrote a Q script that queries real-time and historical FX trading data from a kdb+ time series database, performs data aggregation and dynamically visualises it using Grafana.\n• Due to high effectiveness of the final solution, the project was deployed across multiple FX rates technology teams in London, New York and Singapore. Presented my project to over 60 people, including the head of FX rates data & engineering team."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1068",
+          "companyUrn": "urn:li:fsd_company:1068",
+          "companyLink1": "https://www.linkedin.com/company/jpmorganchase/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1785369600&v=beta&t=jYOBdiueGs_lhwuITtjYPaz8lhGNeBBj6VIEbg1hxcE",
+          "title": "Software Engineer Intern",
+          "subtitle": "JPMorgan Chase & Co. . Internship",
+          "caption": "Jun 2018 - Aug 2018 · 2 mos",
+          "metadata": "London, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Built a market data tool for a data analysis system in collaboration with quantitative research and equity derivatives technology teams.\n• Resulted in ~50% speed increase in data file generation.\n• Sharpened my skills in data structures, algorithms, OOP, multithreading and data analysis using Python, SQL, C++ and a large number of libraries."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "15683",
+          "companyUrn": "urn:li:fsd_company:15683",
+          "companyLink1": "https://www.linkedin.com/school/university-of-st-andrews/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHk1lmsMDYIoA/company-logo_400_400/company-logo_400_400/0/1663678012255/university_of_st_andrews_logo?e=1785369600&v=beta&t=tSXhAlIYxHnS--qzZGrELOBTC1LtemKWWgF3Vke39YU",
+          "title": "Software Developer Intern",
+          "subtitle": "University of St Andrews . Internship",
+          "caption": "Jun 2017 - Aug 2017 · 2 mos",
+          "metadata": "St Andrews, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Development of smoking cessation app “MapMySmoke” sponsored by NHS Fife, health diary app “FEAT” for Sandhurst Academy RAF cadets, “Freyja” app for women to help predict their chances of fertility.\n• Developed using Ionic Framework, TypeScript, Angular, JavaScript, PHP, BootStrap, Node.js, mySQL."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "FULL_PROFESSIONAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Lithuanian",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Russian",
+          "caption": "LIMITED_WORKING",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [
+        {
+          "title": "Deans' List",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CV Awards HackZurich 2018",
+          "subtitle": "Issued by null",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "2nd Place, Facebook London Hackathon 2018",
+          "subtitle": "Issued by Facebook London",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a framework of applications for Alzheimer's patients and their care takers to organise and simplify daily routine tasks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "J.P. Morgan Code for Good 2017 CLIC Sargent Challenge winner",
+          "subtitle": "Issued by J.P. Morgan, London Office",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a social platform for young people diagnosed with cancer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "HackTrain 4.0 (2017) SNCF Challenge winner",
+          "subtitle": "Issued by HackTrain",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a framework of applications to create an environment where train passengers and onboard crew can exchange information and perform tasks more efficiently"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "StacsHack 2017 J.P. Morgan Challenge winner",
+          "subtitle": "Issued by University of St Andrews",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a 3D video game which is controlled using brain wave patterns via Emotiv™ hardware kit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2nd Place, Hack the Bubble 2016 Hackathon",
+          "subtitle": "Issued by University of St Andrews",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a 2D platformer video game"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1st Place Award Dr. Juozas Kazickas Forum",
+          "subtitle": "Issued by Kaunas University of Technology",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "KTU Dr. Juozas Kazickas Forum 1st place award for the best developed project \"LED matrix based video game console\". "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Algorithms",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Computer Science",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Statistical Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Analysis",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Big Data",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Data Structures",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "5738",
+          "companyUrn": "urn:li:fsd_company:5738",
+          "companyLink1": "https://www.linkedin.com/school/university-of-edinburgh/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSi1nlisxTcg/company-logo_400_400/company-logo_400_400/0/1631312234132?e=1785369600&v=beta&t=WxLGIpJx5lTcdPMVKLNMc_std6r-HZm6-NVVzjyLWyI",
+          "title": "The University of Edinburgh",
+          "subtitle": "Doctor of Philosophy - PhD, Artificial Intelligence",
+          "caption": "Sep 2025 - 2029",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Robust World Models for Planning and Navigation"
+            }
+          ]
+        },
+        {
+          "companyId": "5106",
+          "companyUrn": "urn:li:fsd_company:5106",
+          "companyLink1": "https://www.linkedin.com/school/imperial-college-london/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1785369600&v=beta&t=mUfJa5ThBuQVVNYr_XTZg7Rp6Hh4qyW3WqXnVn9Esu8",
+          "title": "Imperial College London",
+          "subtitle": "Master of Science - MS, Data Analytics & Machine Learning",
+          "caption": "2020 - 2021",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "• Dissertation topic: Recommender system for early oncology diagnostics (sponsored by AstraZeneca), Project grade: Distinction\n• Modules in theoretical and applied Machine Learning\n• Advanced Statistics\n• Advanced Data Management\n• Contributed to Keras open-source library"
+            }
+          ]
+        },
+        {
+          "companyId": "15683",
+          "companyUrn": "urn:li:fsd_company:15683",
+          "companyLink1": "https://www.linkedin.com/school/university-of-st-andrews/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHk1lmsMDYIoA/company-logo_400_400/company-logo_400_400/0/1663678012255/university_of_st_andrews_logo?e=1785369600&v=beta&t=tSXhAlIYxHnS--qzZGrELOBTC1LtemKWWgF3Vke39YU",
+          "title": "University of St Andrews",
+          "subtitle": "Bachelor’s Degree, Mountaineering Society, Lithuanian Society, Computing Society (STACS), Hackathons",
+          "caption": "2016 - 2020",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "• Participant and multiple prize winner of 12 hackathons in Europe.\n• Attendee of multiple technology events/seminars in the UK."
+            }
+          ]
+        },
+        {
+          "companyId": "18110985",
+          "companyUrn": "urn:li:fsd_company:18110985",
+          "companyLink1": "https://www.linkedin.com/school/jbgimnazija/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGT_CrHt0YgCg/company-logo_400_400/company-logo_400_400/0/1631320642793?e=1785369600&v=beta&t=fQGokrWTkUlwz0f7vogDdNhnoS-KW1_P-44I-CZRorg",
+          "title": "Panevėžys Juozas Balčikonis gymnasium",
+          "subtitle": "High School, Programming society, Athletics society",
+          "caption": "2012 - 2016",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "National exam in Mathematics (100%), Programming (100%) and English (100%)."
+            },
+            {
+              "type": "insightComponent",
+              "text": "9.9/10.0 average in all subjects combined."
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "FlyBy (Junction 2018)",
+          "subtitle": "Nov 2018 - Nov 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "We decided to focus on cafeteria and lunch restaurants where transactions should be as fast and frictionless as possible. We used Raspberry Pi with RFID reader and Neopixel LED strip to simulate point of sale. Successful transaction triggers Android push-notification or sends an SMS message. Technology used: Google Firebase database and cloud messaging services, 46elks, Raspberry Pi, RFID chips, Ionic app development tools."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "HaaSist (HackZurich 2018)",
+          "subtitle": "Sep 2018 - Sep 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Platform that connects and digitalises communication between patients, insurers and doctors."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "HOHO App (Hack Your FOFO 2018)",
+          "subtitle": "Jul 2018 - Jul 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "HOHO - Hope of helping out Hackathon app\n\nAn easy to use messenger chat integrated game app that connects a group of friends and tracks their well being overtime. Friends see each others progress and can talk to ones that need some help. Also, successful group contributions reward friends with points that can be exchanged for vouchers and coupons of their favourite shops - helps to engage in weekly contributions of their lifestyle with no fear of finding out a disease. Built using Python, Ionic, Typescript."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Quorum AWS (J.P. Morgan Chase & Co. Internal Hackathon 2018)",
+          "subtitle": "Jun 2018 - Jun 2018",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "A secure blockchain based file sharing system on AWS cloud. Made using Amazon AWS, Quorum, JavaScript and Python."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DementiaApp (Facebook London Hackathon 2018)",
+          "subtitle": "Feb 2018 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a framework of applications for Alzheimer's patients and their care takers to organise and simplify daily routine tasks. Built using React, React Native, Google Firebase, Ionic, TypeScript, JavaScript."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CLIC Sargent App (J.P. Morgan Code for Good 2017)",
+          "subtitle": "Dec 2017 - Dec 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a social network for young people with cancer. Built using SQL, Typescript and Ionic."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SNCF Onboard (HackTrain 4.0 [2017]) ",
+          "subtitle": "Nov 2017 - Present",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a framework of applications to create an environment where train passengers and onboard crew can exchange information and perform tasks more efficiently. Built using MongoDB, Typescript, Amazon AWS."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "HobbyBuddy (MLH Prime 2017)",
+          "subtitle": "Apr 2017 - Apr 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a Google Chrome extension which tracks person's browser history and suggests interesting science articles. Built using HTML, CSS, and JavaScript."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brain Force (StacksHack 2017)",
+          "subtitle": "Mar 2017 - Mar 2017",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Developed a 3D video game which is controlled using brain wave patterns via Emotiv™ hardware kit using JavaScript and Blender."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Debbie Chatbot (J.P. Morgan Code For Good 2016)",
+          "subtitle": "Dec 2016 - Dec 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Built a chatbot that mimics Alzheimer's patient disease progression and helps to spread awareness of the disease Using MongoDB, Facebook API, JavaScript, Python."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Grant Pub Hunt (Hack The Bubble 2016)",
+          "subtitle": "Sep 2016 - Sep 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Built a 2D platformer video game using Javascript, HTML, CSS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Autonomous Quadruped Biomechanical Robot",
+          "subtitle": "Jan 2016 - Aug 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I developed a biomechanical robot prototype which tries to mimic movements of quadruped animal. Implemented 3D printed parts and software built in C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LED Matrix Based Video Game Console",
+          "subtitle": "Jan 2015 - Mar 2016",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Associated with Panevėžys Juozas Balčikonis gymnasium"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "I developed an 32x16 LED matrix based video game console from scratch. Soldered whole PCB board and its components. The console uses 3 ATMEGA328 microcontroller chips as their main computing unit. Developed 4 games in C language that can be played on the device.  "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

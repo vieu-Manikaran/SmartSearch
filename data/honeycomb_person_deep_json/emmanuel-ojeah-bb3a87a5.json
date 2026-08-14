@@ -1,0 +1,327 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/emmanuel-ojeah-bb3a87a5",
+  "row_key": "id:0033l000031Q0aSAAS",
+  "person": "Emmanuel Ojeah",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:45:23Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAABZoBfcBJRNVNIL_If80WmgHZ0fGBRfpIHo",
+      "firstName": "Emmanuel",
+      "lastName": "Ojeah",
+      "fullName": "Emmanuel Ojeah",
+      "publicIdentifier": "emmanuel-ojeah-bb3a87a5",
+      "headline": "Software Engineer",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Marketing & Advertising",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Seattle, Washington United States",
+      "addressWithoutCountry": "Seattle, Washington",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHLefE3vbGYdA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581853070517?e=1785369600&v=beta&t=CBnyHRm5LyvG7dDfyhXAPZzj3TSjDrFvaa1y7XE0v84",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHLefE3vbGYdA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1581853070457?e=1785369600&v=beta&t=SwL5qH45Qg7ER28X38IkZ80o5T10MPNJ6IkFkQ1kdmk"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHLefE3vbGYdA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1581853070430?e=1785369600&v=beta&t=3ZUWJLean6GYdnoLPcXy9IwQzpqsCjcPEJeCqb0EdWY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHLefE3vbGYdA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1581853070487?e=1785369600&v=beta&t=I7cn3rBVkYhyq1HxGt28BhVs7ax01_F06kT65XDTMJA"
+        },
+        {
+          "width": 621,
+          "height": 621,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4D03AQHLefE3vbGYdA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581853070517?e=1785369600&v=beta&t=CBnyHRm5LyvG7dDfyhXAPZzj3TSjDrFvaa1y7XE0v84"
+        }
+      ],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 3 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer",
+              "caption": "Jan 2024 - Present · 2 yrs",
+              "metadata": "London, England, United Kingdom",
+              "description": []
+            },
+            {
+              "title": "Site Reliability Engineer",
+              "caption": "Feb 2022 - Jan 2024 · 1 yr 11 mos",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1426",
+          "companyUrn": "urn:li:fsd_company:1426",
+          "companyLink1": "https://www.linkedin.com/company/barclays-bank/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFAXc9z0Go7Uw/company-logo_400_400/company-logo_400_400/0/1663677974291/barclays_bank_logo?e=1785369600&v=beta&t=EmQz_-oq6VdLpYlSMORO8QYiam4IH2Y8Ga6FGlfOulw",
+          "title": "DevOps",
+          "subtitle": "Barclays . Full-time",
+          "caption": "Aug 2019 - Jan 2022 · 2 yrs 5 mos",
+          "metadata": "Northampton, England, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "ESaaS (Elasticsearch stack as a service)"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1043",
+          "companyUrn": "urn:li:fsd_company:1043",
+          "companyLink1": "https://www.linkedin.com/company/siemens/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_400_400/company-logo_400_400/0/1719931174735/siemens_logo?e=1785369600&v=beta&t=aFfarM_IMBPDmxlWUJmJPl_Nb0AXBEFzG2Cm8ZSeD_o",
+          "title": "Graduate Engineer",
+          "subtitle": "Siemens . undefined",
+          "caption": "Aug 2017 - Aug 2019 · 2 yrs",
+          "metadata": "Chippenham",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "AWS Certified Solutions Architect – Associate",
+          "subtitle": "Amazon Web Services (AWS)",
+          "issued": "Issued Oct 2023",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Kubernetes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Go (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Amazon Web Services (AWS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Elastic Stack (ELK)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Jenkins",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "React",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Research",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Docker",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python (Programming Language)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Django",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Cascading Style Sheets (CSS)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "7290",
+          "companyUrn": "urn:li:fsd_company:7290",
+          "companyLink1": "https://www.linkedin.com/school/university-of-nottingham/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHO2SMiN1HSMA/company-logo_400_400/company-logo_400_400/0/1675599021016/university_of_nottingham_logo?e=1785369600&v=beta&t=XNfUlOF6wdZ1ulSjBWX-cf9ArWuJncmHceF9kM3Mf0I",
+          "title": "University of Nottingham",
+          "subtitle": "Master of Engineering - MEng, Electronics and Computer Engineering",
+          "caption": "2013 - 2017",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "First Class"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

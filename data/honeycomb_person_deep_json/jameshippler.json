@@ -1,0 +1,446 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/jameshippler",
+  "row_key": "id:003Uk00000ydMAgIAM",
+  "person": "James Hippler",
+  "account": "Epic Games, Inc.",
+  "fetched_at": "2026-07-14T10:46:36Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAANRTTQBMIjKnPjKTZEJXyk9VX8vknf1r_g",
+      "firstName": "James",
+      "lastName": "Hippler",
+      "fullName": "James Hippler",
+      "publicIdentifier": "jameshippler",
+      "headline": "Senior Software Engineer at Epic Games",
+      "about": "Experienced Software Engineer with a record of innovation in solving complex technical problems. Skilled in end-to-end development of applications and services, with a focus on producing high-quality, maintainable, and efficient code. Proficient in a wide range of programming languages and technologies. Passionate about learning from and mentoring colleagues to drive team success.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "Austin, Texas United States",
+      "addressWithoutCountry": "Austin, Texas",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQHBXWnDUSQZmQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1596554531281?e=1785369600&v=beta&t=njl2Py2x46Ni5cBMQe4T9jOI2MgOzMouKsUzx8XvP28",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQHxkQOQehPJHw/profile-displaybackgroundimage-shrink_200_800/B56ZrgNMgmLEAY-/0/1764698147440?e=1785369600&v=beta&t=kHvDWY9oR6U6120HSc0qU1If9cTMNNuMfuv6zXz92uw",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHBXWnDUSQZmQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1596554531281?e=1785369600&v=beta&t=22uOhdyPjtz5DtopVs7_K0hG_xCgv-EKy34mQL0WzrU"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHBXWnDUSQZmQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1596554531281?e=1785369600&v=beta&t=w89kaSHpA-Jc06InJvSVr3xEmB3vS9Q62ZrxbWQSXxo"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHBXWnDUSQZmQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1596554531281?e=1785369600&v=beta&t=PYUJx6dvgGrUjqlkD3xJpAOMqkIQpePECBwmHlEIdYU"
+        },
+        {
+          "width": 655,
+          "height": 655,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQHBXWnDUSQZmQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1596554531281?e=1785369600&v=beta&t=njl2Py2x46Ni5cBMQe4T9jOI2MgOzMouKsUzx8XvP28"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 960,
+          "height": 240,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHxkQOQehPJHw/profile-displaybackgroundimage-shrink_350_1400/B56ZrgNMgmLEAc-/0/1764698147440?e=1785369600&v=beta&t=DBqIZcptzrUhwYts6yObVvsWQh_lRY-tx58XkuY9H5c"
+        },
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQHxkQOQehPJHw/profile-displaybackgroundimage-shrink_200_800/B56ZrgNMgmLEAY-/0/1764698147440?e=1785369600&v=beta&t=kHvDWY9oR6U6120HSc0qU1If9cTMNNuMfuv6zXz92uw"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "19327",
+          "companyUrn": "urn:li:fsd_company:19327",
+          "companyLink1": "https://www.linkedin.com/company/epic-games/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXIMAQALTuog/company-logo_400_400/company-logo_400_400/0/1630572192594/epic_games_logo?e=1785369600&v=beta&t=CEL2LE2f9tGMV71glpTsCa4IcfyUoFvVJ44vbGy7Vl8",
+          "title": "Senior Software Engineer",
+          "subtitle": "Epic Games . Full-time",
+          "caption": "Jan 2025 - Present · 1 yr",
+          "metadata": "Austin, TX",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "3990725",
+          "companyUrn": "urn:li:fsd_company:3990725",
+          "companyLink1": "https://www.linkedin.com/company/airship-syndicate/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF2mtE1YWVx7Q/company-logo_400_400/company-logo_400_400/0/1630645837868/airship_syndicate_logo?e=1785369600&v=beta&t=FSx6R_EMMbf6ILisvjgNTfXYW4m5N3ZEuz1AzD619Lc",
+          "title": "Senior Software Engineer",
+          "subtitle": "Airship Syndicate . Full-time",
+          "caption": "Apr 2023 - Jan 2025 · 1 yr 9 mos",
+          "metadata": "Austin, Texas, United States",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "783611",
+          "companyUrn": "urn:li:fsd_company:783611",
+          "companyLink1": "https://www.linkedin.com/company/mongodbinc/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFKe8PwqzyHyA/company-logo_400_400/company-logo_400_400/0/1635171226992/mongodbinc_logo?e=1785369600&v=beta&t=uljlf8CWlpmKWKw4zJXtlZi14XRTfMawtWU3cRvpzkw",
+          "title": "Senior Software Engineer",
+          "subtitle": "MongoDB . Full-time",
+          "caption": "Nov 2022 - Apr 2023 · 5 mos",
+          "metadata": "Austin, TX",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1165219",
+          "companyUrn": "urn:li:fsd_company:1165219",
+          "companyLink1": "https://www.linkedin.com/company/logicmonitor/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGLp_MGbEjGbw/company-logo_400_400/company-logo_400_400/0/1719934753944/logicmonitor_logo?e=1785369600&v=beta&t=J-FS01trXKSLlnUjDcVIBydMVsU7Lmwa4ql_UzEcd8Q",
+          "title": "LogicMonitor",
+          "subtitle": "Full-time · 3 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Software Engineer | AIOps",
+              "caption": "Jan 2020 - Nov 2022 · 2 yrs 10 mos",
+              "metadata": "Austin, Texas",
+              "description": []
+            },
+            {
+              "title": "Software Engineer | Monitoring",
+              "caption": "Jan 2019 - Dec 2019 · 11 mos",
+              "metadata": "Austin, Texas",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "16198010",
+          "companyUrn": "urn:li:fsd_company:16198010",
+          "companyLink1": "https://www.linkedin.com/company/dxctechnology/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG64dSXK4S4aw/company-logo_200_200/B4EZsIpKlaGoAI-/0/1765376568001/dxctechnology_logo?e=1785369600&v=beta&t=XRzn5rDJ4tOYNcAh9hsCfOzyC3iG_7x6mOnyHpkvgls",
+          "title": "Senior Enterprise Data Warehouse Systems Engineer",
+          "subtitle": "DXC Technology . Full-time",
+          "caption": "Apr 2017 - Dec 2017 · 8 mos",
+          "metadata": "Austin, Texas",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1025",
+          "companyUrn": "urn:li:fsd_company:1025",
+          "companyLink1": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_200_200/B4EZdkxlEZH0AM-/0/1749742408362/hewlett_packard_enterprise_logo?e=1785369600&v=beta&t=F33cZtdJfo2M1gOUbcpsI66QY4mJ16GyH5FTtiKT0wI",
+          "title": "Senior Enterprise Data Warehouse Systems Engineer",
+          "subtitle": "Hewlett Packard Enterprise . Full-time",
+          "caption": "Nov 2015 - Apr 2017 · 1 yr 5 mos",
+          "metadata": "Austin, Texas Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5390798",
+          "companyUrn": "urn:li:fsd_company:5390798",
+          "companyLink1": "https://www.linkedin.com/company/hp/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJUaQAv2kVcQ/company-logo_100_100/B56ZViAo6QHoAQ-/0/1741106089999/hp_logo?e=1785369600&v=beta&t=WNUPlq-nS4H7hFa4t0-MHT_A1xzJ-MogO4WhbX1im-8",
+          "title": "HP",
+          "subtitle": "Full-time · 2 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Linux Systems Engineer",
+              "caption": "Jul 2015 - Nov 2015 · 4 mos",
+              "metadata": "Austin, Texas Area",
+              "description": []
+            },
+            {
+              "title": "Linux Systems Engineer",
+              "caption": "Dec 2014 - Jul 2015 · 7 mos",
+              "metadata": "Austin, Texas, United States",
+              "description": []
+            },
+            {
+              "title": "Associate Linux Systems Engineer",
+              "caption": "May 2013 - Dec 2014 · 1 yr 7 mos",
+              "metadata": "Austin, Texas Area",
+              "description": []
+            },
+            {
+              "title": "Global Data Center Delivery Services",
+              "caption": "Dec 2012 - May 2013 · 5 mos",
+              "metadata": "Austin, Texas Area",
+              "description": []
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [
+        {
+          "title": "English",
+          "caption": "NATIVE_OR_BILINGUAL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "title": "International Game Developers Association (IGDA)",
+          "subtitle": "Member",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Game Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Video Games",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Game Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unreal Engine 4",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Unreal Engine",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Project Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SharePoint",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Integration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Database Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows 7",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Windows Server",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "165337",
+          "companyUrn": "urn:li:fsd_company:165337",
+          "companyLink1": "https://www.linkedin.com/school/oregon-state-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEtLpPkfugtXg/company-logo_400_400/company-logo_400_400/0/1631354574889?e=1785369600&v=beta&t=A3DSApwO9cbm_YQPjFBWHFLBRQWToW0i1WYKWgGkK8Y",
+          "title": "Oregon State University",
+          "subtitle": "Bachelor of Science (B.S.), Computer Science",
+          "caption": "2016 - 2018",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "3.6 GPA"
+            }
+          ]
+        },
+        {
+          "companyId": "11832",
+          "companyUrn": "urn:li:fsd_company:11832",
+          "companyLink1": "https://www.linkedin.com/school/boisestate/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHvZ_lkuCOFPA/company-logo_400_400/company-logo_400_400/0/1676252895215/boisestate_logo?e=1785369600&v=beta&t=hr6TwN5-m24z4H4Te0oKcuanS6bmeEphQ_-tq43N374",
+          "title": "Boise State University",
+          "subtitle": "Bachelor of Business Administration (B.B.A.), Information Technology Management",
+          "caption": "2008 - 2012",
+          "subComponents": []
+        },
+        {
+          "companyId": "11832",
+          "companyUrn": "urn:li:fsd_company:11832",
+          "companyLink1": "https://www.linkedin.com/school/boisestate/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHvZ_lkuCOFPA/company-logo_400_400/company-logo_400_400/0/1676252895215/boisestate_logo?e=1785369600&v=beta&t=hr6TwN5-m24z4H4Te0oKcuanS6bmeEphQ_-tq43N374",
+          "title": "Boise State University",
+          "subtitle": "Bachelor of Business Administration (B.B.A.), Supply Chain Management",
+          "caption": "2008 - 2012",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "linkedin_url": "https://se.linkedin.com/in/ulrikalindeberg",
+  "row_key": "id:003Uk00000xNyeTIAS",
+  "person": "Ulrika Lindeberg",
+  "account": "ICA Gruppen",
+  "fetched_at": "2026-07-14T10:46:54Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAIdp2IBvfUHEW5hpLqzFK1FnBWuc6ku4y0",
+      "firstName": "Ulrika",
+      "lastName": "Lindeberg",
+      "fullName": "Ulrika Lindeberg",
+      "publicIdentifier": "ulrikalindeberg",
+      "headline": "System Architect at ICA Gruppen & Co-founder of Cirkulära",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": false,
+      "tempStatus": null,
+      "addressCountryOnly": "Sweden",
+      "addressWithCountry": "Greater Stockholm Metropolitan Area Sweden",
+      "addressWithoutCountry": "Greater Stockholm Metropolitan Area",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/C4E16AQETIUD-1Kk3YQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1520965090896?e=1785369600&v=beta&t=jkijeGDiFSGNB7zysvGw-4QzVoer1jBV2jIb3TZzO3U",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQETIUD-1Kk3YQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1520965090478?e=1785369600&v=beta&t=bxcLypsGtXoUDLIW8n3CZG7ElH8MKb8aJ57RV8aaSAA"
+        },
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C4E16AQETIUD-1Kk3YQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1520965090896?e=1785369600&v=beta&t=jkijeGDiFSGNB7zysvGw-4QzVoer1jBV2jIb3TZzO3U"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "164264",
+          "companyUrn": "urn:li:fsd_company:164264",
+          "companyLink1": "https://www.linkedin.com/company/ica/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQF9OBjwekr8fg/company-logo_400_400/company-logo_400_400/0/1630605274024/ica_logo?e=1785369600&v=beta&t=ikqHak9GhjVEV5YEz2tkzvoDrzoDEX5BU9kxfTwnu5A",
+          "title": "ICA Gruppen",
+          "subtitle": "Full-time · 5 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "System Architect",
+              "caption": "Jan 2025 - Present · 1 yr",
+              "metadata": "Stockholm, Stockholm County, Sweden",
+              "description": []
+            },
+            {
+              "title": "Senior Developer",
+              "caption": "Sep 2020 - Jan 2025 · 4 yrs 4 mos",
+              "metadata": "Solna, Stockholm County, Sweden",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "86792387",
+          "companyUrn": "urn:li:fsd_company:86792387",
+          "companyLink1": "https://www.linkedin.com/company/cirkulara/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE4E3LlBe935Q/company-logo_100_100/B4DZZ9x1E0HIAQ-/0/1745866937085/cirkulara_logo?e=1785369600&v=beta&t=DfYl2KLoCRHqIxTyUBrrZrHk_nUNOM6kbUPfGswFN-k",
+          "title": "Co-Founder",
+          "subtitle": "Cirkulära . Self-employed",
+          "caption": "Jan 2020 - Present · 6 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "825768",
+          "companyUrn": "urn:li:fsd_company:825768",
+          "companyLink1": "https://www.linkedin.com/company/voyadoab/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGCVM2_V3G2qQ/company-logo_400_400/company-logo_400_400/0/1665558435535/voyadoab_logo?e=1785369600&v=beta&t=dhWTetBFZcEzNZP9-pareepZBTFdHl5xCgEv0wJr7yc",
+          "title": "Senior Developer",
+          "subtitle": "Voyado . undefined",
+          "caption": "Aug 2019 - Aug 2020 · 1 yr",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Voyados AI lär sig retailkonsumenters beteende. Det gör att retailbolag med hög precision kan kommunicera personligt och relevant med sina kunder. Med Voyado förvandlar du traditionell marknadskommunikation till något nytt, användbart och inspirerande - Making brands easy to love!"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "7676",
+          "companyUrn": "urn:li:fsd_company:7676",
+          "companyLink1": "https://www.linkedin.com/company/creuna/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGh5ABFnoH1_Q/company-logo_400_400/company-logo_400_400/0/1630625152599/creuna_logo?e=1785369600&v=beta&t=UP5ewy-rPoEtCuCCTi1y6AXJ7bv6zyfNCGl0bxKXy4o",
+          "title": "Creuna",
+          "subtitle": "undefined · 2 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Tech Director",
+              "caption": "Nov 2017 - Jul 2019 · 1 yr 8 mos",
+              "metadata": "Stockholm",
+              "description": []
+            },
+            {
+              "title": "Senior Developer",
+              "caption": "Aug 2016 - Nov 2017 · 1 yr 3 mos",
+              "metadata": "Stockholm, Sweden",
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "8067",
+          "companyUrn": "urn:li:fsd_company:8067",
+          "companyLink1": "https://www.linkedin.com/company/knowit/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFwuSyWed18SQ/company-logo_200_200/B4EZ7uB8czHMAE-/0/1782109948080/knowit_logo?e=1785369600&v=beta&t=ChhnbZN3QohshhOjJpwe-zSpzjNohZqBDuO-qLGee70",
+          "title": "Developer",
+          "subtitle": "Knowit Reaktor Stockholm AB . undefined",
+          "caption": "Mar 2012 - Aug 2016 · 4 yrs 5 mos",
+          "metadata": "Stockholm, Sweden",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "5698",
+          "companyUrn": "urn:li:fsd_company:5698",
+          "companyLink1": "https://www.linkedin.com/company/hiq/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFh0KySmx3Tag/company-logo_400_400/company-logo_400_400/0/1726734715519/hiq_logo?e=1785369600&v=beta&t=sWvgaoVurt7qB3Bj4-m079wB7XbjqGRjymvP86RJayw",
+          "title": "Developer",
+          "subtitle": "HiQ . undefined",
+          "caption": "Apr 2011 - Mar 2012 · 11 mos",
+          "metadata": "Stockholm",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Member of the HiQ EPiServer group, with main focus on application development in asp.net/C# for EPiServer solutions."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Studies",
+          "subtitle": "application development .Net . undefined",
+          "caption": "Aug 2009 - May 2011 · 1 yr 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "owner/consultant",
+          "subtitle": "Lindeberg Design & Kommunikation . undefined",
+          "caption": "2005 - Apr 2011 · 6 yrs 3 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Project Manager",
+          "subtitle": "ICA Banken AB . undefined",
+          "caption": "2008 - Jun 2009 · 1 yr 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "9131",
+          "companyUrn": "urn:li:fsd_company:9131",
+          "companyLink1": "https://www.linkedin.com/company/mogul/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEbu2rXm0p7Gw/company-logo_400_400/company-logo_400_400/0/1631330055944?e=1785369600&v=beta&t=bqT-kLF1BlnlU7VOjNMWjn0MeZ0LSdWcuGOQ4nrjyts",
+          "title": "Project Manager",
+          "subtitle": "Mogul . undefined",
+          "caption": "2001 - 2005 · 4 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "30421",
+          "companyUrn": "urn:li:fsd_company:30421",
+          "companyLink1": "https://www.linkedin.com/company/episerver-ab/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEIChqY6JADtg/company-logo_400_400/company-logo_400_400/0/1630628871128/episerver_ab_logo?e=1785369600&v=beta&t=6xiUoW7_aen-IiSpY8N8ziuCLq9nrGbthV6zENP3eZ0",
+          "title": "Episerver Certified Developer, ECD",
+          "subtitle": "Episerver",
+          "issued": "Issued Oct 2015",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "Developing ASP.NET MVC 4 Web Applications",
+          "subtitle": "Microsoft",
+          "issued": "Issued Dec 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "title": "English",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "French",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Swedish",
+          "caption": null,
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": ".NET Core",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Microsoft Azure",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "API Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Search Engine Optimization (SEO)",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "ASP.NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": ".NET",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "EPiServer",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Scrum",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Application Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Visual Studio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "WCF",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LINQ",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Academedia Masters",
+          "subtitle": "Application developer, .NET",
+          "caption": "2009 - 2011",
+          "subComponents": []
+        },
+        {
+          "companyId": "166164",
+          "companyUrn": "urn:li:fsd_company:166164",
+          "companyLink1": "https://www.linkedin.com/school/stockholm-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDDr4dLuJjYw/company-logo_400_400/company-logo_400_400/0/1651005531999/stockholm_university_logo?e=1785369600&v=beta&t=ekqGGRY6uRVgluC6yv4hM_LCebyxyUv8Zbn4byPe6bc",
+          "title": null,
+          "subtitle": "fil kand, Behavioural science, Technology, Marketing",
+          "caption": "1994 - 1997",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [
+        {
+          "title": "Vardia Försäkring Norge",
+          "subtitle": "Jun 2013 - Jun 2013",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Vardia Forsikring is a Norwegian company with operations in Norway, Sweden and Denmark. On the web site the customer can buy different types of insurances online, through a step-by-step wizard."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Performance Optimization polisen.se",
+          "subtitle": "Jan 2008 - Sep 2012",
+          "subComponenets": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "The site is part of the national emergency websites, and must handle exceptional load. Polisen.se has won awards for the fastest website in the annual website awards."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "interests": []
+    }
+  }
+}

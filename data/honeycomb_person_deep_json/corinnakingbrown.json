@@ -1,0 +1,417 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/corinnakingbrown",
+  "row_key": "id:003Uk00000ydIvmIAE",
+  "person": "Corinna King-Brown",
+  "account": "Yelp",
+  "fetched_at": "2026-07-14T10:34:23Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAAKR-toB5X3adC0aC83PVkDeRBUhmoXsRP4",
+      "firstName": "Corinna",
+      "lastName": "King-Brown",
+      "fullName": "Corinna King-Brown",
+      "publicIdentifier": "corinnakingbrown",
+      "headline": "Director of Business Technology & Engineering at Yelp",
+      "about": null,
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Internet",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco Bay Area United States",
+      "addressWithoutCountry": "San Francisco Bay Area",
+      "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQElSBUSDLO9-g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1580327386769?e=1785369600&v=beta&t=o2zSB3IACt5yeAZUK5dhayvMVl78z_9BZJ4Ga6OYbL0",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEt4ATube1KFA/profile-displaybackgroundimage-shrink_200_800/B56Z6YjMFXHIAQ-/0/1780675822176?e=1785369600&v=beta&t=fQsVvZYaeRl1Eaojk-BFT4C39Axg5SHIogy-HbNy-KA",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQElSBUSDLO9-g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1580327386717?e=1785369600&v=beta&t=_lUziYwAqH_SrdC2CZPSjlOxSyXaRNTnPm25JwAWAb4"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQElSBUSDLO9-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1580327386693?e=1785369600&v=beta&t=_5s5SR1WX_RMRIenTwg587IY8eqiIy5ghSTEyR44wXk"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQElSBUSDLO9-g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1580327386744?e=1785369600&v=beta&t=fFsRAD6PbJdrxCsS4VSzUm8gHituyigoCpXcer0Tk5U"
+        },
+        {
+          "width": 449,
+          "height": 449,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/C5603AQElSBUSDLO9-g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1580327386769?e=1785369600&v=beta&t=o2zSB3IACt5yeAZUK5dhayvMVl78z_9BZJ4Ga6OYbL0"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEt4ATube1KFA/profile-displaybackgroundimage-shrink_350_1400/B56Z6YjMFXHIAU-/0/1780675822176?e=1785369600&v=beta&t=rtOrGHgdyLEesIbzGu0HUggnZRXw4ZsfXwOGwKg-8nk"
+        },
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEt4ATube1KFA/profile-displaybackgroundimage-shrink_200_800/B56Z6YjMFXHIAQ-/0/1780675822176?e=1785369600&v=beta&t=fQsVvZYaeRl1Eaojk-BFT4C39Axg5SHIogy-HbNy-KA"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "31517",
+          "companyUrn": "urn:li:fsd_company:31517",
+          "companyLink1": "https://www.linkedin.com/company/yelp-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZtZ8AGku9DA/company-logo_400_400/company-logo_400_400/0/1631836422115/yelp_com_logo?e=1785369600&v=beta&t=k4M0almqOqftL6NJYGeVf3dzqKPa2ugIsZNCyxQuWE8",
+          "title": "Yelp",
+          "subtitle": "Full-time · 14 yrs 6 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Director of Engineering",
+              "caption": "Jan 2025 - Present · 1 yr",
+              "metadata": "San Francisco, California, United States",
+              "description": []
+            },
+            {
+              "title": "Director Business Technology",
+              "caption": "Jul 2022 - Nov 2025 · 3 yrs 4 mos",
+              "description": []
+            },
+            {
+              "title": "Senior Manager, Sales & Marketing Systems",
+              "caption": "Jan 2020 - Aug 2022 · 2 yrs 7 mos",
+              "description": []
+            },
+            {
+              "title": "Manager, Sales Systems",
+              "caption": "Aug 2017 - Jan 2020 · 2 yrs 5 mos",
+              "metadata": "San Francisco, California",
+              "description": []
+            },
+            {
+              "title": "Senior Business Systems Analyst",
+              "caption": "Jul 2016 - Aug 2017 · 1 yr 1 mo",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• High profile project management overseeing software development, QA, testing and review.  \n• Author requirements for engineering and business review\n• Release functionality and new platforms including administrative deep dives, training sessions, and documentation\n• Mentor to technical staff in a fast growth environment"
+                }
+              ]
+            },
+            {
+              "title": "Salesforce Administrator",
+              "caption": "Nov 2012 - Jul 2016 · 3 yrs 8 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Salesforce.com Certified Administrator (CRM) \n• Manage technical projects for stakeholders in the Sales or Marketing org from requirements gathering to delivery \n• Internal expert on sales and marketing business processes\n• Constantly evaluating sales processes to ensure the organization is continuously improving\n• Design solutions to meet the needs of our internal users while keeping in mind the architectural requirements for a scaling company\n• Integrated marketing automation and e-signature software systems \n• Work cross functionally to ensure that projects incorporate everyone's vision"
+                }
+              ]
+            },
+            {
+              "title": "Ad Operations",
+              "caption": "Jul 2011 - Nov 2012 · 1 yr 4 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "• Managed high-volume inbound queues, included trouble-shooting any internal procedural or technical issues that may arise during the sales process.\n• Processed compensation for a large and quickly growing sales org. \n• Maintained the internal website which functioned as the primary source of information for Sales."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Repower VA Field Director",
+          "subtitle": "Alliance for Climate Protection . undefined",
+          "caption": "Dec 2009 - Dec 2010 · 1 yr",
+          "metadata": "Richmond, Virginia Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Managed state field staff of five organizers and multiple teams of part-time campus coordinators at several Universities. Provided training, set goals and maintained accountability. \n• Responsible for maintaining relationships and incorporating elected officials into the statewide program including organizing meetings between state and federal officials, recruiting officials as guest speakers at events, asking for quotes, and Op-Ed’s. \n• Point person for database within state. Maintained active volunteer lists, phone, email, and door to door canvas targeting, tagging in VAN (Voter Activation Network), high volume email drafting, as well as file management via DropBox, YouTube and organization’s website."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Field Director",
+          "subtitle": "Robin Abbott for Delegate . undefined",
+          "caption": "Jun 2009 - Nov 2009 · 5 mos",
+          "metadata": "Newport News, Virginia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Liaison for campaign – formed relationships with local elected officials, candidates, labor unions, community activist groups and key community leaders. Included representing campaign and speaking at a variety of events such as Democratic Committee meetings, local events, fundraisers, candidate forums, and debates.\n• Managed field office, including phone and email correspondence to candidate and maintaining motivating, organized, and productive office environment. \n• Trained and managed two field organizers and several interns from local universities – provided communication, structure and guidance. Implemented and managed paid canvas program. Interviewed, hired, trained, monitored quality control, and payroll."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Field Organizer",
+          "subtitle": "Terry McAuliffe Gubernatorial Primary . undefined",
+          "caption": "Apr 2009 - Jun 2009 · 2 mos",
+          "metadata": "Charlottesville, Virginia Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Responsible for developing relationships with rural, suburban and urban democrats, organizing phone banks, virtual phone banks, canvassing house meetings and one on one meetings.\n• Identified local community leaders to take on considerable responsibilities as a volunteer. Included reaching basic organizing skills, team building, and working with the database Vote Builder.\n• Worked closely with the Regional Field Director in a two person region, often sharing duties of reporting to state headquarters, securing staging locations, and managing interns."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Youth Vote Field Organizer",
+          "subtitle": "Barack Obama Presidential Campaign . undefined",
+          "caption": "Jul 2008 - Nov 2008 · 4 mos",
+          "metadata": "Greater St. Louis Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "• Recruited and trained student leaders at six universities and guided their organizing activities with the goals of high-level volunteer recruitment and voter turnout.\n• Maintained high volume of email and phone correspondence related to Youth Vote campaign and strategy.\n• Scouted and secured venues for campaign events, managed publicity and crowd recruitment for campaign spokespersons.\n• Managed a deputy field organizer, multiple interns, and student groups during campaign stages from voter registration through Get-Out-The-Vote and Election Day."
+              }
+            }
+          ]
+        },
+        {
+          "title": "Congressional Scholar",
+          "subtitle": "Congressman Russ Carnahan District Office . undefined",
+          "caption": "Sep 2007 - May 2008 · 8 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [
+        {
+          "companyId": "3185",
+          "companyUrn": "urn:li:fsd_company:3185",
+          "companyLink1": "https://www.linkedin.com/company/salesforce/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFuQMSI3zgmRw/company-logo_100_100/B56Z3aploQGoAQ-/0/1777489828808/salesforce_logo?e=1785369600&v=beta&t=Gnuo0ouQhGzyy5QRnWSEFz8AnMpJCNllTYgrBjVeb2I",
+          "title": "Salesforce Administrator",
+          "subtitle": "Salesforce",
+          "issued": "Issued Dec 2013",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Technology Management",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Business Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Technology Leadership",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Director level",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales Processes",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Salesforce Marketing Cloud",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "IT Strategy",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Salesforce.com",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SOQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketo",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media Marketing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Political Campaigns",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "System Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Online Advertising",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Media",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Social Networking",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sales Operations",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Marketing Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Salesforce.com Administration",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Analytics",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "Saint Louis University",
+          "subtitle": "B.A, Sociology, Women's Studies",
+          "caption": "",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "Graduated Cum Laude\nCompleted study abroad semester in Madrid, Spain, Spring 2007"
+            }
+          ]
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

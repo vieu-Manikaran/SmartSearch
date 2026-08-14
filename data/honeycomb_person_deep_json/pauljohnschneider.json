@@ -1,0 +1,443 @@
+{
+  "linkedin_url": "https://au.linkedin.com/in/pauljohnschneider",
+  "row_key": "id:003Uk000001rHqCIAU",
+  "person": "Paul Schneider",
+  "account": "Lyka",
+  "fetched_at": "2026-07-14T10:43:54Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAATl74oB1qV9igoXlLsJ9QS5zh9_kUCoSRs",
+      "firstName": "Paul",
+      "lastName": "Schneider",
+      "fullName": "Paul Schneider",
+      "publicIdentifier": "pauljohnschneider",
+      "headline": "Manager, Engineer",
+      "about": "I am a Software Engineer, Engineering Manager, solutions architect and keen technologist with 20 years of experience across a wide range of industries, tools, systems and platforms. My current focus is the deployment of AI Native work processes in product engineering teams.I am also the creator of Penling, a team-focused Spec-Driven-Development platform.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": false,
+      "industry": "Food Production",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "Australia",
+      "addressWithCountry": "Safety Beach, Victoria Australia",
+      "addressWithoutCountry": "Safety Beach, Victoria",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFslnQXExDOiQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731020008267?e=1785369600&v=beta&t=amFueMhGJ-NxlMTOcYXPTxMolY5LZpEgYWJdfc7px7E",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQE__MTLOJCWAw/profile-displaybackgroundimage-shrink_200_800/B56Z7Mkth3IgAQ-/0/1781548636506?e=1785369600&v=beta&t=e6fl7YbPNZoD11PvXow9t0VeCSnywpZ0y3IAGHum4Ks",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFslnQXExDOiQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731020008242?e=1785369600&v=beta&t=q-C9k93qKV5CIUN9GWczY7plKuk5NJuOHcqNc_IgPKo"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFslnQXExDOiQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731020008242?e=1785369600&v=beta&t=L1v7cxAfd8fLEuyJppc3TPxRozr8ysqWVKkswZSM2jY"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFslnQXExDOiQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731020008242?e=1785369600&v=beta&t=blso1QejFRelyvLp7DUsluEzIdMOkG-93S5lUN4Rr3k"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5603AQFslnQXExDOiQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731020008267?e=1785369600&v=beta&t=amFueMhGJ-NxlMTOcYXPTxMolY5LZpEgYWJdfc7px7E"
+        }
+      ],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1400,
+          "height": 350,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQE__MTLOJCWAw/profile-displaybackgroundimage-shrink_350_1400/B56Z7Mkth3IgAU-/0/1781548636506?e=1785369600&v=beta&t=8MMV2aZus1OE9Vf26Mx7pEt91FSGs3XwmtOpis_s14A"
+        },
+        {
+          "width": 800,
+          "height": 200,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQE__MTLOJCWAw/profile-displaybackgroundimage-shrink_200_800/B56Z7Mkth3IgAQ-/0/1781548636506?e=1785369600&v=beta&t=e6fl7YbPNZoD11PvXow9t0VeCSnywpZ0y3IAGHum4Ks"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "2850862",
+          "companyUrn": "urn:li:fsd_company:2850862",
+          "companyLink1": "https://www.linkedin.com/company/canva/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGO1uzGzmVB-A/company-logo_400_400/company-logo_400_400/0/1656630679668/canva_logo?e=1785369600&v=beta&t=Wvl5ruEjlWe56aXnILPDy8jKoPoHGMEXDyAsJ2ohpo0",
+          "title": "Engineering Mnager",
+          "subtitle": "Canva . Full-time",
+          "caption": "May 2026 - Present · ",
+          "metadata": "Sydney, NSW",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "API Team Technical Lead",
+          "subtitle": "Leonardo.Ai (Canva) . Full-time",
+          "caption": "Feb 2025 - Present · 11 mos",
+          "metadata": "Melbourne, VIC",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "18383285",
+          "companyUrn": "urn:li:fsd_company:18383285",
+          "companyLink1": "https://www.linkedin.com/company/lykapetfood/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_bY4qDmy0NA/company-logo_400_400/company-logo_400_400/0/1630583559931/lykapetfood_logo?e=1785369600&v=beta&t=ZOOU87D401nD7N6oLFquvb9-BOQPlSNy-isHkiX_zAk",
+          "title": "Director of Engineering",
+          "subtitle": "Lyka . Full-time",
+          "caption": "Mar 2023 - Sep 2024 · 1 yr 6 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "6626777",
+          "companyUrn": "urn:li:fsd_company:6626777",
+          "companyLink1": "https://www.linkedin.com/company/eonx-com/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQE0CzB5e8SRDw/company-logo_400_400/company-logo_400_400/0/1630572834418/eonx_com_logo?e=1785369600&v=beta&t=mV0rZJiTBfRNgrsTyKPdCnaaEiXg0PE3_LMFa6RzKGM",
+          "title": "Head of Frontend Engineering",
+          "subtitle": "EonX . Full-time",
+          "caption": "Sep 2021 - Mar 2023 · 1 yr 6 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "23199302",
+          "companyUrn": "urn:li:fsd_company:23199302",
+          "companyLink1": "https://www.linkedin.com/company/minfos/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQExrK3yEK4jDQ/company-logo_400_400/company-logo_400_400/0/1630631873248/minfos_logo?e=1785369600&v=beta&t=VO3AdXXIqjy6BgHugyQMMR7jKemyrJIbQFRKaNvaiPI",
+          "title": "Senior Software Engineer",
+          "subtitle": "Minfos . Contract",
+          "caption": "Jan 2021 - Sep 2021 · 8 mos",
+          "metadata": "Melbourne, Victoria, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "574144",
+          "companyUrn": "urn:li:fsd_company:574144",
+          "companyLink1": "https://www.linkedin.com/company/oneblink/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRdL0DSp5ndQ/company-logo_100_100/B56Z8BB.RDKUAI-/0/1782428722435/oneblink_logo?e=1785369600&v=beta&t=xt4L_s8mqM6UkmknjJpQjtamWlVcpnmcBBP8jvhPuJI",
+          "title": "Software Engineer",
+          "subtitle": "OneBlink . Contract",
+          "caption": "May 2020 - Jan 2021 · 8 mos",
+          "metadata": "Sydney, New South Wales, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "title": "Technical Lead",
+          "subtitle": "Shroogle . Full-time",
+          "caption": "Sep 2019 - Jan 2021 · 1 yr 4 mos",
+          "metadata": "Melbourne, Australia",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1057309",
+          "companyUrn": "urn:li:fsd_company:1057309",
+          "companyLink1": "https://www.linkedin.com/company/iconagency/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHSfvr9ElmBJw/company-logo_400_400/company-logo_400_400/0/1720566237824/iconagency_logo?e=1785369600&v=beta&t=1LW-zN6lsLleaDWJlN5RZxC6clsAHQEcAZND0t3pYrw",
+          "title": "Icon Agency",
+          "subtitle": "undefined · 3 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Technical Lead",
+              "caption": "Aug 2018 - Sep 2019 · 1 yr 1 mo",
+              "metadata": "Melbourne, Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I am responsible for project planning, development and management of all new and ongoing projects that pass through the studio. I work closely with the Managing Director (Digital) to produce detailed and accurate responses to RFQ’s,including the production of project timelines, development effort estimates, functional & technical specifications as well as long term strategy documentation.\n\nI also perform as senior Laravel and VueJS developer for all custom project as detailed in the Senior Developer role as described below.\n\nCurrent project examples: Ethos Reporting tool (St Vincent’s Health Australia), VueJS component library (Department of Defence), Fundraising.com.au (Cadbury Fundraising Australia), ProBono portal (Victorian Bar)."
+                }
+              ]
+            },
+            {
+              "title": "Senior Developer",
+              "caption": "Feb 2016 - Aug 2018 · 2 yrs 6 mos",
+              "metadata": "Melbourne, Australia",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Responsible for project planning, management and development of custom systems that don't fit into the agency's preferred CMS; Drupal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "278101",
+          "companyUrn": "urn:li:fsd_company:278101",
+          "companyLink1": "https://www.linkedin.com/company/theagency/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGBNEEFTQcb7g/company-logo_400_400/company-logo_400_400/0/1630541931604/theagency_logo?e=1785369600&v=beta&t=Hcbv-crdus4Rzp5kx6da6kitY5CE6_SkKufLoTl0LiA",
+          "title": "Technical Lead",
+          "subtitle": "AgencyUK . undefined",
+          "caption": "Mar 2015 - Jan 2016 · 10 mos",
+          "metadata": "Bath",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Tech lead."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "20227",
+          "companyUrn": "urn:li:fsd_company:20227",
+          "companyLink1": "https://www.linkedin.com/company/wildfiremedialtd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQETUkZNYZdPBw/company-logo_400_400/company-logo_400_400/0/1631338244495?e=1785369600&v=beta&t=ve6m3sohU-WFGYZWXk7niqUVI5nec_6VdE0sOOuLo0E",
+          "title": "Contract Web Developer",
+          "subtitle": "Wildfire Comms . undefined",
+          "caption": "May 2014 - Mar 2015 · 10 mos",
+          "metadata": "Bristol, United Kingdom",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Contract PHP Developer building a complex REST API using Laravel for a large city based publication."
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "JavaScript",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Experience",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "jQuery",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "PHP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MVC",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CSS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "HTML 5",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "OOP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Web Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Information Architecture",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Apache 2",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "SSL Certificates",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Titanium Mobile",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "JSON",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "LAMP",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "14238",
+          "companyUrn": "urn:li:fsd_company:14238",
+          "companyLink1": "https://www.linkedin.com/school/bournemouth-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhcIwAWzLRvw/company-logo_100_100/B4EZytwserGcAQ-/0/1772441749752/bournemouth_university_logo?e=1785369600&v=beta&t=Cok4c2YrjROF_j-Mz7y-G1zD2UitHcWSCto3Bo-YEow",
+          "title": null,
+          "subtitle": "First, Business Information Technology",
+          "caption": "2005 - 2009",
+          "subComponents": []
+        },
+        {
+          "title": "Llantwit Major Comprehensive",
+          "subtitle": "null, null",
+          "caption": "1993 - 1996",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

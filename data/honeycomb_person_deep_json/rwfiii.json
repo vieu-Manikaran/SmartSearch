@@ -1,0 +1,485 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/rwfiii",
+  "row_key": "id:003Uk000008qv1SIAQ",
+  "person": "Robert Ferguson",
+  "account": "Fireworks AI",
+  "fetched_at": "2026-07-14T10:35:53Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAABI-5IBQHQ0IJvjPch_W2LVUNFLt2KKr3M",
+      "firstName": "Rob",
+      "lastName": "Ferguson",
+      "fullName": "Rob Ferguson",
+      "publicIdentifier": "rwfiii",
+      "headline": "VP, Fireworks AI | Global AI Keynote Speaker | Ex-Microsoft, AWS AI/ML | Serial CTO/VPE",
+      "about": "CTO & Head of AI at Microsoft for Startups\nPreviously: AWS Global AI/ML Startups\nI help AI and infrastructure companies ship products that scale—and sell.\n━━━━━━━━━━━━━━━━━━━━━\nWhat I did:\n→ Enabled founders with multi-million-dollar compute credits\n→ Built large, multi-region GPU clusters from zero\n→ Led record-setting infrastructure partnerships with top foundation model labs\n→ Closed the largest startup agreements at both AWS and Microsoft\n━━━━━━━━━━━━━━━━━━━━━\nWhat I bring:\n[ Startup Ecosystem Intel ]\n\n5+ years leading hyperscaler startup programs\nDeep knowledge of which VCs see around corners\nEarly calls: Databricks, Weights & Biases, Ray (all before the hype)\n\n[ Production AI at Scale ]\n\n22 years in AI (2002 → present)\nServed millions at Rdio | Built CV systems at Standard Cognition\nArchitected platforms handling billions of events with public APIs\n\n[ Team & Business Building ]\n\nScaled eng: 12→88 (Automatic) | 20→125 (Standard Cognition)\n3× startup CTO/VPE with $115M+ in exits\nClosed enterprise deals while debugging production incidents\n\n━━━━━━━━━━━━━━━━━━━━━\nHow I Help:\nI translate bleeding-edge AI into business wins:\n\nMap compute + models + patterns → product goals\nArchitect for reliability with sane unit economics\nCoach CTOs through the 10× inflection points\nWrite the playbooks (MLOps, RAG, agents, distributed training)\nKeynote at engineering events AND jump into your Slack during incidents\n\n━━━━━━━━━━━━━━━━━━━━━\nBuilding Now!\n\nPragmatic AI infrastructure playbooks for hyperscale\nTechnical diligence partnerships with top-tier VCs\nEnterprise AI adoption at startup speed (without breaking things)\n\n━━━━━━━━━━━━━━━━━━━━━\nLet's Connect If:\n→ A technical founder navigating hyperscalers or developer positioning\n→ A VC/PE partner evaluating AI infrastructure\n→ An enterprise leader importing startup velocity\n→ Building the future of developer tools\n\n📧 Technical content & speaking: hello@robferguson.ai",
+      "creator": true,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Computer Software",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": true,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": true,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "United States",
+      "addressWithCountry": "San Francisco, California United States",
+      "addressWithoutCountry": "San Francisco, California",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D5616AQEXxuRswx06Zg/profile-displaybackgroundimage-shrink_200_800/B56ZWqrnMXHoAU-/0/1742325314721?e=1785369600&v=beta&t=kyS8G1lHIekZ6fUnI_SAd_mMzY3O6mb1OyZnC9orq5s",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [
+        {
+          "width": 1147,
+          "height": 286,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEXxuRswx06Zg/profile-displaybackgroundimage-shrink_350_1400/B56ZWqrnMXHoAY-/0/1742325314721?e=1785369600&v=beta&t=jECbdikqad6iqcqOt8tgYjDDbElOZZ_4dRcE5xy8wEk"
+        },
+        {
+          "width": 800,
+          "height": 199,
+          "expiresAt": 1785369600000,
+          "image": "https://media.licdn.com/dms/image/v2/D5616AQEXxuRswx06Zg/profile-displaybackgroundimage-shrink_200_800/B56ZWqrnMXHoAU-/0/1742325314721?e=1785369600&v=beta&t=kyS8G1lHIekZ6fUnI_SAd_mMzY3O6mb1OyZnC9orq5s"
+        }
+      ],
+      "experiences": [
+        {
+          "companyId": "91174981",
+          "companyUrn": "urn:li:fsd_company:91174981",
+          "companyLink1": "https://www.linkedin.com/company/fireworks-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBD0h39SCyLw/company-logo_400_400/company-logo_400_400/0/1711133682942/fireworks_ai_logo?e=1785369600&v=beta&t=CThoZGybDlkdOYbemJ_CeRFc5lBpwo5JuLmMa0DIY4M",
+          "title": "VP Technology and Strategy",
+          "subtitle": "Fireworks AI . Full-time",
+          "caption": "Feb 2026 - Present · ",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Leading strategy and developer ecosystem at Fireworks AI, the inference platform built by the team behind PyTorch and Gemini. Building full-cycle AI: the right model to the right context at the right time. Everyone else is betting on the model. We're building the platform that makes every model deliver."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "1035",
+          "companyUrn": "urn:li:fsd_company:1035",
+          "companyLink1": "https://www.linkedin.com/company/microsoft/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1785369600&v=beta&t=MEO7A07bWVt_6bI4K3NG45Resuli18UBtd6dnfPA-Bg",
+          "title": "CTO Microsoft for Startups",
+          "subtitle": "Microsoft . Full-time",
+          "caption": "Jul 2023 - Mar 2026 · 2 yrs 8 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Helping Startups and Entrepreneurs accelerate innovation with Artificial Intelligence at Microsoft\n\nhttps://www.microsoft.com/en-us/startups/ai\nhttps://www.microsoft.com/en-us/startups"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "2382910",
+          "companyUrn": "urn:li:fsd_company:2382910",
+          "companyLink1": "https://www.linkedin.com/company/amazon-web-services/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1785369600&v=beta&t=IPQbe56Tmu_sbOdiBMSS9ZWwBf70AAm4klq91HSEtVE",
+          "title": "Amazon Web Services (AWS)",
+          "subtitle": "Full-time · 2 yrs 10 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Global Head AI/ML Startups and VC",
+              "caption": "Jul 2022 - Aug 2023 · 1 yr 1 mo",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Launched Global Generative AI Accelerator reaching 1,200 startup companies\nAuthor of many pieces of strategic content for AWS including  an MLOps Ebook with top tier VCs (Sequoia, Madrona, and AIFund) and as an editor of the State of AI Report.\nConsistently rated in the top 5% of AWS employees year over year.\nHired and developed a team of international AI/ML experts.\nBuilt out AI/ML segmentation, propensity model, and training for engaging with ML startups on AWS."
+                }
+              ]
+            },
+            {
+              "title": "Principal Business Development Manager AWS ML / AI",
+              "caption": "Oct 2020 - Sep 2022 · 1 yr 11 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "https://aws.amazon.com/machine-learning/\nhttps://aws.amazon.com/ai/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "18109909",
+          "companyUrn": "urn:li:fsd_company:18109909",
+          "companyLink1": "https://www.linkedin.com/company/standard-ai/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQHPxDKt5AMeGw/company-logo_100_100/B56ZuQigKIJEAQ-/0/1767656522767/standard_ai_logo?e=1785369600&v=beta&t=NYF-p7oEwFea0NdYSUeYfDX_sEXowZBNkfJxfD5Xfmw",
+          "title": "VP of Engineering",
+          "subtitle": "Standard Cognition  . Full-time",
+          "caption": "Nov 2018 - May 2020 · 1 yr 6 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Led all of the Software and Hardware development across US, Japan, and Italy. Diligence and integration of 3 acquisitions including Checkout Free (Italy, 15 people), Explorer.ai (7), and Deep Magic (Patent and IP).\nKey Achievements:\n•\tLaunched autonomous checkout solution (Amazon Go for everyone else) deployed at multiple client brick & mortar stores using a camera-based computer vision system with deep learning technologies using TensorFlow.\n•\tGrew the team from 20 to 125+ FTE., sourced and actively recruited talent in computer vision, deep learning, robotics, video, camera, big data engineering, research, data science, project management, and operationsors.\n•\tModernized an on-premise solution with limited test infrastructure in Microsoft Azure by building out secure and global site reliability, cloud infrastructure, and IT functions from scratch. Leveraged technologies like Cloud Identity-Aware Proxy, Google Cloud Platform, and Qubole (Data Lake).\n•\tProvided leadership and direction to a microservice architecture, secure authentication/authorization, rapid prototyping with Retool and Rockset, and data set versioning using DVC as well as CI/CD pipelines, ticketing, documentation, paging, and release."
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "256744",
+          "companyUrn": "urn:li:fsd_company:256744",
+          "companyLink1": "https://www.linkedin.com/company/siriusxm/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZYZJBUsuzbg/company-logo_400_400/company-logo_400_400/0/1700146850253/siriusxm_logo?e=1785369600&v=beta&t=2qns_gwf_HnhPkAg3Dar9QMo7IWisXKkADppg3aNqUo",
+          "title": "VP Technology and GM @ SiriusXM / Automatic Labs",
+          "subtitle": "Sirius XM Radio Inc. . undefined",
+          "caption": "Apr 2017 - Jun 2018 · 1 yr 2 mos",
+          "metadata": "San Francisco Bay Area",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* Responsible for hiring, budgets, vendor negotiations, consultants, systems security, API/SLA reliability, and general management of emerging business unit\n* Architected embedded apps platform using ReactJS using native Android and iOS components with major partners including Best Buy and various car dealerships\n* Designed and shipped real-time data insights using serverless computing and Apache Spark for both consumer products and enterprise partners"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Automatic Labs",
+          "subtitle": "Full-time · 3 yrs 1 mo",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "CTO",
+              "caption": "Sep 2016 - Apr 2017 · 7 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Pivotal in leading acquisition of Automatic Labs by SiriusXM for 115 Million\n* Supported due diligence with many prospective buyers including extensive information security and compliance reviews\n* Shipped $10+ million dollar connected insurance program with major insurance carrier using millions of real-time events to proactively create customer discounts"
+                }
+              ]
+            },
+            {
+              "title": "VP Engineering",
+              "caption": "May 2015 - Sep 2016 · 1 yr 4 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Grew Automatic Labs from 12 to 88 FTE\n* Launched Automatic Pro connected car cellular adapter, which is the first adapter in its category to pass major security audits including from the DHS\n* Shipped usage-based, per mile, and teen insurance programs with enterprise-class information storage and policies on time for USAA and Liberty Mutual"
+                }
+              ]
+            },
+            {
+              "title": "Director of Engineering",
+              "caption": "Mar 2014 - May 2015 · 1 yr 2 mos",
+              "metadata": "San Francisco",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Launched \"App Store for Your Car\" with first of its kind connected car developer platform and live API enabling hundreds of connected car apps\n* Pioneered use of microservices and modern data infrastructure for Automatic by scaling from a monolithic architecture  to hundreds of distributed servers\n* Designed software and security development process focusing on 100% code review, continuous delivery, and test-driven methodologies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Rdio",
+          "subtitle": "undefined · 2 yrs 4 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Senior Engineering Manager - Data Science",
+              "caption": "Mar 2012 - Mar 2014 · 2 yrs",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "* Founded and led data science team at Rdio a music service acquired by Pandora\n* Lead developer for new recommendations and stations API/Services integrating partner data and services for 30+ million tracks and millions of users\n* Delivered new stations, on-time with tremendous success including being rated “Bestmodo” by Gizmodo and increasing station usage more than 500%\nBuilt real-time, multi-threaded audio engine for iOS"
+                }
+              ]
+            },
+            {
+              "title": "Senior Engineer",
+              "caption": "Nov 2011 - Apr 2012 · 5 mos",
+              "metadata": "San Francisco Bay Area",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Mobile development\n\n* Built real time, multi threaded audio engine for iOS.\n* Cross platform mobile development in C# (Windows Phone, Android, iPhone)\n* Built mobile integration test suite using computer vision and audition, and unit tests\n* Talks on pattern recognition and music recommendation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1063",
+          "companyUrn": "urn:li:fsd_company:1063",
+          "companyLink1": "https://www.linkedin.com/company/cisco/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1785369600&v=beta&t=UXTTs38oralH_jiBdyJGlqB14su66jfndLmfUTaB-vg",
+          "title": "Software Engineer",
+          "subtitle": "Cisco . undefined",
+          "caption": "Dec 2009 - Apr 2011 · 1 yr 4 mos",
+          "metadata": "San Francisco",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "* C++ engineer on popular FlipShare Desktop and FlipShare TV software shipped on the popular Flip Video cameras\n* Improved build system, brought forth new tools, and reduced build times \n* Lead engineer for the second release of FlipShareTV, a media set-top box, \"Share to Twitter\", and the final International release (French, English, German, and Spanish), collaborating with teams in Romania and Denmark\n* Cross-Platform development for both Mac and Windows in C++ using Qt"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3249",
+          "companyUrn": "urn:li:fsd_company:3249",
+          "companyLink1": "https://www.linkedin.com/company/avid-technology/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFfThjcXajIzA/company-logo_400_400/company-logo_400_400/0/1630529136007/avid_technology_logo?e=1785369600&v=beta&t=-DcYeRQArUyajrrh_IxwflD1qdJOh4i73z60ri16BO8",
+          "title": "Senior Audio Software Engineer",
+          "subtitle": "Avid Technology . undefined",
+          "caption": "Jan 2007 - Oct 2009 · 2 yrs 9 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Software Developer for Media Composer Professional Video Editing Software and next generation Video Hardware\n\n    * Multimedia application development in C++ under a large legacy code base\n    * Designed new application level audio features for major releases including UI\n    * Realtime and kernel debugging"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "3528",
+          "companyUrn": "urn:li:fsd_company:3528",
+          "companyLink1": "https://www.linkedin.com/school/johns-hopkins-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEe5RVEEkRh_Q/company-logo_100_100/B4EZs4eJd_JQAU-/0/1766178987371?e=1785369600&v=beta&t=b45d57AHbKymztMZbrQolKJJDkt02DPdwABgYQr75E8",
+          "title": "Programmer/Software Developer",
+          "subtitle": "Johns Hopkins University . undefined",
+          "caption": "Jul 2004 - Jul 2006 · 2 yrs",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "Open Source developer for the GAMERA Project involving teaching a computer how to read printed symbols like ancient text and sheet music, which are historically difficult for a computer to understand\n\n    * Cross platform developing in C++ and Python (Windows, Mac, Linux)\n    * Researching new techniques for image processing and pattern recognition\n    * Implemented DSP methods, filters, and fast flexible geometric matching\n     * Automated testing with documentation and batch building under multiple compilers"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "Cloud",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Generative AI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Python",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C++",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Development",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Mobile Applications",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Objective-C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Software Engineering",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Programming",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C#",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Linux",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Sound",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Agile Methodologies",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Audio",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "User Interface Design",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Java",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Android",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "iOS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "companyId": "4855",
+          "companyUrn": "urn:li:fsd_company:4855",
+          "companyLink1": "https://www.linkedin.com/school/mcgill-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C510BAQFvv1npMZWzKA/company-logo_400_400/company-logo_400_400/0/1631348310705?e=1785369600&v=beta&t=HCDvEkw36ZYNOfMQEVV2UXAUAiKdNld5a-cwIhhGNU0",
+          "title": null,
+          "subtitle": "MA, Music Technology",
+          "caption": "2002 - 2004",
+          "subComponents": [
+            {
+              "type": "insightComponent",
+              "text": "This is not a degree in sound recording and mixing. Training includes courses in Digital Signal Processing, Computer Science, Music Information Retreival, Human-Computer Interaction, Music Perception and Cognition, and Acoustics. For an idea of coursework please see http://www.music.mcgill.ca/musictech/"
+            }
+          ]
+        },
+        {
+          "companyId": "18140",
+          "companyUrn": "urn:li:fsd_company:18140",
+          "companyLink1": "https://www.linkedin.com/school/bradleyuniversity1/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQF_3b9Kn3WG0w/company-logo_400_400/company-logo_400_400/0/1683833912833/bradley_university_logo?e=1785369600&v=beta&t=70hUrYMWZmTnh1hT2pIPhx7d1QbGyQDlD1d9cwhcCKA",
+          "title": null,
+          "subtitle": "BS, Music, Computer Science",
+          "caption": "1998 - 2002",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}

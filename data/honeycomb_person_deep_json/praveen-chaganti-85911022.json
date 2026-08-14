@@ -1,0 +1,226 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/praveen-chaganti-85911022",
+  "row_key": "id:003Uk00000919leIAA",
+  "person": "Praveen Chaganti",
+  "account": "Medtronic",
+  "fetched_at": "2026-07-14T10:15:01Z",
+  "result": {
+    "success": true,
+    "data": {
+      "urn": "ACoAAASkwcUBLnp6si21rE1yc3ua82sct9Uxs1w",
+      "firstName": "Praveen",
+      "lastName": "Chaganti",
+      "fullName": "Praveen Chaganti",
+      "publicIdentifier": "praveen-chaganti-85911022",
+      "headline": "Principal Software Engineer at Medtronic India",
+      "about": "Principal Engineer in Test with ~17 years of experience in Automation testing and Manual Functional Testing. Experience in automation using Selenium, Test complete and Coded UI with C#. Experienced in software testing concepts such as regression testing, Functional Testing, UI Automation Testing, Testing, across web and desktop applications using different testing methodologies like Waterfall and Agile (Functional Testing). Proficient with version management tools and Test Management Tools: TFS, MTM, Azure DevOps, Git. Exposure to Scrum based projects. Certified CSM and DRM.",
+      "creator": false,
+      "address": null,
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "companyNameOnProfileTopCardShown": true,
+      "industry": "Information Technology & Services",
+      "maidenName": null,
+      "showPremiumSubscriberBadge": false,
+      "geoLocationBackfilled": false,
+      "memorialized": false,
+      "premium": false,
+      "influencer": false,
+      "educationOnProfileTopCardShown": true,
+      "tempStatus": null,
+      "addressCountryOnly": "India",
+      "addressWithCountry": "Andhra Pradesh India",
+      "addressWithoutCountry": "Andhra Pradesh",
+      "profilePicAllDimensions": [],
+      "backgroundPictureAllDimentions": [],
+      "experiences": [
+        {
+          "companyId": "1841",
+          "companyUrn": "urn:li:fsd_company:1841",
+          "companyLink1": "https://www.linkedin.com/company/medtronic/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzUefeWte_PQ/company-logo_400_400/company-logo_400_400/0/1667587833952/medtronic_logo?e=1785369600&v=beta&t=8uC5a1dHzGYPVfLTI9765BVV-OUAMAMCaJgJYn7PMio",
+          "title": "Medtronic",
+          "subtitle": "Full-time · 6 yrs 7 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Principal Software Engineer",
+              "caption": "Jul 2022 - Present · 3 yrs 6 mos",
+              "metadata": "Hyderabad, Telangana, India",
+              "description": []
+            },
+            {
+              "title": "Lead Engineer",
+              "caption": "Jun 2019 - Jul 2022 · 3 yrs 1 mo",
+              "metadata": "Hyderabad Area, India",
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Lead",
+          "subtitle": "Qvantel . undefined",
+          "caption": "Dec 2017 - May 2019 · 1 yr 5 mos",
+          "metadata": "Hyderabad Area, India",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {}
+            }
+          ]
+        },
+        {
+          "companyId": "1680",
+          "companyUrn": "urn:li:fsd_company:1680",
+          "companyLink1": "https://www.linkedin.com/company/cognizant/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_400_400/B4EZk_EfNgHgAc-/0/1757699778309/cognizant_logo?e=1785369600&v=beta&t=pi9sHAfWWbXmP4R0tbabMh8ynyFz2NJMN23UJgxHEVw",
+          "title": "Senior Product assurance Engineer",
+          "subtitle": "Cognizant technologies . undefined",
+          "caption": "Jan 2011 - Dec 2017 · 6 yrs 11 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "VSTS Testing, C# Scripting for Test Automation, TestComplete Test Automation with VB Scripting"
+              }
+            }
+          ]
+        },
+        {
+          "companyId": "217495",
+          "companyUrn": "urn:li:fsd_company:217495",
+          "companyLink1": "https://www.linkedin.com/company/cmc-ltd/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFYYBfv9_XB7Q/company-logo_400_400/company-logo_400_400/0/1631331007817?e=1785369600&v=beta&t=j8NB3b2aI9QJnwC3szlM14vbA1mBt8jB6nakC0vrbNc",
+          "title": "IT Engineer",
+          "subtitle": "CMC Limited . undefined",
+          "caption": "Jul 2007 - Dec 2010 · 3 yrs 5 mos",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": {
+                "type": "textComponent",
+                "text": "PolySpace Testing, Functionlaity Testing"
+              }
+            }
+          ]
+        }
+      ],
+      "licenseAndCertificates": [],
+      "languages": [],
+      "organizations": [],
+      "honorsAndAwards": [],
+      "skills": [
+        {
+          "title": "C# Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Selenium WebDriver",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C# TestAutomation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Test Automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Regression Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Functional Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "VSTS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Testing",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Polyspace",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "MTM, TFS",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "CodedUI",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "C# automation",
+          "subComponenets": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "title": "SRKR Enginnering College",
+          "subtitle": "Bachelor of Engineering (BEng), Electrical and Electronics Engineering",
+          "caption": "2003 - 2007",
+          "subComponents": []
+        }
+      ],
+      "volunteerAndAwards": [],
+      "projects": [],
+      "interests": []
+    }
+  }
+}
