@@ -49,6 +49,13 @@ def submit_email_enrichment_job(rows: list[dict[str, Any]], recipient_email: str
     """
     if not rows:
         return False, "No rows to process.", None
+    if len(rows) > 500:
+        return (
+            False,
+            f"CSV has {len(rows)} records. Upload at most 500 records per file. "
+            "Split the list and submit separate jobs.",
+            None,
+        )
     job_id = create_job(rows, recipient_email)
     _ensure_queue_worker()
     with _state_lock:

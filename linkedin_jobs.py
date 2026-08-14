@@ -11,9 +11,12 @@ from typing import Any, Callable
 
 from mailer import send_results_email
 from config import settings
+from rapidapi_linkedin_company import enrich_companies_batch
 from rapidapi_person_deep import resolve_profiles_batch, resolve_vanity_url
 from person_linkedin_finder import find_person_linkedin
 from serper_search import find_linkedin_company_url
+
+RAPIDAPI_JOB_TYPES = {"urn_resolve", "company_enrich"}
 
 logger = logging.getLogger(__name__)
 
@@ -54,7 +57,7 @@ def validate_email(raw: str) -> str | None:
 
 
 def _job_for_type(job_type: str) -> dict[str, Any]:
-    if job_type == "urn_resolve":
+    if job_type in RAPIDAPI_JOB_TYPES:
         return _rapidapi_job
     if job_type == "email":
         return _email_job
@@ -62,7 +65,7 @@ def _job_for_type(job_type: str) -> dict[str, Any]:
 
 
 def _lock_for_type(job_type: str) -> threading.Lock:
-    if job_type == "urn_resolve":
+    if job_type in RAPIDAPI_JOB_TYPES:
         return _rapidapi_lock
     if job_type == "email":
         return _email_lock
@@ -71,14 +74,12 @@ def _lock_for_type(job_type: str) -> threading.Lock:
 
 def job_snapshot(job_type: str | None = None) -> dict[str, Any]:
     with _state_lock:
-        if job_type == "urn_resolve":
+        if job_type in RAPIDAPI_JOB_TYPES or job_type == "rapidapi":
             return dict(_rapidapi_job)
         if job_type == "email":
             return dict(_email_job)
         if job_type in {"company", "person", "serper"}:
             return dict(_serper_job)
-        if job_type == "rapidapi":
-            return dict(_rapidapi_job)
         for job in (_serper_job, _rapidapi_job, _email_job):
             if job["running"]:
                 return dict(job)
@@ -233,6 +234,21 @@ def _run_urn_resolve(rows: list[dict], email: str, save_csv: Callable) -> tuple[
     return path, summary
 
 
+def _run_company_enrich(rows: list[dict], email: str, save_csv: Callable) -> tuple[str, str]:
+    def _progress(current: int, total: int, current_item: str) -> None:
+        _update_progress("company_enrich", current, total, current_item)
+
+    results = enrich_companies_batch(rows, progress=_progress)
+    path = save_csv(results)
+    count_ct = sum(1 for r in results if r.get("employee_count"))
+    id_ct = sum(1 for r in results if r.get("linkedin_company_id"))
+    summary = (
+        f"Processed {len(results)} companies; {count_ct} employee counts and "
+        f"{id_ct} numeric LinkedIn IDs filled via RapidAPI."
+    )
+    return path, summary
+
+
 def _worker(
     job_type: str,
     email: str,
@@ -247,6 +263,8 @@ def _worker(
         subject_label = "Email"
     elif job_type == "urn_resolve":
         subject_label = "LinkedIn URN"
+    elif job_type == "company_enrich":
+        subject_label = "Company employee count"
     else:
         subject_label = "Person"
     try:
@@ -255,6 +273,8 @@ def _worker(
             if job_type == "email"
             else "LinkedIn URN resolver"
             if job_type == "urn_resolve"
+            else "company employee count"
+            if job_type == "company_enrich"
             else f"{subject_label} LinkedIn"
         )
         logger.info("%s job started for %s", job_name, email)
@@ -271,6 +291,13 @@ def _worker(
             subject = "LinkedIn URN Resolver — results ready"
             body = (
                 "Your LinkedIn URN resolver job is complete.\n\n"
+                f"{summary}\n\n"
+                "The CSV is attached.\n"
+            )
+        elif job_type == "company_enrich":
+            subject = "Company Employee Count — results ready"
+            body = (
+                "Your company employee count / LinkedIn ID job is complete.\n\n"
                 f"{summary}\n\n"
                 "The CSV is attached.\n"
             )
@@ -396,11 +423,27 @@ def start_urn_resolve_job(
     )
 
 
+def start_company_enrich_job(
+    rows: list[dict],
+    email: str,
+    save_csv: Callable[[list], str],
+) -> tuple[bool, str | None]:
+    return _start_job(
+        "company_enrich",
+        len(rows),
+        email,
+        save_csv,
+        _run_company_enrich,
+        rows,
+        "company-enrich-job",
+    )
+
+
 def _busy_message(job_type: str) -> str:
     with _state_lock:
         if job_type in {"company", "person"}:
             snap = dict(_serper_job)
-        elif job_type == "urn_resolve":
+        elif job_type in RAPIDAPI_JOB_TYPES:
             snap = dict(_rapidapi_job)
         else:
             snap = dict(_email_job)
@@ -422,6 +465,8 @@ def _type_label(job_type: str) -> str:
         return "Person LinkedIn finder"
     if job_type == "urn_resolve":
         return "LinkedIn URN resolver"
+    if job_type == "company_enrich":
+        return "Company employee count"
     if job_type == "email":
         return "Email finder"
     return "LinkedIn finder"
@@ -478,7 +523,11 @@ def progress_display(scope: str = "all") -> dict[str, Any]:
     if scope == "serper":
         progress_note = "Serper LinkedIn finder job in progress (this form is disabled until it finishes)."
     elif scope == "rapidapi":
-        progress_note = "RapidAPI URN resolver job in progress (this form is disabled until it finishes)."
+        active_type = (active or {}).get("job_type") or ""
+        if active_type == "company_enrich":
+            progress_note = "Company employee count job in progress (this form is disabled until it finishes)."
+        else:
+            progress_note = "RapidAPI URN resolver job in progress (this form is disabled until it finishes)."
     elif scope == "email":
         progress_note = "Email enrichment job in progress (this form is disabled until it finishes)."
 

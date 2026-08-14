@@ -44,6 +44,7 @@ from linkedin_jobs import (
     release_email_worker,
     release_rapidapi_worker,
     release_serper_worker,
+    start_company_enrich_job,
     start_company_job,
     start_person_job,
     start_urn_resolve_job,
@@ -53,6 +54,11 @@ from linkedin_jobs import (
     validate_email,
 )
 from mailer import smtp_configured
+from rapidapi_linkedin_company import (
+    extract_numeric_company_id,
+    is_valid_linkedin_company_url,
+    lookup_company,
+)
 from rapidapi_person_deep import normalize_linkedin_profile_url, resolve_vanity_url
 from person_linkedin_finder import find_person_linkedin
 from serper_search import find_linkedin_company_url, search_serper
@@ -146,7 +152,8 @@ HTML_TEMPLATE = """
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page.<br>
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.<br>
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
-    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; work email via Molster, with FullEnrich fallback.
+    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; work email via Molster, with FullEnrich fallback.<br>
+    <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &mdash; CSV with company name + LinkedIn URL &rarr; employee count and numeric LinkedIn ID via RapidAPI.
   </p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
 
@@ -448,6 +455,28 @@ URN_RESOLVE_RESULTS_TABLE = """
   {% endif %}
 """
 
+COMPANY_ENRICH_RESULTS_TABLE = """
+  {% if rows %}
+  <h3>Result</h3>
+  <table>
+    <thead>
+      <tr><th>Company</th><th>LinkedIn URL</th><th>Employee count</th><th>LinkedIn company ID</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      <tr class="{% if not row.employee_count %}miss{% endif %}">
+        <td>{{ row.company or "—" }}</td>
+        <td>{% if row.linkedin_url %}<a href="{{ row.linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url }}</a>{% else %}—{% endif %}</td>
+        <td>{{ row.employee_count or "—" }}</td>
+        <td>{{ row.linkedin_company_id or "—" }}</td>
+        <td>{{ row.status }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
+"""
+
 LINKEDIN_PROGRESS_BLOCK = """
   <div id="shared-job-progress" class="msg warn" style="{% if prog.job_running %}display:block{% else %}display:none{% endif %}" aria-live="polite">
     <strong>{{ prog.progress_note }}</strong>
@@ -513,6 +542,8 @@ COMPANY_LINKEDIN_TEMPLATE = (
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('email_finder') }}">Email finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
   </p>
   <h2>Company LinkedIn finder</h2>
   <p class="small">One company name: result appears on this page immediately (no email). CSV with <strong>2+ companies</strong>: email required; results are sent when the job finishes. Only <strong>one</strong> job at a time (company or person).</p>
@@ -565,6 +596,8 @@ PERSON_LINKEDIN_TEMPLATE = (
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('email_finder') }}">Email finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
   </p>
   <h2>Person LinkedIn finder</h2>
   <p class="small">One person + company: result on this page (no email). CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> job at a time.</p>
@@ -628,9 +661,12 @@ EMAIL_FINDER_TEMPLATE = (
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
   </p>
   <h2>Email finder (Molster → FullEnrich)</h2>
-  <p class="small">Find work emails from LinkedIn URLs. Each row is looked up in Molster first (batches of 100; ~5k emails / 5 hours), then misses fall back to FullEnrich. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Large cohorts (1k–10k+) are supported; jobs survive restarts and resume from the last checkpoint.</p>
+  <p class="small">Find work emails from LinkedIn URLs. Each row is looked up in Molster first (batches of 100; ~5k emails / 5 hours), then misses fall back to FullEnrich. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Jobs survive restarts and resume from the last checkpoint.</p>
+  <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>. Files with more than 500 data rows are rejected — split the list and submit separate jobs.</p>
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
@@ -680,7 +716,7 @@ John Smith,Vistra,https://www.linkedin.com/in/john-smith/</pre>
     <label for="email">Your email (required only for CSV with multiple rows)</label>
     <input type="email" name="email" id="email" placeholder="you@company.com">
 
-    <label for="csv_file">CSV file (optional)</label>
+    <label for="csv_file">CSV file (optional, max 500 records)</label>
     <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv">
 
     <label for="single_person">Person name (optional)</label>
@@ -732,6 +768,8 @@ URN_RESOLVE_TEMPLATE = (
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('email_finder') }}">Email finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
   </p>
   <h2>LinkedIn URN resolver</h2>
   <p class="small">Convert opaque LinkedIn member URLs (URN-style <code>/in/ACwAAA...</code>) to normal vanity profile URLs via RapidAPI <code>person_deep</code> (not Serper). One URL: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> URN job at a time; Serper finders run independently.</p>
@@ -792,6 +830,105 @@ ACwAAACH0QcBJJ6rWWPQOtkcPZ_uowmGGzval58,east</pre>
 """
 )
 
+COMPANY_ENRICH_TEMPLATE = (
+    """
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Company employee count</title>
+  <style>"""
+    + LINKEDIN_FINDER_STYLES
+    + """
+    pre.example { background: #f7f7f7; border: 1px solid #ddd; padding: 12px; overflow-x: auto; font-size: 0.85em; }
+    .csv-spec { margin: 16px 0; padding: 12px; background: #f9f9f9; border: 1px solid #e0e0e0; }
+    .csv-spec h3 { margin: 0 0 10px 0; font-size: 1em; }
+    .csv-spec table { margin-top: 8px; font-size: 0.9em; }
+    .csv-spec th { width: 28%; }
+    .req { color: #a33; font-weight: 600; }
+    .opt { color: #666; }
+    </style>
+</head>
+<body>
+  <p class="nav">
+    <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('email_finder') }}">Email finder</a>
+  </p>
+  <h2>Company employee count</h2>
+  <p class="small">Look up LinkedIn <strong>employee count</strong> and the <strong>numeric company ID</strong> (org slug) via RapidAPI <code>/company</code>. One company: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> RapidAPI job at a time (this page shares the lock with the URN resolver).</p>
+  <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
+
+  <div class="csv-spec">
+    <h3>Expected CSV column names</h3>
+    <p class="small">Header names are <strong>case-insensitive</strong>. Any extra columns are kept unchanged in the results file.</p>
+    <table>
+      <thead>
+        <tr><th>Role</th><th>Required?</th><th>Accepted header names (use one)</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Company name</td>
+          <td class="req">Required</td>
+          <td><code>Company</code>, <code>Company Name</code>, <code>Account</code>, <code>Account Name</code>, <code>Organization</code></td>
+        </tr>
+        <tr>
+          <td>LinkedIn company URL</td>
+          <td class="req">Required</td>
+          <td><code>LinkedIn_URL</code>, <code>LinkedIn URL</code>, <code>LinkedIn</code>, <code>Company LinkedIn</code>, <code>Company URL</code></td>
+        </tr>
+        <tr>
+          <td>Numeric LinkedIn ID slug</td>
+          <td class="opt">Optional</td>
+          <td><code>LinkedIn_Company_ID</code>, <code>LinkedIn Company ID</code>, <code>companyId</code>, <code>Company ID</code>, <code>org_id</code>. Also detected when the URL is already <code>/company/1035/</code>.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then <code>Employee_Count</code>, <code>LinkedIn_Company_ID</code>, and <code>Company_Enrich_Status</code>. If a row already has a numeric ID slug, that value is copied into <code>LinkedIn_Company_ID</code>.</p>
+  </div>
+
+  <p class="small"><strong>Example CSV:</strong></p>
+  <pre class="example">Company,LinkedIn_URL
+Microsoft,https://www.linkedin.com/company/microsoft/
+IBM,https://www.linkedin.com/company/1035/</pre>
+"""
+    + LINKEDIN_PROGRESS_BLOCK
+    + """
+  {% if message %}
+  <div class="msg {% if message_warn %}warn{% endif %}">{{ message }}</div>
+  {% endif %}
+  <form method="post" enctype="multipart/form-data" action="{{ url_for('company_enrich_finder') }}">
+    <fieldset {% if prog.server_busy %}disabled{% endif %}>
+    <label for="email">Your email (required for CSV with multiple rows)</label>
+    <input type="email" name="email" id="email" placeholder="you@company.com">
+
+    <label for="csv_file">CSV file (optional, max 500 records)</label>
+    <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv">
+
+    <label for="single_company">Company name (optional)</label>
+    <input type="text" name="single_company" id="single_company" placeholder="e.g. Microsoft">
+
+    <label for="single_linkedin_url">LinkedIn company URL (required for single lookup)</label>
+    <input type="text" name="single_linkedin_url" id="single_linkedin_url" placeholder="https://www.linkedin.com/company/...">
+
+    <div><button type="submit">Lookup employee count and LinkedIn ID</button></div>
+    </fieldset>
+  </form>
+"""
+    + COMPANY_ENRICH_RESULTS_TABLE
+    + LINKEDIN_PROGRESS_POLL_SCRIPT
+    + """
+</body>
+</html>
+"""
+)
+
 THANK_YOU_TEMPLATE = """
 <!doctype html>
 <html>
@@ -821,7 +958,8 @@ THANK_YOU_TEMPLATE = """
   <p><a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &nbsp;|&nbsp;
      <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &nbsp;|&nbsp;
      <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &nbsp;|&nbsp;
-     <a href="{{ url_for('email_finder') }}">Email finder</a></p>
+     <a href="{{ url_for('email_finder') }}">Email finder</a> &nbsp;|&nbsp;
+     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a></p>
 </body>
 </html>
 """
@@ -1193,6 +1331,7 @@ def save_person_linkedin_results(rows: list[dict[str, str]]) -> str:
 
 
 EMAIL_ENRICHMENT_OUTPUT = Path("data/email_enrichment")
+EMAIL_ENRICHMENT_MAX_ROWS = 500
 
 
 def _clean_csv_cell(value: object) -> str:
@@ -1219,6 +1358,11 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
         return [], parse_err
     if not fields:
         return [], "CSV has no header row."
+    if len(data_rows) > EMAIL_ENRICHMENT_MAX_ROWS:
+        return [], (
+            f"CSV has {len(data_rows)} records. Upload at most "
+            f"{EMAIL_ENRICHMENT_MAX_ROWS} records per file. Split the list and submit separate jobs."
+        )
     person_key = _csv_column_key(
         fields, "person", "person name", "name", "full name", "contact name"
     )
@@ -1281,6 +1425,11 @@ def parse_email_enrichment_from_csv_upload(storage) -> tuple[list[dict[str, str]
         )
     if not rows:
         return [], "CSV has no data rows."
+    if len(rows) > EMAIL_ENRICHMENT_MAX_ROWS:
+        return [], (
+            f"CSV has {len(rows)} records. Upload at most "
+            f"{EMAIL_ENRICHMENT_MAX_ROWS} records per file. Split the list and submit separate jobs."
+        )
     return rows, None
 
 
@@ -1384,6 +1533,157 @@ def parse_urn_resolve_from_csv_upload(storage) -> tuple[list[dict[str, str]], st
     return rows, None
 
 
+COMPANY_ENRICH_OUTPUT = Path("data/company_enrich")
+COMPANY_ENRICH_MAX_ROWS = 500
+COMPANY_ENRICH_EXTRA_COLUMNS = ["Employee_Count", "LinkedIn_Company_ID", "Company_Enrich_Status"]
+COMPANY_ID_COLUMN_ALIASES = (
+    "linkedin_company_id",
+    "linkedin company id",
+    "linkedin companyid",
+    "companyid",
+    "company_id",
+    "company id",
+    "linkedin_id",
+    "linkedin id",
+    "org_id",
+    "org id",
+    "numeric_id",
+    "numeric linkedin id",
+    "linkedin numeric id",
+)
+
+
+def write_company_enrich_csv(path: Path, rows: list[dict]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    original_fieldnames: list[str] = []
+    if rows and rows[0].get("_fieldnames"):
+        original_fieldnames = list(rows[0]["_fieldnames"])
+    elif rows and rows[0].get("original"):
+        original_fieldnames = list(rows[0]["original"].keys())
+    else:
+        original_fieldnames = ["Company", "LinkedIn_URL"]
+
+    fieldnames = original_fieldnames + [
+        col for col in COMPANY_ENRICH_EXTRA_COLUMNS if col not in original_fieldnames
+    ]
+
+    with path.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+        writer.writeheader()
+        for row in rows:
+            out = dict(row.get("original") or {})
+            if not out:
+                out = {
+                    "Company": row.get("company") or "",
+                    "LinkedIn_URL": row.get("linkedin_url") or "",
+                }
+            out["Employee_Count"] = row.get("employee_count") or ""
+            out["LinkedIn_Company_ID"] = row.get("linkedin_company_id") or ""
+            out["Company_Enrich_Status"] = row.get("status") or ""
+            writer.writerow(out)
+
+
+def save_company_enrich_results(rows: list[dict]) -> str:
+    """Write one CSV under data/company_enrich; return path string."""
+    COMPANY_ENRICH_OUTPUT.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    file_path = COMPANY_ENRICH_OUTPUT / f"{timestamp}_company_enrich.csv"
+    write_company_enrich_csv(file_path, rows)
+    return str(file_path)
+
+
+def parse_company_enrich_from_csv_upload(storage) -> tuple[list[dict[str, str]], str | None]:
+    """Read uploaded CSV; require company name and LinkedIn company URL. Preserve original columns."""
+    if storage is None or not getattr(storage, "filename", None):
+        return [], None
+    raw = storage.read()
+    if not raw:
+        return [], "Uploaded file is empty."
+    text, decode_err = _decode_uploaded_csv_bytes(raw)
+    if decode_err:
+        return [], decode_err
+    fields, data_rows, parse_err = _read_uploaded_csv(text)
+    if parse_err:
+        return [], parse_err
+    if not fields:
+        return [], "CSV has no header row."
+    if len(data_rows) > COMPANY_ENRICH_MAX_ROWS:
+        return [], (
+            f"CSV has {len(data_rows)} records. Upload at most "
+            f"{COMPANY_ENRICH_MAX_ROWS} records per file. Split the list and submit separate jobs."
+        )
+    company_key = _csv_column_key(
+        fields,
+        "company",
+        "company name",
+        "account",
+        "account name",
+        "organization",
+        "employer",
+    )
+    linkedin_key = _csv_column_key(
+        fields,
+        "linkedin_url",
+        "linkedin url",
+        "linkedin",
+        "company linkedin",
+        "company linkedin url",
+        "linkedin company url",
+        "company_url",
+        "company url",
+        "li_url",
+    )
+    id_key = _csv_column_key(fields, *COMPANY_ID_COLUMN_ALIASES)
+    if not company_key:
+        return [], (
+            "CSV must include a company-name column. Accepted headers: "
+            "Company, Company Name, Account, Account Name, Organization."
+        )
+    if not linkedin_key:
+        return [], (
+            "CSV must include a LinkedIn company URL column. Accepted headers: "
+            "LinkedIn_URL, LinkedIn URL, LinkedIn, Company LinkedIn, Company URL."
+        )
+
+    rows: list[dict[str, str]] = []
+    for row_num, row in enumerate(data_rows, start=2):
+        company = _clean_csv_cell(row.get(company_key, ""))
+        linkedin_raw = _clean_csv_cell(row.get(linkedin_key, ""))
+        existing_id = extract_numeric_company_id(
+            _clean_csv_cell(row.get(id_key, "")) if id_key else ""
+        ) or extract_numeric_company_id(linkedin_raw)
+        if not company and not linkedin_raw:
+            continue
+        if not company:
+            return [], f"Row {row_num}: Company name is required."
+        if not linkedin_raw:
+            return [], f"Row {row_num}: LinkedIn company URL is required."
+        if not is_valid_linkedin_company_url(linkedin_raw) and not existing_id:
+            return [], (
+                f"Row {row_num}: LinkedIn_URL must be a LinkedIn company page "
+                "(linkedin.com/company/...) or a numeric company ID."
+            )
+        original = {field: _clean_csv_cell(row.get(field, "")) for field in fields}
+        rows.append(
+            {
+                "company": company,
+                "linkedin_url": linkedin_raw,
+                "existing_company_id": existing_id,
+                "row_index": str(len(rows)),
+                "original": original,
+                "_fieldnames": fields,
+            }
+        )
+    if not rows:
+        return [], "CSV has no data rows."
+    if len(rows) > COMPANY_ENRICH_MAX_ROWS:
+        return [], (
+            f"CSV has {len(rows)} records. Upload at most "
+            f"{COMPANY_ENRICH_MAX_ROWS} records per file. Split the list and submit separate jobs."
+        )
+    return rows, None
+
+
 def _result_sort_key(row: dict) -> tuple:
     if row.get("is_empty"):
         return (2, row.get("query", ""))
@@ -1425,6 +1725,19 @@ def download_person_linkedin(filename: str):
 @app.route("/download/email-enrichment/<path:filename>", methods=["GET"])
 def download_email_enrichment(filename: str):
     output_root = Path("data/email_enrichment").resolve()
+    target_path = (output_root / filename).resolve()
+
+    if output_root not in target_path.parents and target_path != output_root:
+        abort(404)
+    if not target_path.exists() or not target_path.is_file():
+        abort(404)
+
+    return send_from_directory(output_root, filename, as_attachment=True)
+
+
+@app.route("/download/company-enrich/<path:filename>", methods=["GET"])
+def download_company_enrich(filename: str):
+    output_root = Path("data/company_enrich").resolve()
     target_path = (output_root / filename).resolve()
 
     if output_root not in target_path.parents and target_path != output_root:
@@ -1767,6 +2080,8 @@ def linkedin_finder_thanks():
         job_label = "email enrichment"
     elif job_type == "urn_resolve":
         job_label = "LinkedIn URN resolver"
+    elif job_type == "company_enrich":
+        job_label = "company employee count"
     else:
         job_label = "person LinkedIn"
     return render_template_string(
@@ -2117,6 +2432,124 @@ def email_finder():
         )
 
     return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+
+
+def _parse_company_enrich_submission() -> tuple[list[dict[str, str]], str, str, str | None]:
+    """Returns (rows, email, mode single|bulk, error_message)."""
+    email = (request.form.get("email") or "").strip()
+    upload = request.files.get("csv_file")
+    rows: list[dict[str, str]] = []
+    csv_err: str | None = None
+    single_company = (request.form.get("single_company") or "").strip()
+    single_linkedin = (request.form.get("single_linkedin_url") or "").strip()
+
+    if upload is not None and bool(upload.filename):
+        rows, csv_err = parse_company_enrich_from_csv_upload(upload)
+    if rows:
+        mode = "single" if len(rows) == 1 else "bulk"
+        if mode == "bulk":
+            err = validate_email(email)
+            if err:
+                return [], email, mode, err
+        return rows, email, mode, None
+    if single_company and single_linkedin:
+        existing_id = extract_numeric_company_id(single_linkedin)
+        if not is_valid_linkedin_company_url(single_linkedin) and not existing_id:
+            return [], email, "single", "Enter a valid LinkedIn company URL (linkedin.com/company/...) or numeric ID."
+        return (
+            [
+                {
+                    "company": single_company,
+                    "linkedin_url": single_linkedin,
+                    "existing_company_id": existing_id,
+                    "row_index": "0",
+                    "original": {
+                        "Company": single_company,
+                        "LinkedIn_URL": single_linkedin,
+                    },
+                    "_fieldnames": ["Company", "LinkedIn_URL"],
+                }
+            ],
+            email,
+            "single",
+            None,
+        )
+    if single_company or single_linkedin:
+        return [], email, "single", "For a single lookup, enter company name and LinkedIn company URL."
+    if csv_err:
+        return [], email, "single", csv_err
+    return (
+        [],
+        email,
+        "single",
+        "Upload a CSV with Company and LinkedIn URL columns, or enter one company and LinkedIn URL.",
+    )
+
+
+def _lookup_single_company_enrich(row: dict[str, str]) -> tuple[dict[str, str] | None, str | None]:
+    if is_rapidapi_job_running():
+        return None, "A RapidAPI job is already running. See progress above."
+    if not try_acquire_rapidapi_worker():
+        return None, "Another RapidAPI lookup is in progress. Please wait."
+    try:
+        if not settings.rapidapi_key:
+            return None, "Missing RAPIDAPI_KEY in environment."
+        looked_up = lookup_company(
+            str(row.get("linkedin_url") or ""),
+            existing_company_id=str(row.get("existing_company_id") or ""),
+        )
+        out = dict(row)
+        out.update(looked_up)
+        return out, None
+    finally:
+        release_rapidapi_worker()
+
+
+@app.route("/company-enrich", methods=["GET", "POST"])
+def company_enrich_finder():
+    ctx = _finder_page_context("rapidapi")
+
+    if request.method == "POST":
+        if is_rapidapi_job_running():
+            ctx["message"] = "A RapidAPI job is already running. See progress on this page."
+            ctx["message_warn"] = True
+            return render_template_string(COMPANY_ENRICH_TEMPLATE, **ctx)
+
+        rows, email, mode, err = _parse_company_enrich_submission()
+        if err:
+            ctx["message"] = err
+            ctx["message_warn"] = True
+            return render_template_string(COMPANY_ENRICH_TEMPLATE, **ctx)
+        if not settings.rapidapi_key:
+            ctx["message"] = "Missing RAPIDAPI_KEY in environment."
+            ctx["message_warn"] = True
+            return render_template_string(COMPANY_ENRICH_TEMPLATE, **ctx)
+
+        if mode == "single":
+            row, lookup_err = _lookup_single_company_enrich(rows[0])
+            if lookup_err:
+                ctx["message"] = lookup_err
+                ctx["message_warn"] = True
+            elif row:
+                ctx["rows"] = [row]
+                ctx["message"] = "Lookup complete."
+                ctx["message_warn"] = not row.get("employee_count")
+            return render_template_string(COMPANY_ENRICH_TEMPLATE, **ctx)
+
+        if not smtp_configured():
+            ctx["message"] = "Email is not configured on the server (SMTP settings)."
+            ctx["message_warn"] = True
+            return render_template_string(COMPANY_ENRICH_TEMPLATE, **ctx)
+
+        started, start_err = start_company_enrich_job(rows, email, save_company_enrich_results)
+        if not started:
+            ctx["message"] = start_err or "Could not start job."
+            ctx["message_warn"] = True
+            return render_template_string(COMPANY_ENRICH_TEMPLATE, **ctx)
+
+        return redirect(url_for("linkedin_finder_thanks", email=email, type="company_enrich"))
+
+    return render_template_string(COMPANY_ENRICH_TEMPLATE, **ctx)
 
 
 resume_pending_jobs_on_startup()
