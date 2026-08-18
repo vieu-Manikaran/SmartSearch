@@ -1,7 +1,12 @@
 """Configuration for LinkedIn Tenure Weekly (Phantom Buster + tenure filter)."""
-import os
+from pathlib import Path
 from typing import Optional
 from pydantic_settings import BaseSettings
+
+
+def _env_files() -> tuple[str, ...]:
+    files = [p for p in (Path("../.env"), Path(".env")) if p.exists()]
+    return tuple(str(p) for p in files) or (".env",)
 
 
 class Settings(BaseSettings):
@@ -69,7 +74,8 @@ class Settings(BaseSettings):
     jobs_api_base_url: str = "https://api-dev.cloud.seeqe.dev"
 
     class Config:
-        env_file = ".env"
+        env_file = _env_files()
+        extra = "ignore"
         case_sensitive = False
 
 

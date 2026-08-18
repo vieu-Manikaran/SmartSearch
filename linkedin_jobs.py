@@ -16,7 +16,7 @@ from rapidapi_person_deep import resolve_profiles_batch, resolve_vanity_url
 from person_linkedin_finder import find_person_linkedin
 from serper_search import find_linkedin_company_url
 
-RAPIDAPI_JOB_TYPES = {"urn_resolve", "company_enrich"}
+RAPIDAPI_JOB_TYPES = {"urn_resolve", "company_enrich", "vendor_file"}
 
 logger = logging.getLogger(__name__)
 
@@ -265,6 +265,8 @@ def _worker(
         subject_label = "LinkedIn URN"
     elif job_type == "company_enrich":
         subject_label = "Company employee count"
+    elif job_type == "vendor_file":
+        subject_label = "Vendor email file"
     else:
         subject_label = "Person"
     try:
@@ -275,6 +277,8 @@ def _worker(
             if job_type == "urn_resolve"
             else "company employee count"
             if job_type == "company_enrich"
+            else "vendor email file"
+            if job_type == "vendor_file"
             else f"{subject_label} LinkedIn"
         )
         logger.info("%s job started for %s", job_name, email)
@@ -301,6 +305,16 @@ def _worker(
                 f"{summary}\n\n"
                 "The CSV is attached.\n"
             )
+        elif job_type == "vendor_file":
+            subject = f"Vendor enrichment complete — {Path(path_str).stem.replace('_vendor', '')}"
+            body = (
+                "Your vendor email/phone file is ready.\n\n"
+                f"{summary}\n\n"
+                "Attachments:\n"
+                "- *_vendor.csv — send this file to the vendor\n"
+                "- *_rejects.csv — rows with unfixable LinkedIn URLs (if any)\n"
+                "- *_qa.csv — match / fetch notes\n"
+            )
         else:
             subject = f"LinkedIn {subject_label} Finder — results ready"
             body = (
@@ -308,11 +322,19 @@ def _worker(
                 f"{summary}\n\n"
                 "The CSV is attached.\n"
             )
+        extra_paths: list[Path] = []
+        if job_type == "vendor_file":
+            uid = Path(path_str).name.replace("_vendor.csv", "")
+            for extra_name in (f"{uid}_rejects.csv", f"{uid}_qa.csv"):
+                extra = Path(path_str).with_name(extra_name)
+                if extra.is_file() and extra.read_text(encoding="utf-8-sig").count("\n") > 1:
+                    extra_paths.append(extra)
         ok, err = send_results_email(
             email,
             subject=subject,
             body=body,
             attachment_path=path,
+            extra_paths=extra_paths,
         )
         with _state_lock:
             job = _job_for_type(job_type)
@@ -439,6 +461,40 @@ def start_company_enrich_job(
     )
 
 
+def _run_vendor_file(payload: dict, email: str, save_csv: Callable) -> tuple[str, str]:
+    from vendor_file.pipeline import run_batch
+
+    def _progress(current: int, total: int, current_item: str) -> None:
+        _update_progress("vendor_file", current, total, current_item)
+
+    summary = run_batch(
+        input_rows=payload["rows"],
+        uid=payload["uid"],
+        out_dir=Path("data/vendor_file"),
+        progress=_progress,
+    )
+    text = (
+        f"Request ID {summary['uid']}: {summary['ok_rows']} vendor rows, "
+        f"{summary['rejected_rows']} rejected. "
+        f"Vieu IDs — people {summary.get('person_vieu_ids', 0)}, "
+        f"target companies {summary.get('target_company_vieu_ids', 0)}, "
+        f"current companies {summary.get('current_company_vieu_ids', 0)}."
+    )
+    return summary["vendor_path"], text
+
+
+def start_vendor_file_job(rows: list[dict], email: str, uid: str) -> tuple[bool, str | None]:
+    return _start_job(
+        "vendor_file",
+        len(rows),
+        email,
+        lambda _rows: "",
+        _run_vendor_file,
+        {"rows": rows, "uid": uid},
+        "vendor-file-job",
+    )
+
+
 def _busy_message(job_type: str) -> str:
     with _state_lock:
         if job_type in {"company", "person"}:
@@ -467,6 +523,8 @@ def _type_label(job_type: str) -> str:
         return "LinkedIn URN resolver"
     if job_type == "company_enrich":
         return "Company employee count"
+    if job_type == "vendor_file":
+        return "Vendor email file"
     if job_type == "email":
         return "Email finder"
     return "LinkedIn finder"
@@ -526,6 +584,8 @@ def progress_display(scope: str = "all") -> dict[str, Any]:
         active_type = (active or {}).get("job_type") or ""
         if active_type == "company_enrich":
             progress_note = "Company employee count job in progress (this form is disabled until it finishes)."
+        elif active_type == "vendor_file":
+            progress_note = "Vendor email file job in progress (this form is disabled until it finishes)."
         else:
             progress_note = "RapidAPI URN resolver job in progress (this form is disabled until it finishes)."
     elif scope == "email":

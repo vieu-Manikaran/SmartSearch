@@ -48,6 +48,7 @@ from linkedin_jobs import (
     start_company_job,
     start_person_job,
     start_urn_resolve_job,
+    start_vendor_file_job,
     try_acquire_email_worker,
     try_acquire_rapidapi_worker,
     try_acquire_serper_worker,
@@ -61,7 +62,7 @@ from rapidapi_linkedin_company import (
 )
 from rapidapi_person_deep import normalize_linkedin_profile_url, resolve_vanity_url
 from person_linkedin_finder import find_person_linkedin
-from serper_search import find_linkedin_company_url, search_serper
+from vendor_file.pipeline import new_request_id, parse_input_csv
 
 app = Flask(__name__)
 logger = logging.getLogger(__name__)
@@ -153,7 +154,8 @@ HTML_TEMPLATE = """
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.<br>
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
     <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; work email via Molster, with FullEnrich fallback.<br>
-    <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &mdash; CSV with company name + LinkedIn URL &rarr; employee count and numeric LinkedIn ID via RapidAPI.
+    <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &mdash; CSV with company name + LinkedIn URL &rarr; employee count and numeric LinkedIn ID via RapidAPI.<br>
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &mdash; CSV of stakeholders + your email &rarr; vendor-ready email/phone request file, emailed when done.
   </p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
 
@@ -544,6 +546,8 @@ COMPANY_LINKEDIN_TEMPLATE = (
     <a href="{{ url_for('email_finder') }}">Email finder</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
   <h2>Company LinkedIn finder</h2>
   <p class="small">One company name: result appears on this page immediately (no email). CSV with <strong>2+ companies</strong>: email required; results are sent when the job finishes. Only <strong>one</strong> job at a time (company or person).</p>
@@ -598,6 +602,8 @@ PERSON_LINKEDIN_TEMPLATE = (
     <a href="{{ url_for('email_finder') }}">Email finder</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
   <h2>Person LinkedIn finder</h2>
   <p class="small">One person + company: result on this page (no email). CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> job at a time.</p>
@@ -663,6 +669,8 @@ EMAIL_FINDER_TEMPLATE = (
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
   <h2>Email finder (Molster → FullEnrich)</h2>
   <p class="small">Find work emails from LinkedIn URLs. Each row is looked up in Molster first (batches of 100; ~5k emails / 5 hours), then misses fall back to FullEnrich. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Jobs survive restarts and resume from the last checkpoint.</p>
@@ -770,9 +778,11 @@ URN_RESOLVE_TEMPLATE = (
     <a href="{{ url_for('email_finder') }}">Email finder</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
   <h2>LinkedIn URN resolver</h2>
-  <p class="small">Convert opaque LinkedIn member URLs (URN-style <code>/in/ACwAAA...</code>) to normal vanity profile URLs via RapidAPI <code>person_deep</code> (not Serper). One URL: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> URN job at a time; Serper finders run independently.</p>
+  <p class="small">Convert opaque LinkedIn member URLs (URN-style <code>/in/ACwAAA...</code>) to normal vanity profile URLs via RapidAPI <code>person_deep</code> (not Serper). One URL: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> RapidAPI job at a time (this page shares the lock with company employee count and vendor email file).</p>
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
@@ -860,9 +870,11 @@ COMPANY_ENRICH_TEMPLATE = (
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('email_finder') }}">Email finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
   <h2>Company employee count</h2>
-  <p class="small">Look up LinkedIn <strong>employee count</strong> and the <strong>numeric company ID</strong> (org slug) via RapidAPI <code>/company</code>. One company: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> RapidAPI job at a time (this page shares the lock with the URN resolver).</p>
+  <p class="small">Look up LinkedIn <strong>employee count</strong> and the <strong>numeric company ID</strong> (org slug) via RapidAPI <code>/company</code>. One company: result on this page. CSV with <strong>2+ rows</strong>: email required; results emailed when done. Only <strong>one</strong> RapidAPI job at a time (this page shares the lock with the URN resolver and vendor email file).</p>
   <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
 
   <div class="csv-spec">
@@ -929,6 +941,116 @@ IBM,https://www.linkedin.com/company/1035/</pre>
 """
 )
 
+VENDOR_FILE_TEMPLATE = (
+    """
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Vendor email file</title>
+  <style>"""
+    + LINKEDIN_FINDER_STYLES
+    + """
+    pre.example { background: #f7f7f7; border: 1px solid #ddd; padding: 12px; overflow-x: auto; font-size: 0.85em; }
+    .csv-spec { margin: 16px 0; padding: 12px; background: #f9f9f9; border: 1px solid #e0e0e0; }
+    .csv-spec h3 { margin: 0 0 10px 0; font-size: 1em; }
+    .csv-spec table { margin-top: 8px; font-size: 0.9em; }
+    .csv-spec th { width: 28%; }
+    .req { color: #a33; font-weight: 600; }
+    .opt { color: #666; }
+    </style>
+</head>
+<body>
+  <p class="nav">
+    <a href="{{ url_for('dashboard') }}">&larr; Serper Pair Search Dashboard</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('email_finder') }}">Email finder</a>
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
+  </p>
+  <h2>Vendor email file</h2>
+  <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. RapidAPI fills names, titles, and company fields from the <strong>target</strong> company (not assumed current employer). The Seeqe graph fills <strong>Stakeholder / Target / Current Company Vieu IDs</strong> when the LinkedIn URL is already in the graph. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
+  <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
+  <p class="small">Sales Nav <strong>lead</strong> URLs cannot be converted. Use <code>/in/{slug}</code> for people and <code>/company/{slug}</code> for companies. Historical headcount at start date is left blank. Vieu IDs that are not in the graph stay blank.</p>
+
+  <div class="csv-spec">
+    <h3>Expected CSV column names</h3>
+    <p class="small">Header names are <strong>case-insensitive</strong>. Extra columns are ignored.</p>
+    <table>
+      <thead>
+        <tr><th>Role</th><th>Required?</th><th>Accepted header names (use one)</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Stakeholder name</td>
+          <td class="req">Required</td>
+          <td><code>Stakeholder Name</code>, <code>Name</code>, <code>Full Name</code>, <code>Person Name</code>, <code>Contact Name</code></td>
+        </tr>
+        <tr>
+          <td>Person LinkedIn</td>
+          <td class="req">Required</td>
+          <td><code>Profile Linkedin</code>, <code>Person LinkedIn</code>, <code>LinkedIn</code>, <code>LinkedIn URL</code>, <code>Profile URL</code></td>
+        </tr>
+        <tr>
+          <td>Target company name</td>
+          <td class="req">Required</td>
+          <td><code>Target Company Name</code>, <code>Company Name</code>, <code>Company</code>, <code>Account Name</code></td>
+        </tr>
+        <tr>
+          <td>Target company LinkedIn</td>
+          <td class="req">Required</td>
+          <td><code>Target Company Linkedin</code>, <code>Company LinkedIn</code>, <code>Company LinkedIn URL</code>, <code>Account LinkedIn</code></td>
+        </tr>
+        <tr>
+          <td>Email required</td>
+          <td class="opt">Optional (default TRUE)</td>
+          <td><code>Email required</code>, <code>email_required</code>, <code>Need Email</code></td>
+        </tr>
+        <tr>
+          <td>Phone required</td>
+          <td class="opt">Optional (default TRUE)</td>
+          <td><code>Phone required</code>, <code>phone_required</code>, <code>Need Phone</code></td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), plus <code>{UID}_rejects.csv</code> and <code>{UID}_qa.csv</code> when they have rows. One UID per upload, same value on every vendor row.</p>
+  </div>
+
+  <p class="small"><strong>Example CSV:</strong></p>
+  <pre class="example">Stakeholder Name,Profile Linkedin,Target Company Name,Target Company Linkedin
+Jane Doe,https://www.linkedin.com/in/jane-doe/,Acme Inc,https://www.linkedin.com/company/acme
+José García,https://www.linkedin.com/in/jose-garcia/,Walmart,https://www.linkedin.com/company/walmart</pre>
+"""
+    + LINKEDIN_PROGRESS_BLOCK
+    + """
+  {% if message %}
+  <div class="msg {% if message_warn %}warn{% endif %}">{{ message }}</div>
+  {% endif %}
+  <form method="post" enctype="multipart/form-data" action="{{ url_for('vendor_file_finder') }}">
+    <fieldset {% if prog.server_busy %}disabled{% endif %}>
+    <label for="email">Your email (required)</label>
+    <input type="email" name="email" id="email" placeholder="you@company.com" required>
+
+    <label for="csv_file">CSV file (required, max 500 records)</label>
+    <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv" required>
+
+    <div><button type="submit">Build vendor file</button></div>
+    </fieldset>
+  </form>
+"""
+    + LINKEDIN_PROGRESS_POLL_SCRIPT
+    + """
+</body>
+</html>
+"""
+)
+
 THANK_YOU_TEMPLATE = """
 <!doctype html>
 <html>
@@ -959,7 +1081,8 @@ THANK_YOU_TEMPLATE = """
      <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &nbsp;|&nbsp;
      <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &nbsp;|&nbsp;
      <a href="{{ url_for('email_finder') }}">Email finder</a> &nbsp;|&nbsp;
-     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a></p>
+     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &nbsp;|&nbsp;
+     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a></p>
 </body>
 </html>
 """
@@ -1748,6 +1871,19 @@ def download_company_enrich(filename: str):
     return send_from_directory(output_root, filename, as_attachment=True)
 
 
+@app.route("/download/vendor-file/<path:filename>", methods=["GET"])
+def download_vendor_file(filename: str):
+    output_root = Path("data/vendor_file").resolve()
+    target_path = (output_root / filename).resolve()
+
+    if output_root not in target_path.parents and target_path != output_root:
+        abort(404)
+    if not target_path.exists() or not target_path.is_file():
+        abort(404)
+
+    return send_from_directory(output_root, filename, as_attachment=True)
+
+
 @app.route("/download/<path:filename>", methods=["GET"])
 def download_file(filename: str):
     output_root = Path("data/serper_dashboard").resolve()
@@ -2082,6 +2218,8 @@ def linkedin_finder_thanks():
         job_label = "LinkedIn URN resolver"
     elif job_type == "company_enrich":
         job_label = "company employee count"
+    elif job_type == "vendor_file":
+        job_label = "vendor email file"
     else:
         job_label = "person LinkedIn"
     return render_template_string(
@@ -2550,6 +2688,59 @@ def company_enrich_finder():
         return redirect(url_for("linkedin_finder_thanks", email=email, type="company_enrich"))
 
     return render_template_string(COMPANY_ENRICH_TEMPLATE, **ctx)
+
+
+def _parse_vendor_file_submission() -> tuple[list[dict], str, str | None]:
+    email = (request.form.get("email") or "").strip()
+    upload = request.files.get("csv_file")
+    if upload is None or not bool(upload.filename):
+        return [], email, "Upload a CSV with stakeholder name, person LinkedIn, target company name, and target company LinkedIn."
+    err = validate_email(email)
+    if err:
+        return [], email, err
+    try:
+        rows = parse_input_csv(upload.read())
+    except UnicodeDecodeError:
+        return [], email, "CSV must be UTF-8."
+    except ValueError as exc:
+        return [], email, str(exc)
+    return rows, email, None
+
+
+@app.route("/vendor-file", methods=["GET", "POST"])
+def vendor_file_finder():
+    ctx = _finder_page_context("rapidapi")
+
+    if request.method == "POST":
+        if is_rapidapi_job_running():
+            ctx["message"] = "A RapidAPI job is already running. See progress on this page."
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+
+        rows, email, err = _parse_vendor_file_submission()
+        if err:
+            ctx["message"] = err
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+        if not settings.rapidapi_key:
+            ctx["message"] = "Missing RAPIDAPI_KEY in environment."
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+        if not smtp_configured():
+            ctx["message"] = "Email is not configured on the server (SMTP settings)."
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+
+        uid = new_request_id()
+        started, start_err = start_vendor_file_job(rows, email, uid)
+        if not started:
+            ctx["message"] = start_err or "Could not start job."
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+
+        return redirect(url_for("linkedin_finder_thanks", email=email, type="vendor_file"))
+
+    return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
 
 
 resume_pending_jobs_on_startup()

@@ -23,14 +23,24 @@ def send_results_email(
     to_email: str,
     subject: str,
     body: str,
-    attachment_path: Path,
+    attachment_path: Path | None = None,
+    extra_paths: list[Path] | None = None,
 ) -> tuple[bool, str | None]:
-    """Attach CSV and send. Returns (ok, error_message)."""
+    """Attach CSV file(s) and send. Returns (ok, error_message)."""
     if not smtp_configured():
         return False, "Email is not configured (SMTP_USER, SMTP_PASSWORD, SMTP_FROM)."
 
-    if not attachment_path.is_file():
-        return False, f"Result file not found: {attachment_path.name}"
+    paths: list[Path] = []
+    if attachment_path is not None:
+        paths.append(attachment_path)
+    for extra in extra_paths or []:
+        if extra not in paths:
+            paths.append(extra)
+    missing = [p.name for p in paths if not p.is_file()]
+    if missing:
+        return False, f"Result file not found: {', '.join(missing)}"
+    if not paths:
+        return False, "No result files to attach."
 
     from_addr = settings.smtp_from or settings.smtp_user
     host = settings.smtp_host or "smtp.gmail.com"
@@ -42,19 +52,20 @@ def send_results_email(
     msg["Subject"] = subject
     msg.attach(MIMEText(body, "plain", "utf-8"))
 
-    with attachment_path.open("rb") as f:
-        part = MIMEBase("application", "octet-stream")
-        part.set_payload(f.read())
-    encoders.encode_base64(part)
-    part.add_header("Content-Disposition", f'attachment; filename="{attachment_path.name}"')
-    msg.attach(part)
+    for path in paths:
+        with path.open("rb") as f:
+            part = MIMEBase("application", "octet-stream")
+            part.set_payload(f.read())
+        encoders.encode_base64(part)
+        part.add_header("Content-Disposition", f'attachment; filename="{path.name}"')
+        msg.attach(part)
 
     try:
         with smtplib.SMTP(host, port, timeout=60) as server:
             server.starttls()
             server.login(settings.smtp_user, settings.smtp_password)
             server.sendmail(from_addr, [to_email], msg.as_string())
-        logger.info("Results email sent to %s (%s)", to_email, attachment_path.name)
+        logger.info("Results email sent to %s (%s)", to_email, ", ".join(p.name for p in paths))
         return True, None
     except smtplib.SMTPException as exc:
         logger.exception("SMTP failed sending to %s", to_email)
