@@ -70,6 +70,19 @@ def flag(value: bool) -> str:
     return "TRUE" if value else "FALSE"
 
 
+CONTACT_NEED_CHOICES = {
+    "email": (True, False),
+    "phone": (False, True),
+    "both": (True, True),
+}
+
+
+def contact_need_flags(choice: str) -> Tuple[bool, bool]:
+    """Return (email_required, phone_required) for a form choice."""
+    key = (choice or "").strip().lower()
+    return CONTACT_NEED_CHOICES.get(key, CONTACT_NEED_CHOICES["both"])
+
+
 def parse_input_csv(
     raw: bytes,
     *,

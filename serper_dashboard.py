@@ -48,6 +48,7 @@ from linkedin_jobs import (
     start_company_job,
     start_person_job,
     start_urn_resolve_job,
+    start_vendor_file_graph_job,
     start_vendor_file_job,
     try_acquire_email_worker,
     try_acquire_rapidapi_worker,
@@ -62,7 +63,9 @@ from rapidapi_linkedin_company import (
 )
 from rapidapi_person_deep import normalize_linkedin_profile_url, resolve_vanity_url
 from person_linkedin_finder import find_person_linkedin
-from vendor_file.pipeline import new_request_id, parse_input_csv
+from vendor_file.graph import graph_configured
+from vendor_file.graph_pipeline import new_graph_request_id
+from vendor_file.pipeline import contact_need_flags, new_request_id, parse_input_csv
 
 app = Flask(__name__)
 logger = logging.getLogger(__name__)
@@ -155,7 +158,8 @@ HTML_TEMPLATE = """
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
     <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; work email via Molster, with FullEnrich fallback.<br>
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &mdash; CSV with company name + LinkedIn URL &rarr; employee count and numeric LinkedIn ID via RapidAPI.<br>
-    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &mdash; CSV of stakeholders + your email &rarr; vendor-ready email/phone request file, emailed when done.
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &mdash; CSV of stakeholders + your email &rarr; vendor-ready email/phone request file via RapidAPI, emailed when done.<br>
+    <a href="{{ url_for('vendor_file_graph_finder') }}">Vendor email file (graph)</a> &mdash; same CSV and 27 columns, filled only from Seeqe Postgres (no RapidAPI).
   </p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
 
@@ -947,7 +951,7 @@ VENDOR_FILE_TEMPLATE = (
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Vendor email file</title>
+  <title>{% if graph_mode %}Vendor email file (graph){% else %}Vendor email file{% endif %}</title>
   <style>"""
     + LINKEDIN_FINDER_STYLES
     + """
@@ -958,6 +962,22 @@ VENDOR_FILE_TEMPLATE = (
     .csv-spec th { width: 28%; }
     .req { color: #a33; font-weight: 600; }
     .opt { color: #666; }
+    .need-options { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 6px; }
+    .need-options input[type="radio"] {
+      position: absolute; opacity: 0; width: 0; height: 0; pointer-events: none;
+    }
+    .need-options label.need {
+      display: inline-block; margin: 0; padding: 10px 18px;
+      border: 1px solid #ccc; border-radius: 6px; cursor: pointer;
+      font-weight: 600; background: #fff; user-select: none;
+    }
+    .need-options input[type="radio"]:focus-visible + label.need {
+      outline: 2px solid #1a73e8; outline-offset: 2px;
+    }
+    .need-options input[type="radio"]:checked + label.need {
+      border-color: #1a73e8; background: #e8f0fe; color: #174ea6;
+      box-shadow: inset 0 0 0 1px #1a73e8;
+    }
     </style>
 </head>
 <body>
@@ -973,11 +993,25 @@ VENDOR_FILE_TEMPLATE = (
     <a href="{{ url_for('email_finder') }}">Email finder</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
+    {% if graph_mode %}
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file (RapidAPI)</a>
+    {% else %}
+    &nbsp;|&nbsp;
+    <a href="{{ url_for('vendor_file_graph_finder') }}">Vendor email file (graph)</a>
+    {% endif %}
   </p>
+  {% if graph_mode %}
+  <h2>Vendor email file (graph)</h2>
+  <p class="small">Same stakeholder CSV and 27 vendor columns as RapidAPI, filled only from Seeqe Postgres. Person, experience, company, email_domains, and historical employee count come from the graph. No RapidAPI calls. Email required; results are emailed when done. Shares the RapidAPI job lock so the two vendor workflows cannot run at the same time.</p>
+  <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
+  <p class="small">UID prefix is <code>VNG-</code>. Last Profile Refresh Date is <code>MAX(experience.updated_at)</code>. Company website is the first clean domain in <code>company.email_domains</code> (not <code>website_url</code>). Historical headcount is the graph year matching the target start year (19xx/20xx only). If they have left the target, board/advisor present roles are skipped when another present employer exists; if board/advisor is the only current role, it is kept.</p>
+  {% else %}
   <h2>Vendor email file</h2>
   <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. RapidAPI fills names, titles, and company fields from the <strong>target</strong> company (not assumed current employer). The Seeqe graph fills <strong>Stakeholder / Target / Current Company Vieu IDs</strong> when the LinkedIn URL is already in the graph. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
   <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
   <p class="small">Sales Nav <strong>lead</strong> URLs cannot be converted. Use <code>/in/{slug}</code> for people and <code>/company/{slug}</code> for companies. Historical headcount at start date is left blank. Vieu IDs that are not in the graph stay blank.</p>
+  {% endif %}
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
@@ -1008,14 +1042,9 @@ VENDOR_FILE_TEMPLATE = (
           <td><code>Target Company Linkedin</code>, <code>Company LinkedIn</code>, <code>Company LinkedIn URL</code>, <code>Account LinkedIn</code></td>
         </tr>
         <tr>
-          <td>Email required</td>
-          <td class="opt">Optional (default TRUE)</td>
-          <td><code>Email required</code>, <code>email_required</code>, <code>Need Email</code></td>
-        </tr>
-        <tr>
-          <td>Phone required</td>
-          <td class="opt">Optional (default TRUE)</td>
-          <td><code>Phone required</code>, <code>phone_required</code>, <code>Need Phone</code></td>
+          <td>Email / phone required</td>
+          <td class="opt">Set on this page</td>
+          <td>Use the Email / Phone / Both buttons below. Optional CSV columns <code>Email required</code> and <code>Phone required</code> can still override a single row.</td>
         </tr>
       </tbody>
     </table>
@@ -1032,13 +1061,24 @@ José García,https://www.linkedin.com/in/jose-garcia/,Walmart,https://www.linke
   {% if message %}
   <div class="msg {% if message_warn %}warn{% endif %}">{{ message }}</div>
   {% endif %}
-  <form method="post" enctype="multipart/form-data" action="{{ url_for('vendor_file_finder') }}">
+  <form method="post" enctype="multipart/form-data" action="{% if graph_mode %}{{ url_for('vendor_file_graph_finder') }}{% else %}{{ url_for('vendor_file_finder') }}{% endif %}">
     <fieldset {% if prog.server_busy %}disabled{% endif %}>
     <label for="email">Your email (required)</label>
     <input type="email" name="email" id="email" placeholder="you@company.com" required>
 
     <label for="csv_file">CSV file (required, max 500 records)</label>
     <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv" required>
+
+    <label>Need from vendor</label>
+    <div class="need-options" role="radiogroup" aria-label="Need from vendor">
+      <input type="radio" name="contact_need" id="need_email" value="email"{% if contact_need == 'email' %} checked{% endif %}>
+      <label class="need" for="need_email">Email</label>
+      <input type="radio" name="contact_need" id="need_phone" value="phone"{% if contact_need == 'phone' %} checked{% endif %}>
+      <label class="need" for="need_phone">Phone</label>
+      <input type="radio" name="contact_need" id="need_both" value="both"{% if contact_need != 'email' and contact_need != 'phone' %} checked{% endif %}>
+      <label class="need" for="need_both">Both</label>
+    </div>
+    <p class="small">Sets <code>Email required</code> and <code>Phone required</code> on every vendor row.</p>
 
     <div><button type="submit">Build vendor file</button></div>
     </fieldset>
@@ -1082,7 +1122,8 @@ THANK_YOU_TEMPLATE = """
      <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &nbsp;|&nbsp;
      <a href="{{ url_for('email_finder') }}">Email finder</a> &nbsp;|&nbsp;
      <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &nbsp;|&nbsp;
-     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a></p>
+     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &nbsp;|&nbsp;
+     <a href="{{ url_for('vendor_file_graph_finder') }}">Vendor email file (graph)</a></p>
 </body>
 </html>
 """
@@ -1884,6 +1925,19 @@ def download_vendor_file(filename: str):
     return send_from_directory(output_root, filename, as_attachment=True)
 
 
+@app.route("/download/vendor-file-graph/<path:filename>", methods=["GET"])
+def download_vendor_file_graph(filename: str):
+    output_root = Path("data/vendor_file_graph").resolve()
+    target_path = (output_root / filename).resolve()
+
+    if output_root not in target_path.parents and target_path != output_root:
+        abort(404)
+    if not target_path.exists() or not target_path.is_file():
+        abort(404)
+
+    return send_from_directory(output_root, filename, as_attachment=True)
+
+
 @app.route("/download/<path:filename>", methods=["GET"])
 def download_file(filename: str):
     output_root = Path("data/serper_dashboard").resolve()
@@ -2220,6 +2274,8 @@ def linkedin_finder_thanks():
         job_label = "company employee count"
     elif job_type == "vendor_file":
         job_label = "vendor email file"
+    elif job_type == "vendor_file_graph":
+        job_label = "vendor email file (graph)"
     else:
         job_label = "person LinkedIn"
     return render_template_string(
@@ -2698,8 +2754,13 @@ def _parse_vendor_file_submission() -> tuple[list[dict], str, str | None]:
     err = validate_email(email)
     if err:
         return [], email, err
+    email_required, phone_required = contact_need_flags(request.form.get("contact_need") or "")
     try:
-        rows = parse_input_csv(upload.read())
+        rows = parse_input_csv(
+            upload.read(),
+            email_required_default=email_required,
+            phone_required_default=phone_required,
+        )
     except UnicodeDecodeError:
         return [], email, "CSV must be UTF-8."
     except ValueError as exc:
@@ -2710,6 +2771,9 @@ def _parse_vendor_file_submission() -> tuple[list[dict], str, str | None]:
 @app.route("/vendor-file", methods=["GET", "POST"])
 def vendor_file_finder():
     ctx = _finder_page_context("rapidapi")
+    need = (request.form.get("contact_need") or "both").strip().lower()
+    ctx["contact_need"] = need if need in {"email", "phone", "both"} else "both"
+    ctx["graph_mode"] = False
 
     if request.method == "POST":
         if is_rapidapi_job_running():
@@ -2739,6 +2803,45 @@ def vendor_file_finder():
             return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
 
         return redirect(url_for("linkedin_finder_thanks", email=email, type="vendor_file"))
+
+    return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+
+
+@app.route("/vendor-file-graph", methods=["GET", "POST"])
+def vendor_file_graph_finder():
+    ctx = _finder_page_context("rapidapi")
+    need = (request.form.get("contact_need") or "both").strip().lower()
+    ctx["contact_need"] = need if need in {"email", "phone", "both"} else "both"
+    ctx["graph_mode"] = True
+
+    if request.method == "POST":
+        if is_rapidapi_job_running():
+            ctx["message"] = "A RapidAPI / vendor job is already running. See progress on this page."
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+
+        rows, email, err = _parse_vendor_file_submission()
+        if err:
+            ctx["message"] = err
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+        if not graph_configured():
+            ctx["message"] = "Missing POSTGRES_* in environment (graph is not configured)."
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+        if not smtp_configured():
+            ctx["message"] = "Email is not configured on the server (SMTP settings)."
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+
+        uid = new_graph_request_id()
+        started, start_err = start_vendor_file_graph_job(rows, email, uid)
+        if not started:
+            ctx["message"] = start_err or "Could not start job."
+            ctx["message_warn"] = True
+            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
+
+        return redirect(url_for("linkedin_finder_thanks", email=email, type="vendor_file_graph"))
 
     return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
 

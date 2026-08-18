@@ -385,17 +385,23 @@ COLUMN_GUIDE_ROWS: List[Dict[str, str]] = [
     {
         "Column": "Email required",
         "Required on vendor file": "Yes",
-        "Source": "Upload default, or per-row column if present",
-        "How it is filled": "TRUE or FALSE. Default TRUE unless the associate sets otherwise.",
-        "If we cannot fill it": "TRUE.",
+        "Source": "Form choice (Email / Phone / Both), or per-row CSV column",
+        "How it is filled": (
+            "TRUE or FALSE from the upload buttons. Email and Both set TRUE; "
+            "Phone sets FALSE. A row-level Email required column still wins if present."
+        ),
+        "If we cannot fill it": "TRUE when Both or Email is selected.",
         "Example": "TRUE",
     },
     {
         "Column": "Phone required",
         "Required on vendor file": "Yes",
-        "Source": "Upload default, or per-row column if present",
-        "How it is filled": "TRUE or FALSE. Default TRUE unless the associate sets otherwise.",
-        "If we cannot fill it": "TRUE.",
+        "Source": "Form choice (Email / Phone / Both), or per-row CSV column",
+        "How it is filled": (
+            "TRUE or FALSE from the upload buttons. Phone and Both set TRUE; "
+            "Email sets FALSE. A row-level Phone required column still wins if present."
+        ),
+        "If we cannot fill it": "TRUE when Both or Phone is selected.",
         "Example": "TRUE",
     },
 ]

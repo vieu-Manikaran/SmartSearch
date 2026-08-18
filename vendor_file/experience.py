@@ -5,7 +5,7 @@ from __future__ import annotations
 import re
 import unicodedata
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, datetime
 from typing import Any, Dict, List, Optional, Tuple
 
 from vendor_file.urls import canonicalize_company_url, company_slug
@@ -37,6 +37,7 @@ class Position:
     end: Optional[date] = None
     present: bool = False
     group: int = 0
+    priority: int = 9999
 
 
 @dataclass
@@ -240,6 +241,52 @@ def target_from_positions(
     )
 
 
+BOARD_OR_ADVISOR = re.compile(
+    r"\b("
+    r"board|trustee|trustees|advisor|adviser|advisory|"
+    r"non[- ]?executive|independent director|non[- ]?exec"
+    r")\b",
+    re.I,
+)
+
+
+def is_board_or_advisor(title: str) -> bool:
+    return bool(BOARD_OR_ADVISOR.search(title or ""))
+
+
+def _priority_key(pos: Position) -> Tuple[int, int]:
+    start_ord = pos.start.toordinal() if pos.start else 0
+    return (pos.priority, -start_ord)
+
+
+def pick_current_graph_role(
+    positions: List[Position],
+    target_hits: List[Position],
+) -> Tuple[CurrentRole, bool]:
+    """Current employer from graph experience.
+
+    Skip board/advisor present roles when another present employer exists.
+    If the only present role is board/advisor, keep it — even at the target.
+    """
+    present = [p for p in positions if p.present]
+    if not present:
+        return CurrentRole(), False
+    employers = [p for p in present if not is_board_or_advisor(p.title)]
+    pool = employers if employers else present
+    chosen = min(pool, key=_priority_key)
+    current_equals = any(_same_company(chosen, hit) for hit in target_hits)
+    return _current_from_position(chosen), current_equals
+
+
+def _current_from_position(pos: Position) -> CurrentRole:
+    return CurrentRole(
+        title=pos.title,
+        company=pos.company,
+        company_url=pos.company_url,
+        company_id=pos.company_id,
+    )
+
+
 def current_from_positions(positions: List[Position]) -> CurrentRole:
     if not positions:
         return CurrentRole()
@@ -254,6 +301,65 @@ def current_from_positions(positions: List[Position]) -> CurrentRole:
         company_url=latest.company_url,
         company_id=latest.company_id,
     )
+
+
+def positions_from_graph_rows(rows: List[Dict[str, Any]]) -> List[Position]:
+    """Turn experience ⟕ company rows into Position objects."""
+    positions: List[Position] = []
+    for gi, row in enumerate(rows or []):
+        company = (
+            str(row.get("company_name") or "").strip()
+            or str(row.get("fallback_company_identifier") or "").strip()
+        )
+        title = str(row.get("title") or "").strip()
+        if not title and not company:
+            continue
+        start = _coerce_date(row.get("dates_from"))
+        end = _coerce_date(row.get("dates_to"))
+        try:
+            priority = int(row.get("priority") if row.get("priority") is not None else 9999)
+        except (TypeError, ValueError):
+            priority = 9999
+        positions.append(
+            Position(
+                company=company,
+                title=title,
+                company_id=str(row.get("company_id") or "").strip(),
+                company_url=str(row.get("company_url") or "").strip(),
+                start=start,
+                end=end,
+                present=end is None,
+                group=gi,
+                priority=priority,
+            )
+        )
+    return positions
+
+
+def refresh_date_from_graph_rows(rows: List[Dict[str, Any]]) -> str:
+    """MAX(experience.updated_at) as YYYY-MM-DD."""
+    stamps: List[date] = []
+    for row in rows or []:
+        parsed = _coerce_date(row.get("updated_at"))
+        if parsed:
+            stamps.append(parsed)
+    return max(stamps).isoformat() if stamps else ""
+
+
+def _coerce_date(value: Any) -> Optional[date]:
+    if value is None or value == "":
+        return None
+    if isinstance(value, datetime):
+        return value.date()
+    if isinstance(value, date):
+        return value
+    text = str(value).strip()
+    if len(text) >= 10:
+        try:
+            return date.fromisoformat(text[:10])
+        except ValueError:
+            return None
+    return None
 
 
 def location_from_person(data: Dict[str, Any]) -> str:

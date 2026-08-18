@@ -31,4 +31,9 @@ Local + Render-ready dashboard to run pair-based Serper searches and download pe
 
 ## Vendor email file
 
-Associates upload a stakeholder CSV at `/vendor-file`. The app uses existing RapidAPI (`RAPIDAPI_KEY` / `RAPIDAPI_KEY2`) for profile/company fields, Seeqe graph Postgres (`POSTGRES_HOST`, `POSTGRES_DB`, `POSTGRES_USER`, `POSTGRES_PASSWORD`) for Vieu IDs (`PERS-…` / `COMP-…`), and Gmail SMTP (`SMTP_USER`, `SMTP_PASSWORD`, `SMTP_FROM`) to email `{UID}_vendor.csv` (plus rejects/QA sidecars). One RapidAPI job at a time, shared with the URN resolver and company employee count. Max 500 rows per upload. Graph misses stay blank — IDs are never invented.
+Associates upload a stakeholder CSV at `/vendor-file` (RapidAPI) or `/vendor-file-graph` (Seeqe Postgres only). Both emit the same 27-column `{UID}_vendor.csv` (plus rejects/QA sidecars) over Gmail SMTP.
+
+- RapidAPI (`/vendor-file`, UID `VEN-…`): `RAPIDAPI_KEY` / `RAPIDAPI_KEY2` for profile and company fields; graph fills only Vieu IDs (`PERS-…` / `COMP-…`). Historical headcount stays blank.
+- Graph (`/vendor-file-graph`, UID `VNG-…`): all columns from Postgres (`POSTGRES_HOST`, `POSTGRES_DB`, `POSTGRES_USER`, `POSTGRES_PASSWORD`). Website comes from `company.email_domains`. Last Profile Refresh Date is `MAX(experience.updated_at)`. Historical headcount is `company_history_employee_ct` for the target start year (19xx/20xx only). If they have left the target, board/advisor present roles are skipped when another present employer exists; if board/advisor is the only current role, it is kept.
+
+One RapidAPI-lock job at a time (URN resolver, company employee count, and both vendor workflows share the lock). Max 500 rows per upload. Graph misses stay blank — IDs are never invented.

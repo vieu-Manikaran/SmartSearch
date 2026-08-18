@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+from typing import Any, List, Optional
 from urllib.parse import urlparse
 
 CAREER_HOST_LABELS = {
@@ -129,3 +130,68 @@ def canonicalize_website(raw: str) -> str:
     if career_host or career_path:
         return f"https://www.{registrable}"
     return f"https://{host}"
+
+
+JUNK_DOMAIN_LABELS = CAREER_HOST_LABELS | {
+    "news",
+    "blog",
+    "blogs",
+    "press",
+    "ir",
+    "investor",
+    "investors",
+    "go",
+    "lnk",
+}
+SKIP_REGISTRABLE = ATS_REGISTRABLE | {"bit.ly", "lnkd.in", "t.co", "ow.ly"}
+
+
+def website_from_email_domains(
+    email_domain: str = "",
+    email_domains: Optional[list] = None,
+) -> str:
+    """Homepage URL from company.email_domains (not website_url)."""
+    ordered: List[str] = []
+    candidates: List[Any] = [email_domain]
+    if isinstance(email_domains, (list, tuple, set)):
+        candidates.extend(email_domains)
+    elif email_domains:
+        text = str(email_domains).strip()
+        if text.startswith("{") and text.endswith("}"):
+            candidates.extend(
+                part.strip().strip('"').strip("'")
+                for part in text[1:-1].split(",")
+                if part.strip()
+            )
+        else:
+            candidates.append(text)
+    for raw in candidates:
+        text = str(raw or "").strip().lower().lstrip("@")
+        if text and text not in ordered:
+            ordered.append(text)
+    cleaned: List[str] = []
+    seen: set[str] = set()
+    for raw in ordered:
+        site = canonicalize_website(raw if "://" in raw else f"https://{raw}")
+        if not site:
+            continue
+        host = urlparse(site).netloc.lower()
+        host_no_www = host[4:] if host.startswith("www.") else host
+        registrable = registrable_domain(host_no_www)
+        if not registrable or registrable in SKIP_REGISTRABLE:
+            continue
+        labels = [p for p in host_no_www.split(".") if p]
+        junk_sub = any(
+            label in JUNK_DOMAIN_LABELS and label not in registrable.split(".")
+            for label in labels
+        )
+        if junk_sub:
+            rewritten = f"https://www.{registrable}"
+            if rewritten not in seen:
+                seen.add(rewritten)
+                cleaned.append(rewritten)
+            continue
+        if site not in seen:
+            seen.add(site)
+            cleaned.append(site)
+    return cleaned[0] if cleaned else ""
