@@ -312,13 +312,17 @@ def _worker(
         elif job_type in {"vendor_file", "vendor_file_graph"}:
             source = "graph" if job_type == "vendor_file_graph" else "RapidAPI"
             subject = f"Vendor enrichment complete — {Path(path_str).stem.replace('_vendor', '')}"
-            body = (
-                f"Your vendor email/phone file ({source}) is ready.\n\n"
-                f"{summary}\n\n"
-                "Attachments:\n"
+            extras = (
                 "- *_vendor.csv — send this file to the vendor\n"
                 "- *_rejects.csv — rows with unfixable LinkedIn URLs (if any)\n"
                 "- *_qa.csv — match / fetch notes\n"
+            )
+            if job_type == "vendor_file":
+                extras += "- *_not_in_graph.csv — people missing from graph (ingest these)\n"
+            body = (
+                f"Your vendor email/phone file ({source}) is ready.\n\n"
+                f"{summary}\n\n"
+                f"Attachments:\n{extras}"
             )
         else:
             subject = f"LinkedIn {subject_label} Finder — results ready"
@@ -330,7 +334,11 @@ def _worker(
         extra_paths: list[Path] = []
         if job_type in {"vendor_file", "vendor_file_graph"}:
             uid = Path(path_str).name.replace("_vendor.csv", "")
-            for extra_name in (f"{uid}_rejects.csv", f"{uid}_qa.csv"):
+            for extra_name in (
+                f"{uid}_rejects.csv",
+                f"{uid}_qa.csv",
+                f"{uid}_not_in_graph.csv",
+            ):
                 extra = Path(path_str).with_name(extra_name)
                 if extra.is_file() and extra.read_text(encoding="utf-8-sig").count("\n") > 1:
                     extra_paths.append(extra)
@@ -483,7 +491,9 @@ def _run_vendor_file(payload: dict, email: str, save_csv: Callable) -> tuple[str
         f"{summary['rejected_rows']} rejected. "
         f"Vieu IDs — people {summary.get('person_vieu_ids', 0)}, "
         f"target companies {summary.get('target_company_vieu_ids', 0)}, "
-        f"current companies {summary.get('current_company_vieu_ids', 0)}."
+        f"current companies {summary.get('current_company_vieu_ids', 0)}. "
+        f"Not in graph {summary.get('not_in_graph_rows', 0)}. "
+        f"Historical headcount {summary.get('historical_headcounts', 0)}."
     )
     return summary["vendor_path"], text
 

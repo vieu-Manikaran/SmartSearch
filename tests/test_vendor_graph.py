@@ -105,6 +105,17 @@ class VendorPipelineHelpersTests(unittest.TestCase):
         self.assertEqual(contact_need_flags("both"), (True, True))
         self.assertEqual(contact_need_flags(""), (True, True))
 
+    def test_names_from_associate_only(self) -> None:
+        from vendor_file.names import names_from_associate
+
+        full, first, middle, last = names_from_associate("Abel Jonathan Jimenez Ortega")
+        self.assertEqual(full, "Abel Jonathan Jimenez Ortega")
+        self.assertEqual(first, "Abel")
+        self.assertEqual(middle, "Jonathan Jimenez")
+        self.assertEqual(last, "Ortega")
+        full2, first2, middle2, last2 = names_from_associate("Jane Doe")
+        self.assertEqual((full2, first2, middle2, last2), ("Jane Doe", "Jane", "", "Doe"))
+
 
 class VendorGraphCurrentRoleTests(unittest.TestCase):
     def _pos(
@@ -158,6 +169,45 @@ class VendorGraphCurrentRoleTests(unittest.TestCase):
         current, equals = pick_current_graph_role([past, board], [past, board])
         self.assertTrue(equals)
         self.assertEqual(current.title, "Board Member")
+
+    def test_present_at_target_ignores_other_present_employer(self) -> None:
+        az = self._pos(
+            company="AstraZeneca",
+            title="Platform Engineer",
+            present=True,
+            company_id="COMP-A",
+            priority=1,
+        )
+        oracle = self._pos(
+            company="Oracle",
+            title="Senior Applications Engineer",
+            present=True,
+            company_id="COMP-O",
+            priority=0,
+        )
+        current, equals = pick_current_graph_role([oracle, az], [az])
+        self.assertTrue(equals)
+        self.assertEqual(current.company, "AstraZeneca")
+        self.assertEqual(current.title, "Platform Engineer")
+
+    def test_target_board_plus_other_job_uses_other_job(self) -> None:
+        board = self._pos(
+            company="Acme",
+            title="Board Member",
+            present=True,
+            company_id="COMP-A",
+            priority=0,
+        )
+        ceo = self._pos(
+            company="NewCo",
+            title="Chief Executive Officer",
+            present=True,
+            company_id="COMP-B",
+            priority=1,
+        )
+        current, equals = pick_current_graph_role([board, ceo], [board])
+        self.assertFalse(equals)
+        self.assertEqual(current.company, "NewCo")
 
     def test_still_at_target_skips_board_for_title(self) -> None:
         board = self._pos(

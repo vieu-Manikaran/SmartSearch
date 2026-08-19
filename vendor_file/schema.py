@@ -63,6 +63,19 @@ REJECT_COLUMNS: List[str] = [
     "reason",
 ]
 
+# People accepted onto the vendor file but missing from graph person — send to ingest.
+INGEST_COLUMNS: List[str] = [
+    "source_row",
+    "UID",
+    "Stakeholder Name",
+    "Profile Linkedin",
+    "Location",
+    "Country",
+    "Target Company Name",
+    "Target Company Linkedin",
+    "reason",
+]
+
 INPUT_ALIASES: Dict[str, List[str]] = {
     "name": [
         "stakeholder name",
@@ -124,7 +137,8 @@ COLUMN_GUIDE_ROWS: List[Dict[str, str]] = [
         "How it is filled": (
             "Batched indexed lookup on the Seeqe graph person table. "
             "URL variants (trailing slash, www, http/https) are queried together. "
-            "Returns PERS-… when the profile exists in graph."
+            "Returns PERS-… when the profile exists in graph. Misses stay blank "
+            "and are also written to {UID}_not_in_graph.csv for ingest."
         ),
         "If we cannot fill it": "Blank — we do not invent Vieu IDs.",
         "Example": "PERS-332f805f-de5f-4188-a460-c0e913ff54e5",
@@ -132,46 +146,45 @@ COLUMN_GUIDE_ROWS: List[Dict[str, str]] = [
     {
         "Column": "Stakeholder Full  Name",
         "Required on vendor file": "Yes",
-        "Source": "RapidAPI /person.fullName (fallback: associate name)",
+        "Source": "Associate CSV name",
         "How it is filled": (
-            "Prefer LinkedIn fullName after a successful profile fetch. Keep "
-            "Unicode (José, Müller). Strip trailing credentials such as MBA/PhD, "
-            "not accents. Header has two spaces after Full, matching the vendor spec."
+            "The name the associate uploaded, unchanged except surrounding "
+            "whitespace. RapidAPI fullName is not used. Header has two spaces "
+            "after Full, matching the vendor spec."
         ),
-        "If we cannot fill it": "Use the associate-provided name.",
+        "If we cannot fill it": "Row rejected if the associate left it empty.",
         "Example": "Seema Swamy",
     },
     {
         "Column": "Stakeholder First Name",
         "Required on vendor file": "Yes",
-        "Source": "RapidAPI /person.firstName",
+        "Source": "Associate CSV name",
         "How it is filled": (
-            "LinkedIn firstName. If the profile fetch fails, first token of the "
-            "associate name after dropping credentials."
+            "First token of the associate name after dropping trailing credentials "
+            "(MBA/PhD/Jr). RapidAPI firstName is not used."
         ),
-        "If we cannot fill it": "Parsed from the associate name.",
+        "If we cannot fill it": "Blank if the associate name has no tokens.",
         "Example": "Seema",
     },
     {
         "Column": "Stakeholder Middle Name",
         "Required on vendor file": "No",
-        "Source": "Derived from fullName minus first + last",
+        "Source": "Associate CSV name",
         "How it is filled": (
-            "Tokens between firstName and lastName. LinkedIn rarely has a middle "
-            "name field. Blank is better than a guess."
+            "Tokens between first and last of the associate name. RapidAPI is not used."
         ),
-        "If we cannot fill it": "Blank.",
+        "If we cannot fill it": "Blank when the associate name has fewer than three tokens.",
         "Example": "Marie",
     },
     {
         "Column": "Stakeholder Last Name",
         "Required on vendor file": "Yes",
-        "Source": "RapidAPI /person.lastName",
+        "Source": "Associate CSV name",
         "How it is filled": (
-            "LinkedIn lastName (handles van/de particles). Fallback: last token "
-            "of the associate name."
+            "Last token of the associate name after dropping trailing credentials. "
+            "RapidAPI lastName is not used."
         ),
-        "If we cannot fill it": "Parsed from the associate name.",
+        "If we cannot fill it": "Blank if the associate name has no tokens.",
         "Example": "Swamy",
     },
     {
@@ -189,9 +202,10 @@ COLUMN_GUIDE_ROWS: List[Dict[str, str]] = [
     {
         "Column": "Location",
         "Required on vendor file": "No",
-        "Source": "RapidAPI /person.addressWithoutCountry",
+        "Source": "Graph person.loc, fallback RapidAPI address fields",
         "How it is filled": (
-            "LinkedIn metro/city without country. Fallback: addressWithCountry."
+            "Prefer graph loc when the profile is in person. Otherwise RapidAPI "
+            "addressWithoutCountry, then addressWithCountry."
         ),
         "If we cannot fill it": "Blank.",
         "Example": "San Francisco Bay Area",
@@ -199,10 +213,10 @@ COLUMN_GUIDE_ROWS: List[Dict[str, str]] = [
     {
         "Column": "Country",
         "Required on vendor file": "No",
-        "Source": "RapidAPI /person.primaryLocale.country",
+        "Source": "Graph person.loc_country_code, fallback RapidAPI locale",
         "How it is filled": (
-            "ISO-2 code when LinkedIn provides it (US, IN, DE). Otherwise the "
-            "country string from addressCountryOnly. One convention per file."
+            "Prefer graph ISO-2 loc_country_code when the profile is in person. "
+            "Otherwise RapidAPI primaryLocale.country, then addressCountryOnly."
         ),
         "If we cannot fill it": "Blank.",
         "Example": "US",
@@ -306,11 +320,12 @@ COLUMN_GUIDE_ROWS: List[Dict[str, str]] = [
     {
         "Column": "Target Company Employee Count at Start Date",
         "Required on vendor file": "No",
-        "Source": "Not available from RapidAPI",
+        "Source": "Graph company_history_employee_ct",
         "How it is filled": (
-            "Always blank. We do not copy current headcount — that would be wrong."
+            "employee_ct for the target company_id and the start-date year "
+            "(19xx/20xx only). Never copy current headcount."
         ),
-        "If we cannot fill it": "Blank.",
+        "If we cannot fill it": "Blank if the year or company is missing from the history table.",
         "Example": "",
     },
     {

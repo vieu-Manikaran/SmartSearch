@@ -265,9 +265,18 @@ def pick_current_graph_role(
 ) -> Tuple[CurrentRole, bool]:
     """Current employer from graph experience.
 
-    Skip board/advisor present roles when another present employer exists.
-    If the only present role is board/advisor, keep it — even at the target.
+    A present (non-board) role at the target wins: current company is the
+    target only. If they have left the target, skip board/advisor present
+    roles when another present employer exists. If the only present role is
+    board/advisor, keep it.
     """
+    present_target_jobs = [
+        p for p in target_hits if p.present and not is_board_or_advisor(p.title)
+    ]
+    if present_target_jobs:
+        chosen = min(present_target_jobs, key=_priority_key)
+        return _current_from_position(chosen), True
+
     present = [p for p in positions if p.present]
     if not present:
         return CurrentRole(), False

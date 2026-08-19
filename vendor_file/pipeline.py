@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import csv
 import io
+import logging
 import uuid
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, timezone
@@ -19,13 +20,10 @@ from vendor_file.experience import (
     location_from_person,
     target_from_positions,
 )
-from vendor_file.graph import (
-    graph_configured,
-    resolve_company_vieu_ids,
-    resolve_person_vieu_ids,
-)
-from vendor_file.names import names_from_profile
+from vendor_file.graph import GraphClient, graph_configured
+from vendor_file.names import names_from_associate
 from vendor_file.schema import (
+    INGEST_COLUMNS,
     INPUT_ALIASES,
     QA_COLUMNS,
     REJECT_COLUMNS,
@@ -33,6 +31,8 @@ from vendor_file.schema import (
 )
 from vendor_file.urls import canonicalize_company_url, canonicalize_person_url
 from vendor_file.website import canonicalize_website
+
+logger = logging.getLogger(__name__)
 
 ProgressFn = Callable[[int, int, str], None]
 
@@ -334,12 +334,7 @@ def run_batch(
     for row in accepted:
         data, person_err = person_cache.get(row["person_url"], (None, "not fetched"))
         target = company_cache.get(row["company_url"]) or {}
-        full, first, middle, last = names_from_profile(
-            (data or {}).get("fullName") or "",
-            (data or {}).get("firstName") or "",
-            (data or {}).get("lastName") or "",
-            row["name"],
-        )
+        full, first, middle, last = names_from_associate(row["name"])
         positions = extract_positions((data or {}).get("experiences") or []) if data else []
         target_match = target_from_positions(
             positions,
@@ -392,15 +387,30 @@ def run_batch(
             if url
         }
     )
+    people: Dict[str, Dict[str, str]] = {}
+    companies: Dict[str, Dict[str, str]] = {}
+    hist: Dict[Tuple[str, str], str] = {}
     if graph_configured():
-        log(0, 1, "Looking up Vieu IDs in graph")
+        log(0, 1, "Looking up graph person/company/headcount")
+        try:
+            with GraphClient() as graph:
+                people = graph.fetch_people(graph_person_urls)
+                companies = graph.fetch_companies(graph_company_urls)
+                pairs = []
+                for item in assembled:
+                    cid = (companies.get(item["row"]["company_url"]) or {}).get("id") or ""
+                    year = (item["target_match"].start_date or "")[:4]
+                    if cid and year:
+                        pairs.append((cid, year))
+                hist = graph.fetch_headcount_at_years(pairs)
+        except Exception:
+            logger.exception("Graph enrichment failed; continuing with RapidAPI-only fields")
+            people, companies, hist = {}, {}, {}
+        log(1, 1, "Graph lookup complete")
     else:
         log(0, 1, "Graph lookup skipped (POSTGRES_* not set)")
-    person_vieu = resolve_person_vieu_ids(graph_person_urls)
-    company_vieu = resolve_company_vieu_ids(graph_company_urls)
-    if graph_configured():
-        log(1, 1, "Graph Vieu ID lookup complete")
 
+    ingest_rows: List[Dict[str, str]] = []
     assemble_total = max(1, len(assembled))
     for i, item in enumerate(assembled, start=1):
         log(i, assemble_total, f"Assembling row {i}")
@@ -413,19 +423,22 @@ def run_batch(
         current_url = item["current_url"]
         current_equals = item["current_equals"]
         current_rec = item["current_rec"]
+        graph_person = people.get(row["person_url"]) or {}
+        graph_target = companies.get(row["company_url"]) or {}
+        graph_current = companies.get(current_url or "") or {}
 
         vendor = empty_vendor_row(uid)
-        vendor["Stakeholder Vieu ID"] = person_vieu.get(row["person_url"], "")
+        vendor["Stakeholder Vieu ID"] = graph_person.get("id") or ""
         vendor["Stakeholder Full  Name"] = item["full"]
         vendor["Stakeholder First Name"] = item["first"]
         vendor["Stakeholder Middle Name"] = item["middle"]
         vendor["Stakeholder Last Name"] = item["last"]
         vendor["Profile Linkedin"] = row["person_url"]
-        vendor["Location"] = location_from_person(data or {})
-        vendor["Country"] = country_from_person(data or {})
+        vendor["Location"] = graph_person.get("loc") or location_from_person(data or {})
+        vendor["Country"] = graph_person.get("country") or country_from_person(data or {})
         if data and not person_err:
             vendor["Last Profile Refresh Date"] = date.today().isoformat()
-        vendor["Target Company Vieu ID"] = company_vieu.get(row["company_url"], "")
+        vendor["Target Company Vieu ID"] = graph_target.get("id") or ""
         vendor["Target Company Name"] = (
             (target.get("api_company_name") or "").strip() or row["company_name"]
         )
@@ -435,6 +448,11 @@ def run_batch(
         vendor["Target Company Title"] = target_match.title
         vendor["Target Company  Start Date"] = target_match.start_date
         vendor["Target Company Start Title"] = target_match.start_title
+        start_year = (target_match.start_date or "")[:4]
+        if vendor["Target Company Vieu ID"] and start_year:
+            vendor["Target Company Employee Count at Start Date"] = hist.get(
+                (vendor["Target Company Vieu ID"], start_year), ""
+            )
         if current_equals:
             vendor["Current Company Vieu ID"] = vendor["Target Company Vieu ID"]
             vendor["Current Company Website"] = vendor["Target Company Website"]
@@ -443,23 +461,47 @@ def run_batch(
             vendor["Current Company Empl Count"] = vendor["Target Company Employee Count"]
             vendor["Current Company HQ"] = target.get("company_hq") or ""
         elif current_rec:
-            vendor["Current Company Vieu ID"] = company_vieu.get(current_url or "", "")
+            vendor["Current Company Vieu ID"] = graph_current.get("id") or ""
             vendor["Current Company Website"] = current_rec.get("company_website") or ""
             vendor["Current Company Linkedin URL"] = current_url or ""
             vendor["Current Company Title"] = current.title
             vendor["Current Company Empl Count"] = current_rec.get("company_headcount") or ""
             vendor["Current Company HQ"] = current_rec.get("company_hq") or ""
         elif current.title or current_url:
-            vendor["Current Company Vieu ID"] = company_vieu.get(current_url or "", "")
+            vendor["Current Company Vieu ID"] = graph_current.get("id") or ""
             vendor["Current Company Linkedin URL"] = current_url
             vendor["Current Company Title"] = current.title
         vendor["Email required"] = flag(row["email_required"])
         vendor["Phone required"] = flag(row["phone_required"])
         vendor_rows.append(vendor)
 
+        if not vendor["Stakeholder Vieu ID"]:
+            ingest_rows.append(
+                {
+                    "source_row": row["source_row"],
+                    "UID": uid,
+                    "Stakeholder Name": row["name"],
+                    "Profile Linkedin": row["person_url"],
+                    "Location": vendor["Location"],
+                    "Country": vendor["Country"],
+                    "Target Company Name": row["company_name"],
+                    "Target Company Linkedin": row["company_url"],
+                    "reason": (
+                        "graph lookup skipped; POSTGRES_* not set"
+                        if not graph_configured()
+                        else "stakeholder not in graph person table"
+                    ),
+                }
+            )
+
         notes = []
         if not data:
             notes.append("person fetch failed; names taken from input")
+        notes.append("names from associate input")
+        if graph_person.get("loc") or graph_person.get("country"):
+            notes.append("location/country from graph")
+        elif data:
+            notes.append("location/country from RapidAPI")
         if not target_match.matched:
             notes.append("target company not found in experience")
         if str(target.get("status") or "").startswith("error"):
@@ -513,13 +555,16 @@ def run_batch(
     vendor_path = out_dir / f"{uid}_vendor.csv"
     reject_path = out_dir / f"{uid}_rejects.csv"
     qa_path = out_dir / f"{uid}_qa.csv"
+    ingest_path = out_dir / f"{uid}_not_in_graph.csv"
     write_csv(vendor_path, VENDOR_COLUMNS, vendor_rows)
     write_csv(reject_path, REJECT_COLUMNS, reject_rows)
     write_csv(qa_path, QA_COLUMNS + VENDOR_COLUMNS, qa_rows)
+    write_csv(ingest_path, INGEST_COLUMNS, ingest_rows)
     return {
         "uid": uid,
         "ok_rows": len(vendor_rows),
         "rejected_rows": len(reject_rows),
+        "not_in_graph_rows": len(ingest_rows),
         "person_vieu_ids": sum(1 for r in vendor_rows if r.get("Stakeholder Vieu ID")),
         "target_company_vieu_ids": sum(
             1 for r in vendor_rows if r.get("Target Company Vieu ID")
@@ -527,7 +572,11 @@ def run_batch(
         "current_company_vieu_ids": sum(
             1 for r in vendor_rows if r.get("Current Company Vieu ID")
         ),
+        "historical_headcounts": sum(
+            1 for r in vendor_rows if r.get("Target Company Employee Count at Start Date")
+        ),
         "vendor_path": str(vendor_path),
         "rejects_path": str(reject_path),
         "qa_path": str(qa_path),
+        "not_in_graph_path": str(ingest_path),
     }

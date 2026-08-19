@@ -1005,10 +1005,10 @@ VENDOR_FILE_TEMPLATE = (
   <h2>Vendor email file (graph)</h2>
   <p class="small">Same stakeholder CSV and 27 vendor columns as RapidAPI, filled only from Seeqe Postgres. Person, experience, company, email_domains, and historical employee count come from the graph. No RapidAPI calls. Email required; results are emailed when done. Shares the RapidAPI job lock so the two vendor workflows cannot run at the same time.</p>
   <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
-  <p class="small">UID prefix is <code>VNG-</code>. Last Profile Refresh Date is <code>MAX(experience.updated_at)</code>. Company website is the first clean domain in <code>company.email_domains</code> (not <code>website_url</code>). Historical headcount is the graph year matching the target start year (19xx/20xx only). If they have left the target, board/advisor present roles are skipped when another present employer exists; if board/advisor is the only current role, it is kept.</p>
+  <p class="small">UID prefix is <code>VNG-</code>. Last Profile Refresh Date is <code>MAX(experience.updated_at)</code>. Company website is the first clean domain in <code>company.email_domains</code> (not <code>website_url</code>). Historical headcount is the graph year matching the target start year (19xx/20xx only). If they have a present (non-board) role at the target, current company is the target only. If they have left, board/advisor present roles are skipped when another present employer exists; if board/advisor is the only current role, it is kept.</p>
   {% else %}
   <h2>Vendor email file</h2>
-  <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. RapidAPI fills names, titles, and company fields from the <strong>target</strong> company (not assumed current employer). The Seeqe graph fills <strong>Stakeholder / Target / Current Company Vieu IDs</strong> when the LinkedIn URL is already in the graph. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
+  <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. RapidAPI fills titles, websites, current company, and current headcount from the <strong>target</strong> company (not assumed current employer). First / middle / last names are inferred from the associate CSV only. Location and country prefer the graph, then RapidAPI. Historical headcount at start date comes from the graph. People not in graph keep a blank Vieu ID and are listed in <code>{UID}_not_in_graph.csv</code> for ingest. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
   <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
   <p class="small">Sales Nav <strong>lead</strong> URLs cannot be converted. Use <code>/in/{slug}</code> for people and <code>/company/{slug}</code> for companies. Historical headcount at start date is left blank. Vieu IDs that are not in the graph stay blank.</p>
   {% endif %}
@@ -1048,7 +1048,7 @@ VENDOR_FILE_TEMPLATE = (
         </tr>
       </tbody>
     </table>
-    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), plus <code>{UID}_rejects.csv</code> and <code>{UID}_qa.csv</code> when they have rows. One UID per upload, same value on every vendor row.</p>
+    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), plus <code>{UID}_rejects.csv</code> and <code>{UID}_qa.csv</code> when they have rows.{% if not graph_mode %} People missing from graph are listed in <code>{UID}_not_in_graph.csv</code> for ingest.{% endif %} One UID per upload, same value on every vendor row.</p>
   </div>
 
   <p class="small"><strong>Example CSV:</strong></p>

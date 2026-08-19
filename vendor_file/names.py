@@ -87,3 +87,10 @@ def names_from_profile(
         parsed_middle,
         last or parsed_last,
     )
+
+
+def names_from_associate(raw: str) -> Tuple[str, str, str, str]:
+    """Full name as the associate typed it; first/middle/last inferred from that only."""
+    full = (raw or "").strip()
+    first, middle, last = split_name(full)
+    return full, first, middle, last
