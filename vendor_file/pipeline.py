@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
 from rapidapi_linkedin_company import fetch_linkedin_company
-from rapidapi_person_deep import collect_rapidapi_keys, fetch_person_deep
+from rapidapi_person_deep import collect_rapidapi_keys, fetch_person_deep_with_fallback
 from vendor_file.experience import (
     country_from_person,
     current_from_positions,
@@ -68,6 +68,19 @@ def parse_bool(raw: str, default: bool) -> bool:
 
 def flag(value: bool) -> str:
     return "TRUE" if value else "FALSE"
+
+
+EMPTY_ALIASES = {"", "n/a", "na", "null", "none", "nan", "nat", "-"}
+
+
+def clean_cell(value: Any) -> str:
+    """Blank empty/sentinel values; keep Unicode otherwise."""
+    if value is None:
+        return ""
+    text = str(value).strip()
+    if text.lower() in EMPTY_ALIASES:
+        return ""
+    return text
 
 
 CONTACT_NEED_CHOICES = {
@@ -134,7 +147,7 @@ def write_csv(path: Path, headers: List[str], rows: List[Dict[str, Any]]) -> Non
         writer = csv.DictWriter(handle, fieldnames=headers, extrasaction="ignore")
         writer.writeheader()
         for row in rows:
-            writer.writerow({h: row.get(h, "") if row.get(h) is not None else "" for h in headers})
+            writer.writerow({h: clean_cell(row.get(h, "")) for h in headers})
 
 
 def empty_vendor_row(uid: str) -> Dict[str, str]:
@@ -231,7 +244,7 @@ def _company_record(url: str, api_key: str) -> Dict[str, str]:
 
 
 def _person_record(url: str, api_key: str) -> Tuple[Optional[Dict[str, Any]], str]:
-    result = fetch_person_deep(url, api_key)
+    result = fetch_person_deep_with_fallback(url, api_key)
     if not result.get("success"):
         return None, str(result.get("error") or "lookup_failed")
     data = _unwrap_person(result)

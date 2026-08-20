@@ -115,6 +115,29 @@ class VendorPipelineHelpersTests(unittest.TestCase):
         self.assertEqual(last, "Ortega")
         full2, first2, middle2, last2 = names_from_associate("Jane Doe")
         self.assertEqual((full2, first2, middle2, last2), ("Jane Doe", "Jane", "", "Doe"))
+        unicode_full, ufirst, umiddle, ulast = names_from_associate("José García")
+        self.assertEqual(unicode_full, "José García")
+        self.assertEqual(ufirst, "José")
+        self.assertEqual(ulast, "García")
+
+    def test_write_csv_encoding_and_blanks(self) -> None:
+        import tempfile
+        from pathlib import Path
+
+        from vendor_file.pipeline import clean_cell, write_csv
+
+        self.assertEqual(clean_cell(None), "")
+        self.assertEqual(clean_cell("null"), "")
+        self.assertEqual(clean_cell("N/A"), "")
+        self.assertEqual(clean_cell("José"), "José")
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "out.csv"
+            write_csv(path, ["Name", "Date"], [{"Name": "José", "Date": "2024-10-01"}])
+            raw = path.read_bytes()
+            self.assertTrue(raw.startswith(b"\xef\xbb\xbf"))
+            text = raw.decode("utf-8-sig")
+            self.assertIn("José", text)
+            self.assertIn("2024-10-01", text)
 
 
 class VendorGraphCurrentRoleTests(unittest.TestCase):

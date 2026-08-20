@@ -315,7 +315,6 @@ def _worker(
             extras = (
                 "- *_vendor.csv — send this file to the vendor\n"
                 "- *_rejects.csv — rows with unfixable LinkedIn URLs (if any)\n"
-                "- *_qa.csv — match / fetch notes\n"
             )
             if job_type == "vendor_file":
                 extras += "- *_not_in_graph.csv — people missing from graph (ingest these)\n"
@@ -336,7 +335,6 @@ def _worker(
             uid = Path(path_str).name.replace("_vendor.csv", "")
             for extra_name in (
                 f"{uid}_rejects.csv",
-                f"{uid}_qa.csv",
                 f"{uid}_not_in_graph.csv",
             ):
                 extra = Path(path_str).with_name(extra_name)

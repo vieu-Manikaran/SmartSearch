@@ -48,7 +48,6 @@ from linkedin_jobs import (
     start_company_job,
     start_person_job,
     start_urn_resolve_job,
-    start_vendor_file_graph_job,
     start_vendor_file_job,
     try_acquire_email_worker,
     try_acquire_rapidapi_worker,
@@ -63,8 +62,6 @@ from rapidapi_linkedin_company import (
 )
 from rapidapi_person_deep import normalize_linkedin_profile_url, resolve_vanity_url
 from person_linkedin_finder import find_person_linkedin
-from vendor_file.graph import graph_configured
-from vendor_file.graph_pipeline import new_graph_request_id
 from vendor_file.pipeline import contact_need_flags, new_request_id, parse_input_csv
 
 app = Flask(__name__)
@@ -158,8 +155,7 @@ HTML_TEMPLATE = """
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
     <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; work email via Molster, with FullEnrich fallback.<br>
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &mdash; CSV with company name + LinkedIn URL &rarr; employee count and numeric LinkedIn ID via RapidAPI.<br>
-    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &mdash; CSV of stakeholders + your email &rarr; vendor-ready email/phone request file via RapidAPI, emailed when done.<br>
-    <a href="{{ url_for('vendor_file_graph_finder') }}">Vendor email file (graph)</a> &mdash; same CSV and 27 columns, filled only from Seeqe Postgres (no RapidAPI).
+    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &mdash; CSV of stakeholders + your email &rarr; vendor-ready email/phone request file via RapidAPI, emailed when done.
   </p>
   <p class="small">Choose a pair and search type, then run query combinations. Each query writes one CSV file with the same columns as the table (one row per organic hit, or one &ldquo;no results&rdquo; row if Serper returned none).</p>
 
@@ -951,7 +947,7 @@ VENDOR_FILE_TEMPLATE = (
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{% if graph_mode %}Vendor email file (graph){% else %}Vendor email file{% endif %}</title>
+  <title>Vendor email file</title>
   <style>"""
     + LINKEDIN_FINDER_STYLES
     + """
@@ -993,25 +989,11 @@ VENDOR_FILE_TEMPLATE = (
     <a href="{{ url_for('email_finder') }}">Email finder</a>
     &nbsp;|&nbsp;
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
-    {% if graph_mode %}
-    &nbsp;|&nbsp;
-    <a href="{{ url_for('vendor_file_finder') }}">Vendor email file (RapidAPI)</a>
-    {% else %}
-    &nbsp;|&nbsp;
-    <a href="{{ url_for('vendor_file_graph_finder') }}">Vendor email file (graph)</a>
-    {% endif %}
   </p>
-  {% if graph_mode %}
-  <h2>Vendor email file (graph)</h2>
-  <p class="small">Same stakeholder CSV and 27 vendor columns as RapidAPI, filled only from Seeqe Postgres. Person, experience, company, email_domains, and historical employee count come from the graph. No RapidAPI calls. Email required; results are emailed when done. Shares the RapidAPI job lock so the two vendor workflows cannot run at the same time.</p>
-  <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
-  <p class="small">UID prefix is <code>VNG-</code>. Last Profile Refresh Date is <code>MAX(experience.updated_at)</code>. Company website is the first clean domain in <code>company.email_domains</code> (not <code>website_url</code>). Historical headcount is the graph year matching the target start year (19xx/20xx only). If they have a present (non-board) role at the target, current company is the target only. If they have left, board/advisor present roles are skipped when another present employer exists; if board/advisor is the only current role, it is kept.</p>
-  {% else %}
   <h2>Vendor email file</h2>
   <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. RapidAPI fills titles, websites, current company, and current headcount from the <strong>target</strong> company (not assumed current employer). First / middle / last names are inferred from the associate CSV only. Location and country prefer the graph, then RapidAPI. Historical headcount at start date comes from the graph. People not in graph keep a blank Vieu ID and are listed in <code>{UID}_not_in_graph.csv</code> for ingest. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
   <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
   <p class="small">Sales Nav <strong>lead</strong> URLs cannot be converted. Use <code>/in/{slug}</code> for people and <code>/company/{slug}</code> for companies. Historical headcount at start date is left blank. Vieu IDs that are not in the graph stay blank.</p>
-  {% endif %}
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
@@ -1048,7 +1030,7 @@ VENDOR_FILE_TEMPLATE = (
         </tr>
       </tbody>
     </table>
-    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), plus <code>{UID}_rejects.csv</code> and <code>{UID}_qa.csv</code> when they have rows.{% if not graph_mode %} People missing from graph are listed in <code>{UID}_not_in_graph.csv</code> for ingest.{% endif %} One UID per upload, same value on every vendor row.</p>
+    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), plus <code>{UID}_rejects.csv</code> when it has rows. People missing from graph are listed in <code>{UID}_not_in_graph.csv</code> for ingest. One UID per upload, same value on every vendor row.</p>
   </div>
 
   <p class="small"><strong>Example CSV:</strong></p>
@@ -1061,7 +1043,7 @@ José García,https://www.linkedin.com/in/jose-garcia/,Walmart,https://www.linke
   {% if message %}
   <div class="msg {% if message_warn %}warn{% endif %}">{{ message }}</div>
   {% endif %}
-  <form method="post" enctype="multipart/form-data" action="{% if graph_mode %}{{ url_for('vendor_file_graph_finder') }}{% else %}{{ url_for('vendor_file_finder') }}{% endif %}">
+  <form method="post" enctype="multipart/form-data" action="{{ url_for('vendor_file_finder') }}">
     <fieldset {% if prog.server_busy %}disabled{% endif %}>
     <label for="email">Your email (required)</label>
     <input type="email" name="email" id="email" placeholder="you@company.com" required>
@@ -1122,8 +1104,7 @@ THANK_YOU_TEMPLATE = """
      <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &nbsp;|&nbsp;
      <a href="{{ url_for('email_finder') }}">Email finder</a> &nbsp;|&nbsp;
      <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &nbsp;|&nbsp;
-     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &nbsp;|&nbsp;
-     <a href="{{ url_for('vendor_file_graph_finder') }}">Vendor email file (graph)</a></p>
+     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a></p>
 </body>
 </html>
 """
@@ -2773,7 +2754,6 @@ def vendor_file_finder():
     ctx = _finder_page_context("rapidapi")
     need = (request.form.get("contact_need") or "both").strip().lower()
     ctx["contact_need"] = need if need in {"email", "phone", "both"} else "both"
-    ctx["graph_mode"] = False
 
     if request.method == "POST":
         if is_rapidapi_job_running():
@@ -2803,45 +2783,6 @@ def vendor_file_finder():
             return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
 
         return redirect(url_for("linkedin_finder_thanks", email=email, type="vendor_file"))
-
-    return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
-
-
-@app.route("/vendor-file-graph", methods=["GET", "POST"])
-def vendor_file_graph_finder():
-    ctx = _finder_page_context("rapidapi")
-    need = (request.form.get("contact_need") or "both").strip().lower()
-    ctx["contact_need"] = need if need in {"email", "phone", "both"} else "both"
-    ctx["graph_mode"] = True
-
-    if request.method == "POST":
-        if is_rapidapi_job_running():
-            ctx["message"] = "A RapidAPI / vendor job is already running. See progress on this page."
-            ctx["message_warn"] = True
-            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
-
-        rows, email, err = _parse_vendor_file_submission()
-        if err:
-            ctx["message"] = err
-            ctx["message_warn"] = True
-            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
-        if not graph_configured():
-            ctx["message"] = "Missing POSTGRES_* in environment (graph is not configured)."
-            ctx["message_warn"] = True
-            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
-        if not smtp_configured():
-            ctx["message"] = "Email is not configured on the server (SMTP settings)."
-            ctx["message_warn"] = True
-            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
-
-        uid = new_graph_request_id()
-        started, start_err = start_vendor_file_graph_job(rows, email, uid)
-        if not started:
-            ctx["message"] = start_err or "Could not start job."
-            ctx["message_warn"] = True
-            return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
-
-        return redirect(url_for("linkedin_finder_thanks", email=email, type="vendor_file_graph"))
 
     return render_template_string(VENDOR_FILE_TEMPLATE, **ctx)
 

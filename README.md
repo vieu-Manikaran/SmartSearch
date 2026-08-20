@@ -31,7 +31,7 @@ Local + Render-ready dashboard to run pair-based Serper searches and download pe
 
 ## Vendor email file
 
-Associates upload a stakeholder CSV at `/vendor-file` (RapidAPI) or `/vendor-file-graph` (Seeqe Postgres only). Both emit the same 27-column `{UID}_vendor.csv` (plus rejects/QA sidecars) over Gmail SMTP.
+Associates upload a stakeholder CSV at `/vendor-file` (RapidAPI) or `/vendor-file-graph` (Seeqe Postgres only). Both emit the same 27-column `{UID}_vendor.csv`. Email attaches the vendor file, rejects when present, and (RapidAPI) `{UID}_not_in_graph.csv`. QA is written to disk but not emailed.
 
 - RapidAPI (`/vendor-file`, UID `VEN-…`): RapidAPI fills titles, websites, current company, and current headcount. Names are split from the associate CSV only. Location/country prefer graph `person.loc` / `loc_country_code`, then RapidAPI. Vieu IDs and historical headcount (`company_history_employee_ct`) come from Postgres. People not in graph stay without a Vieu ID and are listed in `{UID}_not_in_graph.csv` for ingest.
 - Graph (`/vendor-file-graph`, UID `VNG-…`): all columns from Postgres (`POSTGRES_HOST`, `POSTGRES_DB`, `POSTGRES_USER`, `POSTGRES_PASSWORD`). Website comes from `company.email_domains`. Last Profile Refresh Date is `MAX(experience.updated_at)`. Historical headcount is `company_history_employee_ct` for the target start year (19xx/20xx only). If they have a present (non-board) role at the target, current company is the target only. If they have left the target, board/advisor present roles are skipped when another present employer exists; if board/advisor is the only current role, it is kept.
