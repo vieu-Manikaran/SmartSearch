@@ -19,6 +19,8 @@ logger = logging.getLogger(__name__)
 RAPIDAPI_HOST = "linkedin-data-scraper.p.rapidapi.com"
 MAX_RETRIES = 6
 RETRY_BACKOFF_SEC = 3.0
+PROVIDER_BUSY_ATTEMPTS = 2
+PROVIDER_BUSY_BACKOFF_SEC = 1.5
 LINKEDIN_IN_RE = re.compile(r"linkedin\.com/in/([^/?#]+)", re.I)
 MEMBER_URN_SLUG_RE = re.compile(r"^AC[ow]A[A-Za-z0-9_-]+$", re.I)
 _AUTH_ERROR_MARKERS = (
@@ -27,11 +29,17 @@ _AUTH_ERROR_MARKERS = (
     "you are not subscribed",
     "unauthorized",
     "forbidden",
-    "exceeded the rate limit",
 )
+_PROVIDER_BUSY_MARKERS = ("no free account spotted",)
+_KEY_DEAD_ERRORS = {"unauthorized", "quota_exceeded"}
+_TRANSPORT_FAIL_ERRORS = {"network_error", "max_retries_exceeded"}
+_CIRCUIT_TRANSPORT_THRESHOLD = 2
 
 _key_locks_guard = threading.Lock()
 _key_locks: dict[str, threading.Lock] = {}
+_key_health_lock = threading.Lock()
+_disabled_keys: set[str] = set()
+_key_fail_counts: dict[str, int] = {}
 
 
 class PersonDeepError(Exception):
@@ -49,10 +57,65 @@ def collect_rapidapi_keys() -> list[str]:
     return out
 
 
-def _keys_to_try(preferred: str | None = None) -> list[str]:
+def reset_rapidapi_key_health() -> None:
+    """Test helper: re-enable every RapidAPI key in this process."""
+    with _key_health_lock:
+        _disabled_keys.clear()
+        _key_fail_counts.clear()
+
+
+def is_rapidapi_key_disabled(api_key: str) -> bool:
+    key = (api_key or "").strip()
+    if not key:
+        return False
+    with _key_health_lock:
+        return key in _disabled_keys
+
+
+def disable_rapidapi_key(api_key: str, reason: str) -> None:
+    key = (api_key or "").strip()
+    if not key:
+        return
+    with _key_health_lock:
+        if key in _disabled_keys:
+            return
+        _disabled_keys.add(key)
+    logger.warning("Disabling RapidAPI key after %s; remaining keys will be used alone", reason)
+
+
+def healthy_rapidapi_keys() -> list[str]:
     keys = collect_rapidapi_keys()
+    with _key_health_lock:
+        live = [key for key in keys if key not in _disabled_keys]
+    return live
+
+
+def _record_key_outcome(api_key: str, error: str | None) -> None:
+    key = (api_key or "").strip()
+    if not key:
+        return
+    if not error:
+        with _key_health_lock:
+            _key_fail_counts[key] = 0
+        return
+    if error in _KEY_DEAD_ERRORS:
+        disable_rapidapi_key(key, error)
+        return
+    if error not in _TRANSPORT_FAIL_ERRORS:
+        return
+    with _key_health_lock:
+        _key_fail_counts[key] = _key_fail_counts.get(key, 0) + 1
+        count = _key_fail_counts[key]
+    if count >= _CIRCUIT_TRANSPORT_THRESHOLD:
+        disable_rapidapi_key(key, f"{error} x{count}")
+
+
+def _keys_to_try(preferred: str | None = None) -> list[str]:
+    keys = healthy_rapidapi_keys()
+    if not keys:
+        keys = collect_rapidapi_keys()
     preferred_key = (preferred or "").strip()
-    if preferred_key:
+    if preferred_key and preferred_key in keys:
         rest = [key for key in keys if key != preferred_key]
         return [preferred_key, *rest]
     return keys
@@ -117,18 +180,26 @@ def _slug_from_profile_value(value: str) -> str:
     return unquote(text).strip().strip("/")
 
 
-def _is_rapidapi_auth_error(resp: requests.Response) -> bool:
-    text = ""
+def _response_message(resp: requests.Response) -> str:
     try:
         payload = resp.json()
     except ValueError:
-        text = (resp.text or "").lower()
-    else:
-        if isinstance(payload, dict):
-            text = str(payload.get("message") or payload.get("error") or "").lower()
-        else:
-            text = str(payload).lower()
-    return any(marker in text for marker in _AUTH_ERROR_MARKERS)
+        return (resp.text or "").lower()
+    if isinstance(payload, dict):
+        return str(payload.get("message") or payload.get("error") or "").lower()
+    return str(payload).lower()
+
+
+def _message_has_marker(text: str, markers: tuple[str, ...]) -> bool:
+    return any(marker in text for marker in markers)
+
+
+def _is_rapidapi_auth_error(resp: requests.Response) -> bool:
+    return _message_has_marker(_response_message(resp), _AUTH_ERROR_MARKERS)
+
+
+def _is_provider_busy(resp: requests.Response) -> bool:
+    return _message_has_marker(_response_message(resp), _PROVIDER_BUSY_MARKERS)
 
 
 def _unwrap_person_data(raw: Any) -> dict[str, Any] | None:
@@ -226,11 +297,19 @@ def fetch_person_deep(link: str, api_key: str) -> dict[str, Any]:
         if resp.status_code == 404:
             return {"success": False, "error": "profile_not_found"}
 
-        if resp.status_code == 403:
-            if _is_rapidapi_auth_error(resp):
+        if resp.status_code in {401, 403}:
+            if resp.status_code == 401 or _is_rapidapi_auth_error(resp):
                 return {"success": False, "error": "unauthorized"}
             # Scraper sessions often 403 inaccessible profiles; caller should try the other key.
             return {"success": False, "error": "http_403"}
+
+        if resp.status_code == 500 and _is_provider_busy(resp):
+            last_error = "provider_busy"
+            logger.warning("person_deep provider busy (attempt %s)", attempt)
+            if attempt < PROVIDER_BUSY_ATTEMPTS:
+                time.sleep(PROVIDER_BUSY_BACKOFF_SEC * attempt)
+                continue
+            return {"success": False, "error": "provider_busy"}
 
         if _retryable_status(resp.status_code):
             last_error = f"http_{resp.status_code}"
@@ -272,6 +351,8 @@ def fetch_person_deep_with_fallback(
     last: dict[str, Any] = {"success": False, "error": "missing_rapidapi_key"}
     for key in _keys_to_try(preferred_key):
         last = fetch_person_deep(link, key)
+        error = None if last.get("success") else str(last.get("error") or "unknown")
+        _record_key_outcome(key, error)
         if last.get("success"):
             return last
         logger.info(
@@ -301,8 +382,8 @@ def resolve_vanity_url(link: str, api_key: str | None = None) -> dict[str, str]:
     """
     Resolve one LinkedIn profile link to a vanity URL.
 
-    Tries every configured RapidAPI key. A dead/rate-limited second key used to
-    leave every other CSV row unresolved.
+    Tries every healthy RapidAPI key. A dead/unsubscribed key is disabled after
+    the first auth failure so later rows are not slowed down by retries.
 
     Returns keys: linkedin_url_input, linkedin_url_resolved, public_identifier, status.
     """
@@ -317,7 +398,9 @@ def resolve_vanity_url(link: str, api_key: str | None = None) -> dict[str, str]:
         result = fetch_person_deep(normalized, key)
         if not result.get("success"):
             last_status = str(result.get("error") or "resolve_failed")
+            _record_key_outcome(key, last_status)
             continue
+        _record_key_outcome(key, None)
 
         data = result["data"] if isinstance(result.get("data"), dict) else {}
         public_id = vanity_identifier_from_person_data(data)
@@ -347,7 +430,7 @@ def resolve_profiles_batch(
     progress: Callable[[int, int, str], None] | None = None,
 ) -> list[dict[str, Any]]:
     """Resolve many profile rows concurrently (one RapidAPI key per worker, with fallback)."""
-    keys = collect_rapidapi_keys()
+    keys = healthy_rapidapi_keys() or collect_rapidapi_keys()
     if not keys:
         out: list[dict[str, Any]] = []
         for row in rows:
@@ -370,7 +453,8 @@ def resolve_profiles_batch(
     def _resolve_index(idx: int) -> tuple[int, dict[str, Any]]:
         row = rows[idx]
         link = str(row.get("linkedin_url") or "")
-        key = keys[idx % len(keys)]
+        live = healthy_rapidapi_keys() or keys
+        key = live[idx % len(live)]
         resolved = resolve_vanity_url(link, api_key=key)
         merged = dict(row)
         merged.update(
