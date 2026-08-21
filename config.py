@@ -46,6 +46,10 @@ class Settings(BaseSettings):
     smtp_password: Optional[str] = None
     smtp_from: Optional[str] = None
 
+    # Slack (Stakeholder Movement bot — vendor file posts)
+    slack_bot_token: Optional[str] = None
+    slack_channel_id: Optional[str] = None
+
     # RapidAPI (LinkedIn person_deep – existing stakeholders job-change detection)
     rapidapi_key: Optional[str] = None
     rapidapi_key2: Optional[str] = None

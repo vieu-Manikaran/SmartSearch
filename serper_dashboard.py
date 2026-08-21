@@ -1030,7 +1030,7 @@ VENDOR_FILE_TEMPLATE = (
         </tr>
       </tbody>
     </table>
-    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), plus <code>{UID}_rejects.csv</code> when it has rows. People missing from graph are listed in <code>{UID}_not_in_graph.csv</code> for ingest. One UID per upload, same value on every vendor row.</p>
+    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), plus <code>{UID}_rejects.csv</code> when it has rows. People missing from graph are listed in <code>{UID}_not_in_graph.csv</code> for ingest. The vendor CSV is also posted to Slack. One UID per upload, same value on every vendor row.</p>
   </div>
 
   <p class="small"><strong>Example CSV:</strong></p>

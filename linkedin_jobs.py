@@ -11,6 +11,7 @@ from typing import Any, Callable
 
 from mailer import send_results_email
 from config import settings
+from vendor_file.slack import post_vendor_file
 from rapidapi_linkedin_company import enrich_companies_batch
 from rapidapi_person_deep import resolve_profiles_batch, resolve_vanity_url
 from person_linkedin_finder import find_person_linkedin
@@ -347,6 +348,10 @@ def _worker(
             attachment_path=path,
             extra_paths=extra_paths,
         )
+        if job_type in {"vendor_file", "vendor_file_graph"}:
+            slack_ok, slack_err = post_vendor_file(path, email=email, summary=summary)
+            if not slack_ok:
+                logger.error("%s Slack upload failed: %s", job_name, slack_err)
         with _state_lock:
             job = _job_for_type(job_type)
             job["last_summary"] = summary
