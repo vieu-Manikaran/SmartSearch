@@ -74,7 +74,7 @@ class Settings(BaseSettings):
 
     # Seeqe person/email integration callback (FullEnrich → Seeqe DB)
     vieu_api_key: Optional[str] = None
-    seeqe_requester_id: str = "clay.caravan-tech"
+    seeqe_requester_id: Optional[str] = None  # omit x-requester-id unless set
     jobs_api_base_url: str = "https://api-dev.cloud.seeqe.dev"
 
     class Config:

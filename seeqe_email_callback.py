@@ -28,11 +28,15 @@ def _headers() -> dict[str, str] | None:
     api_key = (settings.vieu_api_key or "").strip()
     if not api_key:
         return None
-    return {
+    # Granite returns ACCESS_DENIED if x-requester-id is present; send it only when set.
+    headers = {
         "x-api-key": api_key,
         "Content-Type": "application/json",
-        "x-requester-id": (settings.seeqe_requester_id or "clay.caravan-tech").strip(),
     }
+    requester = (settings.seeqe_requester_id or "").strip()
+    if requester:
+        headers["x-requester-id"] = requester
+    return headers
 
 
 def _is_transient_http(status_code: int) -> bool:
