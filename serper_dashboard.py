@@ -62,6 +62,7 @@ from rapidapi_linkedin_company import (
 )
 from rapidapi_person_deep import normalize_linkedin_profile_url, resolve_vanity_url
 from person_linkedin_finder import find_person_linkedin
+from serper_search import find_linkedin_company_url, search_serper
 from vendor_file.pipeline import contact_need_flags, new_request_id, parse_input_csv
 
 app = Flask(__name__)
