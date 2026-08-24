@@ -1,4 +1,5 @@
 """Configuration for LinkedIn Tenure Weekly (Phantom Buster + tenure filter)."""
+import os
 from pathlib import Path
 from typing import Optional
 from pydantic_settings import BaseSettings
@@ -73,8 +74,9 @@ class Settings(BaseSettings):
     postgres_port: Optional[str] = None
 
     # Seeqe person/email integration callback (FullEnrich → Seeqe DB)
-    vieu_api_key: Optional[str] = None
-    seeqe_requester_id: Optional[str] = None  # omit x-requester-id unless set
+    vieu_api_key: Optional[str] = None  # jobs API only (0f4k_…) — not granite
+    seeqe_granite_api_key: Optional[str] = None  # Clay granite token for email writes
+    seeqe_requester_id: Optional[str] = "clay.caravan-tech"
     jobs_api_base_url: str = "https://api-dev.cloud.seeqe.dev"
 
     class Config:
@@ -83,4 +85,28 @@ class Settings(BaseSettings):
         case_sensitive = False
 
 
+def _env_lookup(*names: str) -> str:
+    wanted = {n.lower() for n in names}
+    for path in _env_files():
+        p = Path(path)
+        if not p.exists():
+            continue
+        for line in p.read_text().splitlines():
+            s = line.strip()
+            if not s or s.startswith("#") or "=" not in s:
+                continue
+            key, val = s.split("=", 1)
+            if key.strip().lower() in wanted:
+                return val.strip().strip('"').strip("'")
+    for name in names:
+        raw = (os.environ.get(name) or "").strip()
+        if raw:
+            return raw
+    return ""
+
+
 settings = Settings()
+if not (settings.seeqe_granite_api_key or "").strip():
+    settings.seeqe_granite_api_key = _env_lookup(
+        "SEEQE_GRANITE_API_KEY", "x-api-key", "X-API-KEY"
+    ) or None

@@ -44,19 +44,21 @@ def _callback_url() -> str:
     return f"{base}{CALLBACK_PATH}"
 
 
+def _granite_api_key() -> str:
+    return (settings.seeqe_granite_api_key or "").strip()
+
+
 def _headers() -> dict[str, str] | None:
-    api_key = (settings.vieu_api_key or "").strip()
+    # Granite requires the Clay token, not VIEU_API_KEY (jobs 0f4k_ key).
+    api_key = _granite_api_key()
     if not api_key:
         return None
-    # Granite returns ACCESS_DENIED if x-requester-id is present; send it only when set.
-    headers = {
+    requester = (settings.seeqe_requester_id or "clay.caravan-tech").strip()
+    return {
         "x-api-key": api_key,
         "Content-Type": "application/json",
+        "x-requester-id": requester or "clay.caravan-tech",
     }
-    requester = (settings.seeqe_requester_id or "").strip()
-    if requester:
-        headers["x-requester-id"] = requester
-    return headers
 
 
 def _is_transient_http(status_code: int) -> bool:
@@ -140,7 +142,7 @@ def post_email_to_seeqe(row: dict[str, Any]) -> bool:
 
     headers = _headers()
     if not headers:
-        logger.warning("Seeqe callback skipped: missing VIEU_API_KEY")
+        logger.warning("Seeqe callback skipped: missing SEEQE_GRANITE_API_KEY / x-api-key")
         return False
 
     url = _callback_url()
