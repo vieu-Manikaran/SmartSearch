@@ -3,9 +3,11 @@
 from __future__ import annotations
 
 import logging
+import re
 import time
 from datetime import datetime, timezone
 from typing import Any
+from urllib.parse import urlparse
 
 import requests
 
@@ -17,6 +19,24 @@ CALLBACK_PATH = "/api/v1/person/email/integration/granite/callback"
 MAX_ATTEMPTS = 3
 RETRY_BACKOFF_SEC = 2
 REQUEST_TIMEOUT_SEC = 30
+
+# Clay historically sent FullEnrich row status, not Molster letter grades.
+_CONFIDENCE_BY_STATUS = {
+    "a": "Success",
+    "b": "Success",
+    "success": "Success",
+    "deliverable": "Success",
+    "valid": "Success",
+    "valid & safe to send email": "Success",
+    "c": "Partial success",
+    "partial success": "Partial success",
+    "probably valid email": "Partial success",
+    "catch-all": "Partial success",
+    "catch all": "Partial success",
+    "risky": "Partial success",
+    "d": "Partial success",
+    "f": "Partial success",
+}
 
 
 def _callback_url() -> str:
@@ -43,25 +63,68 @@ def _is_transient_http(status_code: int) -> bool:
     return status_code in {408, 425, 429, 500, 502, 503, 504}
 
 
+def _normalize_linkedin_url(url: str) -> str:
+    raw = (url or "").strip()
+    if not raw:
+        return ""
+    if "://" not in raw and "linkedin.com" in raw.lower():
+        raw = "https://" + raw.lstrip("/")
+    parsed = urlparse(raw)
+    host = (parsed.netloc or "").lower()
+    if host == "linkedin.com":
+        host = "www.linkedin.com"
+    path = re.sub(r"/+", "/", parsed.path or "").rstrip("/")
+    if "linkedin.com" not in host or not path:
+        return raw.split("?")[0].split("#")[0].rstrip("/")
+    scheme = "https"
+    return f"{scheme}://{host}{path}"
+
+
+def _iso_created_at(raw: str) -> str:
+    text = (raw or "").strip()
+    if not text:
+        return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    text = text.replace(" UTC", "").replace("Z", "+00:00")
+    if re.match(r"^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", text):
+        text = text.replace(" ", "T", 1)
+    try:
+        dt = datetime.fromisoformat(text)
+    except ValueError:
+        for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
+            try:
+                dt = datetime.strptime(text, fmt)
+                break
+            except ValueError:
+                dt = None
+        if dt is None:
+            return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def _confidence_status(raw: str) -> str:
+    key = (raw or "").strip().lower()
+    if not key:
+        return "Success"
+    return _CONFIDENCE_BY_STATUS.get(key, "Success")
+
+
 def _build_payload(row: dict[str, Any]) -> dict[str, str] | None:
     email = (row.get("work_email") or "").strip()
     if not email:
         return None
 
-    linkedin_url = (row.get("linkedin_url") or "").strip()
+    linkedin_url = _normalize_linkedin_url(row.get("linkedin_url") or "")
     if not linkedin_url:
         logger.warning("Seeqe callback skipped: work email found but linkedin_url missing")
         return None
 
-    created_at = (row.get("created_at") or "").strip()
-    if not created_at:
-        created_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-
     return {
         "linkedInUrl": linkedin_url,
         "email": email,
-        "createdAt": created_at,
-        "confidence_status": (row.get("email_status") or "").strip(),
+        "createdAt": _iso_created_at(row.get("created_at") or ""),
+        "confidence_status": _confidence_status(row.get("email_status") or ""),
         "email_type": "professional",
     }
 
@@ -111,7 +174,18 @@ def post_email_to_seeqe(row: dict[str, Any]) -> bool:
             time.sleep(RETRY_BACKOFF_SEC * attempt)
             continue
 
-        logger.error("Seeqe callback failed for %s: %s", linkedin_url, last_error)
+        email = payload.get("email") or ""
+        domain = email.split("@")[-1] if "@" in email else ""
+        logger.error(
+            "Seeqe callback failed for %s: HTTP %s %s createdAt=%s confidence_status=%s email_type=%s email_domain=%s",
+            linkedin_url,
+            resp.status_code,
+            last_error,
+            payload.get("createdAt"),
+            payload.get("confidence_status"),
+            payload.get("email_type"),
+            domain,
+        )
         return False
 
     logger.error("Seeqe callback failed for %s after %s attempts: %s", linkedin_url, MAX_ATTEMPTS, last_error)

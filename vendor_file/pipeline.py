@@ -46,8 +46,21 @@ def _norm_header(name: str) -> str:
     return " ".join((name or "").replace("_", " ").strip().lower().split())
 
 
-def _pick(row: Dict[str, str], aliases: List[str]) -> str:
-    by_norm = {_norm_header(k): (v or "").strip() for k, v in row.items()}
+def _cell_text(value: Any) -> str:
+    """Coerce a DictReader cell to text. Extra CSV columns arrive as a list."""
+    if value is None:
+        return ""
+    if isinstance(value, (list, tuple)):
+        return " ".join(part for v in value if (part := _cell_text(v)))
+    return str(value).strip()
+
+
+def _pick(row: Dict[str, Any], aliases: List[str]) -> str:
+    by_norm = {
+        _norm_header(str(k)): _cell_text(v)
+        for k, v in row.items()
+        if k is not None
+    }
     for alias in aliases:
         val = by_norm.get(_norm_header(alias), "")
         if val:
@@ -115,7 +128,7 @@ def parse_input_csv(
 
     rows: List[Dict[str, Any]] = []
     for i, row in enumerate(reader, start=2):
-        if not any((v or "").strip() for v in row.values()):
+        if not any(_cell_text(v) for v in row.values()):
             continue
         rows.append(
             {
