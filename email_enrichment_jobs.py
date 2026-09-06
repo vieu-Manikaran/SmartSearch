@@ -30,7 +30,7 @@ from email_enrichment_store import (
     write_results_csv,
 )
 from email_provider import EmailEnrichmentError, take_enrichment_step
-from fullenrich_client import FullEnrichError, sanitize_error_message
+from bouncer_client import BouncerError
 from linkedin_jobs import _email_job, _state_lock, _update_progress, _worker_lock
 from mailer import send_results_email
 from molster_client import MolsterError
@@ -40,6 +40,15 @@ logger = logging.getLogger(__name__)
 
 _queue_lock = threading.Lock()
 _worker_started = False
+
+
+def _sanitize_error_message(raw: str, *, max_len: int = 240) -> str:
+    text = (raw or "").strip()
+    if not text:
+        return ""
+    if text.lower().startswith(("<!doctype", "<html")):
+        return "Email provider temporarily unavailable. Will retry automatically."
+    return text if len(text) <= max_len else text[: max_len - 3] + "..."
 
 
 def submit_email_enrichment_job(rows: list[dict[str, Any]], recipient_email: str) -> tuple[bool, str | None, str | None]:
@@ -114,7 +123,7 @@ def get_job_public_status(job_id: str) -> dict[str, Any] | None:
     if not meta:
         return None
     checkpoint = load_checkpoint(job_id)
-    error = sanitize_error_message(meta.get("error") or "")
+    error = _sanitize_error_message(meta.get("error") or "")
     return {
         "job_id": job_id,
         "status": meta.get("status"),
@@ -178,6 +187,10 @@ def _process_job(job_id: str) -> None:
     checkpoint = load_checkpoint(job_id)
     batches_completed = int(checkpoint.get("batches_completed") or 0)
     results = load_results_state(job_id, input_rows)
+    for row in results:
+        # Older checkpoints may contain MoltSets misses awaiting FullEnrich.
+        if (row.get("status") or "") == "molster_miss":
+            row["status"] = "no_email_found"
 
     meta["status"] = STATUS_RUNNING
     if not meta.get("started_at"):
@@ -205,29 +218,12 @@ def _process_job(job_id: str) -> None:
         batches_completed,
     )
 
-    pending_enrichment_id = (checkpoint.get("pending_enrichment_id") or "").strip()
-    pending_fullenrich_indexes = [
-        int(i) for i in (checkpoint.get("pending_fullenrich_indexes") or [])
-    ]
-    if pending_enrichment_id and not pending_fullenrich_indexes:
-        start = int(checkpoint.get("pending_batch_start") or -1)
-        if start >= 0:
-            pending_fullenrich_indexes = list(range(start, min(start + 50, total)))
-
-    def _save_checkpoint(
-        *,
-        rows_processed: int,
-        pending_id: str = "",
-        pending_indexes: list[int] | None = None,
-    ) -> None:
+    def _save_checkpoint(*, rows_processed: int) -> None:
         save_checkpoint(
             job_id,
             {
                 "batches_completed": int(rows_processed // 100),
                 "rows_processed": rows_processed,
-                "pending_enrichment_id": pending_id,
-                "pending_batch_start": pending_indexes[0] if pending_indexes else -1,
-                "pending_fullenrich_indexes": pending_indexes or [],
             },
         )
 
@@ -240,40 +236,14 @@ def _process_job(job_id: str) -> None:
             def on_progress(current: int, tot: int, item: str) -> None:
                 _update_progress("email", min(current, total), total, item or "Enriching")
 
-            def on_fullenrich_started(enrichment_id: str, indexes: list[int]) -> None:
-                nonlocal pending_enrichment_id, pending_fullenrich_indexes
-                pending_enrichment_id = enrichment_id
-                pending_fullenrich_indexes = list(indexes)
-                rows_now = sum(
-                    1
-                    for row in results
-                    if (row.get("status") or "") in {"found", "no_email_found"}
-                )
-                _save_checkpoint(
-                    rows_processed=rows_now,
-                    pending_id=enrichment_id,
-                    pending_indexes=indexes,
-                )
-                logger.info(
-                    "Job %s saved pending FullEnrich %s (%s contacts)",
-                    job_id,
-                    enrichment_id,
-                    len(indexes),
-                )
-
             step = take_enrichment_step(
                 input_rows,
                 results,
                 wait_for_molster_quota=True,
-                existing_enrichment_id=pending_enrichment_id or None,
-                pending_fullenrich_indexes=pending_fullenrich_indexes,
                 on_progress=on_progress,
-                on_fullenrich_started=on_fullenrich_started,
                 expected_total=total,
             )
 
-            pending_enrichment_id = ""
-            pending_fullenrich_indexes = []
             if step.newly_finished:
                 posted, callback_failed = sync_rows_to_seeqe(step.newly_finished)
                 if posted or callback_failed:
@@ -320,14 +290,10 @@ def _process_job(job_id: str) -> None:
             )
 
         molster_ct = sum(1 for r in results if r.get("email_source") == "molster")
-        fullenrich_ct = sum(1 for r in results if r.get("email_source") == "fullenrich")
         found_ct = sum(1 for r in results if r.get("work_email"))
-        for row in results:
-            if (row.get("status") or "") == "molster_miss":
-                row["status"] = "no_email_found"
         summary = (
-            f"Processed {len(results)} contacts; {found_ct} work emails found "
-            f"({molster_ct} via Molster, {fullenrich_ct} via FullEnrich fallback)."
+            f"Processed {len(results)} contacts; {found_ct} Bouncer-deliverable "
+            f"work emails found via MoltSets ({molster_ct} retained)."
         )
         final_path = results_path(job_id)
         write_results_csv(final_path, results)
@@ -377,7 +343,7 @@ def _process_job(job_id: str) -> None:
         meta = load_meta(job_id) or meta
         retry_after_ts = float(getattr(exc, "retry_after_ts", 0) or 0)
         transient = bool(getattr(exc, "transient", False))
-        if isinstance(exc, (EmailEnrichmentError, FullEnrichError, MolsterError)):
+        if isinstance(exc, (EmailEnrichmentError, BouncerError, MolsterError)):
             transient = transient or bool(getattr(exc, "transient", False))
 
         if retry_after_ts > time.time():
@@ -402,7 +368,7 @@ def _process_job(job_id: str) -> None:
                     f"Paused after {meta.get('processed', 0)}/{total} contacts; "
                     f"retrying in ~{backoff_sec // 60 or 1} min."
                 )
-        meta["error"] = sanitize_error_message(str(exc))
+        meta["error"] = _sanitize_error_message(str(exc))
         save_meta(job_id, meta)
         save_results_state(job_id, results)
         write_results_csv(results_path(job_id), results)

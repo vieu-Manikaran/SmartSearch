@@ -49,6 +49,29 @@ class VendorGraphTests(unittest.TestCase):
         self.assertIn("https://www.linkedin.com/school/microsoft", variants)
         self.assertIn("https://linkedin.com/company/microsoft", variants)
 
+    def test_company_payload_indexes_numeric_linkedin_id(self) -> None:
+        from vendor_file.graph import _index_company_payload
+
+        best: dict = {}
+        _index_company_payload(
+            best,
+            {
+                "id": "COMP-att",
+                "company_name": "AT&T",
+                "linked_in_url": "https://www.linkedin.com/company/att",
+                "linked_in_id": 1052,
+                "linked_in_followers": 100,
+                "linked_in_employees": 1,
+                "hq_city": "Dallas",
+                "hq_country": "US",
+                "email_domain": "att.com",
+                "email_domains": ["att.com"],
+            },
+        )
+        self.assertIn("company:att", best)
+        self.assertIn("company:1052", best)
+        self.assertEqual(best["company:1052"][0]["id"], "COMP-att")
+
 
 class VendorPipelineHelpersTests(unittest.TestCase):
     def test_person_url_canonical(self) -> None:
@@ -66,6 +89,71 @@ class VendorPipelineHelpersTests(unittest.TestCase):
         self.assertEqual(
             canonicalize_company_url("https://www.linkedin.com/school/stanford-university").url,
             "https://www.linkedin.com/company/stanford-university",
+        )
+
+    def test_person_linkedin_from_rapidapi_prefers_vanity(self) -> None:
+        from vendor_file.pipeline import person_linkedin_from_rapidapi
+
+        self.assertEqual(
+            person_linkedin_from_rapidapi(
+                {
+                    "publicIdentifier": "aruna-potteti",
+                    "linkedinUrl": "https://www.linkedin.com/in/ACwAAAODBEMBITvFxluZgmkB0I5G3Ka9loi1ggo",
+                },
+                "https://www.linkedin.com/in/ACwAAAODBEMBITvFxluZgmkB0I5G3Ka9loi1ggo",
+            ),
+            "https://www.linkedin.com/in/aruna-potteti",
+        )
+        self.assertEqual(
+            person_linkedin_from_rapidapi(
+                {"publicIdentifier": "ACwAAAODBEMBITvFxluZgmkB0I5G3Ka9loi1ggo"},
+                "https://www.linkedin.com/in/ACwAAAODBEMBITvFxluZgmkB0I5G3Ka9loi1ggo",
+            ),
+            "https://www.linkedin.com/in/ACwAAAODBEMBITvFxluZgmkB0I5G3Ka9loi1ggo",
+        )
+
+    def test_company_linkedin_from_record_prefers_vanity(self) -> None:
+        from vendor_file.pipeline import company_linkedin_from_record
+
+        self.assertEqual(
+            company_linkedin_from_record(
+                {"graph_linkedin": "https://www.linkedin.com/company/deutsche-bank"},
+                "https://www.linkedin.com/company/1262",
+            ),
+            "https://www.linkedin.com/company/deutsche-bank",
+        )
+        self.assertEqual(
+            company_linkedin_from_record({}, "https://www.linkedin.com/company/1262"),
+            "https://www.linkedin.com/company/1262",
+        )
+
+    def test_vendor_file_requires_stakeholder_vieu_id(self) -> None:
+        from vendor_file.pipeline import empty_vendor_row
+
+        with_id = empty_vendor_row("VEN-TEST")
+        with_id["Stakeholder Vieu ID"] = "PERS-abc"
+        without_id = empty_vendor_row("VEN-TEST")
+        self.assertTrue((with_id.get("Stakeholder Vieu ID") or "").strip())
+        self.assertFalse((without_id.get("Stakeholder Vieu ID") or "").strip())
+
+    def test_graph_linkedin_from_rapidapi_company(self) -> None:
+        from vendor_file.pipeline import graph_linkedin_from_rapidapi_company
+
+        self.assertEqual(
+            graph_linkedin_from_rapidapi_company(
+                {
+                    "universalName": "att",
+                    "url": "https://www.linkedin.com/company/att/",
+                    "companyId": 1052,
+                }
+            ),
+            "https://www.linkedin.com/company/att",
+        )
+        self.assertEqual(
+            graph_linkedin_from_rapidapi_company(
+                {"url": "https://www.linkedin.com/company/1052", "companyId": 1052}
+            ),
+            "",
         )
 
     def test_website_strips_careers(self) -> None:
@@ -98,6 +186,26 @@ class VendorPipelineHelpersTests(unittest.TestCase):
         )
         self.assertTrue(email_only[0]["email_required"])
         self.assertFalse(email_only[0]["phone_required"])
+
+    def test_parse_input_csv_trailing_comma(self) -> None:
+        raw = (
+            b"Name,LinkedIn,Company,Company LinkedIn\n"
+            b"Jane Doe,https://www.linkedin.com/in/jane-doe/,Acme,"
+            b"https://www.linkedin.com/company/acme,\n"
+        )
+        rows = parse_input_csv(raw)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["name"], "Jane Doe")
+        self.assertEqual(rows[0]["company_name"], "Acme")
+
+    def test_parse_input_csv_unlimited_rows(self) -> None:
+        header = b"Name,LinkedIn,Company,Company LinkedIn\n"
+        row = (
+            b"Jane Doe,https://www.linkedin.com/in/jane-doe/,Acme,"
+            b"https://www.linkedin.com/company/acme\n"
+        )
+        rows = parse_input_csv(header + row * 501)
+        self.assertEqual(len(rows), 501)
 
     def test_contact_need_flags(self) -> None:
         self.assertEqual(contact_need_flags("email"), (True, False))

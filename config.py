@@ -34,11 +34,14 @@ class Settings(BaseSettings):
     # Serper (Google search API – e.g. market research, URL discovery)
     serper_api_key: Optional[str] = None
 
-    # FullEnrich (verified work-email enrichment)
-    fullenrich_api_key: Optional[str] = None
-
-    # Molster / MoltSets (LinkedIn → business email; primary enrichment)
+    # Molster / MoltSets (LinkedIn → business email)
     molster_api_key: Optional[str] = None
+
+    # Bouncer (email deliverability verification)
+    bouncer_api_key: Optional[str] = None
+
+    # Legacy offline FullEnrich scripts (not used by the deployed email service)
+    fullenrich_api_key: Optional[str] = None
 
     # Gmail / SMTP (LinkedIn finder result emails)
     smtp_host: str = "smtp.gmail.com"
@@ -54,6 +57,7 @@ class Settings(BaseSettings):
     # RapidAPI (LinkedIn person_deep – existing stakeholders job-change detection)
     rapidapi_key: Optional[str] = None
     rapidapi_key2: Optional[str] = None
+    rapidapi_key3: Optional[str] = None
     rapidapi_person_deep_url: str = "https://linkedin-data-scraper.p.rapidapi.com/person_deep"
     rapidapi_company_url: str = "https://linkedin-data-scraper.p.rapidapi.com/company"
 
@@ -73,7 +77,7 @@ class Settings(BaseSettings):
     postgres_host: Optional[str] = None
     postgres_port: Optional[str] = None
 
-    # Seeqe person/email integration callback (FullEnrich → Seeqe DB)
+    # Seeqe person/email integration callback (verified email → Seeqe DB)
     vieu_api_key: Optional[str] = None  # jobs API only (0f4k_…) — not granite
     seeqe_granite_api_key: Optional[str] = None  # Clay granite token for email writes
     seeqe_requester_id: Optional[str] = "clay.caravan-tech"

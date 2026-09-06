@@ -72,9 +72,6 @@ def create_job(rows: list[dict[str, Any]], recipient_email: str) -> str:
         {
             "batches_completed": 0,
             "rows_processed": 0,
-            "pending_enrichment_id": "",
-            "pending_batch_start": -1,
-            "pending_fullenrich_indexes": [],
         },
     )
     logger.info("Created email enrichment job %s (%s rows) for %s", job_id, len(rows), recipient_email)

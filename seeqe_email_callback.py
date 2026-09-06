@@ -1,4 +1,4 @@
-"""POST FullEnrich email results to Seeqe person/email integration callback."""
+"""POST verified email results to the Seeqe person/email integration callback."""
 
 from __future__ import annotations
 
@@ -20,7 +20,7 @@ MAX_ATTEMPTS = 3
 RETRY_BACKOFF_SEC = 2
 REQUEST_TIMEOUT_SEC = 30
 
-# Clay historically sent FullEnrich row status, not Molster letter grades.
+# Map provider statuses to the confidence values expected by Seeqe.
 _CONFIDENCE_BY_STATUS = {
     "a": "Success",
     "b": "Success",
@@ -36,6 +36,8 @@ _CONFIDENCE_BY_STATUS = {
     "risky": "Partial success",
     "d": "Partial success",
     "f": "Partial success",
+    "u": "Partial success",
+    "q": "Partial success",
 }
 
 
@@ -115,6 +117,9 @@ def _confidence_status(raw: str) -> str:
 def _build_payload(row: dict[str, Any]) -> dict[str, str] | None:
     email = (row.get("work_email") or "").strip()
     if not email:
+        return None
+    if (row.get("email_status") or "").strip().lower() != "deliverable":
+        logger.warning("Seeqe callback skipped: email is not Bouncer-deliverable")
         return None
 
     linkedin_url = _normalize_linkedin_url(row.get("linkedin_url") or "")

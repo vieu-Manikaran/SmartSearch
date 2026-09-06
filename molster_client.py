@@ -49,6 +49,11 @@ def molster_configured() -> bool:
     return bool((settings.molster_api_key or "").strip())
 
 
+def is_valid_linkedin_url(url: str) -> bool:
+    value = (url or "").strip().lower()
+    return "linkedin.com/in/" in value or "linkedin.com/sales/" in value
+
+
 def linkedin_match_key(url: str) -> str:
     """Normalize a LinkedIn profile URL/slug so batch results can be joined."""
     raw = (url or "").strip()

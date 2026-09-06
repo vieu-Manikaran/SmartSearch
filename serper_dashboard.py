@@ -32,8 +32,7 @@ from email_enrichment_jobs import (
 )
 from email_enrichment_store import count_pending_jobs, write_results_csv
 from email_provider import EmailEnrichmentError, email_providers_configured, enrich_contacts
-from fullenrich_client import FullEnrichError, is_valid_linkedin_url
-from molster_client import MolsterError
+from molster_client import MolsterError, is_valid_linkedin_url
 from seeqe_email_callback import post_email_to_seeqe
 from linkedin_jobs import (
     is_email_job_running,
@@ -154,7 +153,7 @@ HTML_TEMPLATE = """
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page.<br>
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.<br>
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
-    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; work email via Molster, with FullEnrich fallback.<br>
+    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; Bouncer-verified work email via MoltSets.<br>
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &mdash; CSV with company name + LinkedIn URL &rarr; employee count and numeric LinkedIn ID via RapidAPI.<br>
     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &mdash; CSV of stakeholders + your email &rarr; vendor-ready email/phone request file via RapidAPI, emailed when done.
   </p>
@@ -673,8 +672,8 @@ EMAIL_FINDER_TEMPLATE = (
     &nbsp;|&nbsp;
     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
-  <h2>Email finder (Molster → FullEnrich)</h2>
-  <p class="small">Find work emails from LinkedIn URLs. Each row is looked up in Molster first (batches of 100; ~5k emails / 5 hours), then misses fall back to FullEnrich. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Jobs survive restarts and resume from the last checkpoint.</p>
+  <h2>Email finder (MoltSets + Bouncer)</h2>
+  <p class="small">Find work emails from LinkedIn URLs with MoltSets (batches of 100; ~5k emails / 5 hours), then verify every result with Bouncer. Only Bouncer-deliverable emails are retained, sent to the graph, and included in emailed results. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Jobs survive restarts and resume from the last checkpoint.</p>
   <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>. Files with more than 500 data rows are rejected — split the list and submit separate jobs.</p>
 
   <div class="csv-spec">
@@ -992,9 +991,8 @@ VENDOR_FILE_TEMPLATE = (
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
   </p>
   <h2>Vendor email file</h2>
-  <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. RapidAPI fills titles, websites, current company, and current headcount from the <strong>target</strong> company (not assumed current employer). First / middle / last names are inferred from the associate CSV only. Location and country prefer the graph, then RapidAPI. Historical headcount at start date comes from the graph. People not in graph keep a blank Vieu ID and are listed in <code>{UID}_not_in_graph.csv</code> for ingest. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
-  <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>.</p>
-  <p class="small">Sales Nav <strong>lead</strong> URLs cannot be converted. Use <code>/in/{slug}</code> for people and <code>/company/{slug}</code> for companies. Historical headcount at start date is left blank. Vieu IDs that are not in the graph stay blank.</p>
+  <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. RapidAPI fills titles, websites, current company, and current headcount from the <strong>target</strong> company (not assumed current employer). First / middle / last names are inferred from the associate CSV only. Location and country prefer the graph, then RapidAPI. Historical headcount at start date comes from the graph. People not in graph are omitted from the vendor file and listed in <code>{UID}_not_in_graph.csv</code> for ingest. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
+  <p class="small">Sales Nav <strong>lead</strong> URLs cannot be converted. Use <code>/in/{slug}</code> for people and <code>/company/{slug}</code> for companies. Historical headcount at start date is left blank. Every vendor row has a Stakeholder Vieu ID; graph misses go to <code>{UID}_not_in_graph.csv</code> only.</p>
 
   <div class="csv-spec">
     <h3>Expected CSV column names</h3>
@@ -1031,7 +1029,7 @@ VENDOR_FILE_TEMPLATE = (
         </tr>
       </tbody>
     </table>
-    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), plus <code>{UID}_rejects.csv</code> when it has rows. People missing from graph are listed in <code>{UID}_not_in_graph.csv</code> for ingest. The vendor CSV is also posted to Slack. One UID per upload, same value on every vendor row.</p>
+    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor — every row has a Stakeholder Vieu ID), plus <code>{UID}_rejects.csv</code> when it has rows. People missing from graph are listed in <code>{UID}_not_in_graph.csv</code> only (not sent to the vendor). The vendor CSV is also posted to Slack. One UID per upload, same value on every vendor row.</p>
   </div>
 
   <p class="small"><strong>Example CSV:</strong></p>
@@ -1049,7 +1047,7 @@ José García,https://www.linkedin.com/in/jose-garcia/,Walmart,https://www.linke
     <label for="email">Your email (required)</label>
     <input type="email" name="email" id="email" placeholder="you@company.com" required>
 
-    <label for="csv_file">CSV file (required, max 500 records)</label>
+    <label for="csv_file">CSV file (required)</label>
     <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv" required>
 
     <label>Need from vendor</label>
@@ -2439,7 +2437,7 @@ def _lookup_single_email(row: dict[str, str]) -> tuple[dict[str, str] | None, st
         result = results[0]
         post_email_to_seeqe(result)
         return result, None
-    except (EmailEnrichmentError, FullEnrichError, MolsterError) as exc:
+    except (EmailEnrichmentError, MolsterError) as exc:
         return None, str(exc)
     finally:
         release_email_worker()
@@ -2570,7 +2568,7 @@ def email_finder():
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
         if not email_providers_configured():
-            ctx["message"] = "Missing MOLSTER_API_KEY and FULLENRICH_API_KEY in environment."
+            ctx["message"] = "Missing MOLSTER_API_KEY or BOUNCER_API_KEY in environment."
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
 
