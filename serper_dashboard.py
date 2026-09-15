@@ -60,6 +60,7 @@ from rapidapi_linkedin_company import (
     lookup_company,
 )
 from rapidapi_person_deep import normalize_linkedin_profile_url, resolve_vanity_url
+from company_website_linkedin import find_company_linkedin
 from person_linkedin_finder import find_person_linkedin
 from serper_search import find_linkedin_company_url, search_serper
 from vendor_file.pipeline import contact_need_flags, new_request_id, parse_input_csv
@@ -150,7 +151,7 @@ HTML_TEMPLATE = """
 <body>
   <h2>Serper Pair Search Dashboard</h2>
   <p>
-    <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page.<br>
+    <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page (website scrape first when a domain is present, then Serper).<br>
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.<br>
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
     <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; Bouncer-verified work email via MoltSets.<br>
@@ -373,14 +374,16 @@ COMPANY_RESULTS_TABLE = """
   <h3>Result</h3>
   <table>
     <thead>
-      <tr><th>Company</th><th>Search query</th><th>LinkedIn company URL</th><th>Status</th></tr>
+      <tr><th>Company</th><th>Website</th><th>Search / page</th><th>LinkedIn company URL</th><th>Source</th><th>Status</th></tr>
     </thead>
     <tbody>
       {% for row in rows %}
       <tr class="{% if not row.linkedin_url %}miss{% endif %}">
         <td>{{ row.company }}</td>
+        <td class="small">{% if row.website %}<code>{{ row.website }}</code>{% else %}&mdash;{% endif %}</td>
         <td class="small"><code>{{ row.search_query }}</code></td>
         <td>{% if row.linkedin_url %}<a href="{{ row.linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ row.linkedin_url }}</a>{% else %}&mdash;{% endif %}</td>
+        <td>{{ row.source or "" }}</td>
         <td>{{ row.status }}</td>
       </tr>
       {% endfor %}
@@ -550,7 +553,7 @@ COMPANY_LINKEDIN_TEMPLATE = (
     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
   <h2>Company LinkedIn finder</h2>
-  <p class="small">One company name: result appears on this page immediately (no email). CSV with <strong>2+ companies</strong>: email required; results are sent when the job finishes. Only <strong>one</strong> job at a time (company or person).</p>
+  <p class="small">One company name: result appears on this page immediately (no email). CSV with <strong>2+ companies</strong>: email required; results are sent when the job finishes. When a <strong>Domain</strong> or <strong>Website</strong> column is present, we crawl that site page by page for <code>linkedin.com/company/{slug-or-id}</code> (up to 150 pages or 90 seconds per site) and only fall back to Serper if nothing is found. Rows without a domain use Serper. Only <strong>one</strong> job at a time (company or person).</p>
 """
     + LINKEDIN_PROGRESS_BLOCK
     + """
@@ -564,9 +567,13 @@ COMPANY_LINKEDIN_TEMPLATE = (
 
     <label for="csv_file">CSV file (optional)</label>
     <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv">
+    <p class="small">Requires a <code>Company</code> column. Optional: <code>Domain</code> or <code>Website</code>.</p>
 
     <label for="single_company">Single company name (optional)</label>
     <input type="text" name="single_company" id="single_company" placeholder="e.g. ASML">
+
+    <label for="single_website">Single company website or domain (optional)</label>
+    <input type="text" name="single_website" id="single_website" placeholder="e.g. asml.com">
 
     <div><button type="submit">Find LinkedIn URLs</button></div>
     </fieldset>
@@ -1353,10 +1360,26 @@ def _company_csv_column_key(fieldnames: list[str] | None) -> str | None:
     return None
 
 
-def parse_companies_from_csv_upload(storage) -> tuple[list[str], str | None]:
+WEBSITE_CSV_ALIASES = (
+    "website",
+    "company website",
+    "account website",
+    "website url",
+    "company website url",
+    "www",
+)
+DOMAIN_CSV_ALIASES = (
+    "domain",
+    "company domain",
+    "account domain",
+)
+
+
+def parse_companies_from_csv_upload(storage) -> tuple[list[dict[str, str]], str | None]:
     """
     Read uploaded CSV; require a column header ``Company`` (case-insensitive).
-    Returns (non-empty company names in row order, error_message or None).
+    Optional ``Domain`` / ``Website`` (and common aliases) is used for website crawl.
+    Returns (rows with company + website, error_message or None).
     """
     if storage is None or not getattr(storage, "filename", None):
         return [], None
@@ -1374,12 +1397,23 @@ def parse_companies_from_csv_upload(storage) -> tuple[list[str], str | None]:
     key = _company_csv_column_key(fieldnames)
     if not key:
         return [], "CSV must include a header column named Company."
-    companies: list[str] = []
+    website_key = _csv_column_key(fieldnames, *WEBSITE_CSV_ALIASES) or _csv_column_key(
+        fieldnames, *DOMAIN_CSV_ALIASES
+    )
+    companies: list[dict[str, str]] = []
     for row in rows:
         raw_cell = row.get(key, "")
         cell = raw_cell.strip() if isinstance(raw_cell, str) else str(raw_cell or "").strip()
+        website = ""
+        if website_key:
+            raw_site = row.get(website_key, "")
+            website = (
+                raw_site.strip()
+                if isinstance(raw_site, str)
+                else str(raw_site or "").strip()
+            )
         if cell:
-            companies.append(cell)
+            companies.append({"company": cell, "website": website})
     return companies, None
 
 
@@ -1388,7 +1422,7 @@ def save_company_linkedin_results(rows: list[dict[str, str]]) -> str:
     COMPANY_LINKEDIN_OUTPUT.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     file_path = COMPANY_LINKEDIN_OUTPUT / f"{timestamp}_company_linkedin.csv"
-    fieldnames = ["Company", "LinkedIn_URL", "Search_Query", "Status"]
+    fieldnames = ["Company", "Website", "LinkedIn_URL", "Search_Query", "Source", "Status"]
     with file_path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -1396,8 +1430,10 @@ def save_company_linkedin_results(rows: list[dict[str, str]]) -> str:
             writer.writerow(
                 {
                     "Company": row["company"],
+                    "Website": row.get("website") or "",
                     "LinkedIn_URL": row.get("linkedin_url") or "",
-                    "Search_Query": row["search_query"],
+                    "Search_Query": row.get("search_query") or "",
+                    "Source": row.get("source") or "",
                     "Status": row["status"],
                 }
             )
@@ -2106,13 +2142,14 @@ def _finder_page_context(scope: str = "all") -> dict:
     }
 
 
-def _parse_company_submission() -> tuple[list[str], str, str, str | None]:
+def _parse_company_submission() -> tuple[list[dict[str, str]], str, str, str | None]:
     """Returns (companies, email, mode single|bulk, error_message)."""
     email = (request.form.get("email") or "").strip()
     upload = request.files.get("csv_file")
-    companies: list[str] = []
+    companies: list[dict[str, str]] = []
     csv_err: str | None = None
     single = (request.form.get("single_company") or "").strip()
+    single_website = (request.form.get("single_website") or "").strip()
     if upload is not None and bool(upload.filename):
         companies, csv_err = parse_companies_from_csv_upload(upload)
     if companies:
@@ -2123,7 +2160,7 @@ def _parse_company_submission() -> tuple[list[str], str, str, str | None]:
                 return [], email, mode, err
         return companies, email, mode, None
     if single:
-        return [single], email, "single", None
+        return [{"company": single, "website": single_website}], email, "single", None
     if csv_err:
         return [], email, "single", csv_err
     return [], email, "single", "Upload a CSV with a Company column, or enter one company name."
@@ -2155,24 +2192,19 @@ def _parse_person_submission() -> tuple[list[tuple[str, str]], str, str, str | N
     return [], email, "single", "Upload a CSV with Person and Company columns, or enter one person and company."
 
 
-def _lookup_single_company(name: str) -> tuple[dict[str, str] | None, str | None]:
+def _lookup_single_company(item: dict[str, str] | str) -> tuple[dict[str, str] | None, str | None]:
     if is_serper_job_running():
         return None, "A Serper LinkedIn finder job is already running. See progress above."
     if not try_acquire_serper_worker():
         return None, "Another Serper lookup is in progress. Please wait."
     try:
+        if isinstance(item, str):
+            name, website = item, ""
+        else:
+            name = str(item.get("company") or "").strip()
+            website = str(item.get("website") or "").strip()
         api_key = settings.serper_api_key or ""
-        search_query = f"{name} site:linkedin.com"
-        found_url = find_linkedin_company_url(name, api_key, num=10, date_restrict=None)
-        return (
-            {
-                "company": name,
-                "search_query": search_query,
-                "linkedin_url": found_url or "",
-                "status": "found" if found_url else "no_company_page_in_top_10",
-            },
-            None,
-        )
+        return find_company_linkedin(name, website, serper_api_key=api_key), None
     finally:
         release_serper_worker()
 

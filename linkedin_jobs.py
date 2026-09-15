@@ -14,8 +14,8 @@ from config import settings
 from vendor_file.slack import post_vendor_file
 from rapidapi_linkedin_company import enrich_companies_batch
 from rapidapi_person_deep import resolve_profiles_batch, resolve_vanity_url
+from company_website_linkedin import find_company_linkedin
 from person_linkedin_finder import find_person_linkedin
-from serper_search import find_linkedin_company_url
 
 RAPIDAPI_JOB_TYPES = {"urn_resolve", "company_enrich", "vendor_file", "vendor_file_graph"}
 
@@ -168,27 +168,37 @@ def _update_progress(job_type: str, current: int, total: int, current_item: str)
         job["current_item"] = current_item
 
 
-def _run_company(companies: list[str], email: str, save_csv: Callable) -> tuple[str, str]:
-    api_key = settings.serper_api_key or ""
+def _company_job_rows(companies: list) -> list[dict[str, str]]:
     rows: list[dict[str, str]] = []
-    total = len(companies)
-    for idx, name in enumerate(companies, start=1):
-        _update_progress("company", idx, total, name)
-        logger.info("Company LinkedIn [%s/%s] %s", idx, total, name)
-        search_query = f"{name} site:linkedin.com"
-        found_url = find_linkedin_company_url(name, api_key, num=10, date_restrict=None)
-        rows.append(
-            {
-                "company": name,
-                "search_query": search_query,
-                "linkedin_url": found_url or "",
-                "status": "found" if found_url else "no_company_page_in_top_10",
-            }
-        )
+    for item in companies:
+        if isinstance(item, str):
+            name, website = item, ""
+        else:
+            name = str(item.get("company") or "").strip()
+            website = str(item.get("website") or "").strip()
+        if name or website:
+            rows.append({"company": name, "website": website})
+    return rows
+
+
+def _run_company(companies: list, email: str, save_csv: Callable) -> tuple[str, str]:
+    api_key = settings.serper_api_key or ""
+    work = _company_job_rows(companies)
+    rows: list[dict[str, str]] = []
+    total = len(work)
+    for idx, item in enumerate(work, start=1):
+        name = item["company"]
+        website = item["website"]
+        label = f"{name} ({website})" if website else name
+        _update_progress("company", idx, total, label)
+        logger.info("Company LinkedIn [%s/%s] %s", idx, total, label)
+        rows.append(find_company_linkedin(name, website, serper_api_key=api_key))
     path = save_csv(rows)
     found_ct = sum(1 for r in rows if r.get("linkedin_url"))
+    website_ct = sum(1 for r in rows if r.get("source") == "website")
     summary = (
-        f"Processed {len(rows)} companies; {found_ct} LinkedIn company URLs found in the first 10 results."
+        f"Processed {len(rows)} companies; {found_ct} LinkedIn company URLs found "
+        f"({website_ct} from website, {found_ct - website_ct} from Serper)."
     )
     return path, summary
 
@@ -314,11 +324,10 @@ def _worker(
             source = "graph" if job_type == "vendor_file_graph" else "RapidAPI"
             subject = f"Vendor enrichment complete — {Path(path_str).stem.replace('_vendor', '')}"
             extras = (
-                "- *_vendor.csv — send this file to the vendor\n"
+                "- *_vendor.csv — send this file to the vendor (every row has a Stakeholder Vieu ID)\n"
                 "- *_rejects.csv — rows with unfixable LinkedIn URLs (if any)\n"
+                "- *_not_in_graph.csv — people missing from graph; not sent to the vendor (ingest these)\n"
             )
-            if job_type == "vendor_file":
-                extras += "- *_not_in_graph.csv — people missing from graph (ingest these)\n"
             body = (
                 f"Your vendor email/phone file ({source}) is ready.\n\n"
                 f"{summary}\n\n"
@@ -417,14 +426,15 @@ def _start_job(
     return True, None
 
 
-def start_company_job(companies: list[str], email: str, save_csv: Callable[[list], str]) -> tuple[bool, str | None]:
+def start_company_job(companies: list, email: str, save_csv: Callable[[list], str]) -> tuple[bool, str | None]:
+    work = _company_job_rows(companies)
     return _start_job(
         "company",
-        len(companies),
+        len(work),
         email,
         save_csv,
         _run_company,
-        companies,
+        work,
         "linkedin-company-job",
     )
 
@@ -495,7 +505,7 @@ def _run_vendor_file(payload: dict, email: str, save_csv: Callable) -> tuple[str
         f"Vieu IDs — people {summary.get('person_vieu_ids', 0)}, "
         f"target companies {summary.get('target_company_vieu_ids', 0)}, "
         f"current companies {summary.get('current_company_vieu_ids', 0)}. "
-        f"Not in graph {summary.get('not_in_graph_rows', 0)}. "
+        f"Not in graph {summary.get('not_in_graph_rows', 0)} (held back from vendor file). "
         f"Historical headcount {summary.get('historical_headcounts', 0)}."
     )
     return summary["vendor_path"], text
@@ -531,6 +541,7 @@ def _run_vendor_file_graph(payload: dict, email: str, save_csv: Callable) -> tup
         f"Vieu IDs — people {summary.get('person_vieu_ids', 0)}, "
         f"target companies {summary.get('target_company_vieu_ids', 0)}, "
         f"current companies {summary.get('current_company_vieu_ids', 0)}. "
+        f"Not in graph {summary.get('not_in_graph_rows', 0)} (held back from vendor file). "
         f"Historical headcount {summary.get('historical_headcounts', 0)}."
     )
     return summary["vendor_path"], text
