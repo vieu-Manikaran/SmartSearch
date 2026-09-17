@@ -1,4 +1,4 @@
-"""Post vendor-file CSVs to Slack as the Stakeholder Movement bot."""
+"""Post files and messages to Slack as the Stakeholder Movement bot."""
 
 from __future__ import annotations
 
@@ -65,22 +65,31 @@ def upload_file(
     return True, None
 
 
-def post_vendor_file(path: Path, *, email: str, summary: str) -> tuple[bool, str | None]:
-    """Post the vendor CSV to Slack. No-op if Slack env is missing."""
+def post_message(text: str) -> tuple[bool, str | None]:
+    """Post a text-only message to SLACK_CHANNEL_ID."""
     if not slack_configured():
-        logger.warning("Slack not configured; skipped vendor file post")
-        return True, None
-    uid = path.name.replace("_vendor.csv", "")
-    return upload_file(
-        path,
-        initial_comment=(
-            f"Vendor file ready — `{uid}`\n"
-            f"Requested by {email}\n\n"
-            f"{summary}"
-        ),
-        filename=path.name,
-        title=path.name,
-    )
+        return False, "Slack is not configured (SLACK_BOT_TOKEN, SLACK_CHANNEL_ID)."
+    client = _client()
+    try:
+        resp = client.chat_postMessage(channel=settings.slack_channel_id, text=text)
+    except SlackApiError as exc:
+        err = (exc.response or {}).get("error") or str(exc)
+        logger.error("Slack message failed: %s", err)
+        return False, str(err)
+    except OSError as exc:
+        logger.exception("Slack message network error")
+        return False, str(exc)
+    if not resp.get("ok"):
+        err = resp.get("error") or "Slack message returned ok=false"
+        logger.error("Slack message failed: %s", err)
+        return False, str(err)
+    return True, None
+
+
+def post_vendor_file(path: Path, *, email: str, summary: str) -> tuple[bool, str | None]:
+    """Vendor CSVs are emailed only; Slack is reserved for the daily posts digest."""
+    logger.info("Skipping vendor file Slack post for %s (requested by %s)", path.name, email)
+    return True, None
 
 
 def main() -> int:

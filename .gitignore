@@ -1,3 +1,7 @@
 .env
 __pycache__/
 *.pyc
+data/vendor_file/rapidapi_json/
+data/hubspot_cro_outreach/posts_last_24_hours*.csv
+data/hubspot_cro_outreach/*.checkpoint
+data/hubspot_cro_outreach/checkpoint.jsonl

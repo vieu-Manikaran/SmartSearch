@@ -50,7 +50,7 @@ class Settings(BaseSettings):
     smtp_password: Optional[str] = None
     smtp_from: Optional[str] = None
 
-    # Slack (Stakeholder Movement bot — vendor file posts)
+    # Slack (Stakeholder Movement bot — HubSpot CRO daily posts digest)
     slack_bot_token: Optional[str] = None
     slack_channel_id: Optional[str] = None
 
@@ -59,6 +59,7 @@ class Settings(BaseSettings):
     rapidapi_key2: Optional[str] = None
     rapidapi_key3: Optional[str] = None
     rapidapi_person_deep_url: str = "https://linkedin-data-scraper.p.rapidapi.com/person_deep"
+    rapidapi_profile_updates_url: str = "https://linkedin-data-scraper.p.rapidapi.com/profile_updates"
     rapidapi_company_url: str = "https://linkedin-data-scraper.p.rapidapi.com/company"
 
     # SEC EDGAR API

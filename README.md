@@ -23,19 +23,49 @@ Local + Render-ready dashboard to run pair-based Serper searches and download pe
 
 ## Render setup
 
-- Root Directory: `ashutosh`
+- Root Directory: leave blank — this folder is the root of the `SmartSearch` repo
 - Build Command: `pip install -r requirements.txt`
 - Start Command: `python serper_dashboard.py` (or rely on `Procfile`)
 - Environment variables:
   - `SERPER_API_KEY`
   - `SLACK_BOT_TOKEN` (bot user token `xoxb-…`)
   - `SLACK_CHANNEL_ID` (channel ID `C…`, bot must already be a member)
+  - `RAPIDAPI_KEY` (and optional `RAPIDAPI_KEY2` / `RAPIDAPI_KEY3`)
+
+## Daily HubSpot CRO posts (12:00 AM IST)
+
+Do **not** hang this on a laptop `launchd`/cron job. That only fires if the Mac is awake. Add a **Render Cron Job** on the same repo so it runs every day even when nobody is logged in.
+
+Render cron schedules are **UTC**. 12:00 AM India Standard Time is **18:30 UTC the previous calendar day**.
+
+1. Render Dashboard → New → Cron Job
+2. Same repo / branch as the web service, Root Directory blank
+3. Build Command: `pip install -r requirements.txt`
+4. Command: `python hubspot_cro_daily_posts.py`
+5. Schedule: `30 18 * * *`
+6. Copy env vars from the web service: `RAPIDAPI_KEY` (plus `RAPIDAPI_KEY2`/`RAPIDAPI_KEY3` if used), `SLACK_BOT_TOKEN`, `SLACK_CHANNEL_ID`
+
+The job reads `data/hubspot_cro_outreach/people_days_since_last_post.csv`, fetches `/profile_updates` for each person, writes last-IST-calendar-day posts in the same columns as `posts_last_30_days.csv`, and uploads that CSV to the existing Slack channel (or a text-only “nobody posted” message). Vendor files stay email-only.
+
+The watchlist CSV and both job modules must be **committed and pushed** — the cron container only has what is in the branch, and nothing is read from your laptop.
+
+Local dry run:
+
+```bash
+python hubspot_cro_daily_posts.py --no-slack --limit 3
+```
 
 ## Vendor email file
 
-Associates upload a stakeholder CSV at `/vendor-file`. The job emits the 27-column `{UID}_vendor.csv`. Email attaches the vendor file, plus `{UID}_rejects.csv` / `{UID}_not_in_graph.csv` when those have rows. The vendor CSV is also posted to Slack (`SLACK_BOT_TOKEN`, `SLACK_CHANNEL_ID`). QA is written to disk but not emailed.
+Associates upload a stakeholder CSV at `/vendor-file`. The job emits the 27-column `{UID}_vendor.csv`. Email attaches the vendor file, plus `{UID}_rejects.csv` / `{UID}_not_in_graph.csv` when those have rows. QA is written to disk but not emailed. Slack (`SLACK_BOT_TOKEN`, `SLACK_CHANNEL_ID`) is used for the daily HubSpot CRO last-24-hours posts digest, not vendor files.
 
-- RapidAPI (`/vendor-file`, UID `VEN-…`): RapidAPI fills titles, websites, current company, and current headcount. Names are split from the associate CSV only. Location/country prefer graph `person.loc` / `loc_country_code`, then RapidAPI. Vieu IDs and historical headcount (`company_history_employee_ct`) come from Postgres. People not in graph stay without a Vieu ID and are listed in `{UID}_not_in_graph.csv` for ingest.
+- RapidAPI (`/vendor-file`, UID `VEN-…`): RapidAPI fills names, titles, websites, current company, and current headcount. Names use cleaned RapidAPI profile fields when they match the associate's input identity, with graph/input fallback. Location/country prefer graph `person.loc` / `loc_country_code`, then RapidAPI. Vieu IDs and historical headcount (`company_history_employee_ct`) come from Postgres. People not in graph are omitted from the vendor file and listed in `{UID}_not_in_graph.csv` for ingest.
 - Graph (`/vendor-file-graph`, UID `VNG-…`): all columns from Postgres (`POSTGRES_HOST`, `POSTGRES_DB`, `POSTGRES_USER`, `POSTGRES_PASSWORD`). Website comes from `company.email_domains`. Last Profile Refresh Date is `MAX(experience.updated_at)`. Historical headcount is `company_history_employee_ct` for the target start year (19xx/20xx only). If they have a present (non-board) role at the target, current company is the target only. If they have left the target, board/advisor present roles are skipped when another present employer exists; if board/advisor is the only current role, it is kept.
 
-One RapidAPI-lock job at a time (URN resolver, company employee count, and both vendor workflows share the lock). Max 500 rows per upload. Graph misses stay blank — IDs are never invented.
+Before a RapidAPI vendor file is sent, duplicate profiles are removed, names are cleaned from the
+RapidAPI profile, and target websites prefer curated or graph email-domain data over junk links.
+Initial-only surnames, profile/name mismatches, non-employers, missing corporate websites, and
+companies with fewer than five requested profiles are held in `{UID}_qa_hold.csv`. Current-company
+differences remain in the vendor file and are not a hold condition.
+
+One RapidAPI-lock job at a time (URN resolver, company employee count, and both vendor workflows share the lock). Graph misses stay blank — IDs are never invented.
