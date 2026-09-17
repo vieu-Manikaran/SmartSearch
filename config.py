@@ -80,6 +80,7 @@ class Settings(BaseSettings):
 
     # Seeqe person/email integration callback (verified email → Seeqe DB)
     vieu_api_key: Optional[str] = None  # jobs API only (0f4k_…) — not granite
+    seeqe_api_base_url: str = "https://api.cloud.seeqe.com"
     seeqe_granite_api_key: Optional[str] = None  # Clay granite token for email writes
     seeqe_requester_id: Optional[str] = "clay.caravan-tech"
     jobs_api_base_url: str = "https://api-dev.cloud.seeqe.dev"

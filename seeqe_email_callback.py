@@ -141,6 +141,8 @@ def post_email_to_seeqe(row: dict[str, Any]) -> bool:
     POST one enriched contact to Seeqe when work_email is present.
     Retries transient failures; logs and returns False on permanent failure.
     """
+    if (row.get("email_source") or "") == "seeqe_product":
+        return True
     payload = _build_payload(row)
     if not payload:
         return False

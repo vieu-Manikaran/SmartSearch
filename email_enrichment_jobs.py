@@ -290,10 +290,19 @@ def _process_job(job_id: str) -> None:
             )
 
         molster_ct = sum(1 for r in results if r.get("email_source") == "molster")
+        product_ct = sum(1 for r in results if r.get("email_source") == "seeqe_product")
         found_ct = sum(1 for r in results if r.get("work_email"))
+        suppressed_ct = sum(
+            1
+            for r in results
+            if (r.get("molster_email") or "").strip() and not (r.get("work_email") or "").strip()
+        )
+        no_url_ct = sum(1 for r in results if (r.get("molster_status") or "") == "no_linkedin_url")
         summary = (
-            f"Processed {len(results)} contacts; {found_ct} Bouncer-deliverable "
-            f"work emails found via MoltSets ({molster_ct} retained)."
+            f"Processed {len(results)} contacts; {found_ct} work emails found "
+            f"({product_ct} already in Seeqe, {molster_ct} retained via MoltSets + Bouncer). "
+            f"{suppressed_ct} MoltSets email(s) suppressed by Bouncer "
+            f"(see Molster_Email / Email_Status); {no_url_ct} row(s) had no usable LinkedIn URL."
         )
         final_path = results_path(job_id)
         write_results_csv(final_path, results)

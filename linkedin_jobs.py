@@ -11,7 +11,6 @@ from typing import Any, Callable
 
 from mailer import send_results_email
 from config import settings
-from vendor_file.slack import post_vendor_file
 from rapidapi_linkedin_company import enrich_companies_batch
 from rapidapi_person_deep import resolve_profiles_batch, resolve_vanity_url
 from company_website_linkedin import find_company_linkedin
@@ -325,7 +324,9 @@ def _worker(
             subject = f"Vendor enrichment complete — {Path(path_str).stem.replace('_vendor', '')}"
             extras = (
                 "- *_vendor.csv — send this file to the vendor (every row has a Stakeholder Vieu ID)\n"
+                "- *_existing_emails.csv — requested people whose email was already in Seeqe (if any)\n"
                 "- *_rejects.csv — rows with unfixable LinkedIn URLs (if any)\n"
+                "- *_qa_hold.csv — rows held for data-quality fixes before vendor send (if any)\n"
                 "- *_not_in_graph.csv — people missing from graph; not sent to the vendor (ingest these)\n"
             )
             body = (
@@ -344,7 +345,9 @@ def _worker(
         if job_type in {"vendor_file", "vendor_file_graph"}:
             uid = Path(path_str).name.replace("_vendor.csv", "")
             for extra_name in (
+                f"{uid}_existing_emails.csv",
                 f"{uid}_rejects.csv",
+                f"{uid}_qa_hold.csv",
                 f"{uid}_not_in_graph.csv",
             ):
                 extra = Path(path_str).with_name(extra_name)
@@ -357,10 +360,6 @@ def _worker(
             attachment_path=path,
             extra_paths=extra_paths,
         )
-        if job_type in {"vendor_file", "vendor_file_graph"}:
-            slack_ok, slack_err = post_vendor_file(path, email=email, summary=summary)
-            if not slack_ok:
-                logger.error("%s Slack upload failed: %s", job_name, slack_err)
         with _state_lock:
             job = _job_for_type(job_type)
             job["last_summary"] = summary
@@ -489,19 +488,28 @@ def start_company_enrich_job(
 
 def _run_vendor_file(payload: dict, email: str, save_csv: Callable) -> tuple[str, str]:
     from vendor_file.pipeline import run_batch
+    from vendor_file.product_emails import split_existing_product_emails
 
     def _progress(current: int, total: int, current_item: str) -> None:
         _update_progress("vendor_file", current, total, current_item)
 
-    summary = run_batch(
-        input_rows=payload["rows"],
+    out_dir = Path("data/vendor_file")
+    vendor_rows, _existing_path, existing_count = split_existing_product_emails(
+        payload["rows"],
         uid=payload["uid"],
-        out_dir=Path("data/vendor_file"),
+        out_dir=out_dir,
+    )
+    summary = run_batch(
+        input_rows=vendor_rows,
+        uid=payload["uid"],
+        out_dir=out_dir,
         progress=_progress,
     )
     text = (
         f"Request ID {summary['uid']}: {summary['ok_rows']} vendor rows, "
+        f"{existing_count} existing Seeqe emails returned separately, "
         f"{summary['rejected_rows']} rejected. "
+        f"QA hold {summary.get('qa_hold_rows', 0)}. "
         f"Vieu IDs — people {summary.get('person_vieu_ids', 0)}, "
         f"target companies {summary.get('target_company_vieu_ids', 0)}, "
         f"current companies {summary.get('current_company_vieu_ids', 0)}. "
@@ -525,18 +533,26 @@ def start_vendor_file_job(rows: list[dict], email: str, uid: str) -> tuple[bool,
 
 def _run_vendor_file_graph(payload: dict, email: str, save_csv: Callable) -> tuple[str, str]:
     from vendor_file.graph_pipeline import run_batch_graph
+    from vendor_file.product_emails import split_existing_product_emails
 
     def _progress(current: int, total: int, current_item: str) -> None:
         _update_progress("vendor_file_graph", current, total, current_item)
 
-    summary = run_batch_graph(
-        input_rows=payload["rows"],
+    out_dir = Path("data/vendor_file_graph")
+    vendor_rows, _existing_path, existing_count = split_existing_product_emails(
+        payload["rows"],
         uid=payload["uid"],
-        out_dir=Path("data/vendor_file_graph"),
+        out_dir=out_dir,
+    )
+    summary = run_batch_graph(
+        input_rows=vendor_rows,
+        uid=payload["uid"],
+        out_dir=out_dir,
         progress=_progress,
     )
     text = (
         f"Request ID {summary['uid']}: {summary['ok_rows']} vendor rows, "
+        f"{existing_count} existing Seeqe emails returned separately, "
         f"{summary['rejected_rows']} rejected. "
         f"Vieu IDs — people {summary.get('person_vieu_ids', 0)}, "
         f"target companies {summary.get('target_company_vieu_ids', 0)}, "

@@ -679,8 +679,8 @@ EMAIL_FINDER_TEMPLATE = (
     &nbsp;|&nbsp;
     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
-  <h2>Email finder (MoltSets + Bouncer)</h2>
-  <p class="small">Find work emails from LinkedIn URLs with MoltSets (batches of 100; ~5k emails / 5 hours), then verify every result with Bouncer. Only Bouncer-deliverable emails are retained, sent to the graph, and included in emailed results. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Jobs survive restarts and resume from the last checkpoint.</p>
+  <h2>Email finder (Seeqe product → MoltSets + Bouncer)</h2>
+  <p class="small">Check Seeqe for existing work emails first. Only contacts without a product email continue to MoltSets (batches of 100; ~5k emails / 5 hours) and Bouncer verification. Newly found Bouncer-deliverable emails are sent to the graph. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Jobs survive restarts and resume from the last checkpoint.</p>
   <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>. Files with more than 500 data rows are rejected — split the list and submit separate jobs.</p>
 
   <div class="csv-spec">
@@ -713,7 +713,7 @@ EMAIL_FINDER_TEMPLATE = (
         </tr>
       </tbody>
     </table>
-    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then these appended columns: <code>Work_Email</code>, <code>Email_Status</code>, <code>All_Work_Emails</code>, <code>Job_Title</code>, <code>Enrichment_Status</code>, <code>Email_Source</code>, <code>Molster_Risk_Score</code>, <code>Molster_Last_Validated_At</code>.</p>
+    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then these appended columns: <code>Work_Email</code>, <code>Email_Status</code>, <code>All_Work_Emails</code>, <code>Job_Title</code>, <code>Enrichment_Status</code>, <code>Email_Source</code>, <code>Product_Person_ID</code>, <code>Product_Lookup_Status</code>, <code>Molster_Risk_Score</code>, <code>Molster_Last_Validated_At</code>.</p>
   </div>
 
   <p class="small"><strong>Example CSV:</strong></p>
@@ -998,7 +998,7 @@ VENDOR_FILE_TEMPLATE = (
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a>
   </p>
   <h2>Vendor email file</h2>
-  <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. RapidAPI fills titles, websites, current company, and current headcount from the <strong>target</strong> company (not assumed current employer). First / middle / last names are inferred from the associate CSV only. Location and country prefer the graph, then RapidAPI. Historical headcount at start date comes from the graph. People not in graph are omitted from the vendor file and listed in <code>{UID}_not_in_graph.csv</code> for ingest. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
+  <p class="small">Turn a stakeholder CSV into the vendor email/phone request file. Existing Seeqe product emails are checked first and returned separately in <code>{UID}_existing_emails.csv</code>. Email-only hits are not sent to the vendor; when a phone is still needed, the row remains with email disabled. RapidAPI fills titles, websites, current company, and current headcount for the remaining rows. People not in graph are omitted from the vendor file and listed in <code>{UID}_not_in_graph.csv</code> for ingest. Email required; results are emailed when done. Only <strong>one</strong> RapidAPI job at a time (shares the lock with the URN resolver and company employee count).</p>
   <p class="small">Sales Nav <strong>lead</strong> URLs cannot be converted. Use <code>/in/{slug}</code> for people and <code>/company/{slug}</code> for companies. Historical headcount at start date is left blank. Every vendor row has a Stakeholder Vieu ID; graph misses go to <code>{UID}_not_in_graph.csv</code> only.</p>
 
   <div class="csv-spec">
@@ -1036,7 +1036,7 @@ VENDOR_FILE_TEMPLATE = (
         </tr>
       </tbody>
     </table>
-    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor — every row has a Stakeholder Vieu ID), plus <code>{UID}_rejects.csv</code> when it has rows. People missing from graph are listed in <code>{UID}_not_in_graph.csv</code> only (not sent to the vendor). Vendor CSVs are not posted to Slack. One UID per upload, same value on every vendor row.</p>
+    <p class="small" style="margin-top:12px;"><strong>Emailed files:</strong> <code>{UID}_vendor.csv</code> (send this to the vendor), <code>{UID}_existing_emails.csv</code> for people already found in Seeqe, plus reject and not-in-graph files when they have rows. Vendor CSVs are not posted to Slack. One UID per upload, same value on every vendor row.</p>
   </div>
 
   <p class="small"><strong>Example CSV:</strong></p>

@@ -18,6 +18,7 @@ from molster_client import (
     lookup_linkedin_urls,
     molster_configured,
 )
+from seeqe_contact_lookup import SeeqeContactLookupError, find_existing_contact
 
 logger = logging.getLogger(__name__)
 
@@ -67,6 +68,9 @@ def _base_result_row(row: dict[str, Any]) -> dict[str, Any]:
         "job_title": "",
         "status": STATUS_NOT_ENRICHED,
         "email_source": "",
+        "product_person_id": "",
+        "product_lookup_status": "",
+        "molster_email": "",
         "molster_status": "",
         "molster_risk_score": "",
         "molster_last_validated_at": "",
@@ -123,6 +127,7 @@ def _mark_molster_hit(
             "all_work_emails": email if deliverable else "",
             "status": STATUS_FOUND if deliverable else STATUS_NO_EMAIL,
             "email_source": "molster" if deliverable else "",
+            "molster_email": email,
             "molster_status": hit.get("status") or "ok",
             "molster_risk_score": risk,
             "molster_last_validated_at": hit.get("last_validated_at") or "",
@@ -161,12 +166,24 @@ def take_enrichment_step(
     on_progress: ProgressCb | None = None,
     expected_total: int | None = None,
 ) -> StepResult:
-    """Run one MoltSets batch and verify every returned email with Bouncer."""
+    """Check Seeqe first, then run one MoltSets/Bouncer batch for remaining rows."""
     total = expected_total or len(input_rows)
 
     def progress(item: str) -> None:
         if on_progress:
             on_progress(_finished_count(results), total, item)
+
+    product_idxs = _indexes(
+        results,
+        lambda row: needs_molster(row) and not (row.get("product_lookup_status") or "").strip(),
+    )
+    if product_idxs:
+        batch_idxs = product_idxs[:MOLSTER_BATCH_SIZE]
+        progress(f"Checking Seeqe product ({len(batch_idxs)} LinkedIn URLs)")
+        try:
+            return _run_product_lookup(input_rows, results, batch_idxs)
+        except SeeqeContactLookupError as exc:
+            raise EmailEnrichmentError(str(exc), transient=exc.transient) from exc
 
     molster_idxs = _indexes(results, needs_molster)
     if not molster_idxs:
@@ -184,6 +201,46 @@ def take_enrichment_step(
         if wait_for_molster_quota:
             raise _quota_error(exc) from exc
         raise EmailEnrichmentError(str(exc), transient=True, retry_after_ts=exc.retry_after_ts) from exc
+
+
+def _run_product_lookup(
+    input_rows: list[dict[str, Any]],
+    results: list[dict[str, Any]],
+    indexes: list[int],
+) -> StepResult:
+    by_url: dict[str, Any] = {}
+    found = 0
+    for i in indexes:
+        url = (input_rows[i].get("linkedin_url") or results[i].get("linkedin_url") or "").strip()
+        if not url or not is_valid_linkedin_url(url):
+            results[i]["product_lookup_status"] = "no_linkedin_url"
+            continue
+        key = linkedin_match_key(url)
+        if key not in by_url:
+            by_url[key] = find_existing_contact(url)
+        contact = by_url[key]
+        if contact:
+            emails = contact.all_emails or (contact.email,)
+            results[i].update(
+                {
+                    "work_email": contact.email,
+                    "email_status": "existing_product_email",
+                    "all_work_emails": ", ".join(emails),
+                    "status": STATUS_FOUND,
+                    "email_source": "seeqe_product",
+                    "product_person_id": contact.person_id,
+                    "product_lookup_status": "found",
+                }
+            )
+            found += 1
+        else:
+            results[i]["product_lookup_status"] = "not_found"
+
+    logger.info("Seeqe product step: %s contacts, %s existing emails", len(indexes), found)
+    return StepResult(
+        done=False,
+        progress_item=f"Seeqe checked {len(indexes)} contacts ({found} existing emails)",
+    )
 
 
 def _run_molster(
@@ -267,10 +324,6 @@ def enrich_contacts(
     """Enrich contacts via MoltSets and retain Bouncer-deliverable emails."""
     if not rows:
         return []
-    if not email_providers_configured():
-        raise EmailEnrichmentError(
-            "Missing MOLSTER_API_KEY or BOUNCER_API_KEY in environment."
-        )
 
     results = [empty_result_row(row) for row in rows]
     total = len(rows)

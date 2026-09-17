@@ -51,6 +51,7 @@ class BouncerFilteringTests(unittest.TestCase):
         self.assertEqual(result["email_status"], "risky")
         self.assertEqual(result["email_source"], "")
         self.assertEqual(result["molster_risk_score"], "A")
+        self.assertEqual(result["molster_email"], "jane@acme.example")
 
 
 if __name__ == "__main__":
