@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 import re
 from dataclasses import dataclass
 from typing import Any, Iterable
@@ -9,6 +10,8 @@ from typing import Any, Iterable
 import requests
 
 from config import settings
+
+logger = logging.getLogger(__name__)
 
 TIMEOUT_SECONDS = 30
 EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
@@ -33,6 +36,15 @@ class ExistingContact:
 
 def configured() -> bool:
     return bool((settings.vieu_api_key or "").strip())
+
+
+# Skip further Seeqe reads after a non-transient failure (e.g. 403 SCOPE_INSUFFICIENT).
+_lookup_disabled_reason: str | None = None
+
+
+def reset_lookup_circuit() -> None:
+    global _lookup_disabled_reason
+    _lookup_disabled_reason = None
 
 
 def _get(path: str, params: dict[str, str]) -> Any:
@@ -103,19 +115,31 @@ def _emails(payload: Any) -> tuple[str, ...]:
 
 
 def find_existing_contact(linkedin_url: str, *, person_id: str = "") -> ExistingContact | None:
-    """Resolve a person by LinkedIn URL, then return an existing product email."""
-    resolved_id = (person_id or "").strip()
-    if not resolved_id:
-        search = _get(
-            "/api/v2/persons/search",
-            {"linkedInUrl": (linkedin_url or "").strip()},
-        )
-        resolved_id = _person_id(search)
-    if not resolved_id:
-        return None
+    """Resolve a person by LinkedIn URL, then return an existing product email.
 
-    contact = _get("/api/v2/persons/contact", {"personId": resolved_id})
-    emails = _emails(contact)
-    if not emails:
+    Lookup failures are swallowed so vendor files and email jobs can continue.
+    """
+    global _lookup_disabled_reason
+    if _lookup_disabled_reason:
         return None
-    return ExistingContact(person_id=resolved_id, email=emails[0], all_emails=emails)
+    try:
+        resolved_id = (person_id or "").strip()
+        if not resolved_id:
+            search = _get(
+                "/api/v2/persons/search",
+                {"linkedInUrl": (linkedin_url or "").strip()},
+            )
+            resolved_id = _person_id(search)
+        if not resolved_id:
+            return None
+
+        contact = _get("/api/v2/persons/contact", {"personId": resolved_id})
+        emails = _emails(contact)
+        if not emails:
+            return None
+        return ExistingContact(person_id=resolved_id, email=emails[0], all_emails=emails)
+    except SeeqeContactLookupError as exc:
+        logger.warning("Seeqe product email lookup failed; continuing without it: %s", exc)
+        if not exc.transient:
+            _lookup_disabled_reason = str(exc)
+        return None

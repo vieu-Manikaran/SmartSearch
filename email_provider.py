@@ -183,7 +183,14 @@ def take_enrichment_step(
         try:
             return _run_product_lookup(input_rows, results, batch_idxs)
         except SeeqeContactLookupError as exc:
-            raise EmailEnrichmentError(str(exc), transient=exc.transient) from exc
+            logger.warning("Seeqe product lookup failed; continuing with MoltSets: %s", exc)
+            for i in batch_idxs:
+                if not (results[i].get("product_lookup_status") or "").strip():
+                    results[i]["product_lookup_status"] = "lookup_failed"
+            return StepResult(
+                done=False,
+                progress_item="Seeqe lookup skipped after error",
+            )
 
     molster_idxs = _indexes(results, needs_molster)
     if not molster_idxs:
@@ -217,7 +224,15 @@ def _run_product_lookup(
             continue
         key = linkedin_match_key(url)
         if key not in by_url:
-            by_url[key] = find_existing_contact(url)
+            try:
+                by_url[key] = find_existing_contact(url)
+            except SeeqeContactLookupError as exc:
+                logger.warning(
+                    "Seeqe product email lookup failed for %s; continuing: %s",
+                    url,
+                    exc,
+                )
+                by_url[key] = None
         contact = by_url[key]
         if contact:
             emails = contact.all_emails or (contact.email,)

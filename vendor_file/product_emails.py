@@ -3,11 +3,14 @@
 from __future__ import annotations
 
 import csv
+import logging
 from pathlib import Path
 from typing import Any
 
-from seeqe_contact_lookup import find_existing_contact
+from seeqe_contact_lookup import SeeqeContactLookupError, find_existing_contact
 from vendor_file.urls import canonicalize_person_url
+
+logger = logging.getLogger(__name__)
 
 EXISTING_EMAIL_COLUMNS = [
     "source_row",
@@ -49,7 +52,15 @@ def split_existing_product_emails(
             remaining.append(row)
             continue
         if person.url not in cache:
-            cache[person.url] = find_existing_contact(person.url)
+            try:
+                cache[person.url] = find_existing_contact(person.url)
+            except SeeqeContactLookupError as exc:
+                logger.warning(
+                    "Seeqe product email lookup failed for %s; continuing: %s",
+                    person.url,
+                    exc,
+                )
+                cache[person.url] = None
         contact = cache[person.url]
         if not contact:
             remaining.append(row)

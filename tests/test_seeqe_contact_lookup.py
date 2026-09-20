@@ -6,11 +6,18 @@ from unittest.mock import Mock, patch
 
 from email_provider import STATUS_FOUND, empty_result_row, take_enrichment_step
 from seeqe_email_callback import post_email_to_seeqe
-from seeqe_contact_lookup import ExistingContact, find_existing_contact
+from seeqe_contact_lookup import (
+    ExistingContact,
+    SeeqeContactLookupError,
+    find_existing_contact,
+    reset_lookup_circuit,
+)
 from vendor_file.product_emails import split_existing_product_emails
 
 
 class SeeqeContactLookupTests(unittest.TestCase):
+    def setUp(self) -> None:
+        reset_lookup_circuit()
     @patch("seeqe_contact_lookup.settings.vieu_api_key", "test-key")
     @patch("seeqe_contact_lookup.requests.get")
     def test_searches_person_then_reads_work_email(self, get: Mock) -> None:
@@ -70,8 +77,42 @@ class SeeqeContactLookupTests(unittest.TestCase):
         )
         post.assert_not_called()
 
+    @patch("seeqe_contact_lookup.settings.vieu_api_key", "test-key")
+    @patch("seeqe_contact_lookup.requests.get")
+    def test_forbidden_lookup_returns_none_instead_of_raising(self, get: Mock) -> None:
+        forbidden = Mock(status_code=403)
+        forbidden.text = '{"code":"ERR_FORBIDDEN","reason":"SCOPE_INSUFFICIENT"}'
+        get.return_value = forbidden
+
+        result = find_existing_contact("https://www.linkedin.com/in/jane")
+
+        self.assertIsNone(result)
+        find_existing_contact("https://www.linkedin.com/in/john")
+        self.assertEqual(get.call_count, 1)
+
+    @patch("email_provider.find_existing_contact")
+    def test_email_provider_continues_when_product_lookup_raises(self, lookup: Mock) -> None:
+        lookup.side_effect = SeeqeContactLookupError(
+            "Seeqe product lookup returned HTTP 403",
+            transient=False,
+        )
+        source = {
+            "person": "Jane",
+            "company": "Acme",
+            "linkedin_url": "https://www.linkedin.com/in/jane",
+        }
+        results = [empty_result_row(source)]
+
+        first = take_enrichment_step([source], results)
+
+        self.assertFalse(first.done)
+        self.assertEqual(results[0]["product_lookup_status"], "not_found")
+        self.assertNotEqual(results[0].get("status"), STATUS_FOUND)
+
 
 class VendorProductSplitTests(unittest.TestCase):
+    def setUp(self) -> None:
+        reset_lookup_circuit()
     @patch("vendor_file.product_emails.find_existing_contact")
     def test_existing_email_is_removed_and_written_separately(self, lookup: Mock) -> None:
         lookup.side_effect = [
@@ -139,6 +180,33 @@ class VendorProductSplitTests(unittest.TestCase):
         self.assertEqual(len(remaining), 1)
         self.assertFalse(remaining[0]["email_required"])
         self.assertTrue(remaining[0]["phone_required"])
+
+    @patch("vendor_file.product_emails.find_existing_contact")
+    def test_lookup_error_keeps_rows_for_vendor(self, lookup: Mock) -> None:
+        lookup.side_effect = SeeqeContactLookupError(
+            "Seeqe product lookup returned HTTP 403",
+            transient=False,
+        )
+        rows = [
+            {
+                "source_row": "2",
+                "name": "Jane",
+                "person_linkedin": "https://linkedin.com/in/jane",
+                "company_name": "Acme",
+                "company_linkedin": "https://linkedin.com/company/acme",
+                "email_required": True,
+                "phone_required": False,
+            }
+        ]
+        with tempfile.TemporaryDirectory() as temp:
+            remaining, _path, count = split_existing_product_emails(
+                rows,
+                uid="VEN-TEST",
+                out_dir=Path(temp),
+            )
+
+        self.assertEqual(count, 0)
+        self.assertEqual([row["name"] for row in remaining], ["Jane"])
 
 
 if __name__ == "__main__":
