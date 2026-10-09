@@ -37,7 +37,7 @@ class KeyFallbackTests(unittest.TestCase):
     @patch("rapidapi_person_deep.collect_rapidapi_keys", return_value=["key-a", "key-b"])
     @patch("rapidapi_person_deep.fetch_person_deep")
     def test_second_key_is_tried_when_first_returns_403(self, fetch, _keys) -> None:
-        def fake(_link: str, api_key: str) -> dict:
+        def fake(_link: str, api_key: str, pace: bool = False) -> dict:
             if api_key == "key-b":
                 return {"success": False, "error": "http_403"}
             return {"success": True, "data": {"publicIdentifier": "jane-doe"}}
@@ -55,7 +55,7 @@ class KeyFallbackTests(unittest.TestCase):
     @patch("rapidapi_person_deep.collect_rapidapi_keys", return_value=["key-a", "key-b"])
     @patch("rapidapi_person_deep.fetch_person_deep")
     def test_batch_does_not_leave_every_other_row_unresolved(self, fetch, _keys) -> None:
-        def fake(link: str, api_key: str) -> dict:
+        def fake(link: str, api_key: str, pace: bool = False) -> dict:
             if api_key == "key-b":
                 return {"success": False, "error": "unauthorized"}
             slug = "odd-row" if "odd" in link else "even-row"
@@ -76,7 +76,7 @@ class KeyFallbackTests(unittest.TestCase):
     @patch("rapidapi_person_deep.collect_rapidapi_keys", return_value=["key-a", "key-b"])
     @patch("rapidapi_person_deep.fetch_person_deep")
     def test_still_urn_then_vanity_from_other_key(self, fetch, _keys) -> None:
-        def fake(_link: str, api_key: str) -> dict:
+        def fake(_link: str, api_key: str, pace: bool = False) -> dict:
             if api_key == "key-a":
                 return {
                     "success": True,
@@ -92,7 +92,7 @@ class KeyFallbackTests(unittest.TestCase):
     @patch("rapidapi_person_deep.collect_rapidapi_keys", return_value=["key-a", "key-b"])
     @patch("rapidapi_person_deep.fetch_person_deep")
     def test_unauthorized_key_is_skipped_on_later_rows(self, fetch, _keys) -> None:
-        def fake(_link: str, api_key: str) -> dict:
+        def fake(_link: str, api_key: str, pace: bool = False) -> dict:
             if api_key == "key-b":
                 return {"success": False, "error": "unauthorized"}
             return {"success": True, "data": {"publicIdentifier": "jane-doe"}}
@@ -123,3 +123,42 @@ class ProviderBusyTests(unittest.TestCase):
         self.assertEqual(result, {"success": False, "error": "provider_busy"})
         self.assertEqual(post.call_count, 2)
         self.assertEqual(sleep.call_count, 1)
+
+    @patch("rapidapi_person_deep.time.sleep")
+    @patch("rapidapi_person_deep.requests.post")
+    def test_paced_calls_wait_between_requests(self, post, sleep) -> None:
+        resp = MagicMock()
+        resp.status_code = 200
+        resp.json.return_value = {"success": True, "data": {"publicIdentifier": "jane-doe"}}
+        post.return_value = resp
+        fetch_person_deep("https://www.linkedin.com/in/jane/", "key-pace", pace=True)
+        fetch_person_deep("https://www.linkedin.com/in/jane/", "key-pace", pace=True)
+        self.assertGreaterEqual(sleep.call_count, 1)
+
+    @patch("rapidapi_person_deep.collect_rapidapi_keys", return_value=["key-a", "key-b"])
+    @patch("rapidapi_person_deep.fetch_person_deep")
+    def test_provider_busy_does_not_try_the_other_key(self, fetch, _keys) -> None:
+        fetch.return_value = {"success": False, "error": "provider_busy"}
+        result = resolve_vanity_url("https://www.linkedin.com/in/ACwAAACH0QcBJJ6rWWPQOtkcPZ_uowmGGzval58/")
+        self.assertEqual(result["status"], "provider_busy")
+        self.assertEqual(fetch.call_count, 1)
+
+    @patch("rapidapi_person_deep.time.sleep")
+    @patch("rapidapi_person_deep.collect_rapidapi_keys", return_value=["key-a"])
+    @patch("rapidapi_person_deep.fetch_person_deep")
+    def test_batch_retries_provider_busy_instead_of_dropping_the_row(self, fetch, _keys, _sleep) -> None:
+        calls = {"n": 0}
+
+        def fake(_link: str, _api_key: str, pace: bool = False) -> dict:
+            calls["n"] += 1
+            if calls["n"] == 1:
+                return {"success": False, "error": "provider_busy"}
+            return {"success": True, "data": {"publicIdentifier": "jane-doe"}}
+
+        fetch.side_effect = fake
+        out = resolve_profiles_batch(
+            [{"linkedin_url": "https://www.linkedin.com/in/ACwAAACH0QcBJJ6rWWPQOtkcPZ_uowmGGzval58/"}]
+        )
+        self.assertEqual(out[0]["status"], "resolved")
+        self.assertEqual(out[0]["public_identifier"], "jane-doe")
+        self.assertGreaterEqual(calls["n"], 2)

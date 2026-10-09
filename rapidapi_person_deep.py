@@ -21,6 +21,12 @@ MAX_RETRIES = 6
 RETRY_BACKOFF_SEC = 3.0
 PROVIDER_BUSY_ATTEMPTS = 2
 PROVIDER_BUSY_BACKOFF_SEC = 1.5
+# Same gap the vendor pipeline uses. provider_busy is a shared scraper pool
+# (HTTP 500 "no free account"), not a per-key 429, so extra workers do not help.
+REQUEST_GAP_SEC = 0.8
+_RETRY_LATER_STATUSES = {"provider_busy", "max_retries_exceeded", "network_error"}
+_BATCH_RETRY_PASSES = 8
+_BATCH_RETRY_BACKOFF_SEC = (4.0, 8.0, 12.0, 16.0, 20.0, 24.0, 30.0)
 LINKEDIN_IN_RE = re.compile(r"linkedin\.com/in/([^/?#]+)", re.I)
 MEMBER_URN_SLUG_RE = re.compile(r"^AC[ow]A[A-Za-z0-9_-]+$", re.I)
 _AUTH_ERROR_MARKERS = (
@@ -40,6 +46,7 @@ _key_locks: dict[str, threading.Lock] = {}
 _key_health_lock = threading.Lock()
 _disabled_keys: set[str] = set()
 _key_fail_counts: dict[str, int] = {}
+_last_request_at: dict[str, float] = {}
 
 
 class PersonDeepError(Exception):
@@ -49,7 +56,7 @@ class PersonDeepError(Exception):
 def collect_rapidapi_keys() -> list[str]:
     seen: set[str] = set()
     out: list[str] = []
-    for raw in (settings.rapidapi_key, settings.rapidapi_key2):
+    for raw in (settings.rapidapi_key, settings.rapidapi_key2, settings.rapidapi_key3):
         key = (raw or "").strip()
         if key and key not in seen:
             seen.add(key)
@@ -62,6 +69,7 @@ def reset_rapidapi_key_health() -> None:
     with _key_health_lock:
         _disabled_keys.clear()
         _key_fail_counts.clear()
+    _last_request_at.clear()
 
 
 def is_rapidapi_key_disabled(api_key: str) -> bool:
@@ -119,6 +127,15 @@ def _keys_to_try(preferred: str | None = None) -> list[str]:
         rest = [key for key in keys if key != preferred_key]
         return [preferred_key, *rest]
     return keys
+
+
+def _pace_key(api_key: str) -> None:
+    """Wait out the per-key gap. Caller must already hold that key's lock."""
+    last = _last_request_at.get(api_key, 0.0)
+    wait = REQUEST_GAP_SEC - (time.time() - last)
+    if wait > 0:
+        time.sleep(wait)
+    _last_request_at[api_key] = time.time()
 
 
 def _lock_for_key(api_key: str) -> threading.Lock:
@@ -265,9 +282,12 @@ def vanity_identifier_from_person_data(data: dict[str, Any]) -> str:
     return slugs[0] if slugs else ""
 
 
-def fetch_person_deep(link: str, api_key: str) -> dict[str, Any]:
+def fetch_person_deep(link: str, api_key: str, *, pace: bool = False) -> dict[str, Any]:
     """
     Call POST /person_deep for one profile URL.
+
+    pace=True keeps REQUEST_GAP_SEC between calls on the same key. URN resolution
+    turns this on. Other callers already throttle themselves.
 
     Returns {"success": True, "data": {...}} or {"success": False, "error": "<code>"}.
     """
@@ -280,6 +300,8 @@ def fetch_person_deep(link: str, api_key: str) -> dict[str, Any]:
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             with _lock_for_key(api_key):
+                if pace:
+                    _pace_key(api_key)
                 resp = requests.post(
                     url,
                     headers=_headers(api_key),
@@ -385,6 +407,12 @@ def resolve_vanity_url(link: str, api_key: str | None = None) -> dict[str, str]:
     Tries every healthy RapidAPI key. A dead/unsubscribed key is disabled after
     the first auth failure so later rows are not slowed down by retries.
 
+    provider_busy means the scraper's shared LinkedIn accounts are exhausted
+    (HTTP 500, "no free account spotted"). That is not a 429, and the other
+    keys use the same pool, so a busy response is returned instead of fanning
+    out. HTTP 429 still retries on the same key with backoff, then may try
+    another key.
+
     Returns keys: linkedin_url_input, linkedin_url_resolved, public_identifier, status.
     """
     normalized = normalize_linkedin_profile_url(link)
@@ -395,10 +423,12 @@ def resolve_vanity_url(link: str, api_key: str | None = None) -> dict[str, str]:
     last_status = "resolve_failed"
     last_public = ""
     for key in keys:
-        result = fetch_person_deep(normalized, key)
+        result = fetch_person_deep(normalized, key, pace=True)
         if not result.get("success"):
             last_status = str(result.get("error") or "resolve_failed")
             _record_key_outcome(key, last_status)
+            if last_status == "provider_busy":
+                break
             continue
         _record_key_outcome(key, None)
 
@@ -429,7 +459,11 @@ def resolve_profiles_batch(
     *,
     progress: Callable[[int, int, str], None] | None = None,
 ) -> list[dict[str, Any]]:
-    """Resolve many profile rows concurrently (one RapidAPI key per worker, with fallback)."""
+    """Resolve many profile rows concurrently (one RapidAPI key per worker, with fallback).
+
+    Rows that come back provider_busy or rate-limited are retried after a pause
+    instead of being written off on the first pass.
+    """
     keys = healthy_rapidapi_keys() or collect_rapidapi_keys()
     if not keys:
         out: list[dict[str, Any]] = []
@@ -446,8 +480,8 @@ def resolve_profiles_batch(
         return out
 
     total = len(rows)
-    workers = min(len(keys), total) if total else 1
     completed = 0
+    pending = list(range(total))
     results: list[dict[str, Any] | None] = [None] * total
 
     def _resolve_index(idx: int) -> tuple[int, dict[str, Any]]:
@@ -467,14 +501,38 @@ def resolve_profiles_batch(
         )
         return idx, merged
 
-    with ThreadPoolExecutor(max_workers=workers) as pool:
-        futures = {pool.submit(_resolve_index, i): i for i in range(total)}
-        for future in as_completed(futures):
-            idx, merged = future.result()
-            results[idx] = merged
-            completed += 1
-            if progress:
+    for pass_no in range(1, _BATCH_RETRY_PASSES + 1):
+        if not pending:
+            break
+        if pass_no > 1:
+            delay = _BATCH_RETRY_BACKOFF_SEC[
+                min(pass_no - 2, len(_BATCH_RETRY_BACKOFF_SEC) - 1)
+            ]
+            logger.info(
+                "URN resolve retry pass %s for %s rows after %.0fs",
+                pass_no,
+                len(pending),
+                delay,
+            )
+            time.sleep(delay)
+        live_count = len(healthy_rapidapi_keys() or keys)
+        workers = min(live_count, len(pending)) if pending else 1
+        retry_later: list[int] = []
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            futures = {pool.submit(_resolve_index, i): i for i in pending}
+            for future in as_completed(futures):
+                idx, merged = future.result()
+                status = str(merged.get("status") or "")
                 label = str(merged.get("linkedin_url") or "")
-                progress(completed, total, label)
+                if status in _RETRY_LATER_STATUSES and pass_no < _BATCH_RETRY_PASSES:
+                    retry_later.append(idx)
+                    if progress:
+                        progress(completed, total, label)
+                    continue
+                results[idx] = merged
+                completed += 1
+                if progress:
+                    progress(completed, total, label)
+        pending = retry_later
 
     return [r for r in results if r is not None]
