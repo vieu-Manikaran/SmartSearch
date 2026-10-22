@@ -28,6 +28,8 @@ EMAIL_ENRICHMENT_EXTRA_COLUMNS = [
     "Molster_Status",
     "Molster_Risk_Score",
     "Molster_Last_Validated_At",
+    "FullEnrich_Email",
+    "FullEnrich_Status",
 ]
 
 STATUS_PENDING = "pending"
@@ -47,7 +49,12 @@ def job_dir(job_id: str) -> Path:
     return JOBS_ROOT / job_id
 
 
-def create_job(rows: list[dict[str, Any]], recipient_email: str) -> str:
+def create_job(
+    rows: list[dict[str, Any]],
+    recipient_email: str,
+    *,
+    use_fullenrich: bool = False,
+) -> str:
     JOBS_ROOT.mkdir(parents=True, exist_ok=True)
     job_id = datetime.now().strftime("%Y%m%d_%H%M%S") + "_" + uuid.uuid4().hex[:8]
     path = job_dir(job_id)
@@ -68,6 +75,7 @@ def create_job(rows: list[dict[str, Any]], recipient_email: str) -> str:
         "summary": "",
         "email_sent": False,
         "results_file": "results.csv",
+        "use_fullenrich": bool(use_fullenrich),
     }
     save_meta(job_id, meta)
     save_input_rows(job_id, rows)
@@ -76,6 +84,9 @@ def create_job(rows: list[dict[str, Any]], recipient_email: str) -> str:
         {
             "batches_completed": 0,
             "rows_processed": 0,
+            "pending_enrichment_id": "",
+            "pending_batch_start": -1,
+            "pending_fullenrich_indexes": [],
         },
     )
     logger.info("Created email enrichment job %s (%s rows) for %s", job_id, len(rows), recipient_email)
@@ -116,7 +127,13 @@ def save_checkpoint(job_id: str, checkpoint: dict[str, Any]) -> None:
 def load_checkpoint(job_id: str) -> dict[str, Any]:
     path = job_dir(job_id) / "checkpoint.json"
     if not path.is_file():
-        return {"batches_completed": 0, "rows_processed": 0}
+        return {
+            "batches_completed": 0,
+            "rows_processed": 0,
+            "pending_enrichment_id": "",
+            "pending_batch_start": -1,
+            "pending_fullenrich_indexes": [],
+        }
     return json.loads(path.read_text(encoding="utf-8"))
 
 
@@ -163,6 +180,8 @@ def write_results_csv(path: Path, rows: list[dict[str, Any]]) -> None:
                     "Molster_Status": row.get("molster_status") or "",
                     "Molster_Risk_Score": row.get("molster_risk_score") or "",
                     "Molster_Last_Validated_At": row.get("molster_last_validated_at") or "",
+                    "FullEnrich_Email": row.get("fullenrich_email") or "",
+                    "FullEnrich_Status": row.get("fullenrich_status") or "",
                 }
             )
             writer.writerow(out)
@@ -213,6 +232,8 @@ def _empty_result_row(row: dict[str, Any]) -> dict[str, Any]:
         "molster_status": "",
         "molster_risk_score": "",
         "molster_last_validated_at": "",
+        "fullenrich_email": "",
+        "fullenrich_status": "",
     }
 
 

@@ -31,7 +31,12 @@ from email_enrichment_jobs import (
     submit_email_enrichment_job,
 )
 from email_enrichment_store import count_pending_jobs, write_results_csv
-from email_provider import EmailEnrichmentError, email_providers_configured, enrich_contacts
+from email_provider import (
+    EmailEnrichmentError,
+    email_providers_configured,
+    enrich_contacts,
+    fullenrich_password_matches,
+)
 from molster_client import MolsterError, is_valid_linkedin_url
 from seeqe_email_callback import post_email_to_seeqe
 from linkedin_jobs import (
@@ -154,7 +159,7 @@ HTML_TEMPLATE = """
     <a href="{{ url_for('company_linkedin_finder') }}">Company LinkedIn finder</a> &mdash; CSV or single company &rarr; company LinkedIn page (website scrape first when a domain is present, then Serper).<br>
     <a href="{{ url_for('person_linkedin_finder') }}">Person LinkedIn finder</a> &mdash; CSV or single person + company &rarr; person LinkedIn profile.<br>
     <a href="{{ url_for('urn_resolve_finder') }}">LinkedIn URN resolver</a> &mdash; CSV or single URN profile URL &rarr; vanity LinkedIn URL via RapidAPI.<br>
-    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; Bouncer-verified work email via MoltSets.<br>
+    <a href="{{ url_for('email_finder') }}">Email finder</a> &mdash; CSV or single person + LinkedIn URL &rarr; Bouncer-verified work email via MoltSets, with a password-gated FullEnrich fallback.<br>
     <a href="{{ url_for('company_enrich_finder') }}">Company employee count</a> &mdash; CSV with company name + LinkedIn URL &rarr; employee count and numeric LinkedIn ID via RapidAPI.<br>
     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a> &mdash; CSV of stakeholders + your email &rarr; vendor-ready email/phone request file via RapidAPI, emailed when done.
   </p>
@@ -419,7 +424,7 @@ EMAIL_RESULTS_TABLE = """
   <h3>Result</h3>
   <table>
     <thead>
-      <tr><th>Person</th><th>Company</th><th>LinkedIn URL</th><th>Work email</th><th>Email status</th><th>Source</th><th>All work emails</th><th>Job title</th><th>Status</th></tr>
+      <tr><th>Person</th><th>Company</th><th>LinkedIn URL</th><th>Work email</th><th>Email status</th><th>Source</th><th>FullEnrich status</th><th>All work emails</th><th>Job title</th><th>Status</th></tr>
     </thead>
     <tbody>
       {% for row in rows %}
@@ -430,6 +435,7 @@ EMAIL_RESULTS_TABLE = """
         <td>{{ row.work_email or "—" }}</td>
         <td>{{ row.email_status or "—" }}</td>
         <td>{{ row.email_source or "—" }}</td>
+        <td>{{ row.fullenrich_status or "—" }}</td>
         <td class="small">{{ row.all_work_emails or "—" }}</td>
         <td>{{ row.job_title or "—" }}</td>
         <td>{{ row.status }}</td>
@@ -679,8 +685,8 @@ EMAIL_FINDER_TEMPLATE = (
     &nbsp;|&nbsp;
     <a href="{{ url_for('vendor_file_finder') }}">Vendor email file</a>
   </p>
-  <h2>Email finder (Seeqe product → MoltSets + Bouncer)</h2>
-  <p class="small">Check Seeqe for existing work emails first. Only contacts without a product email continue to MoltSets (batches of 100; ~5k emails / 5 hours) and Bouncer verification. Newly found Bouncer-deliverable emails are sent to the graph. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Jobs survive restarts and resume from the last checkpoint.</p>
+  <h2>Email finder (Seeqe product → MoltSets + Bouncer → FullEnrich)</h2>
+  <p class="small">Check Seeqe for a work email that matches the company, then verify it with Bouncer. Only a deliverable address is kept. Contacts without one continue to MoltSets (batches of 100; ~5k emails / 5 hours) and Bouncer verification. If you enter the FullEnrich password, MoltSets misses are sent to FullEnrich. Only a FullEnrich <strong>Valid</strong> address (<code>DELIVERABLE</code>) is considered — Probably valid, catch-all, and invalid are ignored — and that address must also be Bouncer deliverable. Newly found Bouncer-deliverable emails are sent to the graph. One person: result on this page. CSV upload: enter your email and submit — we queue the job, process in resumable batches, and email the CSV when done. Jobs survive restarts and resume from the last checkpoint. Leave the FullEnrich password blank to skip FullEnrich.</p>
   <p class="small"><strong>CSV limit:</strong> upload <strong>at most 500 records</strong>. Files with more than 500 data rows are rejected — split the list and submit separate jobs.</p>
 
   <div class="csv-spec">
@@ -713,7 +719,7 @@ EMAIL_FINDER_TEMPLATE = (
         </tr>
       </tbody>
     </table>
-    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then these appended columns: <code>Work_Email</code>, <code>Email_Status</code>, <code>All_Work_Emails</code>, <code>Job_Title</code>, <code>Enrichment_Status</code>, <code>Email_Source</code>, <code>Product_Person_ID</code>, <code>Product_Lookup_Status</code>, <code>Molster_Risk_Score</code>, <code>Molster_Last_Validated_At</code>.</p>
+    <p class="small" style="margin-top:12px;"><strong>Results file:</strong> your original columns first, then these appended columns: <code>Work_Email</code>, <code>Email_Status</code>, <code>All_Work_Emails</code>, <code>Job_Title</code>, <code>Enrichment_Status</code>, <code>Email_Source</code>, <code>Product_Person_ID</code>, <code>Product_Lookup_Status</code>, <code>Molster_Risk_Score</code>, <code>Molster_Last_Validated_At</code>, <code>FullEnrich_Email</code>, <code>FullEnrich_Status</code>.</p>
   </div>
 
   <p class="small"><strong>Example CSV:</strong></p>
@@ -730,6 +736,10 @@ John Smith,Vistra,https://www.linkedin.com/in/john-smith/</pre>
     <fieldset {% if prog.server_busy %}disabled{% endif %}>
     <label for="email">Your email (required only for CSV with multiple rows)</label>
     <input type="email" name="email" id="email" placeholder="you@company.com">
+
+    <label for="fullenrich_password">FullEnrich password</label>
+    <input type="password" name="fullenrich_password" id="fullenrich_password" autocomplete="current-password" placeholder="Required only to use FullEnrich">
+    <p class="small">Leave blank to stop after Seeqe and MoltSets. A matching password unlocks FullEnrich for this submission. A wrong password is rejected.</p>
 
     <label for="csv_file">CSV file (optional, max 500 records)</label>
     <input type="file" name="csv_file" id="csv_file" accept=".csv,text/csv">
@@ -2457,13 +2467,35 @@ def _parse_email_submission() -> tuple[list[dict[str, str]], str, str, str | Non
     )
 
 
-def _lookup_single_email(row: dict[str, str]) -> tuple[dict[str, str] | None, str | None]:
+def _fullenrich_opt_in() -> tuple[bool, str | None]:
+    """Return whether this submission may call FullEnrich."""
+    submitted = request.form.get("fullenrich_password") or ""
+    if not submitted.strip():
+        return False, None
+    if not (settings.fullenrich_password or "").strip():
+        return False, "FullEnrich password is not configured on the server (FULLENRICH_PASSWORD)."
+    if not fullenrich_password_matches(submitted):
+        return False, "Incorrect FullEnrich password."
+    if not (settings.fullenrich_api_key or "").strip():
+        return False, "Missing FULLENRICH_API_KEY in environment."
+    return True, None
+
+
+def _lookup_single_email(
+    row: dict[str, str],
+    *,
+    use_fullenrich: bool = False,
+) -> tuple[dict[str, str] | None, str | None]:
     if is_email_job_running():
         return None, "An email enrichment job is already running. See progress above."
     if not try_acquire_email_worker():
         return None, "Another email lookup is in progress. Please wait."
     try:
-        results = enrich_contacts([row], wait_for_molster_quota=False)
+        results = enrich_contacts(
+            [row],
+            wait_for_molster_quota=False,
+            use_fullenrich=use_fullenrich,
+        )
         if not results:
             return None, "No result returned from email enrichment."
         result = results[0]
@@ -2599,13 +2631,18 @@ def email_finder():
             ctx["message"] = err
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
+        use_fullenrich, password_err = _fullenrich_opt_in()
+        if password_err:
+            ctx["message"] = password_err
+            ctx["message_warn"] = True
+            return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
         if not email_providers_configured():
             ctx["message"] = "Missing MOLSTER_API_KEY or BOUNCER_API_KEY in environment."
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
 
         if mode == "single":
-            row, lookup_err = _lookup_single_email(rows[0])
+            row, lookup_err = _lookup_single_email(rows[0], use_fullenrich=use_fullenrich)
             if lookup_err:
                 ctx["message"] = lookup_err
                 ctx["message_warn"] = True
@@ -2620,7 +2657,11 @@ def email_finder():
             ctx["message_warn"] = True
             return render_template_string(EMAIL_FINDER_TEMPLATE, **ctx)
 
-        started, start_err, job_id = submit_email_enrichment_job(rows, email)
+        started, start_err, job_id = submit_email_enrichment_job(
+            rows,
+            email,
+            use_fullenrich=use_fullenrich,
+        )
         if not started:
             ctx["message"] = start_err or "Could not queue job."
             ctx["message_warn"] = True

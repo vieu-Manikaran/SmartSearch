@@ -51,7 +51,12 @@ def _sanitize_error_message(raw: str, *, max_len: int = 240) -> str:
     return text if len(text) <= max_len else text[: max_len - 3] + "..."
 
 
-def submit_email_enrichment_job(rows: list[dict[str, Any]], recipient_email: str) -> tuple[bool, str | None, str | None]:
+def submit_email_enrichment_job(
+    rows: list[dict[str, Any]],
+    recipient_email: str,
+    *,
+    use_fullenrich: bool = False,
+) -> tuple[bool, str | None, str | None]:
     """
     Queue a persistent enrichment job. Returns (ok, error_message, job_id).
     Jobs are processed one at a time and survive server restarts.
@@ -65,7 +70,7 @@ def submit_email_enrichment_job(rows: list[dict[str, Any]], recipient_email: str
             "Split the list and submit separate jobs.",
             None,
         )
-    job_id = create_job(rows, recipient_email)
+    job_id = create_job(rows, recipient_email, use_fullenrich=use_fullenrich)
     _ensure_queue_worker()
     with _state_lock:
         if not _email_job.get("running"):
@@ -187,9 +192,10 @@ def _process_job(job_id: str) -> None:
     checkpoint = load_checkpoint(job_id)
     batches_completed = int(checkpoint.get("batches_completed") or 0)
     results = load_results_state(job_id, input_rows)
+    use_fullenrich = bool(meta.get("use_fullenrich"))
     for row in results:
-        # Older checkpoints may contain MoltSets misses awaiting FullEnrich.
-        if (row.get("status") or "") == "molster_miss":
+        # Jobs that did not unlock FullEnrich must not resume a paid fallback.
+        if not use_fullenrich and (row.get("status") or "") == "molster_miss":
             row["status"] = "no_email_found"
 
     meta["status"] = STATUS_RUNNING
@@ -218,12 +224,32 @@ def _process_job(job_id: str) -> None:
         batches_completed,
     )
 
-    def _save_checkpoint(*, rows_processed: int) -> None:
+    pending_enrichment_id = (checkpoint.get("pending_enrichment_id") or "").strip()
+    pending_fullenrich_indexes = [
+        int(i) for i in (checkpoint.get("pending_fullenrich_indexes") or [])
+    ]
+    if not use_fullenrich:
+        pending_enrichment_id = ""
+        pending_fullenrich_indexes = []
+    elif pending_enrichment_id and not pending_fullenrich_indexes:
+        start = int(checkpoint.get("pending_batch_start") or -1)
+        if start >= 0:
+            pending_fullenrich_indexes = list(range(start, min(start + 50, total)))
+
+    def _save_checkpoint(
+        *,
+        rows_processed: int,
+        pending_id: str = "",
+        pending_indexes: list[int] | None = None,
+    ) -> None:
         save_checkpoint(
             job_id,
             {
                 "batches_completed": int(rows_processed // 100),
                 "rows_processed": rows_processed,
+                "pending_enrichment_id": pending_id,
+                "pending_batch_start": pending_indexes[0] if pending_indexes else -1,
+                "pending_fullenrich_indexes": pending_indexes or [],
             },
         )
 
@@ -236,13 +262,40 @@ def _process_job(job_id: str) -> None:
             def on_progress(current: int, tot: int, item: str) -> None:
                 _update_progress("email", min(current, total), total, item or "Enriching")
 
+            def on_fullenrich_started(enrichment_id: str, indexes: list[int]) -> None:
+                nonlocal pending_enrichment_id, pending_fullenrich_indexes
+                pending_enrichment_id = enrichment_id
+                pending_fullenrich_indexes = list(indexes)
+                rows_now = sum(
+                    1
+                    for row in results
+                    if (row.get("status") or "") in {"found", "no_email_found"}
+                )
+                _save_checkpoint(
+                    rows_processed=rows_now,
+                    pending_id=enrichment_id,
+                    pending_indexes=indexes,
+                )
+                logger.info(
+                    "Job %s saved pending FullEnrich %s (%s contacts)",
+                    job_id,
+                    enrichment_id,
+                    len(indexes),
+                )
+
             step = take_enrichment_step(
                 input_rows,
                 results,
                 wait_for_molster_quota=True,
+                use_fullenrich=use_fullenrich,
+                existing_enrichment_id=pending_enrichment_id or None,
+                pending_fullenrich_indexes=pending_fullenrich_indexes,
                 on_progress=on_progress,
+                on_fullenrich_started=on_fullenrich_started if use_fullenrich else None,
                 expected_total=total,
             )
+            pending_enrichment_id = ""
+            pending_fullenrich_indexes = []
 
             if step.newly_finished:
                 posted, callback_failed = sync_rows_to_seeqe(step.newly_finished)
@@ -290,18 +343,32 @@ def _process_job(job_id: str) -> None:
             )
 
         molster_ct = sum(1 for r in results if r.get("email_source") == "molster")
+        fullenrich_ct = sum(1 for r in results if r.get("email_source") == "fullenrich")
         product_ct = sum(1 for r in results if r.get("email_source") == "seeqe_product")
         found_ct = sum(1 for r in results if r.get("work_email"))
         suppressed_ct = sum(
             1
             for r in results
-            if (r.get("molster_email") or "").strip() and not (r.get("work_email") or "").strip()
+            if (r.get("molster_email") or "").strip() and r.get("email_source") != "molster"
+        )
+        fullenrich_skipped = sum(
+            1
+            for r in results
+            if (r.get("fullenrich_email") or "").strip() and r.get("email_source") != "fullenrich"
         )
         no_url_ct = sum(1 for r in results if (r.get("molster_status") or "") == "no_linkedin_url")
+        fullenrich_note = (
+            f"{fullenrich_ct} retained via FullEnrich Valid + Bouncer. "
+            f"{fullenrich_skipped} FullEnrich address(es) dropped "
+            f"(not Valid, or not Bouncer-deliverable). "
+            if use_fullenrich
+            else "FullEnrich was not unlocked for this job. "
+        )
         summary = (
             f"Processed {len(results)} contacts; {found_ct} work emails found "
             f"({product_ct} already in Seeqe, {molster_ct} retained via MoltSets + Bouncer). "
-            f"{suppressed_ct} MoltSets email(s) suppressed by Bouncer "
+            f"{fullenrich_note}"
+            f"{suppressed_ct} MoltSets email(s) were not kept "
             f"(see Molster_Email / Email_Status); {no_url_ct} row(s) had no usable LinkedIn URL."
         )
         final_path = results_path(job_id)

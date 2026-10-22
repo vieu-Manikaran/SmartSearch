@@ -1,13 +1,27 @@
-"""Email enrichment via MoltSets, verified by Bouncer."""
+"""Email enrichment via Seeqe, MoltSets, and an optional FullEnrich fallback.
+
+FullEnrich runs only when the caller has already checked FULLENRICH_PASSWORD.
+Only FullEnrich Valid addresses are sent to Bouncer, and only a Bouncer
+deliverable address is kept.
+"""
 
 from __future__ import annotations
 
+import hmac
 import logging
+import re
 import time
 from dataclasses import dataclass, field
 from typing import Any, Callable
 
 from bouncer_client import BouncerError, bouncer_configured, verify_email
+from config import settings
+from fullenrich_client import (
+    BATCH_SIZE as FULLENRICH_BATCH_SIZE,
+    FullEnrichError,
+    enrich_batch as fullenrich_batch,
+    is_valid_work_email_status,
+)
 from molster_client import (
     BATCH_SIZE as MOLSTER_BATCH_SIZE,
     MolsterError,
@@ -23,10 +37,13 @@ from seeqe_contact_lookup import SeeqeContactLookupError, find_existing_contact
 logger = logging.getLogger(__name__)
 
 STATUS_NOT_ENRICHED = "not_enriched"
+STATUS_MOLSTER_MISS = "molster_miss"
 STATUS_FOUND = "found"
 STATUS_NO_EMAIL = "no_email_found"
 
 ProgressCb = Callable[[int, int, str], None]
+FullEnrichStartedCb = Callable[[str, list[int]], None]
+_EMAIL_WITH_STATUS = re.compile(r"^(.*)\(([^)]+)\)\s*$")
 
 
 class EmailEnrichmentError(Exception):
@@ -55,6 +72,19 @@ def email_providers_configured() -> bool:
     return molster_configured() and bouncer_configured()
 
 
+def fullenrich_configured() -> bool:
+    return bool((settings.fullenrich_api_key or "").strip())
+
+
+def fullenrich_password_matches(submitted: str) -> bool:
+    """Constant-time check of the email-finder FullEnrich password."""
+    expected = (settings.fullenrich_password or "").strip()
+    given = (submitted or "").strip()
+    if not expected or not given:
+        return False
+    return hmac.compare_digest(given.encode("utf-8"), expected.encode("utf-8"))
+
+
 def _base_result_row(row: dict[str, Any]) -> dict[str, Any]:
     return {
         "person": row.get("person") or "",
@@ -74,6 +104,8 @@ def _base_result_row(row: dict[str, Any]) -> dict[str, Any]:
         "molster_status": "",
         "molster_risk_score": "",
         "molster_last_validated_at": "",
+        "fullenrich_email": "",
+        "fullenrich_status": "",
     }
 
 
@@ -88,6 +120,12 @@ def needs_molster(row: dict[str, Any]) -> bool:
     return status == STATUS_NOT_ENRICHED
 
 
+def needs_fullenrich(row: dict[str, Any]) -> bool:
+    if (row.get("work_email") or "").strip():
+        return False
+    return (row.get("status") or "").strip() == STATUS_MOLSTER_MISS
+
+
 def _finished_count(results: list[dict[str, Any]]) -> int:
     done = {STATUS_FOUND, STATUS_NO_EMAIL}
     return sum(1 for row in results if (row.get("status") or "") in done)
@@ -97,9 +135,14 @@ def _indexes(results: list[dict[str, Any]], predicate) -> list[int]:
     return [i for i, row in enumerate(results) if predicate(row)]
 
 
-def _mark_molster_miss(row: dict[str, Any], *, molster_status: str = "not_found") -> dict[str, Any]:
+def _mark_molster_miss(
+    row: dict[str, Any],
+    *,
+    molster_status: str = "not_found",
+    allow_fullenrich: bool = False,
+) -> dict[str, Any]:
     updated = dict(row)
-    updated["status"] = STATUS_NO_EMAIL
+    updated["status"] = STATUS_MOLSTER_MISS if allow_fullenrich else STATUS_NO_EMAIL
     updated["molster_status"] = molster_status
     return updated
 
@@ -108,6 +151,8 @@ def _mark_molster_hit(
     row: dict[str, Any],
     hit: dict[str, str],
     verification: dict[str, Any] | None = None,
+    *,
+    allow_fullenrich: bool = False,
 ) -> dict[str, Any]:
     email = (hit.get("email") or "").strip()
     risk = (hit.get("risk_score") or "").strip()
@@ -125,7 +170,11 @@ def _mark_molster_hit(
             "work_email": email if deliverable else "",
             "email_status": verification_status,
             "all_work_emails": email if deliverable else "",
-            "status": STATUS_FOUND if deliverable else STATUS_NO_EMAIL,
+            "status": (
+                STATUS_FOUND
+                if deliverable
+                else (STATUS_MOLSTER_MISS if allow_fullenrich else STATUS_NO_EMAIL)
+            ),
             "email_source": "molster" if deliverable else "",
             "molster_email": email,
             "molster_status": hit.get("status") or "ok",
@@ -163,15 +212,32 @@ def take_enrichment_step(
     results: list[dict[str, Any]],
     *,
     wait_for_molster_quota: bool = True,
+    use_fullenrich: bool = False,
+    existing_enrichment_id: str | None = None,
+    pending_fullenrich_indexes: list[int] | None = None,
     on_progress: ProgressCb | None = None,
+    on_fullenrich_started: FullEnrichStartedCb | None = None,
     expected_total: int | None = None,
 ) -> StepResult:
-    """Check Seeqe first, then run one MoltSets/Bouncer batch for remaining rows."""
+    """Check Seeqe, then MoltSets + Bouncer, then optional FullEnrich fallback."""
     total = expected_total or len(input_rows)
+    pending_indexes = list(pending_fullenrich_indexes or [])
 
     def progress(item: str) -> None:
         if on_progress:
             on_progress(_finished_count(results), total, item)
+
+    if use_fullenrich and existing_enrichment_id and pending_indexes:
+        progress(f"Resuming FullEnrich ({len(pending_indexes)} contacts)")
+        return _run_fullenrich(
+            input_rows,
+            results,
+            pending_indexes,
+            existing_enrichment_id=existing_enrichment_id,
+            on_progress=on_progress,
+            on_fullenrich_started=on_fullenrich_started,
+            expected_total=total,
+        )
 
     product_idxs = _indexes(
         results,
@@ -193,21 +259,58 @@ def take_enrichment_step(
             )
 
     molster_idxs = _indexes(results, needs_molster)
-    if not molster_idxs:
-        return StepResult(done=True, progress_item="Enrichment complete")
-    if not email_providers_configured():
-        raise EmailEnrichmentError(
-            "Missing MOLSTER_API_KEY or BOUNCER_API_KEY in environment."
-        )
+    fullenrich_idxs = _indexes(results, needs_fullenrich) if use_fullenrich else []
+    if molster_idxs:
+        if not email_providers_configured():
+            raise EmailEnrichmentError(
+                "Missing MOLSTER_API_KEY or BOUNCER_API_KEY in environment."
+            )
+        try:
+            batch_idxs = molster_idxs[:MOLSTER_BATCH_SIZE]
+            progress(f"MoltSets + Bouncer batch ({len(batch_idxs)} LinkedIn URLs)")
+            return _run_molster(
+                input_rows,
+                results,
+                batch_idxs,
+                allow_fullenrich=use_fullenrich,
+            )
+        except MolsterFairUseExhausted as exc:
+            if fullenrich_idxs:
+                logger.info(
+                    "MoltSets quota exhausted; FullEnriching %s misses while waiting",
+                    len(fullenrich_idxs),
+                )
+            elif wait_for_molster_quota:
+                raise _quota_error(exc) from exc
+            else:
+                raise EmailEnrichmentError(
+                    str(exc),
+                    transient=True,
+                    retry_after_ts=exc.retry_after_ts,
+                ) from exc
 
-    try:
-        batch_idxs = molster_idxs[:MOLSTER_BATCH_SIZE]
-        progress(f"MoltSets + Bouncer batch ({len(batch_idxs)} LinkedIn URLs)")
-        return _run_molster(input_rows, results, batch_idxs)
-    except MolsterFairUseExhausted as exc:
-        if wait_for_molster_quota:
-            raise _quota_error(exc) from exc
-        raise EmailEnrichmentError(str(exc), transient=True, retry_after_ts=exc.retry_after_ts) from exc
+    if use_fullenrich:
+        fullenrich_idxs = _indexes(results, needs_fullenrich)
+        if fullenrich_idxs:
+            if not fullenrich_configured():
+                raise EmailEnrichmentError("Missing FULLENRICH_API_KEY in environment.")
+            if not bouncer_configured():
+                raise EmailEnrichmentError("Missing BOUNCER_API_KEY in environment.")
+            batch_idxs = fullenrich_idxs[:FULLENRICH_BATCH_SIZE]
+            progress(f"FullEnrich fallback ({len(batch_idxs)} contacts)")
+            return _run_fullenrich(
+                input_rows,
+                results,
+                batch_idxs,
+                existing_enrichment_id=None,
+                on_progress=on_progress,
+                on_fullenrich_started=on_fullenrich_started,
+                expected_total=total,
+            )
+
+    if _indexes(results, needs_molster) or (use_fullenrich and _indexes(results, needs_fullenrich)):
+        return StepResult(done=False, progress_item="Enrichment continuing")
+    return StepResult(done=True, progress_item="Enrichment complete")
 
 
 def _run_product_lookup(
@@ -216,6 +319,7 @@ def _run_product_lookup(
     indexes: list[int],
 ) -> StepResult:
     by_url: dict[str, Any] = {}
+    verification_cache: dict[str, dict[str, Any]] = {}
     found = 0
     for i in indexes:
         url = (input_rows[i].get("linkedin_url") or results[i].get("linkedin_url") or "").strip()
@@ -225,7 +329,13 @@ def _run_product_lookup(
         key = linkedin_match_key(url)
         if key not in by_url:
             try:
-                by_url[key] = find_existing_contact(url)
+                try:
+                    by_url[key] = find_existing_contact(
+                        url,
+                        verification_cache=verification_cache,
+                    )
+                except TypeError:
+                    by_url[key] = find_existing_contact(url)
             except SeeqeContactLookupError as exc:
                 logger.warning(
                     "Seeqe product email lookup failed for %s; continuing: %s",
@@ -239,7 +349,7 @@ def _run_product_lookup(
             results[i].update(
                 {
                     "work_email": contact.email,
-                    "email_status": "existing_product_email",
+                    "email_status": getattr(contact, "email_status", None) or "existing_product_email",
                     "all_work_emails": ", ".join(emails),
                     "status": STATUS_FOUND,
                     "email_source": "seeqe_product",
@@ -262,13 +372,19 @@ def _run_molster(
     input_rows: list[dict[str, Any]],
     results: list[dict[str, Any]],
     indexes: list[int],
+    *,
+    allow_fullenrich: bool = False,
 ) -> StepResult:
     url_to_indexes: dict[str, list[int]] = {}
     ordered_urls: list[str] = []
     for i in indexes:
         url = (input_rows[i].get("linkedin_url") or results[i].get("linkedin_url") or "").strip()
         if not url or not is_valid_linkedin_url(url):
-            results[i] = _mark_molster_miss(results[i], molster_status="no_linkedin_url")
+            results[i] = _mark_molster_miss(
+                results[i],
+                molster_status="no_linkedin_url",
+                allow_fullenrich=allow_fullenrich,
+            )
             continue
         key = linkedin_match_key(url)
         if key not in url_to_indexes:
@@ -307,12 +423,16 @@ def _run_molster(
             for i in url_to_indexes.get(key, []):
                 if email:
                     results[i] = _mark_molster_hit(
-                        results[i], hit, verification_by_email[email]
+                        results[i],
+                        hit,
+                        verification_by_email[email],
+                        allow_fullenrich=allow_fullenrich,
                     )
                 else:
                     results[i] = _mark_molster_miss(
                         results[i],
                         molster_status=hit.get("status") or "not_found",
+                        allow_fullenrich=allow_fullenrich,
                     )
 
     newly = [
@@ -330,20 +450,183 @@ def _run_molster(
     )
 
 
+def _candidate_list(fe_row: dict[str, Any]) -> list[dict[str, str]]:
+    raw = fe_row.get("candidates")
+    if isinstance(raw, list) and raw:
+        candidates: list[dict[str, str]] = []
+        for item in raw:
+            if not isinstance(item, dict):
+                continue
+            email = (item.get("email") or "").strip()
+            if email:
+                candidates.append(
+                    {"email": email, "status": (item.get("status") or "").strip()}
+                )
+        if candidates:
+            return candidates
+
+    candidates = []
+    primary = (fe_row.get("work_email") or "").strip()
+    if primary:
+        candidates.append(
+            {"email": primary, "status": (fe_row.get("email_status") or "").strip()}
+        )
+    seen = {item["email"].lower() for item in candidates}
+    for part in (fe_row.get("all_work_emails") or "").split(";"):
+        text = part.strip()
+        if not text:
+            continue
+        match = _EMAIL_WITH_STATUS.match(text)
+        if match:
+            email = match.group(1).strip()
+            status = match.group(2).strip()
+        else:
+            email, status = text, ""
+        if email and email.lower() not in seen:
+            seen.add(email.lower())
+            candidates.append({"email": email, "status": status})
+    return candidates
+
+
+def _apply_fullenrich_row(
+    row: dict[str, Any],
+    fe_row: dict[str, Any],
+    verification_by_email: dict[str, dict[str, Any]],
+) -> dict[str, Any]:
+    """Keep a FullEnrich address only when it is Valid and Bouncer-deliverable."""
+    updated = dict(row)
+    updated["job_title"] = fe_row.get("job_title") or updated.get("job_title") or ""
+    candidates = _candidate_list(fe_row)
+    valid = [item for item in candidates if is_valid_work_email_status(item["status"])]
+    skipped = [item for item in candidates if not is_valid_work_email_status(item["status"])]
+
+    kept: dict[str, str] | None = None
+    last_valid: dict[str, str] | None = None
+    last_verification: dict[str, Any] = {}
+    for candidate in valid:
+        email = candidate["email"]
+        if email not in verification_by_email:
+            try:
+                verification_by_email[email] = verify_email(email)
+            except BouncerError as exc:
+                raise EmailEnrichmentError(str(exc), transient=exc.transient) from exc
+        last_valid = candidate
+        last_verification = verification_by_email[email]
+        if str(last_verification.get("status") or "").strip().lower() == "deliverable":
+            kept = candidate
+            break
+
+    if kept:
+        updated.update(
+            {
+                "work_email": kept["email"],
+                "email_status": "deliverable",
+                "all_work_emails": kept["email"],
+                "status": STATUS_FOUND,
+                "email_source": "fullenrich",
+                "fullenrich_email": kept["email"],
+                "fullenrich_status": kept["status"],
+            }
+        )
+        return updated
+
+    audit = last_valid or (skipped[0] if skipped else None)
+    bouncer_status = str(last_verification.get("status") or "").strip().lower()
+    updated.update(
+        {
+            "work_email": "",
+            "email_status": bouncer_status if last_valid else "",
+            "all_work_emails": "",
+            "status": STATUS_NO_EMAIL,
+            "email_source": "",
+            "fullenrich_email": (audit or {}).get("email") or "",
+            "fullenrich_status": (audit or {}).get("status") or "",
+        }
+    )
+    if last_valid:
+        logger.info(
+            "Bouncer suppressed FullEnrich email: status=%s reason=%s",
+            bouncer_status or "missing",
+            last_verification.get("reason") or "",
+        )
+    elif skipped:
+        logger.info(
+            "FullEnrich email ignored because status %s is not Valid",
+            skipped[0].get("status") or "missing",
+        )
+    return updated
+
+
+def _run_fullenrich(
+    input_rows: list[dict[str, Any]],
+    results: list[dict[str, Any]],
+    indexes: list[int],
+    *,
+    existing_enrichment_id: str | None,
+    on_progress: ProgressCb | None,
+    on_fullenrich_started: FullEnrichStartedCb | None,
+    expected_total: int,
+) -> StepResult:
+    batch = []
+    for i in indexes:
+        src = input_rows[i]
+        batch.append(
+            {
+                "person": src.get("person") or results[i].get("person") or "",
+                "company": src.get("company") or results[i].get("company") or "",
+                "linkedin_url": src.get("linkedin_url") or results[i].get("linkedin_url") or "",
+                "row_index": str(i),
+                "original": src.get("original") or results[i].get("original") or {},
+                "_fieldnames": src.get("_fieldnames") or results[i].get("_fieldnames") or [],
+            }
+        )
+
+    def _started(enrichment_id: str) -> None:
+        if on_fullenrich_started:
+            on_fullenrich_started(enrichment_id, indexes)
+
+    try:
+        enriched = fullenrich_batch(
+            batch,
+            batch_label="Email finder FullEnrich fallback",
+            on_progress=on_progress,
+            expected_total=expected_total,
+            existing_enrichment_id=existing_enrichment_id,
+            on_enrichment_started=_started if not existing_enrichment_id else None,
+        )
+    except FullEnrichError as exc:
+        raise EmailEnrichmentError(str(exc), transient=exc.transient) from exc
+
+    verification_by_email: dict[str, dict[str, Any]] = {}
+    newly: list[dict[str, Any]] = []
+    for i, fe_row in zip(indexes, enriched):
+        results[i] = _apply_fullenrich_row(results[i], fe_row, verification_by_email)
+        newly.append(results[i])
+
+    found = sum(1 for row in newly if row.get("email_source") == "fullenrich")
+    logger.info("FullEnrich fallback step: %s contacts, %s deliverable emails", len(indexes), found)
+    return StepResult(
+        done=False,
+        newly_finished=newly,
+        progress_item=f"FullEnrich fallback {len(indexes)} contacts ({found} deliverable emails)",
+    )
+
+
 def enrich_contacts(
     rows: list[dict[str, str]],
     on_progress: Callable[[int, int, str], None] | None = None,
     *,
     wait_for_molster_quota: bool = False,
+    use_fullenrich: bool = False,
 ) -> list[dict[str, str]]:
-    """Enrich contacts via MoltSets and retain Bouncer-deliverable emails."""
+    """Enrich contacts and retain Bouncer-deliverable emails."""
     if not rows:
         return []
 
     results = [empty_result_row(row) for row in rows]
     total = len(rows)
     safety = 0
-    max_steps = max(8, total * 2)
+    max_steps = max(8, total * 4)
 
     while safety < max_steps:
         safety += 1
@@ -351,6 +634,7 @@ def enrich_contacts(
             rows,
             results,
             wait_for_molster_quota=wait_for_molster_quota,
+            use_fullenrich=use_fullenrich,
             on_progress=on_progress,
             expected_total=total,
         )

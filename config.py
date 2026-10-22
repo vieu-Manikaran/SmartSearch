@@ -40,8 +40,9 @@ class Settings(BaseSettings):
     # Bouncer (email deliverability verification)
     bouncer_api_key: Optional[str] = None
 
-    # Legacy offline FullEnrich scripts (not used by the deployed email service)
+    # FullEnrich fallback for the email finder. Calls run only after FULLENRICH_PASSWORD matches.
     fullenrich_api_key: Optional[str] = None
+    fullenrich_password: Optional[str] = None
 
     # Gmail / SMTP (LinkedIn finder result emails)
     smtp_host: str = "smtp.gmail.com"
@@ -116,3 +117,11 @@ if not (settings.seeqe_granite_api_key or "").strip():
     settings.seeqe_granite_api_key = _env_lookup(
         "SEEQE_GRANITE_API_KEY", "x-api-key", "X-API-KEY"
     ) or None
+if not (settings.molster_api_key or "").strip():
+    settings.molster_api_key = _env_lookup("MOLSTER_API_KEY") or None
+if not (settings.bouncer_api_key or "").strip():
+    settings.bouncer_api_key = _env_lookup("BOUNCER_API_KEY") or None
+if not (settings.fullenrich_api_key or "").strip():
+    settings.fullenrich_api_key = _env_lookup("FULLENRICH_API_KEY", "FullEnrich_API_Key") or None
+if not (settings.fullenrich_password or "").strip():
+    settings.fullenrich_password = _env_lookup("FULLENRICH_PASSWORD") or None

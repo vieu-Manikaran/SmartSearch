@@ -19,6 +19,15 @@ MIN_MAX_WAIT_SEC = 900  # 15 minutes (matches fE.md)
 SECONDS_PER_CONTACT = 90  # FullEnrich docs: ~30–90s per contact in a batch
 BATCH_SIZE = 50  # smaller batches finish sooner and are less likely to time out
 
+# FullEnrich "Valid" only. HIGH_PROBABILITY is "Probably valid" and is excluded.
+VALID_WORK_EMAIL_STATUSES = frozenset(
+    {
+        "deliverable",
+        "valid",
+        "valid & safe to send email",
+    }
+)
+
 
 class FullEnrichError(Exception):
     """Raised when the FullEnrich API returns an error."""
@@ -40,6 +49,39 @@ def split_person_name(full_name: str) -> tuple[str, str]:
 def is_valid_linkedin_url(url: str) -> bool:
     u = (url or "").strip().lower()
     return "linkedin.com/in/" in u or "linkedin.com/sales/" in u
+
+
+def is_valid_work_email_status(status: str) -> bool:
+    """True only for FullEnrich Valid. Probably valid and catch-all are not valid."""
+    return (status or "").strip().lower() in VALID_WORK_EMAIL_STATUSES
+
+
+def work_email_candidates(contact_info: dict[str, Any] | None) -> list[dict[str, str]]:
+    """Work emails in preference order, most probable first, de-duplicated."""
+    info = contact_info or {}
+    ordered: list[dict[str, Any]] = []
+    most_probable = info.get("most_probable_work_email") or {}
+    if isinstance(most_probable, dict):
+        ordered.append(most_probable)
+    for entry in info.get("work_emails") or []:
+        if isinstance(entry, dict):
+            ordered.append(entry)
+
+    seen: set[str] = set()
+    candidates: list[dict[str, str]] = []
+    for entry in ordered:
+        email = (entry.get("email") or "").strip()
+        key = email.lower()
+        if not email or key in seen:
+            continue
+        seen.add(key)
+        candidates.append(
+            {
+                "email": email,
+                "status": (entry.get("status") or "").strip(),
+            }
+        )
+    return candidates
 
 
 def _headers() -> dict[str, str]:
@@ -286,9 +328,15 @@ def enrich_batch(
         base = _result_base_row(row)
         if idx in results_by_index:
             mapped = results_by_index[idx]
-            output.append({**base, **_enrichment_fields(mapped)})
+            output.append(
+                {
+                    **base,
+                    **_enrichment_fields(mapped),
+                    "candidates": list(mapped.get("candidates") or []),
+                }
+            )
         else:
-            output.append({**base, **_empty_enrichment_fields("not_enriched")})
+            output.append({**base, **_empty_enrichment_fields("not_enriched"), "candidates": []})
     return output
 
 
@@ -350,13 +398,14 @@ def _empty_enrichment_fields(status: str = "not_enriched") -> dict[str, str]:
     }
 
 
-def _map_result_item(item: dict[str, Any]) -> dict[str, str] | None:
+def _map_result_item(item: dict[str, Any]) -> dict[str, Any] | None:
     custom = item.get("custom") or {}
     row_index = custom.get("row_index")
     if row_index is None:
         return None
 
     contact_info = item.get("contact_info") or {}
+    candidates = work_email_candidates(contact_info)
     most_probable = contact_info.get("most_probable_work_email") or {}
     work_email = (most_probable.get("email") or "").strip()
     email_status = (most_probable.get("status") or "").strip()
@@ -376,6 +425,7 @@ def _map_result_item(item: dict[str, Any]) -> dict[str, str] | None:
         "all_work_emails": all_emails,
         "job_title": job_title,
         "status": status,
+        "candidates": candidates,
     }
 
 
