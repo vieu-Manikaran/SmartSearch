@@ -6,7 +6,9 @@ import csv
 import io
 import json
 import logging
+import os
 import re
+import shutil
 import threading
 import time
 import uuid
@@ -151,6 +153,48 @@ def _write_json_cache(path: Path, payload: Any) -> None:
     tmp = path.with_suffix(path.suffix + ".tmp")
     tmp.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     tmp.replace(path)
+
+
+RAPIDAPI_CACHE_MAX_AGE_DAYS = float(os.environ.get("RAPIDAPI_CACHE_MAX_AGE_DAYS", "7"))
+VENDOR_MIN_FREE_MB = int(os.environ.get("VENDOR_MIN_FREE_MB", "150"))
+
+
+def prune_rapidapi_cache(
+    max_age_days: float = RAPIDAPI_CACHE_MAX_AGE_DAYS,
+    cache_dir: Path = RAPIDAPI_CACHE_DIR,
+) -> int:
+    """Delete cached RapidAPI person/company responses older than max_age_days.
+
+    Only the per-profile JSON files under <kind>/ are removed. checkpoint.json
+    (write-only stats) and in-flight .tmp files are left alone.
+    Returns the number of files removed.
+    """
+    if not cache_dir.is_dir():
+        return 0
+    cutoff = time.time() - max_age_days * 86400
+    removed = 0
+    for path in cache_dir.glob("*/*.json"):
+        try:
+            if path.stat().st_mtime < cutoff:
+                path.unlink()
+                removed += 1
+        except OSError:
+            continue
+    if removed:
+        logger.info("Pruned %s RapidAPI cache files older than %s days", removed, max_age_days)
+    return removed
+
+
+def ensure_free_disk(path: Path, min_free_mb: int = VENDOR_MIN_FREE_MB) -> None:
+    """Raise OSError(ENOSPC) with a readable message if the volume is nearly full."""
+    path.mkdir(parents=True, exist_ok=True)
+    free_mb = shutil.disk_usage(path).free / (1024 * 1024)
+    if free_mb < min_free_mb:
+        raise OSError(
+            28,
+            f"Not enough disk space on the server: {free_mb:.0f} MB free, "
+            f"need at least {min_free_mb} MB. Try again later or contact support.",
+        )
 
 
 def _now_iso() -> str:

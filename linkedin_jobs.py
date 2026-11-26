@@ -9,7 +9,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Callable
 
-from mailer import send_results_email
+from mailer import send_results_email, send_text_email
 from config import settings
 from rapidapi_linkedin_company import enrich_companies_batch
 from rapidapi_person_deep import resolve_profiles_batch, resolve_vanity_url
@@ -259,6 +259,22 @@ def _run_company_enrich(rows: list[dict], email: str, save_csv: Callable) -> tup
     return path, summary
 
 
+def _send_failure_email(email: str, job_name: str, error: Exception) -> None:
+    """Tell the requester a job failed, so they are not left waiting for a file that never comes."""
+    if not email:
+        return
+    subject = f"{job_name[:1].upper()}{job_name[1:]} failed — no results"
+    body = (
+        f"Your {job_name} job failed, so no results were produced.\n\n"
+        f"Error: {error}\n\n"
+        "Please resubmit the request. If it fails again, reply to this email "
+        "with the time you submitted it.\n"
+    )
+    ok, err = send_text_email(email, subject=subject, body=body)
+    if not ok:
+        logger.error("Failure notice to %s not sent: %s", email, err)
+
+
 def _worker(
     job_type: str,
     email: str,
@@ -376,6 +392,7 @@ def _worker(
             job = _job_for_type(job_type)
             job["error"] = str(exc)
             job["last_summary"] = f"Job failed: {exc}"
+        _send_failure_email(email, job_name, exc)
     finally:
         with _state_lock:
             job = _job_for_type(job_type)
@@ -487,24 +504,30 @@ def start_company_enrich_job(
 
 
 def _run_vendor_file(payload: dict, email: str, save_csv: Callable) -> tuple[str, str]:
-    from vendor_file.pipeline import run_batch
+    from vendor_file.pipeline import ensure_free_disk, prune_rapidapi_cache, run_batch
     from vendor_file.product_emails import split_existing_product_emails
 
     def _progress(current: int, total: int, current_item: str) -> None:
         _update_progress("vendor_file", current, total, current_item)
 
     out_dir = Path("data/vendor_file")
-    vendor_rows, _existing_path, existing_count = split_existing_product_emails(
-        payload["rows"],
-        uid=payload["uid"],
-        out_dir=out_dir,
-    )
-    summary = run_batch(
-        input_rows=vendor_rows,
-        uid=payload["uid"],
-        out_dir=out_dir,
-        progress=_progress,
-    )
+    # Free stale RapidAPI cache before writing, and fail early (with an email) if the volume is still full.
+    prune_rapidapi_cache()
+    try:
+        ensure_free_disk(out_dir)
+        vendor_rows, _existing_path, existing_count = split_existing_product_emails(
+            payload["rows"],
+            uid=payload["uid"],
+            out_dir=out_dir,
+        )
+        summary = run_batch(
+            input_rows=vendor_rows,
+            uid=payload["uid"],
+            out_dir=out_dir,
+            progress=_progress,
+        )
+    finally:
+        prune_rapidapi_cache()
     text = (
         f"Request ID {summary['uid']}: {summary['ok_rows']} vendor rows, "
         f"{existing_count} existing Seeqe emails returned separately, "

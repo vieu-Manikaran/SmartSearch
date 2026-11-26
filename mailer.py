@@ -42,12 +42,8 @@ def send_results_email(
     if not paths:
         return False, "No result files to attach."
 
-    from_addr = settings.smtp_from or settings.smtp_user
-    host = settings.smtp_host or "smtp.gmail.com"
-    port = int(settings.smtp_port or 587)
-
     msg = MIMEMultipart()
-    msg["From"] = from_addr
+    msg["From"] = settings.smtp_from or settings.smtp_user
     msg["To"] = to_email
     msg["Subject"] = subject
     msg.attach(MIMEText(body, "plain", "utf-8"))
@@ -60,12 +56,33 @@ def send_results_email(
         part.add_header("Content-Disposition", f'attachment; filename="{path.name}"')
         msg.attach(part)
 
+    ok, err = _smtp_send(msg, to_email)
+    if ok:
+        logger.info("Results email sent to %s (%s)", to_email, ", ".join(p.name for p in paths))
+    return ok, err
+
+
+def send_text_email(to_email: str, subject: str, body: str) -> tuple[bool, str | None]:
+    """Send a plain-text email with no attachments. Returns (ok, error_message)."""
+    if not smtp_configured():
+        return False, "Email is not configured (SMTP_USER, SMTP_PASSWORD, SMTP_FROM)."
+    msg = MIMEMultipart()
+    msg["From"] = settings.smtp_from or settings.smtp_user
+    msg["To"] = to_email
+    msg["Subject"] = subject
+    msg.attach(MIMEText(body, "plain", "utf-8"))
+    return _smtp_send(msg, to_email)
+
+
+def _smtp_send(msg: MIMEMultipart, to_email: str) -> tuple[bool, str | None]:
+    from_addr = settings.smtp_from or settings.smtp_user
+    host = settings.smtp_host or "smtp.gmail.com"
+    port = int(settings.smtp_port or 587)
     try:
         with smtplib.SMTP(host, port, timeout=60) as server:
             server.starttls()
             server.login(settings.smtp_user, settings.smtp_password)
             server.sendmail(from_addr, [to_email], msg.as_string())
-        logger.info("Results email sent to %s (%s)", to_email, ", ".join(p.name for p in paths))
         return True, None
     except smtplib.SMTPException as exc:
         logger.exception("SMTP failed sending to %s", to_email)
